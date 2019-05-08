@@ -8,8 +8,10 @@
 						"description": { "type": "string" },
 						"prefix": { "type": "string" },
 						"ce" : { "type" : "boolean" },
-						"se" : { "type" : "boolean" }
-						"niveau_id": {
+						"se" : { "type" : "boolean" },
+						"kern" : { "type" : "boolean" },
+						"keuze" : { "type" : "boolean" },
+						"niveau_id" : {
 							"allOf": [
 								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
