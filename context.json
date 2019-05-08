@@ -1,0 +1,146 @@
+{
+	"definitions": {
+		"examenprogramma_eindterm": {
+			"allOf": [ 
+				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" },
+				{
+					"properties": {
+						"description": { "type": "string" },
+						"prefix": { "type": "string" },
+						"ce" : { "type" : "boolean" },
+						"se" : { "type" : "boolean" }
+						"niveau_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
+							]
+						}
+					}
+				}
+			],
+		},
+		"examenprogramma_subdomein": {
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
+			"properties": {
+				"eindterm_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/examenprogramma_eindterm"
+							}
+						}
+					]
+				}
+			}
+		},
+		"examenprogramma_domein": {
+			"allOf": [
+				{
+					"$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base"
+				},
+				{
+					"properties": {
+						"examenprogramma_subdomein_id": {
+							"allOf": [
+								{
+									"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+								},
+								{
+									"items": {
+										"itemTypeReference": "#/definitions/examenprogramma_subdomein"
+									}
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"examenprogramma_vakleergebied": {
+			"allOf": [ 
+				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" },
+				{
+					"properties": {
+						"vak_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json#/definitions/vak" } }
+							]
+						}
+					},
+				}
+			],
+		},
+		"examenprogramma" : {
+			"allOf": [
+				{
+					"$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base"
+				},
+				{
+					"properties" : {
+						"ingangsdatum" : "string",
+						"url" : "string",
+						"versie" : "string",
+						"examenprogramma_domein_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/examenprogramma_domein" } }
+							]
+						},
+						"examenprogramma_vakleergebied_id" : {
+							"allOf": [
+								{
+									"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+								},
+								{
+									"items": {
+										"itemTypeReference": "#/definitions/examenprogramma_vakleergebied"
+									}
+								}
+							]
+						}
+						
+		}
+	},
+	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"examenprogramma_eindterm": {
+			"#file": "data/eindtermen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/examenprogramma_eindterm"
+			}
+		},
+		"examenprogramma_subdomein": {
+			"#file": "data/subdomeinen.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/examenprogramma_subdomein"
+			}
+		},
+		"examenprogramma_domein": {
+			"#file": "data/domeinen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/examenprogramma_domein"
+			}
+		},
+		"examenprogramma_vakleergebied": {
+			"#file": "data/vakleergebieden.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/examenprogramma_vakleergebied"
+			}
+		},
+		"deprecated": {
+			"#file": "data/deprecated.json",
+			"type" : "array"
+		}
+	},
+	"required": ["examenprogramma_vakleergebied","examenprogramma_domein","examenprogramma_subdomein","examenprogramma_eindterm"]
+}
