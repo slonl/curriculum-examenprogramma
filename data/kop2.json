@@ -1,0 +1,355 @@
+[
+	{
+		"id": "e625807f-aae1-4c47-87bd-2ffb42292237",
+		"prefix": "1.",
+		"title": "Werken aan vakoverstijgende thema’s",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"9f8060b7-690e-40b5-a565-873a12eede83",
+			"ad0d9a09-834b-4088-9e4b-9058fdd0f183",
+			"e94f48fe-6505-4be9-aa67-8bb51835a796",
+			"350b0f93-493b-4391-b267-a93229fbe3a4",
+			"76d80b52-17c3-4d55-a030-585dc77ba142",
+			"db08f498-947e-4cbc-bb20-02d74979712c",
+			"40800109-91f0-4796-bc40-52ae8d4a2dd5",
+			"2604fbe4-3093-4b20-baad-62b139e605ee"
+		]
+	},
+	{
+		"id": "af6de566-2986-40ae-9359-0096d6307bac",
+		"prefix": "2",
+		"title": "Leren uitvoeren",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"9abff946-93ac-480c-b508-6b76efcf6146",
+			"b74afe65-a569-46f5-8c9b-b6165dcbbdd6",
+			"0238274d-a5ce-4c07-9cf8-5eafcccd2483",
+			"764ca9c5-b99c-4a5e-aed2-aae721c5f2bb",
+			"48abbf92-f596-4529-a2e0-3633abcae3d0",
+			"79200f1c-a487-4943-b12e-f5c4c6664a22",
+			"b29ac6f7-da94-4266-adde-70ffe385d8e3"
+		]
+	},
+	{
+		"id": "d9a5ecbd-563f-4882-a490-bc808dd73307",
+		"prefix": "3",
+		"title": "Leren leren",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"9b7a4400-75f3-4bb1-9aa0-ebf9ae390a1b",
+			"9ce7df8d-44bf-4d01-86c4-015f6cd7b77f",
+			"e8e1fcab-378b-4f85-aed5-f5a80e60253b",
+			"ff73fc5d-b07d-402a-a843-2576874cfb46",
+			"57d1b876-7922-44dd-82d1-d1ecf654c96c",
+			"5398d3ea-4dab-4c49-9cc1-37f3254c0fac",
+			"81b31f9f-3bac-42c6-aeb9-6724a4394b27"
+		]
+	},
+	{
+		"id": "d0fa5362-b124-44b2-b549-cce54e12dcd1",
+		"prefix": "4",
+		"title": "Leren communiceren",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"8cc29807-653a-4318-afb9-d0ac810837f0",
+			"1f40ba8b-dc80-4776-adb6-11947149d920",
+			"4b93677f-7649-45ff-b2e2-550a4878e4b6",
+			"b1b78fec-da7d-4fc4-9408-71742be7aab3",
+			"0ad279cb-468d-46a8-abec-6b7cb1f45edf",
+			"e01623d2-41d9-4cbe-8850-5fe4f074634f",
+			"39a808ae-8995-4102-9a80-db092e994b25"
+		]
+	},
+	{
+		"id": "51cc5bbf-ecea-4014-9de0-84fbccf213c1",
+		"prefix": "5",
+		"title": "Leren reflecteren op het leer- en werkproces",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"82eb1869-4530-45fb-8479-165d016abc98",
+			"14b313d0-5188-41d9-8c22-7b6a425143f2",
+			"cef54650-d38e-430d-9364-572d091dae0a"
+		]
+	},
+	{
+		"id": "c61abd39-7c3c-4875-a5b0-9bc35a7b65d7",
+		"prefix": "6",
+		"title": "Leren reflecteren op de toekomst",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"examenprogramma_body_id": [
+			"66f92f74-2007-4698-9847-9c93ea64013b",
+			"13c9b0ab-d6a5-4d55-8e51-707e4341577b",
+			"44afd902-33bb-4758-a8ed-13fa1cf384f1",
+			"990fdb92-ec6d-4812-b031-3ff5fdfe1080",
+			"ce01a395-548d-4c28-8214-b67e63cded27",
+			"0152b14f-35af-42d2-b5f3-b835b2ecddd6",
+			"bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
+			"ea4a0513-da7e-4249-8190-97cc2a7268b9"
+		]
+	},
+	{
+		"id": "79c40008-123d-4e6d-8416-07957483fb44",
+		"title": "Het centraal examen",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"24f93b44-b3cc-4139-b3f9-37eeed477090",
+			"b5c6565a-770f-4d07-939a-74c364b9e55f",
+			"6dd9ec74-0a25-4a4e-9093-9bc812064b27",
+			"09e376c9-04f4-4cb4-9d03-f4ee3ceac7dd",
+			"a0815b22-3cff-4a69-a6ce-779c8ddf00e3",
+			"61333081-161b-4837-98fa-ad122e9f4e49",
+			"31f19e47-45de-41d3-8846-d7a75aab0fc1",
+			"6153e7c1-5d16-416e-8974-f0448d069f4d",
+			"9082e110-94b5-4813-93a7-d5001b797367",
+			"f1d3c2a7-d1c8-42e9-b64d-15fcd71c604d",
+			"a1877d94-c144-4ede-b35d-8b80430e2ac8",
+			"4e4a0215-3567-4717-b479-600d7121bea9",
+			"3a3c6740-b90a-4ea3-97eb-c92340086660",
+			"5f118610-2789-486f-aaf1-7abc326f2201",
+			"31fd7ecb-fa29-4490-b31f-47b191e69ce6",
+			"ecb24953-c5d3-440c-af7f-e0249dbcc8c0",
+			"2adaa6bf-5e7a-4256-b447-7bdd77257e33",
+			"b3f40b3b-2b7d-4eec-9dae-1ddc7da0bfb8",
+			"fa1c4e93-d5d4-48b3-9f60-9271de01c79b",
+			"bcbf47c8-79dd-46fe-898b-dc1b46f88be1",
+			"7fa2b122-c992-41bc-8a4d-f7582dcfd628",
+			"c2048c49-51d1-4049-bdd1-8d0e9fc577fa",
+			"c596061d-9f94-457f-abfd-17f0b04c3576",
+			"92873e14-98bb-4e60-a9d0-d944d41d048a",
+			"3e9b5313-3f7e-4e41-a43e-4dab2d323439",
+			"62797aa7-6169-41f5-bd42-ee2e88d5d6ec",
+			"14f2db20-b57a-4d97-ac7a-127b0766bbee",
+			"43a2ebbd-fd16-450f-a25b-6c31e979e9e1",
+			"6e11c1c9-ffa0-425e-bb5c-a01c0b00cf3f",
+			"18ce2124-8b5d-4fe7-aa1f-84d0cb513a96",
+			"dd36356f-8b76-4a3b-8a30-7ef9547d33f9",
+			"b7695e3f-2df6-413f-ad96-8eed8e3200dc",
+			"9e37cb08-70d5-4c30-82e2-5ad3a24afc7b",
+			"c733ede5-a11b-4e49-ad6e-78b91b37a21f"
+		],
+		"examenprogramma_kop4_id": []
+	},
+	{
+		"id": "fe873305-86eb-40cb-9cf8-60e6afa922ad",
+		"title": "Algemene vaardigheden",
+		"tag_id": [
+			"f02be519-fa79-45e5-aed4-1f9b65dfd9b2"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "278f18d7-e378-4f1d-b68d-f31424520663",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"tag_id": [
+			"945a36e3-96ef-4ba1-9bd5-c17a6867f05f"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "509bac28-47ee-4787-93d0-26f3fec05ef1",
+		"title": "Scheikunde - specifieke vaardigheden",
+		"tag_id": [
+			"0e958550-ab2a-4622-bdd4-043d99bcb7de"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "16a92d2a-7b27-48a2-adb2-ae5d8100e837",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"tag_id": [
+			"b3b97b49-b518-4e7f-90f9-74467c1b163f"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "da69e662-da91-482b-aa48-f20ab8b12c8e",
+		"title": "Scheikunde - specifieke vaardigheden",
+		"tag_id": [
+			"261a2fa2-fd58-4788-9e16-760a97908f8e"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "7e1d0b4d-e2e3-42f4-96df-e4f971791e18",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"5d7c258f-f654-444f-bf8a-46124f9ef7f1",
+			"cbf555b8-a410-4f9a-9d36-b0afeabb5196",
+			"455112e3-94ff-42d8-bab0-a2fa5a8a542f",
+			"af2be69e-aaf4-452e-83f6-131d966f9a8f",
+			"035a621e-e269-4014-84dc-69cfd20699d5"
+		]
+	},
+	{
+		"id": "7ef6f356-87b6-4665-97e4-2a401e068743",
+		"prefix": "1.",
+		"title": "Werken aan vakoverstijgende thema’s",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"72948e7f-0b7d-451d-93d3-ff3f0f054c14",
+			"8c780732-3438-47c1-add4-6f5de9b1f5a8",
+			"fe572de9-9617-475b-ba80-ca5e184fc6cd",
+			"6e756cc4-cb72-4877-a9c7-07e3b4ab0925",
+			"2bc91cf5-bfe9-48b1-82ff-dc0e63a0e63d",
+			"8b179af0-93d3-4865-8c4b-5e9a496537b2",
+			"c714ff1c-497e-4312-b77e-d82f133d16e1",
+			"4b4750de-02fd-4275-b98a-e8bb1c97039e"
+		]
+	},
+	{
+		"id": "87cb94ad-f581-44c0-a865-45a8d671d2d1",
+		"prefix": "2",
+		"title": "Leren uitvoeren",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"a96dd8e1-cb59-44ca-a498-ea94048a7be4",
+			"ad90e46b-fb35-457f-8483-458289157fb4",
+			"13aec674-f5ad-4256-afa0-d6a3e2926d99",
+			"9180b538-594b-4709-b70a-15257e68baaf",
+			"c7413ec8-6c25-4155-95b9-d75982d850ad",
+			"eff75c3f-762e-4c35-980b-129d3c6b611e",
+			"116cd4e1-c4de-45d4-aca0-afa8ad8dd685"
+		]
+	},
+	{
+		"id": "bcceb596-76fb-43cc-8b9d-8fc3ae3378ac",
+		"prefix": "3",
+		"title": "Leren leren",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"98011d68-c553-492a-9c5a-656ffaa0fba5",
+			"72828833-4a55-4b8a-a9df-cbcb96a2f8f4",
+			"9d359f9e-d4c5-4b75-afae-b7b46f7a8f66",
+			"5cccd327-ffab-4d3f-b8bb-c6727e61278d",
+			"84cf017f-4801-48eb-bbe2-43391797e131",
+			"d4f2a861-dccf-4821-ba2b-92be4630c4e4",
+			"4a6bba08-8a10-4aa2-a48c-df333e64dc31"
+		]
+	},
+	{
+		"id": "b3062418-747b-4d03-bb1a-cc3535d5af7b",
+		"prefix": "4",
+		"title": "Leren communiceren",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"f973913d-706e-4521-b0f0-f04237548167",
+			"983051f9-1069-4e88-9d4c-f92bd3fde3ed",
+			"770546ae-91df-45ad-9e63-3835f6f50574",
+			"4d4203e9-ca9e-4ebb-9ecd-b766c5c5d7f9",
+			"734d824f-5beb-4a2c-89b6-9ab2a7f0aef7",
+			"f70c081a-15f8-435c-86e6-d814188c5577",
+			"85dd9cce-d3e2-4927-809c-5aa969420e16"
+		]
+	},
+	{
+		"id": "bbb07cbf-c46f-438b-849b-369626a05432",
+		"prefix": "5",
+		"title": "Leren reflecteren op het leer- en werkproces",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"a033b7fa-862f-468c-9ead-0a50f2ea5828",
+			"19aea08a-2c49-4183-9dc7-321a5c924bff",
+			"c21d2a67-69e8-4662-9219-6e49bf7b9942"
+		]
+	},
+	{
+		"id": "0d672400-5585-44a6-8c66-60c778012d70",
+		"prefix": "6",
+		"title": "Leren reflecteren op de toekomst",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"66f92f74-2007-4698-9847-9c93ea64013b",
+			"27df4d47-d5e3-49cd-9c90-fd6771755c69",
+			"50a74c08-d473-4b6b-af29-94f094e8e974",
+			"0922323a-7995-4d76-bdc0-dba746691ec0",
+			"d796c51e-28e0-42fd-adfb-f22563c98dc9",
+			"13b34797-52af-4ffd-90f0-a8014ccce947",
+			"66ef2e8f-c555-4293-92ac-41843e4ac191",
+			"f8f66c69-2625-4952-8a71-ecc85e442eb1"
+		]
+	},
+	{
+		"id": "3f2d38a1-e59c-43c7-8052-3d3ce529bc9c",
+		"title": "Het centraal examen",
+		"tag_id": [
+			"219e85b5-466e-446a-b29a-204bd951c05b"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"6b053d44-e6ad-455e-b33e-169142fa6ece",
+			"69da53a8-4ca2-472a-abe7-d49746aee6c0",
+			"16956cce-5b65-4e3d-ba66-a3c3a272cbf3"
+		]
+	},
+	{
+		"id": "4dfb25f0-53e1-4b9a-8e3e-8066f400aa8a",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		],
+		"examenprogramma_kop3_id": [
+			"404a64a1-9880-4495-8b00-a4e77f5e7269"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "45b20497-855f-43a0-9fb1-d7a54ff87c27",
+		"title": "Het centraal examen",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"05820552-d56d-41ab-99ac-f4a3d3744c10",
+			"e6af7d85-be26-4e53-aeab-03c4859a1adc",
+			"1a7154f7-1e1c-4e71-b052-6e8d9c0031d3"
+		]
+	}
+]

@@ -1,0 +1,181 @@
+[
+	{
+		"id": "b7486164-e607-4527-b598-9688aa1fcda8",
+		"title": "Daarnaast heeft het schoolexamen betrekking op:",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		],
+		"examenprogramma_body_id": [
+			"b31349e0-4c38-4292-aa25-dc86415409e7",
+			"3e7c227d-5011-40a5-a1a4-ce1d69c27d3f",
+			"c99da807-6e03-42fe-9fab-4a36e3aa355a"
+		]
+	},
+	{
+		"id": "7d3881ee-5c3a-42fb-9529-a6eac56e7b5f",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7",
+			"635a7c33-821a-4a84-ac6a-f6879ad794f6",
+			"b84d3359-c0d0-4fd4-91e0-0420815e4f16",
+			"76f7c22b-e642-440b-a1ae-e6dc3b2807df",
+			"909b2fd9-7df7-49ff-85ec-e152d31a4783"
+		]
+	},
+	{
+		"id": "3a3ddbd8-56a6-4474-9ad8-ec861d037bd8",
+		"title": "Examenstof:",
+		"tag_id": [
+			"c673c957-0b9c-4e98-b413-2b9d84a459fd",
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "a4ac2fe0-e5c0-43d0-970f-119efa55619c",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		],
+		"examenprogramma_body_id": [
+			"adc513e2-f3a4-4bc1-9d0b-0fbf1041ab96",
+			"3364872e-6cda-49f3-a9fb-b2db22a316fe",
+			"ce6b47b4-8775-48af-8a50-8e569977ac65",
+			"1b7b2238-3c71-44f9-bb91-c95aab137641",
+			"85e86c6f-429a-4954-8c4f-d5104d8b64a6",
+			"04a8f984-7d70-4d82-99fa-4ded35d84ec6",
+			"2c971483-7349-4bec-8ea2-499bf09ed81b",
+			"4f94513b-15b7-491b-9cd8-0ed5874e79ac",
+			"e352e04c-c8f8-40f3-92db-1d31a7027401",
+			"c5f9d959-5c5e-4561-9a7b-42462ba053da",
+			"781ef9ca-5b76-4720-a814-5bcefe208318",
+			"9d3162c6-2c53-4a41-9cb3-463dd52b8859",
+			"cb84be7e-cad6-44fa-9d37-99bfe5608490"
+		],
+		"examenprogramma_kop4_id": []
+	},
+	{
+		"id": "f7184758-bd02-4ae5-b844-46159e549c7e",
+		"title": "Algemene vaardigheden (profieloverstijgend niveau)",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "489a04db-1059-45aa-a393-23dc06ad7c73",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "6f93516c-6eea-4c80-b9f6-a9d0483e63ed",
+		"title": "NLT-specifieke vaardigheden",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "0120fcbe-4728-4e05-b214-5894df86a69d",
+		"title": "Algemene vaardigheden (profieloverstijgend niveau)",
+		"tag_id": [
+			"896921a2-1c4e-46fe-b317-eedee3cabff6"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "42a5cb0a-911d-46b9-8f67-50e0d52caca9",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"tag_id": [
+			"eb48afcc-ac3f-4b02-bdc9-2a860e996fda"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "ccc21798-8345-4c0d-af9a-589f8ec4f2bc",
+		"title": "NLT-specifieke vaardigheden",
+		"tag_id": [
+			"a82305c2-ec1f-4353-a7d6-63894ecf8838"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "361959b2-1691-42ef-860c-c989d5fa936e",
+		"title": "Algemene vaardigheden",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "7afae99f-db49-4ea3-89d6-ad16ebc9e980",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "f3ee8c12-1cbc-411b-8dd0-357a7b64911b",
+		"title": "Natuurkunde - specifieke vaardigheden",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "53ede2fa-2845-48e8-aa81-def882f93f7c",
+		"title": "Algemene Vaardigheden",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "34609f44-6aaa-4ddf-bcb3-ff71a81a44ed",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "31be41c7-7800-4726-bf23-c81157ebbbe1",
+		"title": "Natuurkunde - specifieke vaardigheden",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "10cce863-e6b1-4838-90d2-1fd10eaf3278",
+		"title": "Het schoolexamen:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		],
+		"examenprogramma_body_id": [
+			"ce29bf8d-cf26-418a-9a07-494c3233d75b",
+			"028b11b5-8006-402d-8fdc-e2bff8e5f757",
+			"e3b48add-9a6e-44c9-b05c-a854844d23c9"
+		]
+	},
+	{
+		"id": "0a8fa2b7-1e5d-46c0-9a6b-16f13e1c2ce3",
+		"prefix": "BI/K/1",
+		"title": "Examenstof:",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "31261639-a477-4abc-8a85-af4710fa3518",
+		"title": "De examenstof",
+		"tag_id": [
+			"c673c957-0b9c-4e98-b413-2b9d84a459fd"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "279d4d59-e33a-4495-886d-be73fddc25a7",
+		"prefix": "2.",
+		"title": "Aardrijkskunde vmbo",
+		"examenprogramma_body_id": [
+			"4f20804e-482d-42e2-ad53-8da246fea20e",
+			"cfff1c12-5e7a-4147-8c9e-3e6492dfde80",
+			"92ab6081-60d4-4466-8532-52147c9aa5e0",
+			"7f2f5b48-4112-4863-8c76-ce8fb87fb289"
+		]
+	},
+	{
+		"id": "e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		],
+		"examenprogramma_body_id": [
+			"421a3831-11da-4c89-b566-b236af75d2cd",
+			"e653076d-f71e-457c-ad45-0c6281e5a21b",
+			"3ee8e911-7098-46df-8b17-852d0f6bc615"
+		]
+	}
+]

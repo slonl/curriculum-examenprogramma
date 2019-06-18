@@ -1,0 +1,136 @@
+[
+	{
+		"id": "177dee42-5a35-436c-8060-70084aba4958",
+		"prefix": "2.",
+		"title": "Leeswijzer",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		],
+		"examenprogramma_kop4_id": [
+			"b7486164-e607-4527-b598-9688aa1fcda8",
+			"7d3881ee-5c3a-42fb-9529-a6eac56e7b5f"
+		],
+		"examenprogramma_body_id": [
+			"31f44d66-0715-491b-9362-68a7b4265b95",
+			"f718d87c-8e21-4d88-8e36-49db374da446",
+			"c9d1facd-d95e-4b05-8ecc-8151e4f3d91f",
+			"283bf714-8767-49ae-84a9-c4c562231541",
+			"a05f10a4-fe9d-4aa6-8d62-c02065eabcc9",
+			"ec9d036e-1953-4d6b-9d64-26c8b1e30571",
+			"335bbf1c-90a8-4f76-8fe9-4e6f77f50296",
+			"151cce95-f003-4102-9a0d-4a325d1a42ae",
+			"880dff5b-042e-460e-bf65-15a9b8fb8311",
+			"e5e87167-bc97-4493-a35d-62e28ef47d89",
+			"e6cacd57-3cda-42fa-b3e6-dcc0875c1ce3",
+			"3d351cf1-18ae-49c1-afc2-2e57197eac0b",
+			"a28e8d64-57f6-457b-9fed-dd65ed055cd5"
+		]
+	},
+	{
+		"id": "6a08952f-7124-464f-9bdf-6009d3ec41ab",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b",
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		],
+		"examenprogramma_kop4_id": [
+			"a4ac2fe0-e5c0-43d0-970f-119efa55619c",
+			"4792d248-d038-449c-98b4-c7c5b5c1b865"
+		],
+		"examenprogramma_body_id": [
+			"a4ac2fe0-e5c0-43d0-970f-119efa55619c",
+			"6a5a6795-aaa2-4851-ad67-45b843bb06e9",
+			"781ef9ca-5b76-4720-a814-5bcefe208318",
+			"9b59674c-c6a7-4a6f-beb1-8bc359410061",
+			"4083a021-a6d9-455e-91fe-fe735449cd8b",
+			"9504dffd-fe8f-44e0-b956-d10b8ba27ee5",
+			"9883da12-e0d8-49e5-85b4-1a0c219920e9",
+			"c7a44286-3b7f-42fc-bcf9-80a4965d3e9f",
+			"4792d248-d038-449c-98b4-c7c5b5c1b865",
+			"ce6b47b4-8775-48af-8a50-8e569977ac65",
+			"2e6d84c4-cb75-4e47-a218-cbbf48740d5c",
+			"2f1ce12b-5778-4c2d-b8be-d3fe0f9e2fb9",
+			"2eede2ec-95a3-4a6e-b2af-66056cd08d18",
+			"3cd3a755-9345-467b-8c1d-f393bf0935cb",
+			"7e256528-5f85-4972-9eea-1a23c841bb23",
+			"be6fcd2b-7607-42b5-82ae-53eb3fa113e8",
+			"9262ace8-04d0-450b-989b-c17b8d14d1e0",
+			"59f85843-775f-40c1-9812-b24031fb7954",
+			"46e907a9-661e-493c-95da-e1ab00d85932",
+			"9ff4839e-000a-421d-bd6f-3cdc1702d30f",
+			"e01b89b4-de19-4790-8842-bb99ed79db58"
+		],
+		"examenprogramma_kop3_id": [
+			"a4ac2fe0-e5c0-43d0-970f-119efa55619c"
+		]
+	},
+	{
+		"id": "f0bbad6e-e212-424e-8f0f-45556568b21d",
+		"title": "De examenstof",
+		"tag_id": [
+			"c673c957-0b9c-4e98-b413-2b9d84a459fd",
+			"d902a025-b22a-4b47-b9b3-925859fca61b",
+			"676ea84d-7d77-424c-8591-498e5de665b4"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "c7ad5143-75fc-442a-83a6-1797390bc4e1",
+		"title": "De examenstof",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "3f95a576-089d-4802-b53f-91e5dcba6a5e",
+		"title": "Het centraal examen:",
+		"tag_id": [
+			"5a7adcc0-87fa-43fe-96bb-dca01608b2ce"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"2151255d-fd6a-489d-b678-38b9bca5d6de"
+		]
+	},
+	{
+		"id": "656cef9c-92ce-4bf3-92cb-14890b6f84c7",
+		"title": "Leeswijzer",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		],
+		"examenprogramma_kop4_id": [
+			"a05f10a4-fe9d-4aa6-8d62-c02065eabcc9",
+			"7d3881ee-5c3a-42fb-9529-a6eac56e7b5f"
+		],
+		"examenprogramma_body_id": [
+			"a22844e4-8da0-4eb4-b385-12cea5388d3b",
+			"66338ca6-e23c-4e3a-b468-7997e76166ad",
+			"211db98f-e659-4821-be9c-126c0c7ad608",
+			"77d9eb74-a455-4689-b33f-840cc5d69f26"
+		]
+	},
+	{
+		"id": "404a64a1-9880-4495-8b00-a4e77f5e7269",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"270b6799-e32d-4d61-a157-951df4809db4",
+			"e053a227-b2a1-4524-8db7-e5df8de0eed5",
+			"b531fd20-2edb-412f-9132-23013274e5fe"
+		]
+	},
+	{
+		"id": "a9234709-b275-4179-a40b-2c376f6f2f67",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		],
+		"examenprogramma_kop4_id": [
+			"e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b"
+		],
+		"examenprogramma_body_id": []
+	}
+]

@@ -1,0 +1,2549 @@
+[
+	{
+		"id": "216d64e0-9a41-4e75-b08f-15e7343980c9",
+		"title": "De zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo gelden, zijn:",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "9f8060b7-690e-40b5-a565-873a12eede83",
+		"prefix": "1.1",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het kennen van en omgaan met eigen en andermans normen en waarden.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "ad0d9a09-834b-4088-9e4b-9058fdd0f183",
+		"prefix": "1.2",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het onderkennen van en omgaan met de verschillen tussen de seksen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "e94f48fe-6505-4be9-aa67-8bb51835a796",
+		"prefix": "1.3",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed de relatie tussen de mens en de natuur en het concept van duurzame ontwikkeling.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "350b0f93-493b-4391-b267-a93229fbe3a4",
+		"prefix": "1.4",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het functioneren als democratisch burger in een multiculturele samenleving, ook in internationaal verband.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "76d80b52-17c3-4d55-a030-585dc77ba142",
+		"prefix": "1.5",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het op een voor henzelf en anderen veilige manier functioneren in de beroepspraktijk en in eigen omgeving.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "db08f498-947e-4cbc-bb20-02d74979712c",
+		"prefix": "1.6",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van technologische ontwikkeling, waaronder met name moderne informatie- en communicatietechnologie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "40800109-91f0-4796-bc40-52ae8d4a2dd5",
+		"prefix": "1.7",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van betaalde en onbetaalde arbeid.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "2604fbe4-3093-4b20-baad-62b139e605ee",
+		"prefix": "1.8",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de verworvenheden en mogelijkheden van kunst en cultuur, waaronder ook de media.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "9abff946-93ac-480c-b508-6b76efcf6146",
+		"prefix": "2.1",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen. Het gaat daarbij om Nederlandse en Engelse teksten lezen en beluisteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "b74afe65-a569-46f5-8c9b-b6165dcbbdd6",
+		"prefix": "2.2",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen. Het gaat daarbij om schriftelijke en mondelinge teksten produceren in correct Nederlands.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "0238274d-a5ce-4c07-9cf8-5eafcccd2483",
+		"prefix": "2.3",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om informatie in verschillende gegevensbestanden opzoeken, selecteren, verzamelen en ordenen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "764ca9c5-b99c-4a5e-aed2-aae721c5f2bb",
+		"prefix": "2.4",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om de rekenvaardigheden hoofdrekenen, rekenregels gebruiken, meten en schatten toepassen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "48abbf92-f596-4529-a2e0-3633abcae3d0",
+		"prefix": "2.5",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om voldoen aan eisen van milieu, hygiëne, gezondheid en ergonomie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "79200f1c-a487-4943-b12e-f5c4c6664a22",
+		"prefix": "2.6",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om doelmatig en veilig omgaan met materialen, gereedschappen en apparatuur.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "b29ac6f7-da94-4266-adde-70ffe385d8e3",
+		"prefix": "2.7",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om computervaardigheden.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "9b7a4400-75f3-4bb1-9aa0-ebf9ae390a1b",
+		"prefix": "3.1",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om informatie beoordelen op betrouwbaarheid, representativiteit en bruikbaarheid, informatie verwerken en benutten.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "9ce7df8d-44bf-4d01-86c4-015f6cd7b77f",
+		"prefix": "3.2",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het aanleren van nieuwe kennis en vaardigheden.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "e8e1fcab-378b-4f85-aed5-f5a80e60253b",
+		"prefix": "3.3",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het begrijpen van mondelinge en schriftelijke informatie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "ff73fc5d-b07d-402a-a843-2576874cfb46",
+		"prefix": "3.4",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om op een doordachte wijze keuzeproblemen oplossen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "57d1b876-7922-44dd-82d1-d1ecf654c96c",
+		"prefix": "3.5",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om een eenvoudig bedrijfsmatig, natuurwetenschappelijk of maatschappelijk vraagstuk planmatig onderzoeken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "5398d3ea-4dab-4c49-9cc1-37f3254c0fac",
+		"prefix": "3.6",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "81b31f9f-3bac-42c6-aeb9-6724a4394b27",
+		"prefix": "3.7",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "8cc29807-653a-4318-afb9-d0ac810837f0",
+		"prefix": "4.1",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om elementaire sociale conventies in acht nemen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "1f40ba8b-dc80-4776-adb6-11947149d920",
+		"prefix": "4.2",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om overleggen en samenwerken in teamverband.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "4b93677f-7649-45ff-b2e2-550a4878e4b6",
+		"prefix": "4.3",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om passende gesprekstechnieken hanteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "b1b78fec-da7d-4fc4-9408-71742be7aab3",
+		"prefix": "4.4",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om verschillen in meningen en opvattingen benoemen en hanteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "0ad279cb-468d-46a8-abec-6b7cb1f45edf",
+		"prefix": "4.5",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om culturele en seksegebonden verschillen tussen mensen benoemen en hanteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "e01623d2-41d9-4cbe-8850-5fe4f074634f",
+		"prefix": "4.6",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om het omgaan met formele en informele afspraken, regels en procedures.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "39a808ae-8995-4102-9a80-db092e994b25",
+		"prefix": "4.7",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om zichzelf en eigen werk presenteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "82eb1869-4530-45fb-8479-165d016abc98",
+		"prefix": "5.1",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een leer- en/of werkplanning maken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "14b313d0-5188-41d9-8c22-7b6a425143f2",
+		"prefix": "5.2",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om het leer- en/of werkproces bewaken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "cef54650-d38e-430d-9364-572d091dae0a",
+		"prefix": "5.3",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een eenvoudige product- en procesevaluatie maken en hieruit conclusies trekken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "66f92f74-2007-4698-9847-9c93ea64013b",
+		"prefix": "6.1",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het inventariseren van de eigen mogelijkheden en interesses.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "13c9b0ab-d6a5-4d55-8e51-707e4341577b",
+		"prefix": "6.2",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het onderzoeken van de mogelijkheden voor verdere studie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "44afd902-33bb-4758-a8ed-13fa1cf384f1",
+		"prefix": "6.3",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het zicht krijgen op beroepen, de beroepspraktijk en actuele ontwikkelingen daarbinnen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "990fdb92-ec6d-4812-b031-3ff5fdfe1080",
+		"prefix": "6.4",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de rol en het belang van op school geleerde kennis, inzicht en vaardigheden voor het maatschappelijk leven, dagelijks leven, vrije tijd, vrijwilligerswerk.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "ce01a395-548d-4c28-8214-b67e63cded27",
+		"prefix": "6.5",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de kenmerken van de arbeidsmarkt op dit moment en in de nabije toekomst.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "0152b14f-35af-42d2-b5f3-b835b2ecddd6",
+		"prefix": "6.6",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de organisatie van branches en bedrijven.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
+		"prefix": "6.7",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het beoordelen van de eigen mogelijkheden en interesses in het licht van vervolgstudie, beroepen en maatschappelijk functioneren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "ea4a0513-da7e-4249-8190-97cc2a7268b9",
+		"prefix": "6.8",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het kunnen maken van een verantwoorde keuze voor een vervolgopleiding.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "31f44d66-0715-491b-9362-68a7b4265b95",
+		"title": "Hieronder worden de examenprogramma’s per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "f718d87c-8e21-4d88-8e36-49db374da446",
+		"title": "Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met CE.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "c9d1facd-d95e-4b05-8ecc-8151e4f3d91f",
+		"title": "Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden).",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "b31349e0-4c38-4292-aa25-dc86415409e7",
+		"prefix": "1.",
+		"title": "ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg;",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "3e7c227d-5011-40a5-a1a4-ce1d69c27d3f",
+		"prefix": "2.",
+		"title": "indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "c99da807-6e03-42fe-9fab-4a36e3aa355a",
+		"prefix": "3.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "283bf714-8767-49ae-84a9-c4c562231541",
+		"title": "Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "ef6a3a67-ebc5-4413-a69c-260536b56822",
+		"prefix": "1.",
+		"title": "Metaaltechniek, elektrotechniek, installatietechniek, instalektro, metalektro (met als codering voor het gezamenlijke CE: MEI)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "4f051d86-dcb7-449b-80bf-cef348001a6e",
+		"prefix": "2.",
+		"title": "Uiterlijke verzorging, verzorging, zorg-en-welzijn-breed (met als codering voor het gezamenlijke CE: ZWG)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "d7a6100d-221d-4370-aeb7-481f35af0337",
+		"prefix": "3.",
+		"title": "Consumptief-breed, consumptief-horeca, consumptief-bakken (met als codering voor het gezamenlijke CE: COG)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "54c121b3-20f1-4c9d-bb41-1f80d6aceeb7",
+		"prefix": "4.",
+		"title": "Administratie, handel en administratie, handel en verkoop, mode en commercie (met als codering voor het gezamenlijke CE: HAV).",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "c423c9b6-61b5-43f8-8fc5-d8b39cba9d60",
+		"prefix": "A.",
+		"title": "Domein A Vaardigheden",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45",
+			"fb6abea8-f388-4ac8-a447-bae1f76829af"
+		]
+	},
+	{
+		"id": "809b8963-887c-4420-be2c-6403a39d7aea",
+		"prefix": "B.",
+		"title": "Domein B Kansrekening en statistiek"
+	},
+	{
+		"id": "668de8e2-4268-4867-94b2-6ea00b95da9b",
+		"prefix": "C.",
+		"title": "Domein C Dynamische systemen"
+	},
+	{
+		"id": "45a06302-1665-4727-9031-c9841302aefb",
+		"prefix": "D.",
+		"title": "Domein D Meetkunde"
+	},
+	{
+		"id": "28e88255-ff30-416a-b169-ef5c02c9f4c2",
+		"prefix": "E.",
+		"title": "Domein E Complexe getallen"
+	},
+	{
+		"id": "9639677b-c598-4598-a25b-ecc0868cd7fb",
+		"prefix": "F.",
+		"title": "Domein F Wiskunde in wetenschap"
+	},
+	{
+		"id": "6464073a-016f-43cc-8917-f8885f1f58a2",
+		"prefix": "G.",
+		"title": "Domein G Keuzeonderwerpen"
+	},
+	{
+		"id": "adc513e2-f3a4-4bc1-9d0b-0fbf1041ab96",
+		"title": "de domeinen B, C, D, E, F en G;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "3364872e-6cda-49f3-a9fb-b2db22a316fe",
+		"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein G: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "ce6b47b4-8775-48af-8a50-8e569977ac65",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "a6610e45-1367-427b-858b-3a4932caf169",
+		"prefix": "B.",
+		"title": "Domein B Statistiek en kansrekening"
+	},
+	{
+		"id": "1b6bef55-6daf-4bcf-9542-29a4af78152c",
+		"prefix": "C.",
+		"title": "Domein C Ruimtemeetkunde"
+	},
+	{
+		"id": "6c107291-e453-4d37-ab9a-52ac8bb3c484",
+		"prefix": "D.",
+		"title": "Domein D Wiskunde in technologie"
+	},
+	{
+		"id": "a3b058b2-be9d-4ce7-a21c-74cbf9e4b550",
+		"prefix": "E.",
+		"title": "Domein E Keuzeonderwerpen"
+	},
+	{
+		"id": "1b7b2238-3c71-44f9-bb91-c95aab137641",
+		"title": "de domeinen B, C, D en E;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "85e86c6f-429a-4954-8c4f-d5104d8b64a6",
+		"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein E: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "b3bfad13-3c77-4c89-98b7-0424c4ae6a7c",
+		"prefix": "B.",
+		"title": "Domein B Algebra en tellen",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "e609ab1e-5a3e-4373-86e9-14ad9d7ce8de",
+		"prefix": "C.",
+		"title": "Domein C Verbanden",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "ffbd54b3-171b-49a4-b346-a7d071c613fc",
+		"prefix": "D.",
+		"title": "Domein D Veranderingen"
+	},
+	{
+		"id": "ca642267-c6bb-49e0-bec5-46b6d2f3c8c4",
+		"prefix": "E.",
+		"title": "Domein E Statistiek en kansrekening"
+	},
+	{
+		"id": "4d960ac7-adab-41f4-baf3-6ed479dbb70e",
+		"prefix": "F.",
+		"title": "Domein F Logisch redeneren"
+	},
+	{
+		"id": "93f41ce0-1e8c-4997-8d50-77c5d83d93fc",
+		"prefix": "G.",
+		"title": "Domein G Vorm en ruimte"
+	},
+	{
+		"id": "11547d41-ff83-43a2-83c5-a6ff85ccaca0",
+		"prefix": "H.",
+		"title": "Domein H Keuzeonderwerpen"
+	},
+	{
+		"id": "24f93b44-b3cc-4139-b3f9-37eeed477090",
+		"title": "Het centraal examen heeft betrekking op de domeinen B, C, D, F en G in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "b5c6565a-770f-4d07-939a-74c364b9e55f",
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "6dd9ec74-0a25-4a4e-9093-9bc812064b27",
+		"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "04a8f984-7d70-4d82-99fa-4ded35d84ec6",
+		"title": "de domeinen E en H;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "2c971483-7349-4bec-8ea2-499bf09ed81b",
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop\r\nhet centraal examen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "b52188a2-5bf4-4f7b-a38e-0a6128a3aaed",
+		"prefix": "B.",
+		"title": "Domein B Formules, functies en grafieken"
+	},
+	{
+		"id": "f9996b5c-ee8e-42be-8f7d-94b2fe2205d8",
+		"prefix": "C.",
+		"title": "Domein C Differentiaal- en integraalrekening"
+	},
+	{
+		"id": "8dca9c9b-c033-4315-8652-765d9b648897",
+		"prefix": "D.",
+		"title": "Domein D Goniometrische functies"
+	},
+	{
+		"id": "1942da63-1384-43fb-bb82-7f3f954ccef1",
+		"prefix": "E.",
+		"title": "Domein E Meetkunde met coördinaten"
+	},
+	{
+		"id": "bc54eb07-5712-4d89-94d4-157c01697e01",
+		"prefix": "F.",
+		"title": "Domein F Keuzeonderwerpen"
+	},
+	{
+		"id": "09e376c9-04f4-4cb4-9d03-f4ee3ceac7dd",
+		"title": "Het centraal examen heeft betrekking op de domeinen B, C, D en E in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "4f94513b-15b7-491b-9cd8-0ed5874e79ac",
+		"title": "subdomein E1;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "e352e04c-c8f8-40f3-92db-1d31a7027401",
+		"title": "domein F;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "8efb7155-5b51-41d6-b1c8-bef70ba4942e",
+		"prefix": "B.",
+		"title": "Domein B Functies, grafieken en vergelijkingen"
+	},
+	{
+		"id": "176205e4-62b9-4a99-ba9e-15ec7b3a4efe",
+		"prefix": "C.",
+		"title": "Domein C Meetkundige berekeningen"
+	},
+	{
+		"id": "b6873c19-25c9-41f8-9dc3-23da8b639bcd",
+		"prefix": "D.",
+		"title": "Domein D Toegepaste analyse"
+	},
+	{
+		"id": "a0815b22-3cff-4a69-a6ce-779c8ddf00e3",
+		"title": "Het centraal examen heeft betrekking op de domeinen B, C en D in combinatie met de vaardigheden uit domein A."
+	},
+	{
+		"id": "c5f9d959-5c5e-4561-9a7b-42462ba053da",
+		"title": "domein D;"
+	},
+	{
+		"id": "781ef9ca-5b76-4720-a814-5bcefe208318",
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "3df615b2-cd1d-4e11-9590-2f891b27d8f0",
+		"prefix": "D.",
+		"title": "Domein D Verandering",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "61333081-161b-4837-98fa-ad122e9f4e49",
+		"title": "Het centraal examen heeft betrekking op domeinen B, C en D in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "9d3162c6-2c53-4a41-9cb3-463dd52b8859",
+		"title": "de domeinen E en F;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "e8a587c8-7a50-47ef-b081-514070e01ebe",
+		"prefix": "E.",
+		"title": "Domein E Statistiek",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "31f19e47-45de-41d3-8846-d7a75aab0fc1",
+		"title": "Het centraal examen heeft betrekking op domein C en de subdomeinen B1, B2, E1, E2, E3 en E4 in\r\ncombinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "cb84be7e-cad6-44fa-9d37-99bfe5608490",
+		"title": "domein D en de subdomeinen B3 en E5;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "a0e04998-c932-4b8c-bf3e-b0d215f4b2c4",
+		"prefix": "B.",
+		"title": "Domein B Stoffen en materialen in de chemie"
+	},
+	{
+		"id": "2bd8cfb0-ba5a-4cde-88f5-d63e9883149e",
+		"prefix": "C.",
+		"title": "Domein C Chemische processen en behoudswetten"
+	},
+	{
+		"id": "eeb14094-406b-41a8-9cf8-667431d9ff0e",
+		"prefix": "D.",
+		"title": "Domein D Ontwikkelen van chemische kennis"
+	},
+	{
+		"id": "57bd818b-e65f-4630-b67b-20553d3b2386",
+		"prefix": "E.",
+		"title": "Domein E Innovatie en chemisch onderzoek"
+	},
+	{
+		"id": "d3a067fa-c6a6-4901-8f92-efab57a2611b",
+		"prefix": "F.",
+		"title": "Domein F Industriële (chemische) processen"
+	},
+	{
+		"id": "9503d46a-94bd-47af-9d53-18023b56bd95",
+		"prefix": "G.",
+		"title": "Domein G Maatschappij, chemie en technologie"
+	},
+	{
+		"id": "6153e7c1-5d16-416e-8974-f0448d069f4d",
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, C1, C2,C3, C4, C5, C6, D1, D3, E1, E2, F1, F2, F3, G1, G2 en G3, in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "9082e110-94b5-4813-93a7-d5001b797367",
+		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "f1d3c2a7-d1c8-42e9-b64d-15fcd71c604d",
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "a1877d94-c144-4ede-b35d-8b80430e2ac8",
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "6a5a6795-aaa2-4851-ad67-45b843bb06e9",
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "9b59674c-c6a7-4a6f-beb1-8bc359410061",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "dd43dbbe-c7e8-437d-b94b-31a3bcdfce46",
+		"prefix": "B.",
+		"title": "Domein B Stoffen en materialen"
+	},
+	{
+		"id": "53f1a384-1a96-423b-b6a0-a4a9e5410e7f",
+		"prefix": "C.",
+		"title": "Domein C Kennis van chemische processen en kringlopen"
+	},
+	{
+		"id": "615b0a1d-714a-494a-9d68-0b123c23c235",
+		"prefix": "D.",
+		"title": "Domein D Ontwerpen en experimenten in de chemie"
+	},
+	{
+		"id": "fc161b23-ee9a-4110-90d7-b06d897a73dd",
+		"prefix": "E.",
+		"title": "Domein E Innovatie ontwikkelingen in de chemie"
+	},
+	{
+		"id": "9ebb61f4-e1d8-4ae0-9b8d-e5b84d14d372",
+		"prefix": "F.",
+		"title": "Domein F Processen in de chemische industrie"
+	},
+	{
+		"id": "5bbe5ce5-2bf2-4a50-b2a1-df07063fae52",
+		"prefix": "G.",
+		"title": "Domein G Maatschappij en chemische technologie"
+	},
+	{
+		"id": "4e4a0215-3567-4717-b479-600d7121bea9",
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, C1, C2,C3, C6,C7, C8,  D1, D3, E1, F1, F3, G1  en G2, in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "7ccc8a25-31b7-4165-b25e-0a8d5d9d992c",
+		"prefix": "B.",
+		"title": "Domein B Exacte wetenschappen en technologie"
+	},
+	{
+		"id": "1750f062-9d96-4369-9c71-c1cfb363f78c",
+		"prefix": "C.",
+		"title": "Domein C Aarde, natuur en heelal"
+	},
+	{
+		"id": "aa15303f-d679-47b2-b530-c71425785dec",
+		"prefix": "D.",
+		"title": "Domein D Gezondheid en veiligheid"
+	},
+	{
+		"id": "4fca5ea6-4f46-4649-8f19-a45240c0bd10",
+		"prefix": "E.",
+		"title": "Domein E Technologische ontwikkeling"
+	},
+	{
+		"id": "134eb9fb-5655-4e53-b2e0-48619cecdc26",
+		"prefix": "F.",
+		"title": "Domein F Fundamenten van natuurwetenschap en technologie"
+	},
+	{
+		"id": "4083a021-a6d9-455e-91fe-fe735449cd8b",
+		"title": "Het schoolexamen heeft betrekking op het gehele domein A en domein B in combinatie met minimaal één subdomein uit ieder van de domeinen C t/m F en ten minste vijf subdomeinen in totaal en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "9504dffd-fe8f-44e0-b956-d10b8ba27ee5",
+		"title": "Het schoolexamen heeft betrekking op het gehele domein A en domein B in combinatie met de domeinen C t/m E en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "f5baefde-f83e-4771-b246-892974d7dd98",
+		"prefix": "C.",
+		"title": "Domein C Aarde en natuur"
+	},
+	{
+		"id": "0cd48005-cee7-4004-80ab-c549a0e6a801",
+		"prefix": "D.",
+		"title": "Domein D Gezondheid, bescherming en veiligheid"
+	},
+	{
+		"id": "ac026998-4c54-49e7-97b8-6d5b688b0978",
+		"prefix": "E.",
+		"title": "Domein E Materialen, processen en producten"
+	},
+	{
+		"id": "a05f10a4-fe9d-4aa6-8d62-c02065eabcc9",
+		"title": "Daarnaast heeft het schoolexamen betrekking op:",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		],
+		"examenprogramma_body_id": [
+			"b92fbb0f-1431-41fd-ac19-8546e4687c9c",
+			"7889e1df-b724-4bc5-a917-ca8733c1fa4d",
+			"dbd83445-9f6d-4976-910b-987e5491e401"
+		]
+	},
+	{
+		"id": "ec9d036e-1953-4d6b-9d64-26c8b1e30571",
+		"prefix": "-",
+		"title": "ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg;",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "335bbf1c-90a8-4f76-8fe9-4e6f77f50296",
+		"prefix": "-",
+		"title": "indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "151cce95-f003-4102-9a0d-4a325d1a42ae",
+		"prefix": "-",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "880dff5b-042e-460e-bf65-15a9b8fb8311",
+		"title": "Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "e5e87167-bc97-4493-a35d-62e28ef47d89",
+		"title": "Metaaltechniek, elektrotechniek, installatietechniek, instalektro, metalektro (met als codering voor het gezamenlijke CE: MEI)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "e6cacd57-3cda-42fa-b3e6-dcc0875c1ce3",
+		"prefix": "-",
+		"title": "Uiterlijke verzorging, verzorging, zorg-en-welzijn-breed (met als codering voor het gezamenlijke CE: ZWG)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "3d351cf1-18ae-49c1-afc2-2e57197eac0b",
+		"prefix": "-",
+		"title": "Consumptief-breed, consumptief-horeca, consumptief-bakken (met als codering voor het gezamenlijke CE: COG)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "a28e8d64-57f6-457b-9fed-dd65ed055cd5",
+		"prefix": "-",
+		"title": "Administratie, handel en administratie, handel en verkoop, mode en commercie (met als codering voor het gezamenlijke CE: HAV).",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "0f662d93-0055-4661-b05f-91f21b5c2152",
+		"title": "Bij de uitvoering van het examenprogramma worden de referentieniveaus Nederlandse taal in acht genomen, bedoeld in artikel 2, onderdeel e en onderdeel f, van het Besluit referentieniveaus Nederlandse taal en rekenen"
+	},
+	{
+		"id": "fecab138-36f9-4d30-950a-d8377372e4af",
+		"prefix": "A.",
+		"title": "Domein A Leesvaardigheid"
+	},
+	{
+		"id": "13c9f1e7-211f-451c-8585-b66b3b0eb76b",
+		"prefix": "B.",
+		"title": "Domein B Mondelinge taalvaardigheid"
+	},
+	{
+		"id": "d50daa22-0e65-4598-bef3-4f2a1db2b101",
+		"prefix": "C.",
+		"title": "Domein C Schrijfvaardigheid"
+	},
+	{
+		"id": "72b4ec75-3c30-4c0d-bc6a-bc2208dedfb0",
+		"prefix": "D.",
+		"title": "Domein D Argumentatieve vaardigheden"
+	},
+	{
+		"id": "19314b1e-b1dc-4ec1-baec-ea26504d918d",
+		"prefix": "E.",
+		"title": "Domein E Literatuur"
+	},
+	{
+		"id": "04a73b96-f0c2-420c-8eee-5135d26c6dc5",
+		"prefix": "F.",
+		"title": "Domein F Oriëntatie op studie en beroep."
+	},
+	{
+		"id": "88dfd0f8-41d8-41c4-a429-b0861d1bc10d",
+		"title": "Bij de uitvoering van het examenprogramma worden de referentieniveaus Nederlandse taal in acht genomen, bedoeld in artikel 2, onderdeel c en onderdeel d, van het Besluit referentieniveaus Nederlandse taal en rekenen."
+	},
+	{
+		"id": "3a3c6740-b90a-4ea3-97eb-c92340086660",
+		"title": "Het centraal examen heeft betrekking op domein A en domein D voor zover het analyseren en beoordelen betreft.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "52962c8c-b7f1-4bff-88c9-0a4064fd20de",
+		"prefix": "B.",
+		"title": "Domein B Golven"
+	},
+	{
+		"id": "a7f958ed-a376-4de2-90e7-cb2171485561",
+		"prefix": "C.",
+		"title": "Domein C Beweging en wisselwerking"
+	},
+	{
+		"id": "b7e1a297-a10b-49d2-90e8-896e01b736a0",
+		"prefix": "D.",
+		"title": "Domein D Lading en veld"
+	},
+	{
+		"id": "c4760e1c-4564-4b2d-af05-47dd7c70a320",
+		"prefix": "E.",
+		"title": "Domein E Straling en materie"
+	},
+	{
+		"id": "aa3accf1-d79d-49a0-b05d-790e0fffefb5",
+		"prefix": "F.",
+		"title": "Domein F Quantumwereld en relativiteit"
+	},
+	{
+		"id": "50233693-63c1-4e54-b991-00c35e5e0904",
+		"prefix": "G.",
+		"title": "Domein G  Leven en aarde"
+	},
+	{
+		"id": "aa78ccd9-1696-458e-b254-df50716d0203",
+		"prefix": "H.",
+		"title": "Domein H Natuurwetten en modellen"
+	},
+	{
+		"id": "fc5aafc8-3c57-4c25-a6aa-c2c89aba6695",
+		"prefix": "I.",
+		"title": "Domein I Onderzoek en ontwerp"
+	},
+	{
+		"id": "5f118610-2789-486f-aaf1-7abc326f2201",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, C3, D1, D2, E2, F1 en H in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "31fd7ecb-fa29-4490-b31f-47b191e69ce6",
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "9883da12-e0d8-49e5-85b4-1a0c219920e9",
+		"title": "Het schoolexamen heeft betrekking op domein A en de subdomeinen E1, I1, I2 en I3; een keuze van twee uit de (sub)domeinen E3, F2, G1 en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten; indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "a69a897e-01b4-4f0d-b3eb-84c2ea405198",
+		"title": "Domein A Vaardigheden"
+	},
+	{
+		"id": "91e8e00d-0ed8-4a29-9163-75a48d1b6bcb",
+		"title": "Domein B Beeld- en geluidstechniek"
+	},
+	{
+		"id": "1b47630d-ca36-4f06-aa7d-64697e725cc1",
+		"title": "Domein C Beweging en energie"
+	},
+	{
+		"id": "250bb408-628f-4075-8d7c-70b2948aafa2",
+		"title": "Domein D Materialen"
+	},
+	{
+		"id": "21b16e6e-aede-477e-a914-15ee613b9730",
+		"title": "Domein E Aarde en heelal"
+	},
+	{
+		"id": "b5b345ca-5992-444e-856b-19d8ac04ef21",
+		"title": "Domein F Menselijk lichaam"
+	},
+	{
+		"id": "91d540e8-03b7-4905-b5a6-759e485aa67f",
+		"title": "Domein G Meten en regelen"
+	},
+	{
+		"id": "98d34403-b991-4d14-95a1-a3d2c109bb3f",
+		"title": "Domein H Natuurkunde en technologie"
+	},
+	{
+		"id": "3ce9e1f1-159c-4046-a210-1b5a949ddcdf",
+		"title": "Domein I Onderzoek en ontwerp"
+	},
+	{
+		"id": "ecb24953-c5d3-440c-af7f-e0249dbcc8c0",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, D1,E1, G1 en H in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "c7a44286-3b7f-42fc-bcf9-80a4965d3e9f",
+		"title": "Het schoolexamen heeft betrekking op domein A en de subdomeinen D2, I1, I2 en I3; een keuze van twee uit de (sub)domeinen B3, E2, F en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten; indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "675fe4e5-df9c-403b-a1bc-4231e6e8d422",
+		"prefix": "B.",
+		"title": "Domein B Kijk-en luistervaardigheid"
+	},
+	{
+		"id": "a22093d7-ebda-48b8-be5b-00061dbf4a56",
+		"prefix": "C.",
+		"title": "Domein C Gespreksvaardigheid"
+	},
+	{
+		"id": "739e6527-9ab6-4c91-a9fa-f59a4746bd48",
+		"prefix": "D.",
+		"title": "Domein D Schrijfvaardigheid"
+	},
+	{
+		"id": "2adaa6bf-5e7a-4256-b447-7bdd77257e33",
+		"title": "Het centraal examen heeft betrekking op domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "b3f40b3b-2b7d-4eec-9dae-1ddc7da0bfb8",
+		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen, waarbij in elk geval het niveau in termen van het Europees Referentiekader wordt vastgesteld.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "4792d248-d038-449c-98b4-c7c5b5c1b865",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		],
+		"examenprogramma_body_id": [
+			"e1337355-8db6-49ac-8252-95c4c76137f9",
+			"f5494585-49fb-4fb9-96f4-152f6b1f501f",
+			"fae70f47-a15f-48e4-a08c-6557aef3feb9"
+		]
+	},
+	{
+		"id": "37b40901-4119-4369-a8e6-2e4aafb8dbb0",
+		"prefix": "B.",
+		"title": "Domein B Interne organisatie en personeelsbeleid"
+	},
+	{
+		"id": "dffb083e-158a-4f61-8d53-5e9e0b45c1e2",
+		"prefix": "C.",
+		"title": "Domein C Financiering van activiteiten"
+	},
+	{
+		"id": "8bfa897c-02f6-48cb-8bff-534e1629844b",
+		"prefix": "D.",
+		"title": "Domein D Marketingbeleid"
+	},
+	{
+		"id": "ad70a902-aebd-4b01-af73-e44af50d1a5f",
+		"prefix": "E.",
+		"title": "Domein E Financieel beleid"
+	},
+	{
+		"id": "60e51878-0e13-490b-a680-3c14bd380a9a",
+		"prefix": "F.",
+		"title": "Domein F Informatievoorziening met behulp van ICT"
+	},
+	{
+		"id": "ba5158b2-4cf5-4c26-8b7e-006d08e61039",
+		"prefix": "G.",
+		"title": "Domein G Externe financiële verslaggeving."
+	},
+	{
+		"id": "fa1c4e93-d5d4-48b3-9f60-9271de01c79b",
+		"title": "Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "bcbf47c8-79dd-46fe-898b-dc1b46f88be1",
+		"title": "De CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "7fa2b122-c992-41bc-8a4d-f7582dcfd628",
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "27d2d921-58bf-4602-af93-dbc4e0fc4fce",
+		"title": "Domein A: Vaardigheden"
+	},
+	{
+		"id": "17c49053-da0d-4ca5-b3ac-f853cbe09dea",
+		"title": "Domein B: Politieke besluitvorming"
+	},
+	{
+		"id": "ad66970f-28ee-4c54-80d0-6db87eb883e4",
+		"title": "Domein C: Massamedia"
+	},
+	{
+		"id": "d63f674b-a060-40ef-9b24-7be7a9b64c99",
+		"title": "Domein D: Multiculturele samenleving"
+	},
+	{
+		"id": "2b12f732-841e-4d05-9d1c-8a9e71dbd37f",
+		"title": "Domein E:  Mens en werk"
+	},
+	{
+		"id": "b28efc4a-80b4-43f3-9092-2af2800a7d24",
+		"title": "Domein F: Cirminaliteit en rechtsstaat"
+	},
+	{
+		"id": "41fbb3b0-5b86-4998-8c87-7f471ff3cbf5",
+		"title": "Domein G: Milieu en beleid"
+	},
+	{
+		"id": "70366cc6-1f7a-4477-87bd-769ff0702cdb",
+		"title": "Domein H: Ontwikkelingssamenwerking"
+	},
+	{
+		"id": "c2048c49-51d1-4049-bdd1-8d0e9fc577fa",
+		"title": "Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "c596061d-9f94-457f-abfd-17f0b04c3576",
+		"title": "Het College voor Toetsing en Examens stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "92873e14-98bb-4e60-a9d0-d944d41d048a",
+		"title": "Het College voor Toetsing en Examens maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "2e6d84c4-cb75-4e47-a218-cbbf48740d5c",
+		"title": "Het schoolexamen heeft betrekking op twee van de domeinen D, E, G en H;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "2f1ce12b-5778-4c2d-b8be-d3fe0f9e2fb9",
+		"title": "een nog niet gekozen domein uit de domeinen D, E, G en H, dan wel een door het bevoegd gezag vastgesteld domein;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "738fd2f5-221d-4dfb-a5c1-858b9c1c3181",
+		"title": "Domein B: Vorming (binnen een specifieke context)"
+	},
+	{
+		"id": "6bcd2f6b-9aa4-4c74-a899-b6e0ec32ad1d",
+		"title": "Domein C: Verhouding (binnen een specifieke context)"
+	},
+	{
+		"id": "2743f9e2-8321-4d08-8b68-09ef4f191745",
+		"title": "Domein D: Binding (binnen een specifieke context)"
+	},
+	{
+		"id": "7216730c-b5a2-4583-9644-0efd17ed0492",
+		"title": "Domein E: Verandering (binnen een specifieke context)"
+	},
+	{
+		"id": "6beb9387-8137-474e-92a5-1f4a2e2a4016",
+		"title": "Domein F: Analyse van een sociale actualiteit"
+	},
+	{
+		"id": "c25302ea-d5c8-452b-bb10-5f70f7f7ace6",
+		"title": "Domein G: Analyse van een politieke actualiteit (binnen een specifieke context)"
+	},
+	{
+		"id": "3e9b5313-3f7e-4e41-a43e-4dab2d323439",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B, C, D, E1 en E2, in combinatie met domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "2eede2ec-95a3-4a6e-b2af-66056cd08d18",
+		"title": "Het schoolexamen heeft betrekking op subdomeinen E3 en E4 en, naar keuze van het bevoegd gezag, domein F of G, in combinatie met domein A en:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "3cd3a755-9345-467b-8c1d-f393bf0935cb",
+		"title": "indien het bevoegd gezag daarvoor kiest: ook een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "b3f4c3a4-40ab-4b9d-8e7c-5ec4976186a3",
+		"prefix": "B.",
+		"title": "Domein B Rechtsstaat"
+	},
+	{
+		"id": "da40a6ce-b3e8-4b77-a53f-9e0fe7c96cab",
+		"prefix": "C.",
+		"title": "Domein C Parlementaire democratie"
+	},
+	{
+		"id": "0330f592-b38d-49d3-8350-be13782e9071",
+		"prefix": "D.",
+		"title": "Domein D Verzorgingsstaat"
+	},
+	{
+		"id": "1635af63-13a7-48f5-ba91-903f74453a05",
+		"prefix": "E.",
+		"title": "Domein E Pluriforme samenleving."
+	},
+	{
+		"id": "7e256528-5f85-4972-9eea-1a23c841bb23",
+		"title": "Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "5d7c258f-f654-444f-bf8a-46124f9ef7f1",
+		"title": "het gehele domein A in combinatie met:"
+	},
+	{
+		"id": "cbf555b8-a410-4f9a-9d36-b0afeabb5196",
+		"title": "de domeinen B tot en met F;"
+	},
+	{
+		"id": "455112e3-94ff-42d8-bab0-a2fa5a8a542f",
+		"title": "een keuze van één domein uit de domeinen G tot en met N en een keuze van één domein uit de domeinen O tot en met R; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten"
+	},
+	{
+		"id": "af2be69e-aaf4-452e-83f6-131d966f9a8f",
+		"title": "een keuze van vier domeinen uit de domeinen G tot en met R, waarvan minimaal één domein uit de domeinen G tot en met N en minimaal één domein uit de domeinen O tot en met R; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten;"
+	},
+	{
+		"id": "035a621e-e269-4014-84dc-69cfd20699d5",
+		"title": "indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen."
+	},
+	{
+		"id": "0ef391c9-9b3f-45b6-8e7b-632799262255",
+		"title": "Algemene vaardigheden"
+	},
+	{
+		"id": "dcd5cb8c-f02a-4ac4-849a-4f06012f0271",
+		"title": "Wetenschappelijke vaardigheden"
+	},
+	{
+		"id": "f737c2de-f673-4e41-8687-5b09e365d701",
+		"title": "Informatica-specifieke vaardigheden"
+	},
+	{
+		"id": "fc2b5949-b4a5-4c00-a3bf-887a28349f07",
+		"prefix": "A.",
+		"title": "Domein A Historisch besef"
+	},
+	{
+		"id": "91d1f4ee-af6f-42b1-ba30-755277b7f25e",
+		"prefix": "B.",
+		"title": "Domein B Oriëntatiekennis"
+	},
+	{
+		"id": "4746101a-133b-4900-bb43-3087339853b3",
+		"prefix": "C.",
+		"title": "Domein C Thema's"
+	},
+	{
+		"id": "5d5cc966-d5a3-4d0a-ab2d-98f99357333d",
+		"prefix": "D.",
+		"title": "Domein D Geschiedenis van de rechtsstaat en van de parlementaire democratie"
+	},
+	{
+		"id": "33be7f1d-cecd-431b-b52e-04959a6be0d8",
+		"prefix": "E.",
+		"title": "Domein E Oriëntatie op studie en beroep."
+	},
+	{
+		"id": "62797aa7-6169-41f5-bd42-ee2e88d5d6ec",
+		"title": "Het centraal examen heeft betrekking op de domeinen A en B.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "14f2db20-b57a-4d97-ac7a-127b0766bbee",
+		"title": "Het centraal examen heeft betrekking op de domeinen A en B, de tijdvakken 5 t/m 10.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "be6fcd2b-7607-42b5-82ae-53eb3fa113e8",
+		"title": "Het schoolexamen heeft betrekking op domein A, domein B de tijdvakken 1 t/m 4 en:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "6ce6f8c5-3959-497a-92af-9a510a4d2e9d",
+		"prefix": "B.",
+		"title": "Domein B Wijsgerige antropologie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "208db9ce-5d5f-43d2-aed1-fe170689c5a1",
+		"prefix": "C.",
+		"title": "Domein C Ethiek",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "b616a654-189c-4156-8601-ab143f0a7da2",
+		"prefix": "D.",
+		"title": "Domein D Kennisleer",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "988e84a3-112e-4ef5-a0b6-5b2fd0f1ed7e",
+		"prefix": "E.",
+		"title": "Domein E Wetenschapsfilosofie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "43a2ebbd-fd16-450f-a25b-6c31e979e9e1",
+		"title": "Het centraal examen heeft betrekking op een door de CvTE vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "3eb76e7e-66ee-4d0e-ac10-8fa3167ef33b",
+		"prefix": "D.",
+		"title": "Domein D Sociale filosofie."
+	},
+	{
+		"id": "dd16175e-0492-43eb-9ffd-29dcefcdc88e",
+		"prefix": "B.",
+		"title": "Domein B Concept Schaarste",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "4318f618-08e4-459d-9e40-60e8a5f072a9",
+		"prefix": "C.",
+		"title": "Domein C Concept Ruil",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "b935462c-30bb-4231-b9d2-c1d09d0eff34",
+		"prefix": "D.",
+		"title": "Domein D Concept Markt",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "9cb49b75-8a87-48dc-8789-54cfe7d401fb",
+		"prefix": "E.",
+		"title": "Domein E Concept Ruilen over de tijd",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "bade718e-c5dd-4820-bdbe-02f2c2cccdc3",
+		"prefix": "F.",
+		"title": "Domein F Concept Samenwerken en onderhandelen",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "735e87a4-f17b-4c69-8bd8-985232703943",
+		"prefix": "G.",
+		"title": "Domein G Concept Risico en informatie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "d67f806c-17b3-495a-9fab-299d50ae0671",
+		"prefix": "H.",
+		"title": "Domein H Concept Welvaart en groei",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "634aaa51-faf7-4e83-9b6e-8512bed04283",
+		"prefix": "I.",
+		"title": "Domein I Concept Goede tijden, slechte tijden",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "fd26e37f-28a2-4b8d-b166-12d9dd6eee7b",
+		"prefix": "J.",
+		"title": "Domein J Onderzoek en experiment",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "b290a8b9-f15c-41f1-873d-4b488a57d7b4",
+		"prefix": "K.",
+		"title": "Domein K Keuzeonderwerpen",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "2151255d-fd6a-489d-b678-38b9bca5d6de",
+		"title": "Het centraal examen heeft betrekking op de domeinen D, E, F, G, H, I, in combinatie met domein A.",
+		"tag_id": [
+			"5a7adcc0-87fa-43fe-96bb-dca01608b2ce"
+		]
+	},
+	{
+		"id": "ce29bf8d-cf26-418a-9a07-494c3233d75b",
+		"title": "Het schoolexamen heeft betrekking op domein B, C, J en K, in combinatie met domein A en:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "028b11b5-8006-402d-8fdc-e2bff8e5f757",
+		"prefix": "1.",
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "e3b48add-9a6e-44c9-b05c-a854844d23c9",
+		"prefix": "2.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "bbe1d161-268a-4cd8-80f0-cb3345643f3f",
+		"title": "Domein A: Leesvaardigheid",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		],
+		"examenprogramma_subdomein_id": []
+	},
+	{
+		"id": "e2e1f070-a14e-4971-9c92-d1f3aa0a8208",
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		],
+		"examenprogramma_subdomein_id": []
+	},
+	{
+		"id": "631839aa-d1b8-4c39-964b-5995ae824667",
+		"title": "Domein C: Gespreksvaardigheid",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		],
+		"examenprogramma_subdomein_id": [
+			"8df31b54-0912-4aeb-b2ba-74d81d1f3f84",
+			"aa8b55e1-ef81-41d5-bca0-0a356a7358d5"
+		]
+	},
+	{
+		"id": "f95fb38f-15fd-4217-a080-25a0878b88fc",
+		"title": "Domein D: Schrijfvaardigheid",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		],
+		"examenprogramma_subdomein_id": [
+			"9aa39483-2e56-45ca-b01a-07d2097eac98",
+			"4bfe3472-cd74-4c66-b29a-da001abd5728"
+		]
+	},
+	{
+		"id": "d6f1e435-ffcc-488f-8422-cecf5d1bec9e",
+		"title": "Domein E: Chinese cultuur",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		],
+		"examenprogramma_subdomein_id": [
+			"6f12980b-85f2-40eb-9c50-c80a97feab68"
+		]
+	},
+	{
+		"id": "b896fd4c-af8a-4cfc-8900-19235dedcc26",
+		"title": "Domeind F: Oriëntatie op studie en beroep",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "9262ace8-04d0-450b-989b-c17b8d14d1e0",
+		"title": "tenminste alle domeinen van het eindexamen;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "be9c279d-2aff-44de-a66e-2c69f148c6d5",
+		"prefix": "B.",
+		"title": "Domein B Zelfregulatie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "15a1f957-f1e8-403d-a2dc-b69d4024d2d2",
+		"prefix": "C.",
+		"title": "Domein C Zelforganisatie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "dcae5069-306a-441b-b3ed-e6626131f11d",
+		"prefix": "D.",
+		"title": "Domein D Interactie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "fe87ff92-2f9e-4a94-88fc-7977986e161f",
+		"prefix": "E.",
+		"title": "Domein E Reproductie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "28b6c56c-9e37-4a91-90a0-c9a0e0e17d80",
+		"prefix": "F.",
+		"title": "Domein F Evolutie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "6e11c1c9-ffa0-425e-bb5c-a01c0b00cf3f",
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, B8, C1, C3, D1, D2, D5, E3, F1 en F2, in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "18ce2124-8b5d-4fe7-aa1f-84d0cb513a96",
+		"title": "Het CvTE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "59f85843-775f-40c1-9812-b24031fb7954",
+		"prefix": "1.",
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "46e907a9-661e-493c-95da-e1ab00d85932",
+		"prefix": "2.",
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "9ff4839e-000a-421d-bd6f-3cdc1702d30f",
+		"prefix": "3.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "c661267f-e0fd-4d16-8dcc-a168b70cdcaa",
+		"title": "Algemene vaardigheden (profieloverstijgend niveau)",
+		"tag_id": [
+			"7e7e9535-d295-431c-a912-f388e227ba2b"
+		]
+	},
+	{
+		"id": "8447c989-f614-4b4e-aa7b-bdcf556fe54a",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (betaprofielniveau)"
+	},
+	{
+		"id": "a86df1df-d9a2-4b2b-a577-bf43dc86ec6f",
+		"title": "Biologie - specifieke vaardigheden"
+	},
+	{
+		"id": "fb5c2a4d-29d8-4d93-97bf-a8a136a6bfd9",
+		"title": "De zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo gelden, zijn:",
+		"tag_id": [
+			"1134ce77-1007-4bfe-9848-a38c9f22edbf"
+		]
+	},
+	{
+		"id": "72948e7f-0b7d-451d-93d3-ff3f0f054c14",
+		"prefix": "1.1",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan het kennen van en omgaan met eigen en andermans normen en waarden.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "8c780732-3438-47c1-add4-6f5de9b1f5a8",
+		"prefix": "1.2",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan het onderkennen van en omgaan met de verschillen tussen de seksen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "fe572de9-9617-475b-ba80-ca5e184fc6cd",
+		"prefix": "1.3",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan de relatie tussen de mens en de natuur en het concept van duurzame ontwikkeling.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "6e756cc4-cb72-4877-a9c7-07e3b4ab0925",
+		"prefix": "1.4",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan het functioneren als democratisch burger in een multiculturele samenleving, ook in internationaal verband.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "2bc91cf5-bfe9-48b1-82ff-dc0e63a0e63d",
+		"prefix": "1.5",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan het op een voor henzelf en anderen veilige manier functioneren in de beroepspraktijk en in eigen omgeving.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "8b179af0-93d3-4865-8c4b-5e9a496537b2",
+		"prefix": "1.6",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van technologische ontwikkeling, waaronder met name moderne informatie- en communicatietechnologie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "c714ff1c-497e-4312-b77e-d82f133d16e1",
+		"prefix": "1.7",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van betaalde en onbetaalde arbeid.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "4b4750de-02fd-4275-b98a-e8bb1c97039e",
+		"prefix": "1.8",
+		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving.  Daarbij wordt expliciet aandacht besteed aan de verworvenheden en mogelijkheden van kunst en cultuur, waaronder ook de media.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "a96dd8e1-cb59-44ca-a498-ea94048a7be4",
+		"prefix": "2.1",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om Nederlandse en Engelse teksten lezen en beluisteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "ad90e46b-fb35-457f-8483-458289157fb4",
+		"prefix": "2.2",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om schriftelijke en mondelinge teksten produceren in correct Nederlands.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "13aec674-f5ad-4256-afa0-d6a3e2926d99",
+		"prefix": "2.3",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om informatie in verschillende gegevensbestanden opzoeken, selecteren, verzamelen en ordenen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "9180b538-594b-4709-b70a-15257e68baaf",
+		"prefix": "2.4",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om de rekenvaardigheden hoofdrekenen, rekenregels gebruiken, meten en schatten toepassen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "c7413ec8-6c25-4155-95b9-d75982d850ad",
+		"prefix": "2.5",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om voldoen aan eisen van milieu, hygiëne, gezondheid en ergonomie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "eff75c3f-762e-4c35-980b-129d3c6b611e",
+		"prefix": "2.6",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om doelmatig en veilig omgaan met materialen, gereedschappen en apparatuur.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "116cd4e1-c4de-45d4-aca0-afa8ad8dd685",
+		"prefix": "2.7",
+		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om computervaardigheden.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "98011d68-c553-492a-9c5a-656ffaa0fba5",
+		"prefix": "3.1",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen.  Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om informatie beoordelen op betrouwbaarheid, representativiteit en bruikbaarheid, informatie verwerken en benutten.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "72828833-4a55-4b8a-a9df-cbcb96a2f8f4",
+		"prefix": "3.2",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het aanleren van nieuwe kennis en vaardigheden.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "9d359f9e-d4c5-4b75-afae-b7b46f7a8f66",
+		"prefix": "3.3",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het begrijpen van mondelinge en schriftelijke informatie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "5cccd327-ffab-4d3f-b8bb-c6727e61278d",
+		"prefix": "3.4",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om op een doordachte wijze keuzeproblemen oplossen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "84cf017f-4801-48eb-bbe2-43391797e131",
+		"prefix": "3.5",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om een eenvoudig bedrijfsmatig, natuurwetenschappelijk of maatschappelijk vraagstuk planmatig onderzoeken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "d4f2a861-dccf-4821-ba2b-92be4630c4e4",
+		"prefix": "3.6",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "4a6bba08-8a10-4aa2-a48c-df333e64dc31",
+		"prefix": "3.7",
+		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "f973913d-706e-4521-b0f0-f04237548167",
+		"prefix": "4.1",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om elementaire sociale conventies in acht nemen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "983051f9-1069-4e88-9d4c-f92bd3fde3ed",
+		"prefix": "4.2",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om overleggen en samenwerken in teamverband.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "770546ae-91df-45ad-9e63-3835f6f50574",
+		"prefix": "4.3",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om passende gesprekstechnieken hanteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "4d4203e9-ca9e-4ebb-9ecd-b766c5c5d7f9",
+		"prefix": "4.4",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om verschillen in meningen en opvattingen benoemen en hanteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "734d824f-5beb-4a2c-89b6-9ab2a7f0aef7",
+		"prefix": "4.5",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om culturele en seksegebonden verschillen tussen mensen benoemen en hanteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "f70c081a-15f8-435c-86e6-d814188c5577",
+		"prefix": "4.6",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om het omgaan met formele en informele afspraken, regels en procedures.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "85dd9cce-d3e2-4927-809c-5aa969420e16",
+		"prefix": "4.7",
+		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om zichzelf en eigen werk presenteren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "a033b7fa-862f-468c-9ead-0a50f2ea5828",
+		"prefix": "5.1",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een leer- en/of werkplanning maken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "19aea08a-2c49-4183-9dc7-321a5c924bff",
+		"prefix": "5.2",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om het leer- en/of werkproces bewaken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "c21d2a67-69e8-4662-9219-6e49bf7b9942",
+		"prefix": "5.3",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een eenvoudige product- en procesevaluatie maken en hieruit conclusies trekken.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "27df4d47-d5e3-49cd-9c90-fd6771755c69",
+		"prefix": "6.2",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het onderzoeken van de mogelijkheden voor verdere studie.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "50a74c08-d473-4b6b-af29-94f094e8e974",
+		"prefix": "6.3",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het zicht krijgen op beroepen, de beroepspraktijk en actuele ontwikkelingen daarbinnen.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "0922323a-7995-4d76-bdc0-dba746691ec0",
+		"prefix": "6.4",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de rol en het belang van op school geleerde kennis, inzicht en vaardigheden voor het maatschappelijk leven, dagelijks leven, vrije tijd, vrijwilligerswerk.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "d796c51e-28e0-42fd-adfb-f22563c98dc9",
+		"prefix": "6.5",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de kenmerken van de arbeidsmarkt op dit moment en in de nabije toekomst.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "13b34797-52af-4ffd-90f0-a8014ccce947",
+		"prefix": "6.6",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de organisatie van branches en bedrijven.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "66ef2e8f-c555-4293-92ac-41843e4ac191",
+		"prefix": "6.7",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het beoordelen van de eigen mogelijkheden en interesses in het licht van vervolgstudie, beroepen en maatschappelijk functioneren.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "f8f66c69-2625-4952-8a71-ecc85e442eb1",
+		"prefix": "6.8",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het kunnen maken van een verantwoorde keuze voor een vervolgopleiding.",
+		"tag_id": [
+			"e5e6d052-e24b-45c5-9533-452b6958aa9c"
+		]
+	},
+	{
+		"id": "a22844e4-8da0-4eb4-b385-12cea5388d3b",
+		"title": "Hieronder worden de examenprogramma’s per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "66338ca6-e23c-4e3a-b468-7997e76166ad",
+		"title": "Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met CE.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "211db98f-e659-4821-be9c-126c0c7ad608",
+		"title": "Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden).",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "b92fbb0f-1431-41fd-ac19-8546e4687c9c",
+		"prefix": "1.",
+		"title": "ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg;",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "7889e1df-b724-4bc5-a917-ca8733c1fa4d",
+		"prefix": "2.",
+		"title": "indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "dbd83445-9f6d-4976-910b-987e5491e401",
+		"prefix": "3.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "77d9eb74-a455-4689-b33f-840cc5d69f26",
+		"title": "Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers.",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "635a7c33-821a-4a84-ac6a-f6879ad794f6",
+		"prefix": "1.",
+		"title": "Metaaltechniek, elektrotechniek, installatietechniek, instalektro, metalektro (met als codering voor het gezamenlijke CE: MEI)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "b84d3359-c0d0-4fd4-91e0-0420815e4f16",
+		"prefix": "2.",
+		"title": "Uiterlijke verzorging, verzorging, zorg-en-welzijn-breed (met als codering voor het gezamenlijke CE: ZWG)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "76f7c22b-e642-440b-a1ae-e6dc3b2807df",
+		"prefix": "3.",
+		"title": "Consumptief-breed, consumptief-horeca, consumptief-bakken (met als codering voor het gezamenlijke CE: COG)",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "909b2fd9-7df7-49ff-85ec-e152d31a4783",
+		"prefix": "4.",
+		"title": "Administratie, handel en administratie, handel en verkoop, mode en commercie (met als codering voor het gezamenlijke CE: HAV).",
+		"tag_id": [
+			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+		]
+	},
+	{
+		"id": "dd36356f-8b76-4a3b-8a30-7ef9547d33f9",
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, B5, B7, B8, C1, C4, E4, F1 en F2, in combinatie met de vaardigheden uit domein A.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "9fe3b735-e976-4d82-b7c8-5842e9569eb3",
+		"title": "Algemene vaardigheden (profieloverstijgend niveau)",
+		"tag_id": [
+			"7e7e9535-d295-431c-a912-f388e227ba2b"
+		]
+	},
+	{
+		"id": "42f7b741-07cd-4da9-80bf-8660f698aea5",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (betaprofielniveau)"
+	},
+	{
+		"id": "890a527a-5696-4b17-8747-eafe81c6a22e",
+		"title": "Biologie - specifieke vaardigheden"
+	},
+	{
+		"id": "be736c6b-6870-451c-ab2d-8cc16c8861ba",
+		"prefix": "B.",
+		"title": "Domein B Van persoon naar rechtspersoon",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "66520b0e-6763-4087-b855-6b959a477832",
+		"prefix": "C.",
+		"title": "Domein C Interne organisatie en personeelsbeleid",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "af98cf27-990a-4094-bd01-617cf9d0eccb",
+		"prefix": "D.",
+		"title": "Domein D Investeren en financieren",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "e4565d10-3e9d-4244-a4a3-cdf4a1721b67",
+		"prefix": "E.",
+		"title": "Domein E Marketing",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "8d72bbc0-7f36-4c61-8019-b3e46cd449db",
+		"prefix": "F.",
+		"title": "Domein F Financieel beleid",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "63a5f3c8-44be-4a15-a9b4-41acef403061",
+		"prefix": "G.",
+		"title": "Domein G Verslaggeving",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "0bd88e53-87e8-4655-91cc-771c6b199ae4",
+		"prefix": "H.",
+		"title": "Domein H Keuze-onderwerpen",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "b7695e3f-2df6-413f-ad96-8eed8e3200dc",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A, B, C2, D2, E2, F en G zoals hieronder nader uitgewerkt.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "9e37cb08-70d5-4c30-82e2-5ad3a24afc7b",
+		"title": "CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "c733ede5-a11b-4e49-ad6e-78b91b37a21f",
+		"title": "CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "e01b89b4-de19-4790-8842-bb99ed79db58",
+		"title": "Het schoolexamen heeft betrekking op domein A, B en:",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "4ee47bfa-58df-4c4c-a918-ba1f4040a458",
+		"title": "Algemene vaardigheden",
+		"tag_id": [
+			"7e7e9535-d295-431c-a912-f388e227ba2b"
+		]
+	},
+	{
+		"id": "543fa895-c45d-4da0-bba5-bcaef0721121",
+		"title": "Vakspecifieke vaardigheden",
+		"tag_id": [
+			"7e7e9535-d295-431c-a912-f388e227ba2b"
+		]
+	},
+	{
+		"id": "4a0421b4-58f3-40b3-9171-4d4d097a9c87",
+		"title": "Algemene vaardigheden",
+		"tag_id": [
+			"7e7e9535-d295-431c-a912-f388e227ba2b"
+		]
+	},
+	{
+		"id": "204b00dd-f7a7-4530-b24c-0e8955e1398e",
+		"title": "Vakspecifieke vaardigheden",
+		"tag_id": [
+			"7e7e9535-d295-431c-a912-f388e227ba2b"
+		]
+	},
+	{
+		"id": "e0d04267-d823-46b4-9a21-5a73cf2af17d",
+		"prefix": "B.",
+		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "5ca6fe1f-4b14-4e53-abc9-0b1f6542d539",
+		"prefix": "C.",
+		"title": "Domein C Leven",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "e25f0155-1ee9-4633-a2f2-f124021001f4",
+		"prefix": "D.",
+		"title": "Domein D Biosfeer",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "9caf5d49-19a7-4c2e-a498-3f0797496593",
+		"prefix": "E.",
+		"title": "Domein E Materie",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "e3a299d9-6259-48a8-a85d-5e924360ab85",
+		"prefix": "F.",
+		"title": "Domein F Zonnestelsel en heelal.",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "29540c48-8e44-44ad-a143-27c2b84c3d57",
+		"title": "Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof.",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "37bca0da-cd30-4c7b-a497-5e871b5a7d48",
+		"title": "De domeinen A en B behoren altijd tot de examenstof.",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "e1337355-8db6-49ac-8252-95c4c76137f9",
+		"prefix": "1.",
+		"title": "de domeinen A en B;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "f5494585-49fb-4fb9-96f4-152f6b1f501f",
+		"prefix": "2.",
+		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "fae70f47-a15f-48e4-a08c-6557aef3feb9",
+		"prefix": "3.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "d8297981-e10a-4070-800f-17dae5f7fea0",
+		"prefix": "A.",
+		"title": "Domein A Vaardigheden",
+		"tag_id": [
+			"340ed77e-c165-4f14-9996-3bc83a96eb0d"
+		]
+	},
+	{
+		"id": "65a4c556-1489-4ba7-96d1-5b3a643d1f08",
+		"prefix": "B.",
+		"title": "Domein B Wereld",
+		"tag_id": [
+			"340ed77e-c165-4f14-9996-3bc83a96eb0d"
+		]
+	},
+	{
+		"id": "e639cf65-e198-4225-8862-20f72658ea8b",
+		"prefix": "C.",
+		"title": "Domein C Aarde",
+		"tag_id": [
+			"340ed77e-c165-4f14-9996-3bc83a96eb0d"
+		]
+	},
+	{
+		"id": "48d1d74b-9e1d-403b-859a-bc3245f52726",
+		"prefix": "D.",
+		"title": "Domein D Gebieden",
+		"tag_id": [
+			"340ed77e-c165-4f14-9996-3bc83a96eb0d"
+		]
+	},
+	{
+		"id": "a06247dc-b2fd-4c0c-bf9a-21e75ecf9c77",
+		"prefix": "E.",
+		"title": "Domein E Leefomgeving",
+		"tag_id": [
+			"340ed77e-c165-4f14-9996-3bc83a96eb0d"
+		]
+	},
+	{
+		"id": "36e13559-2f6b-42d7-b0e7-f9f2c1858b78",
+		"prefix": "F.",
+		"title": "Domein F Oriëntatie op studie en beroep.",
+		"tag_id": [
+			"340ed77e-c165-4f14-9996-3bc83a96eb0d"
+		]
+	},
+	{
+		"id": "6b053d44-e6ad-455e-b33e-169142fa6ece",
+		"prefix": "1.",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B1, C1, D1 en E1.",
+		"tag_id": [
+			"219e85b5-466e-446a-b29a-204bd951c05b"
+		]
+	},
+	{
+		"id": "69da53a8-4ca2-472a-abe7-d49746aee6c0",
+		"prefix": "2.",
+		"title": "De CvTE  stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"tag_id": [
+			"219e85b5-466e-446a-b29a-204bd951c05b"
+		]
+	},
+	{
+		"id": "16956cce-5b65-4e3d-ba66-a3c3a272cbf3",
+		"prefix": "3.",
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"219e85b5-466e-446a-b29a-204bd951c05b"
+		]
+	},
+	{
+		"id": "270b6799-e32d-4d61-a157-951df4809db4",
+		"prefix": "1.",
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "e053a227-b2a1-4524-8db7-e5df8de0eed5",
+		"prefix": "2.",
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "b531fd20-2edb-412f-9132-23013274e5fe",
+		"prefix": "3.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "4f20804e-482d-42e2-ad53-8da246fea20e",
+		"title": "In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoetst: 3, 5, 6, 11, 12, 17 en 18. In het centraal examen (CE) voor GL/TL worden bovendien de eindtermen 22, 24 en 26 getoetst.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "cfff1c12-5e7a-4147-8c9e-3e6492dfde80",
+		"title": "De overige eindtermen worden in het schoolexamen (SE) getoetst.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "92ab6081-60d4-4466-8532-52147c9aa5e0",
+		"title": "Eindterm 3 wordt zowel in het schoolexamen als in het centraal examen getoetst.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "7f2f5b48-4112-4863-8c76-ce8fb87fb289",
+		"title": "De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "ccfaa937-4c31-40d4-99c3-903af076a368",
+		"prefix": "A.",
+		"title": "Domein A: Vaardigheden",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "2d0f6d0b-c8b3-4fd1-b636-c5e0018d1fec",
+		"prefix": "B.",
+		"title": "Domein B: Wereld",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "32efb5e5-b740-44b6-9402-03af8fb14ae9",
+		"prefix": "C.",
+		"title": "Domein C: Aarde",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "5893352c-4f46-42fb-8fbc-488d871efeed",
+		"prefix": "D.",
+		"title": "Domein D: Ontwikkelingsland",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "b0de510e-3ac2-4cb2-802f-e46f69ef9385",
+		"prefix": "E.",
+		"title": "Domein E: Leefomgeving",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "e288278e-13ec-4d54-81fb-dcf39114fdfc",
+		"prefix": "F.",
+		"title": "Domeind F: Oriëntatie op studie en beroep",
+		"tag_id": [
+			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+		]
+	},
+	{
+		"id": "05820552-d56d-41ab-99ac-f4a3d3744c10",
+		"prefix": "1.",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "e6af7d85-be26-4e53-aeab-03c4859a1adc",
+		"prefix": "2.",
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "1a7154f7-1e1c-4e71-b052-6e8d9c0031d3",
+		"prefix": "3.",
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"34cd0f46-df20-4632-99ca-203f339f8b73"
+		]
+	},
+	{
+		"id": "421a3831-11da-4c89-b566-b236af75d2cd",
+		"prefix": "1.",
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "e653076d-f71e-457c-ad45-0c6281e5a21b",
+		"prefix": "2.",
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	},
+	{
+		"id": "3ee8e911-7098-46df-8b17-852d0f6bc615",
+		"prefix": "3.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"d902a025-b22a-4b47-b9b3-925859fca61b"
+		]
+	}
+]
