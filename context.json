@@ -15,7 +15,7 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
 					]
 				}
-			},
+			}
 		},
 		"examenprogramma_subdomein": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
@@ -65,15 +65,15 @@
 		"examenprogramma" : {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
 			"properties" : {
-				"ingangsdatum" : "string",
-				"url" : "string",
-				"versie" : "string",
+				"ingangsdatum" : { "type" : "string" },
+				"url" : { "type" : "string" },
+				"versie" : { "type" : "string" },
 				"examenprogramma_domein_id": {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/examenprogramma_domein" } }
 					]
-				},
+				}
 			}
 		},
 		"examenprogramma_vakleergebied_id" : {
