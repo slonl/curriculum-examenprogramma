@@ -1,0 +1,66 @@
+{
+	"@context": {
+		"examenprogramma": "http://opendata.slo.nl/curriculum/schemas/examenprogramma.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"examenprogramma_vakleergebied_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_domein_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_subdomein_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_kop1_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_kop2_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_kop3_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_kop4_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_body_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_eindterm_id": {
+			"@container": "@set"
+		},
+		"examenprogramma_vakleergebied": {
+			"@id": "examenprogramma:#examenprogramma_vakleergebied"
+		},
+		"examenprogramma_domein": {
+			"@id": "examenprogramma:#examenprogramma_domein"
+		},
+		"examenprogramma_subdomein": {
+			"@id": "examenprogramma:#examenprogramma_subdomein"
+		},
+		"examenprogramma_kop1": {
+			"@id": "examenprogramma:#examenprogramma_kop1"
+		},
+		"examenprogramma_kop2": {
+			"@id": "examenprogramma:#examenprogramma_kop2"
+		},
+		"examenprogramma_kop3": {
+			"@id": "examenprogramma:#examenprogramma_kop3"
+		},
+		"examenprogramma_kop4": {
+			"@id": "examenprogramma:#examenprogramma_kop4"
+		},
+		"examenprogramma_body": {
+			"@id": "examenprogramma:#examenprogramma_body"
+		},
+		"examenprogramma_eindterm": {
+			"@id": "examenprogramma:#examenprogramma_eindterm"
+		},
+	}
+}
