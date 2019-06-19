@@ -48,7 +48,20 @@
 							}
 						}
 					]
+				},
+				"eindterm_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/examenprogramma_eindterm"
+							}
+						}
+					]
 				}
+
 			}
 		},
 		"examenprogramma_vakleergebied": {
