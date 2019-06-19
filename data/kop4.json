@@ -3,7 +3,7 @@
 		"id": "b7486164-e607-4527-b598-9688aa1fcda8",
 		"title": "Daarnaast heeft het schoolexamen betrekking op:",
 		"tag_id": [
-			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
 		"examenprogramma_body_id": [
 			"b31349e0-4c38-4292-aa25-dc86415409e7",
@@ -12,48 +12,48 @@
 		]
 	},
 	{
-		"id": "7d3881ee-5c3a-42fb-9529-a6eac56e7b5f",
+		"id": "b0977e3f-8b70-4cc4-996c-9a5abce2f684",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
 			"4f051d86-dcb7-449b-80bf-cef348001a6e",
 			"d7a6100d-221d-4370-aeb7-481f35af0337",
 			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7",
-			"635a7c33-821a-4a84-ac6a-f6879ad794f6",
-			"b84d3359-c0d0-4fd4-91e0-0420815e4f16",
-			"76f7c22b-e642-440b-a1ae-e6dc3b2807df",
-			"909b2fd9-7df7-49ff-85ec-e152d31a4783"
+			"5863599e-2729-4df3-8617-09c33d532e7b",
+			"d7095b6e-f182-49a0-9f44-464246d1ae7c",
+			"72d2a940-ca20-48bd-9e1b-13f34f14eae4",
+			"d3809eaa-2aa3-4d10-b86e-01e825c45b4a"
 		]
 	},
 	{
-		"id": "3a3ddbd8-56a6-4474-9ad8-ec861d037bd8",
+		"id": "3087bd1b-4104-49d9-8979-606f0ef3b83b",
 		"title": "Examenstof:",
 		"tag_id": [
-			"c673c957-0b9c-4e98-b413-2b9d84a459fd",
-			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50",
+			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "a4ac2fe0-e5c0-43d0-970f-119efa55619c",
+		"id": "76c32af9-a598-4ec0-8ff4-703297257ad8",
 		"title": "Het schoolexamen heeft betrekking op domein A en:",
 		"tag_id": [
-			"d902a025-b22a-4b47-b9b3-925859fca61b"
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
 		],
 		"examenprogramma_body_id": [
-			"adc513e2-f3a4-4bc1-9d0b-0fbf1041ab96",
-			"3364872e-6cda-49f3-a9fb-b2db22a316fe",
-			"ce6b47b4-8775-48af-8a50-8e569977ac65",
-			"1b7b2238-3c71-44f9-bb91-c95aab137641",
-			"85e86c6f-429a-4954-8c4f-d5104d8b64a6",
-			"04a8f984-7d70-4d82-99fa-4ded35d84ec6",
-			"2c971483-7349-4bec-8ea2-499bf09ed81b",
-			"4f94513b-15b7-491b-9cd8-0ed5874e79ac",
-			"e352e04c-c8f8-40f3-92db-1d31a7027401",
-			"c5f9d959-5c5e-4561-9a7b-42462ba053da",
-			"781ef9ca-5b76-4720-a814-5bcefe208318",
-			"9d3162c6-2c53-4a41-9cb3-463dd52b8859",
-			"cb84be7e-cad6-44fa-9d37-99bfe5608490"
+			"0ca7d860-dc4e-4c98-8517-68b8a89e15db",
+			"f9b03a21-8c85-4536-ad07-59fb58d77a56",
+			"196d43af-5fdc-42f2-a693-c1be3e99af31",
+			"5346ee50-bb02-4376-a3ab-affdaa682059",
+			"fe218944-88d3-415c-845e-0d2924765f09",
+			"2fd1fe51-8fa3-443a-b432-3e3c5fb89e66",
+			"c3fe7345-b2fb-4937-91d4-8affe51ca304",
+			"a887477d-3992-4b80-a8ec-33e7abd7d185",
+			"e1657330-791e-433e-af22-dd801ffd2502",
+			"6f12e8e7-55e7-47e6-b7cb-7c2c4e1dbd5c",
+			"e9190f91-bc10-4dbc-aa33-c540528d9a9e",
+			"361d1350-face-4a05-831b-db2fd4c32fa1",
+			"048154cd-0ddc-4f9a-b9c6-b1e65f8b6979"
 		],
 		"examenprogramma_kop4_id": []
 	},
@@ -76,7 +76,7 @@
 		"id": "0120fcbe-4728-4e05-b214-5894df86a69d",
 		"title": "Algemene vaardigheden (profieloverstijgend niveau)",
 		"tag_id": [
-			"896921a2-1c4e-46fe-b317-eedee3cabff6"
+			"4ddbf045-8c97-4983-88fd-afa1e78afd77"
 		],
 		"examenprogramma_body_id": []
 	},
@@ -84,7 +84,7 @@
 		"id": "42a5cb0a-911d-46b9-8f67-50e0d52caca9",
 		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
 		"tag_id": [
-			"eb48afcc-ac3f-4b02-bdc9-2a860e996fda"
+			"732e91df-50c2-465f-948c-07462f06acba"
 		],
 		"examenprogramma_body_id": []
 	},
@@ -92,7 +92,7 @@
 		"id": "ccc21798-8345-4c0d-af9a-589f8ec4f2bc",
 		"title": "NLT-specifieke vaardigheden",
 		"tag_id": [
-			"a82305c2-ec1f-4353-a7d6-63894ecf8838"
+			"f1025847-e6d2-487e-9d54-a0554cd84491"
 		],
 		"examenprogramma_body_id": []
 	},
@@ -127,23 +127,23 @@
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "10cce863-e6b1-4838-90d2-1fd10eaf3278",
+		"id": "1cc740e7-77dd-491a-9fe2-b5c04482764f",
 		"title": "Het schoolexamen:",
 		"tag_id": [
-			"d902a025-b22a-4b47-b9b3-925859fca61b"
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
 		],
 		"examenprogramma_body_id": [
-			"ce29bf8d-cf26-418a-9a07-494c3233d75b",
-			"028b11b5-8006-402d-8fdc-e2bff8e5f757",
-			"e3b48add-9a6e-44c9-b05c-a854844d23c9"
+			"5017df8b-7059-4182-924c-596485aa5d6c",
+			"39a54789-3cf5-46e1-9f88-a2849a684db3",
+			"457a799a-7682-4aeb-8d78-68691b151065"
 		]
 	},
 	{
-		"id": "0a8fa2b7-1e5d-46c0-9a6b-16f13e1c2ce3",
+		"id": "f009f446-73f4-4765-b9dd-85127bd5e38d",
 		"prefix": "BI/K/1",
 		"title": "Examenstof:",
 		"tag_id": [
-			"52e4c1a3-23d6-4b09-a9ce-4b0ba4fff56d"
+			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
 		"examenprogramma_body_id": []
 	},
@@ -151,7 +151,7 @@
 		"id": "31261639-a477-4abc-8a85-af4710fa3518",
 		"title": "De examenstof",
 		"tag_id": [
-			"c673c957-0b9c-4e98-b413-2b9d84a459fd"
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
 		],
 		"examenprogramma_body_id": []
 	},
@@ -164,18 +164,6 @@
 			"cfff1c12-5e7a-4147-8c9e-3e6492dfde80",
 			"92ab6081-60d4-4466-8532-52147c9aa5e0",
 			"7f2f5b48-4112-4863-8c76-ce8fb87fb289"
-		]
-	},
-	{
-		"id": "e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"d902a025-b22a-4b47-b9b3-925859fca61b"
-		],
-		"examenprogramma_body_id": [
-			"421a3831-11da-4c89-b566-b236af75d2cd",
-			"e653076d-f71e-457c-ad45-0c6281e5a21b",
-			"3ee8e911-7098-46df-8b17-852d0f6bc615"
 		]
 	}
 ]

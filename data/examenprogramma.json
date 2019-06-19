@@ -3,7 +3,7 @@
 		"id": "edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
 		"title": "Examenprogramma wiskunde vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"be1355b5-c828-4556-87b6-e0de3b35023b"
+			"00d3350b-a9fa-489c-95a0-09c5a50c2bcd"
 		],
 		"examenprogramma_domein_id": [
 			"59ae47fe-b3b9-4c82-92dd-55d1ba520dfe",
@@ -27,7 +27,7 @@
 		"id": "d8c88680-be2f-467c-b50b-076f6144b444",
 		"title": "Examenprogramma wiskunde D vwo",
 		"examenprogramma_vakleergebied_id": [
-			"c4d21ef3-a791-4145-8322-721c752bfb62"
+			"228546db-a332-4a29-8f84-31f62711f62c"
 		],
 		"examenprogramma_domein_id": [
 			"fdd09e66-80f6-43ac-b91a-0b7f938d6eaa",
@@ -39,14 +39,14 @@
 			"ddf07b07-9629-4bbe-9a6f-ae2943825095"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "3315f017-4613-401a-abc0-96f7207b6543",
 		"title": "Examenprogramma wiskunde D havo",
 		"examenprogramma_vakleergebied_id": [
-			"c4d21ef3-a791-4145-8322-721c752bfb62"
+			"228546db-a332-4a29-8f84-31f62711f62c"
 		],
 		"examenprogramma_domein_id": [
 			"fdd09e66-80f6-43ac-b91a-0b7f938d6eaa",
@@ -56,14 +56,14 @@
 			"f9ae7f15-3c95-4655-82f7-571852241f7a"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "4758779f-48a8-4876-a491-262ee888cd62",
 		"title": "Examenprogramma wiskunde C vwo",
 		"examenprogramma_vakleergebied_id": [
-			"09685bc2-4b5c-446a-b9d1-53d70bf0baf0"
+			"293dc6a7-785b-435a-b242-15896e8185ad"
 		],
 		"examenprogramma_domein_id": [
 			"2b245422-42b9-45d9-9ba0-ddc1834e4689",
@@ -76,14 +76,14 @@
 			"941b0c0d-de6d-428d-aa1e-657e663c7786"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "ec6f8a9d-e05f-40c4-9078-bf4b7b3cf401",
 		"title": "Examenprogramma wiskunde B vwo",
 		"examenprogramma_vakleergebied_id": [
-			"12cc1531-5f6e-4429-aa08-2c8615b70502"
+			"7485caa3-bf15-43e1-aa9c-2cd69437967b"
 		],
 		"examenprogramma_domein_id": [
 			"33a1bbba-1caa-4390-85ba-8b48d7805357",
@@ -94,14 +94,14 @@
 			"65362343-e7ab-45a3-8015-f2364ce66be3"
 		],
 		"examenprogramma_kop1_id": [
-			"4d5137e1-de3f-4ade-a40c-b5589a629cc2"
+			"a4fd8037-b589-42ce-b0ee-3e298fb79ab6"
 		]
 	},
 	{
 		"id": "b5bf4f0b-8f5d-46a2-aa66-3460e929976e",
 		"title": "Examenprogramma wiskunde B havo",
 		"examenprogramma_vakleergebied_id": [
-			"12cc1531-5f6e-4429-aa08-2c8615b70502"
+			"7485caa3-bf15-43e1-aa9c-2cd69437967b"
 		],
 		"examenprogramma_domein_id": [
 			"33a1bbba-1caa-4390-85ba-8b48d7805357",
@@ -110,14 +110,14 @@
 			"be208853-5136-45c6-8c83-03ab902fa985"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "6f5d3c16-1274-4f69-9601-cb96188e1b54",
 		"title": "Examenprogramma wiskunde vwo",
 		"examenprogramma_vakleergebied_id": [
-			"8b706733-4609-46d7-ade0-6fe1f62cfb4f"
+			"e8e0d8d5-c987-4f72-91d7-1c4dcca79c56"
 		],
 		"examenprogramma_domein_id": [
 			"5e587a7a-1d72-474b-a757-579185f925af",
@@ -128,14 +128,14 @@
 			"aec70e35-7fb5-466e-bfed-929a31d2b975"
 		],
 		"examenprogramma_kop1_id": [
-			"244cd023-33d2-48a2-819b-d5ca74b5a62d"
+			"a92e30dc-e4fa-4f60-8001-e50dbcb5f8b0"
 		]
 	},
 	{
 		"id": "0b58d535-ca20-47e4-9f40-3033e291ec6e",
 		"title": "Examenprogramma wiskunde A havo",
 		"examenprogramma_vakleergebied_id": [
-			"8b706733-4609-46d7-ade0-6fe1f62cfb4f"
+			"e8e0d8d5-c987-4f72-91d7-1c4dcca79c56"
 		],
 		"examenprogramma_domein_id": [
 			"b8300ada-606f-45c8-892f-cbed71adf738",
@@ -145,15 +145,15 @@
 			"be4bc6b1-4175-4598-b8ca-06c29b2a92f6"
 		],
 		"examenprogramma_kop1_id": [
-			"ad810acf-588e-4365-947c-02e97c2b29b5",
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"373a2e7b-d573-4805-86b8-b221595d380e",
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "318c2a68-c57e-48a9-92af-76d402223133",
 		"title": "Examenprogramma scheikunde",
 		"examenprogramma_vakleergebied_id": [
-			"b75890b0-d15b-41b0-baaa-d161482e1412"
+			"ae188199-a3e9-414e-81bd-d50005a89fab"
 		],
 		"examenprogramma_domein_id": [
 			"53d03698-2109-4b17-affc-b1872855b8b4",
@@ -165,14 +165,14 @@
 			"baa21fe3-bd82-4e21-9073-bf7acc8913a3"
 		],
 		"examenprogramma_kop1_id": [
-			"1afae424-7918-4492-9b62-8e9e5686ff70"
+			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
 		]
 	},
 	{
 		"id": "37db1897-2916-4c11-8226-a719877d651e",
 		"title": "Examenprogramma scheikunde",
 		"examenprogramma_vakleergebied_id": [
-			"b75890b0-d15b-41b0-baaa-d161482e1412"
+			"ae188199-a3e9-414e-81bd-d50005a89fab"
 		],
 		"examenprogramma_domein_id": [
 			"53d03698-2109-4b17-affc-b1872855b8b4",
@@ -184,15 +184,15 @@
 			"baa21fe3-bd82-4e21-9073-bf7acc8913a3"
 		],
 		"examenprogramma_kop1_id": [
-			"1afae424-7918-4492-9b62-8e9e5686ff70",
-			"09a92ffc-af10-49c6-85e9-8ff025406e3d"
+			"e06ca8d0-7d1a-484c-81ff-972fa162ada3",
+			"6e3b98e0-1df6-4138-9552-276859588318"
 		]
 	},
 	{
 		"id": "71393e79-ddd8-4230-95c0-2fb6846fb208",
 		"title": "Examenprogramma natuur, leven en technologie",
 		"examenprogramma_vakleergebied_id": [
-			"4030c10b-33ed-4cf4-b710-052199885342"
+			"a993176b-86aa-4ec0-83a0-c624d221a714"
 		],
 		"examenprogramma_domein_id": [
 			"a4018249-5959-42eb-93a3-c55227dba702",
@@ -203,14 +203,14 @@
 			"6cb812c0-0901-478d-917b-baf346f50c1c"
 		],
 		"examenprogramma_kop1_id": [
-			"9390e230-b653-4caa-b866-fea57fad42b3"
+			"a59cce98-5920-462c-af54-a2978fcb97a0"
 		]
 	},
 	{
 		"id": "b477a5d1-07c5-4028-80c3-3e33cd4ef672",
 		"title": "Examenprogramma Natuur, leven en technologie",
 		"examenprogramma_vakleergebied_id": [
-			"4030c10b-33ed-4cf4-b710-052199885342"
+			"a993176b-86aa-4ec0-83a0-c624d221a714"
 		],
 		"examenprogramma_domein_id": [
 			"3ba08ff9-ddef-40b7-8f64-c2550918236b",
@@ -220,15 +220,15 @@
 			"7f2cd3b7-8a3d-4c07-9ce9-af5ed865a55c"
 		],
 		"examenprogramma_kop1_id": [
-			"9390e230-b653-4caa-b866-fea57fad42b3",
-			"1afae424-7918-4492-9b62-8e9e5686ff70"
+			"a59cce98-5920-462c-af54-a2978fcb97a0",
+			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
 		]
 	},
 	{
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
 		"title": "Examenprogramma  Nederlandse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"03698c04-765e-4119-8963-670b909b2ea6"
+			"884ade07-ac8d-4995-88f2-8559ec4f3f45"
 		],
 		"examenprogramma_domein_id": [
 			"a0d712ff-2be3-4196-a33a-7d0d638cf327",
@@ -239,9 +239,9 @@
 			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8",
 			"37f27aaf-a7fb-439a-aa7d-559ff00a0315",
 			"7f96a983-edeb-4d1b-85b8-016b7349398b",
-			"4bd920ac-5d23-424f-97fa-bae2524f7c56",
-			"37b138a5-7153-4ecd-8d3e-334ef4cb94f3",
-			"f5f78128-abe4-4d8d-a6d5-2b9d633c532f"
+			"56a3cc91-8499-4907-9f0c-e3dd01a371d5",
+			"976f5ca9-4fce-4db4-8082-8ab42d43cbe8",
+			"bc51b3d9-fece-43f8-8127-454f89c08270"
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
@@ -251,7 +251,7 @@
 		"id": "ddab8ccb-30e2-4075-b0e7-0b2eb526ef28",
 		"title": "Examenprogramma Nederlandse taal en literatuur havo/vwo",
 		"examenprogramma_vakleergebied_id": [
-			"03698c04-765e-4119-8963-670b909b2ea6"
+			"884ade07-ac8d-4995-88f2-8559ec4f3f45"
 		],
 		"examenprogramma_domein_id": [
 			"74a6a1ca-5ff8-4bc4-9a61-ba20aed48a8b",
@@ -262,14 +262,14 @@
 			"72c752f2-938a-4a13-96a5-97a0ce41dd7c"
 		],
 		"examenprogramma_kop1_id": [
-			"b67bc41a-ddd8-49d2-bd8c-08e5ed0bb471"
+			"9efc5e7d-d1b6-4732-b5c7-18d09c395389"
 		]
 	},
 	{
 		"id": "611f2494-3499-4809-b28b-204bc405c3dd",
 		"title": "Examenprogramma natuurkunde",
 		"examenprogramma_vakleergebied_id": [
-			"6ac75c79-39f6-4d76-b757-364dceb0d27f"
+			"75b23052-7756-4a6e-8528-f5d0b651284e"
 		],
 		"examenprogramma_domein_id": [
 			"352fb802-9d15-4508-bc18-af556cec336a",
@@ -283,14 +283,14 @@
 			"567aabfc-71dd-4358-9783-de8c169b0894"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "3f3dec2a-a6ad-40c3-9b0e-95e624e1bc9f",
 		"title": "Examenprogramma natuurkunde",
 		"examenprogramma_vakleergebied_id": [
-			"43ee1539-0a7b-41d0-a25f-fa4213862b4a"
+			"18e19030-008a-4c65-bad2-981c84ee1c0b"
 		],
 		"examenprogramma_domein_id": [
 			"e59bf9fd-46c6-45a3-aedd-743c3f037116",
@@ -304,14 +304,14 @@
 			"a3beeab4-db02-4871-a145-80af43eb1423"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
 		"title": "Examenprogramma Natuur- en scheikunde II vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"b3d0e1de-cdbb-467f-a0c8-98153d8f4a12"
+			"cd6d7423-f3c6-4a9b-a5b2-69e007e39bf2"
 		],
 		"examenprogramma_domein_id": [
 			"f5e1dcd9-d7dc-4f16-87df-5db52b4c9cb6",
@@ -338,7 +338,7 @@
 		"id": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
 		"title": "Examenprogramma Natuur- en scheikunde 1 vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"66063bb3-bbcc-42b6-9cfa-bc54fbe8bec7"
+			"6e5e93ba-56ba-4c57-a413-86431e035685"
 		],
 		"examenprogramma_domein_id": [
 			"60c4b942-0fac-450b-b7c7-14a363b4b990",
@@ -366,9 +366,9 @@
 		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
 		"title": "Examenprogramma moderne vreemde talen en literatuur havo/vwo",
 		"examenprogramma_vakleergebied_id": [
-			"7d80e50e-4925-402c-841f-85b62ae29a41",
-			"840c1b3d-3029-44c9-be1d-12cb8c7db469",
-			"7d6127e9-b607-4719-9b1a-fe384f3082d7"
+			"d16dd0b1-7779-4724-9d2b-804746c42e7d",
+			"b61cb702-1d9d-462f-96fd-85eb39922e8f",
+			"117347d0-400f-4107-9f60-7395e2d0a422"
 		],
 		"examenprogramma_domein_id": [
 			"4c9a41ef-1c73-42e8-bc06-08c06e4505aa",
@@ -379,14 +379,14 @@
 			"99387359-1d29-4541-9895-4a905f81f896"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "b44cba12-6a0c-4579-a818-d781b53a618d",
 		"title": "Examenprogramma management en organisatie vwo",
 		"examenprogramma_vakleergebied_id": [
-			"0b2dab58-9a03-4aa1-93a4-1c442d9ab213"
+			"a9afbab8-4bda-4729-a8eb-cacb496d8bb3"
 		],
 		"examenprogramma_domein_id": [
 			"3523a6d9-e47e-4938-9693-56915d422114",
@@ -398,7 +398,7 @@
 			"939006cd-0e21-441d-849e-f56ccfbee0c5"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
@@ -406,7 +406,7 @@
 		"prefix": "16.",
 		"title": "Examenprogramma M&O havo",
 		"examenprogramma_vakleergebied_id": [
-			"0b2dab58-9a03-4aa1-93a4-1c442d9ab213"
+			"a9afbab8-4bda-4729-a8eb-cacb496d8bb3"
 		],
 		"examenprogramma_domein_id": [
 			"3523a6d9-e47e-4938-9693-56915d422114",
@@ -418,7 +418,7 @@
 			"939006cd-0e21-441d-849e-f56ccfbee0c5"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		],
 		"niveau_id": []
 	},
@@ -426,7 +426,7 @@
 		"id": "a295b232-d65a-47b5-811b-194dd1d43422",
 		"title": "Examenprogramma Maatschappijwetenschappen vwo",
 		"examenprogramma_vakleergebied_id": [
-			"dbd4ad5a-a160-43eb-8ea6-a22d651069e6"
+			"87734652-ceeb-4208-a1ce-ccd858a256ec"
 		],
 		"examenprogramma_domein_id": [
 			"42eb2d4e-ec92-4a54-9c33-1fe22728ddac",
@@ -439,14 +439,14 @@
 			"fb0a5b74-a559-4ed0-adf0-87388e64223c"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "75b428a4-c65f-40d7-885a-c87c6b51a57c",
 		"title": "Examenprogramma Maatschappijwetenschappen havo",
 		"examenprogramma_vakleergebied_id": [
-			"dbd4ad5a-a160-43eb-8ea6-a22d651069e6"
+			"87734652-ceeb-4208-a1ce-ccd858a256ec"
 		],
 		"examenprogramma_domein_id": [
 			"42eb2d4e-ec92-4a54-9c33-1fe22728ddac",
@@ -458,14 +458,14 @@
 			"7ad5ae2f-2316-4183-9f09-26e2b506af81"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "dd62ec2d-7037-4ff8-9539-c31da2028944",
 		"title": "Examenprogramma maatschappijleer vwo",
 		"examenprogramma_vakleergebied_id": [
-			"4aef9c73-6072-4556-8a61-aaebbb122976"
+			"4e79cf32-55ab-4577-8b90-54f3ba115d47"
 		],
 		"examenprogramma_domein_id": [
 			"4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
@@ -475,14 +475,14 @@
 			"493af023-4d6a-4d13-b7a8-f9448fc3ec4e"
 		],
 		"examenprogramma_kop1_id": [
-			"9390e230-b653-4caa-b866-fea57fad42b3"
+			"a59cce98-5920-462c-af54-a2978fcb97a0"
 		]
 	},
 	{
 		"id": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
 		"title": "Examenprogramma maatschappijleer vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"4aef9c73-6072-4556-8a61-aaebbb122976"
+			"4e79cf32-55ab-4577-8b90-54f3ba115d47"
 		],
 		"examenprogramma_domein_id": [
 			"86c33bef-a2eb-4838-b5e7-52d02259fb03",
@@ -501,7 +501,7 @@
 		"id": "bd4ef329-a3c6-4cbc-b043-17fb8ff85703",
 		"title": "Examenprogramma maatschappijleer havo",
 		"examenprogramma_vakleergebied_id": [
-			"4aef9c73-6072-4556-8a61-aaebbb122976"
+			"4e79cf32-55ab-4577-8b90-54f3ba115d47"
 		],
 		"examenprogramma_domein_id": [
 			"1084fd95-07df-4a71-b85f-0a99e31ad59e",
@@ -511,14 +511,14 @@
 			"0b4c18e5-af30-43ef-9652-f6795ac1e590"
 		],
 		"examenprogramma_kop1_id": [
-			"9390e230-b653-4caa-b866-fea57fad42b3"
+			"a59cce98-5920-462c-af54-a2978fcb97a0"
 		]
 	},
 	{
 		"id": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
 		"title": "Examenprogramma maatschappijkunde vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"8367f542-9d25-442e-a6c4-08874631b4af"
+			"f4250784-8d22-4f97-ba90-328d23b28568"
 		],
 		"examenprogramma_domein_id": [
 			"e15fbf14-357a-466f-b6cd-474225e59f24",
@@ -541,7 +541,7 @@
 		"id": "ab7b3996-f658-4981-a4cb-0689f00aa24c",
 		"title": "Examenprogramma informatietechnologie vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"8e6f272d-0227-4680-be78-183ab337fd10"
+			"3da32d3c-2814-48fe-9889-95cf1d87e55d"
 		],
 		"examenprogramma_domein_id": [
 			"caf3334d-6355-4f07-a24f-478bf1599754",
@@ -560,7 +560,7 @@
 		"id": "fddc262e-f971-48a6-9fef-4b0cf4cd3253",
 		"title": "Examenprogramma informatica",
 		"examenprogramma_vakleergebied_id": [
-			"dfca236d-4c0a-425f-b0b5-4766446bcc6a"
+			"27caac4b-314e-4802-b80d-fad91a014ddd"
 		],
 		"examenprogramma_domein_id": [
 			"54b16660-d706-43ae-857d-eb328928d379",
@@ -583,14 +583,14 @@
 			"89d216ab-55dc-48c4-b4ee-f1e2c4474651"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
 		"title": "Examenprogramma geschiedenis vwo",
 		"examenprogramma_vakleergebied_id": [
-			"65070e99-09b6-45a5-8558-01a433e281e0"
+			"b302a70d-3892-4265-b693-048381698f2a"
 		],
 		"examenprogramma_domein_id": [
 			"8f9d8a47-21c1-4051-a35f-3afe64b88b69",
@@ -600,14 +600,14 @@
 			"493e5abc-d9b7-434b-9f6f-85dbe333baf2"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "0af05781-3b4e-4137-9f16-cb700db72b88",
 		"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"65070e99-09b6-45a5-8558-01a433e281e0"
+			"b302a70d-3892-4265-b693-048381698f2a"
 		],
 		"examenprogramma_domein_id": [
 			"0b767adb-ab60-4799-8857-9ab32ccd335a",
@@ -639,7 +639,7 @@
 		"id": "d70f38ff-7cd3-4fb7-921a-78b8e2d4c3ff",
 		"title": "Examenprogramma geschiedenis havo",
 		"examenprogramma_vakleergebied_id": [
-			"65070e99-09b6-45a5-8558-01a433e281e0"
+			"b302a70d-3892-4265-b693-048381698f2a"
 		],
 		"examenprogramma_domein_id": [
 			"8f9d8a47-21c1-4051-a35f-3afe64b88b69",
@@ -649,14 +649,14 @@
 			"493e5abc-d9b7-434b-9f6f-85dbe333baf2"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "803fe798-4884-4e69-94b9-fc0364989e95",
 		"title": "Examenprogramma Franse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"840c1b3d-3029-44c9-be1d-12cb8c7db469"
+			"b61cb702-1d9d-462f-96fd-85eb39922e8f"
 		],
 		"examenprogramma_domein_id": [
 			"fb138f99-786a-45a1-96d3-ef8d8a555b53",
@@ -672,14 +672,16 @@
 			"311b43bd-3f0b-48e8-ab27-209f8d15e704"
 		],
 		"examenprogramma_kop1_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"177dee42-5a35-436c-8060-70084aba4958",
+			"b28bf768-b56c-4b92-a37d-dcd36859e495"
 		]
 	},
 	{
 		"id": "2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
 		"title": "Examenprogramma Filosofie vwo",
 		"examenprogramma_vakleergebied_id": [
-			"039125b7-e720-499c-8a5c-784ebbdd8241"
+			"9dad5b12-f1ba-4bf8-b438-56b8cb074076"
 		],
 		"examenprogramma_domein_id": [
 			"05c65929-da64-4974-b769-244e65dd99ce",
@@ -689,14 +691,14 @@
 			"655953eb-223b-416d-b2f1-5f5a6fea8296"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170",
 		"title": "Examenprogramma Filosofie havo",
 		"examenprogramma_vakleergebied_id": [
-			"17eb073b-3be6-410e-ab11-5e4ff3c321ad"
+			"86d730ae-83ac-4072-b06d-77a046c8a388"
 		],
 		"examenprogramma_domein_id": [
 			"05c65929-da64-4974-b769-244e65dd99ce",
@@ -705,14 +707,14 @@
 			"57ae8740-026f-46d9-8528-f2bef1dc4023"
 		],
 		"examenprogramma_kop1_id": [
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		]
 	},
 	{
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
 		"title": "Examenprogramma Engelse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"7d6127e9-b607-4719-9b1a-fe384f3082d7"
+			"117347d0-400f-4107-9f60-7395e2d0a422"
 		],
 		"examenprogramma_domein_id": [
 			"955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
@@ -728,14 +730,16 @@
 			"f8fc7329-a2c9-4438-b42b-36cf5d6fb768"
 		],
 		"examenprogramma_kop1_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"177dee42-5a35-436c-8060-70084aba4958",
+			"b28bf768-b56c-4b92-a37d-dcd36859e495"
 		]
 	},
 	{
 		"id": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
 		"title": "Examenprogramma economie vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"54733412-5f9e-40f4-af50-19a461d5f687"
+			"2fc4c045-3204-415b-9510-02c7292c323f"
 		],
 		"examenprogramma_domein_id": [
 			"192b908f-53ef-47d2-83b7-30fcee62846a",
@@ -753,14 +757,14 @@
 			"fc430196-76ae-4ac0-a55c-af24db05f5d1"
 		],
 		"examenprogramma_kop1_id": [
-			"2624a1dd-b0d3-4f19-9209-7ab7accc8c04"
+			"13e59779-c698-40e6-bdcf-1a6a1f71e557"
 		]
 	},
 	{
 		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
 		"title": "Examenprogramma economie",
 		"examenprogramma_vakleergebied_id": [
-			"bda3656e-0494-460f-a346-f89d6e4b8b37"
+			"6ad71686-b220-4f19-8884-21384b2066ca"
 		],
 		"examenprogramma_domein_id": [
 			"19ce8c9a-317c-4f03-9091-01cfa6ad2908",
@@ -776,14 +780,14 @@
 			"4abdcdd9-dc4a-4580-9218-aecb04462d13"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "97072d2d-c8c4-4fe8-b30f-a73f5f2d95df",
 		"title": "Examenprogramma Duitse taal",
 		"examenprogramma_vakleergebied_id": [
-			"7d80e50e-4925-402c-841f-85b62ae29a41"
+			"d16dd0b1-7779-4724-9d2b-804746c42e7d"
 		],
 		"examenprogramma_domein_id": [
 			"40175655-d16a-4128-b424-05b278bbb010",
@@ -799,33 +803,35 @@
 			"b6bfcb54-66c6-4a7d-856e-d2dda8b46913"
 		],
 		"examenprogramma_kop1_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"177dee42-5a35-436c-8060-70084aba4958",
+			"b28bf768-b56c-4b92-a37d-dcd36859e495"
 		]
 	},
 	{
-		"id": "e0d3042a-0e71-45f0-b606-d8bc4d161da4",
+		"id": "71bf2b08-2ab0-4e87-bcb8-166774c361ff",
 		"title": "Examenprogramma Chinese Taal en Cultuur",
 		"examenprogramma_vakleergebied_id": [
-			"91370212-e08e-401e-bb8d-fbb5df8e99cb"
+			"9090b97a-6212-45d6-be99-50edf2fe6eb0"
 		],
 		"examenprogramma_domein_id": [
-			"bbe1d161-268a-4cd8-80f0-cb3345643f3f",
-			"e2e1f070-a14e-4971-9c92-d1f3aa0a8208",
-			"631839aa-d1b8-4c39-964b-5995ae824667",
-			"f95fb38f-15fd-4217-a080-25a0878b88fc",
-			"d6f1e435-ffcc-488f-8422-cecf5d1bec9e",
-			"83619117-f559-4c58-8272-382d9ece2a94"
+			"f26cf254-d98b-455c-b757-d754c99e0c23",
+			"99fcaa00-4451-47fb-88a1-489ae9fa3fe3",
+			"b367fdd3-0822-4faa-8e5a-bfb7ad8eeb72",
+			"1fc1e51d-67db-4cd7-90d7-064a3fee5af1",
+			"6f5123de-f529-499a-a580-42b7b38105ce",
+			"050101cd-7f47-41db-9f0b-7d6e2fa39668"
 		],
 		"examenprogramma_kop1_id": [
-			"9390e230-b653-4caa-b866-fea57fad42b3",
-			"1afae424-7918-4492-9b62-8e9e5686ff70"
+			"a59cce98-5920-462c-af54-a2978fcb97a0",
+			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
 		]
 	},
 	{
 		"id": "92f57200-9ac6-449c-964c-b18c8996df85",
 		"title": "Examenprogramma biologie vwo",
 		"examenprogramma_vakleergebied_id": [
-			"6426ca15-8ebf-4c50-9ab7-afd9b5aad284"
+			"d2e1f9ed-044a-49f7-9356-669d2ab70287"
 		],
 		"examenprogramma_domein_id": [
 			"9ee0cec6-8b23-4cbc-ae3e-29697205e2cb",
@@ -836,14 +842,14 @@
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
 		"title": "Examenprogramma biologie vmbo bb",
 		"examenprogramma_vakleergebied_id": [
-			"6c3cd660-b0f0-4022-ac33-8b0d555c8a01"
+			"fc72a202-d64f-4d7c-b194-7e02150b44c6"
 		],
 		"examenprogramma_domein_id": [
 			"f80d6cd2-8a79-48a7-af22-37a741a85567",
@@ -865,14 +871,14 @@
 			"c7318dac-13d8-4da7-bd05-de7751d84084"
 		],
 		"examenprogramma_kop1_id": [
-			"1a77e9e5-01f9-4f26-8907-ff8cab9d72ea"
+			"f14420ea-abe2-4b84-bf20-9e9cab3565cb"
 		]
 	},
 	{
 		"id": "6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
 		"title": "Examenprogramma biologie havo",
 		"examenprogramma_vakleergebied_id": [
-			"6426ca15-8ebf-4c50-9ab7-afd9b5aad284"
+			"d2e1f9ed-044a-49f7-9356-669d2ab70287"
 		],
 		"examenprogramma_domein_id": [
 			"9ee0cec6-8b23-4cbc-ae3e-29697205e2cb",
@@ -883,14 +889,14 @@
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "a6e799c4-75f5-45b6-8a71-d2b0e76f1b02",
 		"title": "Examenprogramma Bedrijfseconomie vwo",
 		"examenprogramma_vakleergebied_id": [
-			"c6493a42-415f-42ea-be91-b7e72bb4c71e"
+			"4c227e7c-892e-4aeb-8310-ef828ed8edb0"
 		],
 		"examenprogramma_domein_id": [
 			"94e41891-e7dc-4728-92f6-abd7478f8165",
@@ -903,14 +909,14 @@
 			"cad1cb98-4e53-40f0-bf35-b23c6ae1dfef"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
 		"title": "Examenprogramma Bedrijfseconomie havo",
 		"examenprogramma_vakleergebied_id": [
-			"e8f2c4a1-4f23-468f-a6fd-cac3e070ab04"
+			"75eabeaf-900a-4540-aa01-b4cdd4c54062"
 		],
 		"examenprogramma_domein_id": [
 			"94e41891-e7dc-4728-92f6-abd7478f8165",
@@ -923,14 +929,14 @@
 			"cad1cb98-4e53-40f0-bf35-b23c6ae1dfef"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
 		"title": "Examenprogramma Beeldende vorming",
 		"examenprogramma_vakleergebied_id": [
-			"39e6ae93-a2dc-4e65-bd63-566e854b38cf"
+			"f030652c-eeb3-4405-919c-9e69c778000d"
 		],
 		"examenprogramma_domein_id": [
 			"ae25280b-382b-4097-8fb2-ee89c4e99f90",
@@ -946,14 +952,16 @@
 			"407dfb06-67dd-411e-a3ba-bfe60f274ce8"
 		],
 		"examenprogramma_kop1_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"177dee42-5a35-436c-8060-70084aba4958",
+			"b28bf768-b56c-4b92-a37d-dcd36859e495"
 		]
 	},
 	{
 		"id": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
 		"title": "Examenprogramma algemene natuurwetenschappen vwo",
 		"examenprogramma_vakleergebied_id": [
-			"7525f50d-431a-4a1d-aafe-71acf5d46b48"
+			"bc250773-e251-4084-bfe4-0a406c769bc4"
 		],
 		"examenprogramma_domein_id": [
 			"ec6a6827-0b68-4c58-a035-3a6f583b2129",
@@ -964,15 +972,15 @@
 			"b60ad051-e02a-447a-b85a-09bf05c1d2f7"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "02cf73d4-f026-466d-a20a-78a1b0142fd9",
 		"title": "Examenprogramma algemene natuurwetenschappen havo",
 		"examenprogramma_vakleergebied_id": [
-			"6b6a1ab9-929a-4b61-b8e3-21d44525e954",
-			"7525f50d-431a-4a1d-aafe-71acf5d46b48"
+			"748a73dd-9451-4e58-ae04-596b41e2f9de",
+			"bc250773-e251-4084-bfe4-0a406c769bc4"
 		],
 		"examenprogramma_domein_id": [
 			"ec6a6827-0b68-4c58-a035-3a6f583b2129",
@@ -983,14 +991,14 @@
 			"b60ad051-e02a-447a-b85a-09bf05c1d2f7"
 		],
 		"examenprogramma_kop1_id": [
-			"46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8"
+			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
 		]
 	},
 	{
 		"id": "e90b9cf7-b652-4f03-9e87-0a239e98eeab",
 		"title": "Examenprogramma aardrijkskunde ak vwo",
 		"examenprogramma_vakleergebied_id": [
-			"c185bf1f-3dc2-4a41-bcbd-3bda9db7a942"
+			"2b25a0dc-3c5c-413f-93c9-c603aa2186d5"
 		],
 		"examenprogramma_domein_id": [
 			"99133512-0fc8-4de8-9fb9-f9235f75751b",
@@ -1009,7 +1017,7 @@
 		"id": "544a0293-a7e3-4f6b-a973-30af7627bdea",
 		"title": "Examenprogramma aardrijkskunde vmbo bb",
 		"examenprogramma_vakleergebied_id": [
-			"c185bf1f-3dc2-4a41-bcbd-3bda9db7a942"
+			"2b25a0dc-3c5c-413f-93c9-c603aa2186d5"
 		],
 		"examenprogramma_domein_id": [
 			"d092a6a9-7943-438d-8618-e5f099e5cc54",
@@ -1032,25 +1040,6 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		]
-	},
-	{
-		"id": "5effad33-ae66-4a1b-b610-d6a4f5542e0a",
-		"title": "Examenprogramma aardrijkskunde havo",
-		"examenprogramma_vakleergebied_id": [
-			"d0b5ed50-73a0-4d75-8d6e-94a8cdc8eae5"
-		],
-		"examenprogramma_domein_id": [
-			"99133512-0fc8-4de8-9fb9-f9235f75751b",
-			"09e66e5b-06e9-4d39-b941-3b2a56c681eb",
-			"fa7a11c9-d85d-4773-84f1-099586fee47e",
-			"f142bb65-a9a1-411a-b4c5-ca620e5f93a4",
-			"06dec5a4-683d-481e-9ff4-5a3cb01685e0",
-			"f72384f9-4893-43cd-83a7-27733bdfe282"
-		],
-		"examenprogramma_kop1_id": [
-			"df53f8a0-67fa-46c9-93f9-4dbec6befd06",
-			"01e7a23f-7ee0-41dc-9a16-35e084491ece"
 		]
 	}
 ]

@@ -4,9 +4,9 @@
 		"prefix": "1.",
 		"title": "Preambule",
 		"tag_id": [
-			"1134ce77-1007-4bfe-9848-a38c9f22edbf",
-			"e5e6d052-e24b-45c5-9533-452b6958aa9c",
-			"72775707-0b6c-4c6b-a91d-e513656a01c2"
+			"822ae7cc-07c6-4f1d-af3a-6aee4a77f4b9",
+			"bbbc8ed8-e207-4233-b234-d02128cb04f0",
+			"3ce4438b-2479-4233-98f3-5cb0d52b4c22"
 		],
 		"examenprogramma_kop2_id": [
 			"e625807f-aae1-4c47-87bd-2ffb42292237",
@@ -21,274 +21,284 @@
 		]
 	},
 	{
-		"id": "46eaa6d1-c9ce-42bd-8e0b-cca72d9177e8",
+		"id": "9a1b9754-e05e-4b39-876f-8f88a5cd81c0",
 		"title": "Het eindexamen",
 		"examenprogramma_kop2_id": [
 			"7e1d0b4d-e2e3-42f4-96df-e4f971791e18",
-			"1afae424-7918-4492-9b62-8e9e5686ff70"
+			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
 		],
 		"examenprogramma_body_id": [
-			"9390e230-b653-4caa-b866-fea57fad42b3",
-			"fc2b9092-3973-4180-907c-d8b31f225801"
+			"a59cce98-5920-462c-af54-a2978fcb97a0",
+			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		],
 		"tag_id": [
-			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45",
-			"fb6abea8-f388-4ac8-a447-bae1f76829af"
+			"12ad89b5-0997-4695-952f-84e83a44fbab",
+			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
 		]
 	},
 	{
-		"id": "fc2b9092-3973-4180-907c-d8b31f225801",
+		"id": "1e8adf31-7075-4ace-8f55-529935246a0c",
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
 		"examenprogramma_kop2_id": [
-			"79c40008-123d-4e6d-8416-07957483fb44"
+			"ae659e7f-df74-4db1-8070-bec8b1967869"
 		],
 		"examenprogramma_body_id": [],
 		"tag_id": [
-			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45",
-			"fb6abea8-f388-4ac8-a447-bae1f76829af"
+			"12ad89b5-0997-4695-952f-84e83a44fbab",
+			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
 		]
 	},
 	{
-		"id": "1afae424-7918-4492-9b62-8e9e5686ff70",
+		"id": "e06ca8d0-7d1a-484c-81ff-972fa162ada3",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop2_id": [
-			"79c40008-123d-4e6d-8416-07957483fb44",
-			"6a08952f-7124-464f-9bdf-6009d3ec41ab"
+			"ae659e7f-df74-4db1-8070-bec8b1967869",
+			"0709e54d-1b8a-4e41-b788-2978857b550f"
 		],
 		"examenprogramma_body_id": [
-			"c423c9b6-61b5-43f8-8fc5-d8b39cba9d60",
-			"809b8963-887c-4420-be2c-6403a39d7aea",
-			"668de8e2-4268-4867-94b2-6ea00b95da9b",
-			"45a06302-1665-4727-9031-c9841302aefb",
-			"28e88255-ff30-416a-b169-ef5c02c9f4c2",
-			"9639677b-c598-4598-a25b-ecc0868cd7fb",
-			"6464073a-016f-43cc-8917-f8885f1f58a2",
-			"a6610e45-1367-427b-858b-3a4932caf169",
-			"1b6bef55-6daf-4bcf-9542-29a4af78152c",
-			"6c107291-e453-4d37-ab9a-52ac8bb3c484",
-			"a3b058b2-be9d-4ce7-a21c-74cbf9e4b550",
-			"b3bfad13-3c77-4c89-98b7-0424c4ae6a7c",
-			"e609ab1e-5a3e-4373-86e9-14ad9d7ce8de",
-			"ffbd54b3-171b-49a4-b346-a7d071c613fc",
-			"ca642267-c6bb-49e0-bec5-46b6d2f3c8c4",
-			"4d960ac7-adab-41f4-baf3-6ed479dbb70e",
-			"93f41ce0-1e8c-4997-8d50-77c5d83d93fc",
-			"11547d41-ff83-43a2-83c5-a6ff85ccaca0",
-			"b52188a2-5bf4-4f7b-a38e-0a6128a3aaed",
-			"f9996b5c-ee8e-42be-8f7d-94b2fe2205d8",
-			"8dca9c9b-c033-4315-8652-765d9b648897",
-			"1942da63-1384-43fb-bb82-7f3f954ccef1",
-			"bc54eb07-5712-4d89-94d4-157c01697e01",
-			"8efb7155-5b51-41d6-b1c8-bef70ba4942e",
-			"176205e4-62b9-4a99-ba9e-15ec7b3a4efe",
-			"b6873c19-25c9-41f8-9dc3-23da8b639bcd",
-			"3df615b2-cd1d-4e11-9590-2f891b27d8f0",
-			"e8a587c8-7a50-47ef-b081-514070e01ebe",
-			"a0e04998-c932-4b8c-bf3e-b0d215f4b2c4",
-			"2bd8cfb0-ba5a-4cde-88f5-d63e9883149e",
-			"eeb14094-406b-41a8-9cf8-667431d9ff0e",
-			"57bd818b-e65f-4630-b67b-20553d3b2386",
-			"d3a067fa-c6a6-4901-8f92-efab57a2611b",
-			"9503d46a-94bd-47af-9d53-18023b56bd95",
-			"dd43dbbe-c7e8-437d-b94b-31a3bcdfce46",
-			"53f1a384-1a96-423b-b6a0-a4a9e5410e7f",
-			"615b0a1d-714a-494a-9d68-0b123c23c235",
-			"fc161b23-ee9a-4110-90d7-b06d897a73dd",
-			"9ebb61f4-e1d8-4ae0-9b8d-e5b84d14d372",
-			"5bbe5ce5-2bf2-4a50-b2a1-df07063fae52",
-			"7ccc8a25-31b7-4165-b25e-0a8d5d9d992c",
-			"1750f062-9d96-4369-9c71-c1cfb363f78c",
-			"aa15303f-d679-47b2-b530-c71425785dec",
-			"4fca5ea6-4f46-4649-8f19-a45240c0bd10",
-			"f5baefde-f83e-4771-b246-892974d7dd98",
-			"0cd48005-cee7-4004-80ab-c549a0e6a801",
-			"ac026998-4c54-49e7-97b8-6d5b688b0978",
-			"52962c8c-b7f1-4bff-88c9-0a4064fd20de",
-			"a7f958ed-a376-4de2-90e7-cb2171485561",
-			"b7e1a297-a10b-49d2-90e8-896e01b736a0",
-			"c4760e1c-4564-4b2d-af05-47dd7c70a320",
-			"aa3accf1-d79d-49a0-b05d-790e0fffefb5",
-			"50233693-63c1-4e54-b991-00c35e5e0904",
-			"aa78ccd9-1696-458e-b254-df50716d0203",
-			"fc5aafc8-3c57-4c25-a6aa-c2c89aba6695",
-			"a69a897e-01b4-4f0d-b3eb-84c2ea405198",
-			"91e8e00d-0ed8-4a29-9163-75a48d1b6bcb",
-			"1b47630d-ca36-4f06-aa7d-64697e725cc1",
-			"250bb408-628f-4075-8d7c-70b2948aafa2",
-			"21b16e6e-aede-477e-a914-15ee613b9730",
-			"b5b345ca-5992-444e-856b-19d8ac04ef21",
-			"91d540e8-03b7-4905-b5a6-759e485aa67f",
-			"98d34403-b991-4d14-95a1-a3d2c109bb3f",
-			"3ce9e1f1-159c-4046-a210-1b5a949ddcdf",
-			"fecab138-36f9-4d30-950a-d8377372e4af",
-			"675fe4e5-df9c-403b-a1bc-4231e6e8d422",
-			"a22093d7-ebda-48b8-be5b-00061dbf4a56",
-			"739e6527-9ab6-4c91-a9fa-f59a4746bd48",
-			"19314b1e-b1dc-4ec1-baec-ea26504d918d",
-			"04a73b96-f0c2-420c-8eee-5135d26c6dc5",
-			"37b40901-4119-4369-a8e6-2e4aafb8dbb0",
-			"dffb083e-158a-4f61-8d53-5e9e0b45c1e2",
-			"8bfa897c-02f6-48cb-8bff-534e1629844b",
-			"ad70a902-aebd-4b01-af73-e44af50d1a5f",
-			"60e51878-0e13-490b-a680-3c14bd380a9a",
-			"ba5158b2-4cf5-4c26-8b7e-006d08e61039",
-			"27d2d921-58bf-4602-af93-dbc4e0fc4fce",
-			"17c49053-da0d-4ca5-b3ac-f853cbe09dea",
-			"ad66970f-28ee-4c54-80d0-6db87eb883e4",
-			"d63f674b-a060-40ef-9b24-7be7a9b64c99",
-			"2b12f732-841e-4d05-9d1c-8a9e71dbd37f",
-			"b28efc4a-80b4-43f3-9092-2af2800a7d24",
-			"41fbb3b0-5b86-4998-8c87-7f471ff3cbf5",
-			"70366cc6-1f7a-4477-87bd-769ff0702cdb",
-			"738fd2f5-221d-4dfb-a5c1-858b9c1c3181",
-			"6bcd2f6b-9aa4-4c74-a899-b6e0ec32ad1d",
-			"2743f9e2-8321-4d08-8b68-09ef4f191745",
-			"7216730c-b5a2-4583-9644-0efd17ed0492",
-			"6beb9387-8137-474e-92a5-1f4a2e2a4016",
-			"c25302ea-d5c8-452b-bb10-5f70f7f7ace6",
-			"b3f4c3a4-40ab-4b9d-8e7c-5ec4976186a3",
-			"da40a6ce-b3e8-4b77-a53f-9e0fe7c96cab",
-			"0330f592-b38d-49d3-8350-be13782e9071",
-			"1635af63-13a7-48f5-ba91-903f74453a05",
-			"fc2b5949-b4a5-4c00-a3bf-887a28349f07",
-			"91d1f4ee-af6f-42b1-ba30-755277b7f25e",
-			"4746101a-133b-4900-bb43-3087339853b3",
-			"5d5cc966-d5a3-4d0a-ab2d-98f99357333d",
-			"33be7f1d-cecd-431b-b52e-04959a6be0d8",
-			"6ce6f8c5-3959-497a-92af-9a510a4d2e9d",
-			"208db9ce-5d5f-43d2-aed1-fe170689c5a1",
-			"b616a654-189c-4156-8601-ab143f0a7da2",
-			"3eb76e7e-66ee-4d0e-ac10-8fa3167ef33b",
-			"dd16175e-0492-43eb-9ffd-29dcefcdc88e",
-			"4318f618-08e4-459d-9e40-60e8a5f072a9",
-			"b935462c-30bb-4231-b9d2-c1d09d0eff34",
-			"9cb49b75-8a87-48dc-8789-54cfe7d401fb",
-			"bade718e-c5dd-4820-bdbe-02f2c2cccdc3",
-			"735e87a4-f17b-4c69-8bd8-985232703943",
-			"d67f806c-17b3-495a-9fab-299d50ae0671",
-			"634aaa51-faf7-4e83-9b6e-8512bed04283",
-			"fd26e37f-28a2-4b8d-b166-12d9dd6eee7b",
-			"b290a8b9-f15c-41f1-873d-4b488a57d7b4",
-			"bbe1d161-268a-4cd8-80f0-cb3345643f3f",
-			"e2e1f070-a14e-4971-9c92-d1f3aa0a8208",
-			"631839aa-d1b8-4c39-964b-5995ae824667",
-			"f95fb38f-15fd-4217-a080-25a0878b88fc",
-			"d6f1e435-ffcc-488f-8422-cecf5d1bec9e",
-			"b896fd4c-af8a-4cfc-8900-19235dedcc26",
-			"be9c279d-2aff-44de-a66e-2c69f148c6d5",
-			"15a1f957-f1e8-403d-a2dc-b69d4024d2d2",
-			"dcae5069-306a-441b-b3ed-e6626131f11d",
-			"fe87ff92-2f9e-4a94-88fc-7977986e161f",
-			"28b6c56c-9e37-4a91-90a0-c9a0e0e17d80",
-			"be736c6b-6870-451c-ab2d-8cc16c8861ba",
-			"66520b0e-6763-4087-b855-6b959a477832",
-			"af98cf27-990a-4094-bd01-617cf9d0eccb",
-			"e4565d10-3e9d-4244-a4a3-cdf4a1721b67",
-			"8d72bbc0-7f36-4c61-8019-b3e46cd449db",
-			"63a5f3c8-44be-4a15-a9b4-41acef403061",
-			"0bd88e53-87e8-4655-91cc-771c6b199ae4",
-			"e0d04267-d823-46b4-9a21-5a73cf2af17d",
-			"5ca6fe1f-4b14-4e53-abc9-0b1f6542d539",
-			"e25f0155-1ee9-4633-a2f2-f124021001f4",
-			"9caf5d49-19a7-4c2e-a498-3f0797496593",
-			"e3a299d9-6259-48a8-a85d-5e924360ab85",
-			"29540c48-8e44-44ad-a143-27c2b84c3d57",
-			"37bca0da-cd30-4c7b-a497-5e871b5a7d48"
+			"c672b97d-39df-42dc-bb95-e8b1f613b3d6",
+			"2c494e9e-bf69-4793-91d0-369e553f68cb",
+			"44f36e76-d701-4965-a421-061895650f89",
+			"f8b4e526-211f-42a0-9165-118d47af56d4",
+			"b60b52a8-34cf-4023-a053-2f0fa229eb74",
+			"f759e17c-4986-4022-bb0f-5d53d7e92cf3",
+			"346e0377-12a6-43bf-b486-1bf1dc6f817e",
+			"7fc6e721-7d3e-446e-be1b-918a429cd4e7",
+			"10004658-f653-435b-a778-528c8db0fddd",
+			"ec49fb60-4282-4f3c-a0ad-bd2af591cc08",
+			"0e34aea0-a90c-461d-8a46-9403d245f585",
+			"72b84654-9a14-4873-a84f-21778d4aa978",
+			"f9af4212-61b3-4858-9ffa-c68a63f60271",
+			"7a301300-4503-4396-ba53-09912a3cb13a",
+			"fe7ff4f8-65ab-48ea-8e5b-e693725f674e",
+			"2f770730-4635-4240-bcc6-2d46649de2b0",
+			"66fa44c9-a99e-401a-9fc7-060956fac716",
+			"3bd30341-33eb-48d1-8609-692ad5c0e5fe",
+			"625adc2c-9e15-456c-b03a-2c8b0d94be7f",
+			"e932f6f6-200a-4080-9f76-2960627d08ef",
+			"2e96cc3a-2ac3-4829-b341-a7e67b1a601b",
+			"8b4fc8ba-d1da-4a34-86c0-29f87b287955",
+			"b2ce3829-6b10-42b9-b742-189c7929b26e",
+			"d056af86-622a-4f21-846e-322a73246214",
+			"8b8a6078-52f5-4cff-8b23-906e39d58a20",
+			"75bb4402-f97e-40dc-9471-df0942deab8d",
+			"bf47faef-b3a8-4e1c-af66-ae0e5365118d",
+			"bad37c3e-2abf-4c97-943e-7e97f6ea04c3",
+			"2108c721-5c46-440a-b8be-36e5dba1e4f3",
+			"14425c53-43b8-4c12-9a49-8fbf9d05b816",
+			"be612232-9424-49a7-af25-0fc714d56f7a",
+			"2a38861d-d4f4-45ec-a8b5-7151258f685a",
+			"e4ea0369-0bc2-499a-ae10-6d4033cf8e07",
+			"51ab540e-e050-41d9-96a0-fb221ab86f4d",
+			"4c46e1ce-6535-40f0-8006-e9a539cd4a5d",
+			"04c28b34-db5a-486b-b740-10c64c653ff5",
+			"28fb408e-bed1-44d1-a0a0-3e8da86f621e",
+			"5e3cb019-b511-483d-81ba-7eba859a9cd3",
+			"fd5f7fde-d689-4d0b-ae21-d55355e49f8d",
+			"51249347-a515-448d-81cc-a2b33d2d84f7",
+			"7e4dd1fc-ab34-4f20-8248-9380a1833f96",
+			"05204391-50d9-4a9c-89d5-7d9857e69b2e",
+			"e2717277-56ce-41e3-b18e-e751905114f1",
+			"c51d4651-3795-400d-83a1-dc4b08cc8db4",
+			"9a51bc60-a823-4192-a438-825b536c6b51",
+			"ed4f63ea-d5b3-4bff-9e30-b642f93ca070",
+			"103c5984-6d4b-4911-adea-204dab3315bc",
+			"a94c51db-d187-407f-8fde-b9460244a77b",
+			"9855951f-a3ae-41d1-a6f2-e680c5155def",
+			"32a7e30d-9d0e-4e6a-bf75-039717392539",
+			"e42861eb-30a4-48a6-a68a-8958d1bc65bf",
+			"bee9198e-ebba-4598-9bac-cb06bcd9dc92",
+			"bbb6d423-c114-418d-ac8a-0962ffeaad27",
+			"92eccf77-972c-49bf-8485-080b4406a186",
+			"b20ec3f5-cdad-4a6c-80d9-3f1490b2e4f8",
+			"ceffe646-64fc-49da-8684-14693fdbf036",
+			"abe1ef10-5e67-460b-9cac-00975aad1df8",
+			"b37fd631-bbdd-458d-8c76-c956162a6fd0",
+			"fa4f893c-5c44-4f0b-8528-4517cb870864",
+			"18663e0c-f84b-4c47-8e16-b8e174b7e141",
+			"437e820d-34e4-4e50-bc16-606b0de955d9",
+			"8ac8daec-2681-4ac9-8a0e-afef77b71ce3",
+			"231523e0-b84e-4a80-b441-57257ea88b30",
+			"f17da1a8-4f81-450e-95a9-6d3fbf83d35c",
+			"13b73ba2-a801-452a-a134-c5bae5a69508",
+			"d43af25a-0230-4a9d-9062-ddaf58225bbf",
+			"2d3d2b3e-1300-478a-8175-8212762c19e6",
+			"4f678a95-18cb-4be4-a377-9cf3b115204c",
+			"c8b5776b-c7ae-4bef-8b8d-fc659f5c8e9a",
+			"2e2b90eb-5af6-4f33-90e4-f6da3ca5bc69",
+			"0266d442-c6a3-4b82-9a69-5889983db8fe",
+			"8d7e1f3b-6b25-44ac-ada5-2e470874efce",
+			"4aed0ae3-73da-4ab2-83f5-07d3753bad0c",
+			"ea5fc44b-0b04-479b-90a6-50a327cf5ac6",
+			"7d94fb93-520c-4b6b-a1a2-f8ce2d2753c1",
+			"0f492ea6-5038-4e3d-ac1e-88b1eb776c90",
+			"605e8fd9-85bb-493b-83c8-f7d996cae501",
+			"c8ed5666-f76d-41f2-ab64-c4083b1557f8",
+			"a22f3302-d708-492a-a126-d5866b1d54d1",
+			"d27fd6a0-581e-477c-9857-ec6e13f442be",
+			"fe00b2e6-d4b3-44af-bb35-2a906b539177",
+			"cb12bbb2-42df-4a74-bce3-7f7111905370",
+			"0db70634-e1ae-47b0-9714-a3128ee332b4",
+			"801d294a-52d9-451f-840f-e3c65fc00595",
+			"34b717ab-f1d4-46a3-9b21-f29d1c7b092f",
+			"31a05fd4-8525-49e6-b065-f4459f0ded06",
+			"1e7735d5-1704-4d7e-8782-232c88b19751",
+			"bb033660-ab78-4907-8ffa-fdb67cf89508",
+			"cc2c1813-7920-46fd-8c38-cb7fd9056e86",
+			"f541f537-66cb-4727-976f-0a649516203c",
+			"dfed0776-7fb8-4621-92cb-524c0ede4c7d",
+			"abf5736d-4c6b-44d6-a83c-2db5a9c05359",
+			"f1d9ef56-6ab6-4b6d-815d-6256dbee969a",
+			"739832ca-ba3a-4d71-a4b7-cd32f979544a",
+			"e4b49bb4-ba77-4679-83b8-15e3228b1014",
+			"0f0b4b74-8a7f-4a8d-a6de-3ae53d1f29d5",
+			"d5094389-759e-455e-84cd-0e745a0daffa",
+			"74360d1f-7e7a-49be-aeed-7c72c16f617e",
+			"9ff9ea64-b241-4e9a-a396-c8fe9e87dd6e",
+			"0944aaed-8ac4-4325-83a6-250028a8cf13",
+			"fe28feda-2885-4827-81b2-4baa1c02252c",
+			"bd29fbd2-6141-404d-bbd5-2dbe10f316ff",
+			"b4f8b191-f4cf-40d4-9aa7-5f3138fb22a6",
+			"4f5346e2-35c1-47f7-9748-eaaeb0cbf022",
+			"4af8abf8-9b6c-4602-a5f2-807db8477f03",
+			"6a7b3ddc-b90f-4be9-98ac-736631efbddf",
+			"ea18269f-c07d-4aaf-b827-0954de5e769e",
+			"3bc21cb4-150a-4936-b957-b09194c22a63",
+			"6c34f9bf-8d61-46d2-8470-be614cd9ab4d",
+			"e75f3557-0852-4de6-acb1-3dbd5985c03f",
+			"ebd32023-33d6-41fe-8a02-0b23668c95fa",
+			"f3304ee1-070e-4a3b-8235-3bb7ad3ca945",
+			"1d7c2a54-0488-40da-a904-6bc898725034",
+			"f26cf254-d98b-455c-b757-d754c99e0c23",
+			"99fcaa00-4451-47fb-88a1-489ae9fa3fe3",
+			"b367fdd3-0822-4faa-8e5a-bfb7ad8eeb72",
+			"1fc1e51d-67db-4cd7-90d7-064a3fee5af1",
+			"6f5123de-f529-499a-a580-42b7b38105ce",
+			"01cb589d-8fe1-4014-b74a-2e587be20574",
+			"73ac8f01-4a2c-46f7-ac78-de7d156b3fb8",
+			"3256280f-2aff-4afe-9176-00c4f84577f3",
+			"82f004a2-dd44-403a-be4e-d5f453b74f47",
+			"69c3c6d2-e43e-411e-9793-217cf0fe37da",
+			"aabd2f5a-0709-44ce-b533-322ff24befa4",
+			"e448aa01-66e9-451d-bf61-8ea219d1da51",
+			"19447e87-1a32-4b1d-9d60-4f6e76628793",
+			"5d58f5a8-7cbd-4922-9aec-8163ddd5385d",
+			"3a2b721f-d26b-4674-a718-c6e53262a710",
+			"149a5ea4-373d-4b68-aeb3-8677d2e345f8",
+			"50a9be21-b3dc-4013-9fd8-90bc171715f7",
+			"27765a0d-8ec5-49b7-88d5-448e5a4cb03e",
+			"e5eb44c2-af08-4550-b75d-6b43ccbd140e",
+			"1eec805c-d561-465c-947b-a227dedd5b3d",
+			"96c7a5c1-9040-4aea-abdf-14ab10a66d92",
+			"89588864-c946-424c-a2fb-50be508e85d5",
+			"435a7c70-07b4-4f23-971c-265430e49995",
+			"aba61095-ef2e-4555-a78b-d9113fd47b13",
+			"b1db5c4f-5ff6-4b16-a18e-0d7098428613"
 		],
 		"tag_id": [
-			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45",
-			"fb6abea8-f388-4ac8-a447-bae1f76829af"
+			"12ad89b5-0997-4695-952f-84e83a44fbab",
+			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
 		],
 		"examenprogramma_kop3_id": [
-			"6a08952f-7124-464f-9bdf-6009d3ec41ab",
-			"f0bbad6e-e212-424e-8f0f-45556568b21d"
+			"0709e54d-1b8a-4e41-b788-2978857b550f",
+			"ecb00109-633a-437c-b7ec-7131337c603a"
 		]
 	},
 	{
-		"id": "4d5137e1-de3f-4ade-a40c-b5589a629cc2",
+		"id": "a4fd8037-b589-42ce-b0ee-3e298fb79ab6",
 		"title": "Het examenprogramma",
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "244cd023-33d2-48a2-819b-d5ca74b5a62d",
+		"id": "a92e30dc-e4fa-4f60-8001-e50dbcb5f8b0",
 		"title": "Het eidexamen",
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "ad810acf-588e-4365-947c-02e97c2b29b5",
+		"id": "373a2e7b-d573-4805-86b8-b221595d380e",
 		"prefix": "1",
 		"title": "Het eindexamen",
 		"tag_id": [
-			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "09a92ffc-af10-49c6-85e9-8ff025406e3d",
+		"id": "6e3b98e0-1df6-4138-9552-276859588318",
 		"title": "Examenstof",
 		"tag_id": [
-			"c673c957-0b9c-4e98-b413-2b9d84a459fd"
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
 		],
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "9390e230-b653-4caa-b866-fea57fad42b3",
+		"id": "a59cce98-5920-462c-af54-a2978fcb97a0",
 		"title": "Het eindexamen bestaat uit het schoolexamen.",
 		"examenprogramma_kop2_id": [
-			"6a08952f-7124-464f-9bdf-6009d3ec41ab"
+			"0709e54d-1b8a-4e41-b788-2978857b550f"
 		],
 		"examenprogramma_body_id": [],
 		"tag_id": [
-			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		]
 	},
 	{
-		"id": "b67bc41a-ddd8-49d2-bd8c-08e5ed0bb471",
+		"id": "9efc5e7d-d1b6-4732-b5c7-18d09c395389",
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop2_id": [
-			"79c40008-123d-4e6d-8416-07957483fb44"
+			"ae659e7f-df74-4db1-8070-bec8b1967869"
 		],
 		"examenprogramma_body_id": [
-			"fecab138-36f9-4d30-950a-d8377372e4af",
-			"13c9f1e7-211f-451c-8585-b66b3b0eb76b",
-			"d50daa22-0e65-4598-bef3-4f2a1db2b101",
-			"72b4ec75-3c30-4c0d-bc6a-bc2208dedfb0",
-			"19314b1e-b1dc-4ec1-baec-ea26504d918d",
-			"04a73b96-f0c2-420c-8eee-5135d26c6dc5",
-			"88dfd0f8-41d8-41c4-a429-b0861d1bc10d"
+			"13b73ba2-a801-452a-a134-c5bae5a69508",
+			"e48f23dc-8734-498d-a10d-0b527b6bd523",
+			"117dab5c-7fa9-4c12-b667-4dcbec05369e",
+			"f2bf5bb2-d296-4ae3-a1c5-6be60b5958ec",
+			"c8b5776b-c7ae-4bef-8b8d-fc659f5c8e9a",
+			"2e2b90eb-5af6-4f33-90e4-f6da3ca5bc69",
+			"bb803b28-41e1-4c4b-b452-49d70bf1d24c"
 		]
 	},
 	{
-		"id": "2624a1dd-b0d3-4f19-9209-7ab7accc8c04",
+		"id": "b28bf768-b56c-4b92-a37d-dcd36859e495",
+		"prefix": "3.",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "13e59779-c698-40e6-bdcf-1a6a1f71e557",
 		"title": "Informatiewijzer",
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "1a77e9e5-01f9-4f26-8907-ff8cab9d72ea",
+		"id": "f14420ea-abe2-4b84-bf20-9e9cab3565cb",
 		"prefix": "1.",
 		"title": "Preambule",
 		"examenprogramma_kop2_id": [
-			"7ef6f356-87b6-4665-97e4-2a401e068743",
-			"87cb94ad-f581-44c0-a865-45a8d671d2d1",
-			"bcceb596-76fb-43cc-8b9d-8fc3ae3378ac",
-			"b3062418-747b-4d03-bb1a-cc3535d5af7b",
-			"bbb07cbf-c46f-438b-849b-369626a05432",
-			"0d672400-5585-44a6-8c66-60c778012d70"
+			"253039f5-2a61-4114-9695-2e4c2265fe94",
+			"31d9bf3e-115a-45af-b9d7-dfb4f86599fc",
+			"248c9648-bafb-4926-858f-26c192737ef4",
+			"6287b0cb-8acd-4bfc-b13d-f9702be9c12d",
+			"39b6e1f1-5655-4ff6-bf5e-556d55e6b36b",
+			"58450650-9592-44e2-b0be-079e5306e860"
 		],
 		"examenprogramma_body_id": [
-			"fb5c2a4d-29d8-4d93-97bf-a8a136a6bfd9"
+			"81371c05-e201-4b43-aeca-332c31c52df1"
 		]
 	},
 	{
 		"id": "4c6a9ff7-b2a9-433e-a0c4-5636527bff27",
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
 		"tag_id": [
-			"33672103-d3f5-4e0d-9ac5-ba1bf31a37a5"
+			"82f345a4-7808-4bdf-85f6-04581318d294"
 		],
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
@@ -297,7 +307,7 @@
 		"id": "61a7d5ec-5332-4e89-85bf-6c0a561136e5",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
-			"340ed77e-c165-4f14-9996-3bc83a96eb0d"
+			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
 		],
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": [
@@ -307,31 +317,6 @@
 			"48d1d74b-9e1d-403b-859a-bc3245f52726",
 			"a06247dc-b2fd-4c0c-bf9a-21e75ecf9c77",
 			"36e13559-2f6b-42d7-b0e7-f9f2c1858b78"
-		]
-	},
-	{
-		"id": "df53f8a0-67fa-46c9-93f9-4dbec6befd06",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
-		"tag_id": [
-			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
-		],
-		"examenprogramma_kop2_id": [],
-		"examenprogramma_body_id": []
-	},
-	{
-		"id": "01e7a23f-7ee0-41dc-9a16-35e084491ece",
-		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"tag_id": [
-			"ecc4ab94-9bc2-4b92-bc89-2f5de963aa45"
-		],
-		"examenprogramma_kop2_id": [],
-		"examenprogramma_body_id": [
-			"ccfaa937-4c31-40d4-99c3-903af076a368",
-			"2d0f6d0b-c8b3-4fd1-b636-c5e0018d1fec",
-			"32efb5e5-b740-44b6-9402-03af8fb14ae9",
-			"5893352c-4f46-42fb-8fbc-488d871efeed",
-			"b0de510e-3ac2-4cb2-802f-e46f69ef9385",
-			"e288278e-13ec-4d54-81fb-dcf39114fdfc"
 		]
 	}
 ]

@@ -1265,7 +1265,7 @@
 		"id": "5f61c40e-57a4-4d2f-9540-8de594d0cdf1",
 		"title": "Subdomein A1: Informatievaardigheden gebruiken",
 		"tag_id": [
-			"896921a2-1c4e-46fe-b317-eedee3cabff6"
+			"4ddbf045-8c97-4983-88fd-afa1e78afd77"
 		],
 		"examenprogramma_eindterm_id": [
 			"2b656e88-324b-4b33-8082-709ecbfb7d5b"
@@ -1296,7 +1296,7 @@
 		"id": "ef371508-d20b-4eba-be20-45fb538d684e",
 		"title": "Subdomein A5: Onderzoeken",
 		"tag_id": [
-			"b3b97b49-b518-4e7f-90f9-74467c1b163f"
+			"077a694e-c6ae-4219-af2f-c10d12894b3a"
 		],
 		"examenprogramma_eindterm_id": [
 			"737ad0e4-b9f3-4cb2-beec-d93d8a2750cf"
@@ -1334,7 +1334,7 @@
 		"id": "1ab94262-b363-42e6-a95b-89585151a544",
 		"title": "Subdomein A10: Interdisciplinaire vraagstukken in studie- en beroepspraktijk",
 		"tag_id": [
-			"685359a3-f0c4-4b64-98b5-46feb74352ba"
+			"525c9413-7264-4dfe-860d-010fca591704"
 		],
 		"examenprogramma_eindterm_id": [
 			"e9fad325-bdac-451e-9ded-fedc5e4afae2"
@@ -2061,7 +2061,7 @@
 			"94a2462a-9482-41e2-96cf-0b842579ce4e",
 			"4365fb27-2311-40ed-a005-15edaec4f341",
 			"f086f432-223c-45b1-aaed-aefa330a8ae2",
-			"0eb8efc5-898f-4958-8aec-c4291345cd40"
+			"9aa1273a-805f-4330-9f84-3ec17f38bd69"
 		]
 	},
 	{
@@ -2097,7 +2097,7 @@
 		"id": "388411f7-9969-4a36-92fc-ec839a8c0a48",
 		"title": "Subdomein A1: Economische aspecten van vraagstukken binnen organisaties",
 		"examenprogramma_eindterm_id": [
-			"1c78072d-f842-4067-9a07-303cf37580d5",
+			"60436a57-d4e3-4c40-9da0-5ed326b1c45e",
 			"b8000ac8-8203-4aef-8ff5-41f44266d9ff"
 		]
 	},
@@ -3578,46 +3578,46 @@
 		]
 	},
 	{
-		"id": "8df31b54-0912-4aeb-b2ba-74d81d1f3f84",
+		"id": "a0095b7c-2e4a-4112-9afd-a61ea9ded81e",
 		"title": "Gesprekken voeren",
 		"examenprogramma_eindterm_id": [
-			"d96fe70d-1b10-42a2-9aed-00b5e9d532b2",
-			"6a6e7891-f918-4d36-88d5-025a4f3fc14c",
-			"914ecc0a-ab25-4e3e-91f4-f2cdbf728621",
-			"fa9225d5-52f2-4497-b024-0072e4b32b05",
-			"65f8967d-7994-4fb3-a037-1501fcd92410"
+			"1a8b1fdb-0b4b-4fc5-b3b7-87413ab7c87a",
+			"4ca0fdf8-91bd-4ed4-aaaf-91575d53bfbb",
+			"106093e0-f958-4386-9a0b-48bb63db53e7",
+			"660e3e98-2f15-4e82-bd55-6d9285dfd78c",
+			"b466706d-9640-4980-8f4a-6370678d8615"
 		]
 	},
 	{
-		"id": "aa8b55e1-ef81-41d5-bca0-0a356a7358d5",
+		"id": "957f490f-398a-43a1-93b2-770dc15806a2",
 		"title": "Spreken",
 		"examenprogramma_eindterm_id": [
-			"8a626261-1259-4514-a512-adc80b1d9edd"
+			"b49c61ad-0e19-4eb5-acea-20f98640e20f"
 		]
 	},
 	{
-		"id": "9aa39483-2e56-45ca-b01a-07d2097eac98",
+		"id": "4f63a535-e73d-49b0-af0a-38605611e3c7",
 		"title": "Handmatig",
 		"examenprogramma_eindterm_id": [
-			"a10b6418-91fe-4edd-8837-6205769e6ed9",
-			"4650bb0f-8465-4f59-9f9b-4398eab2a14e",
-			"d20851db-018e-4fb4-a26f-2d47698573db"
+			"386c8de2-1c28-4e2f-8f46-cb0f4a5df9c8",
+			"e08d2775-46e8-42f0-99e1-2c0e93722243",
+			"070fb77e-882d-4688-b8e4-332465b63250"
 		]
 	},
 	{
-		"id": "4bfe3472-cd74-4c66-b29a-da001abd5728",
+		"id": "3c27bd36-3625-4de1-8f6b-38a5c14c61bd",
 		"title": "Digitaal",
 		"examenprogramma_eindterm_id": [
-			"3f8dbb24-8c08-443f-8558-96b8480e7134",
-			"5a31da6c-95d4-4fba-b2ee-3428a525c40e",
-			"0b6342f2-23c3-4775-b30e-b7c25432af5f"
+			"2980b430-ba92-4def-a409-834afb85915d",
+			"d7752529-a3c7-4c55-966b-de9433e1f979",
+			"129cd488-44d3-4e85-8fb6-7b32e3da7e6a"
 		]
 	},
 	{
-		"id": "6f12980b-85f2-40eb-9c50-c80a97feab68",
+		"id": "ef509797-93cc-4766-881b-d828f079b01c",
 		"title": "Chinese literatuur",
 		"examenprogramma_eindterm_id": [
-			"1f78cd97-f374-452a-a16b-64faf6c053b5"
+			"d1d7c2d1-4351-40fd-9cc3-7e8c7d7f0e14"
 		]
 	},
 	{
@@ -4335,10 +4335,7 @@
 		"examenprogramma_eindterm_id": [
 			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd",
 			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6",
-			"99f84e49-ece7-45ff-8385-b02acb7ad481",
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"dbc378e5-07e8-4aac-9959-764335da89ff",
-			"2adb6958-435d-4a60-828a-5814adac4f4f"
+			"99f84e49-ece7-45ff-8385-b02acb7ad481"
 		]
 	},
 	{
@@ -4347,10 +4344,7 @@
 		"examenprogramma_eindterm_id": [
 			"e59a96cb-d30a-41f8-a33c-496ce669a4b2",
 			"707a7999-d27a-4d3a-812a-9da298692cd6",
-			"ed016311-e144-4527-acc4-6c5bbe4333ab",
-			"565296a7-c003-4031-bf93-6473d635bc25",
-			"dd1bcdaf-1773-46a9-826f-f3180ca323b6",
-			"b51a9ef7-ca8c-4586-8041-96a015fa90de"
+			"ed016311-e144-4527-acc4-6c5bbe4333ab"
 		]
 	},
 	{
@@ -4404,9 +4398,7 @@
 		"examenprogramma_eindterm_id": [
 			"5b2cf5e3-de22-47e9-8c23-131d2bd5ee06",
 			"71d2383b-2dda-4f88-a2a1-4dbd17529f6d",
-			"a14af6f8-9c13-4396-9306-d54a0c5e8ae4",
-			"812e3b69-d941-4ccc-9479-e00acc12d71a",
-			"0ce37841-7816-4a6e-b3fe-3d48cdb95fde"
+			"a14af6f8-9c13-4396-9306-d54a0c5e8ae4"
 		]
 	},
 	{
@@ -4415,74 +4407,14 @@
 		"examenprogramma_eindterm_id": [
 			"887d1c30-7eda-4976-81c4-3c3ac7541855",
 			"e4b0e143-3d1b-41b9-aa31-3eebde4d82bb",
-			"b5777fb3-c37c-488c-8245-7a9db80b01bf",
-			"75ecb67d-4fa6-456e-920d-caf6006f143c",
-			"c0a6d118-9998-40bb-883a-4ae007397235"
+			"b5777fb3-c37c-488c-8245-7a9db80b01bf"
 		]
 	},
 	{
 		"id": "53ef4890-e89c-4cbc-a39f-264f52bc5efc",
 		"title": "Subdomein E2: Regionale en lokale vraagstukken",
 		"examenprogramma_eindterm_id": [
-			"8506f5e1-8216-492a-a865-6ab3129ce074",
-			"baa82feb-2446-4f6b-9158-0ce2cb4c4917"
-		]
-	},
-	{
-		"id": "013942a1-5d37-4a13-abcc-53e2b0a9641c",
-		"title": "Subdomein B1: Gebieden op de grens van arm en rijk",
-		"examenprogramma_eindterm_id": [
-			"ae9ecd4a-b790-4873-9719-09c40885eecc",
-			"ae73724c-f79c-457e-b531-630f69aec7f4"
-		]
-	},
-	{
-		"id": "583816e1-0ad5-46a0-a29e-c0551e8cd714",
-		"title": "Subdomein B2: Samenhangen en verschillen in de wereld",
-		"examenprogramma_eindterm_id": [
-			"7db4405a-ea3d-48f0-a1f1-5a2330889c74",
-			"54bf972b-fb44-4f5e-ae7b-f37845522ded"
-		]
-	},
-	{
-		"id": "07653563-5e43-4572-8e4e-dc2ff894b0a6",
-		"title": "Subdomein B3: Mondiale processen en lokale effecten",
-		"examenprogramma_eindterm_id": [
-			"26ceb01f-de8e-44ab-94fb-ed2ff2cd3eb5",
-			"544aff5d-8c95-431e-bd0b-dfc818ceed59"
-		]
-	},
-	{
-		"id": "3afb65d6-2659-487d-a8c5-089f2dc85ff2",
-		"title": "Subdomein C1: Samenhangen en verschillen op regionaal niveau",
-		"examenprogramma_eindterm_id": [
-			"01153d25-9be1-4825-a4e2-6d2f66cd0958",
-			"2dac07a9-7b21-4f2e-ae72-7d24f886d83a"
-		]
-	},
-	{
-		"id": "5712aa5d-268c-4c7a-906a-592d82415746",
-		"title": "Subdomein C3: De aarde als natuurlijk systeem en lokale effecten",
-		"examenprogramma_eindterm_id": [
-			"4e7a43e1-6e42-4ad9-b8b8-3bfbedfa7311",
-			"40c5295b-fe34-4e61-b423-5d9a068818c6"
-		]
-	},
-	{
-		"id": "a8fb6fa8-0ae2-4d13-bfa9-5c3f42b84569",
-		"title": "Subdomein C2: Samenhangen en verschillen op aarde",
-		"examenprogramma_eindterm_id": [
-			"8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
-			"3e445646-70d4-4db4-ae6b-f89e11b38913"
-		]
-	},
-	{
-		"id": "e30b7a9e-6611-4f62-bfbb-cde880052464",
-		"title": "Subdomein D1: Gebiedskenmerken",
-		"examenprogramma_eindterm_id": [
-			"d18be974-1bb8-4839-8ca2-1327183fd180",
-			"8b9acfb7-9adf-4e92-84d2-20868647ec9e",
-			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
+			"8506f5e1-8216-492a-a865-6ab3129ce074"
 		]
 	}
 ]
