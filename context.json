@@ -73,18 +73,18 @@
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
 						{ "items": { "itemTypeReference": "#/definitions/examenprogramma_domein" } }
 					]
+				},
+				"examenprogramma_vakleergebied_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/examenprogramma_vakleergebied"
+							}
+						}
+					]
 				}
 			}
-		},
-		"examenprogramma_vakleergebied_id" : {
-			"allOf": [
-				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
-				{
-					"items": {
-						"itemTypeReference": "#/definitions/examenprogramma_vakleergebied"
-					}
-				}
-			]
 		},
 		"examenprogramma_kop1": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
