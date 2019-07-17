@@ -1,8 +1,8 @@
 [
 	{
 		"id": "59ae47fe-b3b9-4c82-92dd-55d1ba520dfe",
-		"prefix": "WI/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "WI\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"a9b12666-fe43-41f3-a85a-680a7486c3f6",
@@ -11,7 +11,7 @@
 	},
 	{
 		"id": "ff2b12cd-f333-4654-adb3-176332b11a45",
-		"prefix": "WI/K/2",
+		"prefix": "WI\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -20,7 +20,7 @@
 	},
 	{
 		"id": "0cb1f3b3-9d26-469a-b74d-cf0b1a11e78a",
-		"prefix": "WI/K/3",
+		"prefix": "WI\/K\/3",
 		"title": "Leervaardigheden in het vak wiskunde",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -31,8 +31,8 @@
 	},
 	{
 		"id": "e659b3dc-f4cf-4ccc-9c8b-c6c618811610",
-		"prefix": "WI/K/4",
-		"title": "Algebraïsche verbanden",
+		"prefix": "WI\/K\/4",
+		"title": "Algebra\u00efsche verbanden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b",
@@ -45,7 +45,7 @@
 	},
 	{
 		"id": "49005dae-43bb-4855-9bf7-9960cb310ce0",
-		"prefix": "WI/K/5",
+		"prefix": "WI\/K\/5",
 		"title": "Rekenen, meten en schatten",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -55,7 +55,7 @@
 	},
 	{
 		"id": "2af345ce-9ef0-444d-9e6d-51f11dbddbe9",
-		"prefix": "WI/K/6",
+		"prefix": "WI\/K\/6",
 		"title": "Meetkunde",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -69,7 +69,7 @@
 	},
 	{
 		"id": "a6f1131d-9215-444e-ab70-a6e41889ce8b",
-		"prefix": "WI/K/7",
+		"prefix": "WI\/K\/7",
 		"title": "Informatieverwerking, statistiek",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -79,8 +79,8 @@
 	},
 	{
 		"id": "b28a3cd5-d6ca-4a19-8213-fb5dc5de8aa5",
-		"prefix": "WI/K/8",
-		"title": "Geïntegreerde Wiskundige Activiteiten",
+		"prefix": "WI\/K\/8",
+		"title": "Ge\u00efntegreerde Wiskundige Activiteiten",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"1e050f76-f830-40ea-9cd9-28268d5a00dc",
@@ -89,7 +89,7 @@
 	},
 	{
 		"id": "bd1e20ec-930f-4ca8-92cd-48ed40ab8d67",
-		"prefix": "WI/V/1",
+		"prefix": "WI\/V\/1",
 		"title": "Aanvullende eisen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -101,7 +101,7 @@
 	},
 	{
 		"id": "7bd4112d-cda1-473f-aef3-0c03dd03d8c5",
-		"prefix": "WI/V/2",
+		"prefix": "WI\/V\/2",
 		"title": "Verrijkingsopdrachten",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -110,7 +110,7 @@
 	},
 	{
 		"id": "254b5655-1677-4dac-87ab-d569eca56306",
-		"prefix": "WI/V/3",
+		"prefix": "WI\/V\/3",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -119,7 +119,7 @@
 	},
 	{
 		"id": "60fdc8d5-cceb-4fe1-ab29-b33b13746b19",
-		"prefix": "WI/V/4",
+		"prefix": "WI\/V\/4",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -349,7 +349,7 @@
 	},
 	{
 		"id": "653dcf75-e53f-40ae-86de-2d7a836b496b",
-		"title": "Domein E: Meetkunde met coördinaten",
+		"title": "Domein E: Meetkunde met co\u00f6rdinaten",
 		"examenprogramma_subdomein_id": [
 			"77ef1cec-1237-48db-8b3b-d796577c2c38",
 			"7585eaee-86cb-4625-88ba-086add41b781",
@@ -570,7 +570,7 @@
 	},
 	{
 		"id": "5c156aca-d18f-4ef9-ad50-42ce135578ad",
-		"title": "Domein F: Industriële (chemische) processen",
+		"title": "Domein F: Industri\u00eble (chemische) processen",
 		"examenprogramma_subdomein_id": [
 			"c9bb5471-fce8-46e8-95f2-b64fa25e95d9",
 			"cd7b52b5-fb15-41b9-ae88-625edc0ad200",
@@ -780,8 +780,8 @@
 	},
 	{
 		"id": "a0d712ff-2be3-4196-a33a-7d0d638cf327",
-		"prefix": "NE/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "NE\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"1bfc1173-4666-4d36-9397-c8b3e3729c61"
@@ -789,7 +789,7 @@
 	},
 	{
 		"id": "19df9d0a-44c2-443f-967e-5041001d980a",
-		"prefix": "NE/K/2",
+		"prefix": "NE\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -798,7 +798,7 @@
 	},
 	{
 		"id": "db51e46c-2a16-41f8-a5c0-893ed3d207d8",
-		"prefix": "NE/K/3",
+		"prefix": "NE\/K\/3",
 		"title": "Leervaardigheden in het vak Nederlands",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -809,7 +809,7 @@
 	},
 	{
 		"id": "bbc455a7-2e67-4f55-980d-bfe9c39dbf20",
-		"prefix": "NE/K/4",
+		"prefix": "NE\/K\/4",
 		"title": "Luister- en kijkvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -824,7 +824,7 @@
 	},
 	{
 		"id": "8c92f991-7be8-4cc9-987e-98aa4058217d",
-		"prefix": "NE/K/5",
+		"prefix": "NE\/K\/5",
 		"title": "Spreek- en gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -840,7 +840,7 @@
 	},
 	{
 		"id": "2eedc0c4-bf82-4f31-a990-40e4e8b31ac8",
-		"prefix": "NE/K/6",
+		"prefix": "NE\/K\/6",
 		"title": "Leesvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -857,7 +857,7 @@
 	},
 	{
 		"id": "37f27aaf-a7fb-439a-aa7d-559ff00a0315",
-		"prefix": "NE/K/7",
+		"prefix": "NE\/K\/7",
 		"title": "Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -873,7 +873,7 @@
 	},
 	{
 		"id": "7f96a983-edeb-4d1b-85b8-016b7349398b",
-		"prefix": "NE/K/8",
+		"prefix": "NE\/K\/8",
 		"title": "Fictie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -887,7 +887,7 @@
 	},
 	{
 		"id": "56a3cc91-8499-4907-9f0c-e3dd01a371d5",
-		"prefix": "NE/V/1",
+		"prefix": "NE\/V\/1",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -896,7 +896,7 @@
 	},
 	{
 		"id": "976f5ca9-4fce-4db4-8082-8ab42d43cbe8",
-		"prefix": "NE/V/2",
+		"prefix": "NE\/V\/2",
 		"title": "Schrijven op basis van documentatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -905,7 +905,7 @@
 	},
 	{
 		"id": "bc51b3d9-fece-43f8-8127-454f89c08270",
-		"prefix": "NE/V/3",
+		"prefix": "NE\/V\/3",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -914,7 +914,7 @@
 	},
 	{
 		"id": "74a6a1ca-5ff8-4bc4-9a61-ba20aed48a8b",
-		"prefix": "NE/HV",
+		"prefix": "NE\/HV",
 		"title": "Domein A: Leesvaardigheid",
 		"examenprogramma_subdomein_id": [
 			"b2521853-310f-475e-ab1e-26f0fc3cbab7",
@@ -925,7 +925,7 @@
 	},
 	{
 		"id": "3b2b49d6-c966-46a3-800b-c21f4207814b",
-		"prefix": "NE/HV",
+		"prefix": "NE\/HV",
 		"title": "Domein B: Mondelinge taalvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -936,7 +936,7 @@
 	},
 	{
 		"id": "644fc66a-9e0d-433d-902a-5ea2ae365745",
-		"prefix": "NE/HV",
+		"prefix": "NE\/HV",
 		"title": "Domein C: Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -947,7 +947,7 @@
 	},
 	{
 		"id": "bc221327-d0a3-4848-92ef-0a6d8712c151",
-		"prefix": "NE/HV",
+		"prefix": "NE\/HV",
 		"title": "Domein D: Argumentatieve vaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -958,7 +958,7 @@
 	},
 	{
 		"id": "03d8d70b-7ef4-4996-957a-200b9fe1211a",
-		"prefix": "NE/HV",
+		"prefix": "NE\/HV",
 		"title": "Domein E: Literatuur",
 		"examenprogramma_subdomein_id": [
 			"ed0b3da6-fd7a-4e13-a7de-afb9615168ae",
@@ -969,8 +969,8 @@
 	},
 	{
 		"id": "72c752f2-938a-4a13-96a5-97a0ce41dd7c",
-		"prefix": "NE/HV",
-		"title": "Domein F: Oriëntatie op studie en beroep",
+		"prefix": "NE\/HV",
+		"title": "Domein F: Ori\u00ebntatie op studie en beroep",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": []
 	},
@@ -1166,8 +1166,8 @@
 	},
 	{
 		"id": "f5e1dcd9-d7dc-4f16-87df-5db52b4c9cb6",
-		"prefix": "NASK2/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "NASK2\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"e6f1d77a-d55d-446d-a38e-7dab06ffe191"
@@ -1175,7 +1175,7 @@
 	},
 	{
 		"id": "d52367f5-c5ed-4883-9616-51722e022ead",
-		"prefix": "NASK2/K/2",
+		"prefix": "NASK2\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1184,7 +1184,7 @@
 	},
 	{
 		"id": "fadcdea7-fca2-4315-860f-b194c5f298eb",
-		"prefix": "NASK2/K/3",
+		"prefix": "NASK2\/K\/3",
 		"title": "Leervaardigheden in het vak natuur- en scheikunde",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1195,7 +1195,7 @@
 	},
 	{
 		"id": "66876063-0606-4d93-9fca-f6acb698fe4b",
-		"prefix": "NASK2/K/4",
+		"prefix": "NASK2\/K\/4",
 		"title": "Mens en omgeving: gebruik van stoffen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1205,7 +1205,7 @@
 	},
 	{
 		"id": "b6e18332-f875-46f5-b132-86f784862d2a",
-		"prefix": "NASK2/K/5",
+		"prefix": "NASK2\/K\/5",
 		"title": "Mens en omgeving: verbranding",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1216,7 +1216,7 @@
 	},
 	{
 		"id": "3161f477-541a-4f57-a219-d7664b193e55",
-		"prefix": "NASK2/K/6",
+		"prefix": "NASK2\/K\/6",
 		"title": "Mens en omgeving: werken bij practicum en in beroepssituaties",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1225,7 +1225,7 @@
 	},
 	{
 		"id": "9694cf95-2aed-4c91-9691-787b4272ba12",
-		"prefix": "NASK2/K/7",
+		"prefix": "NASK2\/K\/7",
 		"title": "Water, zuren en basen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1238,7 +1238,7 @@
 	},
 	{
 		"id": "e373f81f-26b7-4c66-b386-c4df4bdf4979",
-		"prefix": "NASK2/K/8",
+		"prefix": "NASK2\/K\/8",
 		"title": "Reinigingsmiddelen en cosmetica",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1247,7 +1247,7 @@
 	},
 	{
 		"id": "6543ca49-cdfa-499d-8c93-985ee0d65514",
-		"prefix": "NASK2/K/9",
+		"prefix": "NASK2\/K\/9",
 		"title": "Chemie en industrie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1257,7 +1257,7 @@
 	},
 	{
 		"id": "7effef8d-32dc-431e-83e3-8d339ef8d7ef",
-		"prefix": "NASK2/K/10",
+		"prefix": "NASK2\/K\/10",
 		"title": "Basischemie voor vervolgopleiding en beroep",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1270,7 +1270,7 @@
 	},
 	{
 		"id": "8e7b852b-fe53-46f5-a6c5-b6088414df16",
-		"prefix": "NASK2/K/11",
+		"prefix": "NASK2\/K\/11",
 		"title": "Bouw van materie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1281,7 +1281,7 @@
 	},
 	{
 		"id": "068e50ba-2740-4f12-9eac-1f0cd26ad0ee",
-		"prefix": "NASK2/V/1",
+		"prefix": "NASK2\/V\/1",
 		"title": "Productieprocessen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1292,7 +1292,7 @@
 	},
 	{
 		"id": "1559ac98-666a-4a7c-ae4a-5577cb245c8e",
-		"prefix": "NASK2/V/2",
+		"prefix": "NASK2\/V\/2",
 		"title": "Productonderzoek",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1303,7 +1303,7 @@
 	},
 	{
 		"id": "69c69b49-239a-48c5-921d-4b669b804138",
-		"prefix": "NASK2/V/3",
+		"prefix": "NASK2\/V\/3",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1312,7 +1312,7 @@
 	},
 	{
 		"id": "8d445964-7723-4bd3-9852-e7fb53c33db9",
-		"prefix": "NASK2/V/4",
+		"prefix": "NASK2\/V\/4",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1321,8 +1321,8 @@
 	},
 	{
 		"id": "60c4b942-0fac-450b-b7c7-14a363b4b990",
-		"prefix": "NASK1/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "NASK1\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"18e597b4-bdbd-4535-86b0-0b2f849ccf94"
@@ -1330,7 +1330,7 @@
 	},
 	{
 		"id": "82c10d57-2b3b-46dd-84e1-7e96c83e1348",
-		"prefix": "NASK1/K/2",
+		"prefix": "NASK1\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1339,7 +1339,7 @@
 	},
 	{
 		"id": "53366f59-cad0-40ba-982b-eecaec14c07c",
-		"prefix": "NASK1/K/3",
+		"prefix": "NASK1\/K\/3",
 		"title": "Leervaardigheden in het vak natuurkunde",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1353,7 +1353,7 @@
 	},
 	{
 		"id": "49e0cdd4-078c-4cea-9d81-630f6f827892",
-		"prefix": "NASK1/K/4",
+		"prefix": "NASK1\/K\/4",
 		"title": "Stoffen en materialen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1366,7 +1366,7 @@
 	},
 	{
 		"id": "bd84300f-7753-40e7-ba9d-03b0bab8b465",
-		"prefix": "NASK1/K/5",
+		"prefix": "NASK1\/K\/5",
 		"title": "Elektrische energie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1377,7 +1377,7 @@
 	},
 	{
 		"id": "ee32cf4a-c9d1-47a6-88d1-bfa626206588",
-		"prefix": "NASK1/K/6",
+		"prefix": "NASK1\/K\/6",
 		"title": "Verbranden en verwarmen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1388,7 +1388,7 @@
 	},
 	{
 		"id": "3464de19-d3a3-4471-ab94-00de31cb58c5",
-		"prefix": "NASK1/K/7",
+		"prefix": "NASK1\/K\/7",
 		"title": "Licht en beeld",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1399,7 +1399,7 @@
 	},
 	{
 		"id": "20677711-768f-46b9-afcf-28a77fe75aa7",
-		"prefix": "NASK1/K/8",
+		"prefix": "NASK1\/K\/8",
 		"title": "Geluid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1410,7 +1410,7 @@
 	},
 	{
 		"id": "10e6319d-df1d-4051-9e31-3854c7b4ef98",
-		"prefix": "NASK1/K/9",
+		"prefix": "NASK1\/K\/9",
 		"title": "Kracht en veiligheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1422,7 +1422,7 @@
 	},
 	{
 		"id": "3b34eff7-74ed-42bb-93e7-0d1028531d69",
-		"prefix": "NASK1/K/10",
+		"prefix": "NASK1\/K\/10",
 		"title": "Bouw van de materie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1433,7 +1433,7 @@
 	},
 	{
 		"id": "ff35d7ea-ed90-4e8c-bf1b-0ddcd7afbd11",
-		"prefix": "NASK1/K/11",
+		"prefix": "NASK1\/K\/11",
 		"title": "Straling en stralingsbescherming",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1444,7 +1444,7 @@
 	},
 	{
 		"id": "c750a4bd-42e6-4914-a960-dceda4290759",
-		"prefix": "NASK1/K/12",
+		"prefix": "NASK1\/K\/12",
 		"title": "Het weer",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1455,7 +1455,7 @@
 	},
 	{
 		"id": "1fec0e63-c104-4c3e-98de-1d90ea42e72c",
-		"prefix": "NASK1/V/1",
+		"prefix": "NASK1\/V\/1",
 		"title": "Veiligheid in het verkeer",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1465,7 +1465,7 @@
 	},
 	{
 		"id": "2d7279c1-7fe8-4fa2-9ce4-9d20294cc706",
-		"prefix": "NASK1/V/2",
+		"prefix": "NASK1\/V\/2",
 		"title": "Constructies",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1475,7 +1475,7 @@
 	},
 	{
 		"id": "3291f446-c199-46da-b647-bda5b30d34a0",
-		"prefix": "NASK1/V/3",
+		"prefix": "NASK1\/V\/3",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1484,7 +1484,7 @@
 	},
 	{
 		"id": "1c109272-1683-4d3c-9668-a52f40ddf543",
-		"prefix": "NASK1/V/4",
+		"prefix": "NASK1\/V\/4",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1546,7 +1546,7 @@
 	},
 	{
 		"id": "99387359-1d29-4541-9895-4a905f81f896",
-		"title": "Domein F: Oriëntatie op studie en beroep",
+		"title": "Domein F: Ori\u00ebntatie op studie en beroep",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": []
 	},
@@ -1788,8 +1788,8 @@
 	},
 	{
 		"id": "86c33bef-a2eb-4838-b5e7-52d02259fb03",
-		"prefix": "ML1/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "ML1\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
 		],
@@ -1800,7 +1800,7 @@
 	},
 	{
 		"id": "63d95f1b-666f-44c6-bfc6-280dc62d3bff",
-		"prefix": "ML1/K/2",
+		"prefix": "ML1\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1809,7 +1809,7 @@
 	},
 	{
 		"id": "169a3931-5c75-41ae-89a0-c5d9adf9fc1e",
-		"prefix": "ML1/K/3",
+		"prefix": "ML1\/K\/3",
 		"title": "Leervaardigheden in het vak maatschappijleer",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1819,7 +1819,7 @@
 	},
 	{
 		"id": "028f1ba8-ff7d-4d5d-917b-4f6e038808fd",
-		"prefix": "ML1/K/4",
+		"prefix": "ML1\/K\/4",
 		"title": "Cultuur en socialisatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1833,7 +1833,7 @@
 	},
 	{
 		"id": "52590467-231e-42b1-9a06-92568a6b74e1",
-		"prefix": "ML1/K/5",
+		"prefix": "ML1\/K\/5",
 		"title": "Sociale verschillen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1847,7 +1847,7 @@
 	},
 	{
 		"id": "f2d61743-9e74-4922-b99f-181197214d5e",
-		"prefix": "ML1/K/6",
+		"prefix": "ML1\/K\/6",
 		"title": "Macht en zeggenschap",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1861,7 +1861,7 @@
 	},
 	{
 		"id": "7f111e95-277e-4bc1-b58f-18084889f921",
-		"prefix": "ML1/K/7",
+		"prefix": "ML1\/K\/7",
 		"title": "Beeldvorming en stereotypering",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1926,8 +1926,8 @@
 	},
 	{
 		"id": "e15fbf14-357a-466f-b6cd-474225e59f24",
-		"prefix": "ML2/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "ML2\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"2c461044-d135-45f0-9b33-598284ac0701"
@@ -1935,7 +1935,7 @@
 	},
 	{
 		"id": "6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
-		"prefix": "ML2/K/2",
+		"prefix": "ML2\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1944,7 +1944,7 @@
 	},
 	{
 		"id": "e98f2bd8-d68c-4029-b7fc-b875d3e722a2",
-		"prefix": "ML2/K/3",
+		"prefix": "ML2\/K\/3",
 		"title": "Leervaardigheden in het vak maatschappijkunde",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1961,7 +1961,7 @@
 	},
 	{
 		"id": "20d675ea-efb9-40f9-b8cd-a0003918de37",
-		"prefix": "ML2/K/4",
+		"prefix": "ML2\/K\/4",
 		"title": "Politiek en beleid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1977,7 +1977,7 @@
 	},
 	{
 		"id": "fc3fc8d8-603c-4be0-be5f-a0d6b48899a4",
-		"prefix": "ML2/K/5",
+		"prefix": "ML2\/K\/5",
 		"title": "Mens en werk",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -1995,7 +1995,7 @@
 	},
 	{
 		"id": "73efa9b7-d925-4435-ad41-57c9e5fa09c1",
-		"prefix": "ML2/K/6",
+		"prefix": "ML2\/K\/6",
 		"title": "De multiculturele samenleving",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2009,7 +2009,7 @@
 	},
 	{
 		"id": "a4b4a7da-8cf4-4ddb-9181-5e1419c94f3b",
-		"prefix": "ML2/K/7",
+		"prefix": "ML2\/K\/7",
 		"title": "Massamedia",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2025,7 +2025,7 @@
 	},
 	{
 		"id": "cfe1c804-2761-4441-a6f4-4b443109be53",
-		"prefix": "ML2/K/8",
+		"prefix": "ML2\/K\/8",
 		"title": "Criminaliteit en rechtsstaat",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2043,7 +2043,7 @@
 	},
 	{
 		"id": "481e2d36-2efb-40c0-b61a-466c281e1377",
-		"prefix": "ML2/V/1",
+		"prefix": "ML2\/V\/1",
 		"title": "Analyse maatschappelijk vraagstuk",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2052,7 +2052,7 @@
 	},
 	{
 		"id": "956262c7-d4cf-4aa3-b1b1-1952af9cfe3b",
-		"prefix": "ML2/V/2",
+		"prefix": "ML2\/V\/2",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2061,7 +2061,7 @@
 	},
 	{
 		"id": "7b1ba90d-36cc-4153-b176-d101292cb89a",
-		"prefix": "ML2/V/3",
+		"prefix": "ML2\/V\/3",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2070,8 +2070,8 @@
 	},
 	{
 		"id": "caf3334d-6355-4f07-a24f-478bf1599754",
-		"prefix": "IT/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "IT\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"f2754d70-ceb1-4574-88cc-c67686facc63",
@@ -2080,7 +2080,7 @@
 	},
 	{
 		"id": "0524c584-227d-4a15-a8cf-1c3c9b250e5f",
-		"prefix": "IT/2",
+		"prefix": "IT\/2",
 		"title": "Professionele vaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2102,7 +2102,7 @@
 	},
 	{
 		"id": "4df0cea1-2acb-45b0-a69a-f749873247b8",
-		"prefix": "IT/3",
+		"prefix": "IT\/3",
 		"title": "ICT-vaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2114,7 +2114,7 @@
 	},
 	{
 		"id": "7cfb4545-f090-4688-8c66-dd8ba65a19a0",
-		"prefix": "IT/4",
+		"prefix": "IT\/4",
 		"title": "Maatschappij en innovatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2125,7 +2125,7 @@
 	},
 	{
 		"id": "8771ec61-1fde-4dfe-806c-aa86e93888bc",
-		"prefix": "IT/5",
+		"prefix": "IT\/5",
 		"title": "Hardware",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2136,7 +2136,7 @@
 	},
 	{
 		"id": "8207b6fd-3554-44b7-91d6-583f68eee1e1",
-		"prefix": "IT/6",
+		"prefix": "IT\/6",
 		"title": "Media ontwerpen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2147,7 +2147,7 @@
 	},
 	{
 		"id": "10c0718e-9b60-4d86-8181-d4fcf747c4c7",
-		"prefix": "IT/7",
+		"prefix": "IT\/7",
 		"title": "IT Ontwerpen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2263,7 +2263,7 @@
 	},
 	{
 		"id": "747394b0-de94-4fac-89ee-76443de5bfd5",
-		"title": "Domein J: Keuzethema Programmeerparadigma’s",
+		"title": "Domein J: Keuzethema Programmeerparadigma's",
 		"examenprogramma_subdomein_id": [
 			"9c66ce78-2862-4b59-9108-ea78588988fa",
 			"04c37701-aa6f-4753-97fd-328ea537f86b"
@@ -2410,7 +2410,7 @@
 	},
 	{
 		"id": "3ad586e0-73e2-4e98-82b3-da8c913ee92a",
-		"title": "Domein B: Oriëntatiekennis",
+		"title": "Domein B: Ori\u00ebntatiekennis",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"d50a7fe2-9609-4f08-8a44-cb0c3a0d70d9",
@@ -2551,14 +2551,14 @@
 	},
 	{
 		"id": "493e5abc-d9b7-434b-9f6f-85dbe333baf2",
-		"title": "Domein E: Oriëntatie op studie en beroep",
+		"title": "Domein E: Ori\u00ebntatie op studie en beroep",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": []
 	},
 	{
 		"id": "0b767adb-ab60-4799-8857-9ab32ccd335a",
-		"prefix": "GS/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "GS\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"1a3f95ca-030d-4268-bc5f-5b90c9c8e405"
@@ -2566,7 +2566,7 @@
 	},
 	{
 		"id": "2321a6fc-8da2-4117-8ec3-204cae78d76e",
-		"prefix": "GS/K/2",
+		"prefix": "GS\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2575,7 +2575,7 @@
 	},
 	{
 		"id": "2eaedb42-60b9-47f3-bbe0-57f0a4b4d2b1",
-		"prefix": "GS/K/3",
+		"prefix": "GS\/K\/3",
 		"title": "Leervaardigheden in het vak geschiedenis en staatsinrichting",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2585,8 +2585,8 @@
 	},
 	{
 		"id": "714f8ac9-9d18-4128-a296-8ddd65949131",
-		"prefix": "GS/K/4",
-		"title": "De koloniale relatie Indonesië - Nederland",
+		"prefix": "GS\/K\/4",
+		"title": "De koloniale relatie Indonesi\u00eb - Nederland",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"22f76d20-2d4f-44ec-907a-7c39097057ad",
@@ -2595,7 +2595,7 @@
 	},
 	{
 		"id": "3d4ca6c1-3d9f-4b10-a149-f65a7e42c064",
-		"prefix": "GS/K/5",
+		"prefix": "GS\/K\/5",
 		"title": "Staatsinrichting van Nederland",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2605,8 +2605,8 @@
 	},
 	{
 		"id": "88ffb1cf-9f70-4996-a3e0-592ea001ca03",
-		"prefix": "GS/K/6",
-		"title": "De industriële samenleving in Nederland",
+		"prefix": "GS\/K\/6",
+		"title": "De industri\u00eble samenleving in Nederland",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"17b74d4a-a466-42ae-a754-abe68154158a",
@@ -2615,7 +2615,7 @@
 	},
 	{
 		"id": "a9cdbee9-1de8-416d-8a8c-b5b3396c9f40",
-		"prefix": "GS/K/7",
+		"prefix": "GS\/K\/7",
 		"title": "Sociale zekerheid en verzorgingsstaat in Nederland",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2625,7 +2625,7 @@
 	},
 	{
 		"id": "ab531ebe-be2e-4392-a10b-7142f2606dd7",
-		"prefix": "GS/K/8",
+		"prefix": "GS\/K\/8",
 		"title": "Cultureel - mentale ontwikkelingen in Nederland na 1945",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2635,7 +2635,7 @@
 	},
 	{
 		"id": "cb156201-8593-419a-bffb-f6ce3186111f",
-		"prefix": "GS/K/9",
+		"prefix": "GS\/K\/9",
 		"title": "De Koude Oorlog",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2645,7 +2645,7 @@
 	},
 	{
 		"id": "d90c26ab-6d86-419d-a25f-999467aab580",
-		"prefix": "GS/K/10",
+		"prefix": "GS\/K\/10",
 		"title": "Historisch overzicht vanaf 1900",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2655,8 +2655,8 @@
 	},
 	{
 		"id": "e4a85a10-70ac-4fee-9238-fb2e27437bdf",
-		"prefix": "GS/K/11",
-		"title": "Het conflict tussen Israël en de Arabische wereld",
+		"prefix": "GS\/K\/11",
+		"title": "Het conflict tussen Isra\u00ebl en de Arabische wereld",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"382d2df5-93ed-48e8-9b39-721560edcdd3",
@@ -2665,7 +2665,7 @@
 	},
 	{
 		"id": "eada8280-5976-44ed-8446-26a2b7c0bf90",
-		"prefix": "GS/V/2",
+		"prefix": "GS\/V\/2",
 		"title": "Nederland en Europa",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2674,7 +2674,7 @@
 	},
 	{
 		"id": "2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
-		"prefix": "GS/V/3",
+		"prefix": "GS\/V\/3",
 		"title": "De verhouding mens - milieu",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2683,7 +2683,7 @@
 	},
 	{
 		"id": "d789aa5d-3ee5-4dc1-8936-6b92ecc37392",
-		"prefix": "GS/V/4",
+		"prefix": "GS\/V\/4",
 		"title": "Ontwikkeling van de gezondheidszorg in Nederland",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2692,7 +2692,7 @@
 	},
 	{
 		"id": "39b3b6cc-05a0-41a3-81df-17206f9fca4f",
-		"prefix": "GS/V/5",
+		"prefix": "GS\/V\/5",
 		"title": "Verzuiling en ontzuiling in Nederland",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2701,7 +2701,7 @@
 	},
 	{
 		"id": "0356b2f1-9e27-4c0f-a844-dff65a3e64a4",
-		"prefix": "GS/V/6",
+		"prefix": "GS\/V\/6",
 		"title": "Nederland en de Verenigde Staten na de Tweede Wereldoorlog",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2710,7 +2710,7 @@
 	},
 	{
 		"id": "0cece58c-383e-4a70-8c6d-1f610ff5e917",
-		"prefix": "GS/V/7",
+		"prefix": "GS\/V\/7",
 		"title": "Verwerven en verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2719,7 +2719,7 @@
 	},
 	{
 		"id": "defb5ee8-6ef6-4318-b287-674a8e9c1c85",
-		"prefix": "GS/V/8",
+		"prefix": "GS\/V\/8",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2728,8 +2728,8 @@
 	},
 	{
 		"id": "b61472de-71ca-4d3b-ae7f-040dcf8d0df8",
-		"prefix": "GS/V/9",
-		"title": "Twee thema’s bij het Historisch Overzicht vanaf 1900",
+		"prefix": "GS\/V\/9",
+		"title": "Twee thema's bij het Historisch Overzicht vanaf 1900",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"262973b0-b261-48f2-a82c-a21b592c85ab",
@@ -2738,8 +2738,8 @@
 	},
 	{
 		"id": "fb138f99-786a-45a1-96d3-ef8d8a555b53",
-		"prefix": "MVT/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "MVT\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"7ef73a0f-b6bf-4584-bdc7-612b2e804c87"
@@ -2747,7 +2747,7 @@
 	},
 	{
 		"id": "2e145a4b-4b48-4d74-884a-ccaffaa144f1",
-		"prefix": "MVT/K/2",
+		"prefix": "MVT\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2756,7 +2756,7 @@
 	},
 	{
 		"id": "9827d61d-9881-4647-943c-aaf3ef656984",
-		"prefix": "MVT/K/3",
+		"prefix": "MVT\/K\/3",
 		"title": "Leervaardigheden in de Moderne Vreemde Talen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2768,7 +2768,7 @@
 	},
 	{
 		"id": "cb988a40-fa45-490d-98d0-a6570abdbad2",
-		"prefix": "MVT/K/4",
+		"prefix": "MVT\/K\/4",
 		"title": "Leesvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2781,7 +2781,7 @@
 	},
 	{
 		"id": "57d25632-0540-4f54-a042-b50de3dfdecf",
-		"prefix": "MVT/K/5",
+		"prefix": "MVT\/K\/5",
 		"title": "Luister- en kijkvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2793,7 +2793,7 @@
 	},
 	{
 		"id": "771b122d-41f4-4187-a46c-028b83fb4e16",
-		"prefix": "MVT/K/6",
+		"prefix": "MVT\/K\/6",
 		"title": "Gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2806,7 +2806,7 @@
 	},
 	{
 		"id": "4feb2ade-0c18-4770-9967-60c1c1aa54ed",
-		"prefix": "MVT/K/7",
+		"prefix": "MVT\/K\/7",
 		"title": "Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2818,7 +2818,7 @@
 	},
 	{
 		"id": "4f18fdc5-4112-4f87-a807-8a5ef640bafd",
-		"prefix": "MVT/V/1",
+		"prefix": "MVT\/V\/1",
 		"title": "Leesvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2828,7 +2828,7 @@
 	},
 	{
 		"id": "51c14fc6-b37c-438a-aa82-b5749de0d350",
-		"prefix": "MVT/V/3",
+		"prefix": "MVT\/V\/3",
 		"title": "Kennis van land en samenleving",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2837,7 +2837,7 @@
 	},
 	{
 		"id": "fa244614-70a3-4e69-bc25-5a2917874c0a",
-		"prefix": "MVT/V/4",
+		"prefix": "MVT\/V\/4",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2846,7 +2846,7 @@
 	},
 	{
 		"id": "311b43bd-3f0b-48e8-ab27-209f8d15e704",
-		"prefix": "MVT/V/5",
+		"prefix": "MVT\/V\/5",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2923,8 +2923,8 @@
 	},
 	{
 		"id": "955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
-		"prefix": "MVT/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "MVT\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"d5cd7fd1-5e94-429d-9751-8fa92e9c0212"
@@ -2932,7 +2932,7 @@
 	},
 	{
 		"id": "b32da233-4e5a-46e0-9f68-45ced41b7a3e",
-		"prefix": "MVT/K/2",
+		"prefix": "MVT\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2941,7 +2941,7 @@
 	},
 	{
 		"id": "79a51e9c-30a6-4c87-8ea5-f66b8a17c76e",
-		"prefix": "MVT/K/3",
+		"prefix": "MVT\/K\/3",
 		"title": "Leervaardigheden in de Moderne Vreemde Talen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2953,7 +2953,7 @@
 	},
 	{
 		"id": "7ae80c81-f11d-4de3-9fc0-6422249cd691",
-		"prefix": "MVT/K/4",
+		"prefix": "MVT\/K\/4",
 		"title": "Leesvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2966,7 +2966,7 @@
 	},
 	{
 		"id": "88828519-f671-421c-83bb-01743cb36832",
-		"prefix": "MVT/K/5",
+		"prefix": "MVT\/K\/5",
 		"title": "Luister- en kijkvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2978,7 +2978,7 @@
 	},
 	{
 		"id": "8901a49b-730f-4158-8dc0-33813f4cd023",
-		"prefix": "MVT/K/6",
+		"prefix": "MVT\/K\/6",
 		"title": "Gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -2991,7 +2991,7 @@
 	},
 	{
 		"id": "bd98fda7-a534-4a64-942a-611146a4d3b0",
-		"prefix": "MVT/K/7",
+		"prefix": "MVT\/K\/7",
 		"title": "Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3003,7 +3003,7 @@
 	},
 	{
 		"id": "8fe1dc77-83e4-40e6-872e-89db5d62d3fa",
-		"prefix": "MVT/V/1",
+		"prefix": "MVT\/V\/1",
 		"title": "Leesvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3013,7 +3013,7 @@
 	},
 	{
 		"id": "de039faa-9871-484c-a542-515f92aadd9d",
-		"prefix": "MVT/V/3",
+		"prefix": "MVT\/V\/3",
 		"title": "Kennis van land en samenleving",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3022,7 +3022,7 @@
 	},
 	{
 		"id": "35a649dd-0d0e-4df3-8237-a62bc622d5b6",
-		"prefix": "MVT/V/4",
+		"prefix": "MVT\/V\/4",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3031,7 +3031,7 @@
 	},
 	{
 		"id": "f8fc7329-a2c9-4438-b42b-36cf5d6fb768",
-		"prefix": "MVT/V/5",
+		"prefix": "MVT\/V\/5",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3040,8 +3040,8 @@
 	},
 	{
 		"id": "192b908f-53ef-47d2-83b7-30fcee62846a",
-		"prefix": "EC/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "EC\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
 		],
@@ -3052,7 +3052,7 @@
 	},
 	{
 		"id": "ea7cacc2-2251-47c1-8ecd-34878f3ef8a4",
-		"prefix": "EC/K/2",
+		"prefix": "EC\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3061,7 +3061,7 @@
 	},
 	{
 		"id": "e3349af8-3e12-4965-b332-7f5b454dbee6",
-		"prefix": "EC/K/3",
+		"prefix": "EC\/K\/3",
 		"title": "Leervaardigheden in het vak economie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3070,7 +3070,7 @@
 	},
 	{
 		"id": "71991e0d-6a4e-4b60-a5dd-59c089e5d0c9",
-		"prefix": "EC/K/4A",
+		"prefix": "EC\/K\/4A",
 		"title": "Consumptie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3079,7 +3079,7 @@
 	},
 	{
 		"id": "4f5243e8-f001-4620-86b8-cb8cd5b6ccdd",
-		"prefix": "EC/K/4B",
+		"prefix": "EC\/K\/4B",
 		"title": "Consumptie en consumentenorganisaties",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3088,7 +3088,7 @@
 	},
 	{
 		"id": "d2453620-4a7e-4f6a-bd7f-42e02ad291d1",
-		"prefix": "EC/K/5A",
+		"prefix": "EC\/K\/5A",
 		"title": "Arbeid en productie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3097,7 +3097,7 @@
 	},
 	{
 		"id": "7232c85e-ad9b-4122-8f8d-d9488e2a909c",
-		"prefix": "EC/K/5B",
+		"prefix": "EC\/K\/5B",
 		"title": "Arbeid en bedrijfsleven",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3106,7 +3106,7 @@
 	},
 	{
 		"id": "97ef46b6-0ba0-440a-a14a-1d939e917b46",
-		"prefix": "EC/K/6",
+		"prefix": "EC\/K\/6",
 		"title": "Overheid en bestuur",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3116,7 +3116,7 @@
 	},
 	{
 		"id": "433a608e-3bec-444d-ac60-3031db3c0946",
-		"prefix": "EC/K/7",
+		"prefix": "EC\/K\/7",
 		"title": "Internationale ontwikkelingen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3125,7 +3125,7 @@
 	},
 	{
 		"id": "d39abf9a-449e-4a68-b4e7-f9b8a2290fa4",
-		"prefix": "EC/K/8",
+		"prefix": "EC\/K\/8",
 		"title": "Natuur en milieu",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3134,7 +3134,7 @@
 	},
 	{
 		"id": "bad8ead1-f566-4201-87d7-5e4166b20c4a",
-		"prefix": "EC/V/1",
+		"prefix": "EC\/V\/1",
 		"title": "Verrijkingsstor",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3146,7 +3146,7 @@
 	},
 	{
 		"id": "97d9a316-1c50-4075-9022-7bf23644eb92",
-		"prefix": "EC/V/2",
+		"prefix": "EC\/V\/2",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3155,7 +3155,7 @@
 	},
 	{
 		"id": "fc430196-76ae-4ac0-a55c-af24db05f5d1",
-		"prefix": "EC/V/3",
+		"prefix": "EC\/V\/3",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3262,8 +3262,8 @@
 	},
 	{
 		"id": "40175655-d16a-4128-b424-05b278bbb010",
-		"prefix": "MVT/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "MVT\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"c94f4790-d239-4710-b866-cad4ba5edc04"
@@ -3271,7 +3271,7 @@
 	},
 	{
 		"id": "dbbb3a43-5edc-486b-991d-d099f24dd1c7",
-		"prefix": "MVT/K/2",
+		"prefix": "MVT\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3280,7 +3280,7 @@
 	},
 	{
 		"id": "78501b14-b391-4043-9c0d-bef12c65fb1d",
-		"prefix": "MVT/K/3",
+		"prefix": "MVT\/K\/3",
 		"title": "Leervaardigheden in de Moderne Vreemde Talen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3292,7 +3292,7 @@
 	},
 	{
 		"id": "e2542a9c-03af-4883-959c-0e542b38bf4d",
-		"prefix": "MVT/K/4",
+		"prefix": "MVT\/K\/4",
 		"title": "Leesvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3305,7 +3305,7 @@
 	},
 	{
 		"id": "4322e3ec-ba62-4323-9925-ac8181fc5ba5",
-		"prefix": "MVT/K/5",
+		"prefix": "MVT\/K\/5",
 		"title": "Luister- en kijkvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3317,7 +3317,7 @@
 	},
 	{
 		"id": "c55dab70-4d07-407d-949e-edcee029d480",
-		"prefix": "MVT/K/6",
+		"prefix": "MVT\/K\/6",
 		"title": "Gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3330,7 +3330,7 @@
 	},
 	{
 		"id": "bf5c5a71-ab83-4d35-9992-d84c9b27b19a",
-		"prefix": "MVT/K/7",
+		"prefix": "MVT\/K\/7",
 		"title": "Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3342,7 +3342,7 @@
 	},
 	{
 		"id": "36599d9c-6038-412a-8936-a5ac2b5eafab",
-		"prefix": "MVT/V/1",
+		"prefix": "MVT\/V\/1",
 		"title": "Leesvaardigheid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3352,7 +3352,7 @@
 	},
 	{
 		"id": "3f6726da-c6ec-49cb-acb3-16e2ebc3d0b4",
-		"prefix": "MVT/V/3",
+		"prefix": "MVT\/V\/3",
 		"title": "Kennis van land en samenleving",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3361,7 +3361,7 @@
 	},
 	{
 		"id": "e8333a86-f783-4980-9f70-3691a36be7a1",
-		"prefix": "MVT/V/4",
+		"prefix": "MVT\/V\/4",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3370,7 +3370,7 @@
 	},
 	{
 		"id": "b6bfcb54-66c6-4a7d-856e-d2dda8b46913",
-		"prefix": "MVT/V/5",
+		"prefix": "MVT\/V\/5",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3388,7 +3388,7 @@
 	},
 	{
 		"id": "050101cd-7f47-41db-9f0b-7d6e2fa39668",
-		"title": "Domein F: Oriëntatie op studie en beroep",
+		"title": "Domein F: Ori\u00ebntatie op studie en beroep",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": []
 	},
@@ -3483,7 +3483,7 @@
 	{
 		"id": "f80d6cd2-8a79-48a7-af22-37a741a85567",
 		"prefix": "1.",
-		"title": "Oriëntatie op leren en werken",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
 		],
@@ -3503,7 +3503,7 @@
 	},
 	{
 		"id": "560c6c5b-3b85-48a3-ade6-dda678fd2a79",
-		"prefix": "BI/K/3",
+		"prefix": "BI\/K\/3",
 		"title": "Leervaardigheden in het vak biologie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3513,7 +3513,7 @@
 	},
 	{
 		"id": "8041a157-8783-4ac5-bf13-b00f9817a62b",
-		"prefix": "BI/K/4",
+		"prefix": "BI\/K\/4",
 		"title": "Cellen staan aan de basis",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3525,8 +3525,8 @@
 	},
 	{
 		"id": "3ef0959f-3650-43f2-94d0-9a1e8ac89bde",
-		"prefix": "BI/K/5",
-		"title": "Schimmels en bacteriën: nuttig en soms schadelijk",
+		"prefix": "BI\/K\/5",
+		"title": "Schimmels en bacteri\u00ebn: nuttig en soms schadelijk",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"63966db4-5644-4462-8285-a2751379c413",
@@ -3535,7 +3535,7 @@
 	},
 	{
 		"id": "f8702473-e568-4fd0-a917-226f0439ce46",
-		"prefix": "BI/K/6",
+		"prefix": "BI\/K\/6",
 		"title": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3546,8 +3546,8 @@
 	},
 	{
 		"id": "d41cc0f9-9af9-40da-9a41-38215e702ac3",
-		"prefix": "BI/K/7",
-		"title": "Mensen beïnvloeden hun omgeving",
+		"prefix": "BI\/K\/7",
+		"title": "Mensen be\u00efnvloeden hun omgeving",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"f0758e82-86fc-4c79-a090-a2f77cd8b343",
@@ -3557,7 +3557,7 @@
 	},
 	{
 		"id": "d4555d58-cc9f-41fc-b6d2-03640e6d0573",
-		"prefix": "BI/K/8",
+		"prefix": "BI\/K\/8",
 		"title": "Houding, beweging en conditie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3569,7 +3569,7 @@
 	},
 	{
 		"id": "f7570df2-4e24-4ef0-8663-25087fe7e0bf",
-		"prefix": "BI/K/9",
+		"prefix": "BI\/K\/9",
 		"title": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3579,7 +3579,7 @@
 	},
 	{
 		"id": "ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
-		"prefix": "BI/K/10",
+		"prefix": "BI\/K\/10",
 		"title": "Bescherming",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3588,7 +3588,7 @@
 	},
 	{
 		"id": "4a2d0fc6-022d-4d42-957a-11ce42df8443",
-		"prefix": "BI/K/11",
+		"prefix": "BI\/K\/11",
 		"title": "Reageren op prikkels",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3598,7 +3598,7 @@
 	},
 	{
 		"id": "f03a9344-f1d3-46e8-88ed-3ec02ca2c8d2",
-		"prefix": "BI/K/12",
+		"prefix": "BI\/K\/12",
 		"title": "Van generatie op generatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3608,7 +3608,7 @@
 	},
 	{
 		"id": "b2a14386-0e7c-4c03-b91a-9c5598ee24d0",
-		"prefix": "BI/K/13",
+		"prefix": "BI\/K\/13",
 		"title": "Erfelijkheid en evoluatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3618,7 +3618,7 @@
 	},
 	{
 		"id": "a3dd06f2-048b-46fa-986d-947de8496303",
-		"prefix": "BI/V/1",
+		"prefix": "BI\/V\/1",
 		"title": "Bescherming en antistoffen",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3703,8 +3703,8 @@
 	},
 	{
 		"id": "ae25280b-382b-4097-8fb2-ee89c4e99f90",
-		"prefix": "BV/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "BV\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"fe52c701-d09d-4f91-887f-4c9924318b11"
@@ -3712,7 +3712,7 @@
 	},
 	{
 		"id": "6d811442-ea28-471c-a960-c9f2fa5dd288",
-		"prefix": "BV/K/2",
+		"prefix": "BV\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3721,7 +3721,7 @@
 	},
 	{
 		"id": "4d1dedae-2d2f-42f8-8449-2c0d92366359",
-		"prefix": "BV/K/3",
+		"prefix": "BV\/K\/3",
 		"title": "Leervaardigheden in de beeldende vakken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3730,7 +3730,7 @@
 	},
 	{
 		"id": "ff966b62-8dc9-4b91-ac03-0b0b1d49e7ea",
-		"prefix": "BV/K/4",
+		"prefix": "BV\/K\/4",
 		"title": "Beeldend werk, productief",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3739,7 +3739,7 @@
 	},
 	{
 		"id": "60564a30-775a-4fa6-8c9e-6869aafeebb2",
-		"prefix": "BV/K/5",
+		"prefix": "BV\/K\/5",
 		"title": "Werkproces, productief",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3749,7 +3749,7 @@
 	},
 	{
 		"id": "cc0a629a-c038-45b4-a213-5d9e8408cbe4",
-		"prefix": "BV/K/6",
+		"prefix": "BV\/K\/6",
 		"title": "Middelen, productief",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3758,7 +3758,7 @@
 	},
 	{
 		"id": "b75ccb90-50b2-41eb-9c18-f5c0e5f308ff",
-		"prefix": "BV/K/7",
+		"prefix": "BV\/K\/7",
 		"title": "Beschouwen - eigen werk, reflectief",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3768,7 +3768,7 @@
 	},
 	{
 		"id": "e4eb60b1-b999-42bd-a3da-de640466dc79",
-		"prefix": "BV/K/8",
+		"prefix": "BV\/K\/8",
 		"title": "Beschouwen - werk van anderen, reflectief",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3777,7 +3777,7 @@
 	},
 	{
 		"id": "36823359-cf0f-4e26-b90a-5dd0b55c1282",
-		"prefix": "BV/V/1",
+		"prefix": "BV\/V\/1",
 		"title": "Eindopdracht, productief en reflectief",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3792,7 +3792,7 @@
 	},
 	{
 		"id": "743ceb25-ab74-4091-9af7-639978680de4",
-		"prefix": "BV/V/2",
+		"prefix": "BV\/V\/2",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3801,7 +3801,7 @@
 	},
 	{
 		"id": "407dfb06-67dd-411e-a3ba-bfe60f274ce8",
-		"prefix": "BV/V/3",
+		"prefix": "BV\/V\/3",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3873,7 +3873,7 @@
 	},
 	{
 		"id": "99133512-0fc8-4de8-9fb9-f9235f75751b",
-		"prefix": "AK/V",
+		"prefix": "AK\/V",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"606657d1-5ec5-4f98-9cdb-8ae2c2db1aff",
@@ -3883,7 +3883,7 @@
 	},
 	{
 		"id": "09e66e5b-06e9-4d39-b941-3b2a56c681eb",
-		"prefix": "AK/V",
+		"prefix": "AK\/V",
 		"title": "Domein B: Wereld",
 		"examenprogramma_subdomein_id": [
 			"f68f81cf-a3c3-4ea3-9ad1-68659d197f89",
@@ -3893,7 +3893,7 @@
 	},
 	{
 		"id": "fa7a11c9-d85d-4773-84f1-099586fee47e",
-		"prefix": "AK/V",
+		"prefix": "AK\/V",
 		"title": "Domein C: Aarde",
 		"examenprogramma_subdomein_id": [
 			"4bbd2464-07e8-4b68-b4a5-39c630dac25e",
@@ -3903,7 +3903,7 @@
 	},
 	{
 		"id": "3181cd3e-c59a-4012-b774-6c9f39168157",
-		"prefix": "AK/V",
+		"prefix": "AK\/V",
 		"title": "Domein D: Gebieden",
 		"examenprogramma_subdomein_id": [
 			"76e3ce7c-7356-40f9-8b30-c9a8f3c84ab6",
@@ -3913,7 +3913,7 @@
 	},
 	{
 		"id": "06dec5a4-683d-481e-9ff4-5a3cb01685e0",
-		"prefix": "AK/V",
+		"prefix": "AK\/V",
 		"title": "Domein E: Leefomgeving",
 		"examenprogramma_subdomein_id": [
 			"90176787-9a80-4148-8662-f1561f223596",
@@ -3923,15 +3923,15 @@
 	},
 	{
 		"id": "f72384f9-4893-43cd-83a7-27733bdfe282",
-		"prefix": "AK/V",
-		"title": "Domein F: Oriëntatie op studie en beroep",
+		"prefix": "AK\/V",
+		"title": "Domein F: Ori\u00ebntatie op studie en beroep",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": []
 	},
 	{
 		"id": "d092a6a9-7943-438d-8618-e5f099e5cc54",
-		"prefix": "AK/K/1",
-		"title": "Oriëntatie op leren en werken",
+		"prefix": "AK\/K\/1",
+		"title": "Ori\u00ebntatie op leren en werken",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"78b6c732-11ef-44a8-9687-b5cc28bd9a4b"
@@ -3939,7 +3939,7 @@
 	},
 	{
 		"id": "beb15b5d-d2b1-4487-b700-2a349e498587",
-		"prefix": "AK/K/2",
+		"prefix": "AK\/K\/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3948,7 +3948,7 @@
 	},
 	{
 		"id": "d30a157f-a352-4b77-966a-254d612d3a34",
-		"prefix": "AK/K/3",
+		"prefix": "AK\/K\/3",
 		"title": "Leervaardigheden in het vak aardrijkskunde",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3963,7 +3963,7 @@
 	},
 	{
 		"id": "10cbdf21-6ee6-4bd4-81df-3831344dc630",
-		"prefix": "AK/K/4",
+		"prefix": "AK\/K\/4",
 		"title": "Weer en klimaat",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3976,7 +3976,7 @@
 	},
 	{
 		"id": "9c811e4f-32e7-4f75-8d66-91e945a78cc2",
-		"prefix": "AK/K/5",
+		"prefix": "AK\/K\/5",
 		"title": "Bronnen van energie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -3988,7 +3988,7 @@
 	},
 	{
 		"id": "84ed5944-0f3b-4a0d-b132-eca5d3595f06",
-		"prefix": "AK/K/6",
+		"prefix": "AK\/K\/6",
 		"title": "Water",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4000,7 +4000,7 @@
 	},
 	{
 		"id": "846069d0-5ed3-4201-8b6e-604a1fe6d96b",
-		"prefix": "AK/K/7",
+		"prefix": "AK\/K\/7",
 		"title": "Arm en rijk",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4012,7 +4012,7 @@
 	},
 	{
 		"id": "2ecb1097-7ab8-478c-8dbb-59c8db1cff37",
-		"prefix": "AK/K/8",
+		"prefix": "AK\/K\/8",
 		"title": "Bevolking en ruimte",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4024,7 +4024,7 @@
 	},
 	{
 		"id": "bcab71e4-5f56-41ab-b3bf-dc0524320878",
-		"prefix": "AK/K/9",
+		"prefix": "AK\/K\/9",
 		"title": "Grenzen en identiteit",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4036,7 +4036,7 @@
 	},
 	{
 		"id": "8a6ac33a-58b3-48c2-bf4c-7e389d0711cb",
-		"prefix": "AK/V/1",
+		"prefix": "AK\/V\/1",
 		"title": "Casus Weer en klimaat: Extreme weersomstandigheden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4045,7 +4045,7 @@
 	},
 	{
 		"id": "42b0e381-69fb-41c2-a993-5528fe1ad3e6",
-		"prefix": "AK/V/2",
+		"prefix": "AK\/V\/2",
 		"title": "Casus Bronnen van energie: Energiebeleid",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4054,7 +4054,7 @@
 	},
 	{
 		"id": "c26aa86c-ec32-4454-9a28-6341a78eaa39",
-		"prefix": "AK/V/3",
+		"prefix": "AK\/V\/3",
 		"title": "Casus Water: Watermanagement",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4063,7 +4063,7 @@
 	},
 	{
 		"id": "0bb5df5c-5cdd-4253-91f5-cff3c33f3b0e",
-		"prefix": "AK/V/4",
+		"prefix": "AK\/V\/4",
 		"title": "Casus Arm en rijk: Arm en rijk en gezondheidszorg",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4072,7 +4072,7 @@
 	},
 	{
 		"id": "a80cd9d8-5988-4dcc-8893-378cc2324f29",
-		"prefix": "AK/V/5",
+		"prefix": "AK\/V\/5",
 		"title": "Casus Bevolking en ruimte: Bevolking en ruimte in grootstedelijke gebieden",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4081,7 +4081,7 @@
 	},
 	{
 		"id": "dd648e89-2094-4f49-b198-93d7b7a18ce5",
-		"prefix": "AK/V/6",
+		"prefix": "AK\/V\/6",
 		"title": "Casus Grenzen en identiteit: Regionale identiteit",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4090,7 +4090,7 @@
 	},
 	{
 		"id": "5e6a04d6-24e1-42df-bcb0-c020e10570f0",
-		"prefix": "AK/V/7",
+		"prefix": "AK\/V\/7",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -4099,7 +4099,7 @@
 	},
 	{
 		"id": "a799f47c-149a-4775-b80a-ce7426f586d6",
-		"prefix": "AK/V/8",
+		"prefix": "AK\/V\/8",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [

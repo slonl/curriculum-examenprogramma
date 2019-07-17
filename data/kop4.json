@@ -13,7 +13,7 @@
 	},
 	{
 		"id": "b0977e3f-8b70-4cc4-996c-9a5abce2f684",
-		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma's GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
 			"4f051d86-dcb7-449b-80bf-cef348001a6e",
@@ -64,7 +64,7 @@
 	},
 	{
 		"id": "489a04db-1059-45aa-a393-23dc06ad7c73",
-		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (b\u00e8taprofielniveau)",
 		"examenprogramma_body_id": []
 	},
 	{
@@ -82,7 +82,7 @@
 	},
 	{
 		"id": "42a5cb0a-911d-46b9-8f67-50e0d52caca9",
-		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (b\u00e8taprofielniveau)",
 		"tag_id": [
 			"732e91df-50c2-465f-948c-07462f06acba"
 		],
@@ -103,7 +103,7 @@
 	},
 	{
 		"id": "7afae99f-db49-4ea3-89d6-ad16ebc9e980",
-		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (b\u00e8taprofielniveau)",
 		"examenprogramma_body_id": []
 	},
 	{
@@ -118,7 +118,7 @@
 	},
 	{
 		"id": "34609f44-6aaa-4ddf-bcb3-ff71a81a44ed",
-		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (bètaprofielniveau)",
+		"title": "Natuurwetenschappelijke, wiskundige en technische vaardigheden (b\u00e8taprofielniveau)",
 		"examenprogramma_body_id": []
 	},
 	{
@@ -140,7 +140,7 @@
 	},
 	{
 		"id": "f009f446-73f4-4765-b9dd-85127bd5e38d",
-		"prefix": "BI/K/1",
+		"prefix": "BI\/K\/1",
 		"title": "Examenstof:",
 		"tag_id": [
 			"a2b4b945-8366-4291-bc6c-5a1755682647"

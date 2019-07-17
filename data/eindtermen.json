@@ -2,7 +2,7 @@
 	{
 		"id": "a9b12666-fe43-41f3-a85a-680a7486c3f6",
 		"prefix": "1.-",
-		"title": "De kandidaat kan zich oriënteren op het belang van wiskunde voor de eigen loopbaan en voor zijn functioneren in de maatschappij",
+		"title": "De kandidaat kan zich ori\u00ebnteren op het belang van wiskunde voor de eigen loopbaan en voor zijn functioneren in de maatschappij",
 		"niveau_id": []
 	},
 	{
@@ -32,7 +32,7 @@
 	{
 		"id": "9b99e478-af5a-4b86-a97b-705921aadf81",
 		"prefix": "3.-",
-		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij adequate onderzoeks- en redeneerstrategieën toepassen.",
+		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij adequate onderzoeks- en redeneerstrategie\u00ebn toepassen.",
 		"niveau_id": []
 	},
 	{
@@ -74,13 +74,13 @@
 	{
 		"id": "c0134c66-5a44-4f2d-aaa2-034597213566",
 		"prefix": "7.-",
-		"title": "De kandidaat kan efficiënt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij schatten en rekenen met gangbare maten en grootheden",
+		"title": "De kandidaat kan effici\u00ebnt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij schatten en rekenen met gangbare maten en grootheden",
 		"niveau_id": []
 	},
 	{
 		"id": "9f7aeaab-862e-45cc-8d6d-099a16f608b5",
 		"prefix": "7.-",
-		"title": "De kandidaat kan efficiënt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij op een verstandige manier de rekenmachine gebruiken.",
+		"title": "De kandidaat kan effici\u00ebnt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij op een verstandige manier de rekenmachine gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"id": "1e050f76-f830-40ea-9cd9-28268d5a00dc",
 		"prefix": "11.-",
-		"title": "De kandidaat kan problemen in alledaagse situaties vertalen naar wiskundige problemen, en daarbij de hierboven genoemde vaardigheden geïntegreerd gebruiken",
+		"title": "De kandidaat kan problemen in alledaagse situaties vertalen naar wiskundige problemen, en daarbij de hierboven genoemde vaardigheden ge\u00efntegreerd gebruiken",
 		"niveau_id": []
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"id": "a5ef86bc-143c-4dab-9c3d-5d40a68dbe7b",
 		"prefix": "3.",
-		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten − te weten modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen − en kan daarbij ICT functioneel gebruiken.",
+		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten \u2212 te weten modelleren en algebra\u00efseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen \u2212 en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"id": "1be0a641-45bf-4b01-bed7-d6950b909e56",
 		"prefix": "12.",
-		"title": "De kandidaat kan in differentiaalvergelijkingen van de vorm y’ = f (y,t) eigenschappen van f relateren aan eigenschappen van oplossingen, zoals het al dan niet stationair zijn, monotonie en asymptotisch gedrag en in eenvoudige gevallen een oplossing expliciet bepalen.",
+		"title": "De kandidaat kan in differentiaalvergelijkingen van de vorm y' = f (y,t) eigenschappen van f relateren aan eigenschappen van oplossingen, zoals het al dan niet stationair zijn, monotonie en asymptotisch gedrag en in eenvoudige gevallen een oplossing expliciet bepalen.",
 		"niveau_id": []
 	},
 	{
@@ -272,13 +272,13 @@
 	{
 		"id": "12df33dd-438a-48cf-b090-3c1d4642cafe",
 		"prefix": "15.",
-		"title": "De kandidaat kan kegelsneden zowel synthetisch als algebraïsch beschrijven, en op grond van een synthetische of algebraïsche beschrijving ligging en eigenschappen bij de bijbehorende figuren onderzoeken en bewijzen.",
+		"title": "De kandidaat kan kegelsneden zowel synthetisch als algebra\u00efsch beschrijven, en op grond van een synthetische of algebra\u00efsche beschrijving ligging en eigenschappen bij de bijbehorende figuren onderzoeken en bewijzen.",
 		"niveau_id": []
 	},
 	{
 		"id": "5fa54164-e511-4e9b-b581-ee9693eef376",
 		"prefix": "16.",
-		"title": "De kandidaat kan de beschrijving van ruimtelijke figuren met drie coördinaten gebruiken, en daarbij de begrippen afstand, hoeken, in- en uitproduct, vector en normaalvector hanteren.",
+		"title": "De kandidaat kan de beschrijving van ruimtelijke figuren met drie co\u00f6rdinaten gebruiken, en daarbij de begrippen afstand, hoeken, in- en uitproduct, vector en normaalvector hanteren.",
 		"niveau_id": []
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"id": "d9c6e2ce-b27e-4c39-b369-9e29af10d085",
 		"prefix": "18.",
-		"title": "De kandidaat kan rekenen met complexe getallen, de geconjugeerde, het argument en de absolute waarde, kan de stelling van De Moivre gebruiken, kan rekenen met de formule van Euler als representatie van poolcoördinaten, en kan in redeneringen de relatie gebruiken tussen de complexe getallen en de meetkunde van het platte vlak.",
+		"title": "De kandidaat kan rekenen met complexe getallen, de geconjugeerde, het argument en de absolute waarde, kan de stelling van De Moivre gebruiken, kan rekenen met de formule van Euler als representatie van poolco\u00f6rdinaten, en kan in redeneringen de relatie gebruiken tussen de complexe getallen en de meetkunde van het platte vlak.",
 		"niveau_id": []
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"id": "5b1dd35a-adbd-4393-a2fa-5228e1040ac0",
 		"prefix": "3.",
-		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten − te weten modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen − en kan daarbij ICT functioneel gebruiken.",
+		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten \u2212 te weten modelleren en algebra\u00efseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen \u2212 en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"id": "ed5b3c8c-4f9c-4410-a91d-e7238113a811",
 		"prefix": "9.",
-		"title": "De kandidaat kan met behulp van probleemsituaties uit andere bètavakken verdieping geven aan dit domein.",
+		"title": "De kandidaat kan met behulp van probleemsituaties uit andere b\u00e8tavakken verdieping geven aan dit domein.",
 		"niveau_id": []
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"id": "9ed4a0b0-e124-4d59-a165-5fdd54d4e555",
 		"prefix": "11.",
-		"title": "De kandidaat kan van een ruimtelijk object aanzichten, uitslagen en vlakke doorsneden construeren, tekenen, interpreteren, er berekeningen aan uitvoeren en uit een serie parallelle doorsneden conclusies trekken over vorm en inhoud van zo’n object.",
+		"title": "De kandidaat kan van een ruimtelijk object aanzichten, uitslagen en vlakke doorsneden construeren, tekenen, interpreteren, er berekeningen aan uitvoeren en uit een serie parallelle doorsneden conclusies trekken over vorm en inhoud van zo'n object.",
 		"niveau_id": []
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"id": "06e3a387-c6fc-4510-a563-cb47882803be",
 		"prefix": "13.",
-		"title": "De kandidaat kan eenvoudige berekeningen uitvoeren met coördinaten en vectoren in de twee- en driedimensionale ruimte en kan, ook in een profielspecifieke context, gebruikmaken van het inwendige product..",
+		"title": "De kandidaat kan eenvoudige berekeningen uitvoeren met co\u00f6rdinaten en vectoren in de twee- en driedimensionale ruimte en kan, ook in een profielspecifieke context, gebruikmaken van het inwendige product..",
 		"niveau_id": []
 	},
 	{
@@ -404,13 +404,13 @@
 	{
 		"id": "eeeec97d-18b4-41c0-a4cb-5b5346c45e8d",
 		"prefix": "3.",
-		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige vaardigheden, waaronder modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren – en kan daarbij ICT functioneel gebruiken.",
+		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige vaardigheden, waaronder modelleren en algebra\u00efseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren \u2013 en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": []
 	},
 	{
 		"id": "38ba01c8-dd02-4398-859a-0c3b171106c9",
 		"prefix": "4.",
-		"title": "De kandidaat kan berekeningen uitvoeren met getallen en variabelen en kan daarbij gebruik maken van rekenkundige en algebraïsche basisbewerkingen.",
+		"title": "De kandidaat kan berekeningen uitvoeren met getallen en variabelen en kan daarbij gebruik maken van rekenkundige en algebra\u00efsche basisbewerkingen.",
 		"niveau_id": []
 	},
 	{
@@ -422,13 +422,13 @@
 	{
 		"id": "ba8105cc-e64b-4d9e-b62a-bb704569c0ed",
 		"prefix": "6.",
-		"title": "De kandidaat kan van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, exponentiële functies en logaritmische functies de verschillende representaties doelgericht gebruiken, kan bijbehorende vergelijkingen oplossen, waar nodig met behulp van ICT, en kan periodieke verschijnselen beschrijven.",
+		"title": "De kandidaat kan van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, exponenti\u00eble functies en logaritmische functies de verschillende representaties doelgericht gebruiken, kan bijbehorende vergelijkingen oplossen, waar nodig met behulp van ICT, en kan periodieke verschijnselen beschrijven.",
 		"niveau_id": []
 	},
 	{
 		"id": "6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df",
 		"prefix": "7.",
-		"title": "De kandidaat kan het veranderingsgedrag van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, exponentiële functies en logaritmische functies en de regelmaat in rijen doelgericht beschrijven en gebruiken.",
+		"title": "De kandidaat kan het veranderingsgedrag van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, exponenti\u00eble functies en logaritmische functies en de regelmaat in rijen doelgericht beschrijven en gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"id": "6e9a518d-4a04-432b-b58b-8d088a296cff",
 		"prefix": "3.",
-		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten, waaronder modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen – en kan daarbij ICT functioneel gebruiken.",
+		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten, waaronder modelleren en algebra\u00efseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen \u2013 en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"id": "ac2700d8-d1ff-437b-ba12-5a49f5a6179e",
 		"prefix": "5.",
-		"title": "De kandidaat kan grafieken tekenen en herkennen van de volgende standaardfuncties: machtsfuncties met rationale exponenten, exponentiële functies, logaritmische functies, goniometrische functies en de absolute-waardefunctie en kan van deze verschillende typen functies de karakteristieke eigenschappen benoemen en gebruiken.",
+		"title": "De kandidaat kan grafieken tekenen en herkennen van de volgende standaardfuncties: machtsfuncties met rationale exponenten, exponenti\u00eble functies, logaritmische functies, goniometrische functies en de absolute-waardefunctie en kan van deze verschillende typen functies de karakteristieke eigenschappen benoemen en gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"id": "e244062d-5e69-4e1b-bc44-1c558d600c7f",
 		"prefix": "11.",
-		"title": "De kandidaat kan de eerste en tweede afgeleide van functies bepalen met behulp van de regels voor het differentiëren en daarbij algebraïsche technieken gebruiken.",
+		"title": "De kandidaat kan de eerste en tweede afgeleide van functies bepalen met behulp van de regels voor het differenti\u00ebren en daarbij algebra\u00efsche technieken gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -560,13 +560,13 @@
 	{
 		"id": "a925804d-282e-49d1-9789-31263c68aab8",
 		"prefix": "14.",
-		"title": "De kandidaat kan meetkundige eigenschappen van objecten onderzoeken en bewijzen en kan daarbij gebruik maken van meetkundige en algebraïsche technieken en van ICT.",
+		"title": "De kandidaat kan meetkundige eigenschappen van objecten onderzoeken en bewijzen en kan daarbij gebruik maken van meetkundige en algebra\u00efsche technieken en van ICT.",
 		"niveau_id": []
 	},
 	{
 		"id": "81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c",
 		"prefix": "15.",
-		"title": "De kandidaat kan eigenschappen en onderlinge ligging van punten, lijnen, cirkels en andere geschikte figuren onderzoeken met behulp van algebraïsche voorstellingen, kan in een gegeven of zelfgekozen coördinatenstelsel algebraïsche voorstellingen van figuren opstellen en kan algebraïsche voorstellingen gebruiken om meetkundige problemen op te lossen.",
+		"title": "De kandidaat kan eigenschappen en onderlinge ligging van punten, lijnen, cirkels en andere geschikte figuren onderzoeken met behulp van algebra\u00efsche voorstellingen, kan in een gegeven of zelfgekozen co\u00f6rdinatenstelsel algebra\u00efsche voorstellingen van figuren opstellen en kan algebra\u00efsche voorstellingen gebruiken om meetkundige problemen op te lossen.",
 		"niveau_id": []
 	},
 	{
@@ -596,13 +596,13 @@
 	{
 		"id": "7e28bb06-286a-4a27-9087-6e45fbcf0659",
 		"prefix": "3.",
-		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten, waaronder modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen – en kan daarbij ICT functioneel gebruiken.",
+		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten, waaronder modelleren en algebra\u00efseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen \u2013 en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": []
 	},
 	{
 		"id": "59931aa6-aafa-44f7-ab23-97e135d0fbc1",
 		"prefix": "4.",
-		"title": "De kandidaat kan standaardfuncties (machtsfuncties, exponentiële en logaritmische functies en goniometrische functies) hanteren, interpreteren binnen een context, de grafieken beschrijven en in een functievoorschrift vastleggen en werken met eenvoudige transformaties.",
+		"title": "De kandidaat kan standaardfuncties (machtsfuncties, exponenti\u00eble en logaritmische functies en goniometrische functies) hanteren, interpreteren binnen een context, de grafieken beschrijven en in een functievoorschrift vastleggen en werken met eenvoudige transformaties.",
 		"niveau_id": []
 	},
 	{
@@ -620,7 +620,7 @@
 	{
 		"id": "cc50f45b-48fe-4001-8058-e99f328b853c",
 		"prefix": "7.",
-		"title": "De kandidaat kan periodieke verschijnselen beschrijven door middel van sinus- of cosinusfuncties, de bijbehorende sinusoïden tekenen en de karakteristieke eigenschappen ervan benoemen en alle oplossingen van een goniometrische vergelijking op een gegeven interval bepalen.",
+		"title": "De kandidaat kan periodieke verschijnselen beschrijven door middel van sinus- of cosinusfuncties, de bijbehorende sinuso\u00efden tekenen en de karakteristieke eigenschappen ervan benoemen en alle oplossingen van een goniometrische vergelijking op een gegeven interval bepalen.",
 		"niveau_id": []
 	},
 	{
@@ -632,19 +632,19 @@
 	{
 		"id": "1277d216-7ed1-4f69-b184-b7382e5f74fd",
 		"prefix": "9.",
-		"title": "De kandidaat kan analytisch-algebraïsche berekeningen uitvoeren aan de hand van contexten en figuren.",
+		"title": "De kandidaat kan analytisch-algebra\u00efsche berekeningen uitvoeren aan de hand van contexten en figuren.",
 		"niveau_id": []
 	},
 	{
 		"id": "a3e29a05-50b9-4ab8-b443-e25d899ce26a",
 		"prefix": "10.",
-		"title": "De kandidaat kan het veranderingsgedrag van een functie, gegeven door grafiek, tabel of formule, beschrijven door middel van toenamediagrammen en differentiequotiënten en kan differentiequotiënten berekenen en interpreteren, ook vanuit een profielspecifieke probleemsituatie.",
+		"title": "De kandidaat kan het veranderingsgedrag van een functie, gegeven door grafiek, tabel of formule, beschrijven door middel van toenamediagrammen en differentiequoti\u00ebnten en kan differentiequoti\u00ebnten berekenen en interpreteren, ook vanuit een profielspecifieke probleemsituatie.",
 		"niveau_id": []
 	},
 	{
 		"id": "82d98790-f50b-4eb8-9602-6090f490a1b0",
 		"prefix": "11.",
-		"title": "De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale veranderingen van functiewaarden benaderen zowel met een differentiaalquotiënt als met een numeriek-grafische methode.",
+		"title": "De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale veranderingen van functiewaarden benaderen zowel met een differentiaalquoti\u00ebnt als met een numeriek-grafische methode.",
 		"niveau_id": []
 	},
 	{
@@ -656,7 +656,7 @@
 	{
 		"id": "e04afcab-9701-48f7-b9ac-cbb2ddaf3c2a",
 		"prefix": "13.",
-		"title": "De kandidaat kan analytisch-algebraïsche berekeningen uitvoeren gericht op profielspecifieke contexten.",
+		"title": "De kandidaat kan analytisch-algebra\u00efsche berekeningen uitvoeren gericht op profielspecifieke contexten.",
 		"niveau_id": []
 	},
 	{
@@ -674,13 +674,13 @@
 	{
 		"id": "c8c5b4d7-0efc-4545-a596-90e5267f577d",
 		"prefix": "3.",
-		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige vaardigheden, waaronder modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren – en kan daarbij ICT functioneel gebruiken.",
+		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige vaardigheden, waaronder modelleren en algebra\u00efseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren \u2013 en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": []
 	},
 	{
 		"id": "b703beaf-dbd3-4906-861e-6fb51cb7f215",
 		"prefix": "4.",
-		"title": "De kandidaat kan berekeningen uitvoeren met getallen en variabelen, daarbij gebruik maken van rekenkundige en algebraïsche basisbewerkingen en van het werken met haakjes.",
+		"title": "De kandidaat kan berekeningen uitvoeren met getallen en variabelen, daarbij gebruik maken van rekenkundige en algebra\u00efsche basisbewerkingen en van het werken met haakjes.",
 		"niveau_id": []
 	},
 	{
@@ -692,13 +692,13 @@
 	{
 		"id": "92320da5-5b01-43cd-b686-ff6dee9c5a51",
 		"prefix": "6.",
-		"title": "De kandidaat kan van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, goniometrische functies, exponentiële functies en logaritmische functies de kenmerken in grafiek, tabel en formule herkennen en gebruiken.",
+		"title": "De kandidaat kan van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, goniometrische functies, exponenti\u00eble functies en logaritmische functies de kenmerken in grafiek, tabel en formule herkennen en gebruiken.",
 		"niveau_id": []
 	},
 	{
 		"id": "f1218c2e-e96a-41b4-ba1f-c9baf2dbaf9d",
 		"prefix": "7.",
-		"title": "De kandidaat kan formules en functievoorschriften opstellen en bewerken, de bijbehorende grafieken tekenen, vergelijkingen en ongelijkheden oplossen met algebraïsche methoden zonder gebruik van ICT, en daar waar nodig met numerieke of grafische methoden met inzet van ICT, en de uitkomst interpreteren in termen van een context.",
+		"title": "De kandidaat kan formules en functievoorschriften opstellen en bewerken, de bijbehorende grafieken tekenen, vergelijkingen en ongelijkheden oplossen met algebra\u00efsche methoden zonder gebruik van ICT, en daar waar nodig met numerieke of grafische methoden met inzet van ICT, en de uitkomst interpreteren in termen van een context.",
 		"niveau_id": []
 	},
 	{
@@ -710,13 +710,13 @@
 	{
 		"id": "3990b52a-bad4-4bdd-9e8a-63bd0e7cf0a5",
 		"prefix": "9.",
-		"title": "De kandidaat kan het veranderingsgedrag van grafieken of functies relateren aan differentiequotiënten, toenamediagrammen en hellinggrafieken en daarbij een relatie leggen met de probleemsituatie.",
+		"title": "De kandidaat kan het veranderingsgedrag van grafieken of functies relateren aan differentiequoti\u00ebnten, toenamediagrammen en hellinggrafieken en daarbij een relatie leggen met de probleemsituatie.",
 		"niveau_id": []
 	},
 	{
 		"id": "7cadf24d-88e6-40ce-9d9e-4303d6781817",
 		"prefix": "10.",
-		"title": "De kandidaat kan van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, exponentiële functies en logaritmische functies de afgeleide bepalen, de rekenregels voor het differentiëren gebruiken en aan de hand van de afgeleide het veranderingsgedrag van een functie beschrijven.",
+		"title": "De kandidaat kan van eerstegraadsfuncties, tweedegraadsfuncties, machtsfuncties, exponenti\u00eble functies en logaritmische functies de afgeleide bepalen, de rekenregels voor het differenti\u00ebren gebruiken en aan de hand van de afgeleide het veranderingsgedrag van een functie beschrijven.",
 		"niveau_id": []
 	},
 	{
@@ -776,7 +776,7 @@
 	{
 		"id": "6c9d607a-023a-4f22-92f2-fd24071cd999",
 		"prefix": "3.",
-		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige vaardigheden, waaronder modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren – en kan daarbij ICT functioneel gebruiken.",
+		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige vaardigheden, waaronder modelleren en algebra\u00efseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren \u2013 en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -788,7 +788,7 @@
 	{
 		"id": "a68e6911-11c5-4908-8ca3-d9aabdb7568c",
 		"prefix": "5.",
-		"title": "De kandidaat kan berekeningen uitvoeren met variabelen en daarbij gebruik maken van de algebraïsche basisbewerkingen en van het werken met haakjes.",
+		"title": "De kandidaat kan berekeningen uitvoeren met variabelen en daarbij gebruik maken van de algebra\u00efsche basisbewerkingen en van het werken met haakjes.",
 		"niveau_id": []
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"id": "085f3b01-96a9-4d7a-ab92-8d6f52877dfd",
 		"prefix": "9.",
-		"title": "De kandidaat kan door substitutie in een formule met één of meer variabelen waarden berekenen en een formule opstellen of wijzigen op basis van gegeven informatie.",
+		"title": "De kandidaat kan door substitutie in een formule met \u00e9\u00e9n of meer variabelen waarden berekenen en een formule opstellen of wijzigen op basis van gegeven informatie.",
 		"niveau_id": []
 	},
 	{
@@ -824,7 +824,7 @@
 	{
 		"id": "7813ce75-a5f2-48d3-8d1a-c48571219980",
 		"prefix": "11.",
-		"title": "De kandidaat kan exponentiële verbanden herkennen, met formules beschrijven, in grafieken weergeven en er berekeningen aan uitvoeren.",
+		"title": "De kandidaat kan exponenti\u00eble verbanden herkennen, met formules beschrijven, in grafieken weergeven en er berekeningen aan uitvoeren.",
 		"niveau_id": []
 	},
 	{
@@ -836,7 +836,7 @@
 	{
 		"id": "72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc",
 		"prefix": "13.",
-		"title": "De kandidaat kan data die op diverse manieren zijn gerepresenteerd en/of samengevat interpreteren en beoordelen op relevantie in relatie tot een onderzoeksvraag.",
+		"title": "De kandidaat kan data die op diverse manieren zijn gerepresenteerd en\/of samengevat interpreteren en beoordelen op relevantie in relatie tot een onderzoeksvraag.",
 		"niveau_id": []
 	},
 	{
@@ -926,7 +926,7 @@
 	{
 		"id": "b4ff69e2-499c-421f-9888-a21e37f330cf",
 		"prefix": "8.",
-		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
+		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico's en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
 		"niveau_id": []
 	},
 	{
@@ -1022,7 +1022,7 @@
 	{
 		"id": "20cd3235-9fce-4cdd-a2f7-3b35813cae42",
 		"prefix": "24.",
-		"title": "De kandidaat kan aangeven of er sprake is van evenwicht, kan berekeningen uitvoeren aan evenwichten, en kan verklaren hoe de ligging van een evenwicht kan worden beïnvloed.",
+		"title": "De kandidaat kan aangeven of er sprake is van evenwicht, kan berekeningen uitvoeren aan evenwichten, en kan verklaren hoe de ligging van een evenwicht kan worden be\u00efnvloed.",
 		"niveau_id": []
 	},
 	{
@@ -1058,7 +1058,7 @@
 	{
 		"id": "34755136-59bf-438d-a8e0-cab35ad52384",
 		"prefix": "30.",
-		"title": "De kandidaat kan met behulp van kennis van materialen en stoffen een keuze voor een bepaalde scheidings- en/of analysemethode formuleren en beoordelen.",
+		"title": "De kandidaat kan met behulp van kennis van materialen en stoffen een keuze voor een bepaalde scheidings- en\/of analysemethode formuleren en beoordelen.",
 		"niveau_id": []
 	},
 	{
@@ -1076,7 +1076,7 @@
 	{
 		"id": "3bd9914b-8c28-4a75-986c-cb6bafe744e5",
 		"prefix": "33.",
-		"title": "De kandidaat kan een reactiemechanisme opstellen met gebruik van onder andere “molecular modelling”, en daarbij, indien van toepassing, kennis van katalyse gebruiken.",
+		"title": "De kandidaat kan een reactiemechanisme opstellen met gebruik van onder andere \"molecular modelling\", en daarbij, indien van toepassing, kennis van katalyse gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -1112,7 +1112,7 @@
 	{
 		"id": "79b4e8c7-ff01-458b-8ac3-636cd6f62038",
 		"prefix": "39.",
-		"title": "De kandidaat kan industriële processen beschrijven in blokschema's, hieraan berekeningen uitvoeren en voorstellen voor aanpassingen formuleren en beoordelen.",
+		"title": "De kandidaat kan industri\u00eble processen beschrijven in blokschema's, hieraan berekeningen uitvoeren en voorstellen voor aanpassingen formuleren en beoordelen.",
 		"niveau_id": []
 	},
 	{
@@ -1124,13 +1124,13 @@
 	{
 		"id": "4674546b-60b2-4f44-bb94-c4838cfd0116",
 		"prefix": "41.",
-		"title": "De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en/of technologische processen worden gebruikt bij energieomzettingen en kan met behulp van kennis van energieproductie deze processen beschrijven, daarbij voorkomende condities aangeven en voorstellen voor aanpassing beoordelen.",
+		"title": "De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en\/of technologische processen worden gebruikt bij energieomzettingen en kan met behulp van kennis van energieproductie deze processen beschrijven, daarbij voorkomende condities aangeven en voorstellen voor aanpassing beoordelen.",
 		"niveau_id": []
 	},
 	{
 		"id": "7747f408-16b9-42c6-b8e4-dcbb7db51053",
 		"prefix": "42.",
-		"title": "De kandidaat kan kennis van risico en veiligheid gebruiken en kan daarmee in industriële productieprocessen die aspecten beoordelen.",
+		"title": "De kandidaat kan kennis van risico en veiligheid gebruiken en kan daarmee in industri\u00eble productieprocessen die aspecten beoordelen.",
 		"niveau_id": []
 	},
 	{
@@ -1214,7 +1214,7 @@
 	{
 		"id": "12032841-7f36-41fe-96c0-528a98a6558f",
 		"prefix": "8.",
-		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
+		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico's en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
 		"niveau_id": []
 	},
 	{
@@ -1310,7 +1310,7 @@
 	{
 		"id": "962aa8e8-d359-4490-9820-5c9746aa4905",
 		"prefix": "24.",
-		"title": "De kandidaat kan bij experimenten metingen doen aan concentraties en energie-uitwisseling en beredeneren of er sprake is van evenwicht en hoe de ligging van het evenwicht kan worden beïnvloed.",
+		"title": "De kandidaat kan bij experimenten metingen doen aan concentraties en energie-uitwisseling en beredeneren of er sprake is van evenwicht en hoe de ligging van het evenwicht kan worden be\u00efnvloed.",
 		"niveau_id": []
 	},
 	{
@@ -1322,7 +1322,7 @@
 	{
 		"id": "26b4b8e2-bdec-4d35-bbac-3aa7025d5bd1",
 		"prefix": "26.",
-		"title": "De kandidaat kan de reactiesnelheid berekenen uit de concentratieverandering en beredeneren hoe de reactiesnelheid beïnvloed wordt.",
+		"title": "De kandidaat kan de reactiesnelheid berekenen uit de concentratieverandering en beredeneren hoe de reactiesnelheid be\u00efnvloed wordt.",
 		"niveau_id": []
 	},
 	{
@@ -1340,7 +1340,7 @@
 	{
 		"id": "f9aa96ff-e775-4959-8cef-ee8ec6183926",
 		"prefix": "29.",
-		"title": "De kandidaat kan met behulp van kennis van stoffen, materialen en chemische processen verklaren waarom bepaalde scheidings- en/of analysemethoden passen in een voorgesteld ontwerp of productieproces.",
+		"title": "De kandidaat kan met behulp van kennis van stoffen, materialen en chemische processen verklaren waarom bepaalde scheidings- en\/of analysemethoden passen in een voorgesteld ontwerp of productieproces.",
 		"niveau_id": []
 	},
 	{
@@ -1358,7 +1358,7 @@
 	{
 		"id": "97cfb15e-a264-4c0d-818c-70722ffa6bed",
 		"prefix": "32.",
-		"title": "De kandidaat kan bij een onderzoek- of een ontwerpopdracht elementen van “molecular modelling” gebruiken.",
+		"title": "De kandidaat kan bij een onderzoek- of een ontwerpopdracht elementen van \"molecular modelling\" gebruiken.",
 		"niveau_id": []
 	},
 	{
@@ -1382,7 +1382,7 @@
 	{
 		"id": "440a75dd-5e16-4b5c-8f88-fcb44e56c16a",
 		"prefix": "36.",
-		"title": "De kandidaat kan gegeven industriële processen beschrijven in blokschema's, rendementsberekeningen maken, en aangeven hoe aspecten van groene chemie bij het ontwerp van het proces een rol spelen.",
+		"title": "De kandidaat kan gegeven industri\u00eble processen beschrijven in blokschema's, rendementsberekeningen maken, en aangeven hoe aspecten van groene chemie bij het ontwerp van het proces een rol spelen.",
 		"niveau_id": []
 	},
 	{
@@ -1394,13 +1394,13 @@
 	{
 		"id": "f7a521df-cfdd-4cd8-b7b9-3200e78b4c27",
 		"prefix": "38.",
-		"title": "De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en/of technologische processen worden gebruikt bij energieomzettingen en kan beredeneren hoe duurzaamheid een rol speelt bij energieproductie",
+		"title": "De kandidaat kan in de context van duurzaamheid beschrijven welke chemische en\/of technologische processen worden gebruikt bij energieomzettingen en kan beredeneren hoe duurzaamheid een rol speelt bij energieproductie",
 		"niveau_id": []
 	},
 	{
 		"id": "e2515495-aef5-447f-9d2e-0ddaf2898f8c",
 		"prefix": "39.",
-		"title": "De kandidaat kan in een gegeven industrieel proces veiligheidsrisico’s benoemen en veiligheidsmaatregelen aangeven",
+		"title": "De kandidaat kan in een gegeven industrieel proces veiligheidsrisico's benoemen en veiligheidsmaatregelen aangeven",
 		"niveau_id": []
 	},
 	{
@@ -1484,7 +1484,7 @@
 	{
 		"id": "d0ed2293-3193-4700-ab95-0f56c039383b",
 		"prefix": "8.",
-		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen en formuletaal.",
+		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico's en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen en formuletaal.",
 		"niveau_id": []
 	},
 	{
@@ -1496,7 +1496,7 @@
 	{
 		"id": "e9fad325-bdac-451e-9ded-fedc5e4afae2",
 		"prefix": "10.",
-		"title": "De kandidaat kan van een breed spectrum aan bètatechnische studies en beroepen voorbeelden geven van interdisciplinaire vraagstukken die daarbinnen een rol spelen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.",
+		"title": "De kandidaat kan van een breed spectrum aan b\u00e8tatechnische studies en beroepen voorbeelden geven van interdisciplinaire vraagstukken die daarbinnen een rol spelen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.",
 		"niveau_id": []
 	},
 	{
@@ -1520,7 +1520,7 @@
 	{
 		"id": "3bd9b73d-03d8-43af-8eb3-9a3b5d8f0d36",
 		"prefix": "14.",
-		"title": "De kandidaat kan relevante conceptuele kennis en benaderingen uit in ieder geval de aardwetenschappen, de biologie, de natuurkunde, de scheikunde en de wiskunde gebruiken om interdisciplinaire vraagstukken te analyseren die betrekking hebben op de domeinen C t/m F.",
+		"title": "De kandidaat kan relevante conceptuele kennis en benaderingen uit in ieder geval de aardwetenschappen, de biologie, de natuurkunde, de scheikunde en de wiskunde gebruiken om interdisciplinaire vraagstukken te analyseren die betrekking hebben op de domeinen C t\/m F.",
 		"niveau_id": []
 	},
 	{
@@ -1538,7 +1538,7 @@
 	{
 		"id": "3c10e8c5-06a2-424c-8d50-dcfe51df81f9",
 		"prefix": "14.",
-		"title": "De kandidaat kan daarbij experimenteel onderzoek en/of simulaties uitvoeren dan wel resultaten van experimenten en/of simulaties interpreteren.",
+		"title": "De kandidaat kan daarbij experimenteel onderzoek en\/of simulaties uitvoeren dan wel resultaten van experimenten en\/of simulaties interpreteren.",
 		"niveau_id": []
 	},
 	{
@@ -1550,7 +1550,7 @@
 	{
 		"id": "33581c31-66ee-4bc5-a14c-e1dae19849ef",
 		"prefix": "15.",
-		"title": "De kandidaat kan de wisselwerking tussen de ontwikkeling van natuurwetenschappelijke kennis en technologie beschrijven en toelichten aan de hand van voorbeelden uit de domeinen C t/m F.",
+		"title": "De kandidaat kan de wisselwerking tussen de ontwikkeling van natuurwetenschappelijke kennis en technologie beschrijven en toelichten aan de hand van voorbeelden uit de domeinen C t\/m F.",
 		"niveau_id": []
 	},
 	{
@@ -1580,7 +1580,7 @@
 	{
 		"id": "2e874816-63b8-49b9-b0ad-ea8c3df17ace",
 		"prefix": "20.",
-		"title": "De kandidaat kan een aantal voor recente technologieën belangrijke methoden en technieken benoemen en kan een of meer daarvan toepassen op interdisciplinaire (ontwerp)vraagstukken.",
+		"title": "De kandidaat kan een aantal voor recente technologie\u00ebn belangrijke methoden en technieken benoemen en kan een of meer daarvan toepassen op interdisciplinaire (ontwerp)vraagstukken.",
 		"niveau_id": []
 	},
 	{
@@ -1592,7 +1592,7 @@
 	{
 		"id": "6b469eb6-ff0b-4125-8f71-7f8d3803a952",
 		"prefix": "22.",
-		"title": "De kandidaat kan een aantal voor de natuurwetenschap belangrijke recente theorieën benoemen en kan concepten uit een of meerdere van deze theorieën toepassen op natuurwetenschappelijke of technologische vraagstukken.",
+		"title": "De kandidaat kan een aantal voor de natuurwetenschap belangrijke recente theorie\u00ebn benoemen en kan concepten uit een of meerdere van deze theorie\u00ebn toepassen op natuurwetenschappelijke of technologische vraagstukken.",
 		"niveau_id": []
 	},
 	{
@@ -1646,7 +1646,7 @@
 	{
 		"id": "dcb827f5-73a8-4cdc-9a42-f287f98c7919",
 		"prefix": "8.",
-		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen en formuletaal.",
+		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico's en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen en formuletaal.",
 		"niveau_id": []
 	},
 	{
@@ -1658,7 +1658,7 @@
 	{
 		"id": "d8b9f9a8-5e2d-409b-9d4d-53fbc154853e",
 		"prefix": "10.",
-		"title": "De kandidaat kan van een breed spectrum aan bètatechnische studies en beroepen voorbeelden geven van interdisciplinaire vraagstukken die daarbinnen een rol spelen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.",
+		"title": "De kandidaat kan van een breed spectrum aan b\u00e8tatechnische studies en beroepen voorbeelden geven van interdisciplinaire vraagstukken die daarbinnen een rol spelen. Daarnaast kan de kandidaat een verband leggen tussen de praktijk van deze studies en beroepen en de eigen kennis, vaardigheden en belangstelling.",
 		"niveau_id": []
 	},
 	{
@@ -1682,7 +1682,7 @@
 	{
 		"id": "28954a19-e2d7-4d5a-a723-7808d00f2811",
 		"prefix": "14.",
-		"title": "De kandidaat kan voor de context relevante conceptuele kennis en benaderingen uit in ieder geval de aardwetenschappen, de biologie, de natuurkunde, de scheikunde en de wiskunde toepassen op interdisciplinaire vraagstukken die betrekking hebben op de domeinen C t/m E.",
+		"title": "De kandidaat kan voor de context relevante conceptuele kennis en benaderingen uit in ieder geval de aardwetenschappen, de biologie, de natuurkunde, de scheikunde en de wiskunde toepassen op interdisciplinaire vraagstukken die betrekking hebben op de domeinen C t\/m E.",
 		"niveau_id": []
 	},
 	{
@@ -1700,7 +1700,7 @@
 	{
 		"id": "a1de0248-9551-4240-9ea1-c8c54bdf3bd5",
 		"prefix": "14.",
-		"title": "De kandidaat kan daarbij experimenteel onderzoek en/of simulaties uitvoeren dan wel resultaten van experimenten en/of simulaties interpreteren.",
+		"title": "De kandidaat kan daarbij experimenteel onderzoek en\/of simulaties uitvoeren dan wel resultaten van experimenten en\/of simulaties interpreteren.",
 		"niveau_id": []
 	},
 	{
@@ -1712,7 +1712,7 @@
 	{
 		"id": "921194b9-c9b2-420d-9269-a6fafb07e53a",
 		"prefix": "15.",
-		"title": "De kandidaat kan de wisselwerking tussen de ontwikkeling van natuurwetenschappelijke kennis en technologie beschrijven en toelichten aan de hand van voorbeelden uit de domeinen C t/m E.",
+		"title": "De kandidaat kan de wisselwerking tussen de ontwikkeling van natuurwetenschappelijke kennis en technologie beschrijven en toelichten aan de hand van voorbeelden uit de domeinen C t\/m E.",
 		"niveau_id": []
 	},
 	{
@@ -1730,7 +1730,7 @@
 	{
 		"id": "2ffcb834-0b74-4e6b-bb59-ac83bcc11e33",
 		"prefix": "18.",
-		"title": "De kandidaat kan een aantal voor recente technologieën belangrijke methoden en technieken benoemen en kan een of meer daarvan toepassen op interdisciplinaire (ontwerp)vraagstukken.",
+		"title": "De kandidaat kan een aantal voor recente technologie\u00ebn belangrijke methoden en technieken benoemen en kan een of meer daarvan toepassen op interdisciplinaire (ontwerp)vraagstukken.",
 		"niveau_id": []
 	},
 	{
@@ -1742,7 +1742,7 @@
 	{
 		"id": "1bfc1173-4666-4d36-9397-c8b3e3729c61",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van Nederlands in de maatschappij",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van Nederlands in de maatschappij",
 		"niveau_id": []
 	},
 	{
@@ -1772,13 +1772,13 @@
 	{
 		"id": "1baf23dc-4a5b-45db-b1ee-70203294f115",
 		"prefix": "4.",
-		"title": "De kandidaat kan luister- en kijkstrategieën hanteren",
+		"title": "De kandidaat kan luister- en kijkstrategie\u00ebn hanteren",
 		"niveau_id": []
 	},
 	{
 		"id": "3c328d33-fa3f-4266-8ea9-1f1757f2b646",
 		"prefix": "4.",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategie\u00ebn kiezen en hanteren",
 		"niveau_id": []
 	},
 	{
@@ -1826,25 +1826,25 @@
 	{
 		"id": "707b8a87-c6f6-4135-a695-fef6a28f38de",
 		"prefix": "5.",
-		"title": "De kandidaat kan strategieën hanteren ten behoeve van de spreek- en gesprekssituatie",
+		"title": "De kandidaat kan strategie\u00ebn hanteren ten behoeve van de spreek- en gesprekssituatie",
 		"niveau_id": []
 	},
 	{
 		"id": "1ec86dab-3f60-41ab-b585-49373a4b5cdb",
 		"prefix": "5.",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategie\u00ebn kiezen en hanteren",
 		"niveau_id": []
 	},
 	{
 		"id": "b9784509-b3f6-4451-8930-09d2db8a575d",
 		"prefix": "5.",
-		"title": "De kandidaat kan het spreek-/luisterdoel in de situatie tot uitdrukking brengen",
+		"title": "De kandidaat kan het spreek-\/luisterdoel in de situatie tot uitdrukking brengen",
 		"niveau_id": []
 	},
 	{
 		"id": "f631ae07-21ce-4d9f-9f56-6fc8fa52ad8f",
 		"prefix": "5.",
-		"title": "De kandidaat kan het spreek-/luisterdoel en taalgebruik richten op verschillende soorten publiek",
+		"title": "De kandidaat kan het spreek-\/luisterdoel en taalgebruik richten op verschillende soorten publiek",
 		"niveau_id": []
 	},
 	{
@@ -1862,13 +1862,13 @@
 	{
 		"id": "0cee4267-b091-41b1-bfc0-8696b7e39386",
 		"prefix": "6.",
-		"title": "De kandidaat kan leesstrategieën hanteren",
+		"title": "De kandidaat kan leesstrategie\u00ebn hanteren",
 		"niveau_id": []
 	},
 	{
 		"id": "8f2f0900-8f3e-40ab-a8db-8ea642755cbf",
 		"prefix": "6.",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategie\u00ebn kiezen en hanteren",
 		"niveau_id": []
 	},
 	{
@@ -1922,13 +1922,13 @@
 	{
 		"id": "23e6dee7-f7e3-4c9e-b467-012baf7efa9a",
 		"prefix": "7.",
-		"title": "De kandidaat kan schrijfstrategieën hanteren",
+		"title": "De kandidaat kan schrijfstrategie\u00ebn hanteren",
 		"niveau_id": []
 	},
 	{
 		"id": "bbdce0c8-4ddf-4913-94f0-d09743e4a573",
 		"prefix": "7.",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategie\u00ebn kiezen en hanteren",
 		"niveau_id": []
 	},
 	{
@@ -1999,7 +1999,7 @@
 	},
 	{
 		"id": "ee036368-d5fe-4f55-9324-b1500eb8922c",
-		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk/",
+		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk\/",
 		"niveau_id": []
 	},
 	{
@@ -2183,7 +2183,7 @@
 	{
 		"id": "c9524ca7-d797-4553-a848-f0776bc15400",
 		"prefix": "8.",
-		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en –bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
+		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico's en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
 		"niveau_id": []
 	},
 	{
@@ -2381,7 +2381,7 @@
 	{
 		"id": "91154918-ca09-4b0e-8c85-d19f7bbb208a",
 		"prefix": "8.",
-		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
+		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico's en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
 		"niveau_id": []
 	},
 	{
@@ -2525,7 +2525,7 @@
 	{
 		"id": "e6f1d77a-d55d-446d-a38e-7dab06ffe191",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang en de rol aangeven van natuur- en scheikunde in de maatschappij.",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang en de rol aangeven van natuur- en scheikunde in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -2567,7 +2567,7 @@
 	{
 		"id": "e3a3da35-c4c5-473b-aca4-5c3dc44d1055",
 		"prefix": "6.",
-		"title": "De kandidaat kan een aantal verbrandingsverschijnselen beschrijven, verbrandingsvoorwaarden noemen, en toelichten dat blussen of voorkomen van brand berust op de beïnvloeding van deze voorwaarden",
+		"title": "De kandidaat kan een aantal verbrandingsverschijnselen beschrijven, verbrandingsvoorwaarden noemen, en toelichten dat blussen of voorkomen van brand berust op de be\u00efnvloeding van deze voorwaarden",
 		"niveau_id": []
 	},
 	{
@@ -2621,7 +2621,7 @@
 	{
 		"id": "20b1bc12-fa5c-4278-9c4d-fe7c9ffa4179",
 		"prefix": "13.",
-		"title": "De kandidaat kan een aantal was-, reinigings- en oplosmiddelen en cosmetische middelen noemen, en de werking en/of toepassing beschrijven van een aantal van deze middelen.",
+		"title": "De kandidaat kan een aantal was-, reinigings- en oplosmiddelen en cosmetische middelen noemen, en de werking en\/of toepassing beschrijven van een aantal van deze middelen.",
 		"niveau_id": []
 	},
 	{
@@ -2663,7 +2663,7 @@
 	{
 		"id": "ec9f35df-1b9d-408b-8f6f-7b2b7a0fb811",
 		"prefix": "18.",
-		"title": "De kandidaat kan berekeningen uitvoeren aan reacties en beschrijven hoe bepaalde factoren de reactiesnelheid beïnvloeden.",
+		"title": "De kandidaat kan berekeningen uitvoeren aan reacties en beschrijven hoe bepaalde factoren de reactiesnelheid be\u00efnvloeden.",
 		"niveau_id": []
 	},
 	{
@@ -2687,7 +2687,7 @@
 	{
 		"id": "aca4d3a3-5fa0-48bc-99f6-1fd36060c7dd",
 		"prefix": "22.",
-		"title": "De kandidaat kan rapporteren naar aanleiding van een onderzoek naar een productieproces, door middel van een verslag en/of presentatie",
+		"title": "De kandidaat kan rapporteren naar aanleiding van een onderzoek naar een productieproces, door middel van een verslag en\/of presentatie",
 		"niveau_id": []
 	},
 	{
@@ -2699,13 +2699,13 @@
 	{
 		"id": "f818e747-eae8-4573-9424-eba003d260d6",
 		"prefix": "24.",
-		"title": "De kandidaat kan in het onderzoek de leervaardigheden tonen die genoemd worden in NASK2/K/3",
+		"title": "De kandidaat kan in het onderzoek de leervaardigheden tonen die genoemd worden in NASK2\/K\/3",
 		"niveau_id": []
 	},
 	{
 		"id": "3d1dfe49-8d14-463c-8b81-9b75855ab48b",
 		"prefix": "25.",
-		"title": "De kandidaat kan rapporteren naar aanleiding van een onderzoek naar een product, door middel van een verslag en/of presentatie",
+		"title": "De kandidaat kan rapporteren naar aanleiding van een onderzoek naar een product, door middel van een verslag en\/of presentatie",
 		"niveau_id": []
 	},
 	{
@@ -2717,7 +2717,7 @@
 	{
 		"id": "25ffb938-7e61-47d4-ac78-6de4bf395819",
 		"prefix": "27.",
-		"title": "De kandidaat kan in het onderzoek de leervaardigheden tonen die genoemd worden in NASK2/K/3.",
+		"title": "De kandidaat kan in het onderzoek de leervaardigheden tonen die genoemd worden in NASK2\/K\/3.",
 		"niveau_id": []
 	},
 	{
@@ -2735,7 +2735,7 @@
 	{
 		"id": "18e597b4-bdbd-4535-86b0-0b2f849ccf94",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op het belang van natuurkunde en natuurkundige technieken in de eigen beroepsopleiding, in de eigen toekomst en in de maatschappij.",
+		"title": "De kandidaat kan zich ori\u00ebnteren op het belang van natuurkunde en natuurkundige technieken in de eigen beroepsopleiding, in de eigen toekomst en in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -2771,7 +2771,7 @@
 	{
 		"id": "a7538e17-3768-4530-9b59-fc41bf8e961c",
 		"prefix": "3.",
-		"title": "De kandidaat kan de computer gebruiken om met meetprogramma’s experimenten uit te voeren en te interpreteren, om met applets en simulaties onderzoek te doen en om natuurkundige informatie te selecteren en te verwerken",
+		"title": "De kandidaat kan de computer gebruiken om met meetprogramma's experimenten uit te voeren en te interpreteren, om met applets en simulaties onderzoek te doen en om natuurkundige informatie te selecteren en te verwerken",
 		"niveau_id": []
 	},
 	{
@@ -3089,7 +3089,7 @@
 	{
 		"id": "4de286d6-f772-4dde-9d27-c36a25e599ba",
 		"prefix": "3.",
-		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
+		"title": "De kandidaat kan strategie\u00ebn toepassen om een gesprek voortgang te doen vinden.",
 		"niveau_id": []
 	},
 	{
@@ -3165,7 +3165,7 @@
 	{
 		"id": "60436a57-d4e3-4c40-9da0-5ed326b1c45e",
 		"prefix": "1.",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen commerciële en niet- commerciële organisaties de economische dimensie vanuit het perspectief van het management verklaren.",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen commerci\u00eble en niet- commerci\u00eble organisaties de economische dimensie vanuit het perspectief van het management verklaren.",
 		"niveau_id": []
 	},
 	{
@@ -3223,7 +3223,7 @@
 	{
 		"id": "9db188ef-e079-460f-8a8e-b85bb811892b",
 		"prefix": "4.",
-		"title": "De kandidaat kan verbale, grafische, tabellarische en wiskundige/rekenkundige gegevens vertalen, mede met gebruikmaking van ICT.",
+		"title": "De kandidaat kan verbale, grafische, tabellarische en wiskundige\/rekenkundige gegevens vertalen, mede met gebruikmaking van ICT.",
 		"niveau_id": [],
 		"examenprogramma_eindterm_id": [
 			"2b60153c-7bd4-454b-ac8d-1d10d268264b",
@@ -3267,7 +3267,7 @@
 	{
 		"id": "ecb2a0a4-5cfa-41d1-8ce1-14463cbc3865",
 		"prefix": "6.",
-		"title": "De kandidaat kan beschrijven en verklaren op welke manier(en) de functies binnen commerciële en niet-commerciële organisaties dienen samen te hangen om tot goede beslissingen te komen.",
+		"title": "De kandidaat kan beschrijven en verklaren op welke manier(en) de functies binnen commerci\u00eble en niet-commerci\u00eble organisaties dienen samen te hangen om tot goede beslissingen te komen.",
 		"niveau_id": []
 	},
 	{
@@ -3279,7 +3279,7 @@
 	{
 		"id": "f9fd5ecf-e626-4254-8e9c-df9e3a5e9ca0",
 		"prefix": "7.",
-		"title": "De kandidaat kan verklaren waarom de overheid via wetgeving of andere maatregelen tracht de positie van bepaalde sociale groeperingen op de arbeidsmarkt te beïnvloeden.",
+		"title": "De kandidaat kan verklaren waarom de overheid via wetgeving of andere maatregelen tracht de positie van bepaalde sociale groeperingen op de arbeidsmarkt te be\u00efnvloeden.",
 		"niveau_id": [],
 		"examenprogramma_eindterm_id": [
 			"743b431f-6144-457b-a1a1-e7e9d42fb428"
@@ -3288,19 +3288,19 @@
 	{
 		"id": "e9da4911-178d-49a8-936e-4e1b48948fd3",
 		"prefix": "8.",
-		"title": "De kandidaat kan de verschillende rechtsvormen beschrijven die commerciële en niet-commerciële organisaties kunnen kiezen, en verklaren waarom de organisatie voor een bepaalde rechtsvorm kiezen.",
+		"title": "De kandidaat kan de verschillende rechtsvormen beschrijven die commerci\u00eble en niet-commerci\u00eble organisaties kunnen kiezen, en verklaren waarom de organisatie voor een bepaalde rechtsvorm kiezen.",
 		"niveau_id": []
 	},
 	{
 		"id": "269d1400-ad42-4345-ba04-f7c795ea5ea0",
 		"prefix": "9.",
-		"title": "De kandidaat kan de werking van de vermogensmarkt beschrijven vanuit het perspectief van particulieren, commerciële organisaties en niet-commerciële organisaties.",
+		"title": "De kandidaat kan de werking van de vermogensmarkt beschrijven vanuit het perspectief van particulieren, commerci\u00eble organisaties en niet-commerci\u00eble organisaties.",
 		"niveau_id": []
 	},
 	{
 		"id": "8acb1033-c7be-4e39-bc43-11ef74e50760",
 		"prefix": "9.",
-		"title": "De kandidaat kan verklaren welke mogelijkheden, beperkingen en redenen er zijn voor particulieren, commerciële organisaties en niet-commerciële organisaties voor het aantrekken van vermogen.",
+		"title": "De kandidaat kan verklaren welke mogelijkheden, beperkingen en redenen er zijn voor particulieren, commerci\u00eble organisaties en niet-commerci\u00eble organisaties voor het aantrekken van vermogen.",
 		"niveau_id": [],
 		"examenprogramma_subdomein_id": [
 			"36d124bb-c871-4a43-8d38-b8f8fbe4a8a5",
@@ -3322,7 +3322,7 @@
 	{
 		"id": "d0d71325-bfae-441b-97ee-04e1484e8be5",
 		"prefix": "10.",
-		"title": "De kandidaat kan verklaren wat het belang van marketing is voor niet-commerciële organisaties en welke principes daarbij van belang zijn.",
+		"title": "De kandidaat kan verklaren wat het belang van marketing is voor niet-commerci\u00eble organisaties en welke principes daarbij van belang zijn.",
 		"niveau_id": []
 	},
 	{
@@ -3340,7 +3340,7 @@
 	{
 		"id": "aa24609a-91a7-4338-a5e7-b65f92d45824",
 		"prefix": "11.",
-		"title": "De kandidaat kan verklaren wat het belang van marketing is voor commerciële organisaties, beschrijven hoe een commerciële organisatie informatie kan verzamelen voor de vaststelling van het marketingbeleid en voor de evaluatie van de ingezette instrumenten.",
+		"title": "De kandidaat kan verklaren wat het belang van marketing is voor commerci\u00eble organisaties, beschrijven hoe een commerci\u00eble organisatie informatie kan verzamelen voor de vaststelling van het marketingbeleid en voor de evaluatie van de ingezette instrumenten.",
 		"niveau_id": [],
 		"examenprogramma_subdomein_id": [
 			"0625595f-0483-493a-bb13-c1e90368a557",
@@ -3396,7 +3396,7 @@
 	{
 		"id": "d9a473c3-6a91-45eb-8eb3-35b28ef141b6",
 		"prefix": "14.",
-		"title": "De kandidaat kan op basis van algemene modellen voor een bedrijf met stukproductie of voor een bedrijf met homogene massaproductie de fabricagekostprijs, de commerciële kostprijs en de verkoopprijs vaststellen, en daarbij onderscheid maken tussen werkelijke kosten en toegestane kosten.",
+		"title": "De kandidaat kan op basis van algemene modellen voor een bedrijf met stukproductie of voor een bedrijf met homogene massaproductie de fabricagekostprijs, de commerci\u00eble kostprijs en de verkoopprijs vaststellen, en daarbij onderscheid maken tussen werkelijke kosten en toegestane kosten.",
 		"niveau_id": []
 	},
 	{
@@ -3433,25 +3433,25 @@
 	{
 		"id": "9b0a1b0e-00c6-4899-b819-256b6aa4b347",
 		"prefix": "16.",
-		"title": "De kandidaat kan eenvoudige toepassingen van bestaande computerprogramma’s aanwenden ten behoeve van de informatievoorziening van organisaties.",
+		"title": "De kandidaat kan eenvoudige toepassingen van bestaande computerprogramma's aanwenden ten behoeve van de informatievoorziening van organisaties.",
 		"niveau_id": []
 	},
 	{
 		"id": "da81042a-d65d-456b-98cb-2bf8c88866aa",
 		"prefix": "17.",
-		"title": "De kandidaat kan de begroting en de jaarrekening van commerciële en niet-commerciële organisaties analyseren, zoals deze worden voorgelegd aan medezeggenschapsraden, ondernemingsraden en leden- of aandeelhoudersvergaderingen.",
+		"title": "De kandidaat kan de begroting en de jaarrekening van commerci\u00eble en niet-commerci\u00eble organisaties analyseren, zoals deze worden voorgelegd aan medezeggenschapsraden, ondernemingsraden en leden- of aandeelhoudersvergaderingen.",
 		"niveau_id": []
 	},
 	{
 		"id": "082ec95b-0940-4cdf-aa7b-148d233d185c",
 		"prefix": "17.",
-		"title": "De kandidaat kan een balans en de resultatenrekening voor het externe verslag opstellen en uit potentiële data de relevante grootheden kiezen.",
+		"title": "De kandidaat kan een balans en de resultatenrekening voor het externe verslag opstellen en uit potenti\u00eble data de relevante grootheden kiezen.",
 		"niveau_id": []
 	},
 	{
 		"id": "b8000ac8-8203-4aef-8ff5-41f44266d9ff",
 		"prefix": "1.",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen commerciële en niet- commerciële organisaties de economische dimensie vanuit het perspectief van het management verklaren.",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen commerci\u00eble en niet- commerci\u00eble organisaties de economische dimensie vanuit het perspectief van het management verklaren.",
 		"niveau_id": []
 	},
 	{
@@ -3487,13 +3487,13 @@
 	{
 		"id": "a13ee3f3-00d9-4e79-a40e-866478ac6415",
 		"prefix": "6.",
-		"title": "De kandidaat kan beschrijven en verklaren op welke manier(en) de functies binnen commerciële en niet-commerciële organisaties dienen samen te hangen om tot goede beslissingen te komen.",
+		"title": "De kandidaat kan beschrijven en verklaren op welke manier(en) de functies binnen commerci\u00eble en niet-commerci\u00eble organisaties dienen samen te hangen om tot goede beslissingen te komen.",
 		"niveau_id": []
 	},
 	{
 		"id": "743b431f-6144-457b-a1a1-e7e9d42fb428",
 		"prefix": "8.",
-		"title": "De kandidaat kan de verschillende rechtsvormen beschrijven die commerciële en niet-commerciële organisaties kunnen kiezen, en verklaren waarom de organisatie voor een bepaalde rechtsvorm kiezen.",
+		"title": "De kandidaat kan de verschillende rechtsvormen beschrijven die commerci\u00eble en niet-commerci\u00eble organisaties kunnen kiezen, en verklaren waarom de organisatie voor een bepaalde rechtsvorm kiezen.",
 		"niveau_id": []
 	},
 	{
@@ -3505,13 +3505,13 @@
 	{
 		"id": "c8cccd76-fcb5-4235-b069-ec7cbe1699f2",
 		"prefix": "10.",
-		"title": "De kandidaat kan verklaren wat het belang van marketing is voor niet-commerciële organisaties en welke principes daarbij van belang zijn.",
+		"title": "De kandidaat kan verklaren wat het belang van marketing is voor niet-commerci\u00eble organisaties en welke principes daarbij van belang zijn.",
 		"niveau_id": []
 	},
 	{
 		"id": "09e22a16-ae21-4d66-84ed-c8a6df438c38",
 		"prefix": "11.",
-		"title": "De kandidaat kan verklaren wat het belang van marketing is voor commerciële organisaties, beschrijven hoe een commerciële organisatie informatie kan verzamelen voor de vaststelling van het marketingbeleid en voor de evaluatie van de ingezette instrumenten.",
+		"title": "De kandidaat kan verklaren wat het belang van marketing is voor commerci\u00eble organisaties, beschrijven hoe een commerci\u00eble organisatie informatie kan verzamelen voor de vaststelling van het marketingbeleid en voor de evaluatie van de ingezette instrumenten.",
 		"niveau_id": []
 	},
 	{
@@ -3593,7 +3593,7 @@
 	},
 	{
 		"id": "5fdb7287-3487-4ebc-83ee-392809b8775d",
-		"title": "De kandidaat kan uitleggen hoe politieke beleids- en besluitvormingsprocessen in Nederland worden beÃ¯nvloed door de politieke, economische en culturele verwevenheid van de internationale samenleving.",
+		"title": "De kandidaat kan uitleggen hoe politieke beleids- en besluitvormingsprocessen in Nederland worden be\u00efnvloed door de politieke, economische en culturele verwevenheid van de internationale samenleving.",
 		"niveau_id": []
 	},
 	{
@@ -3608,7 +3608,7 @@
 	},
 	{
 		"id": "05c79b7a-2a0b-417f-be94-0956e3cd7d9b",
-		"title": "De kandidaat kan uitleggen op welke wijze de overheid in ons land betrokken is bij de massamedia en kan het mediabeleid becommentariÃ«ren.",
+		"title": "De kandidaat kan uitleggen op welke wijze de overheid in ons land betrokken is bij de massamedia en kan het mediabeleid becommentari\u00ebren.",
 		"niveau_id": []
 	},
 	{
@@ -3623,7 +3623,7 @@
 	},
 	{
 		"id": "84a3dfa0-1532-4f9b-8cfd-19e18c5e1185",
-		"title": "De kandidaat kan de invloed en macht van de media analyseren aan de hand van cultuuroverdracht, beeldvorming en beïnvloedingstheorieën.",
+		"title": "De kandidaat kan de invloed en macht van de media analyseren aan de hand van cultuuroverdracht, beeldvorming en be\u00efnvloedingstheorie\u00ebn.",
 		"niveau_id": []
 	},
 	{
@@ -3633,12 +3633,12 @@
 	},
 	{
 		"id": "c347a974-7031-4bce-9cd8-8755d5fb53aa",
-		"title": "De kandidaat kan de uitgangspunten en hoofdlijnen van vreemdelingenbeleid en minderhedenbeleid verwoorden en de standpunten van politieke partijen met betrekking tot genoemd beleid vergelijken en becommentariÃ«ren.",
+		"title": "De kandidaat kan de uitgangspunten en hoofdlijnen van vreemdelingenbeleid en minderhedenbeleid verwoorden en de standpunten van politieke partijen met betrekking tot genoemd beleid vergelijken en becommentari\u00ebren.",
 		"niveau_id": []
 	},
 	{
 		"id": "d9bff332-30c0-449f-a125-bb61e19c0bc9",
-		"title": "De kandidaat kan verschillende visies onderscheiden die een verklaring geven voor de maatschappelijke positie van etnische minderheden voor wat betreft arbeid en inkomen, onderwijs en huisvesting en de gevolgen van deze maatschappelijke positie uitleggen. Â½ 145 16.",
+		"title": "De kandidaat kan verschillende visies onderscheiden die een verklaring geven voor de maatschappelijke positie van etnische minderheden voor wat betreft arbeid en inkomen, onderwijs en huisvesting en de gevolgen van deze maatschappelijke positie uitleggen. \u00bd 145 16.",
 		"niveau_id": []
 	},
 	{
@@ -3723,7 +3723,7 @@
 	},
 	{
 		"id": "950aac82-e0d3-4747-b783-bec9485f9f4b",
-		"title": "De kandidaat kan verschillende theorieën/visies toepassen bij het geven van verklaringen voor het ontstaan of de toename van een gegeven vorm van criminaliteit.",
+		"title": "De kandidaat kan verschillende theorie\u00ebn\/visies toepassen bij het geven van verklaringen voor het ontstaan of de toename van een gegeven vorm van criminaliteit.",
 		"niveau_id": []
 	},
 	{
@@ -3768,7 +3768,7 @@
 	},
 	{
 		"id": "69475f90-a1e2-412b-913d-158dae8501e1",
-		"title": "De kandidaat kan de rol van medefinancieringsorganisaties en de rol van internationale organisaties analyseren bij het terugdringen van onderontwikkeling tegen de achtergrond van het Nederlandse ontwikkelingsbeleid, internationale verhoudingen en internationalisering/globalisering.",
+		"title": "De kandidaat kan de rol van medefinancieringsorganisaties en de rol van internationale organisaties analyseren bij het terugdringen van onderontwikkeling tegen de achtergrond van het Nederlandse ontwikkelingsbeleid, internationale verhoudingen en internationalisering\/globalisering.",
 		"niveau_id": []
 	},
 	{
@@ -3798,7 +3798,7 @@
 	},
 	{
 		"id": "edde833b-994d-4a2c-a935-386b509c3e31",
-		"title": "De kandidaat kan denkvaardigheden toepassen op de hoofdconcepten vorming, verhouding, binding en verandering en kernconcepten sociale cohesie, sociale instituties, groepsvorming, cultuur, socialisatie/acculturatie, identiteit, sociale gelijkheid/ ongelijkheid, rationalisering, individualisering, institutionalisering, politieke instituties, representatie/representativiteit, politieke socialisatie, ideologie, macht/gezag, conflict/samenwerking, democratisering, globalisering en staatsvorming.",
+		"title": "De kandidaat kan denkvaardigheden toepassen op de hoofdconcepten vorming, verhouding, binding en verandering en kernconcepten sociale cohesie, sociale instituties, groepsvorming, cultuur, socialisatie\/acculturatie, identiteit, sociale gelijkheid\/ ongelijkheid, rationalisering, individualisering, institutionalisering, politieke instituties, representatie\/representativiteit, politieke socialisatie, ideologie, macht\/gezag, conflict\/samenwerking, democratisering, globalisering en staatsvorming.",
 		"niveau_id": []
 	},
 	{
@@ -3843,7 +3843,7 @@
 	},
 	{
 		"id": "5bf67519-c986-487f-aed6-b194e8a94910",
-		"title": "De kandidaat kan tevens standpunten classificeren op basis van ideologieën en politieke dimensies.",
+		"title": "De kandidaat kan tevens standpunten classificeren op basis van ideologie\u00ebn en politieke dimensies.",
 		"niveau_id": []
 	},
 	{
@@ -3878,7 +3878,7 @@
 	},
 	{
 		"id": "57bff776-4f95-4554-9cd6-d338847fc1c3",
-		"title": "De kandidaat kan macht onderscheiden van gezag en theorieën vergelijken over de machtsverdeling in een democratie.",
+		"title": "De kandidaat kan macht onderscheiden van gezag en theorie\u00ebn vergelijken over de machtsverdeling in een democratie.",
 		"niveau_id": []
 	},
 	{
@@ -3908,7 +3908,7 @@
 	},
 	{
 		"id": "765b2b2c-217d-409a-9899-4d73ffefbe64",
-		"title": "De kandidaat kan binnen een specifieke context onderscheiden met welke instrumenten de overheid de mate van sociale ongelijkheid tracht te beïnvloeden, wat de gevolgen ervan kunnen zijn en welke opvattingen aanhangers van de politieke stromingen hebben over kwesties binnen deze specifieke context",
+		"title": "De kandidaat kan binnen een specifieke context onderscheiden met welke instrumenten de overheid de mate van sociale ongelijkheid tracht te be\u00efnvloeden, wat de gevolgen ervan kunnen zijn en welke opvattingen aanhangers van de politieke stromingen hebben over kwesties binnen deze specifieke context",
 		"niveau_id": []
 	},
 	{
@@ -3923,7 +3923,7 @@
 	},
 	{
 		"id": "9c4ba972-6213-427f-a9d8-efc2947f71f3",
-		"title": "De kandidaat kan bindingen in de samenleving illustreren aan de hand van politieke instituties en beschrijven wat het belang is van representativiteit/representatie voor een democratische rechtsstaat.",
+		"title": "De kandidaat kan bindingen in de samenleving illustreren aan de hand van politieke instituties en beschrijven wat het belang is van representativiteit\/representatie voor een democratische rechtsstaat.",
 		"niveau_id": []
 	},
 	{
@@ -4038,19 +4038,19 @@
 	{
 		"id": "8eb1de66-9d51-4608-b103-a16e86451081",
 		"prefix": "2.",
-		"title": "aannemelijk maken wat de relatie is tussen het vraagstuk/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving;",
+		"title": "aannemelijk maken wat de relatie is tussen het vraagstuk\/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving;",
 		"niveau_id": []
 	},
 	{
 		"id": "e5c334c2-5428-4f9f-903e-4719c3ea74f5",
 		"prefix": "2.",
-		"title": "beargumenteren of door het vraagstuk/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn;",
+		"title": "beargumenteren of door het vraagstuk\/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn;",
 		"niveau_id": []
 	},
 	{
 		"id": "38bb4955-ffdc-4473-8ec2-33539f458738",
 		"prefix": "2.",
-		"title": "beschrijven wat de relatie is tussen het maatschappelijke vraagstuk/probleem en sociale ongelijkheid in de samenleving.",
+		"title": "beschrijven wat de relatie is tussen het maatschappelijke vraagstuk\/probleem en sociale ongelijkheid in de samenleving.",
 		"niveau_id": []
 	},
 	{
@@ -4134,7 +4134,7 @@
 	{
 		"id": "c2d17dd9-d999-4300-8104-cb5d8151e027",
 		"prefix": "7.",
-		"title": "De kandidaat kan aangeven welke factoren de politieke participatie van burgers beïnvloeden en waarom niet een ieder van zijn of haar politieke rechten gebruikmaakt;",
+		"title": "De kandidaat kan aangeven welke factoren de politieke participatie van burgers be\u00efnvloeden en waarom niet een ieder van zijn of haar politieke rechten gebruikmaakt;",
 		"niveau_id": []
 	},
 	{
@@ -4254,13 +4254,13 @@
 	{
 		"id": "2bac897c-2c0a-4928-9b6f-03af81af5958",
 		"prefix": "15.",
-		"title": "De kandidaat kan het beleid van de politiek ten aanzien van etnische minderheden en vreemdelingen/asielzoekers terugvoeren op (inter)nationale documenten;",
+		"title": "De kandidaat kan het beleid van de politiek ten aanzien van etnische minderheden en vreemdelingen\/asielzoekers terugvoeren op (inter)nationale documenten;",
 		"niveau_id": []
 	},
 	{
 		"id": "c59252da-a604-4994-a227-8a531bcd08e4",
 		"prefix": "15.",
-		"title": "De kandidaat kan de standpunten van politieke partijen met betrekking tot vluchtelingen en migranten vergelijken en becommentariëren;",
+		"title": "De kandidaat kan de standpunten van politieke partijen met betrekking tot vluchtelingen en migranten vergelijken en becommentari\u00ebren;",
 		"niveau_id": []
 	},
 	{
@@ -4284,7 +4284,7 @@
 	{
 		"id": "8394da55-7fe5-4eff-b982-d3252e715f27",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van maatschappijleer in de maatschappij.",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van maatschappijleer in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -4362,7 +4362,7 @@
 	{
 		"id": "8e8c7cea-1939-424d-8e96-71948abfddd7",
 		"prefix": "5.",
-		"title": "De kandidaat kan met voorbeelden beschrijven wat sociale verschillen zijn en hoe die veroorzaakt worden, en beschrijven/uitleggen hoe de plaats van een mens op de maatschappelijke ladder kan veranderen (sociale mobiliteit);",
+		"title": "De kandidaat kan met voorbeelden beschrijven wat sociale verschillen zijn en hoe die veroorzaakt worden, en beschrijven\/uitleggen hoe de plaats van een mens op de maatschappelijke ladder kan veranderen (sociale mobiliteit);",
 		"niveau_id": []
 	},
 	{
@@ -4416,7 +4416,7 @@
 	{
 		"id": "b2d4d4b5-977d-46cf-8d86-e44086909031",
 		"prefix": "7.",
-		"title": "De kandidaat kan beschrijven hoe mensen bij het vormen van hun meningen beïnvloed worden door selectie van informatie",
+		"title": "De kandidaat kan beschrijven hoe mensen bij het vormen van hun meningen be\u00efnvloed worden door selectie van informatie",
 		"niveau_id": []
 	},
 	{
@@ -4434,7 +4434,7 @@
 	{
 		"id": "6410dffe-ba22-4c5c-a6f1-4114b48d7fb0",
 		"prefix": "7.",
-		"title": "De kandidaat kan van een bepaald sociaal probleem beschrijven hoe de beeldvorming erover tot stand komt/gekomen is.",
+		"title": "De kandidaat kan van een bepaald sociaal probleem beschrijven hoe de beeldvorming erover tot stand komt\/gekomen is.",
 		"niveau_id": []
 	},
 	{
@@ -4470,19 +4470,19 @@
 	{
 		"id": "f2b18c6e-f1fc-491a-9689-59bce18d95cd",
 		"prefix": "2.",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij aannemelijk maken wat de relatie is tussen het vraagstuk/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving.",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij aannemelijk maken wat de relatie is tussen het vraagstuk\/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving.",
 		"niveau_id": []
 	},
 	{
 		"id": "882480ea-1c54-4f97-8956-2665228a4d1f",
 		"prefix": "2.",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij beargumenteren of door het vraagstuk/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn.",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij beargumenteren of door het vraagstuk\/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn.",
 		"niveau_id": []
 	},
 	{
 		"id": "e51b1c55-17e0-4ba8-9fdc-3b9ed1e42578",
 		"prefix": "2.",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij beschrijven wat de relatie is tussen het maatschappelijke vraagstuk/probleem en sociale ongelijkheid in de samenleving.",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij beschrijven wat de relatie is tussen het maatschappelijke vraagstuk\/probleem en sociale ongelijkheid in de samenleving.",
 		"niveau_id": []
 	},
 	{
@@ -4644,13 +4644,13 @@
 	{
 		"id": "2a870ae0-1a73-4bd0-83de-47689bbcfc71",
 		"prefix": "15.",
-		"title": "De kandidaat kan het beleid van de politiek ten aanzien van etnische minderheden en vreemdelingen/asielzoekers terugvoeren op (inter)nationale documenten;",
+		"title": "De kandidaat kan het beleid van de politiek ten aanzien van etnische minderheden en vreemdelingen\/asielzoekers terugvoeren op (inter)nationale documenten;",
 		"niveau_id": []
 	},
 	{
 		"id": "7e94ab35-3be0-4f53-bec8-ec73da66f2e8",
 		"prefix": "15.",
-		"title": "De kandidaat kan de standpunten van politieke partijen met betrekking tot vluchtelingen en migranten vergelijken en becommentariëren.",
+		"title": "De kandidaat kan de standpunten van politieke partijen met betrekking tot vluchtelingen en migranten vergelijken en becommentari\u00ebren.",
 		"niveau_id": []
 	},
 	{
@@ -4662,7 +4662,7 @@
 	{
 		"id": "2c461044-d135-45f0-9b33-598284ac0701",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van maatschappijkunde verwoorden.",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van maatschappijkunde verwoorden.",
 		"niveau_id": []
 	},
 	{
@@ -4680,7 +4680,7 @@
 	{
 		"id": "99f47439-3042-4a5d-899d-eefabea1772f",
 		"prefix": "3.",
-		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot zelf verzamelde of aangereikte informatie over maatschappelijke verschijnselen/vraagstukken verwerken en interpreteren op basis van vakinhoudelijke kennis",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot zelf verzamelde of aangereikte informatie over maatschappelijke verschijnselen\/vraagstukken verwerken en interpreteren op basis van vakinhoudelijke kennis",
 		"niveau_id": []
 	},
 	{
@@ -4710,7 +4710,7 @@
 	{
 		"id": "29dc86cf-4ce0-4c01-9d42-e5850fae0bcf",
 		"prefix": "4.",
-		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot  aangereikte informatie over maatschappelijke verschijnselen/vraagstukken verwerken en interpreteren op basis van vakinhoudelijke kennis.",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot  aangereikte informatie over maatschappelijke verschijnselen\/vraagstukken verwerken en interpreteren op basis van vakinhoudelijke kennis.",
 		"niveau_id": []
 	},
 	{
@@ -4734,13 +4734,13 @@
 	{
 		"id": "95292759-383d-4475-8e79-d42002cbc60a",
 		"prefix": "5.",
-		"title": "De kandidaat kan uitleggen op welke wijze overheidsbeleid tot stand komt, de invloed van de Europese Unie daarin herkennen en noemen/herkennen hoe Europese besluiten tot stand komen.",
+		"title": "De kandidaat kan uitleggen op welke wijze overheidsbeleid tot stand komt, de invloed van de Europese Unie daarin herkennen en noemen\/herkennen hoe Europese besluiten tot stand komen.",
 		"niveau_id": []
 	},
 	{
 		"id": "201e897f-8e52-4240-b2d9-26490789a30a",
 		"prefix": "5.",
-		"title": "De kandidaat kan mogelijkheden beschrijven die individuele burgers en belangen- of pressiegroepen hebben om de politieke besluitvorming te beïnvloeden.",
+		"title": "De kandidaat kan mogelijkheden beschrijven die individuele burgers en belangen- of pressiegroepen hebben om de politieke besluitvorming te be\u00efnvloeden.",
 		"niveau_id": []
 	},
 	{
@@ -4758,13 +4758,13 @@
 	{
 		"id": "3221d493-6e6b-43ce-98e5-bda340aeeae6",
 		"prefix": "6.",
-		"title": "De kandidaat kan uitleggen op welke wijze overheidsbeleid tot stand komt, de invloed van de Europese Unie daarin aangeven/herkennen, en noemen/herkennen hoe Europese besluiten tot stand komen.",
+		"title": "De kandidaat kan uitleggen op welke wijze overheidsbeleid tot stand komt, de invloed van de Europese Unie daarin aangeven\/herkennen, en noemen\/herkennen hoe Europese besluiten tot stand komen.",
 		"niveau_id": []
 	},
 	{
 		"id": "4cd26f58-0fc7-4493-8ce1-c1e1a8523769",
 		"prefix": "6.",
-		"title": "De kandidaat kan mogelijkheden beschrijven die individuele burgers en belangen- of pressiegroepen hebben om de politieke besluitvorming te beïnvloeden.",
+		"title": "De kandidaat kan mogelijkheden beschrijven die individuele burgers en belangen- of pressiegroepen hebben om de politieke besluitvorming te be\u00efnvloeden.",
 		"niveau_id": []
 	},
 	{
@@ -4908,7 +4908,7 @@
 	{
 		"id": "473f16ff-7d14-4f0a-a076-221eb266b2e0",
 		"prefix": "12.",
-		"title": "De kandidaat kan benoemen wat de rol van de media is bij beeldvorming en aangeven hoe er sprake is van beïnvloeding door massamedia.",
+		"title": "De kandidaat kan benoemen wat de rol van de media is bij beeldvorming en aangeven hoe er sprake is van be\u00efnvloeding door massamedia.",
 		"niveau_id": []
 	},
 	{
@@ -4980,7 +4980,7 @@
 	{
 		"id": "219402f3-9ab3-44e2-a3ea-0f5a44d679b4",
 		"prefix": "15.",
-		"title": "De kandidaat kan een maatschappelijk vraagstuk gerelateerd aan de exameneenheden analyseren door verbanden tussen de thema’s uit de eindtermen te leggen en door de benaderingswijze van maatschappijkunde erop toe te passen.",
+		"title": "De kandidaat kan een maatschappelijk vraagstuk gerelateerd aan de exameneenheden analyseren door verbanden tussen de thema's uit de eindtermen te leggen en door de benaderingswijze van maatschappijkunde erop toe te passen.",
 		"niveau_id": []
 	},
 	{
@@ -5052,7 +5052,7 @@
 	{
 		"id": "57c5e7ed-6d3f-469f-8f63-5bb3f9754b42",
 		"prefix": "10.",
-		"title": "De kandidaat kan  hygiënisch werken",
+		"title": "De kandidaat kan  hygi\u00ebnisch werken",
 		"niveau_id": []
 	},
 	{
@@ -5136,7 +5136,7 @@
 	{
 		"id": "4ef0bf53-9a66-4f73-abcd-1e15524ccb39",
 		"prefix": "24.",
-		"title": "De kandidaat heeft inzicht in de globale hardwarearchitectuur van een computer, in die van de randapparatuur en in de wisselwerking tussen computer en randapparatuur en kan dit inzicht toepassen bij de uitoefening van enkele operationele installatie-, vervangings- en reparatietaken op de componenten van een computer en/of zijn randapparatuur.",
+		"title": "De kandidaat heeft inzicht in de globale hardwarearchitectuur van een computer, in die van de randapparatuur en in de wisselwerking tussen computer en randapparatuur en kan dit inzicht toepassen bij de uitoefening van enkele operationele installatie-, vervangings- en reparatietaken op de componenten van een computer en\/of zijn randapparatuur.",
 		"niveau_id": []
 	},
 	{
@@ -5262,13 +5262,13 @@
 	{
 		"id": "a469ea8d-1078-442f-ada5-d8c494938d71",
 		"prefix": "11.",
-		"title": "De kandidaat kan beschrijven welke ethische normen en waarden een rol spelen bij het gebruik en de ontwikkeling van digitale artefacten, het eigen handelen expliciet vergelijken met ethische richtlijnen, en het eigen handelen kritisch analyseren en relateren aan ethische dilemma’s.",
+		"title": "De kandidaat kan beschrijven welke ethische normen en waarden een rol spelen bij het gebruik en de ontwikkeling van digitale artefacten, het eigen handelen expliciet vergelijken met ethische richtlijnen, en het eigen handelen kritisch analyseren en relateren aan ethische dilemma's.",
 		"niveau_id": []
 	},
 	{
 		"id": "a763f470-0f11-4297-bd9e-afa04243d625",
 		"prefix": "12.",
-		"title": "De kandidaat kan voor de informatica relevante gereedschappen hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om (computer)apparatuur, besturingssystemen, applicaties, vaktaal, vakconventies en formalismen.",
+		"title": "De kandidaat kan voor de informatica relevante gereedschappen hanteren, waar nodig met aandacht voor risico's en veiligheid; daarbij gaat het om (computer)apparatuur, besturingssystemen, applicaties, vaktaal, vakconventies en formalismen.",
 		"niveau_id": []
 	},
 	{
@@ -5286,13 +5286,13 @@
 	{
 		"id": "b2319dcc-830d-4a6e-9185-18ab611a06ec",
 		"prefix": "14.",
-		"title": "De kandidaat kan een oplossingsrichting voor een probleem uitwerken tot een algoritme, daarbij standaardalgoritmen herkennen en gebruiken, en de correctheid en efficiëntie van digitale artefacten onderzoeken via de achterliggende algoritmen.",
+		"title": "De kandidaat kan een oplossingsrichting voor een probleem uitwerken tot een algoritme, daarbij standaardalgoritmen herkennen en gebruiken, en de correctheid en effici\u00ebntie van digitale artefacten onderzoeken via de achterliggende algoritmen.",
 		"niveau_id": []
 	},
 	{
 		"id": "bf197348-2c04-45c6-ab95-b0260d3abd1a",
 		"prefix": "15.",
-		"title": "De kandidaat kan verschillende abstracte datastructuren met elkaar vergelijken op elegantie en efficiëntie.",
+		"title": "De kandidaat kan verschillende abstracte datastructuren met elkaar vergelijken op elegantie en effici\u00ebntie.",
 		"niveau_id": []
 	},
 	{
@@ -5304,7 +5304,7 @@
 	{
 		"id": "8486f991-2f6f-4580-9cc5-94a741eebf63",
 		"prefix": "17.",
-		"title": "De kandidaat kan grammatica’s hanteren als hulpmiddel bij de beschrijving van talen.",
+		"title": "De kandidaat kan grammatica's hanteren als hulpmiddel bij de beschrijving van talen.",
 		"niveau_id": []
 	},
 	{
@@ -5322,7 +5322,7 @@
 	{
 		"id": "fcc51ec6-0f21-4adf-89ed-849387b20920",
 		"prefix": "20.",
-		"title": "De kandidaat kan gegevens representeren in een geschikte datastructuur, daarbij rekening houdend met de doelstelling, en kan daarbij verschillende representaties met elkaar vergelijken op elegantie, efficiëntie en implementeerbaarheid.",
+		"title": "De kandidaat kan gegevens representeren in een geschikte datastructuur, daarbij rekening houdend met de doelstelling, en kan daarbij verschillende representaties met elkaar vergelijken op elegantie, effici\u00ebntie en implementeerbaarheid.",
 		"niveau_id": []
 	},
 	{
@@ -5388,13 +5388,13 @@
 	{
 		"id": "2950dcd3-caf2-4ebc-96df-2bb0bcbe9a17",
 		"prefix": "31.",
-		"title": "De kandidaat kan van gegeven algoritmen de complexiteit vergelijken, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
+		"title": "De kandidaat kan van gegeven algoritmen de complexiteit vergelijken, en kan klassieke 'moeilijke' problemen herkennen en benoemen.",
 		"niveau_id": []
 	},
 	{
 		"id": "d142d234-9309-47c9-8412-b0907d270a3a",
 		"prefix": "31.",
-		"title": "De kandidaat kan  het verschil tussen exponentiële en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
+		"title": "De kandidaat kan  het verschil tussen exponenti\u00eble en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke \u2018moeilijke\u2019 problemen herkennen en benoemen.",
 		"niveau_id": []
 	},
 	{
@@ -5412,13 +5412,13 @@
 	{
 		"id": "b482869c-f598-4bfd-b801-eddd5dc9f964",
 		"prefix": "34.",
-		"title": "De kandidaat kan een informatiemodel opstellen voor een eenvoudige praktische situatie en aan de hand hiervan een database definiëren.",
+		"title": "De kandidaat kan een informatiemodel opstellen voor een eenvoudige praktische situatie en aan de hand hiervan een database defini\u00ebren.",
 		"niveau_id": []
 	},
 	{
 		"id": "5a27fe12-3b72-4aa1-894e-9ad1f2f5a435",
 		"prefix": "35.",
-		"title": "De kandidaat kan naast het relationele paradigma tenminste één ander database-paradigma beschrijven en kan voor een concrete toepassing de geschiktheid van de betreffende paradigma’s afwegen.",
+		"title": "De kandidaat kan naast het relationele paradigma tenminste \u00e9\u00e9n ander database-paradigma beschrijven en kan voor een concrete toepassing de geschiktheid van de betreffende paradigma\u2019s afwegen.",
 		"niveau_id": []
 	},
 	{
@@ -5442,19 +5442,19 @@
 	{
 		"id": "5d3f8b32-3b7f-41e2-9f31-edacf58fdac3",
 		"prefix": "39.",
-		"title": "De kandidaat kan een eenvoudige toepassing realiseren met één of meer van de methodes en technologieën uit de cognitive computing.",
+		"title": "De kandidaat kan een eenvoudige toepassing realiseren met \u00e9\u00e9n of meer van de methodes en technologie\u00ebn uit de cognitive computing.",
 		"niveau_id": []
 	},
 	{
 		"id": "a3be494a-ed79-494f-a22e-9ca2682585dc",
 		"prefix": "40.",
-		"title": "De kandidaat kan van minimaal één extra programmeerparadigma de kenmerken beschrijven en kan programma’s volgens dat paradigma ontwikkelen en evalueren.",
+		"title": "De kandidaat kan van minimaal \u00e9\u00e9n extra programmeerparadigma de kenmerken beschrijven en kan programma\u2019s volgens dat paradigma ontwikkelen en evalueren.",
 		"niveau_id": []
 	},
 	{
 		"id": "bdbb2cdd-0d6a-4129-956b-35fb6c2b0989",
 		"prefix": "41.",
-		"title": "De kandidaat kan voor een gegeven probleem een afweging maken tussen paradigma’s voor het oplossen ervan.",
+		"title": "De kandidaat kan voor een gegeven probleem een afweging maken tussen paradigma's voor het oplossen ervan.",
 		"niveau_id": []
 	},
 	{
@@ -5520,7 +5520,7 @@
 	{
 		"id": "45619c3a-b636-4121-9398-ca6abdf1feaf",
 		"prefix": "52.",
-		"title": "De kandidaat kan risico’s, bedreigingen en kwetsbaarheden in een ict- toepassing analyseren en kan daarbij zowel technische als menselijke factoren betrekken.",
+		"title": "De kandidaat kan risico's, bedreigingen en kwetsbaarheden in een ict- toepassing analyseren en kan daarbij zowel technische als menselijke factoren betrekken.",
 		"niveau_id": []
 	},
 	{
@@ -5604,67 +5604,67 @@
 	{
 		"id": "f31b8ea0-459f-4e0e-a774-d0ca4de573a7",
 		"prefix": "1.-",
-		"title": "De kandidaat kan met gebruik van voorbeelden uit de perioden- en tijdvakkenindeling van eindterm 2, de westers-christelijke jaartelling en een ander voorbeeld van een jaartelling of periodisering/meerdere andere voorbeelden van jaartellingen of periodiseringen uitleggen dat chronologische indelingen interpretatief van aard zijn en (mede) afhangen van de standplaats die men inneemt en/of de vraag die men wil beantwoorden.",
+		"title": "De kandidaat kan met gebruik van voorbeelden uit de perioden- en tijdvakkenindeling van eindterm 2, de westers-christelijke jaartelling en een ander voorbeeld van een jaartelling of periodisering\/meerdere andere voorbeelden van jaartellingen of periodiseringen uitleggen dat chronologische indelingen interpretatief van aard zijn en (mede) afhangen van de standplaats die men inneemt en\/of de vraag die men wil beantwoorden.",
 		"niveau_id": []
 	},
 	{
 		"id": "b4c319a1-8788-4756-a063-035b0062c04f",
 		"prefix": "2.",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken -  tijdvak 1: van jagers en boeren (– 3000 voor Christus) / Prehistorie.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken -  tijdvak 1: van jagers en boeren (- 3000 voor Christus) \/ Prehistorie.",
 		"niveau_id": []
 	},
 	{
 		"id": "50cb8c57-2f08-457b-b276-15c9352074f7",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 2: tijd van Grieken en Romeinen (3000 voor Christus–500 na Christus) / Oudheid;",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 2: tijd van Grieken en Romeinen (3000 voor Christus-500 na Christus) \/ Oudheid;",
 		"niveau_id": []
 	},
 	{
 		"id": "f8d4a59b-e589-4d34-9728-04ed703e0cae",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 3: tijd van monniken en ridders (500–1000) / vroege Middeleeuwen.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 3: tijd van monniken en ridders (500-1000) \/ vroege Middeleeuwen.",
 		"niveau_id": []
 	},
 	{
 		"id": "ccaba235-d1ac-4745-9248-eaebf17c8666",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 4: tijd van steden en staten (1000–1500) / hoge en late Middeleeuwen.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 4: tijd van steden en staten (1000-1500) \/ hoge en late Middeleeuwen.",
 		"niveau_id": []
 	},
 	{
 		"id": "d7248853-9571-46d8-b604-802557ba7f8f",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 5: tijd van ontdekkers en hervormers (1500–1600) / Renaissancetijd / 16e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 5: tijd van ontdekkers en hervormers (1500-1600) \/ Renaissancetijd \/ 16e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "50d049ed-4468-41bc-b1c1-a0be66f7543e",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 6: tijd van regenten en vorsten (1600–1700) / Gouden Eeuw / 17e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 6: tijd van regenten en vorsten (1600-1700) \/ Gouden Eeuw \/ 17e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "843a08fa-2a0b-4d42-8dfb-06acf2c52595",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 7: tijd van pruiken en revoluties (1700–1800) / eeuw van de Verlichting/ 18e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 7: tijd van pruiken en revoluties (1700-1800) \/ eeuw van de Verlichting\/ 18e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "2c8686ba-3b31-4fd7-99cc-24568ec41728",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 8: tijd van burgers en stoommachines (1800–1900) / industrialisatietijd / 19e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 8: tijd van burgers en stoommachines (1800-1900) \/ industrialisatietijd \/ 19e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "295f69f8-07ff-43ee-971c-bfee9cc6df69",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 9: tijd van de wereldoorlogen (1900–1950) / eerste helft 20e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 9: tijd van de wereldoorlogen (1900-1950) \/ eerste helft 20e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "a2ac69cd-bbc2-422e-8fa1-f3a833a7623f",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 10: tijd van televisie en computer (vanaf 1950) / tweede helft 20e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 10: tijd van televisie en computer (vanaf 1950) \/ tweede helft 20e eeuw.",
 		"niveau_id": []
 	},
 	{
@@ -5682,7 +5682,7 @@
 	{
 		"id": "54ddcfe5-4540-43d9-87fd-225e5bbc83d3",
 		"prefix": "4.",
-		"title": "De kandidaat kan in historische processen de samenhang tussen veranderingen en continuïteit beschrijven.",
+		"title": "De kandidaat kan in historische processen de samenhang tussen veranderingen en continu\u00efteit beschrijven.",
 		"niveau_id": []
 	},
 	{
@@ -5700,7 +5700,7 @@
 	{
 		"id": "6b921c58-8f18-4299-8bef-3993b1cd88ad",
 		"prefix": "4.-",
-		"title": "De kandidaat kan door het onderscheiden van continuïteiten van langere en kortere duur onderkennen hoe elementen afkomstig uit verschillende tijdvakken zich gelijktijdig in één tijdvak kunnen manifesteren (de gelijktijdigheid van het ongelijktijdige).",
+		"title": "De kandidaat kan door het onderscheiden van continu\u00efteiten van langere en kortere duur onderkennen hoe elementen afkomstig uit verschillende tijdvakken zich gelijktijdig in \u00e9\u00e9n tijdvak kunnen manifesteren (de gelijktijdigheid van het ongelijktijdige).",
 		"niveau_id": []
 	},
 	{
@@ -5766,7 +5766,7 @@
 	{
 		"id": "9e8e01d1-93b6-44d9-a2f3-2df7b3c35a90",
 		"prefix": "8.-",
-		"title": "De kandidaat kan voor elk van de tien tijdvakken die genoemd zijn in eindterm 2 uitleggen hoe kennis van het betreffende tijdvak de oriëntatie op de hedendaagse werkelijkheid beïnvloedt.",
+		"title": "De kandidaat kan voor elk van de tien tijdvakken die genoemd zijn in eindterm 2 uitleggen hoe kennis van het betreffende tijdvak de ori\u00ebntatie op de hedendaagse werkelijkheid be\u00efnvloedt.",
 		"niveau_id": []
 	},
 	{
@@ -5820,7 +5820,7 @@
 	{
 		"id": "f1569026-1134-4b77-806b-9cc6adca2156",
 		"prefix": "8b.-",
-		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten.",
+		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van het jodendom en het christendom als de eerste monothe\u00efstische godsdiensten.",
 		"niveau_id": []
 	},
 	{
@@ -5892,7 +5892,7 @@
 	{
 		"id": "85cf7676-f7ea-4d97-8183-ab2ced32d9d5",
 		"prefix": "8e.-",
-		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid.",
+		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de hernieuwde ori\u00ebntatie op het erfgoed van de klassieke Oudheid.",
 		"niveau_id": []
 	},
 	{
@@ -5934,19 +5934,19 @@
 	{
 		"id": "af592ddd-1860-4adf-bf39-6a270974f1e5",
 		"prefix": "8g",
-		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen.",
+		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - rationeel optimisme en 'verlicht denken' dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen.",
 		"niveau_id": []
 	},
 	{
 		"id": "a0dacf4b-5d84-40dd-86ee-8cef3c6ed045",
 		"prefix": "8g.-",
-		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme).",
+		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - voortbestaan van het ancien r\u00e9gime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme).",
 		"niveau_id": []
 	},
 	{
 		"id": "9dfa9b19-b507-4250-927b-2f632861e204",
 		"prefix": "8g.-",
-		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme.",
+		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - uitbouw van de Europese overheersing, met name in de vorm van plantagekoloni\u00ebn en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme.",
 		"niveau_id": []
 	},
 	{
@@ -5958,13 +5958,13 @@
 	{
 		"id": "f959195e-f24a-4724-bb02-255147897a9e",
 		"prefix": "8h",
-		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving.",
+		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de industri\u00eble revolutie die in de westerse wereld de basis legde voor een industri\u00eble samenleving.",
 		"niveau_id": []
 	},
 	{
 		"id": "7b1011e4-1772-4d53-b128-66307315a324",
 		"prefix": "8h.-",
-		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - discussies over de ‘sociale kwestie’.",
+		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - discussies over de 'sociale kwestie'.",
 		"niveau_id": []
 	},
 	{
@@ -6000,7 +6000,7 @@
 	{
 		"id": "531cf3e6-5525-4fe8-9dee-51b32e1bab05",
 		"prefix": "8i.-",
-		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaal-socialisme.",
+		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het in praktijk brengen van de totalitaire ideologie\u00ebn communisme en fascisme\/nationaal-socialisme.",
 		"niveau_id": []
 	},
 	{
@@ -6072,7 +6072,7 @@
 	{
 		"id": "93105db2-b6d3-403e-83cc-c15fb9db671d",
 		"prefix": "9.",
-		"title": "De kandidaat kan aan de hand van twee / vijf (voor profiel cultuur en maatschappij) / vier (voor profiel economie en maatschappij) nader omschreven concrete thema's met gebruikmaking van de eindtermen uit domein A een beargumenteerd antwoord geven op inhoudelijke vragen over het betreffende thema.",
+		"title": "De kandidaat kan aan de hand van twee \/ vijf (voor profiel cultuur en maatschappij) \/ vier (voor profiel economie en maatschappij) nader omschreven concrete thema's met gebruikmaking van de eindtermen uit domein A een beargumenteerd antwoord geven op inhoudelijke vragen over het betreffende thema.",
 		"niveau_id": []
 	},
 	{
@@ -6114,7 +6114,7 @@
 	{
 		"id": "1a3f95ca-030d-4268-bc5f-5b90c9c8e405",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van geschiedenis en staatsinrichting in de maatschappij.",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van geschiedenis en staatsinrichting in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -6136,31 +6136,31 @@
 	{
 		"id": "4d45b191-15d9-4a82-942e-b88a0144fb58",
 		"prefix": "3.",
-		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het vermogen om met voor geschiedenis en staatsinrichting geëigende vaktaal en methodieken te communiceren en onderzoek te doen.",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het vermogen om met voor geschiedenis en staatsinrichting ge\u00ebigende vaktaal en methodieken te communiceren en onderzoek te doen.",
 		"niveau_id": []
 	},
 	{
 		"id": "22f76d20-2d4f-44ec-907a-7c39097057ad",
 		"prefix": "4.",
-		"title": "De kandidaat kan herkennen en benoemen op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.",
+		"title": "De kandidaat kan herkennen en benoemen op welke wijze de koloniale relatie tussen Indonesi\u00eb en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie\/onafhankelijkheid van Indonesi\u00eb.",
 		"niveau_id": []
 	},
 	{
 		"id": "75064d30-c3c8-44cd-8ee2-5d1480fd7c0b",
 		"prefix": "5.",
-		"title": "De kandidaat kan herkennen en beschrijven op welke wijze de koloniale relatie tussen Indonesië en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie/onafhankelijkheid van Indonesië.",
+		"title": "De kandidaat kan herkennen en beschrijven op welke wijze de koloniale relatie tussen Indonesi\u00eb en Nederland zich in de loop der tijd ontwikkeld heeft en bijgedragen heeft aan de dekolonisatie\/onafhankelijkheid van Indonesi\u00eb.",
 		"niveau_id": []
 	},
 	{
 		"id": "bbb4e797-aa71-441a-a2a5-4cd737bdb7b4",
 		"prefix": "6.",
-		"title": "De kandidaat kan herkennen en benoemen hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
+		"title": "De kandidaat kan herkennen en benoemen hoe de Nederlandse rechtsstaat\/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
 		"niveau_id": []
 	},
 	{
 		"id": "826a3b42-a7a2-40de-9137-53f45010abc0",
 		"prefix": "7.",
-		"title": "De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
+		"title": "De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat\/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
 		"niveau_id": []
 	},
 	{
@@ -6226,19 +6226,19 @@
 	{
 		"id": "382d2df5-93ed-48e8-9b39-721560edcdd3",
 		"prefix": "18.",
-		"title": "De kandidaat kan aspecten van het conflict tussen Israël en de Arabische wereld herkennen en beschrijven.",
+		"title": "De kandidaat kan aspecten van het conflict tussen Isra\u00ebl en de Arabische wereld herkennen en beschrijven.",
 		"niveau_id": []
 	},
 	{
 		"id": "ea68e495-db8b-4bd7-990c-f2c401e42ec7",
 		"prefix": "19.",
-		"title": "De kandidaat kan aspecten van het conflict tussen Israël en de Arabische wereld herkennen, beschrijven en verklaren.",
+		"title": "De kandidaat kan aspecten van het conflict tussen Isra\u00ebl en de Arabische wereld herkennen, beschrijven en verklaren.",
 		"niveau_id": []
 	},
 	{
 		"id": "ff1fa59a-df8d-4750-93b3-c19c23fcc816",
 		"prefix": "20.",
-		"title": "De kandidaat kan herkennen en beschrijven hoe het proces van dekolonisatie en de weg naar onafhankelijkheid van Indonesië tussen 1945 en 1949 verliep en daarbij ingaan op de moeizame relatie tussen Nederland en Indonesië na de onafhankelijkheid van Indonesië.",
+		"title": "De kandidaat kan herkennen en beschrijven hoe het proces van dekolonisatie en de weg naar onafhankelijkheid van Indonesi\u00eb tussen 1945 en 1949 verliep en daarbij ingaan op de moeizame relatie tussen Nederland en Indonesi\u00eb na de onafhankelijkheid van Indonesi\u00eb.",
 		"niveau_id": []
 	},
 	{
@@ -6250,7 +6250,7 @@
 	{
 		"id": "0286f777-04dc-41e4-b98e-8ba83c4b02e6",
 		"prefix": "22.",
-		"title": "De kandidaat kan herkennen en beschrijven op welke manier de mens in heden en verleden het milieu heeft beïnvloed en welke oplossingen er bedacht zijn en worden voor ontstane milieuproblemen.",
+		"title": "De kandidaat kan herkennen en beschrijven op welke manier de mens in heden en verleden het milieu heeft be\u00efnvloed en welke oplossingen er bedacht zijn en worden voor ontstane milieuproblemen.",
 		"niveau_id": []
 	},
 	{
@@ -6268,7 +6268,7 @@
 	{
 		"id": "72f1b185-dc55-4636-8d09-41052fee3802",
 		"prefix": "25.",
-		"title": "De kandidaat kan herkennen en beschrijven hoe de Verenigde Staten de Nederlandse samenleving na de Tweede Wereldoorlog hebben beïnvloed en ingaan op verschillen in opvatting tussen Nederlandse politieke stromingen over de rol van de Verenigde Staten in de internationale politiek.",
+		"title": "De kandidaat kan herkennen en beschrijven hoe de Verenigde Staten de Nederlandse samenleving na de Tweede Wereldoorlog hebben be\u00efnvloed en ingaan op verschillen in opvatting tussen Nederlandse politieke stromingen over de rol van de Verenigde Staten in de internationale politiek.",
 		"niveau_id": []
 	},
 	{
@@ -6286,13 +6286,13 @@
 	{
 		"id": "262973b0-b261-48f2-a82c-a21b592c85ab",
 		"prefix": "28.",
-		"title": "De kandidaat kan de volgende thema’s herkennen, beschrijven, verklaren en plaatsen in het kader van het Historisch Overzicht vanaf 1900: Het ontstaan en de gevolgen van het communisme in de Sovjetunie (1917-1941).",
+		"title": "De kandidaat kan de volgende thema's herkennen, beschrijven, verklaren en plaatsen in het kader van het Historisch Overzicht vanaf 1900: Het ontstaan en de gevolgen van het communisme in de Sovjetunie (1917-1941).",
 		"niveau_id": []
 	},
 	{
 		"id": "1ddb821d-ad98-4a85-8509-96b58c7333bc",
 		"prefix": "28.-",
-		"title": "De kandidaat kan de volgende thema’s herkennen, beschrijven, verklaren en plaatsen in het kader van het Historisch Overzicht vanaf 1900: Indonesië als voorbeeld van dekolonisatie ( 1942-1949.",
+		"title": "De kandidaat kan de volgende thema\u2019s herkennen, beschrijven, verklaren en plaatsen in het kader van het Historisch Overzicht vanaf 1900: Indonesi\u00eb als voorbeeld van dekolonisatie ( 1942-1949.",
 		"niveau_id": []
 	},
 	{
@@ -6310,61 +6310,61 @@
 	{
 		"id": "c59c8018-7c4c-4caf-a154-b16418a72971",
 		"prefix": "2.",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken -  tijdvak 1: van jagers en boeren (– 3000 voor Christus) / Prehistorie.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken -  tijdvak 1: van jagers en boeren (- 3000 voor Christus) \/ Prehistorie.",
 		"niveau_id": []
 	},
 	{
 		"id": "af26093a-0058-4ec5-94b2-5ed9e83faadd",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 2: tijd van Grieken en Romeinen (3000 voor Christus–500 na Christus) / Oudheid.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 2: tijd van Grieken en Romeinen (3000 voor Christus-500 na Christus) \/ Oudheid.",
 		"niveau_id": []
 	},
 	{
 		"id": "0f9b6ad9-9aa0-47f2-9623-4c700afa5b9b",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 3: tijd van monniken en ridders (500–1000) / vroege Middeleeuwen.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 3: tijd van monniken en ridders (500-1000) \/ vroege Middeleeuwen.",
 		"niveau_id": []
 	},
 	{
 		"id": "50381a31-4545-40c4-8ee5-03f0d91f3628",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 4: tijd van steden en staten (1000–1500) / hoge en late Middeleeuwen.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 4: tijd van steden en staten (1000-1500) \/ hoge en late Middeleeuwen.",
 		"niveau_id": []
 	},
 	{
 		"id": "4f8a67ce-3dc2-452d-8f0e-af7b741c79d4",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 5: tijd van ontdekkers en hervormers (1500–1600) / Renaissancetijd / 16e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 5: tijd van ontdekkers en hervormers (1500-1600) \/ Renaissancetijd \/ 16e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "0c18a384-35e8-4bb2-b2b6-5b0047263b27",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 6: tijd van regenten en vorsten (1600–1700) / Gouden Eeuw / 17e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 6: tijd van regenten en vorsten (1600-1700) \/ Gouden Eeuw \/ 17e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "1b245ead-dd5e-43e2-9928-ed92d74d7652",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 7: tijd van pruiken en revoluties (1700–1800) / eeuw van de Verlichting/ 18e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 7: tijd van pruiken en revoluties (1700-1800) \/ eeuw van de Verlichting\/ 18e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "fb58b1eb-a11f-4dc6-a659-032dc5f3d585",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 8: tijd van burgers en stoommachines (1800–1900) / industrialisatietijd / 19e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 8: tijd van burgers en stoommachines (1800-1900) \/ industrialisatietijd \/ 19e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "25c32c6c-d57d-4548-be24-e050bf72c6e4",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 9: tijd van de wereldoorlogen (1900–1950) / eerste helft 20e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 9: tijd van de wereldoorlogen (1900-1950) \/ eerste helft 20e eeuw.",
 		"niveau_id": []
 	},
 	{
 		"id": "ee12f279-791a-400a-b44e-20e42be51eea",
 		"prefix": "2.-",
-		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 10: tijd van televisie en computer (vanaf 1950) / tweede helft 20e eeuw.",
+		"title": "De kandidaat kan de volgende tijdvakken met bijbehorende tijdsgrenzen in chronologische volgorde noemen en als referentiekader gebruiken - tijdvak 10: tijd van televisie en computer (vanaf 1950) \/ tweede helft 20e eeuw.",
 		"niveau_id": []
 	},
 	{
@@ -6382,7 +6382,7 @@
 	{
 		"id": "0d5bf41f-293b-440a-b9bd-195336ed16ee",
 		"prefix": "4.",
-		"title": "De kandidaat kan in historische processen de samenhang tussen veranderingen en continuïteit beschrijven.",
+		"title": "De kandidaat kan in historische processen de samenhang tussen veranderingen en continu\u00efteit beschrijven.",
 		"niveau_id": []
 	},
 	{
@@ -6454,7 +6454,7 @@
 	{
 		"id": "0df12350-060c-4cfc-9c27-a42843b66685",
 		"prefix": "8.-",
-		"title": "De kandidaat kan voor elk van de tien tijdvakken die genoemd zijn in eindterm 2 - uitleggen hoe kennis van het betreffende tijdvak de oriëntatie op de hedendaagse werkelijkheid beïnvloedt.",
+		"title": "De kandidaat kan voor elk van de tien tijdvakken die genoemd zijn in eindterm 2 - uitleggen hoe kennis van het betreffende tijdvak de ori\u00ebntatie op de hedendaagse werkelijkheid be\u00efnvloedt.",
 		"niveau_id": []
 	},
 	{
@@ -6502,7 +6502,7 @@
 	{
 		"id": "05bc1180-d66b-4152-b5d5-97ce7646c9f1",
 		"prefix": "8b.-",
-		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten.",
+		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van het jodendom en het christendom als de eerste monothe\u00efstische godsdiensten.",
 		"niveau_id": []
 	},
 	{
@@ -6574,7 +6574,7 @@
 	{
 		"id": "b0c84515-64e7-4e6f-b255-e659af7d246d",
 		"prefix": "8e.-",
-		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid.",
+		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de hernieuwde ori\u00ebntatie op het erfgoed van de klassieke Oudheid.",
 		"niveau_id": []
 	},
 	{
@@ -6616,19 +6616,19 @@
 	{
 		"id": "f1814456-6bd4-46e7-9324-ecbc9f5186ff",
 		"prefix": "8g",
-		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen.",
+		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - rationeel optimisme en 'verlicht denken' dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen.",
 		"niveau_id": []
 	},
 	{
 		"id": "0f18521e-0af0-4944-b351-5ed0888d33fa",
 		"prefix": "8g.-",
-		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme).",
+		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - voortbestaan van het ancien r\u00e9gime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme).",
 		"niveau_id": []
 	},
 	{
 		"id": "67b01fc8-2c2c-4528-935a-585a703a1440",
 		"prefix": "8g.-",
-		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme.",
+		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - uitbouw van de Europese overheersing, met name in de vorm van plantagekoloni\u00ebn en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme.",
 		"niveau_id": []
 	},
 	{
@@ -6640,13 +6640,13 @@
 	{
 		"id": "d9c37c0e-9979-4c6a-acf1-374ee2240806",
 		"prefix": "8h",
-		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving.",
+		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de industri\u00eble revolutie die in de westerse wereld de basis legde voor een industri\u00eble samenleving.",
 		"niveau_id": []
 	},
 	{
 		"id": "5d443c1a-f97a-4c95-bffb-f5d324824bfd",
 		"prefix": "8h.-",
-		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - discussies over de ‘sociale kwestie’.",
+		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - discussies over de 'sociale kwestie'.",
 		"niveau_id": []
 	},
 	{
@@ -6682,7 +6682,7 @@
 	{
 		"id": "a72a66ec-7565-48a9-97d3-6b6471cb45fd",
 		"prefix": "8i.-",
-		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaalsocialisme.",
+		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het in praktijk brengen van de totalitaire ideologie\u00ebn communisme en fascisme\/nationaalsocialisme.",
 		"niveau_id": []
 	},
 	{
@@ -6790,7 +6790,7 @@
 	{
 		"id": "7ef73a0f-b6bf-4584-bdc7-612b2e804c87",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
 		"niveau_id": []
 	},
 	{
@@ -6844,7 +6844,7 @@
 	{
 		"id": "312775aa-06d7-4798-a907-5adcd3a77dc6",
 		"prefix": "4.",
-		"title": "De kandidaat kan gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
+		"title": "De kandidaat kan gegevens uit \u00e9\u00e9n of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
 		"niveau_id": []
 	},
 	{
@@ -6892,7 +6892,7 @@
 	{
 		"id": "d03db5f9-f3c8-488e-90f7-17d4593f41b5",
 		"prefix": "6.",
-		"title": "De kandidaat kan naar een mening/oordeel vragen en een mening/oordeel geven.",
+		"title": "De kandidaat kan naar een mening\/oordeel vragen en een mening\/oordeel geven.",
 		"niveau_id": []
 	},
 	{
@@ -7204,13 +7204,13 @@
 	{
 		"id": "c951e7cf-cb2a-47dd-8b6e-2e6ee447a1f0",
 		"prefix": "11.",
-		"title": "De kandidaat kan uitleggen wat de rol en invloed is van ideologieën in de maatschappij. Hij kan daarbij aangeven wat de filosofische en/of levensbeschouwelijke uitgangspunten van ideologieën zijn.",
+		"title": "De kandidaat kan uitleggen wat de rol en invloed is van ideologie\u00ebn in de maatschappij. Hij kan daarbij aangeven wat de filosofische en\/of levensbeschouwelijke uitgangspunten van ideologie\u00ebn zijn.",
 		"niveau_id": []
 	},
 	{
 		"id": "d5cd7fd1-5e94-429d-9751-8fa92e9c0212",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
 		"niveau_id": []
 	},
 	{
@@ -7264,7 +7264,7 @@
 	{
 		"id": "e92b0f13-d937-4be1-855b-6e45007b690c",
 		"prefix": "4.",
-		"title": "De kandidaat kan gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
+		"title": "De kandidaat kan gegevens uit \u00e9\u00e9n of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
 		"niveau_id": []
 	},
 	{
@@ -7312,7 +7312,7 @@
 	{
 		"id": "71e39302-3e2d-4c96-9258-11b984296dcc",
 		"prefix": "6.",
-		"title": "De kandidaat kan naar een mening/oordeel vragen en een mening/oordeel geven.",
+		"title": "De kandidaat kan naar een mening\/oordeel vragen en een mening\/oordeel geven.",
 		"niveau_id": []
 	},
 	{
@@ -7384,7 +7384,7 @@
 	{
 		"id": "bc05c9e7-591d-40c1-b754-c7c62f69c35c",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van economie in de maatschappij.",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van economie in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -7420,19 +7420,19 @@
 	{
 		"id": "2a93f8be-27ea-42ec-9017-e423e9f30846",
 		"prefix": "7.",
-		"title": "De kandidaat heeft inzicht in de productie van goederen en diensten en in de fasen die een product doorloopt vanaf de producent van grondstoffen tot en met de detaillist/ winkelier, en kan voorbeelden geven van beroepen/ werkzaamheden die typerend zijn voor verschillende economische sectoren.",
+		"title": "De kandidaat heeft inzicht in de productie van goederen en diensten en in de fasen die een product doorloopt vanaf de producent van grondstoffen tot en met de detaillist\/ winkelier, en kan voorbeelden geven van beroepen\/ werkzaamheden die typerend zijn voor verschillende economische sectoren.",
 		"niveau_id": []
 	},
 	{
 		"id": "910d57d3-2d8e-4400-a614-30b4d5186179",
 		"prefix": "8.",
-		"title": "De kandidaat heeft inzicht in de sociale, economische en financiële functies van de overheid en kan dit inzicht toepassen in een gegeven casus.",
+		"title": "De kandidaat heeft inzicht in de sociale, economische en financi\u00eble functies van de overheid en kan dit inzicht toepassen in een gegeven casus.",
 		"niveau_id": []
 	},
 	{
 		"id": "0c6dfcff-8944-41a8-ab6d-e9d7c2ea6c27",
 		"prefix": "8.",
-		"title": "De kandidaat heeft inzicht in de sociale, economische en financiële functies van de overheid en kan dit inzicht toepassen in een gegeven casus.",
+		"title": "De kandidaat heeft inzicht in de sociale, economische en financi\u00eble functies van de overheid en kan dit inzicht toepassen in een gegeven casus.",
 		"niveau_id": []
 	},
 	{
@@ -7502,12 +7502,12 @@
 	},
 	{
 		"id": "1ce5ff0c-b132-4372-b474-6433ec44ce09",
-		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt.",
+		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden geco\u00f6rdineerd via de markt.",
 		"niveau_id": []
 	},
 	{
 		"id": "2ee9eb4d-f7b8-4c0b-a2db-3a7fb0a4d705",
-		"title": "Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd.",
+		"title": "Prijsvorming is het co\u00f6rdinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd.",
 		"niveau_id": []
 	},
 	{
@@ -7517,12 +7517,12 @@
 	},
 	{
 		"id": "a710730a-bd76-4893-920d-c14183dbc32a",
-		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd.",
+		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op \u00e9\u00e9n moment in de tijd plaatsvindt, maar ook over de tijd.",
 		"niveau_id": []
 	},
 	{
 		"id": "90817313-6c00-463d-bad7-71280b32573d",
-		"title": "De prijs die deze intertemporele ruil coördineert is de rente.",
+		"title": "De prijs die deze intertemporele ruil co\u00f6rdineert is de rente.",
 		"niveau_id": []
 	},
 	{
@@ -7532,7 +7532,7 @@
 	},
 	{
 		"id": "06cd0d87-6124-4553-95a0-45f9d322d5dd",
-		"title": "Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
+		"title": "Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief co\u00f6rdinatiemechanisme zijn voor keuzes.",
 		"niveau_id": []
 	},
 	{
@@ -7542,7 +7542,7 @@
 	},
 	{
 		"id": "778ef219-dc0a-42d5-86b6-1486c465b8e8",
-		"title": "Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
+		"title": "Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen be\u00efnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
 		"niveau_id": []
 	},
 	{
@@ -7567,7 +7567,7 @@
 	},
 	{
 		"id": "df52ca9c-d832-4e5e-a43e-3f85aca2aef2",
-		"title": "De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht.",
+		"title": "De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een 'economische kijk' op maatschappelijke verschijnselen en van strategisch inzicht.",
 		"niveau_id": []
 	},
 	{
@@ -7588,7 +7588,7 @@
 	{
 		"id": "c94f4790-d239-4710-b866-cad4ba5edc04",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
 		"niveau_id": []
 	},
 	{
@@ -7642,7 +7642,7 @@
 	{
 		"id": "d8a58ff7-d72c-4c74-84e7-46f6bc57e195",
 		"prefix": "4.",
-		"title": "De kandidaat kan gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
+		"title": "De kandidaat kan gegevens uit \u00e9\u00e9n of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
 		"niveau_id": []
 	},
 	{
@@ -7690,7 +7690,7 @@
 	{
 		"id": "294ab5a0-3f7d-4c33-b19f-2b5e00b5439c",
 		"prefix": "6.",
-		"title": "De kandidaat kan naar een mening/oordeel vragen en een mening/oordeel geven.",
+		"title": "De kandidaat kan naar een mening\/oordeel vragen en een mening\/oordeel geven.",
 		"niveau_id": []
 	},
 	{
@@ -7826,7 +7826,7 @@
 	},
 	{
 		"id": "b466706d-9640-4980-8f4a-6370678d8615",
-		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
+		"title": "De kandidaat kan strategie\u00ebn toepassen om een gesprek voortgang te doen vinden.",
 		"niveau_id": []
 	},
 	{
@@ -7924,7 +7924,7 @@
 	{
 		"id": "4972c191-1d64-4590-aa9c-f377fec194b0",
 		"prefix": "8.",
-		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risicoâ€™s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
+		"title": "De kandidaat kan in contexten een voor de natuurwetenschappen relevant instrumentarium hanteren, waar nodig met aandacht voor risico\u00e2\u20ac\u2122s en veiligheid; daarbij gaat het om instrumenten voor dataverzameling en -bewerking, vaktaal, vakconventies, symbolen, formuletaal en rekenkundige bewerkingen.",
 		"niveau_id": []
 	},
 	{
@@ -8020,7 +8020,7 @@
 	{
 		"id": "e8a581b3-c05c-42db-9c0b-d935da62334f",
 		"prefix": "24.",
-		"title": "De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf reguleren; de kandidaat kan beargumenteren welke effecten op kunnen treden als zelfregulatie van ecosystemen en het systeem Aarde wordt verstoord, en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en het systeem Aarde kan beÃ¯nvloeden.\"",
+		"title": "De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf reguleren; de kandidaat kan beargumenteren welke effecten op kunnen treden als zelfregulatie van ecosystemen en het systeem Aarde wordt verstoord, en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en het systeem Aarde kan be\u00efnvloeden.\"",
 		"niveau_id": []
 	},
 	{
@@ -8038,7 +8038,7 @@
 	{
 		"id": "e0e724ef-d1d0-4664-81ec-36e61fff5a5e",
 		"prefix": "27.",
-		"title": "De kandidaat kan met behulp van de concepten dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid en wereldbeeld benoemen op welke wijze ecosystemen zich kunnen ontwikkelen en beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen en het systeem Aarde beïnvloedt.",
+		"title": "De kandidaat kan met behulp van de concepten dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid en wereldbeeld benoemen op welke wijze ecosystemen zich kunnen ontwikkelen en beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen en het systeem Aarde be\u00efnvloedt.",
 		"niveau_id": []
 	},
 	{
@@ -8104,7 +8104,7 @@
 	{
 		"id": "653e88c1-fc74-4afc-b7b3-56ecee00a5e4",
 		"prefix": "38.",
-		"title": "De kandidaat kan met behulp van het concept biodiversiteit ten minste in contexten op het gebied van duurzaamheid en wereldbeeld veranderingen in diversiteit van populaties en ecosystemen binnen het systeem Aarde verklaren en beargumenteren op welke wijze deze veranderingen beÃ¯nvloed worden.",
+		"title": "De kandidaat kan met behulp van het concept biodiversiteit ten minste in contexten op het gebied van duurzaamheid en wereldbeeld veranderingen in diversiteit van populaties en ecosystemen binnen het systeem Aarde verklaren en beargumenteren op welke wijze deze veranderingen be\u00efnvloed worden.",
 		"niveau_id": []
 	},
 	{
@@ -8115,8 +8115,8 @@
 	},
 	{
 		"id": "09fa15c9-9841-4905-b71a-3a8ffca6e782",
-		"prefix": "BI/K/2",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang aangeven van biologische kennis en vaardigheden in de maatschappij.",
+		"prefix": "BI\/K\/2",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang aangeven van biologische kennis en vaardigheden in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -8164,13 +8164,13 @@
 	{
 		"id": "63966db4-5644-4462-8285-a2751379c413",
 		"prefix": "6.",
-		"title": "De kandidaat kan de rol van schimmels en bacteriën in het milieu noemen en toelichten.",
+		"title": "De kandidaat kan de rol van schimmels en bacteri\u00ebn in het milieu noemen en toelichten.",
 		"niveau_id": []
 	},
 	{
 		"id": "96eaaa26-f707-4120-a6b2-11a2693d534d",
 		"prefix": "7.",
-		"title": "De kandidaat kan de rol van schimmels en bacteriën in het milieu en de biotechnologie noemen en toelichten.",
+		"title": "De kandidaat kan de rol van schimmels en bacteri\u00ebn in het milieu en de biotechnologie noemen en toelichten.",
 		"niveau_id": []
 	},
 	{
@@ -8200,7 +8200,7 @@
 	{
 		"id": "a355b5e1-e9c9-438f-9a42-6dd3db916149",
 		"prefix": "10.",
-		"title": "De kandidaat kan beschrijven hoe de mens ecosystemen kan beïnvloeden",
+		"title": "De kandidaat kan beschrijven hoe de mens ecosystemen kan be\u00efnvloeden",
 		"niveau_id": []
 	},
 	{
@@ -8462,7 +8462,7 @@
 	{
 		"id": "78c16470-2136-4d88-9d95-def5238043a8",
 		"prefix": "24.",
-		"title": "De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf reguleren en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en het systeem Aarde kan beïnvloeden.",
+		"title": "De kandidaat kan met behulp van de concepten energiestroom, kringloop, dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid verklaren op welke wijze ecosystemen zichzelf reguleren en kan beargumenteren met welke maatregelen de mens zelfregulatie van ecosystemen en het systeem Aarde kan be\u00efnvloeden.",
 		"niveau_id": []
 	},
 	{
@@ -8480,7 +8480,7 @@
 	{
 		"id": "af01b468-ba12-4706-b996-7a11a2d0b191",
 		"prefix": "27.",
-		"title": "De kandidaat kan met behulp van de concepten dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid en wereldbeeld benoemen op welke wijze ecosystemen zich kunnen ontwikkelen en beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen beïnvloedt.",
+		"title": "De kandidaat kan met behulp van de concepten dynamiek en evenwicht ten minste in contexten op het gebied van duurzaamheid en wereldbeeld benoemen op welke wijze ecosystemen zich kunnen ontwikkelen en beargumenteren met welke maatregelen de mens de zelforganisatie van ecosystemen be\u00efnvloedt.",
 		"niveau_id": []
 	},
 	{
@@ -8659,7 +8659,7 @@
 	{
 		"id": "f54a0a2f-d5c0-46fb-933e-144890a1ce18",
 		"prefix": "11.",
-		"title": "De kandidaat kan vraagstukken met persoonlijke financiële consequenties herkennen en (financieel) onderbouwde keuzes maken.",
+		"title": "De kandidaat kan vraagstukken met persoonlijke financi\u00eble consequenties herkennen en (financieel) onderbouwde keuzes maken.",
 		"niveau_id": []
 	},
 	{
@@ -8689,13 +8689,13 @@
 	{
 		"id": "df40e33f-985b-4087-a406-e3d5b44000d7",
 		"prefix": "16.",
-		"title": "De kandidaat kan de interne organisatie beschrijven en verklaren aan de hand van de belangrijkste historische en hedendaagse organisatietheorieën.",
+		"title": "De kandidaat kan de interne organisatie beschrijven en verklaren aan de hand van de belangrijkste historische en hedendaagse organisatietheorie\u00ebn.",
 		"niveau_id": []
 	},
 	{
 		"id": "766fae65-5a7e-453e-b1f6-873944238c1b",
 		"prefix": "17.",
-		"title": "De kandidaat kan personeelsbeleid/HRM beschrijven en daarbij de relatie leggen met de doelstelling en de aard van de organisatie.",
+		"title": "De kandidaat kan personeelsbeleid\/HRM beschrijven en daarbij de relatie leggen met de doelstelling en de aard van de organisatie.",
 		"niveau_id": []
 	},
 	{
@@ -8707,7 +8707,7 @@
 	{
 		"id": "84195b95-a08a-4a61-9e13-8ca358968a37",
 		"prefix": "19.",
-		"title": "De kandidaat kan bij een investeringsvraagstuk de relatie leggen tussen risico en geëist rendement.",
+		"title": "De kandidaat kan bij een investeringsvraagstuk de relatie leggen tussen risico en ge\u00ebist rendement.",
 		"niveau_id": []
 	},
 	{
@@ -8725,7 +8725,7 @@
 	{
 		"id": "0891eb25-13fa-4986-ab75-9b35a791d158",
 		"prefix": "22.",
-		"title": "De kandidaat kan aangeven welke invloed de wijze van financieren heeft op het risico en geëist rendement van het eigen en vreemd vermogen.",
+		"title": "De kandidaat kan aangeven welke invloed de wijze van financieren heeft op het risico en ge\u00ebist rendement van het eigen en vreemd vermogen.",
 		"niveau_id": []
 	},
 	{
@@ -8761,13 +8761,13 @@
 	{
 		"id": "1c5e073f-361a-4bd1-8c94-1f0bd9a613ba",
 		"prefix": "28.",
-		"title": "De kandidaat kan financiële feiten inventariseren en verwerken tot financiële overzichten.",
+		"title": "De kandidaat kan financi\u00eble feiten inventariseren en verwerken tot financi\u00eble overzichten.",
 		"niveau_id": []
 	},
 	{
 		"id": "b1cfa131-e72f-4b11-8b1f-91f381a97af4",
 		"prefix": "29.",
-		"title": "De kandidaat kan financiële en niet-financiële informatie onderscheiden en het belang van beide uitleggen voor het besturen van de organisatie.",
+		"title": "De kandidaat kan financi\u00eble en niet-financi\u00eble informatie onderscheiden en het belang van beide uitleggen voor het besturen van de organisatie.",
 		"niveau_id": []
 	},
 	{
@@ -8779,7 +8779,7 @@
 	{
 		"id": "681a7baf-bc42-47aa-8582-567701479e41",
 		"prefix": "31.",
-		"title": "De kandidaat kan voor een niet-industriële organisatie de voorcalculatorische en de nacalculatorische resultatenrekening opstellen, verschillen verklaren en passende beheermaatregelen afleiden.",
+		"title": "De kandidaat kan voor een niet-industri\u00eble organisatie de voorcalculatorische en de nacalculatorische resultatenrekening opstellen, verschillen verklaren en passende beheermaatregelen afleiden.",
 		"niveau_id": []
 	},
 	{
@@ -8898,7 +8898,7 @@
 	{
 		"id": "cc0d7162-ff46-4080-a5b2-f47b7ae1f41d",
 		"prefix": "11.",
-		"title": "De kandidaat kan vraagstukken met persoonlijke financiële consequenties herkennen en (financieel) onderbouwde keuzes maken.",
+		"title": "De kandidaat kan vraagstukken met persoonlijke financi\u00eble consequenties herkennen en (financieel) onderbouwde keuzes maken.",
 		"niveau_id": []
 	},
 	{
@@ -8928,7 +8928,7 @@
 	{
 		"id": "185cf54f-8835-4a27-af49-be9ed99f5a89",
 		"prefix": "16.",
-		"title": "De kandidaat kan personeelsbeleid/HRM beschrijven en daarbij de relatie leggen met de doelstelling en de aard van de organisatie.",
+		"title": "De kandidaat kan personeelsbeleid\/HRM beschrijven en daarbij de relatie leggen met de doelstelling en de aard van de organisatie.",
 		"niveau_id": []
 	},
 	{
@@ -8952,7 +8952,7 @@
 	{
 		"id": "a71428de-c563-4aa6-b71a-40109e9556a6",
 		"prefix": "20.",
-		"title": "De kandidaat kan onderkennen welke risico’s financiering met vreemd vermogen met zich meebrengt.",
+		"title": "De kandidaat kan onderkennen welke risico's financiering met vreemd vermogen met zich meebrengt.",
 		"niveau_id": []
 	},
 	{
@@ -8970,13 +8970,13 @@
 	{
 		"id": "439b7592-f5e3-4941-a04f-341a73d6ae75",
 		"prefix": "23.",
-		"title": "De kandidaat kan financiële feiten inventariseren en verwerken tot financiële overzichten.",
+		"title": "De kandidaat kan financi\u00eble feiten inventariseren en verwerken tot financi\u00eble overzichten.",
 		"niveau_id": []
 	},
 	{
 		"id": "07fb9848-ebd8-487b-90c1-bbe5802f2bba",
 		"prefix": "24.",
-		"title": "De kandidaat kan financiële en niet-financiële informatie onderscheiden en het belang van beide uitleggen voor het besturen van de organisatie.",
+		"title": "De kandidaat kan financi\u00eble en niet-financi\u00eble informatie onderscheiden en het belang van beide uitleggen voor het besturen van de organisatie.",
 		"niveau_id": []
 	},
 	{
@@ -8994,7 +8994,7 @@
 	{
 		"id": "fe52c701-d09d-4f91-887f-4c9924318b11",
 		"prefix": "1.",
-		"title": "De kandidaat oriënteert zich op het belang van beeldende kunst en vormgeving in de maatschappij.",
+		"title": "De kandidaat ori\u00ebnteert zich op het belang van beeldende kunst en vormgeving in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -9030,7 +9030,7 @@
 	{
 		"id": "c973a1c8-6c7a-48ec-b0d8-1598810d1942",
 		"prefix": "7.",
-		"title": "De kandidaat kan aspecten van de voorstelling en vormgeving zó gebruiken dat ze een bijdrage leveren aan de zeggingskracht van het eigen beeldend werk.",
+		"title": "De kandidaat kan aspecten van de voorstelling en vormgeving z\u00f3 gebruiken dat ze een bijdrage leveren aan de zeggingskracht van het eigen beeldend werk.",
 		"niveau_id": []
 	},
 	{
@@ -9048,7 +9048,7 @@
 	{
 		"id": "0d9c442b-db5d-4fcd-9395-73a6a629e357",
 		"prefix": "10.",
-		"title": "De kandidaat kan in beeldend werk van anderen de functionaliteit, de aspecten van de voorstelling, de vormgeving en de culturele en/of kunsthistorische context benoemen en toelichten.",
+		"title": "De kandidaat kan in beeldend werk van anderen de functionaliteit, de aspecten van de voorstelling, de vormgeving en de culturele en\/of kunsthistorische context benoemen en toelichten.",
 		"niveau_id": []
 	},
 	{
@@ -9072,7 +9072,7 @@
 	{
 		"id": "48360af5-c55a-4e48-915f-2c4bc7948830",
 		"prefix": "14.",
-		"title": "De kandidaat kan aspecten van de voorstelling en vormgeving zó gebruiken dat ze een bijdrage leveren aan de zeggingskracht van het eigen beeldend werk.",
+		"title": "De kandidaat kan aspecten van de voorstelling en vormgeving z\u00f3 gebruiken dat ze een bijdrage leveren aan de zeggingskracht van het eigen beeldend werk.",
 		"niveau_id": []
 	},
 	{
@@ -9090,7 +9090,7 @@
 	{
 		"id": "ef0da9a3-d8fb-4b9c-835c-a7dae9f7a1b7",
 		"prefix": "17.",
-		"title": "De kandidaat kan een relatie leggen tussen eigen beeldend werk en beeldend werk van anderen aan de hand van de functionaliteit, de aspecten van de voorstelling en van vormgeving en de culturele en/of kunsthistorische context.",
+		"title": "De kandidaat kan een relatie leggen tussen eigen beeldend werk en beeldend werk van anderen aan de hand van de functionaliteit, de aspecten van de voorstelling en van vormgeving en de culturele en\/of kunsthistorische context.",
 		"niveau_id": []
 	},
 	{
@@ -9114,7 +9114,7 @@
 	{
 		"id": "adea66b3-43f9-4f6b-a143-c55346dd96ab",
 		"prefix": "2.",
-		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen.",
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-\/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen.",
 		"niveau_id": []
 	},
 	{
@@ -9228,7 +9228,7 @@
 	{
 		"id": "b8d31933-019d-45dc-99a8-971f06aaeacc",
 		"prefix": "21.",
-		"title": "De kandidaat kan de ontwikkeling van kennis en ideeën over de bouw en geschiedenis van het zonnestelsel en heelal beschrijven.",
+		"title": "De kandidaat kan de ontwikkeling van kennis en idee\u00ebn over de bouw en geschiedenis van het zonnestelsel en heelal beschrijven.",
 		"niveau_id": []
 	},
 	{
@@ -9240,7 +9240,7 @@
 	{
 		"id": "18f5a453-4fb1-46d7-a061-26f8027a6eca",
 		"prefix": "2.",
-		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen.",
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-\/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen.",
 		"niveau_id": []
 	},
 	{
@@ -9354,7 +9354,7 @@
 	{
 		"id": "09905779-9b5d-43e8-88fe-6126dd121ad6",
 		"prefix": "21.",
-		"title": "De kandidaat kan de ontwikkeling van kennis en ideeën over de bouw en geschiedenis van het zonnestelsel en heelal beschrijven.",
+		"title": "De kandidaat kan de ontwikkeling van kennis en idee\u00ebn over de bouw en geschiedenis van het zonnestelsel en heelal beschrijven.",
 		"niveau_id": []
 	},
 	{
@@ -9523,7 +9523,7 @@
 	{
 		"id": "78b6c732-11ef-44a8-9687-b5cc28bd9a4b",
 		"prefix": "1.",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van aardrijkskunde in de maatschappij.",
+		"title": "De kandidaat kan zich ori\u00ebnteren op de eigen loopbaan en het belang van aardrijkskunde in de maatschappij.",
 		"niveau_id": []
 	},
 	{
@@ -9565,7 +9565,7 @@
 	{
 		"id": "49e5add2-2dee-45d4-8df0-be0a55b9eb01",
 		"prefix": "3.",
-		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: eenvoudig aardrijkskundig onderzoek van beperkte omvang in de eigen omgeving uitvoeren over thematieken die aansluiten bij 'de inhouden van de exameneenheden K/4 tot en met K/9.",
+		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: eenvoudig aardrijkskundig onderzoek van beperkte omvang in de eigen omgeving uitvoeren over thematieken die aansluiten bij 'de inhouden van de exameneenheden K\/4 tot en met K\/9.",
 		"niveau_id": []
 	},
 	{

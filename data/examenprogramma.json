@@ -249,7 +249,7 @@
 	},
 	{
 		"id": "ddab8ccb-30e2-4075-b0e7-0b2eb526ef28",
-		"title": "Examenprogramma Nederlandse taal en literatuur havo/vwo",
+		"title": "Examenprogramma Nederlandse taal en literatuur havo\/vwo",
 		"examenprogramma_vakleergebied_id": [
 			"884ade07-ac8d-4995-88f2-8559ec4f3f45"
 		],
@@ -364,7 +364,7 @@
 	},
 	{
 		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
-		"title": "Examenprogramma moderne vreemde talen en literatuur havo/vwo",
+		"title": "Examenprogramma moderne vreemde talen en literatuur havo\/vwo",
 		"examenprogramma_vakleergebied_id": [
 			"d16dd0b1-7779-4724-9d2b-804746c42e7d",
 			"b61cb702-1d9d-462f-96fd-85eb39922e8f",
