@@ -267,6 +267,50 @@
 					]
 				}
 			}
+		},
+		"allEntities" : {
+			"properties" : {
+				"examenprogramma_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma"
+				},
+				"examenprogramma_body_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_body"
+				},
+				"examenprogramma_kop4_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_kop4"
+				},
+				"examenprogramma_kop3_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_kop3"
+				},
+				"examenprogramma_kop2_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_kop2"
+				},
+				"examenprogramma_kop1_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_kop1"
+				},
+				"examenprogramma_domein_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_domein"
+				},
+				"examenprogramma_subdomein_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_subdomein"
+				},
+				"examenprogramma_eindterm_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_eindterm"
+				},
+				"examenprogramma_vakleergebied_id" : {
+					"allOf": [ {"$ref": "#/definitions/uuidArray"} ],
+					"itemTypeReference": "#/definitions/examenprogramma_vakleergebied"
+				}
+			}
 		}
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json",
