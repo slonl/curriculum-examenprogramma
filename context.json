@@ -272,43 +272,63 @@
 			"properties" : {
 				"examenprogramma_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma"
+					}
 				},
 				"examenprogramma_body_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_body"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_body"
+					}
 				},
 				"examenprogramma_kop4_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_kop4"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_kop4"
+					}
 				},
 				"examenprogramma_kop3_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_kop3"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_kop3"
+					}
 				},
 				"examenprogramma_kop2_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_kop2"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_kop2"
+					}
 				},
 				"examenprogramma_kop1_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_kop1"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_kop1"
+					}
 				},
 				"examenprogramma_domein_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_domein"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_domein"
+					}
 				},
 				"examenprogramma_subdomein_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_subdomein"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_subdomein"
+					}
 				},
 				"examenprogramma_eindterm_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_eindterm"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_eindterm"
+					}
 				},
 				"examenprogramma_vakleergebied_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
-					"itemTypeReference": "#/definitions/examenprogramma_vakleergebied"
+					"items": {
+						"itemTypeReference": "#/definitions/examenprogramma_vakleergebied"
+					}
 				}
 			}
 		}
