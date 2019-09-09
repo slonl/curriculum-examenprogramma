@@ -3,125 +3,135 @@
 		"id": "00d3350b-a9fa-489c-95a0-09c5a50c2bcd",
 		"title": "Wiskunde",
 		"vak_id": [
-			"4af9cbaf-0ae4-463c-9682-f37e4e119df1"
+			"12209d8b-24d3-440a-8e2e-e85bfebc1e13"
 		]
 	},
 	{
 		"id": "228546db-a332-4a29-8f84-31f62711f62c",
-		"title": "Wiskunde D"
+		"title": "Wiskunde D",
+		"vak_id": [
+			"6be72775-5689-4aa4-bb5a-38899b174915"
+		]
 	},
 	{
 		"id": "293dc6a7-785b-435a-b242-15896e8185ad",
 		"title": "Wiskunde C",
 		"vak_id": [
-			"9f73edc1-18c2-438e-9032-bb47161f61c8"
+			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
 		]
 	},
 	{
 		"id": "7485caa3-bf15-43e1-aa9c-2cd69437967b",
 		"title": "Wiskunde B",
 		"vak_id": [
-			"5cad867b-0993-427a-8d93-d563560750e6"
+			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
 		]
 	},
 	{
 		"id": "e8e0d8d5-c987-4f72-91d7-1c4dcca79c56",
 		"title": "Wiskunde A",
 		"vak_id": [
-			"db155855-3f9e-4fe6-a8a5-dff11a09e6fe"
+			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
 		]
 	},
 	{
 		"id": "ae188199-a3e9-414e-81bd-d50005a89fab",
 		"title": "Scheikunde",
 		"vak_id": [
-			"c3fb6e49-027e-4923-8cae-65c6ae9f0b34"
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
 		]
 	},
 	{
 		"id": "a993176b-86aa-4ec0-83a0-c624d221a714",
-		"title": "Natuur, leven en technologie"
+		"title": "Natuur, leven en technologie",
+		"vak_id": [
+			"956d0d86-90f3-443b-a418-52fd9b912661"
+		]
 	},
 	{
 		"id": "884ade07-ac8d-4995-88f2-8559ec4f3f45",
 		"title": "Nederlandse taal",
 		"vak_id": [
-			"76c3ddb2-fe58-43a1-b911-595e9fac42f4"
+			"96b622d6-264d-4f7a-9875-681ded824e21"
 		]
 	},
 	{
 		"id": "75b23052-7756-4a6e-8528-f5d0b651284e",
 		"title": "Exacte vakken",
 		"vak_id": [
-			"0f8319b4-54b7-4b60-badb-f8412b034261"
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
 		]
 	},
 	{
 		"id": "18e19030-008a-4c65-bad2-981c84ee1c0b",
 		"title": "Natuurkunde",
 		"vak_id": [
-			"0f8319b4-54b7-4b60-badb-f8412b034261"
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
 		]
 	},
 	{
 		"id": "cd6d7423-f3c6-4a9b-a5b2-69e007e39bf2",
 		"title": "Natuur- en scheikunde II",
 		"vak_id": [
-			"3291332b-ec61-4fee-9055-80a081578e03"
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8",
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
 		]
 	},
 	{
 		"id": "6e5e93ba-56ba-4c57-a413-86431e035685",
 		"title": "NASK 1 Natuur- en scheikunde",
 		"vak_id": [
-			"3291332b-ec61-4fee-9055-80a081578e03"
+			"b362c478-90c9-45ac-855a-79421d23ed07"
 		]
 	},
 	{
 		"id": "d16dd0b1-7779-4724-9d2b-804746c42e7d",
 		"title": "Duits",
 		"vak_id": [
-			"495f2d60-f9e8-4f0f-b442-af5b2cccf612"
+			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
 		]
 	},
 	{
 		"id": "b61cb702-1d9d-462f-96fd-85eb39922e8f",
 		"title": "Frans",
 		"vak_id": [
-			"e4f9cb6c-4529-419b-8f71-f12ec3e42514"
+			"f851676e-b541-42db-986a-5c468974f65e"
 		]
 	},
 	{
 		"id": "117347d0-400f-4107-9f60-7395e2d0a422",
 		"title": "Engels",
 		"vak_id": [
-			"beff9f00-2618-425f-9fd1-b8450b17d38e"
+			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		]
 	},
 	{
 		"id": "a9afbab8-4bda-4729-a8eb-cacb496d8bb3",
 		"title": "Management en Organisatie",
 		"vak_id": [
-			"fd3988c5-9648-4c39-9122-93a7260c8bbe"
+			"8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
 		]
 	},
 	{
 		"id": "87734652-ceeb-4208-a1ce-ccd858a256ec",
 		"title": "Maatschappijwetenschappen",
 		"vak_id": [
-			"04f6fd49-a81d-4142-9eac-66502c87f744"
+			"b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
 		]
 	},
 	{
 		"id": "4e79cf32-55ab-4577-8b90-54f3ba115d47",
 		"title": "Maatschappijleer",
 		"vak_id": [
-			"59d872b6-3588-4798-a1da-e5fdb1e48f7b"
+			"ef5159b3-ead9-4a86-9324-e80cd867856c"
 		]
 	},
 	{
 		"id": "f4250784-8d22-4f97-ba90-328d23b28568",
-		"title": "Maatschappijkunde"
+		"title": "Maatschappijkunde",
+		"vak_id": [
+			"b4459aa1-0dbb-409d-a675-8ca914234028"
+		]
 	},
 	{
 		"id": "3da32d3c-2814-48fe-9889-95cf1d87e55d",
@@ -138,35 +148,35 @@
 		"id": "b302a70d-3892-4265-b693-048381698f2a",
 		"title": "Geschiedenis",
 		"vak_id": [
-			"2ab7d448-145a-44bd-8b13-c1ff08030d60"
+			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		]
 	},
 	{
 		"id": "9dad5b12-f1ba-4bf8-b438-56b8cb074076",
 		"title": "Filosofie",
 		"vak_id": [
-			"d35b903f-1598-4bdd-a2fa-8aba854df762"
+			"15292864-cba8-4af5-90ef-da51cb2d22e1"
 		]
 	},
 	{
 		"id": "86d730ae-83ac-4072-b06d-77a046c8a388",
 		"title": "Filosofie",
 		"vak_id": [
-			"d35b903f-1598-4bdd-a2fa-8aba854df762"
+			"15292864-cba8-4af5-90ef-da51cb2d22e1"
 		]
 	},
 	{
 		"id": "2fc4c045-3204-415b-9510-02c7292c323f",
 		"title": "Economie",
 		"vak_id": [
-			"696f3880-46f4-4317-8229-807791f303be"
+			"8755f202-3f28-405d-929e-990ee4fdc521"
 		]
 	},
 	{
 		"id": "6ad71686-b220-4f19-8884-21384b2066ca",
 		"title": "Economie",
 		"vak_id": [
-			"696f3880-46f4-4317-8229-807791f303be"
+			"8755f202-3f28-405d-929e-990ee4fdc521"
 		]
 	},
 	{
@@ -180,14 +190,14 @@
 		"id": "d2e1f9ed-044a-49f7-9356-669d2ab70287",
 		"title": "Biologie",
 		"vak_id": [
-			"303d322e-3f70-49ec-964d-885339b7a2a1"
+			"41dd7292-3cce-411b-8097-11db8c875a89"
 		]
 	},
 	{
 		"id": "fc72a202-d64f-4d7c-b194-7e02150b44c6",
 		"title": "Biologie",
 		"vak_id": [
-			"303d322e-3f70-49ec-964d-885339b7a2a1"
+			"41dd7292-3cce-411b-8097-11db8c875a89"
 		]
 	},
 	{
@@ -202,35 +212,35 @@
 		"id": "f030652c-eeb3-4405-919c-9e69c778000d",
 		"title": "Beeldende vorming",
 		"vak_id": [
-			"a47e2314-bb11-4846-bd77-8c58e400ae5f"
+			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
 		]
 	},
 	{
 		"id": "bc250773-e251-4084-bfe4-0a406c769bc4",
 		"title": "Algemene natuurwetenschappen",
 		"vak_id": [
-			"3b49e7f7-00cc-47ad-8403-32adb3ec31ee"
+			"182462b2-662f-42e5-8464-f9075afee3ba"
 		]
 	},
 	{
 		"id": "748a73dd-9451-4e58-ae04-596b41e2f9de",
 		"title": "Algemene natuurwetenschappen",
 		"vak_id": [
-			"3b49e7f7-00cc-47ad-8403-32adb3ec31ee"
+			"182462b2-662f-42e5-8464-f9075afee3ba"
 		]
 	},
 	{
 		"id": "2b25a0dc-3c5c-413f-93c9-c603aa2186d5",
 		"title": "Aardrijkskunde",
 		"vak_id": [
-			"cff7c64e-d3d3-4421-824a-7b1297759468"
+			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		]
 	},
 	{
 		"id": "2c3e08b2-6123-4a79-bbee-8150100affc0",
 		"title": "Aardrijkskunde",
 		"vak_id": [
-			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
+			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		]
 	}
 ]
