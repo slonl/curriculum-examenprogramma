@@ -1,7 +1,10 @@
 [
 	{
 		"id": "00d3350b-a9fa-489c-95a0-09c5a50c2bcd",
-		"title": "Wiskunde"
+		"title": "Wiskunde",
+		"vak_id": [
+			"4af9cbaf-0ae4-463c-9682-f37e4e119df1"
+		]
 	},
 	{
 		"id": "228546db-a332-4a29-8f84-31f62711f62c",
@@ -9,19 +12,31 @@
 	},
 	{
 		"id": "293dc6a7-785b-435a-b242-15896e8185ad",
-		"title": "Wiskunde C"
+		"title": "Wiskunde C",
+		"vak_id": [
+			"9f73edc1-18c2-438e-9032-bb47161f61c8"
+		]
 	},
 	{
 		"id": "7485caa3-bf15-43e1-aa9c-2cd69437967b",
-		"title": "Wiskunde B"
+		"title": "Wiskunde B",
+		"vak_id": [
+			"5cad867b-0993-427a-8d93-d563560750e6"
+		]
 	},
 	{
 		"id": "e8e0d8d5-c987-4f72-91d7-1c4dcca79c56",
-		"title": "Wiskunde A"
+		"title": "Wiskunde A",
+		"vak_id": [
+			"db155855-3f9e-4fe6-a8a5-dff11a09e6fe"
+		]
 	},
 	{
 		"id": "ae188199-a3e9-414e-81bd-d50005a89fab",
-		"title": "Scheikunde"
+		"title": "Scheikunde",
+		"vak_id": [
+			"c3fb6e49-027e-4923-8cae-65c6ae9f0b34"
+		]
 	},
 	{
 		"id": "a993176b-86aa-4ec0-83a0-c624d221a714",
@@ -29,47 +44,80 @@
 	},
 	{
 		"id": "884ade07-ac8d-4995-88f2-8559ec4f3f45",
-		"title": "Nederlandse taal"
+		"title": "Nederlandse taal",
+		"vak_id": [
+			"76c3ddb2-fe58-43a1-b911-595e9fac42f4"
+		]
 	},
 	{
 		"id": "75b23052-7756-4a6e-8528-f5d0b651284e",
-		"title": "Exacte vakken"
+		"title": "Exacte vakken",
+		"vak_id": [
+			"0f8319b4-54b7-4b60-badb-f8412b034261"
+		]
 	},
 	{
 		"id": "18e19030-008a-4c65-bad2-981c84ee1c0b",
-		"title": "Natuurkunde"
+		"title": "Natuurkunde",
+		"vak_id": [
+			"0f8319b4-54b7-4b60-badb-f8412b034261"
+		]
 	},
 	{
 		"id": "cd6d7423-f3c6-4a9b-a5b2-69e007e39bf2",
-		"title": "Natuur- en scheikunde II"
+		"title": "Natuur- en scheikunde II",
+		"vak_id": [
+			"3291332b-ec61-4fee-9055-80a081578e03"
+		]
 	},
 	{
 		"id": "6e5e93ba-56ba-4c57-a413-86431e035685",
-		"title": "NASK 1 Natuur- en scheikunde"
+		"title": "NASK 1 Natuur- en scheikunde",
+		"vak_id": [
+			"3291332b-ec61-4fee-9055-80a081578e03"
+		]
 	},
 	{
 		"id": "d16dd0b1-7779-4724-9d2b-804746c42e7d",
-		"title": "Duits"
+		"title": "Duits",
+		"vak_id": [
+			"495f2d60-f9e8-4f0f-b442-af5b2cccf612"
+		]
 	},
 	{
 		"id": "b61cb702-1d9d-462f-96fd-85eb39922e8f",
-		"title": "Frans"
+		"title": "Frans",
+		"vak_id": [
+			"e4f9cb6c-4529-419b-8f71-f12ec3e42514"
+		]
 	},
 	{
 		"id": "117347d0-400f-4107-9f60-7395e2d0a422",
-		"title": "Engels"
+		"title": "Engels",
+		"vak_id": [
+			"beff9f00-2618-425f-9fd1-b8450b17d38e"
+		]
 	},
 	{
 		"id": "a9afbab8-4bda-4729-a8eb-cacb496d8bb3",
-		"title": "Management en Organisatie"
+		"title": "Management en Organisatie",
+		"vak_id": [
+			"fd3988c5-9648-4c39-9122-93a7260c8bbe"
+		]
 	},
 	{
 		"id": "87734652-ceeb-4208-a1ce-ccd858a256ec",
-		"title": "Maatschappijwetenschappen"
+		"title": "Maatschappijwetenschappen",
+		"vak_id": [
+			"04f6fd49-a81d-4142-9eac-66502c87f744"
+		]
 	},
 	{
 		"id": "4e79cf32-55ab-4577-8b90-54f3ba115d47",
-		"title": "Maatschappijleer"
+		"title": "Maatschappijleer",
+		"vak_id": [
+			"59d872b6-3588-4798-a1da-e5fdb1e48f7b"
+		]
 	},
 	{
 		"id": "f4250784-8d22-4f97-ba90-328d23b28568",
@@ -81,39 +129,66 @@
 	},
 	{
 		"id": "27caac4b-314e-4802-b80d-fad91a014ddd",
-		"title": "Informatica"
+		"title": "Informatica",
+		"vak_id": [
+			"2845473d-ce18-450a-9135-6738abbdc129"
+		]
 	},
 	{
 		"id": "b302a70d-3892-4265-b693-048381698f2a",
-		"title": "Geschiedenis"
+		"title": "Geschiedenis",
+		"vak_id": [
+			"2ab7d448-145a-44bd-8b13-c1ff08030d60"
+		]
 	},
 	{
 		"id": "9dad5b12-f1ba-4bf8-b438-56b8cb074076",
-		"title": "Filosofie"
+		"title": "Filosofie",
+		"vak_id": [
+			"d35b903f-1598-4bdd-a2fa-8aba854df762"
+		]
 	},
 	{
 		"id": "86d730ae-83ac-4072-b06d-77a046c8a388",
-		"title": "Filosief"
+		"title": "Filosofie",
+		"vak_id": [
+			"d35b903f-1598-4bdd-a2fa-8aba854df762"
+		]
 	},
 	{
 		"id": "2fc4c045-3204-415b-9510-02c7292c323f",
-		"title": "Economie"
+		"title": "Economie",
+		"vak_id": [
+			"696f3880-46f4-4317-8229-807791f303be"
+		]
 	},
 	{
 		"id": "6ad71686-b220-4f19-8884-21384b2066ca",
-		"title": "Economie"
+		"title": "Economie",
+		"vak_id": [
+			"696f3880-46f4-4317-8229-807791f303be"
+		]
 	},
 	{
 		"id": "9090b97a-6212-45d6-be99-50edf2fe6eb0",
-		"title": "Chinees"
+		"title": "Chinees",
+		"vak_id": [
+			"1f7aa29f-38d8-4dab-91db-3be52669951f"
+		]
 	},
 	{
 		"id": "d2e1f9ed-044a-49f7-9356-669d2ab70287",
-		"title": "Biologie"
+		"title": "Biologie",
+		"vak_id": [
+			"303d322e-3f70-49ec-964d-885339b7a2a1"
+		]
 	},
 	{
 		"id": "fc72a202-d64f-4d7c-b194-7e02150b44c6",
-		"title": "Biologie"
+		"title": "Biologie",
+		"vak_id": [
+			"303d322e-3f70-49ec-964d-885339b7a2a1"
+		]
 	},
 	{
 		"id": "4c227e7c-892e-4aeb-8310-ef828ed8edb0",
@@ -125,18 +200,30 @@
 	},
 	{
 		"id": "f030652c-eeb3-4405-919c-9e69c778000d",
-		"title": "Beeldende vorming"
+		"title": "Beeldende vorming",
+		"vak_id": [
+			"a47e2314-bb11-4846-bd77-8c58e400ae5f"
+		]
 	},
 	{
 		"id": "bc250773-e251-4084-bfe4-0a406c769bc4",
-		"title": "Algemene natuurwetenschappen"
+		"title": "Algemene natuurwetenschappen",
+		"vak_id": [
+			"3b49e7f7-00cc-47ad-8403-32adb3ec31ee"
+		]
 	},
 	{
 		"id": "748a73dd-9451-4e58-ae04-596b41e2f9de",
-		"title": "Algemene natuurwetenschappen"
+		"title": "Algemene natuurwetenschappen",
+		"vak_id": [
+			"3b49e7f7-00cc-47ad-8403-32adb3ec31ee"
+		]
 	},
 	{
 		"id": "2b25a0dc-3c5c-413f-93c9-c603aa2186d5",
-		"title": "Aardrijkskunde"
+		"title": "Aardrijkskunde",
+		"vak_id": [
+			"cff7c64e-d3d3-4421-824a-7b1297759468"
+		]
 	}
 ]
