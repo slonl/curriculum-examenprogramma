@@ -2675,7 +2675,13 @@
 		"id": "c2823fa8-3f80-4f5b-ac26-ee3c7d736a68",
 		"prefix": "3.",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.",
-		"niveau_id": []
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE"
 	},
 	{
 		"id": "1baf23dc-4a5b-45db-b1ee-70203294f115",
@@ -5439,7 +5445,10 @@
 		"id": "9b0a1b0e-00c6-4899-b819-256b6aa4b347",
 		"prefix": "16.",
 		"title": "De kandidaat kan eenvoudige toepassingen van bestaande computerprogramma's aanwenden ten behoeve van de informatievoorziening van organisaties.",
-		"niveau_id": []
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE"
 	},
 	{
 		"id": "da81042a-d65d-456b-98cb-2bf8c88866aa",
@@ -7918,7 +7927,11 @@
 		"id": "219402f3-9ab3-44e2-a3ea-0f5a44d679b4",
 		"prefix": "15.",
 		"title": "De kandidaat kan een maatschappelijk vraagstuk gerelateerd aan de exameneenheden analyseren door verbanden tussen de thema's uit de eindtermen te leggen en door de benaderingswijze van maatschappijkunde erop toe te passen.",
-		"niveau_id": []
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE"
 	},
 	{
 		"id": "1dd00f79-60ba-4521-977a-69be54b7eddf",
@@ -9670,7 +9683,14 @@
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
 			"ff1fa59a-df8d-4750-93b3-c19c23fcc816"
-		]
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE"
 	},
 	{
 		"id": "4d45b191-15d9-4a82-942e-b88a0144fb58",
@@ -11570,7 +11590,13 @@
 		"id": "ce26a604-41d7-4033-94d0-e9716bb288c6",
 		"prefix": "6.",
 		"title": "De kandidaat kan adequaat reageren in veel voorkomende sociale contacten, zoals begroeten.",
-		"niveau_id": []
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "SE"
 	},
 	{
 		"id": "afd64d33-5d50-4e27-94be-abd81b734701",
@@ -11758,7 +11784,10 @@
 		"id": "0c6dfcff-8944-41a8-ab6d-e9d7c2ea6c27",
 		"prefix": "8.",
 		"title": "De kandidaat heeft inzicht in de sociale, economische en financi\u00eble functies van de overheid en kan dit inzicht toepassen in een gegeven casus.",
-		"niveau_id": []
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
 	},
 	{
 		"id": "bbbaa1ac-2489-412f-9e87-1d936bd7a37a",
