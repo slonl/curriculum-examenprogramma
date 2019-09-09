@@ -342,5 +342,47 @@
 			"404a64a1-9880-4495-8b00-a4e77f5e7269"
 		],
 		"examenprogramma_body_id": []
+	},
+	{
+		"id": "01e7a23f-7ee0-41dc-9a16-35e084491ece",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"ccfaa937-4c31-40d4-99c3-903af076a368",
+			"2d0f6d0b-c8b3-4fd1-b636-c5e0018d1fec",
+			"32efb5e5-b740-44b6-9402-03af8fb14ae9",
+			"5893352c-4f46-42fb-8fbc-488d871efeed",
+			"b0de510e-3ac2-4cb2-802f-e46f69ef9385",
+			"e288278e-13ec-4d54-81fb-dcf39114fdfc"
+		]
+	},
+	{
+		"id": "45b20497-855f-43a0-9fb1-d7a54ff87c27",
+		"title": "Het centraal examen",
+		"tag_id": [
+			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"05820552-d56d-41ab-99ac-f4a3d3744c10",
+			"e6af7d85-be26-4e53-aeab-03c4859a1adc",
+			"1a7154f7-1e1c-4e71-b052-6e8d9c0031d3"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "a9234709-b275-4179-a40b-2c376f6f2f67",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b"
+		],
+		"ce_se": "SE"
 	}
 ]

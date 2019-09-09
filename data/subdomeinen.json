@@ -4916,5 +4916,69 @@
 			"8506f5e1-8216-492a-a865-6ab3129ce074"
 		],
 		"ce_se": "SE"
+	},
+	{
+		"id": "013942a1-5d37-4a13-abcc-53e2b0a9641c",
+		"title": "Subdomein B1: Gebieden op de grens van arm en rijk",
+		"examenprogramma_eindterm_id": [
+			"ae9ecd4a-b790-4873-9719-09c40885eecc",
+			"ae73724c-f79c-457e-b531-630f69aec7f4"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "583816e1-0ad5-46a0-a29e-c0551e8cd714",
+		"title": "Subdomein B2: Samenhangen en verschillen in de wereld",
+		"examenprogramma_eindterm_id": [
+			"7db4405a-ea3d-48f0-a1f1-5a2330889c74",
+			"54bf972b-fb44-4f5e-ae7b-f37845522ded"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "07653563-5e43-4572-8e4e-dc2ff894b0a6",
+		"title": "Subdomein B3: Mondiale processen en lokale effecten",
+		"examenprogramma_eindterm_id": [
+			"26ceb01f-de8e-44ab-94fb-ed2ff2cd3eb5",
+			"544aff5d-8c95-431e-bd0b-dfc818ceed59"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "3afb65d6-2659-487d-a8c5-089f2dc85ff2",
+		"title": "Subdomein C1: Samenhangen en verschillen op regionaal niveau",
+		"examenprogramma_eindterm_id": [
+			"01153d25-9be1-4825-a4e2-6d2f66cd0958",
+			"2dac07a9-7b21-4f2e-ae72-7d24f886d83a"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "5712aa5d-268c-4c7a-906a-592d82415746",
+		"title": "Subdomein C3: De aarde als natuurlijk systeem en lokale effecten",
+		"examenprogramma_eindterm_id": [
+			"4e7a43e1-6e42-4ad9-b8b8-3bfbedfa7311",
+			"40c5295b-fe34-4e61-b423-5d9a068818c6"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "a8fb6fa8-0ae2-4d13-bfa9-5c3f42b84569",
+		"title": "Subdomein C2: Samenhangen en verschillen op aarde",
+		"examenprogramma_eindterm_id": [
+			"8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
+			"3e445646-70d4-4db4-ae6b-f89e11b38913"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "e30b7a9e-6611-4f62-bfbb-cde880052464",
+		"title": "Subdomein D1: Gebiedskenmerken",
+		"examenprogramma_eindterm_id": [
+			"d18be974-1bb8-4839-8ca2-1327183fd180",
+			"8b9acfb7-9adf-4e92-84d2-20868647ec9e",
+			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
+		],
+		"ce_se": "CE"
 	}
 ]

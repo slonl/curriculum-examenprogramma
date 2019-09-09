@@ -225,5 +225,12 @@
 		"vak_id": [
 			"cff7c64e-d3d3-4421-824a-7b1297759468"
 		]
+	},
+	{
+		"id": "2c3e08b2-6123-4a79-bbee-8150100affc0",
+		"title": "Aardrijkskunde",
+		"vak_id": [
+			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
+		]
 	}
 ]

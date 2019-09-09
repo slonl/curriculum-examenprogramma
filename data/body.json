@@ -2508,5 +2508,116 @@
 		"tag_id": [
 			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
 		]
+	},
+	{
+		"id": "df53f8a0-67fa-46c9-93f9-4dbec6befd06",
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		]
+	},
+	{
+		"id": "ccfaa937-4c31-40d4-99c3-903af076a368",
+		"prefix": "A.",
+		"title": "Domein A: Vaardigheden",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		]
+	},
+	{
+		"id": "2d0f6d0b-c8b3-4fd1-b636-c5e0018d1fec",
+		"prefix": "B.",
+		"title": "Domein B: Wereld",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		]
+	},
+	{
+		"id": "32efb5e5-b740-44b6-9402-03af8fb14ae9",
+		"prefix": "C.",
+		"title": "Domein C: Aarde",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		]
+	},
+	{
+		"id": "5893352c-4f46-42fb-8fbc-488d871efeed",
+		"prefix": "D.",
+		"title": "Domein D: Ontwikkelingsland",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		]
+	},
+	{
+		"id": "b0de510e-3ac2-4cb2-802f-e46f69ef9385",
+		"prefix": "E.",
+		"title": "Domein E: Leefomgeving",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		]
+	},
+	{
+		"id": "e288278e-13ec-4d54-81fb-dcf39114fdfc",
+		"prefix": "F.",
+		"title": "Domeind F: Ori\u00ebntatie op studie en beroep",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		]
+	},
+	{
+		"id": "05820552-d56d-41ab-99ac-f4a3d3744c10",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.",
+		"tag_id": [
+			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "e6af7d85-be26-4e53-aeab-03c4859a1adc",
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"tag_id": [
+			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "1a7154f7-1e1c-4e71-b052-6e8d9c0031d3",
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
+		"tag_id": [
+			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "421a3831-11da-4c89-b566-b236af75d2cd",
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "e653076d-f71e-457c-ad45-0c6281e5a21b",
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "82374714-2092-48fa-b780-8382ccbac33e",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"ce_se": "SE"
 	}
 ]

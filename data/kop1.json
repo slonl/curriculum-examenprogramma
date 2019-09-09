@@ -318,5 +318,17 @@
 			"a06247dc-b2fd-4c0c-bf9a-21e75ecf9c77",
 			"36e13559-2f6b-42d7-b0e7-f9f2c1858b78"
 		]
+	},
+	{
+		"id": "87b1e31a-077c-4579-8e1f-89db3bf73d4c",
+		"title": "Het eindexamen",
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "3ee8e911-7098-46df-8b17-852d0f6bc615",
+		"title": "De examenstof",
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": []
 	}
 ]

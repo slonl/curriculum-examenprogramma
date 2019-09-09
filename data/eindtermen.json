@@ -9679,16 +9679,15 @@
 		"id": "2f6610e3-640b-4afd-b750-1b120f36279a",
 		"prefix": "3.",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
-		"niveau_id": [],
-		"examenprogramma_subdomein_id": [],
-		"examenprogramma_eindterm_id": [
-			"ff1fa59a-df8d-4750-93b3-c19c23fcc816"
-		],
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"examenprogramma_subdomein_id": [],
+		"examenprogramma_eindterm_id": [
+			"ff1fa59a-df8d-4750-93b3-c19c23fcc816"
 		],
 		"ce_se": "CE"
 	},
@@ -15448,6 +15447,240 @@
 		"title": "De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
+		"prefix": "1.",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "dbc378e5-07e8-4aac-9959-764335da89ff",
+		"prefix": "1.",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren, geografische vragen herkennen en zelf formuleren.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
+		"prefix": "1.",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "565296a7-c003-4031-bf93-6473d635bc25",
+		"prefix": "2.",
+		"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren op basis van een geografische onderzoeksvraag en een gestructureerd plan van aanpak.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "dd1bcdaf-1773-46a9-826f-f3180ca323b6",
+		"prefix": "2.",
+		"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren met gebruikmaking van de geografische werkwijzen en primaire data.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "b51a9ef7-ca8c-4586-8041-96a015fa90de",
+		"prefix": "2.",
+		"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren zo mogelijk aansluitend op onderdelen van het examenprogramma, met name de domeinen B, C en E.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "ae9ecd4a-b790-4873-9719-09c40885eecc",
+		"prefix": "3.",
+		"title": "De kandidaat kan de situatie in een nader door de school te kiezen gebied waar \u00e9\u00e9n of meer rijke landen en \u00e9\u00e9n of meer arme landen aan elkaar grenzen, beschrijven en analyseren. Het betreft economische, demografische en sociaal-culturele gebiedskenmerken en de relaties daartussen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "ae73724c-f79c-457e-b531-630f69aec7f4",
+		"prefix": "3.",
+		"title": "De kandidaat kan de situatie in een nader door de school te kiezen gebied waar \u00e9\u00e9n of meer rijke landen en \u00e9\u00e9n of meer arme landen aan elkaar grenzen, beschrijven en analyseren. Het betreft de (grensoverschrijdende) relaties tussen beide soorten landen en de gunstige en ongunstige effecten daarvan.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "7db4405a-ea3d-48f0-a1f1-5a2330889c74",
+		"prefix": "4.",
+		"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld mondiale spreidings- en relatiepatronen van economische, demografische en sociaal-culturele verschijnselen beschrijven en in hoofdlijnen verklaren.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "54bf972b-fb44-4f5e-ae7b-f37845522ded",
+		"prefix": "4.",
+		"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld  het proces van mondialisering beschrijven, herkennen en in hoofdlijnen verklaren.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "26ceb01f-de8e-44ab-94fb-ed2ff2cd3eb5",
+		"prefix": "5.",
+		"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondialisering uitwerkt in een lokale context. Hij betrekt hierbij sociaal- en fysisch-geografische aspecten.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "544aff5d-8c95-431e-bd0b-dfc818ceed59",
+		"prefix": "5.",
+		"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondialisering uitwerkt in een lokale context. Hij betrekt hierbij actoren in de lokale context.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "01153d25-9be1-4825-a4e2-6d2f66cd0958",
+		"prefix": "6.",
+		"title": "De kandidaat kan voor een nader door de school te kiezen fysischgeografische regio spreidingspatronen van natuurlijke en landschappelijke verschijnselen beschrijven.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "2dac07a9-7b21-4f2e-ae72-7d24f886d83a",
+		"prefix": "6.",
+		"title": "De kandidaat kan voor een nader door de school te kiezen fysischgeografische regio relaties leggen tussen natuurlijke processen en landschappelijke verschijnselen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "4e7a43e1-6e42-4ad9-b8b8-3bfbedfa7311",
+		"prefix": "8.",
+		"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondiale natuurruimtelijke processen uitwerken in een lokale context. Hij betrekt hierbij fysisch- en sociaal-geografische aspecten.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "40c5295b-fe34-4e61-b423-5d9a068818c6",
+		"prefix": "8.",
+		"title": "De kandidaat kan aan de hand van een nader door de school te kiezen voorbeeld aangeven en beoordelen hoe mondiale natuurruimtelijke processen uitwerken in een lokale context. Hij betreft hierbij actoren in de lokale context.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
+		"prefix": "7.",
+		"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde natuurlijke verschijnselen aan het aardoppervlak en in de atmosfeer beschrijven, herkennen en verklaren, rekening houdend met verschillende tijden ruimteschalen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "3e445646-70d4-4db4-ae6b-f89e11b38913",
+		"prefix": "7.",
+		"title": "De kandidaat kan met betrekking tot samenhangen en verschillen op aarde de kenmerken van de landschapszones op aarde en de veranderingen hierin beschrijven, analyseren en aan elkaar relateren.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "d18be974-1bb8-4839-8ca2-1327183fd180",
+		"prefix": "9.",
+		"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "8b9acfb7-9adf-4e92-84d2-20868647ec9e",
+		"prefix": "9.",
+		"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft sociaal-geografische en fysisch-geografische kenmerken van het betreffende ontwikkelingsland.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
+		"prefix": "9.",
+		"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft de sociaal-economische positie van het betreffende ontwikkelingsland in de macroregio \u00e9n in de wereld.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "812e3b69-d941-4ccc-9479-e00acc12d71a",
+		"prefix": "10.",
+		"title": "De kandidaat kan actuele vraagstukken in het in subdomein D1 bedoelde ontwikkelingsland beschrijven en analyseren. Het betreft vraagstukken van landdegradatie en milieuverontreiniging.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "0ce37841-7816-4a6e-b3fe-3d48cdb95fde",
+		"prefix": "10.",
+		"title": "De kandidaat kan actuele vraagstukken in het in subdomein D1 bedoelde ontwikkelingsland beschrijven en analyseren. Het betreft conflicten in het betreffende ontwikkelingsland die verband houden met de etnische en culturele diversiteit in het land.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE"
+	},
+	{
+		"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
+		"prefix": "11.",
+		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "c0a6d118-9998-40bb-883a-4ae007397235",
+		"prefix": "11.",
+		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE"
+	},
+	{
+		"id": "baa82feb-2446-4f6b-9158-0ce2cb4c4917",
+		"prefix": "12.",
+		"title": "De kandidaat kan lokale en regionale ruimtelijke vraagstukken beschrijven en analyseren en zich daarover een beargumenteerde mening vormen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"ce_se": "SE"
 	}

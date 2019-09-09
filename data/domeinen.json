@@ -4438,5 +4438,16 @@
 			"86de189a-8a43-4ca7-98e9-0fb453c784ba"
 		],
 		"ce_se": "SE"
+	},
+	{
+		"id": "f142bb65-a9a1-411a-b4c5-ca620e5f93a4",
+		"prefix": "AK\/H",
+		"title": "Domein D: Ontwikkelingsland",
+		"examenprogramma_subdomein_id": [
+			"e30b7a9e-6611-4f62-bfbb-cde880052464",
+			"0c7c505b-f9f5-4fad-8e73-080f20019334"
+		],
+		"examenprogramma_eindterm_id": [],
+		"ce_se": "CE; SE"
 	}
 ]
