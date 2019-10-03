@@ -252,7 +252,7 @@
 	},
 	{
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
-		"title": "Examenprogramma  Nederlandse taal vmbo",
+		"title": "Examenprogramma  Nederlandse taal vmbo test",
 		"examenprogramma_vakleergebied_id": [
 			"884ade07-ac8d-4995-88f2-8559ec4f3f45"
 		],
@@ -272,8 +272,10 @@
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
-		"section": "examenprogramma",
-		"parents": []
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "ddab8ccb-30e2-4075-b0e7-0b2eb526ef28",
@@ -651,7 +653,9 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": "",
-		"dirty": 0
+		"dirty": 0,
+		"section": "examenprogramma",
+		"parents": []
 	},
 	{
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
