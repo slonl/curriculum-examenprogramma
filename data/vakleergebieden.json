@@ -238,9 +238,10 @@
 	},
 	{
 		"id": "2c3e08b2-6123-4a79-bbee-8150100affc0",
-		"title": "Aardrijkskunde",
+		"title": "Examenprogramma aardrijkskunde havo ",
 		"vak_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
-		]
+		],
+		"dirty": 0
 	}
 ]
