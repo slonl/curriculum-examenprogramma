@@ -21,9 +21,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "d8c88680-be2f-467c-b50b-076f6144b444",
@@ -42,9 +40,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "3315f017-4613-401a-abc0-96f7207b6543",
@@ -61,9 +57,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "4758779f-48a8-4876-a491-262ee888cd62",
@@ -83,9 +77,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "ec6f8a9d-e05f-40c4-9078-bf4b7b3cf401",
@@ -103,9 +95,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a4fd8037-b589-42ce-b0ee-3e298fb79ab6"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "b5bf4f0b-8f5d-46a2-aa66-3460e929976e",
@@ -121,9 +111,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "6f5d3c16-1274-4f69-9601-cb96188e1b54",
@@ -141,9 +129,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a92e30dc-e4fa-4f60-8001-e50dbcb5f8b0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0b58d535-ca20-47e4-9f40-3033e291ec6e",
@@ -161,9 +147,7 @@
 		"examenprogramma_kop1_id": [
 			"373a2e7b-d573-4805-86b8-b221595d380e",
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "318c2a68-c57e-48a9-92af-76d402223133",
@@ -183,9 +167,7 @@
 		"examenprogramma_kop1_id": [
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
 		],
-		"dirty": 0,
-		"section": "examenprogramma",
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "37db1897-2916-4c11-8226-a719877d651e",
@@ -206,9 +188,7 @@
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3",
 			"6e3b98e0-1df6-4138-9552-276859588318"
 		],
-		"dirty": 0,
-		"section": "examenprogramma",
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "71393e79-ddd8-4230-95c0-2fb6846fb208",
@@ -226,9 +206,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "b477a5d1-07c5-4028-80c3-3e33cd4ef672",
@@ -246,9 +224,7 @@
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0",
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
@@ -293,9 +269,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9efc5e7d-d1b6-4732-b5c7-18d09c395389"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "611f2494-3499-4809-b28b-204bc405c3dd",
@@ -320,9 +294,7 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": "",
-		"dirty": 0,
-		"section": "examenprogramma",
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "3f3dec2a-a6ad-40c3-9b0e-95e624e1bc9f",
@@ -344,13 +316,11 @@
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		],
-		"dirty": 0,
-		"section": "examenprogramma",
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
-		"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+		"title": "Examenprogramma natuur- en scheikunde II vmbo GL en TL",
 		"examenprogramma_vakleergebied_id": [
 			"cd6d7423-f3c6-4a9b-a5b2-69e007e39bf2"
 		],
@@ -374,12 +344,14 @@
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
-		"section": "examenprogramma",
-		"parents": []
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
-		"title": "Examenprogramma Natuur- en scheikunde 1 vmbo",
+		"title": "Examenprogramma natuur- en scheikunde I vmbo GL en TL",
 		"examenprogramma_vakleergebied_id": [
 			"6e5e93ba-56ba-4c57-a413-86431e035685"
 		],
@@ -404,8 +376,10 @@
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
-		"section": "examenprogramma",
-		"parents": []
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
@@ -425,9 +399,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "b44cba12-6a0c-4579-a818-d781b53a618d",
@@ -446,9 +418,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0685a60b-5833-4da0-8643-a54c206686ae",
@@ -469,9 +439,7 @@
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		],
-		"niveau_id": [],
-		"section": "examenprogramma",
-		"parents": []
+		"niveau_id": []
 	},
 	{
 		"id": "a295b232-d65a-47b5-811b-194dd1d43422",
@@ -491,9 +459,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "75b428a4-c65f-40d7-885a-c87c6b51a57c",
@@ -512,9 +478,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "dd62ec2d-7037-4ff8-9539-c31da2028944",
@@ -531,9 +495,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
@@ -552,9 +514,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "bd4ef329-a3c6-4cbc-b043-17fb8ff85703",
@@ -571,9 +531,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
@@ -596,9 +554,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "ab7b3996-f658-4981-a4cb-0689f00aa24c",
@@ -617,9 +573,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "fddc262e-f971-48a6-9fef-4b0cf4cd3253",
@@ -653,9 +607,7 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": "",
-		"dirty": 0,
-		"section": "examenprogramma",
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
@@ -672,9 +624,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0af05781-3b4e-4137-9f16-cb700db72b88",
@@ -706,9 +656,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "d70f38ff-7cd3-4fb7-921a-78b8e2d4c3ff",
@@ -725,9 +673,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "803fe798-4884-4e69-94b9-fc0364989e95",
@@ -752,9 +698,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
@@ -771,9 +715,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170",
@@ -789,9 +731,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
@@ -816,9 +756,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
@@ -843,9 +781,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"13e59779-c698-40e6-bdcf-1a6a1f71e557"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
@@ -868,9 +804,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "97072d2d-c8c4-4fe8-b30f-a73f5f2d95df",
@@ -895,9 +829,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "71bf2b08-2ab0-4e87-bcb8-166774c361ff",
@@ -916,9 +848,7 @@
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0",
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "92f57200-9ac6-449c-964c-b18c8996df85",
@@ -936,9 +866,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
@@ -967,9 +895,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"f14420ea-abe2-4b84-bf20-9e9cab3565cb"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
@@ -987,9 +913,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "a6e799c4-75f5-45b6-8a71-d2b0e76f1b02",
@@ -1009,9 +933,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
@@ -1031,9 +953,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
@@ -1058,9 +978,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
@@ -1078,9 +996,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "02cf73d4-f026-466d-a20a-78a1b0142fd9",
@@ -1099,13 +1015,11 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "e90b9cf7-b652-4f03-9e87-0a239e98eeab",
-		"title": "Examenprogramma aardrijkskunde ak vwo",
+		"title": "Examenprogramma aardrijkskunde vwo",
 		"examenprogramma_vakleergebied_id": [
 			"2b25a0dc-3c5c-413f-93c9-c603aa2186d5"
 		],
@@ -1121,12 +1035,14 @@
 			"4c6a9ff7-b2a9-433e-a0c4-5636527bff27",
 			"61a7d5ec-5332-4e89-85bf-6c0a561136e5"
 		],
-		"section": "examenprogramma",
-		"parents": []
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "544a0293-a7e3-4f6b-a973-30af7627bdea",
-		"title": "Examenprogramma aardrijkskunde vmbo bb",
+		"title": "Examenprogramma aardrijkskunde vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"2b25a0dc-3c5c-413f-93c9-c603aa2186d5"
 		],
@@ -1152,8 +1068,10 @@
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
-		"section": "examenprogramma",
-		"parents": []
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "5effad33-ae66-4a1b-b610-d6a4f5542e0a",
@@ -1172,9 +1090,7 @@
 		"examenprogramma_kop1_id": [
 			"87b1e31a-077c-4579-8e1f-89db3bf73d4c",
 			"3ee8e911-7098-46df-8b17-852d0f6bc615"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
@@ -1198,9 +1114,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "d8c88680-be2f-467c-b50b-076f6144b444",
@@ -1219,9 +1133,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "3315f017-4613-401a-abc0-96f7207b6543",
@@ -1238,9 +1150,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "4758779f-48a8-4876-a491-262ee888cd62",
@@ -1260,9 +1170,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "ec6f8a9d-e05f-40c4-9078-bf4b7b3cf401",
@@ -1280,9 +1188,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a4fd8037-b589-42ce-b0ee-3e298fb79ab6"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "b5bf4f0b-8f5d-46a2-aa66-3460e929976e",
@@ -1298,9 +1204,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "6f5d3c16-1274-4f69-9601-cb96188e1b54",
@@ -1318,9 +1222,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a92e30dc-e4fa-4f60-8001-e50dbcb5f8b0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0b58d535-ca20-47e4-9f40-3033e291ec6e",
@@ -1338,9 +1240,7 @@
 		"examenprogramma_kop1_id": [
 			"373a2e7b-d573-4805-86b8-b221595d380e",
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "318c2a68-c57e-48a9-92af-76d402223133",
@@ -1360,8 +1260,7 @@
 		"examenprogramma_kop1_id": [
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
 		],
-		"dirty": 0,
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "37db1897-2916-4c11-8226-a719877d651e",
@@ -1382,8 +1281,7 @@
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3",
 			"6e3b98e0-1df6-4138-9552-276859588318"
 		],
-		"dirty": 0,
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "71393e79-ddd8-4230-95c0-2fb6846fb208",
@@ -1401,9 +1299,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "b477a5d1-07c5-4028-80c3-3e33cd4ef672",
@@ -1421,9 +1317,7 @@
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0",
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
@@ -1446,9 +1340,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "ddab8ccb-30e2-4075-b0e7-0b2eb526ef28",
@@ -1466,9 +1358,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9efc5e7d-d1b6-4732-b5c7-18d09c395389"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "611f2494-3499-4809-b28b-204bc405c3dd",
@@ -1493,8 +1383,7 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": "",
-		"dirty": 0,
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "3f3dec2a-a6ad-40c3-9b0e-95e624e1bc9f",
@@ -1516,8 +1405,7 @@
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		],
-		"dirty": 0,
-		"parents": []
+		"dirty": 0
 	},
 	{
 		"id": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
@@ -1544,9 +1432,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
@@ -1574,9 +1460,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
@@ -1596,9 +1480,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "b44cba12-6a0c-4579-a818-d781b53a618d",
@@ -1617,9 +1499,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0685a60b-5833-4da0-8643-a54c206686ae",
@@ -1640,9 +1520,7 @@
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		],
-		"niveau_id": [],
-		"section": "examenprogramma",
-		"parents": []
+		"niveau_id": []
 	},
 	{
 		"id": "a295b232-d65a-47b5-811b-194dd1d43422",
@@ -1662,9 +1540,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "75b428a4-c65f-40d7-885a-c87c6b51a57c",
@@ -1683,9 +1559,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "dd62ec2d-7037-4ff8-9539-c31da2028944",
@@ -1702,9 +1576,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
@@ -1723,9 +1595,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "bd4ef329-a3c6-4cbc-b043-17fb8ff85703",
@@ -1742,9 +1612,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
@@ -1767,9 +1635,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "ab7b3996-f658-4981-a4cb-0689f00aa24c",
@@ -1788,9 +1654,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "fddc262e-f971-48a6-9fef-4b0cf4cd3253",
@@ -1820,9 +1684,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
@@ -1839,9 +1701,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0af05781-3b4e-4137-9f16-cb700db72b88",
@@ -1873,9 +1733,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "d70f38ff-7cd3-4fb7-921a-78b8e2d4c3ff",
@@ -1892,9 +1750,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "803fe798-4884-4e69-94b9-fc0364989e95",
@@ -1919,9 +1775,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
@@ -1938,9 +1792,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170",
@@ -1956,9 +1808,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
@@ -1983,9 +1833,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
@@ -2010,9 +1858,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"13e59779-c698-40e6-bdcf-1a6a1f71e557"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
@@ -2035,9 +1881,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "97072d2d-c8c4-4fe8-b30f-a73f5f2d95df",
@@ -2062,9 +1906,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "71bf2b08-2ab0-4e87-bcb8-166774c361ff",
@@ -2083,9 +1925,7 @@
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0",
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "92f57200-9ac6-449c-964c-b18c8996df85",
@@ -2103,9 +1943,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
@@ -2134,9 +1972,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"f14420ea-abe2-4b84-bf20-9e9cab3565cb"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
@@ -2154,9 +1990,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "a6e799c4-75f5-45b6-8a71-d2b0e76f1b02",
@@ -2176,9 +2010,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
@@ -2198,9 +2030,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
@@ -2225,9 +2055,7 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
@@ -2245,9 +2073,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "02cf73d4-f026-466d-a20a-78a1b0142fd9",
@@ -2266,9 +2092,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "e90b9cf7-b652-4f03-9e87-0a239e98eeab",
@@ -2287,9 +2111,7 @@
 		"examenprogramma_kop1_id": [
 			"4c6a9ff7-b2a9-433e-a0c4-5636527bff27",
 			"61a7d5ec-5332-4e89-85bf-6c0a561136e5"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "544a0293-a7e3-4f6b-a973-30af7627bdea",
@@ -2318,9 +2140,7 @@
 		],
 		"examenprogramma_kop1_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	},
 	{
 		"id": "5effad33-ae66-4a1b-b610-d6a4f5542e0a",
@@ -2339,8 +2159,6 @@
 		"examenprogramma_kop1_id": [
 			"87b1e31a-077c-4579-8e1f-89db3bf73d4c",
 			"3ee8e911-7098-46df-8b17-852d0f6bc615"
-		],
-		"section": "examenprogramma",
-		"parents": []
+		]
 	}
 ]
