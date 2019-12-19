@@ -192,7 +192,7 @@
 	},
 	{
 		"id": "71393e79-ddd8-4230-95c0-2fb6846fb208",
-		"title": "Examenprogramma natuur, leven en technologie",
+		"title": "Examenprogramma natuur, leven en technologie vwo",
 		"examenprogramma_vakleergebied_id": [
 			"a993176b-86aa-4ec0-83a0-c624d221a714"
 		],
@@ -206,11 +206,15 @@
 		],
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "b477a5d1-07c5-4028-80c3-3e33cd4ef672",
-		"title": "Examenprogramma Natuur, leven en technologie",
+		"title": "Examenprogramma natuur, leven en technologie havo",
 		"examenprogramma_vakleergebied_id": [
 			"a993176b-86aa-4ec0-83a0-c624d221a714"
 		],
@@ -224,7 +228,11 @@
 		"examenprogramma_kop1_id": [
 			"a59cce98-5920-462c-af54-a2978fcb97a0",
 			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
@@ -423,7 +431,7 @@
 	{
 		"id": "0685a60b-5833-4da0-8643-a54c206686ae",
 		"prefix": "16.",
-		"title": "Examenprogramma M&O havo",
+		"title": "Examenprogramma management en organisatie havo",
 		"examenprogramma_vakleergebied_id": [
 			"a9afbab8-4bda-4729-a8eb-cacb496d8bb3"
 		],
@@ -439,11 +447,15 @@
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
 		],
-		"niveau_id": []
+		"niveau_id": [],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "a295b232-d65a-47b5-811b-194dd1d43422",
-		"title": "Examenprogramma Maatschappijwetenschappen vwo",
+		"title": "Examenprogramma maatschappijwetenschappen vwo",
 		"examenprogramma_vakleergebied_id": [
 			"87734652-ceeb-4208-a1ce-ccd858a256ec"
 		],
@@ -459,11 +471,15 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "75b428a4-c65f-40d7-885a-c87c6b51a57c",
-		"title": "Examenprogramma Maatschappijwetenschappen havo",
+		"title": "Examenprogramma maatschappijwetenschappen havo",
 		"examenprogramma_vakleergebied_id": [
 			"87734652-ceeb-4208-a1ce-ccd858a256ec"
 		],
@@ -478,7 +494,11 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "dd62ec2d-7037-4ff8-9539-c31da2028944",
@@ -702,7 +722,7 @@
 	},
 	{
 		"id": "2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
-		"title": "Examenprogramma Filosofie vwo",
+		"title": "Examenprogramma filosofie vwo",
 		"examenprogramma_vakleergebied_id": [
 			"9dad5b12-f1ba-4bf8-b438-56b8cb074076"
 		],
@@ -715,11 +735,15 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170",
-		"title": "Examenprogramma Filosofie havo",
+		"title": "Examenprogramma filosofie havo",
 		"examenprogramma_vakleergebied_id": [
 			"86d730ae-83ac-4072-b06d-77a046c8a388"
 		],
@@ -731,7 +755,11 @@
 		],
 		"examenprogramma_kop1_id": [
 			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
@@ -870,7 +898,7 @@
 	},
 	{
 		"id": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
-		"title": "Examenprogramma biologie vmbo bb",
+		"title": "Examenprogramma biologie vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"fc72a202-d64f-4d7c-b194-7e02150b44c6"
 		],
@@ -895,7 +923,11 @@
 		],
 		"examenprogramma_kop1_id": [
 			"f14420ea-abe2-4b84-bf20-9e9cab3565cb"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
@@ -917,7 +949,7 @@
 	},
 	{
 		"id": "a6e799c4-75f5-45b6-8a71-d2b0e76f1b02",
-		"title": "Examenprogramma Bedrijfseconomie vwo",
+		"title": "Examenprogramma bedrijfseconomie vwo",
 		"examenprogramma_vakleergebied_id": [
 			"4c227e7c-892e-4aeb-8310-ef828ed8edb0"
 		],
@@ -933,11 +965,15 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
-		"title": "Examenprogramma Bedrijfseconomie havo",
+		"title": "Examenprogramma bedrijfseconomie havo",
 		"examenprogramma_vakleergebied_id": [
 			"75eabeaf-900a-4540-aa01-b4cdd4c54062"
 		],
@@ -953,11 +989,15 @@
 		],
 		"examenprogramma_kop1_id": [
 			"9a1b9754-e05e-4b39-876f-8f88a5cd81c0"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
-		"title": "Examenprogramma Beeldende vorming",
+		"title": "Examenprogramma beeldende vorming vmbo gl en tl",
 		"examenprogramma_vakleergebied_id": [
 			"f030652c-eeb3-4405-919c-9e69c778000d"
 		],
@@ -978,7 +1018,11 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
 			"177dee42-5a35-436c-8060-70084aba4958",
 			"b28bf768-b56c-4b92-a37d-dcd36859e495"
-		]
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"dirty": 0
 	},
 	{
 		"id": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
