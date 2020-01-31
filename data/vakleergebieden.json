@@ -209,7 +209,8 @@
 		"title": "Bedrijfseconomie",
 		"vak_id": [
 			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
-		]
+		],
+		"deleted": "0"
 	},
 	{
 		"id": "f030652c-eeb3-4405-919c-9e69c778000d",
