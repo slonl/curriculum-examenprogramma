@@ -206,7 +206,10 @@
 	},
 	{
 		"id": "75eabeaf-900a-4540-aa01-b4cdd4c54062",
-		"title": "Bedrijfseconomie"
+		"title": "Bedrijfseconomie",
+		"vak_id": [
+			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
+		]
 	},
 	{
 		"id": "f030652c-eeb3-4405-919c-9e69c778000d",
@@ -241,7 +244,6 @@
 		"title": "Examenprogramma aardrijkskunde havo ",
 		"vak_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
-		],
-		"dirty": 0
+		]
 	}
 ]
