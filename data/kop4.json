@@ -3,7 +3,7 @@
 		"id": "b7486164-e607-4527-b598-9688aa1fcda8",
 		"title": "Daarnaast heeft het schoolexamen betrekking op:",
 		"tag_id": [
-			"ba03f59c-6be7-4e2a-ad10-f317ba0ab2e1"
+			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
 		"examenprogramma_body_id": [
 			"b31349e0-4c38-4292-aa25-dc86415409e7",
@@ -12,18 +12,177 @@
 		]
 	},
 	{
-		"id": "496cabb7-c648-4368-a590-477f48ad2187",
+		"id": "eb24e715-8e37-4d80-bc81-9e67e342ec67",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
 			"4f051d86-dcb7-449b-80bf-cef348001a6e",
 			"d7a6100d-221d-4370-aeb7-481f35af0337",
-			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7",
-			"5cb371e7-037c-4373-9f51-4cf4cd0bfd70",
-			"96bba1fa-00cd-4059-a404-dd12bf137d5c",
-			"76658eb9-1467-416c-81bf-49e3345b3f08",
-			"8e6c775c-786e-4c07-8652-678e393ec051"
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "4e9f3d69-87dc-497b-8bda-bf379e6ea30c",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
 		],
-		"examenprogramma_kop4_id": []
+		"examenprogramma_body_id": [
+			"aef5ac4a-33ba-4ac1-851e-502d76081b45",
+			"bcf15239-d1ba-453f-b63a-9c506c8c2103",
+			"858452ee-e246-4117-84d2-1198fc0d35f4"
+		]
+	},
+	{
+		"id": "24604675-1b95-4b72-8143-63376df6ab03",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"c45bbeb4-8818-4e12-9bd9-f89f7e107faf",
+			"11862ca1-5b14-473a-9344-8fa6d1c3a59b",
+			"1c692e1d-2838-4fd6-815e-20466b96a22d",
+			"d7309880-4bdb-45fc-adb7-91fd36de0cea"
+		]
+	},
+	{
+		"id": "49aa70ab-f6e2-4506-9d25-e33f3203f106",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"examenprogramma_body_id": [
+			"234e008f-2876-4a96-a564-c7f1f979139a",
+			"015cd776-b17d-4f7d-98e6-439c262374ed",
+			"5b99b445-3f21-4b78-8c08-3a96ff476c4b"
+		]
+	},
+	{
+		"id": "28fc2b69-5223-40be-b6b4-0cbec56c9858",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"dddd46eb-d688-4c4b-934d-02398b500a4e",
+			"9ec78f0b-4b77-437b-b53c-cf25a6bd51e1",
+			"21caf789-5ad0-4f12-ab9d-05b68a8c1aae"
+		]
+	},
+	{
+		"id": "86ee2340-dceb-4062-b5a4-e6ff1a4daa0e",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"18dbb0a7-3d98-44e5-85f1-7fb65f31a7f9",
+			"7d4fac17-35fd-4306-8dea-a47da907d090",
+			"ae5648b9-2b4c-495e-8899-fd517cb1d51a"
+		]
+	},
+	{
+		"id": "6c1f329a-cc1d-4cf8-a677-67a85ab8deee",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "7da7b4ea-d350-42ff-8175-81ff80b8cc6d",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "27020e66-35c7-42f9-8d15-8d8246da1dc2",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "bf914127-1b51-4c4f-9a65-784d568bece2",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "88e4a083-001b-41ac-afc0-9a15c3cd3b7a",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "281141e3-a00b-4e0a-9e3b-bf39751c6dad",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "b130c388-b7f7-4f15-9edd-70b5109cce96",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "4e14ae9c-3dfa-4402-ac88-6199bbe4efa1",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "0ecebf2e-f0fe-4c22-a9cf-750f2c985050",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "0565bd2f-fc5a-4d4a-87c9-7f4c54e2f09f",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "c197923b-2692-4f13-844c-54ceee3d0952",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
 	}
 ]

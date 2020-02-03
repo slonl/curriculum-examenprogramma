@@ -1,1 +1,44 @@
-[]
+[
+	{
+		"id": "fc95dd55-1a75-42a9-8ebf-785036bbcb17",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "68149de9-6d72-4268-a681-5044088e13e5",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "b9ad5696-b996-4fe0-aa34-996c2b9663e1",
+		"title": "Daarnaast heeft het schoolexamen betrekking op:",
+		"tag_id": [
+			"a2b4b945-8366-4291-bc6c-5a1755682647"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"6b9ec3ea-3202-40f7-a1ba-5cf18fbafa3c",
+			"7a8332de-26fd-4a41-9840-7c871e0ac0b2",
+			"5d046afb-5900-4c29-ab2f-cd11ba380336"
+		]
+	},
+	{
+		"id": "c46e5796-a0dc-49c9-9346-e3e5f006a4ec",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"aa0cbbd9-5830-4f1d-b7cb-ac3514f937e0",
+			"daed7fee-e305-411b-b076-af99fb524497",
+			"37e230ab-05ef-42e6-8050-d8e6108a3fea",
+			"2b74c7e7-32ed-4390-b000-47c99942f4f6"
+		]
+	}
+]
