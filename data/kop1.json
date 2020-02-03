@@ -4,9 +4,9 @@
 		"prefix": "1.",
 		"title": "Preambule",
 		"tag_id": [
-			"822ae7cc-07c6-4f1d-af3a-6aee4a77f4b9",
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0",
-			"3ce4438b-2479-4233-98f3-5cb0d52b4c22"
+			"73fba0a0-a942-407a-8dec-a78ca238cd75",
+			"ce0c0362-8f65-4b24-a0cc-4961f3b32b95",
+			"1b589c31-5d79-45d4-a24f-8e3da9c007b3"
 		],
 		"examenprogramma_kop2_id": [
 			"e625807f-aae1-4c47-87bd-2ffb42292237",
@@ -21,309 +21,192 @@
 		]
 	},
 	{
-		"id": "9a1b9754-e05e-4b39-876f-8f88a5cd81c0",
-		"title": "Het eindexamen",
-		"examenprogramma_kop2_id": [
-			"7e1d0b4d-e2e3-42f4-96df-e4f971791e18",
-			"e06ca8d0-7d1a-484c-81ff-972fa162ada3"
-		],
-		"examenprogramma_body_id": [
-			"a59cce98-5920-462c-af54-a2978fcb97a0",
-			"1e8adf31-7075-4ace-8f55-529935246a0c"
-		],
+		"id": "177dee42-5a35-436c-8060-70084aba4958",
+		"prefix": "2.",
+		"title": "Leeswijzer",
 		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab",
-			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
+			"ba03f59c-6be7-4e2a-ad10-f317ba0ab2e1"
+		],
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": [
+			"31f44d66-0715-491b-9362-68a7b4265b95",
+			"f718d87c-8e21-4d88-8e36-49db374da446",
+			"c9d1facd-d95e-4b05-8ecc-8151e4f3d91f",
+			"283bf714-8767-49ae-84a9-c4c562231541",
+			"352cfdda-62bc-42c4-83a2-db2d6d808e5b",
+			"806ee1c6-3e03-4785-a2fc-6fa316c07407",
+			"f42ab4ab-467b-4e84-a44a-05297ba0d816",
+			"e3d8bf33-7d1c-4e0b-a1c9-85712d503cd9",
+			"1d7a1be3-e64a-49d9-8c84-acb5a19f0f38",
+			"9fde8153-c766-4853-9a88-a43294983c94",
+			"cfa84f9a-aa97-40f4-bffa-acbb97177df5",
+			"f144d5b1-5c94-4ee6-98a7-934874ca02f2",
+			"b2b59eb9-a3e7-4f8a-b652-d93adf6e62a0"
 		]
 	},
 	{
-		"id": "1e8adf31-7075-4ace-8f55-529935246a0c",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"examenprogramma_kop2_id": [
-			"ae659e7f-df74-4db1-8070-bec8b1967869"
+		"id": "451823e9-6a23-4846-af78-93985308cd15",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2ed0d0fa-433f-48af-83f2-f00982aa7234",
+			"ba03f59c-6be7-4e2a-ad10-f317ba0ab2e1"
 		],
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "00100db8-2d24-4177-993d-1d140cfa7001",
+		"title": "Het eindexamen",
+		"examenprogramma_kop2_id": [
+			"87e3fd05-8478-4417-adc0-26e9d1fe227f",
+			"ffb654f6-57d1-4510-829f-7deafa19950b",
+			"649ea0c9-a8db-41cc-80e4-2ee7b9a9c246",
+			"7e1d0b4d-e2e3-42f4-96df-e4f971791e18"
+		],
+		"examenprogramma_body_id": [
+			"ca2ecc05-ed27-414a-9b27-af0243ebe9b7",
+			"87e3fd05-8478-4417-adc0-26e9d1fe227f",
+			"c2036122-abc5-4d0e-9082-0c70c827fd74",
+			"1515897f-d623-4370-b1e5-9cc3baf4392f",
+			"c03aa770-d205-4464-9060-6a24402c69f4",
+			"78d52012-2bbe-47e3-b368-bd817efb604b",
+			"fe124a39-0b50-49a7-a694-d138a15534b5",
+			"5d9e0add-8554-4e3b-b6bf-d12c43c0812a",
+			"42cd75f2-7a38-40f9-9d20-662dab5f60f1",
+			"d4eddf0b-7d3a-4a70-82ac-7208d8f81ce3",
+			"451b2a02-53c5-4dbe-b8a5-718505f62e45",
+			"d00bc120-52e1-4b21-adc3-9fba40b8ec82",
+			"ff5a2f5f-68dd-4d35-8b31-9f2bfc90eeab",
+			"fe608eb4-9c33-4f4f-8e04-878ab163a354",
+			"86b5ffa0-c1a7-4cf1-88ed-674b9f8736a0",
+			"c8b5372d-a8f9-461c-a5be-411ca7c580a3",
+			"b37b88fb-6e6d-4dc6-ad2f-7432272ca1da",
+			"2e5151c3-cc3b-4c08-97f2-a359d680c269"
+		],
+		"tag_id": [
+			"f1be2b67-de50-417c-b91d-bfc1fd9bce92",
+			"ec0d6677-9cf7-44e8-b5b1-cccb20fdeadc"
+		]
+	},
+	{
+		"id": "fede2796-9147-4874-a758-07b2907381e5",
+		"title": "De examenstof",
+		"tag_id": [
+			"2ed0d0fa-433f-48af-83f2-f00982aa7234",
+			"16f84a96-fc44-46de-92de-f26a6f092273",
+			"7f3a8baa-ebb7-4d97-9fc7-2db407de6129"
+		],
+		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": [],
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab",
-			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
-		]
+		"ce_se": "SE"
 	},
 	{
-		"id": "e06ca8d0-7d1a-484c-81ff-972fa162ada3",
-		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"id": "3d6e5bb9-2dca-4ffa-a2a1-05dc67501016",
+		"title": "Het examenprogramma",
 		"examenprogramma_kop2_id": [
-			"ae659e7f-df74-4db1-8070-bec8b1967869",
-			"0709e54d-1b8a-4e41-b788-2978857b550f"
+			"87e3fd05-8478-4417-adc0-26e9d1fe227f"
 		],
 		"examenprogramma_body_id": [
-			"c672b97d-39df-42dc-bb95-e8b1f613b3d6",
-			"2c494e9e-bf69-4793-91d0-369e553f68cb",
-			"44f36e76-d701-4965-a421-061895650f89",
-			"f8b4e526-211f-42a0-9165-118d47af56d4",
-			"b60b52a8-34cf-4023-a053-2f0fa229eb74",
-			"f759e17c-4986-4022-bb0f-5d53d7e92cf3",
-			"346e0377-12a6-43bf-b486-1bf1dc6f817e",
-			"7fc6e721-7d3e-446e-be1b-918a429cd4e7",
-			"10004658-f653-435b-a778-528c8db0fddd",
-			"ec49fb60-4282-4f3c-a0ad-bd2af591cc08",
-			"0e34aea0-a90c-461d-8a46-9403d245f585",
-			"72b84654-9a14-4873-a84f-21778d4aa978",
-			"f9af4212-61b3-4858-9ffa-c68a63f60271",
-			"7a301300-4503-4396-ba53-09912a3cb13a",
-			"fe7ff4f8-65ab-48ea-8e5b-e693725f674e",
-			"2f770730-4635-4240-bcc6-2d46649de2b0",
-			"66fa44c9-a99e-401a-9fc7-060956fac716",
-			"3bd30341-33eb-48d1-8609-692ad5c0e5fe",
-			"625adc2c-9e15-456c-b03a-2c8b0d94be7f",
-			"e932f6f6-200a-4080-9f76-2960627d08ef",
-			"2e96cc3a-2ac3-4829-b341-a7e67b1a601b",
-			"8b4fc8ba-d1da-4a34-86c0-29f87b287955",
-			"b2ce3829-6b10-42b9-b742-189c7929b26e",
-			"d056af86-622a-4f21-846e-322a73246214",
-			"8b8a6078-52f5-4cff-8b23-906e39d58a20",
-			"75bb4402-f97e-40dc-9471-df0942deab8d",
-			"bf47faef-b3a8-4e1c-af66-ae0e5365118d",
-			"bad37c3e-2abf-4c97-943e-7e97f6ea04c3",
-			"2108c721-5c46-440a-b8be-36e5dba1e4f3",
-			"14425c53-43b8-4c12-9a49-8fbf9d05b816",
-			"be612232-9424-49a7-af25-0fc714d56f7a",
-			"2a38861d-d4f4-45ec-a8b5-7151258f685a",
-			"e4ea0369-0bc2-499a-ae10-6d4033cf8e07",
-			"51ab540e-e050-41d9-96a0-fb221ab86f4d",
-			"4c46e1ce-6535-40f0-8006-e9a539cd4a5d",
-			"04c28b34-db5a-486b-b740-10c64c653ff5",
-			"28fb408e-bed1-44d1-a0a0-3e8da86f621e",
-			"5e3cb019-b511-483d-81ba-7eba859a9cd3",
-			"fd5f7fde-d689-4d0b-ae21-d55355e49f8d",
-			"51249347-a515-448d-81cc-a2b33d2d84f7",
-			"7e4dd1fc-ab34-4f20-8248-9380a1833f96",
-			"05204391-50d9-4a9c-89d5-7d9857e69b2e",
-			"e2717277-56ce-41e3-b18e-e751905114f1",
-			"c51d4651-3795-400d-83a1-dc4b08cc8db4",
-			"9a51bc60-a823-4192-a438-825b536c6b51",
-			"ed4f63ea-d5b3-4bff-9e30-b642f93ca070",
-			"103c5984-6d4b-4911-adea-204dab3315bc",
-			"a94c51db-d187-407f-8fde-b9460244a77b",
-			"9855951f-a3ae-41d1-a6f2-e680c5155def",
-			"32a7e30d-9d0e-4e6a-bf75-039717392539",
-			"e42861eb-30a4-48a6-a68a-8958d1bc65bf",
-			"bee9198e-ebba-4598-9bac-cb06bcd9dc92",
-			"bbb6d423-c114-418d-ac8a-0962ffeaad27",
-			"92eccf77-972c-49bf-8485-080b4406a186",
-			"b20ec3f5-cdad-4a6c-80d9-3f1490b2e4f8",
-			"ceffe646-64fc-49da-8684-14693fdbf036",
-			"abe1ef10-5e67-460b-9cac-00975aad1df8",
-			"b37fd631-bbdd-458d-8c76-c956162a6fd0",
-			"fa4f893c-5c44-4f0b-8528-4517cb870864",
-			"18663e0c-f84b-4c47-8e16-b8e174b7e141",
-			"437e820d-34e4-4e50-bc16-606b0de955d9",
-			"8ac8daec-2681-4ac9-8a0e-afef77b71ce3",
-			"231523e0-b84e-4a80-b441-57257ea88b30",
-			"f17da1a8-4f81-450e-95a9-6d3fbf83d35c",
-			"13b73ba2-a801-452a-a134-c5bae5a69508",
-			"d43af25a-0230-4a9d-9062-ddaf58225bbf",
-			"2d3d2b3e-1300-478a-8175-8212762c19e6",
-			"4f678a95-18cb-4be4-a377-9cf3b115204c",
-			"c8b5776b-c7ae-4bef-8b8d-fc659f5c8e9a",
-			"2e2b90eb-5af6-4f33-90e4-f6da3ca5bc69",
-			"0266d442-c6a3-4b82-9a69-5889983db8fe",
-			"8d7e1f3b-6b25-44ac-ada5-2e470874efce",
-			"4aed0ae3-73da-4ab2-83f5-07d3753bad0c",
-			"ea5fc44b-0b04-479b-90a6-50a327cf5ac6",
-			"7d94fb93-520c-4b6b-a1a2-f8ce2d2753c1",
-			"0f492ea6-5038-4e3d-ac1e-88b1eb776c90",
-			"605e8fd9-85bb-493b-83c8-f7d996cae501",
-			"c8ed5666-f76d-41f2-ab64-c4083b1557f8",
-			"a22f3302-d708-492a-a126-d5866b1d54d1",
-			"d27fd6a0-581e-477c-9857-ec6e13f442be",
-			"fe00b2e6-d4b3-44af-bb35-2a906b539177",
-			"cb12bbb2-42df-4a74-bce3-7f7111905370",
-			"0db70634-e1ae-47b0-9714-a3128ee332b4",
-			"801d294a-52d9-451f-840f-e3c65fc00595",
-			"34b717ab-f1d4-46a3-9b21-f29d1c7b092f",
-			"31a05fd4-8525-49e6-b065-f4459f0ded06",
-			"1e7735d5-1704-4d7e-8782-232c88b19751",
-			"bb033660-ab78-4907-8ffa-fdb67cf89508",
-			"cc2c1813-7920-46fd-8c38-cb7fd9056e86",
-			"f541f537-66cb-4727-976f-0a649516203c",
-			"dfed0776-7fb8-4621-92cb-524c0ede4c7d",
-			"abf5736d-4c6b-44d6-a83c-2db5a9c05359",
-			"f1d9ef56-6ab6-4b6d-815d-6256dbee969a",
-			"739832ca-ba3a-4d71-a4b7-cd32f979544a",
-			"e4b49bb4-ba77-4679-83b8-15e3228b1014",
-			"0f0b4b74-8a7f-4a8d-a6de-3ae53d1f29d5",
-			"d5094389-759e-455e-84cd-0e745a0daffa",
-			"74360d1f-7e7a-49be-aeed-7c72c16f617e",
-			"9ff9ea64-b241-4e9a-a396-c8fe9e87dd6e",
-			"0944aaed-8ac4-4325-83a6-250028a8cf13",
-			"fe28feda-2885-4827-81b2-4baa1c02252c",
-			"bd29fbd2-6141-404d-bbd5-2dbe10f316ff",
-			"b4f8b191-f4cf-40d4-9aa7-5f3138fb22a6",
-			"4f5346e2-35c1-47f7-9748-eaaeb0cbf022",
-			"4af8abf8-9b6c-4602-a5f2-807db8477f03",
-			"6a7b3ddc-b90f-4be9-98ac-736631efbddf",
-			"ea18269f-c07d-4aaf-b827-0954de5e769e",
-			"3bc21cb4-150a-4936-b957-b09194c22a63",
-			"6c34f9bf-8d61-46d2-8470-be614cd9ab4d",
-			"e75f3557-0852-4de6-acb1-3dbd5985c03f",
-			"ebd32023-33d6-41fe-8a02-0b23668c95fa",
-			"f3304ee1-070e-4a3b-8235-3bb7ad3ca945",
-			"1d7c2a54-0488-40da-a904-6bc898725034",
-			"f26cf254-d98b-455c-b757-d754c99e0c23",
-			"99fcaa00-4451-47fb-88a1-489ae9fa3fe3",
-			"b367fdd3-0822-4faa-8e5a-bfb7ad8eeb72",
-			"1fc1e51d-67db-4cd7-90d7-064a3fee5af1",
-			"6f5123de-f529-499a-a580-42b7b38105ce",
-			"01cb589d-8fe1-4014-b74a-2e587be20574",
-			"73ac8f01-4a2c-46f7-ac78-de7d156b3fb8",
-			"3256280f-2aff-4afe-9176-00c4f84577f3",
-			"82f004a2-dd44-403a-be4e-d5f453b74f47",
-			"69c3c6d2-e43e-411e-9793-217cf0fe37da",
-			"aabd2f5a-0709-44ce-b533-322ff24befa4",
-			"e448aa01-66e9-451d-bf61-8ea219d1da51",
-			"19447e87-1a32-4b1d-9d60-4f6e76628793",
-			"5d58f5a8-7cbd-4922-9aec-8163ddd5385d",
-			"3a2b721f-d26b-4674-a718-c6e53262a710",
-			"149a5ea4-373d-4b68-aeb3-8677d2e345f8",
-			"50a9be21-b3dc-4013-9fd8-90bc171715f7",
-			"27765a0d-8ec5-49b7-88d5-448e5a4cb03e",
-			"e5eb44c2-af08-4550-b75d-6b43ccbd140e",
-			"1eec805c-d561-465c-947b-a227dedd5b3d",
-			"96c7a5c1-9040-4aea-abdf-14ab10a66d92",
-			"89588864-c946-424c-a2fb-50be508e85d5",
-			"435a7c70-07b4-4f23-971c-265430e49995",
-			"aba61095-ef2e-4555-a78b-d9113fd47b13",
-			"b1db5c4f-5ff6-4b16-a18e-0d7098428613"
-		],
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab",
-			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
-		],
-		"examenprogramma_kop3_id": [
-			"0709e54d-1b8a-4e41-b788-2978857b550f",
-			"ecb00109-633a-437c-b7ec-7131337c603a"
+			"ca2ecc05-ed27-414a-9b27-af0243ebe9b7"
 		]
 	},
 	{
-		"id": "a4fd8037-b589-42ce-b0ee-3e298fb79ab6",
-		"title": "Het examenprogramma",
-		"examenprogramma_kop2_id": [],
-		"examenprogramma_body_id": []
-	},
-	{
-		"id": "a92e30dc-e4fa-4f60-8001-e50dbcb5f8b0",
+		"id": "80356c9f-479c-44b9-9b1a-f099621706c9",
 		"title": "Het eidexamen",
-		"examenprogramma_kop2_id": [],
-		"examenprogramma_body_id": []
-	},
-	{
-		"id": "373a2e7b-d573-4805-86b8-b221595d380e",
-		"prefix": "1",
-		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		"examenprogramma_kop2_id": [
+			"87e3fd05-8478-4417-adc0-26e9d1fe227f"
 		],
-		"examenprogramma_kop2_id": [],
-		"examenprogramma_body_id": []
+		"examenprogramma_body_id": [
+			"ca2ecc05-ed27-414a-9b27-af0243ebe9b7"
+		]
 	},
 	{
-		"id": "6e3b98e0-1df6-4138-9552-276859588318",
+		"id": "ebffb5a1-8d62-41c1-992b-61ab1aa35d8a",
 		"title": "Examenstof",
 		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+			"2ed0d0fa-433f-48af-83f2-f00982aa7234"
 		],
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "a59cce98-5920-462c-af54-a2978fcb97a0",
-		"title": "Het eindexamen bestaat uit het schoolexamen.",
-		"examenprogramma_kop2_id": [
-			"0709e54d-1b8a-4e41-b788-2978857b550f"
-		],
-		"examenprogramma_body_id": [],
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"id": "ce34b726-7b90-45b4-9c75-145edc38730b",
+		"title": "Het eidnexamen",
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": []
 	},
 	{
-		"id": "9efc5e7d-d1b6-4732-b5c7-18d09c395389",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:",
-		"examenprogramma_kop2_id": [
-			"ae659e7f-df74-4db1-8070-bec8b1967869"
-		],
-		"examenprogramma_body_id": [
-			"13b73ba2-a801-452a-a134-c5bae5a69508",
-			"e48f23dc-8734-498d-a10d-0b527b6bd523",
-			"117dab5c-7fa9-4c12-b667-4dcbec05369e",
-			"f2bf5bb2-d296-4ae3-a1c5-6be60b5958ec",
-			"c8b5776b-c7ae-4bef-8b8d-fc659f5c8e9a",
-			"2e2b90eb-5af6-4f33-90e4-f6da3ca5bc69",
-			"bb803b28-41e1-4c4b-b452-49d70bf1d24c"
-		]
+		"id": "c7ad5143-75fc-442a-83a6-1797390bc4e1",
+		"title": "De examenstof",
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": []
 	},
 	{
-		"id": "b28bf768-b56c-4b92-a37d-dcd36859e495",
+		"id": "8f2081ab-aeed-46ae-8f58-4b7b8c283b56",
 		"prefix": "3.",
 		"title": "Examenstof:",
 		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+			"2ed0d0fa-433f-48af-83f2-f00982aa7234"
 		],
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "13e59779-c698-40e6-bdcf-1a6a1f71e557",
-		"title": "Informatiewijzer",
+		"id": "2353a258-d989-44e1-a111-bacf1f646224",
+		"title": "Het Eindexamen",
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "f14420ea-abe2-4b84-bf20-9e9cab3565cb",
+		"id": "80b6c275-ea90-48a7-9e8e-aaea31e2b1a0",
 		"prefix": "1.",
 		"title": "Preambule",
 		"examenprogramma_kop2_id": [
-			"253039f5-2a61-4114-9695-2e4c2265fe94",
-			"31d9bf3e-115a-45af-b9d7-dfb4f86599fc",
-			"248c9648-bafb-4926-858f-26c192737ef4",
-			"6287b0cb-8acd-4bfc-b13d-f9702be9c12d",
-			"39b6e1f1-5655-4ff6-bf5e-556d55e6b36b",
-			"58450650-9592-44e2-b0be-079e5306e860"
+			"a2c231a4-50f6-4468-b7b5-e06c8db7a8cc",
+			"a7631cfc-d955-4d0a-b0af-5878b2351a16",
+			"76f54127-29b5-4f25-a724-8110d2aa3cf3",
+			"9d742b5e-8417-4ebf-953a-29eedda764ca",
+			"0d1d60e6-f2de-4d7c-bbf9-f53c42fa7820",
+			"073f7e97-1b75-40d6-8764-5eb63d8b3321"
 		],
 		"examenprogramma_body_id": [
-			"81371c05-e201-4b43-aeca-332c31c52df1"
+			"02a1efc6-7219-4168-afb6-43aff7a78a21"
 		]
 	},
 	{
-		"id": "4c6a9ff7-b2a9-433e-a0c4-5636527bff27",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
+		"id": "3a347ab3-57c9-4783-bd4b-43b5feeba6bd",
+		"title": "Leeswijzer",
 		"tag_id": [
-			"82f345a4-7808-4bdf-85f6-04581318d294"
+			"ce0c0362-8f65-4b24-a0cc-4961f3b32b95"
+		],
+		"examenprogramma_kop2_id": [],
+		"examenprogramma_body_id": [
+			"3f52c826-5e44-409f-affc-74311c871695",
+			"9c7cce1c-ab3b-4b8e-ac14-8c287527ac5e",
+			"1f713764-4060-46f9-aab4-0645368c736e",
+			"da7d837e-7958-43dd-afb9-6770feea15f7"
+		]
+	},
+	{
+		"id": "31261639-a477-4abc-8a85-af4710fa3518",
+		"title": "De examenstof",
+		"tag_id": [
+			"2ed0d0fa-433f-48af-83f2-f00982aa7234"
 		],
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "61a7d5ec-5332-4e89-85bf-6c0a561136e5",
-		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"tag_id": [
-			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
-		],
+		"id": "279d4d59-e33a-4495-886d-be73fddc25a7",
+		"prefix": "3.",
+		"title": "Aardrijkskunde vmbo",
 		"examenprogramma_kop2_id": [],
 		"examenprogramma_body_id": [
-			"d8297981-e10a-4070-800f-17dae5f7fea0",
-			"65a4c556-1489-4ba7-96d1-5b3a643d1f08",
-			"e639cf65-e198-4225-8862-20f72658ea8b",
-			"48d1d74b-9e1d-403b-859a-bc3245f52726",
-			"a06247dc-b2fd-4c0c-bf9a-21e75ecf9c77",
-			"36e13559-2f6b-42d7-b0e7-f9f2c1858b78"
+			"4f20804e-482d-42e2-ad53-8da246fea20e",
+			"cfff1c12-5e7a-4147-8c9e-3e6492dfde80",
+			"92ab6081-60d4-4466-8532-52147c9aa5e0",
+			"7f2f5b48-4112-4863-8c76-ce8fb87fb289"
 		]
-	},
-	{
-		"id": "87b1e31a-077c-4579-8e1f-89db3bf73d4c",
-		"title": "Het eindexamen",
-		"examenprogramma_kop2_id": [],
-		"examenprogramma_body_id": []
 	},
 	{
 		"id": "3ee8e911-7098-46df-8b17-852d0f6bc615",
