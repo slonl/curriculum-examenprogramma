@@ -1,219 +1,302 @@
 [
 	{
-		"id": "bebd6fdd-ec6b-4d8b-a8c1-16bce3bdfe74",
+		"id": "cdb09d3a-46b2-4bf9-b1bb-fc2604a5954b",
 		"title": "Wiskunde",
 		"vak_id": [
-			"12209d8b-24d3-440a-8e2e-e85bfebc1e13"
+			"bk:7afbb7a6-c29b-425c-9c59-6f79c845f5f0"
 		]
 	},
 	{
-		"id": "1700e7a3-1a53-424e-8f48-62c8f727d058",
-		"title": "Wiskunde D",
-		"vak_id": [
-			"6be72775-5689-4aa4-bb5a-38899b174915"
-		]
+		"id": "6be72775-5689-4aa4-bb5a-38899b174915",
+		"title": "Wiskunde D"
 	},
 	{
-		"id": "3378ba27-df8b-437e-9a50-626343a61f37",
+		"id": "13e5ddfb-fec7-43e3-8469-74303fb2abe2",
 		"title": "Wiskunde C",
 		"vak_id": [
-			"2573e278-9c8a-4787-bce9-8b7df670d4dd"
+			"bk:e82663b8-5685-4f28-ba2e-1f3f5df59097"
 		]
 	},
 	{
-		"id": "faabb66b-1591-4ca3-8e00-d5a169a8461a",
+		"id": "50003623-6e9b-456a-aebf-93217871414c",
 		"title": "Wiskunde B",
 		"vak_id": [
-			"ccda2b02-3aa8-44bc-adfa-844565c292d0"
+			"bk:e9608ec2-0070-484a-865a-a33ea0829939"
 		]
 	},
 	{
-		"id": "8caba7af-d2fa-45d2-9ef6-05c22ad081f7",
+		"id": "bd4b1c2d-b8e3-49b8-b3b8-49f4997c4062",
 		"title": "Wiskunde A",
 		"vak_id": [
-			"5c1c7ee9-7fbc-4554-be0a-fb872b31b8ba"
+			"bk:800ec6a9-f9aa-4e04-9fbd-563c64c1066b"
 		]
 	},
 	{
-		"id": "2688556f-3a3a-4da3-8334-a7bfe8320124",
+		"id": "107fbf5f-475d-40b9-a9bc-08c9b6e38182",
+		"title": "Tekenen, handvaardigheid en textiele vormgeving"
+	},
+	{
+		"id": "65b57372-4eb0-4401-9fd9-7915e9cbec3e",
 		"title": "Scheikunde",
 		"vak_id": [
-			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+			"bk:3aab168a-9b24-4aca-b0f1-4bfb12e7c288"
 		]
 	},
 	{
-		"id": "cfe1b368-6c81-486e-ab99-d312ff28e33d",
-		"title": "Natuur, leven en technologie",
-		"vak_id": [
-			"956d0d86-90f3-443b-a418-52fd9b912661"
-		]
+		"id": "956d0d86-90f3-443b-a418-52fd9b912661",
+		"title": "Natuur, leven en technologie"
 	},
 	{
-		"id": "59b54fc0-423e-449c-a95b-80970e8b848d",
+		"id": "e9b42318-1076-4079-ba84-756780bcffb1",
+		"title": "Nederlandse taal"
+	},
+	{
+		"id": "643ab875-b87d-476a-b2dd-0caa0928a16f",
 		"title": "Nederlandse taal",
 		"vak_id": [
-			"96b622d6-264d-4f7a-9875-681ded824e21"
+			"bk:3401cf6e-82e4-404c-b216-b980ff407159"
 		]
 	},
 	{
-		"id": "2fcf20ae-3add-458f-94fb-6ef1d230746f",
-		"title": "Exacte vakken",
-		"vak_id": [
-			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
-		]
-	},
-	{
-		"id": "88685149-a1af-46ea-8a09-50a38b9120e3",
+		"id": "4440b019-0602-42a9-a766-0bbf4cbf36b1",
 		"title": "Natuurkunde",
 		"vak_id": [
-			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+			"bk:e98be5ad-4bd2-4768-a9eb-7e24026e360c"
 		]
 	},
 	{
-		"id": "77e0b3d8-c560-44d9-aad5-3041bf783b07",
+		"id": "5002f97d-ee67-424d-8b01-203b7db514ff",
 		"title": "Natuur- en scheikunde II",
 		"vak_id": [
-			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+			"bk:186717b2-1504-496f-88e5-45c4a1f0a620"
 		]
 	},
 	{
-		"id": "94cdcfc3-18b4-4601-804d-cb4afafd7522",
+		"id": "52bceff8-b34b-4443-a821-514c6aa52aaa",
 		"title": "NASK 1 Natuur- en scheikunde",
 		"vak_id": [
-			"b362c478-90c9-45ac-855a-79421d23ed07"
+			"bk:186717b2-1504-496f-88e5-45c4a1f0a620"
 		]
 	},
 	{
-		"id": "4d2ba472-d6d5-427b-b563-e22485ea72c3",
+		"id": "57dff1ca-c733-4046-81e3-d25aa1ee1e2a",
 		"title": "Duits",
 		"vak_id": [
-			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
+			"bk:81a1f605-db58-448d-a1dc-da682316c505"
 		]
 	},
 	{
-		"id": "9c47ae9a-0c4e-43c1-9015-a3f34dd40550",
+		"id": "f1af20a8-b56b-473c-8ac8-3e1e7f590cc3",
 		"title": "Frans",
 		"vak_id": [
-			"f851676e-b541-42db-986a-5c468974f65e"
+			"bk:9f4710e3-f173-404e-b12e-577657a5da04"
 		]
 	},
 	{
-		"id": "6815536e-4ef1-47a5-9d3b-7fa4b7fd67b7",
+		"id": "e53a01f5-3fc5-4fe4-aecb-8e491bae3f3f",
 		"title": "Engels",
 		"vak_id": [
-			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
+			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
 		]
 	},
 	{
-		"id": "0ffc1a84-83b8-45ea-a816-d7c292dbd963",
+		"id": "469ee040-a500-40d9-b129-60a135fa3cb5",
+		"title": "Muziek",
+		"vak_id": [
+			"bk:7aa6f577-b02d-484a-90d6-72fc80199f9a"
+		]
+	},
+	{
+		"id": "002e2c49-f995-4192-bb45-8589d6543134",
 		"title": "Maatschappijwetenschappen",
 		"vak_id": [
-			"b21832a9-69eb-4c10-9a3e-c8cdc60314bb"
+			"bk:04f6fd49-a81d-4142-9eac-66502c87f744"
 		]
 	},
 	{
-		"id": "e6784760-ff9b-4ef7-a8d0-381c5657a2dd",
+		"id": "19321303-e314-47c0-a69e-d528c2900e6c",
 		"title": "Maatschappijleer",
 		"vak_id": [
-			"ef5159b3-ead9-4a86-9324-e80cd867856c"
+			"bk:7596e435-d417-4de8-a32e-8e61f11ee1d2"
 		]
 	},
 	{
-		"id": "06d7e4bc-3f97-43a1-a8fc-5e4c6a4bed94",
-		"title": "Maatschappijkunde",
-		"vak_id": [
-			"b4459aa1-0dbb-409d-a675-8ca914234028"
-		]
+		"id": "644a0ae8-efdb-44d9-98a2-483c6b0276c6",
+		"title": "Maatschappijkunde"
 	},
 	{
-		"id": "2e8fd435-6fe1-4535-8f08-9b3436b594ae",
+		"id": "36fc69b3-e101-44be-83f2-9a026f64271b",
 		"title": "Management en Organisatie",
 		"vak_id": [
-			"8413a8ee-e0e3-4d85-ad62-f869c001ac3b"
+			"bk:fd3988c5-9648-4c39-9122-93a7260c8bbe"
 		]
 	},
 	{
-		"id": "821ced67-ea49-4f15-a424-9d03fae91a99",
-		"title": "Informatietechnologie",
+		"id": "4c78ac37-1937-4cc4-86e4-aa3192ef44db",
+		"title": "Lichamelijke opvoeding"
+	},
+	{
+		"id": "efac65df-e5e1-40b5-bb46-ed4ea8f378fd",
+		"title": "Lichamelijke opvoeding 2"
+	},
+	{
+		"id": "53b729cd-f9de-4de2-822b-8736225e9406",
+		"prefix": "LO1",
+		"title": "Lichamelijke opvoeding 1"
+	},
+	{
+		"id": "0f1daeda-c83f-41bf-ab2b-ca148761e66a",
+		"title": "Latijn"
+	},
+	{
+		"id": "29a8bd9f-2963-4070-84d8-c06075ca0ae1",
+		"title": "Kunstvakken: Culturele Kunstzinnige Vorming"
+	},
+	{
+		"id": "da18dbe2-0459-48b0-ba5e-93c6e9826480",
+		"title": "Kunst (muziek)",
 		"vak_id": [
-			"2845473d-ce18-450a-9135-6738abbdc129"
+			"bk:7aa6f577-b02d-484a-90d6-72fc80199f9a"
 		]
 	},
 	{
-		"id": "acf4e4f7-3398-415c-8da1-7646277141f3",
+		"id": "23a896d5-a6be-4160-851e-4fdb112f9af8",
+		"title": "Kunst (drama)",
+		"vak_id": [
+			"bk:904a6dbc-c236-42c8-aaa9-a5d7eaa9639f"
+		]
+	},
+	{
+		"id": "4bdafa85-bf52-4356-ba63-07dd7b55bce7",
+		"title": "Kunst (dans)",
+		"vak_id": [
+			"bk:0b1fbf62-4eb4-4af3-a267-3cd3215d6aac"
+		]
+	},
+	{
+		"id": "87d7d674-95ee-4bb6-9edd-f45a48918c10",
+		"title": "Dans",
+		"vak_id": [
+			"bk:0b1fbf62-4eb4-4af3-a267-3cd3215d6aac"
+		]
+	},
+	{
+		"id": "2108a040-879e-48c1-9733-d7592a16c6a0",
+		"title": "Kunst (beeldende vormgeving)",
+		"vak_id": [
+			"bk:4c8a3378-6616-459d-acc4-83ee5a9b91a2"
+		]
+	},
+	{
+		"id": "26ef692c-72ce-481e-ba7a-43d0bef1fc0c",
+		"title": "Kunst  algemeen"
+	},
+	{
+		"id": "8fbe0139-8a50-420b-b31c-9fddb1b237fc",
+		"title": "Informatietechnologie"
+	},
+	{
+		"id": "e8417f1b-1f5b-4d47-9b73-06d87f7c4b32",
 		"title": "Informatica",
 		"vak_id": [
-			"2845473d-ce18-450a-9135-6738abbdc129"
+			"bk:2845473d-ce18-450a-9135-6738abbdc129"
 		]
 	},
 	{
-		"id": "9a183cec-ac44-40e6-9897-a21648f8decf",
+		"id": "797f5fdf-8e35-43e9-b290-772c84f1761e",
+		"title": "Grieks"
+	},
+	{
+		"id": "279fc297-3b4a-4a0d-ad28-d4ba8cc934ae",
 		"title": "Geschiedenis",
 		"vak_id": [
-			"1c445505-16f2-4d3f-b6cf-8623ca317140"
+			"bk:ef3a0b2e-0843-4e0a-b45b-788be6e1ec8d"
 		]
 	},
 	{
-		"id": "3a29acb5-b73b-4ea3-9b90-0eb1f089f566",
+		"id": "2242b924-6139-4867-8049-1bc2aa2ec5c8",
 		"title": "Filosofie",
 		"vak_id": [
-			"15292864-cba8-4af5-90ef-da51cb2d22e1"
+			"bk:d35b903f-1598-4bdd-a2fa-8aba854df762"
 		]
 	},
 	{
-		"id": "b0741cc7-b025-40f9-bdb4-468dcbe7bbe7",
+		"id": "719912db-058a-4b4f-908b-ce11a5932c33",
+		"title": "Filosief",
+		"vak_id": [
+			"bk:d35b903f-1598-4bdd-a2fa-8aba854df762"
+		]
+	},
+	{
+		"id": "dcf13735-3f1f-4718-81a0-ceba3909c231",
 		"title": "Economie",
 		"vak_id": [
-			"8755f202-3f28-405d-929e-990ee4fdc521"
+			"bk:4ba5583f-b147-42cc-a083-ce5ebfd53746"
 		]
 	},
 	{
-		"id": "0a364983-03a4-413a-a4bc-f5e29992b842",
+		"id": "543d2a4d-4e8f-49fd-953c-56cbcb7814e3",
+		"title": "Economie"
+	},
+	{
+		"id": "31232cc3-5149-4123-a995-e4d1b32b6e61",
+		"title": "Drama",
+		"vak_id": [
+			"bk:904a6dbc-c236-42c8-aaa9-a5d7eaa9639f"
+		]
+	},
+	{
+		"id": "42075f32-6765-48f1-bda9-795220791242",
+		"title": "Culturele en kunstzinnige vorming",
+		"vak_id": [
+			"bk:1773b48b-1cce-4a77-bec2-5fd3aa0e2ec2"
+		]
+	},
+	{
+		"id": "eb6b07e9-3286-455e-8ee8-5a4c778dca2c",
 		"title": "Chinees",
 		"vak_id": [
-			"1f7aa29f-38d8-4dab-91db-3be52669951f"
+			"bk:1f7aa29f-38d8-4dab-91db-3be52669951f"
 		]
 	},
 	{
-		"id": "a7f1740b-0d9e-4999-9ea9-d8162c360a99",
+		"id": "18361045-bd2b-4c50-9267-cd24dc3498bb",
+		"title": "Bewegen, sport en maatschappij"
+	},
+	{
+		"id": "7fe033ae-3d6f-4083-b989-4234a0892b05",
 		"title": "Biologie",
 		"vak_id": [
-			"41dd7292-3cce-411b-8097-11db8c875a89"
+			"bk:2b363227-8633-4652-ad57-c61f1efc02c8"
 		]
 	},
 	{
-		"id": "40791fb8-7c57-4ee9-b06c-967409ee951a",
+		"id": "41dd7292-3cce-411b-8097-11db8c875a89",
+		"title": "Biologie"
+	},
+	{
+		"id": "6c836325-59de-4aad-96ed-7debb005787e",
 		"title": "Beeldende vorming",
 		"vak_id": [
-			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			"bk:4c8a3378-6616-459d-acc4-83ee5a9b91a2"
 		]
 	},
 	{
-		"id": "7070ca96-2795-4e45-a4e1-5e8d0a75bd2b",
-		"title": "Bedrijfseconomie Maatschappijvakken",
-		"vak_id": [
-			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
-		]
+		"id": "0552d51c-e6e8-4cfd-8a4b-dd3520dd0039",
+		"title": "Bedrijfseconomie"
 	},
 	{
-		"id": "b3a411f5-f49e-44f5-b0c4-096436f71dd7",
-		"title": "Bedrijfseconomie",
-		"vak_id": [
-			"0552d51c-e6e8-4cfd-8a4b-dd3520dd0039"
-		]
-	},
-	{
-		"id": "0516f4b0-dcd4-40b4-b6a4-de14732b9580",
+		"id": "48491f95-3c60-4a09-be2e-3a6504a51a56",
 		"title": "Algemene natuurwetenschappen",
 		"vak_id": [
-			"182462b2-662f-42e5-8464-f9075afee3ba"
+			"bk:3b49e7f7-00cc-47ad-8403-32adb3ec31ee"
 		]
 	},
 	{
-		"id": "d0656fa2-3dad-4f31-92e6-46547339fad8",
+		"id": "8d0779f2-16c6-44f6-a9dd-96266acc2115",
 		"title": "Aardrijkskunde",
 		"vak_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+			"bk:c001f86a-4f8f-4420-bd78-381c615ecedc"
 		]
 	}
 ]

@@ -9,10 +9,11 @@
 			"b31349e0-4c38-4292-aa25-dc86415409e7",
 			"3e7c227d-5011-40a5-a1a4-ce1d69c27d3f",
 			"c99da807-6e03-42fe-9fab-4a36e3aa355a"
-		]
+		],
+		"examenprogramma_kop4_id": []
 	},
 	{
-		"id": "eb24e715-8e37-4d80-bc81-9e67e342ec67",
+		"id": "a364f044-a2c6-483f-a097-6aef436e3d6c",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
@@ -22,65 +23,7 @@
 		]
 	},
 	{
-		"id": "4e9f3d69-87dc-497b-8bda-bf379e6ea30c",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_body_id": [
-			"aef5ac4a-33ba-4ac1-851e-502d76081b45",
-			"bcf15239-d1ba-453f-b63a-9c506c8c2103",
-			"858452ee-e246-4117-84d2-1198fc0d35f4"
-		]
-	},
-	{
-		"id": "24604675-1b95-4b72-8143-63376df6ab03",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_body_id": [
-			"c45bbeb4-8818-4e12-9bd9-f89f7e107faf",
-			"11862ca1-5b14-473a-9344-8fa6d1c3a59b",
-			"1c692e1d-2838-4fd6-815e-20466b96a22d",
-			"d7309880-4bdb-45fc-adb7-91fd36de0cea"
-		]
-	},
-	{
-		"id": "49aa70ab-f6e2-4506-9d25-e33f3203f106",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"examenprogramma_body_id": [
-			"234e008f-2876-4a96-a564-c7f1f979139a",
-			"015cd776-b17d-4f7d-98e6-439c262374ed",
-			"5b99b445-3f21-4b78-8c08-3a96ff476c4b"
-		]
-	},
-	{
-		"id": "28fc2b69-5223-40be-b6b4-0cbec56c9858",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_body_id": [
-			"dddd46eb-d688-4c4b-934d-02398b500a4e",
-			"9ec78f0b-4b77-437b-b53c-cf25a6bd51e1",
-			"21caf789-5ad0-4f12-ab9d-05b68a8c1aae"
-		]
-	},
-	{
-		"id": "86ee2340-dceb-4062-b5a4-e6ff1a4daa0e",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_body_id": [
-			"18dbb0a7-3d98-44e5-85f1-7fb65f31a7f9",
-			"7d4fac17-35fd-4306-8dea-a47da907d090",
-			"ae5648b9-2b4c-495e-8899-fd517cb1d51a"
-		]
-	},
-	{
-		"id": "6c1f329a-cc1d-4cf8-a677-67a85ab8deee",
+		"id": "8b46fb7a-6c50-46de-a858-e6fb9e453294",
 		"title": "Examenstof:",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
@@ -88,27 +31,104 @@
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "7da7b4ea-d350-42ff-8175-81ff80b8cc6d",
-		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"id": "15e5dcb3-6991-4fc8-a564-d18b4c20b23e",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
 		"examenprogramma_body_id": [
-			"ef6a3a67-ebc5-4413-a69c-260536b56822",
-			"4f051d86-dcb7-449b-80bf-cef348001a6e",
-			"d7a6100d-221d-4370-aeb7-481f35af0337",
-			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+			"3a2ac25e-3975-4a43-b7c0-a688d148bf3c",
+			"f498d137-7636-4f3f-95cf-a8a37a626d8f",
+			"436765a3-353d-4e5d-b1cc-3ecd6d80ca77"
 		]
 	},
 	{
-		"id": "27020e66-35c7-42f9-8d15-8d8246da1dc2",
-		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"id": "88e7fab3-2190-435b-b1d0-2076d1f9eef5",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
 		"examenprogramma_body_id": [
-			"ef6a3a67-ebc5-4413-a69c-260536b56822",
-			"4f051d86-dcb7-449b-80bf-cef348001a6e",
-			"d7a6100d-221d-4370-aeb7-481f35af0337",
-			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+			"2276631e-5944-4a1b-82ad-cd2a532d7a73",
+			"bda45248-50c5-416b-b102-8d38f202cb75"
 		]
 	},
 	{
-		"id": "bf914127-1b51-4c4f-9a65-784d568bece2",
+		"id": "21280a9d-dc4c-402f-b4f7-f0e8ed29d014",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"9e32beed-03de-4afe-8608-e6e7827bc7b4",
+			"f9af9523-3603-4584-90c6-1f6670354b09",
+			"45be7e37-a1f7-470a-bf0e-498b8ffc14bb",
+			"a46012bd-22f5-44f1-a087-6b95fb73d172"
+		]
+	},
+	{
+		"id": "3c93969b-59ce-45f2-b320-47c44f4b41cd",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"examenprogramma_body_id": [
+			"8cb1dd80-021b-4d9a-ac8a-a0c1ca12de02",
+			"33a4b0d0-c331-4554-a32e-0c1aa84da4aa",
+			"160e9630-4297-4f0b-8209-b87d0a5434b1"
+		]
+	},
+	{
+		"id": "4bfe38bc-d0e0-4d0b-9e9a-48b2b1ee9475",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"9caf0f5a-59a7-4f4d-955f-496d2e50fea5",
+			"240e987b-1aab-4db3-8d6a-7e5b0e6e338d",
+			"f271277e-4ce7-4bab-81a9-ef848afe80a7"
+		]
+	},
+	{
+		"id": "3f5086e6-c251-4527-8b24-82ffde686aa3",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"952e74eb-0a15-4275-a519-3e81c505d125",
+			"af69e8cd-f993-4003-9c35-dc724150ad52",
+			"a0051360-8840-48b6-907f-0a9a8aa768e7"
+		]
+	},
+	{
+		"id": "b6c52110-9a72-4fe6-ae97-1b27b9fccd02",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "2110b8a0-d304-4d4f-a46a-8ce0e92cfb04",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "d031b28a-9e2f-4016-9016-bb4525b9f5ee",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "5f445de6-aa66-4728-aa6f-bfb41de7790f",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "d2966aed-61a3-4298-8d4b-19a729c19ddc",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "763e75f3-ea76-46af-a30f-f6723838561e",
 		"title": "De examenstof",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
@@ -116,7 +136,20 @@
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "88e4a083-001b-41ac-afc0-9a15c3cd3b7a",
+		"id": "86d03253-00bd-4905-bbd1-b46109f34bcd",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "9ba6d139-31b9-4fc1-9014-7cbfb441ba51",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "0c562b80-c6e4-4da2-a344-2d3a11db3d4a",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
@@ -126,7 +159,17 @@
 		]
 	},
 	{
-		"id": "281141e3-a00b-4e0a-9e3b-bf39751c6dad",
+		"id": "3219feb5-1b6a-4999-b604-8f0ca92bf40b",
+		"title": "Examenstof:",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "37774122-bbf5-4174-a4bb-0e1881482b2f",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "d85e6a91-bbbf-4192-b206-0dfa2691f849",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
@@ -136,7 +179,7 @@
 		]
 	},
 	{
-		"id": "b130c388-b7f7-4f15-9edd-70b5109cce96",
+		"id": "497dc4fe-abe5-4215-b917-5cb60b0b198f",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
@@ -146,7 +189,12 @@
 		]
 	},
 	{
-		"id": "4e14ae9c-3dfa-4402-ac88-6199bbe4efa1",
+		"id": "4d2cae49-d87a-419e-b3ee-8bb98b486fee",
+		"title": "Examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "40bb5e69-9c42-43ef-9d2a-ce209e89985c",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
@@ -156,7 +204,7 @@
 		]
 	},
 	{
-		"id": "0ecebf2e-f0fe-4c22-a9cf-750f2c985050",
+		"id": "78351e22-26ec-4c09-b0a5-be856b2bb24e",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
@@ -166,7 +214,15 @@
 		]
 	},
 	{
-		"id": "0565bd2f-fc5a-4d4a-87c9-7f4c54e2f09f",
+		"id": "6746f61a-c777-40d0-b96b-31bedb2b3fa6",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "a970bd1f-6be3-4bdd-afd8-92a06f71a440",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",
@@ -176,7 +232,246 @@
 		]
 	},
 	{
-		"id": "c197923b-2692-4f13-844c-54ceee3d0952",
+		"id": "b879a429-f4cd-46f6-a1b9-3224b92605fe",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "7aea2afc-73af-455a-97fa-469ec33838ca",
+		"title": "De examenstof",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "1ff3954d-55db-4464-9028-3d48ccd7122d",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "b3fedfe5-7f2c-4182-9e62-7f8d201136e8",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "00712628-29d4-450e-8db6-1f27f1e3de63",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "164c436e-3fb7-47ce-ad74-0fb8b2c4045d",
+		"title": "De examenstof",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "7fbe49a6-e36f-420c-b6da-e29398b862ca",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "0bb8807e-0d69-4395-ab2a-c9eb016e574a",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "ff8b8a46-14a4-44fe-a7ef-621e978c5cd4",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "4654790b-6e61-4cf2-9e51-86197653b8ef",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "03361d52-5b0f-40dd-aca2-582d8b2ac50e",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "a54e3a70-29fa-4e25-8b27-34fefe42d32f",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "acd738ff-245c-4bca-ba99-c1d5ffe67ed9",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "21b08b21-180d-4aa0-9df3-dda89dd42d6d",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "44174be0-d1a4-4d28-a015-4539b669499c",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "2a85656c-6356-4a07-a612-097ed6f3f42c",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "34c18f24-9391-445b-a555-1ae8797771c9",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "5160dafc-75b4-4a0e-bd8b-e57a32dbda9a",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "2ec8f76d-4370-4be6-8da4-efe34e804542",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "2370dbf1-835b-4bcd-9e59-f2173cf65edf",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "b6a2c76c-e93e-49ff-8578-28b70babe8ef",
+		"title": "Examenstof:",
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "9851f768-ba9c-46b8-900b-8c2a2a2accb5",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "907dc646-571e-4106-aac1-a5cfbb4e3d9f",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "c9cbf07f-c40d-4b4d-85eb-f6b0694f69bf",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"examenprogramma_body_id": [
+			"ef6a3a67-ebc5-4413-a69c-260536b56822",
+			"4f051d86-dcb7-449b-80bf-cef348001a6e",
+			"d7a6100d-221d-4370-aeb7-481f35af0337",
+			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		]
+	},
+	{
+		"id": "e261e7f1-f2f6-40cf-9610-fd8f0a3ab2ef",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "0f7f5855-2dea-42a1-9e31-5bd6aa31f096",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"6dc861b0-1db2-4ed6-8ebc-d9ddd0a61cad"
+		]
+	},
+	{
+		"id": "7b6233df-9d63-4f66-a850-dc2eb54bac67",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "6b4b4c96-d031-4cf2-909e-889764c8b6e7",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"78ddc70f-33db-4cf2-98fc-25e6654d528e"
+		]
+	},
+	{
+		"id": "909768f7-ffcd-4a6e-aa1d-7d4a714705d6",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "e282ca50-7995-4058-a335-9d8427babc15",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_body_id": [
 			"ef6a3a67-ebc5-4413-a69c-260536b56822",

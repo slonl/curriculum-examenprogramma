@@ -1,6 +1,207 @@
 [
 	{
-		"id": "fc95dd55-1a75-42a9-8ebf-785036bbcb17",
+		"id": "39c1cc8d-8b37-4149-8378-aadd30e1ebf5",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [
+			"15e5dcb3-6991-4fc8-a564-d18b4c20b23e"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "c6e273fa-a41a-4787-aad0-88091ce7e7e0",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "f45eabd4-be66-4106-95b9-671884aac723",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [
+			"88e7fab3-2190-435b-b1d0-2076d1f9eef5"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "9a36aac1-ae4e-44fb-9c05-22dd813bea22",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "6335a2b1-7d09-42ec-b272-73a68d242cc2",
+		"title": "Het schoolexamen",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"281cbbd2-5754-4b7c-a5da-f167fd08b02b",
+			"e58eef79-a458-4b2d-9bc7-8ccddfaf97e4",
+			"5af25df4-0d1c-4e98-876e-dac07dcdf58e"
+		]
+	},
+	{
+		"id": "97f569b9-51fd-4ae2-8c85-5f2837e4ee26",
+		"title": "De examenstof",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "367168cf-0d4e-45ba-87ef-56e18b883ef7",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [
+			"21280a9d-dc4c-402f-b4f7-f0e8ed29d014"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "7d094ba8-2dcb-4868-9741-4c805eca673b",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "3bc92b4f-f612-4763-9262-84dd209d56db",
+		"title": "Het schoolexamen",
+		"examenprogramma_kop4_id": [
+			"3c93969b-59ce-45f2-b320-47c44f4b41cd"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "2885ac6e-b54a-4eae-b359-29966f98f725",
+		"title": "De examenstof",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "09cd83df-ad24-4592-9e3f-a78e0965232b",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [
+			"4bfe38bc-d0e0-4d0b-9e9a-48b2b1ee9475"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "d5292966-540e-4477-8ec4-d5cf045c7b32",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "7d8c0fd3-4742-4f22-8d91-841d4a20b5f9",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [
+			"3f5086e6-c251-4527-8b24-82ffde686aa3"
+		],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "73c06c62-5b47-4e9d-ae0d-4585c6b380e3",
+		"title": "De examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "148136bc-0c1f-40b2-8a40-d7658ee46596",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "14a042a4-8fbd-4c11-9931-090ea5c87c01",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"db5a61d2-7f0e-445a-88bd-4f7bbf8e23bd",
+			"6a0606ce-c3d1-4d3d-a9f6-cc206c6676ba",
+			"8b8fc7fa-9ad0-41e4-82c6-f3b56021e09b"
+		]
+	},
+	{
+		"id": "38ca0578-8f05-471a-b6f0-ba936a0a390b",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "07b293a8-2743-41d8-887d-31c106c61a3c",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"e3513094-213e-4f52-a616-e84e0aab0de8",
+			"ee2bb4b7-b557-4c54-b3dd-f3f05bcb656d",
+			"9ee16379-f659-4357-acc3-be16a8476c20"
+		]
+	},
+	{
+		"id": "dd3c48e6-f3e3-435c-8e6c-b510295f63d4",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"1b14370a-0b15-4138-92b4-f7d2b6a5f2a3"
+		]
+	},
+	{
+		"id": "fd6660a4-13c0-4fc4-8bc7-048c59e72119",
+		"title": "Het schoolexamen",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "d30e6cb3-c7c0-42de-899b-569719078e37",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"6b775e7c-94eb-406d-bde9-2607ee66149f",
+			"2aa4e373-56f1-4059-a47e-23e1be0d2842",
+			"c1215ced-9dcb-498a-a6eb-9ba134f4ecce"
+		]
+	},
+	{
+		"id": "d9c0dc92-6466-4c04-bb44-4dc04150644f",
 		"title": "Het schoolexamen heeft betrekking op domein A en:",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
@@ -9,7 +210,7 @@
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "68149de9-6d72-4268-a681-5044088e13e5",
+		"id": "93026c1f-dc4d-4363-9a5c-0b492333a75e",
 		"title": "Het schoolexamen heeft betrekking op domein A en:",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
@@ -18,27 +219,361 @@
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "b9ad5696-b996-4fe0-aa34-996c2b9663e1",
+		"id": "16621aaf-b54d-4820-92bb-f6be04931822",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "1ec0b944-d225-4cf5-bda2-99183a9b7360",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"85c41b93-309a-486e-9b3d-0cee1d5cfb8a",
+			"554658e0-2603-4e3f-8161-dd270982d68c",
+			"a27f2c1b-fd8e-4cbc-841a-5f3f20ef49c3",
+			"5843cd2a-01fc-4213-ade3-a7f5ee61e0c7"
+		]
+	},
+	{
+		"id": "cffe3181-22ec-4ce8-97f1-d5aa62e73ed6",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"4a3acb3e-23ea-4c35-afab-6851b2253233"
+		]
+	},
+	{
+		"id": "44f98de9-31b8-4fc3-a27a-4f2ced2e9cfa",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"f3c8721f-fdc8-4896-978b-3b707ac59e91"
+		]
+	},
+	{
+		"id": "5db3dcf1-a034-4951-8cc7-ec05219a5a50",
+		"title": "Het schoolexamen",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"05696b44-a2ee-4554-ad83-f90f5bdcd376"
+		]
+	},
+	{
+		"id": "e097b661-8652-486f-b1c8-6b1b4b50ffc1",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "276abdd8-25b9-4748-b4f9-2c5809e76a28",
+		"title": "Examenstof:",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "1e359e3a-4fbe-4695-a224-f26ea87c71ed",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"75de493a-16c7-455e-9dc7-21094a192ed6",
+			"d5b18adb-e9b4-47d0-9d7e-13ba8c057e3d",
+			"7ed7f7f8-ef9f-4c25-8694-789c8a71c2d9",
+			"dd963e50-8edb-4bf5-8733-669268b9adfe"
+		]
+	},
+	{
+		"id": "2f0f83c3-9bd8-4d1c-acc5-6af6458af88d",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"edef2604-acf7-4445-9bef-669074e852e2",
+			"05904445-297f-47d5-8d32-707854b4fa41"
+		]
+	},
+	{
+		"id": "47cd287f-a2b9-4c12-91cb-75a0345277de",
+		"title": "Het schoolexamen",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"0c98c1db-32a1-40a0-8290-d14bb06471eb",
+			"7cc427ae-6a10-479b-9a65-2a4e667587ad"
+		]
+	},
+	{
+		"id": "3968a050-fb78-49c1-863e-6c856c1f7ffc",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"e46da10a-82b3-49dd-a23f-3f2481437020",
+			"1505aedc-8a35-4343-8bab-1a14e6cf466f"
+		]
+	},
+	{
+		"id": "b052b667-76e9-4f0d-baad-7ee245c079ea",
+		"title": "Het schoolexamen",
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"3584dcfb-25a9-4eba-8dfe-9b0a297dcf9e",
+			"912d7e53-3773-4c6b-99e9-119d5136b6bb"
+		]
+	},
+	{
+		"id": "061d3193-24c1-4925-8b9d-2edbf1d309da",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"60eb0273-4fba-498e-812a-b2a7fa4dbe25",
+			"672a15fa-d8a6-48ff-ae96-eb62490ca29e"
+		]
+	},
+	{
+		"id": "9dadb275-eb11-468d-a9af-bcae6e281437",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"ea24bddb-eee8-4acc-8207-2e2ef7c6a964",
+			"7856150b-cf25-4d36-9195-cae9a5b2f2f6"
+		]
+	},
+	{
+		"id": "a62113c0-5ab5-4bd4-8118-eabbcdd09bc2",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"0fc99d5b-a412-4ada-911d-04a903384669",
+			"fab25221-72c4-4bc1-bc51-183c9e7cc058",
+			"da83ab36-4442-4a0a-a7bb-7fa80fd0d506"
+		]
+	},
+	{
+		"id": "63540d9e-87d1-4ecc-bfb2-cfd6e37a1c0b",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"9017ff09-8138-4db7-8752-3ae5e47c8583",
+			"feafc5b1-e44a-47dd-a325-2519b13957b9"
+		]
+	},
+	{
+		"id": "e6d6dd85-3f07-4a5c-87db-9dec463ec96e",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "d8e90cc7-dca8-47a0-b22f-9daebe5ecfcd",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "77cbe044-cb77-4dab-b879-36d4f15daca1",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"e781630d-1378-400b-8108-d653e7ba5733",
+			"3a75a5a0-2b89-4320-898a-82d1350e3994",
+			"d8d8a7f0-b1c7-47be-9bb6-f9a01325f750",
+			"84a44ce7-af08-4d42-b3d6-db314238073a"
+		]
+	},
+	{
+		"id": "b8a3b510-a586-43ed-96b9-c934bd7b9b51",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"78294d0c-5d15-4eab-9ae1-354c62e9ed9b",
+			"fb15b59e-56e7-4949-b63a-8a39bb8ef3f7",
+			"d43042c4-28e3-4ade-9bd8-94f5e8f0dca5",
+			"fababa97-5afb-4a6b-a17b-8b895600254a"
+		]
+	},
+	{
+		"id": "7a7945b0-d754-467d-bae9-37eaae1cb056",
+		"title": "Het schoolexamen",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"d6132265-a374-430b-8514-415cb60e2ab2",
+			"8122637a-b365-4c02-b520-0e93fa2d9d13",
+			"1e1f47d6-c24f-411f-aaf0-998416c88056",
+			"709ac7d8-cfeb-4ee9-9346-4bfacb871d77"
+		]
+	},
+	{
+		"id": "39ed7552-9d9b-4591-bcdb-776d31436721",
+		"title": "Examenstof:",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "f75c6f01-48dd-403a-9c75-71debe677151",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "c556c4e2-3860-4d1c-a338-61d75e8ce671",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "5bf80a07-6e78-40c3-928e-3dd19c465d75",
+		"title": "Examenstof",
+		"tag_id": [
+			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": []
+	},
+	{
+		"id": "11394b64-b4e0-41a6-8a5f-b1cb2b12d54f",
 		"title": "Daarnaast heeft het schoolexamen betrekking op:",
 		"tag_id": [
 			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
 		"examenprogramma_kop4_id": [],
 		"examenprogramma_body_id": [
-			"6b9ec3ea-3202-40f7-a1ba-5cf18fbafa3c",
-			"7a8332de-26fd-4a41-9840-7c871e0ac0b2",
-			"5d046afb-5900-4c29-ab2f-cd11ba380336"
+			"f27f0ad0-4584-4d2e-bd14-61c9b2a8bf7a",
+			"649c07ab-7984-41e1-bcea-bfbd4dc20529",
+			"6a306766-35ed-4fcc-ac3b-47b8c6554c1a"
 		]
 	},
 	{
-		"id": "c46e5796-a0dc-49c9-9346-e3e5f006a4ec",
+		"id": "c2ad0ae1-641f-4913-8216-609bb00b2104",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"examenprogramma_kop4_id": [],
 		"examenprogramma_body_id": [
-			"aa0cbbd9-5830-4f1d-b7cb-ac3514f937e0",
-			"daed7fee-e305-411b-b076-af99fb524497",
-			"37e230ab-05ef-42e6-8050-d8e6108a3fea",
-			"2b74c7e7-32ed-4390-b000-47c99942f4f6"
+			"a877f11a-c04e-4d43-80f5-b2c081456bb4",
+			"887c2452-60a5-45b7-b5dc-06ed1849586b",
+			"c69c9854-2fee-4c69-8414-6089fc54cd50",
+			"60feb064-390d-4f9c-84cb-9f195429535b"
+		]
+	},
+	{
+		"id": "3c16d91c-95a4-4d24-b17c-80d6f2535191",
+		"title": "Het centraal examen",
+		"tag_id": [
+			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"3d342c99-7104-448a-b091-62fbfa3745df",
+			"a9c2b8d1-9b73-4bf4-9d29-44dc353052cc",
+			"092cc44f-4883-4e60-bcf4-74154b6a1a00"
+		]
+	},
+	{
+		"id": "5e20345a-c94d-4e95-a57b-3789450591ff",
+		"title": "Het centraal examen",
+		"tag_id": [
+			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"a4739f73-d7c3-491f-ab82-27f725f0d124",
+			"1c8319e1-afa8-4103-adcd-f1e3327a9696",
+			"1e7d3955-abb8-4ddb-9542-287a11216307"
+		]
+	},
+	{
+		"id": "be1f5603-14e3-4a14-9e15-c8789450caf1",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"dac41875-2709-48cf-8e5f-9ca371b28329",
+			"95fa39d4-a014-428c-aba5-8aa3f26cc522",
+			"b078e00b-2755-4429-b7de-92e8569d9ec4"
+		]
+	},
+	{
+		"id": "d565e8cd-8e74-44d7-9c98-3395411e41d7",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"c8162a36-17d1-40e1-8bd8-206c9599d948",
+			"c5910b64-ca47-46e4-a2b0-b9d6aa979e8f",
+			"f6ff486d-ca7a-447b-a56a-919da062ac03"
+		]
+	},
+	{
+		"id": "404a64a1-9880-4495-8b00-a4e77f5e7269",
+		"title": "Het schoolexamen heeft betrekking op domein A en:",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_kop4_id": [],
+		"examenprogramma_body_id": [
+			"270b6799-e32d-4d61-a157-951df4809db4",
+			"e053a227-b2a1-4524-8db7-e5df8de0eed5",
+			"b531fd20-2edb-412f-9132-23013274e5fe"
 		]
 	}
 ]
