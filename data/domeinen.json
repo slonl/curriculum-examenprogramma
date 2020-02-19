@@ -151,7 +151,7 @@
 	},
 	{
 		"id": "532621b9-c573-44bc-985f-957375c03d18",
-		"prefix": "WI/D/V/Domein B Kansrekening en statistiek",
+		"prefix": "WI/D/V/2018/Domein B Kansrekening en statistiek",
 		"title": "Domein B: Kansrekening en statistiek",
 		"examenprogramma_subdomein_id": [
 			"a0715b7e-6e6e-4699-b1d3-94acee96a365",
@@ -166,7 +166,7 @@
 	},
 	{
 		"id": "9e6b95ce-1aaa-45e7-9cf6-c6805a3e8f5c",
-		"prefix": "WI/D/V/Domein C Dynamische systemen",
+		"prefix": "WI/D/V/2018/Domein C Dynamische systemen",
 		"title": "Domein C: Dynamische systemen",
 		"examenprogramma_subdomein_id": [
 			"8f7f2f31-7cf5-47b8-a1bb-aa5a31858470",
@@ -177,7 +177,7 @@
 	},
 	{
 		"id": "fd1d9c93-3a21-4d0e-b76d-07ea235fbcb7",
-		"prefix": "WI/D/V/2018/Domeind D Meetkunde",
+		"prefix": "WI/D/V/2018/Domein D Meetkunde",
 		"title": "Domein D: Meetkunde",
 		"examenprogramma_subdomein_id": [
 			"4cb72338-70e8-4ee7-b764-62e1f9b18256",
@@ -846,7 +846,7 @@
 	},
 	{
 		"id": "baa21fe3-bd82-4e21-9073-bf7acc8913a3",
-		"prefix": "SK/V/Domein G Maatschappij, chemie en tecnologie",
+		"prefix": "SK/V/Domein G Maatschappij, chemie en technologie",
 		"title": "Domein G: Maatschappij, chemie en technologie",
 		"examenprogramma_subdomein_id": [
 			"e92b6b4f-0818-4d22-a79a-e12d600edce0",
@@ -954,7 +954,7 @@
 	},
 	{
 		"id": "baa21fe3-bd82-4e21-9073-bf7acc8913a4",
-		"prefix": "SK/H/Domein G: Maatschappij en chemische technoligie",
+		"prefix": "SK/H/Domein G: Maatschappij en chemische technologie",
 		"title": "Domein G: Maatschappij en chemische technologie",
 		"examenprogramma_subdomein_id": [
 			"e92b6b4f-0818-4d22-a79a-e12d600edce0",
@@ -3089,7 +3089,7 @@
 	},
 	{
 		"id": "6e859558-6b3d-4b60-9d2c-9b53b8763766",
-		"prefix": "LO/K/3",
+		"prefix": "LO1/K/3",
 		"title": "Leervaardigheden in het vak lichamelijke opvoeding",
 		"examenprogramma_subdomein_id": [],
 		"examenprogramma_eindterm_id": [
@@ -5822,7 +5822,7 @@
 	},
 	{
 		"id": "c13313d8-1f1a-45d5-83cd-37e628f00206",
-		"prefix": "BI/V/Domein F Evoluatie",
+		"prefix": "BI/V/Domein F Evolutie",
 		"title": "Domein F: Evolutie",
 		"examenprogramma_subdomein_id": [
 			"e944370f-5659-4c27-83cb-9849f0a248b4",
