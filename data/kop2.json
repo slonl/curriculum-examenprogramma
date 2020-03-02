@@ -1,266 +1,153 @@
 [
 	{
-		"id": "e625807f-aae1-4c47-87bd-2ffb42292237",
-		"prefix": "1.",
-		"title": "Werken aan vakoverstijgende thema’s",
+		"id": "75f053d4-d859-4ab2-a0f9-c0d454599807",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"a450e54d-1557-4080-b3ff-3bec0255fd22",
+			"a845bb33-f93b-4833-979c-02dc180216d1",
+			"3a263485-6f12-45e5-a51d-ab5e33a93ced",
+			"80328cb1-2127-481b-bf02-28978ba4ac1d",
+			"14cb503f-0695-42b4-b028-20c2658b7fc4",
+			"4dec8e6a-0c7b-4431-a922-57a75721aad7",
+			"e207298c-7ce2-4e33-a6a2-20afcbe167c3"
+		]
+	},
+	{
+		"id": "33805b37-8dbd-47cb-859e-47c10240043c",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"51112e8a-c5c3-4551-ae71-a3d63037cb92",
+			"7439373a-81a6-41e6-810a-4d9c9c43e5f8",
+			"cbb1c4a4-8806-461a-b3d5-b0ffca586893",
+			"3d0e4713-726d-4fca-a21f-5d214b59af1b",
+			"37ac3091-b688-46f6-b868-f259d92c7016"
+		]
+	},
+	{
+		"id": "eef964da-6545-4e48-89e3-b6d654cc3a7d",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"7340d234-4f2b-4e7e-a7a8-5ba530f49728",
+			"9c96c560-9bc3-48d7-8c94-dfdafdb5a7c5",
+			"af419e02-db9f-4869-96ae-16ef95128042",
+			"e54912a1-68ea-4457-a496-35c4c0195a89",
+			"5b4c20c0-7b9c-4537-8b75-f5ff8426da91",
+			"9b0b744d-930a-4b93-b475-2d71d29fded6",
+			"152d33e7-2c7f-4882-8898-2582e37bae44",
+			"6f1081d0-130c-43be-b6a7-233ace0c3ffc"
+		]
+	},
+	{
+		"id": "4800d7e8-e499-45fd-9162-eba9896527d4",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"79288ded-ed45-4b04-a5a7-a66be3b371f0",
+			"cc7ef3d7-678d-4316-9794-00052e993375",
+			"9bd4f346-18b9-4bd8-8499-9124152841b6",
+			"68f9fcf9-eabe-457d-b055-712bdf2733b1",
+			"270d150f-97ce-42c3-b742-78a171a4f1e6",
+			"b6111615-4da4-4138-a260-f77c1fb2d50b"
+		]
+	},
+	{
+		"id": "6bdac9e1-3e7f-4e72-8fd6-62426dd2e757",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"84d1fa5c-d155-4135-b04d-ea17e7f8b950",
+			"52f7c2a5-e0cd-4acb-a1cf-08103d184c9a",
+			"70bd1978-cb33-4612-82ab-ce613181e570",
+			"19193ed3-68bb-415b-aa8e-19273d24df83"
+		]
+	},
+	{
+		"id": "81a41cfa-d188-46cd-aefc-6eff80eb45d9",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"b84e06b0-4416-4584-9f06-aa2efd46abc0",
+			"c30310ed-1b5d-4838-ad62-84ddd2f7c8cc",
+			"eb2b5ae5-7225-4728-8c4d-c7e20999e0dc",
+			"2d922165-57cf-49f9-81dd-a6d960b46256",
+			"9e3ef7dd-ee23-4746-9561-20753929d4af",
+			"bff0eb33-9cb9-4111-82e9-c85404e2bfda"
+		]
+	},
+	{
+		"id": "daae2125-369f-4396-a159-bbc6f4dc5251",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"9f8060b7-690e-40b5-a565-873a12eede83",
-			"ad0d9a09-834b-4088-9e4b-9058fdd0f183",
-			"e94f48fe-6505-4be9-aa67-8bb51835a796",
-			"350b0f93-493b-4391-b267-a93229fbe3a4",
-			"76d80b52-17c3-4d55-a030-585dc77ba142",
-			"db08f498-947e-4cbc-bb20-02d74979712c",
-			"40800109-91f0-4796-bc40-52ae8d4a2dd5",
-			"2604fbe4-3093-4b20-baad-62b139e605ee"
+			"428dda9e-df2e-4698-a058-6d29dbca3846",
+			"2490c38a-e321-4209-9e48-641efdf948b3",
+			"d6c06992-90a9-409a-bdc6-55a1769db2e7",
+			"b6fda3fe-8741-4078-8bd4-8526008957af",
+			"7a37d7df-d330-4d8d-a125-7376841063ae"
 		]
 	},
 	{
-		"id": "af6de566-2986-40ae-9359-0096d6307bac",
-		"prefix": "2",
-		"title": "Leren uitvoeren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
+		"id": "8e61b645-0b6d-4aa0-b0f9-2f44cea97586",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"9abff946-93ac-480c-b508-6b76efcf6146",
-			"b74afe65-a569-46f5-8c9b-b6165dcbbdd6",
-			"0238274d-a5ce-4c07-9cf8-5eafcccd2483",
-			"764ca9c5-b99c-4a5e-aed2-aae721c5f2bb",
-			"48abbf92-f596-4529-a2e0-3633abcae3d0",
-			"79200f1c-a487-4943-b12e-f5c4c6664a22",
-			"b29ac6f7-da94-4266-adde-70ffe385d8e3"
+			"aff26af7-0112-4af7-b8c4-82bae24b7620",
+			"fa4efab3-aef4-4b53-bd6f-5173f0a3a150",
+			"995df091-26f0-46e9-9506-e70358b7a0cb"
 		]
 	},
 	{
-		"id": "d9a5ecbd-563f-4882-a490-bc808dd73307",
-		"prefix": "3",
-		"title": "Leren leren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
+		"id": "df33a491-9bd4-4487-b629-86bcd8dbabf6",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"9b7a4400-75f3-4bb1-9aa0-ebf9ae390a1b",
-			"9ce7df8d-44bf-4d01-86c4-015f6cd7b77f",
-			"e8e1fcab-378b-4f85-aed5-f5a80e60253b",
-			"ff73fc5d-b07d-402a-a843-2576874cfb46",
-			"57d1b876-7922-44dd-82d1-d1ecf654c96c",
-			"5398d3ea-4dab-4c49-9cc1-37f3254c0fac",
-			"81b31f9f-3bac-42c6-aeb9-6724a4394b27"
+			"cdf9052a-5397-4678-b702-032e9b782014",
+			"105a05bc-1024-4792-b4fd-12bfff3173a9",
+			"0570ded7-435b-4338-ab6b-e9554140706e"
 		]
 	},
 	{
-		"id": "d0fa5362-b124-44b2-b549-cce54e12dcd1",
-		"prefix": "4",
-		"title": "Leren communiceren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
+		"id": "537e9fb2-1daa-452f-97c0-86f7463daafc",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"8cc29807-653a-4318-afb9-d0ac810837f0",
-			"1f40ba8b-dc80-4776-adb6-11947149d920",
-			"4b93677f-7649-45ff-b2e2-550a4878e4b6",
-			"b1b78fec-da7d-4fc4-9408-71742be7aab3",
-			"0ad279cb-468d-46a8-abec-6b7cb1f45edf",
-			"e01623d2-41d9-4cbe-8850-5fe4f074634f",
-			"39a808ae-8995-4102-9a80-db092e994b25"
+			"2ed747ad-09c9-4aad-99f1-62d6ecddf35f",
+			"9ceb1c8e-ba27-45b9-a4d5-6742ef32ead2",
+			"e136d52a-bb16-4537-9b4a-4980b5459c7a"
 		]
 	},
 	{
-		"id": "51cc5bbf-ecea-4014-9de0-84fbccf213c1",
-		"prefix": "5",
-		"title": "Leren reflecteren op het leer- en werkproces",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
+		"id": "b4823b56-51db-4fb8-b9f1-dbd9f0c1b0b7",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"82eb1869-4530-45fb-8479-165d016abc98",
-			"14b313d0-5188-41d9-8c22-7b6a425143f2",
-			"cef54650-d38e-430d-9364-572d091dae0a"
+			"75788e4d-8c71-4d35-b5e6-e60296cde81d",
+			"0da37105-de42-4089-824c-59cee4a86908",
+			"134c0aa5-0e35-48f3-a07a-f72bae889a81"
 		]
 	},
 	{
-		"id": "c61abd39-7c3c-4875-a5b0-9bc35a7b65d7",
-		"prefix": "6",
-		"title": "Leren reflecteren op de toekomst",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
+		"id": "3aa19e77-941d-47d5-839b-3696a51421bb",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"9c4b41ec-df96-4fec-bf1c-74247d0d59b0",
-			"13c9b0ab-d6a5-4d55-8e51-707e4341577b",
-			"44afd902-33bb-4758-a8ed-13fa1cf384f1",
-			"990fdb92-ec6d-4812-b031-3ff5fdfe1080",
-			"ce01a395-548d-4c28-8214-b67e63cded27",
-			"0152b14f-35af-42d2-b5f3-b835b2ecddd6",
-			"bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
-			"ea4a0513-da7e-4249-8190-97cc2a7268b9",
-			"d2c1b535-896e-4c89-8e8f-512050df495a",
-			"8e891b4e-df3a-4a32-8912-6a8234025a89",
-			"c2f8b4df-6c33-4fd5-9530-cb89c3b1e600",
-			"4d37d629-56a9-4e16-96f6-92702a672101",
-			"4174dc9f-6de6-4441-853c-bb33aeed888f",
-			"12892192-9ad8-424a-b4c3-3b6a3d39fe4d",
-			"ac7de7a0-f54c-4119-bd7e-db780cd75a2c",
-			"188ba412-d3e4-4117-9d65-76c7844767ff",
-			"506ea103-562b-407d-b9cd-4a5008d35aee",
-			"188d8ca1-c29f-407e-8b5f-752446b53898",
-			"567f807a-46c4-420d-b13e-bd50edde6da8",
-			"026e015d-b699-4a2f-b3a7-58a55bb5866e",
-			"f043f345-cf3f-4815-abed-c49f05b382d7",
-			"d9282e56-f764-4a05-96c5-1b1850ad3807",
-			"2832b513-2462-459c-abfe-30ca98108f1a",
-			"6d1440d5-537e-4299-90a1-3e1a96afaaea",
-			"eea547a9-e4de-4c2f-a4b4-a62a6c7bfaf2",
-			"c1eb6497-4fd2-4542-a705-5d3b1301355b",
-			"89411baf-0760-47cb-93d3-683ed46e0d17"
+			"86e1c6e0-3ed0-4c07-bd76-b019899a9d53",
+			"f6160b64-2652-497f-8ee0-3798ff5e1a8b",
+			"543338dc-4fca-417f-b0aa-be729a72bca1",
+			"610df3ab-da46-4e08-a37a-4c2320037ae7",
+			"cef0d7da-39ef-433a-84dc-e55292fb54bc",
+			"8f846fa2-1a08-405d-b77c-3bda1bc05614",
+			"f6546f14-2214-4bd7-b2e8-a4ea95303819"
 		]
 	},
 	{
-		"id": "ba9eb543-208f-4f0a-9f9e-d8252753afb8",
-		"title": "Het centraal examen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"1218086b-49a1-4260-8493-b818b84b9c3e",
-			"d66f24e9-a4b5-4a44-a769-4c9d8c3de398",
-			"937df1d1-51d6-4943-889a-06d703dc2c5b"
-		]
-	},
-	{
-		"id": "077240a0-82d9-4cc5-9a73-bb0a311e546f",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"a021f633-05eb-45f3-a96a-3a2d60c88505",
-			"e96d8b15-b92c-424b-ae00-0a0479287f85",
-			"8100daa1-8c77-421e-accc-a80e9293031b"
-		]
-	},
-	{
-		"id": "54d23845-99fb-495a-8d1a-a0e88729a59c",
-		"title": "Het centraal examen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"15f22278-0d3c-47b8-8bfc-c1fe84bbea09",
-			"fa4e4b4c-cb4f-441d-bfbc-73d6bbd0b366",
-			"ec742fe3-5f4b-4eae-a13e-29e192af293e"
-		]
-	},
-	{
-		"id": "a498ff8c-3c31-47dd-9e70-c78c7fc86d0a",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"6493d48c-1571-4123-8c9a-e72ec61a2eb0",
-			"8e5d51fe-a410-44c5-a999-7aa553a6e20b",
-			"82785db7-9d64-4a37-90a1-5398917d57ba"
-		]
-	},
-	{
-		"id": "bdbdc6b7-c3b5-4179-82a8-427cd06f6db2",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"d85e1062-7385-426c-9983-4a82dae55fd0",
-			"9ff9ff90-fa20-4773-bb24-e20aa257b76f",
-			"8277cc72-de19-4100-aabb-814af11965d0"
-		]
-	},
-	{
-		"id": "e31ac874-eed5-4af4-a286-401acc2e15b1",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"d22bdaaa-b71e-461d-a430-4f29717d5c4b",
-			"d1beac26-990e-4a6d-9233-b7b8e049f423",
-			"faa1f267-c9d9-45b6-9ac1-c2cef1712d3b",
-			"0d011693-f62e-47b7-8ff7-6baa874391df",
-			"fc82b761-bfde-447a-9ffc-68b7324366f5"
-		]
-	},
-	{
-		"id": "305d4711-5bde-4a4b-b9c2-7fcbd48fe242",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"bf1fce6b-67bc-45d9-a985-3e7e67627fcf",
-			"5a2d9689-255a-4b24-82ab-e7110e44739b",
-			"38c817d4-1038-42cb-94d5-fbed8688059e"
-		]
-	},
-	{
-		"id": "0a7daf3e-a94a-4eb9-895e-c7269fd5cdcb",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"fbb699a3-0ddc-4c84-99de-577c1c815750"
-		]
-	},
-	{
-		"id": "5730726a-79f1-4899-ab43-bb72a98b30c7",
-		"title": "Het centraal examen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"3bbc1aae-1eae-4b40-955a-5b3a7f878ba8"
-		]
-	},
-	{
-		"id": "8f20f2d2-78e4-4fe9-bd14-1667588089e5",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"e18e3e8c-3337-4dd8-ae2d-ac31099d0e79",
-			"aeee39c7-162c-4924-a788-149243c6b27c",
-			"e8461376-0d80-40c4-b625-8e6bcd9a5c11",
-			"873ea2c7-d46a-437d-a77c-ad9dfd0dfe00"
-		]
-	},
-	{
-		"id": "343a40a0-ccf8-47b6-915d-bbf5a95e148a",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [
-			"f97d2b3e-9feb-4c9d-8a77-16ec4accc751"
-		],
-		"examenprogramma_body_id": [
-			"3e2def2f-9a1c-4dd4-953b-2d83611fdb2e",
-			"12e42ba4-a3ae-404c-a6ae-9fdf0c73b0fe",
-			"5983d5d1-d5a2-48d0-b357-e969f14971eb"
-		]
-	},
-	{
-		"id": "e89a75ad-ea37-404c-8dee-bd10605e37a4",
+		"id": "7c59348a-4a62-4c79-8807-fbc67e046d27",
 		"title": "Algemene vaardigheden",
 		"tag_id": [
 			"3011f700-4baf-48a1-81c0-7dad7fdd3caa"
@@ -289,36 +176,21 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"id": "21538d10-f87d-4019-bfde-28c4b2a79de8",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "9e5c3eae-f89a-4cb7-bfea-418236d11b01",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"de82b339-388b-45c1-b6a7-184b49e22219",
-			"26bf2bad-bc62-481c-981d-9692523c5fe9",
-			"adcaffcc-abf6-48c2-b46e-34ce9f8852d7",
-			"1b47975f-1de4-4fe5-8630-d27202284392"
+			"19ca7d0b-0b9b-4e45-a721-a4dc7f4384ef",
+			"da5703a8-e24d-45f1-be4f-deae9bf31d28",
+			"b501e100-098b-4bb3-a55d-6988589c4662",
+			"9625617a-ec85-4519-bd33-eaab09036b60",
+			"4d82d827-1586-4084-96e7-47d11181b73d",
+			"c65b5aff-5631-4e01-b5fc-c87227fdc287",
+			"ecc7c3ab-fa81-42c1-82a5-3de2accde01a"
 		]
 	},
 	{
-		"id": "a1d30890-d9e7-481b-9a0b-f7c03546ec96",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [
-			"b3bf7ec5-5b8c-41bd-aa0e-da2e834841f6"
-		],
-		"examenprogramma_body_id": [
-			"939e1d9b-acbd-45ec-aad4-fa6e067ebacb",
-			"8cd47ee5-bbe8-41ed-abce-9ffc19f4c569",
-			"fa091591-ccb8-43ee-8ab9-b498505ea7f8"
-		]
-	},
-	{
-		"id": "4fe6c71a-99c6-4a95-b0a9-a572e200f92a",
+		"id": "17347165-65db-45d3-a93e-4de8de874cbc",
 		"title": "Algemene vaardigheden",
 		"tag_id": [
 			"3011f700-4baf-48a1-81c0-7dad7fdd3caa"
@@ -347,24 +219,16 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"id": "8176ebb8-844f-4711-be65-b0cef2071173",
+		"id": "34d509b8-de66-4778-bc7e-dc8daa085600",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"2e542b37-fd88-40f6-945c-2fa4fcbda72d",
-			"07b39196-cc53-4414-995e-4e0fae1d89e4",
-			"6c2c1feb-3dec-4a03-b074-c31725e0039e",
-			"3fcddf45-2eb6-4cf7-852c-84c7c1a509fe",
-			"7f967485-7033-4cc1-aa45-c50fc01b10c5",
-			"f9ab3edc-6279-4281-add7-97ba0963389f"
-		]
-	},
-	{
-		"id": "52aed2ce-efcc-4908-b986-4e1db90f2b8c",
-		"title": "Het schoolexamen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"be4e0de8-80ba-4a69-b27a-fd14aa8db6f8"
+			"49984be7-f37b-4f7a-955d-22923bfadd2f",
+			"aa9fcac7-b950-4d63-b8c8-91c12416eafb",
+			"195044d4-f689-4989-bc27-d7c4e98f2203",
+			"5394f8cc-0ab7-40f4-a9f0-6ee5c0e30480",
+			"7d300e3c-b812-4b90-a000-14e794ea1553",
+			"beed41ac-1eea-40d6-8a79-5558d9dd1143"
 		]
 	},
 	{
@@ -389,37 +253,16 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "594b48d4-1299-41c0-a96e-8ebb766a4949",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"d2b18d8c-a0fc-47a8-b86f-c6cd76296ee4"
-		]
-	},
-	{
-		"id": "77e1525a-6024-4247-af05-809c0d0ca5b4",
+		"id": "fec91043-2993-419a-9696-41f11b42b8c6",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"e308a3af-ef82-4cce-9dfb-b4ecd6a03bc2",
-			"d2edbd41-4f2e-4b38-8a30-72fde292b3aa",
-			"d2045430-58dc-4f79-a293-d91b5685db23",
-			"6bfc3468-b5b5-41f5-9982-57eee0e8dea2",
-			"365e1b01-6d82-496a-95cd-a8cd013f1025"
+			"3a48e598-f58b-4fb7-8b26-d2066b28b96f",
+			"9027ebb2-326e-47c1-82df-2351892e4232",
+			"6ceb10ab-6f38-4f05-83bc-d6d3d93f4ac9",
+			"f1334a4e-ea71-4e8a-a300-09571c9824cb",
+			"dff9a46f-d862-4f6d-ab9e-a48669d86548"
 		]
-	},
-	{
-		"id": "0120fcbe-4728-4e05-b214-5894df86a69d",
-		"title": "Algemene vaardigheden (profieloverstijgend niveau)",
-		"tag_id": [
-			"4ddbf045-8c97-4983-88fd-afa1e78afd77"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [],
-		"ce_se": "SE"
 	},
 	{
 		"id": "42a5cb0a-911d-46b9-8f67-50e0d52caca9",
@@ -442,55 +285,19 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "8ae1f7ee-7401-4d3a-b278-a53579b8b788",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"f69cb564-e3e4-49be-94ce-2eeaee86410b"
-		]
-	},
-	{
-		"id": "a53c1dde-b9d7-43f3-93ee-32592770f565",
+		"id": "77a44390-eb38-4d56-b85a-592a2c38a47b",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"8bfa90f3-f626-4e39-9894-cb3002615c87",
-			"b914f91f-31df-44a7-9bec-2faa69cd8104",
-			"88d4c419-4239-4897-b7c7-7759157ebe8d",
-			"f509d8f4-bcdb-4067-a7b1-a9273d194d26",
-			"c5a585f5-0207-4834-9a89-e0fe3e3d3e19",
-			"dcbc5bf3-6e8e-433b-bccc-82b626c3b369",
-			"193a0921-11b7-4541-9ce3-e07e0fbe678f",
-			"8327c1cd-c736-48c9-a7fc-01862259922d",
-			"eda3be9b-1cb7-44d2-9fc1-7f0d4f077ab4"
-		]
-	},
-	{
-		"id": "b13d2b54-b9cb-48b8-aabb-596416e687c9",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"9d630372-f797-43f7-8669-29cb8a4ea19e",
-			"449dd31d-e924-4b7f-8697-187fc8be5d72",
-			"6889f714-6fb2-40a7-a97f-0ea9a75a9d2e",
-			"ce47e08c-dc0a-4b02-8d3a-986e0a32d62a"
-		]
-	},
-	{
-		"id": "38c85b14-bc2a-41a1-8a24-8c01751be5ef",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"ff7d9372-eb27-4c49-8e79-416c8e754b5e"
+			"1248de14-cd99-4c1a-a1f9-108a21439303",
+			"6fda2ffb-0938-4116-9b23-0d4ce807ac5f",
+			"f55d44c9-0267-4c53-82ca-4d02973fbda1",
+			"52406ff1-28cb-4de5-bb58-21b77eab093d",
+			"4d4157bc-bdbf-4382-95e7-75a26bb4903f",
+			"5213cc75-7693-47ea-96e6-80573d640f9f",
+			"e29680a0-d8b3-4e7c-9afd-7234815d205c",
+			"454ca08a-3ef5-4bcc-b64b-a9cf256c6846",
+			"f522ef8f-f2ac-487d-8e73-17966461b894"
 		]
 	},
 	{
@@ -515,44 +322,19 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"id": "bcb26a5d-2f41-4645-8548-f0260890af11",
+		"id": "fe71e6e1-e050-42d8-ad10-1c65bf03a099",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"4334d132-6587-44e6-9292-e0093c174d27",
-			"42e2f876-8ebb-46dd-9873-28851f4b5e0c",
-			"c7cb5e3a-66f3-4afd-8f02-47412453e3d3",
-			"41502cca-0c31-4004-af3a-ed968448057a",
-			"e8dbef17-63c1-4db0-a446-8276b515b689",
-			"35642472-e1c7-46e0-893b-0ab16e5916a3",
-			"b3352661-461b-4e61-97a8-780fd95c3de4",
-			"61f6a9b1-0794-49fb-b15f-e4a7904c83f0",
-			"bd48f69f-ed41-40db-9b5a-c39b657aada0"
-		]
-	},
-	{
-		"id": "d7e744b2-4758-4b41-bba7-7850d06c1451",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"449dd5d5-9a52-485e-9fc8-115e11b44dd8",
-			"6ee42540-eba5-4e05-9d54-4e464556e404",
-			"e4ac6d34-9430-4d14-917e-caea55fb9ce0",
-			"1b908dde-32fd-4817-9074-3987530ffd64"
-		]
-	},
-	{
-		"id": "15509dce-f950-41a2-ad43-56ce14767ae6",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"2b3b0a05-ccf9-4513-9efb-d954cb59eb7d"
+			"9fe50c20-55c8-4af7-9cbe-5d33a5a2c58f",
+			"fbf39465-6850-4ae5-b48c-63906fbf3b75",
+			"d7cc82dc-3bfe-49ab-ab10-3a20749ad8d0",
+			"81ee7e3b-ec29-4bb3-bfa1-6e2d59ba36de",
+			"c41b8f2d-2021-4a7b-90b3-e91bdd7c2cce",
+			"aec95284-1b6b-4a82-a9d6-21cfa0fffe41",
+			"99f72be8-80d7-493a-9c3f-53c304601eec",
+			"f0aaea3e-50ea-45c4-bd0c-df448c0e69d1",
+			"cc8d1662-a160-4952-a8c7-b44a6cdd21b4"
 		]
 	},
 	{
@@ -576,358 +358,241 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"id": "5da7587e-16cc-4568-bbfb-2b6db1fabde3",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"2d4ffebf-0e5c-458e-beaa-80bfdf3304a2",
-			"78df7d91-a40d-4a4c-a311-0dcc89acd1e4",
-			"0b0c8076-d931-4b76-9550-7c836f00292e"
-		]
-	},
-	{
-		"id": "035a56f6-532f-41ef-9b5d-3dbaf8c819da",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"c6bfe1ab-3e75-4950-9506-f01eac4232d6",
-			"b047dedd-fdd4-4dac-8fb8-e6f1f7680c0f",
-			"a31d8b6b-0c16-45ad-bcac-7f1fabe344ee"
-		]
-	},
-	{
-		"id": "42f1f8c8-4778-4e98-988a-6968df86f40b",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"382e892a-63d8-4532-b967-50ed653fdaab",
-			"ef6b793a-1875-4a45-a58c-d0762a73a7fb",
-			"f70f5585-00a5-4688-ab3c-ae1a73f66c8d"
-		]
-	},
-	{
-		"id": "5304030a-a78e-49b1-858c-161facfda727",
+		"id": "831e9c53-7e0e-4c7a-b434-d445fc5b3e14",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"8cd8fa64-2974-41cf-90ee-afd1b7ac721e",
-			"a464e6c6-9c4a-4748-a7ba-701f402b4e83",
-			"30aeab5e-b1e2-4e77-b54c-56d3f94d4c3f",
-			"9a96189f-e821-42f4-bfed-d152e1135e15",
-			"a51bbb75-98b6-4157-bc71-bebdec670f31",
-			"bb5ac5af-aca2-46d6-9624-06300a048e33",
-			"2a80f02f-df83-4545-95d4-ceda109f2f9a",
-			"a482c054-e784-4d8e-a524-ff5dda5bdb06"
+			"5dc0e847-2b06-4711-bf7a-b6e787db297e",
+			"d2fcf580-bed1-45c3-a93a-ffff60f01015",
+			"33f0c292-5229-4daa-b7e8-9825ab2a1004",
+			"5dca15aa-96bb-49cc-9519-75a5e8f7f8d5",
+			"28defbe8-e777-4e5e-b0ce-2f0ce04a5216",
+			"59be3fb8-101c-4b58-8ff1-271046bdbcf6"
 		]
 	},
 	{
-		"id": "30f23e1b-dc04-432f-bc4e-c9c387c072b7",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"099ce52f-4eee-4fa1-b6d3-ac25b1933f67",
-			"85135a13-10dc-4ddc-a8b0-413c5a6460ba",
-			"e5dc7678-4c88-4f3d-a76f-3adefd5584bd"
-		]
-	},
-	{
-		"id": "b67eab76-56ee-47ae-b25e-e241c9919885",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"2982aa39-efcf-4e30-8afa-bb665abaf50a",
-			"4c55b9c3-37d2-4015-af8b-20684e8e1487",
-			"2c294464-4e8a-44e8-9fe4-37a0f07530f8",
-			"da842405-3118-4ccc-997e-24420b1b7f15"
-		]
-	},
-	{
-		"id": "5899c4fd-6aec-459c-bacc-434a216b5d03",
+		"id": "5d154a23-2ca8-4e3b-b404-0c2c1f362a83",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"281ed7c7-6f1b-4c8a-8d77-96a63d597863",
-			"7ca3620e-a795-4202-a1cf-7b45656974fd",
-			"1adf2924-cda0-45d0-ac85-48d47a4c07d2",
-			"ff930035-92b5-447e-87f6-9f945f358da7",
-			"b539832b-9d4f-4f14-a36f-3c6d252de93d",
-			"c757eb2a-1b76-4eef-b7a9-d40a2e782a59",
-			"a5fab296-ac79-452f-bbb6-dbc5cbdbc5ad"
+			"c12f4207-cb7f-4f93-b381-8ea3bec1967f",
+			"9fda5afe-d36e-4971-9567-e9e46647f23e",
+			"9cc35679-70d4-4f1b-b5d4-138e1009d433"
 		]
 	},
 	{
-		"id": "97832ed3-b074-46df-b97f-7889b288e6f0",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"c590872f-4f62-4da5-813c-f4a4eba5cdb0",
-			"eca629ab-fce6-40f9-99e5-c3592279ea2e",
-			"39aad631-da26-4a25-accf-8caf94d67348"
-		]
-	},
-	{
-		"id": "b70d1d2a-763d-4715-a0f9-80a40242ecef",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"2b3b1c0a-d69b-4612-8592-5505ad064bed",
-			"22662054-d455-45b6-b949-930fef7bad72",
-			"5d31e109-ec85-4976-9be3-b27c30a9d23f"
-		]
-	},
-	{
-		"id": "e9f6486b-bc7b-4358-922b-0ea0059e1521",
+		"id": "57c0ccab-2065-412d-94f8-095dc9041d9c",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"3abdb50d-818f-477c-8db1-07ba060bc25c",
-			"359fd4f2-4b7a-4b91-9fd0-dc4851288d75",
-			"b4f321a2-ae18-4d3e-bdb2-310bb5ddf72d",
-			"2b1e2b6f-1775-4641-bd35-9befa311dc49",
-			"03cfe954-67ef-4617-9f97-9bac53027d35"
+			"193265a6-b797-4098-b607-8bd87a3aaebb",
+			"152db677-c4a5-4a10-b547-6476e7cedc7e",
+			"b284edf1-b00b-4cac-8be8-71706e19ddce"
 		]
 	},
 	{
-		"id": "cde1fc3e-6746-441a-8270-78d5b92dbb8a",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"4c46a4b0-1e3c-4c9e-8155-0a7c626054a9"
-		]
-	},
-	{
-		"id": "5c8f4a1e-d06e-4395-b0fd-235a2623e52a",
+		"id": "0f10f56b-3009-4b02-8319-1493bdf22b2c",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"76a0632c-bd0e-4260-8fbf-df2c5ad36e8f",
-			"dd6751d4-6415-4553-a899-8cc9a900d227",
-			"9e17afb4-34aa-45ce-8c1e-3ad5974827fb",
-			"9c114b70-a49e-4612-9b39-95491d8c23eb",
-			"eb6faa0c-ecd4-4909-b077-096aa32871de"
+			"9352da16-61b3-464b-be8c-a9a1b5160e98",
+			"1ba5b72a-538a-41b2-aac7-2dc6c3ffccdf",
+			"9d493190-9a2f-4e6f-9b24-06951e9df321",
+			"141beb0d-2fc0-4f14-a7c8-f5bfab5ae0f9",
+			"3cfba4fc-1bdd-4c53-aaad-0ce8846256bd",
+			"0033a04f-8936-48c4-9fab-3bde74914d8a",
+			"7d61d360-125a-4ecb-927a-3ff4ede64733",
+			"53353c85-a49a-4186-942b-c8413fea65f4"
 		]
 	},
 	{
-		"id": "d0df7509-b7ec-4633-a44e-ab678d68e2e0",
-		"title": "Het schoolexamen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"e3e50763-d067-4636-b802-350e7056f181"
-		]
-	},
-	{
-		"id": "cecf450f-5c0b-492d-b6fb-ea3128a1f58e",
+		"id": "5b579575-df50-45e2-a937-c5979c50ee82",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"0f49cca2-ae89-4d25-855b-f815da88d946",
-			"fcd9b515-ca93-485b-8e6e-31d8afcd9afb",
-			"5e00440d-4601-4439-ab45-34767d230ddb",
-			"98b828aa-441a-438a-8426-fcf1349ff24e",
-			"5bce1b8c-a9eb-44f3-8731-ad56d188f430",
-			"86d6c21f-f43d-4e4e-b207-a43bd5fc286d",
-			"7d95e6ec-3c63-4f49-b342-93b95354cfed"
+			"9f652c0e-8fc3-4e8b-915e-4b18ee0cf45c",
+			"d3cbb63e-7d94-4e94-ae19-fb72257e363b",
+			"3d1760c8-ec0d-4546-b924-45c26e596f76",
+			"24d111f8-848f-45bf-96b8-0c628254a742",
+			"b1079dda-3417-4468-8667-4344403861b0",
+			"177e3a5b-e20a-4d0b-ad96-3640361ac009",
+			"139e9a7a-6a9a-442b-8081-3d7beeca5bc2"
 		]
 	},
 	{
-		"id": "6015b330-acf1-4b20-9291-7440831a03e2",
-		"title": "Het centraal examen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"e94aa187-ab18-463a-888b-f53abc652359",
-			"395e64d5-bb2a-4f62-8d93-437d1bdf3210",
-			"c041d0a3-aca6-4c12-8b14-5737c19b6879",
-			"bfffded5-1784-4830-9c8b-7305db085304"
-		]
-	},
-	{
-		"id": "0e114b1c-6853-406e-aa83-ded8fd4853bd",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"4be8e9ca-9a24-47be-8bfb-688e8d22c419"
-		]
-	},
-	{
-		"id": "d1b2e513-59a0-4440-9700-360d283b02e1",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"15c47746-a54d-4aef-93e9-ffd8fef2e807"
-		]
-	},
-	{
-		"id": "9d8fca34-62dd-40fe-9c3f-473dbfc986f7",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"55d2f1d9-3e53-4307-bf13-6d7ee8946edb",
-			"1267d154-d3d7-4381-83eb-814ba927c215",
-			"84395b43-0efa-4359-be4d-4f50017c2704",
-			"e3a21598-fbdf-4c75-b8be-76cd2663dc2e"
-		]
-	},
-	{
-		"id": "5040adb4-f3a7-4376-b00b-60da11d32ae8",
+		"id": "6b358286-30c8-4d23-a65d-e9d08ba405a6",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"e9dfd99e-4482-4d4b-b678-641ee8ce65c9",
-			"24800649-2365-4292-b0c4-385a1ef300a9",
-			"0cebb69e-444e-4235-be24-4edec9d403d6",
-			"2f7b0893-92d5-45c5-bd69-8d371a81c52d",
-			"4efdc1e2-fe11-428f-adfe-9ecdac3a2f40"
+			"7cdde691-6b18-479b-83cc-2e53d86f1b3c",
+			"e6307794-03fa-4111-b0ff-78f5460dade1",
+			"27a38170-3314-4920-83fb-08bec40cfef9",
+			"e71ab289-209a-4bda-be9e-7537ebcd25e6",
+			"74863ea2-68da-4c59-b771-30e4a6ff2a0a"
 		]
 	},
 	{
-		"id": "33dd4361-7187-4ad9-bd52-23dcc2dc99e9",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "f827bc79-a119-451c-aa8a-5ac9fd049bcc",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"ed922550-ad8a-4032-9e57-d41122f71105",
-			"912a57d9-e693-4b63-a06f-e7567fe5a801",
-			"e1bdd790-fb63-432e-9ec0-93dfa6e72334"
+			"7fb755a1-c81b-43fa-a12b-4d79cfeb2bac",
+			"d4bff074-314a-4133-9bdd-9722a80953fc",
+			"89d4a101-9cbd-4182-aa28-7bf96583b952",
+			"cc1e0050-0a1a-49ed-8c09-fd497758d97d",
+			"07f912c0-3472-4624-a80a-1b453d1efe97"
 		]
 	},
 	{
-		"id": "cf3cd589-a98f-4ee4-b3a6-d5357b2f342e",
-		"title": "Het centraal examen",
+		"id": "6bdc99f3-6c66-4d5f-bb59-be130cffd796",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"5bb5844f-65ce-4ea2-8314-beb5e477f6fc"
+			"5bc354ca-a583-46c3-873a-fe28389f5486",
+			"0ca81b63-11c0-4a78-8e44-6c59ea8ebe76",
+			"22366caa-9ac1-455e-beeb-27f8d39c55bb",
+			"d61c2144-4ba6-4c04-96b0-f544e005ea63",
+			"ebd579dc-ec78-43da-a8e4-6b7135095217",
+			"d4af05be-5118-4ce9-8c34-9d2759f9e92e",
+			"3955c2ed-93fa-4fca-837f-66345d46d56d"
 		]
 	},
 	{
-		"id": "701a40c3-cfcd-44d3-979b-a9f23d66f34f",
-		"title": "Het centraal examen",
+		"id": "35e22fcc-574f-4ad3-b3f7-4e4be753b567",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"daa9abd3-fc06-4a83-8dfd-6c216f4f8129"
+			"feaab703-8192-42d2-9eed-664f4e65d8e2",
+			"b8e39df6-e941-4a44-a4e7-e2fb91876de1",
+			"fe93f2b8-2199-4101-8f40-9f972f422128",
+			"e58bb5d6-be91-45f0-876a-984cc935d82d",
+			"9026f41f-86a8-42be-b474-2cdbf6a121cd",
+			"a20f3831-afec-4f75-933c-4d8212557275",
+			"82e7f3e2-7b43-4c51-b749-a253b233f960"
 		]
 	},
 	{
-		"id": "15454864-edc7-4ca4-b9ba-b2e6eba2f1bd",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "2e032c2a-894d-4704-a7e6-9fe7437a84a5",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"d318153f-5c31-470c-b24f-738f8253e236"
+			"a89c7187-42f8-4a23-8250-a6e5b620bb8e",
+			"64eccb1d-b05c-448e-9950-2fa0f501110b",
+			"a324872f-cb9a-47e6-90fb-de5c17a546b4",
+			"7d8dbfd8-4ee1-4587-bc31-72efa4e3089b",
+			"fa437bc4-9746-423c-a078-4df4266ebf4e"
 		]
 	},
 	{
-		"id": "19601bdc-0de5-4e29-94b6-61172d821254",
-		"title": "Het centraal examen",
+		"id": "5163e48a-cf96-4204-91bf-1365efbf614c",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"23b75714-6aef-41ab-859b-531feed11592"
+			"f8601145-8e4b-4bf0-865f-07a0ab62aa96",
+			"591c8ee2-b21a-49a6-8edd-973b58f4e845",
+			"f38a6224-1fe0-43a9-aa24-c9e5b7802d2f",
+			"6ddec198-6004-40f2-9379-f4c538fe0834",
+			"9e9e2302-9007-464a-b1d5-7322f047ef9e"
 		]
 	},
 	{
-		"id": "cc1fe2a9-c3f6-4fac-9d06-87fe55bbc8ed",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "0d4314f6-c7b4-4357-be0a-5d55c139ed6b",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"82113f68-7ad3-4144-8ac3-7c6f74d65887"
+			"914dc69a-d2e9-4694-8c66-01b788e8165d",
+			"fed18d93-1c56-4ff1-ab9e-bf32b959b08b",
+			"41217ae5-b6b1-49f3-b282-2c77b3c9599e"
 		]
 	},
 	{
-		"id": "f0fb77e2-2adf-4ee2-b76a-3c0ff3692bd0",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "c922832b-00b8-43e0-8768-842f6dab74ce",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"d64df6e9-29d0-492f-89d0-b7b6463586fd"
+			"25735086-c2f8-4887-86f1-6b0eac3152fe",
+			"b2ec464c-65c9-4eef-9d37-24f8f57eaeef",
+			"8938cf8c-6b57-48e8-9c88-ba271e88ce3e"
 		]
 	},
 	{
-		"id": "5e4725cf-0275-4c3e-927d-333b941e5f3e",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "2abe106c-e5e8-4754-9137-3784d063080c",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"354346f1-3011-418d-aa51-110ced426d50"
+			"c8044f47-74a0-4d5b-a54a-f86cf31d9af3",
+			"868febe6-5c01-44d7-9244-52ee229833f3",
+			"761ac8f6-b54c-46f2-9792-f49b98044869"
 		]
 	},
 	{
-		"id": "4a106a77-b787-4249-8f50-bc7a2ba2a676",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "0648fcbf-c695-4453-90b2-4eff055c592b",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"325242e6-0027-48d8-947a-44ea819c11cc"
+			"38925105-5356-4cbf-aafe-95618c034536",
+			"4206f0be-a55a-4b32-8ff5-dfcca21cbf3d",
+			"5974e6ad-53f9-4e8d-b396-0e31259b706d"
 		]
 	},
 	{
-		"id": "3274c682-f285-4717-8d3b-e3226da14dcd",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "904d2bda-8284-414c-b47a-adac6c355af5",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"f2b19846-9d19-4273-8e5c-9a5217488096",
-			"17101db8-bd26-43dd-92db-a802cf76559b",
-			"6e064766-2d1f-4b55-9a5e-232afbeae069"
+			"35493b9d-4ad4-48f2-927c-a68690006380",
+			"28b590b1-6da5-49d2-91a2-749a7318217d",
+			"ca7c7213-d683-457f-9b42-8d6f52a06eb2"
 		]
 	},
 	{
-		"id": "08841cdb-be03-4a07-9455-dfbd14db12f0",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "e6b35cf9-ab5d-4729-a68f-f3282b4102e6",
+		"title": "Het examenprogramma bestaat uit dat van het vak kunst (algemeen) en de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"2f3ad9dd-b106-4b74-b413-63c5af95f640",
-			"51ed1ec4-41bd-4808-8d88-468de1b4582a",
-			"b96f20a8-e688-4a62-9639-df9b1979749f"
+			"73a338ec-4028-46bf-9bed-9a2a9c1218c5",
+			"079f5382-5aeb-40e2-8c34-4eda751753dc",
+			"9ebf0502-ec36-4525-9b3d-e6aaccf28dc6"
+		]
+	},
+	{
+		"id": "51b5fbf3-c47d-469a-85be-5e19d8b3883b",
+		"title": "Het examenprogramma bestaat dat van het vak kunst (alemeen) en de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"b14a2ee8-e5cc-4ee0-8f06-f1649e12f22e",
+			"df9147d7-985e-4f12-a962-1fa83fdcdcae",
+			"ceb6b2bb-b769-4423-89de-1d35795c93f0"
+		]
+	},
+	{
+		"id": "6288fafc-bd6f-42f7-92f2-5345271ae8a9",
+		"title": "Het examenprogramma bestaat dat van het vak kunst (alemeen) en de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"522cb02d-62d8-4c71-bef3-8d7e09d68ecc",
+			"524fb2ff-9384-44fc-9e5c-b60827f369fd",
+			"dd94bef4-c9ec-4da7-bbcd-c61023149c78"
+		]
+	},
+	{
+		"id": "a2204fd5-fbaa-4d70-9d77-1cab0cf803b2",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"77b7435f-eb05-434f-8d83-ba3e6c0e55d4",
+			"4aa075a9-562f-4805-8b3a-2b86f1ef9b7f",
+			"90ac5827-95f3-4297-a250-b95f8d963933"
+		]
+	},
+	{
+		"id": "8c701bcb-5929-4cc7-9a3c-d37e17e2bb92",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"be9f3a6b-710d-42b6-851e-b0ebf5803e9a",
+			"7861e645-7573-4afe-b5e1-481282a0ec2a",
+			"01300c9a-b34e-4ca7-b3a1-1bfd46ce760f"
 		]
 	},
 	{
@@ -937,7 +602,7 @@
 		"examenprogramma_body_id": [
 			"5d7c258f-f654-444f-bf8a-46124f9ef7f1",
 			"cbf555b8-a410-4f9a-9d36-b0afeabb5196",
-			"a9eaba01-e9e3-436b-8c7f-7005a0caf746",
+			"8753030d-ffd5-4ad3-9fbf-4295b4fe68a0",
 			"af2be69e-aaf4-452e-83f6-131d966f9a8f",
 			"035a621e-e269-4014-84dc-69cfd20699d5"
 		]
@@ -961,593 +626,257 @@
 		"examenprogramma_body_id": []
 	},
 	{
-		"id": "f3adc89a-8c38-4a27-a5b5-6a903edf2c30",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"2ddf33ec-6df3-4c29-8d84-3fa9746de372",
-			"31f47d4f-1dcf-4c79-ab6f-8a92c678c285",
-			"5f267f81-0e4d-44e0-9d62-f025284b21e7"
-		]
-	},
-	{
-		"id": "2be2ddf2-74da-4ceb-9ee4-e9f8d15f43d9",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"decd4b06-8263-4701-b11f-6f242a95923d",
-			"b8d1a01e-ab66-4182-b568-d222f499f6bb",
-			"292579af-786c-4ae1-9a06-b1561494889c"
-		]
-	},
-	{
-		"id": "5991a6e2-2d47-4e79-86e8-96546f0a6285",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"1b44696c-f1b8-490f-a21c-9ef79d9b2e00",
-			"c1794753-1dfe-4b13-9f16-ac3d246a68f0",
-			"de0e61bc-9bf7-423f-9f83-392bc1eee4c7"
-		]
-	},
-	{
-		"id": "595f8d1c-e9a4-47e3-ac07-e4f95900547e",
+		"id": "099ce7d2-d4ba-4500-af02-a793411bbbc3",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"6758cf5c-fce6-4353-8734-a392d02aead4",
-			"db448c40-1b35-4ad6-bc32-c85bfa7c0328",
-			"cbb4dd37-ce2a-4d61-93b4-08030a0d8cc4",
-			"b2fde0b5-5f61-4c0d-835a-570af02fd784",
-			"415fe0db-073b-49d1-948a-e70c137300d9"
+			"31b2af4b-d464-44a8-95cd-fc1ac235e10f",
+			"ab4dd428-4546-4494-8c37-beb16860b0b3",
+			"9be01b66-1f12-4e19-82c9-0b7458808c22"
 		]
 	},
 	{
-		"id": "7c9af67f-72ae-49b7-b088-b671e248c7c2",
-		"title": "Het centraal examen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"18e0d023-102d-4b5c-8706-39d64c18a9c0"
-		]
-	},
-	{
-		"id": "e1c6f715-5895-4fcc-85e2-e7e0c64b321d",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"0369b2be-c1e8-45d4-a603-92abc9c80ca6",
-			"0661fa9b-f3de-4e2b-97f0-b4adf02bf11b",
-			"453bbcbe-d1f9-47d4-84e8-055820954b21",
-			"c41d3487-6685-4b14-8b4d-3cb0b85d848b"
-		]
-	},
-	{
-		"id": "56e2effe-4cb8-42fb-9432-d1d98503a8dc",
+		"id": "3e6e7d5d-4a40-4f5d-86d0-7f4f188d5ebf",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"7e5475e8-bf87-44bb-9333-17ce0bd38093",
-			"3ae5af2b-f8f8-4686-a65d-4846d7a97832",
-			"a7af992d-30a6-4d17-8200-f3bdcab68056",
-			"9bd3545c-f7d4-4b4a-99a3-4788fe4aa021",
-			"a991539a-95ae-4042-9947-5c5a8ca272db"
+			"02ce66eb-6ae4-4d2f-82c5-8dff3c5c81b5",
+			"bcd8f67f-811f-4f90-b428-7a675c1ed0d0",
+			"9c6bc57b-46b7-4736-8099-8d72d3aeff63"
 		]
 	},
 	{
-		"id": "1b8e6394-37f1-48cd-b3a3-c5ed7e0118e9",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
+		"id": "9e8982b6-b877-42a3-a025-dc384b06573b",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"42f2c70b-467d-44a3-bc89-fc433360b65f"
+			"3d47a41a-20d0-413a-9f3c-36c1b6591ad8",
+			"996f2cf2-89c2-4fb4-ad08-fc976da46199",
+			"be3c52be-ad0e-4c17-ae9e-fe711ef3b6a7",
+			"839bf516-8f92-48ce-81c5-2b4082f971ed",
+			"bd66f572-6725-4a84-96bf-b7084597345f"
 		]
 	},
 	{
-		"id": "68c3f761-8852-4a97-aa3c-297733e9d22a",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
+		"id": "08e3b8cd-998b-4c66-b28d-3acf9b66d0be",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"00f00a5b-f446-4682-9916-68348e8851c3",
-			"aa93a641-4c6c-4b48-913b-4354e60955d0",
-			"1d832dc2-ea3a-4473-ac0b-975b63e73eff",
-			"f5f3e79a-fd04-47fc-9ca0-c034deba0e83"
+			"6d11845b-c51d-4862-b40a-b64110318a03",
+			"22113dda-2da7-46e6-8d25-edd6f4d49cc8",
+			"6df5dfce-e701-4b50-8423-e9091f1c7d99",
+			"8b58bad5-d976-4152-954b-7f9bc4b6f3a1",
+			"5191fa64-2ba0-4a26-97d8-d2eb547af96b"
 		]
 	},
 	{
-		"id": "e9462de2-d912-4d8b-ab8c-87eadef821ab",
+		"id": "afc7968a-2f84-4bbb-83c9-92ab89d480ba",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"61171227-941e-4bbc-baf3-d6535247388f",
+			"049b71b9-1f7c-4a15-a5ee-b8c148ed5dfa",
+			"f5c3a78a-247e-4af1-a5d9-7b5ee8830e73",
+			"7499b6d8-1dcf-4b6c-b711-b7a044647066",
+			"879fb6d8-0187-4804-815e-7646ce06a03a"
+		]
+	},
+	{
+		"id": "cd06e35b-2f95-4d1e-8e56-6b1df187e604",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"241fef83-31a4-40ff-a0a2-6bfd61951b07",
-			"8b9c4165-9a86-42d8-9c23-cb8adc66b0bf",
-			"c5e3f56a-67f3-4e34-b5d2-71d8b45871af",
-			"1c3f448d-798b-421f-ab2d-32ee55d68913",
-			"784d2258-22cf-49a0-8ed0-39831e637fa6"
+			"d2395656-298e-416d-906a-9e6f27a54feb",
+			"09b59edf-e19b-4532-a348-f17cc15e06a6",
+			"cb50a8cb-50b0-43b8-8895-25b9c3b2ea27",
+			"7d8b2632-74af-41e8-91b4-d3c87eeee0cc",
+			"35658441-b8c8-4455-beac-c810d35bdb35"
 		]
 	},
 	{
-		"id": "6496bc41-f4dd-4d8c-90dd-55d109c4dc8e",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"5373eb37-5c1a-4468-aa87-67be2542c59a",
-			"19cf9654-bfcd-421d-9e6a-e1f228e490c5",
-			"6a67ab45-1c30-49dc-be9a-83d68d2967e8"
-		]
-	},
-	{
-		"id": "8a6ed938-d3e2-4d23-b787-dfa66d250590",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"829a0667-3317-4094-b70f-cdc447136cc2"
-		]
-	},
-	{
-		"id": "1a239d5a-4a3d-48c3-aa79-a45a1ec5e559",
+		"id": "ae5c0228-b7b4-4b1e-9d2f-2063d996cae7",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"ecdec2b0-2454-4ccc-a35c-28ad6d9dc442",
-			"0546fb91-9567-4120-9b01-94c266554610",
-			"b1846b83-e974-4a8c-9156-594f7e942092",
-			"e5cf1e64-fedc-471a-bc2d-9867b8b571df"
+			"ec94de93-9894-4780-b093-c9b0026ed93d",
+			"8422c546-6cf1-45d1-a96a-e5a79c16c9a1",
+			"041150b3-d4c5-4f0b-b9b9-be07e5507ef1",
+			"fda9610d-0957-453e-aa3e-96784858f2d3"
 		]
 	},
 	{
-		"id": "25c898e2-b4f2-4126-8878-8d79f872793e",
-		"title": "Het centraal examen",
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"937072eb-189e-4247-91f6-20f44be05a9c",
-			"12bd69bc-533c-4fd0-b3f6-89b0c3bd900d",
-			"1d537fba-62ce-4a8f-b536-9b916f9e976f"
-		]
-	},
-	{
-		"id": "d401096f-371b-4418-965f-2d54856bdd34",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"4f888aab-19d3-4a94-9df0-218abfedce7d"
-		]
-	},
-	{
-		"id": "eb1c124c-2073-4291-a8a5-7204318f039c",
+		"id": "5f48522c-fd44-493d-8fcf-278bf5087fed",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"2866ac2a-de68-4426-b91d-2080c7b23449",
-			"9514d81a-18f2-4c7e-9bd8-43587a1f8683",
-			"5f45c9dc-00e5-45f7-87bb-f89820aa6039",
-			"ca0540f5-3670-4d59-9caa-374936364c47",
-			"3509ca3f-516a-4221-a21a-badf871c2f4c",
-			"183cb82a-c3f0-4d2d-a1fa-0bf01b87ba68",
-			"0d1ff0fe-764c-4659-8467-5ee66cc24388",
-			"c46a7047-6e6c-420a-8de7-3e210b83ec23",
-			"acb0a48b-2726-4314-b8c2-2091d43b0e73",
-			"ca454226-f345-46dc-b90f-241e79aa017a",
-			"a87374d7-ac6a-4f83-926e-33ae2e72d95e"
+			"a552e0ef-5993-4b5d-b823-c61e698bfbdf",
+			"4811a9ce-af3d-49c8-8730-5716cc9fe0a4",
+			"bd2a6b19-ad68-4067-a56a-bd87e214fc7f",
+			"0216d926-6e0c-4ef6-83e7-271a9d1a0f59",
+			"8c1a6dd1-813a-4e4c-890a-bba60eb24abd",
+			"d95a6bba-066e-49ea-b28f-100095377b9d",
+			"2f705560-230c-492f-b215-4b4b92834ceb",
+			"2f6fd095-56ce-44f3-ab8d-2bf3424706a6",
+			"0c421779-1409-459a-9223-727b4cb2cf85",
+			"bf69fa6d-51a2-4937-90b1-761def583987",
+			"7aab655a-155f-43fb-aa2a-3df89e4b5c65"
 		]
 	},
 	{
-		"id": "0bfc0474-c932-4379-847e-9a7e70583b3a",
-		"title": "Het centraal examen:",
-		"tag_id": [
-			"1501da9d-d129-462c-8c25-1c0a2769d9aa"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"a4465e88-5e7e-441c-b7e2-b9c8bfb4dc33"
-		]
-	},
-	{
-		"id": "7ad2ae22-25b2-4324-af9a-0e30e0208d73",
-		"title": "Het schoolexamen:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"370408db-705e-40e0-8040-523c6cdaa9c2",
-			"e7594673-3729-41c4-80f6-d5ab0aed6c5b",
-			"937dcbfc-ce6d-4083-8599-5c6aa72f90d3"
-		]
-	},
-	{
-		"id": "19f83c24-c055-4f3a-b7eb-3f51bb3360af",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"7fd3b77a-c89f-46aa-86e6-4f14a6bed687"
-		]
-	},
-	{
-		"id": "55c7402b-3277-4512-809a-48f884046311",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"038b1553-be8a-47ac-985e-91ca56df89f2"
-		]
-	},
-	{
-		"id": "d136b27a-5709-4887-b082-bed451806f62",
+		"id": "4fdcdfeb-df8d-4231-af44-b85781bd72bc",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"f243c971-7e43-4d2c-9758-678fb2d16701",
-			"b0736a46-5bac-4e46-b75e-414633da2809",
-			"4b6152e3-928e-480f-abc9-ea9f92cdbdda",
-			"9f44c9b1-83ff-41ac-a735-aed2164f2b1a",
-			"ac98eb5b-e953-4f9b-8600-0f864394585f",
-			"f6c8c25f-c2be-455b-b141-8cf59625d403"
+			"453214f9-de92-4679-880a-591d1511f404",
+			"970e1332-6bef-4aae-b516-0dff9ee680b5",
+			"72390bc7-8b73-4f73-a65d-ae89a57c76a7",
+			"2bd50f49-1158-48b0-bebd-ab2be58edcf8"
 		]
 	},
 	{
-		"id": "4a1055be-f76a-4f3f-8bcc-b025268c584f",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
+		"id": "c29f397f-486d-446f-8c84-2b85ef1e38a0",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"a12e7e0b-d5cb-480c-bbd1-d140b1703eb8",
-			"2d43c3fb-c5a1-4bf0-a97e-21780828bfc3",
-			"b61ce928-0d0a-450d-96c6-45b01074d771",
-			"d2adaaf1-7756-42e1-b7b1-90deffa370fe"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "508409e7-a160-42c6-97fa-5da1cfbc63ae",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"6e2291d7-d0a8-4b39-9cd9-0cb480c9e105"
+			"69ed24ca-7136-437f-ba98-7512c668923b",
+			"b7e6b5d2-e95e-4158-b78b-50981f77f94a",
+			"261c4739-426b-4d5d-ad9c-13ecdbde1fa5",
+			"ac8cd526-9249-4ca9-8a4a-d096bb257d48"
 		]
 	},
 	{
-		"id": "6bc59444-5766-48a5-8cf3-86bb40864ef4",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
+		"id": "e0cb0ccd-75de-4510-ac17-98427b02ba4a",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"80f14dc6-fd7d-44cc-ae05-bdcb278e680f"
+			"4de3d248-33dd-4eca-b516-3b7dcdbeffb3",
+			"d8d2d30f-3a77-4075-b3dc-959100710a7d",
+			"fa2e3d44-f049-4781-8455-fb3e9d720e20",
+			"d671b426-aa99-4b7b-8e59-5e289e4db56c",
+			"20433fa5-538e-4443-9744-44119e12bdd1"
 		]
 	},
 	{
-		"id": "1fe4d84c-a269-4493-b8b4-160bc1d7e681",
+		"id": "74947a17-6eec-47e5-a7fe-b96a66cf376c",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"examenprogramma_kop3_id": [],
+		"examenprogramma_body_id": [
+			"7e65e8a4-3999-4a78-8cb4-f36d82987165",
+			"1d4402cb-39b9-4405-8c96-740dddf9de26",
+			"c059cce8-3a21-425e-bad5-de551599854e",
+			"64e960f6-16e4-4169-a1ea-043bd85fab45",
+			"174c5890-d895-4b74-a66d-c159edea230a"
+		]
+	},
+	{
+		"id": "ca8ead30-8a12-442e-aabf-4b7f7d3c715e",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"ccce970a-cd99-4136-a574-b427d2f202b7",
-			"12c2d4f5-22d4-4d9e-b36a-e72643ea45cb",
-			"95590b75-053b-4f77-9443-fe23990b109c",
-			"eec94f12-fdd3-469e-b24a-96de2f69571f",
-			"a26b861e-808b-44ac-a719-942402398c2a",
-			"b7128c71-e8a4-430f-91e4-78bdb8a57e9e"
+			"0cd5762c-8fad-4b08-8f5b-172d61d2e42a",
+			"01bcdeb0-a725-46a7-99cb-cf5da83d6d25",
+			"46356e8c-786a-448f-80a5-745c8e2b3fdf",
+			"6a2e916c-118b-4eda-9b09-bbd5f49758b6",
+			"415f18f4-497f-4ad9-8ec3-f670bd9b5578",
+			"b37a692b-da65-4ce1-9f91-1528ba4df85d"
 		]
 	},
 	{
-		"id": "d1de88e7-534f-42c8-a5de-a789e9e57812",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"5d34ee2f-efb1-4502-8c99-8a89c7eb31a5",
-			"fdd42393-99e0-4cdb-9699-97765028ee87",
-			"24ebf056-b9f6-4c8b-893d-e1949e3245c2",
-			"6c1df072-4472-4437-b956-b324afe63b89"
-		]
-	},
-	{
-		"id": "3b2891f3-60ab-4b68-8c66-28c44a8d7312",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"3e46eff1-da67-4395-8091-2ada9b7518cf",
-			"2e1f3855-2b18-4fab-8147-6a2f4c6250d0",
-			"30c41bd7-4d96-4546-867b-8475f34c0809",
-			"a4f96e4f-91bd-4f96-bc33-a7901ec72c99"
-		]
-	},
-	{
-		"id": "b9dde6e7-ec37-47db-b987-89ec210ceb5c",
-		"prefix": "1.",
-		"title": "Werken aan vakoverstijgende thema’s",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"67f9d9fb-3d43-402c-b884-c7fdd8bd7503",
-			"e7a5e11b-3e1d-4ea9-b89a-20555a95c00f",
-			"b55182a6-57c9-4cd3-b616-6dc4aed4cd9d",
-			"0d1f7859-2532-4cab-b100-49669d0ce444",
-			"60a26529-f439-4525-a7ff-cb82c7b71c0b",
-			"b207b149-cccb-430a-a7a0-0d471deec62d",
-			"2273b07b-8fe0-47c4-9643-008554505a53",
-			"026f9051-3b87-4202-97e0-8ea2ffe18498"
-		]
-	},
-	{
-		"id": "da4620e3-e6d3-4970-9e35-215ed031a730",
-		"prefix": "2",
-		"title": "Leren uitvoeren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"9fc7043e-5d56-4c41-92f9-e0476f26a77b",
-			"c0fac7d3-4641-4921-aa00-b432b0e4c03f",
-			"d4ce0f14-22ef-4cc1-8e0e-95131cc37794",
-			"187de4f4-152e-4876-94d9-e67d16b5a5cb",
-			"00e35253-f7c7-4244-bf36-42ba4a90803f",
-			"cab497b3-4726-44fe-83c4-35b24b333b9c",
-			"bc4b5006-2c9b-4224-bdd0-97a184630c84"
-		]
-	},
-	{
-		"id": "775ff24f-7933-4a23-9f67-7021e348eedb",
-		"prefix": "3",
-		"title": "Leren leren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"267347de-9126-4d79-9dbf-23bf9057bcc0",
-			"7f0acdb0-03b4-438a-a22b-b008c3473c2b",
-			"d5b0c875-aa15-415b-87dc-2a0b97dffb4a",
-			"caf47394-350a-4b60-affc-ec7e54c04f7e",
-			"c28e99b9-3ca3-44ee-b3eb-8c349b876301",
-			"987124d8-56ac-4caf-90e0-64f7be461284",
-			"d8b85ce5-f631-4ff1-a039-ea1653d2e445"
-		]
-	},
-	{
-		"id": "4f1f1bef-bbea-48ec-b734-c418a4006d4c",
-		"prefix": "4",
-		"title": "Leren communiceren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"c4dc183d-0e98-47ea-9be2-023c9ecb59e4",
-			"ec719ba0-9e36-40e4-93f8-ba07d03adb44",
-			"7980ee5d-d56e-4a0f-b5df-beb623b89b41",
-			"8c321507-b9b9-4997-afa3-a4f3d835e941",
-			"59bf54c3-56a2-4671-adec-1aa47e80a072",
-			"0372b069-5b6d-41b9-a7e5-56374c4fd1a0",
-			"02ee53e5-ef51-4575-8ee5-5cb951135870"
-		]
-	},
-	{
-		"id": "253dccd1-4eb4-4281-b633-c1f17dff5ac4",
-		"prefix": "5",
-		"title": "Leren reflecteren op het leer- en werkproces",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"d77deba1-9803-4122-8758-01923bc6db13",
-			"7b263cdf-f4b1-41e9-938d-b70619f56bf2",
-			"5a4e8c50-4476-4e22-9d0c-b8e436b2b3d7"
-		]
-	},
-	{
-		"id": "a5d6d5ea-265d-4d91-8061-60a12e0b5a64",
-		"prefix": "6",
-		"title": "Leren reflecteren op de toekomst",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"b6a24ec9-d6dd-4886-824f-9f37f2c66e28",
-			"019f95cb-7605-41b3-b4a1-93383b0ad6cb",
-			"c3178442-e0ae-4151-bf3f-dc3246bc095e",
-			"89b0ab26-a996-460d-9f4c-cb066969b085",
-			"8128d04c-cc82-4350-97b5-99d2b7b287f6",
-			"147ac0fd-f9c3-4567-a168-a9972718c07d",
-			"1abc63f5-1c1a-4c8e-95b0-506a01a8bb5c",
-			"3cf0e68c-66a0-4307-86a7-82161456c5e6"
-		]
-	},
-	{
-		"id": "d4754d8b-a3b0-46e0-9f28-df38de5fbf6c",
+		"id": "ccb7ac98-70f6-4e51-a671-39c5e6844317",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"9db0404c-e934-4c6f-b182-04d3092421f2",
-			"cfc24234-4ea4-467e-bb10-ebebf814ca1d",
-			"4521ca4c-6fd4-4b93-a8a9-5e31c896ffee",
-			"3efc121b-98bc-49ab-af5e-0ce5a8d09077",
-			"9c6dd9af-476d-4231-824c-1315aea8208e",
-			"08e70cbd-ec63-4522-89bb-770ffeaf2935"
+			"e088a555-0ab4-45a8-ab01-834f3d841ccb",
+			"a96d54da-6320-41cb-9f8e-f94b17da42a1",
+			"1a6a2ea5-82bf-46b9-99a1-1a8a4382f7fb",
+			"aee36f79-8c89-427f-a778-420f1533a2ad",
+			"bbd39962-4c6f-4a4e-a737-8c1eaa1f1e88",
+			"c2e84787-07e5-40dc-a4f3-1bcd1f5465cc"
 		]
 	},
 	{
-		"id": "6c1c951c-4ce1-4b4d-95c3-b704dbe74b69",
-		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"19c60f50-bfe3-453c-a61b-64f6d35832f2",
-			"d425f371-7e1d-4ef7-a3d6-bff633741728",
-			"74463e09-d338-4c72-98a8-06299ce5aa4d",
-			"aaf03418-5dd9-4f57-9274-3ec5f7b251c1"
-		]
-	},
-	{
-		"id": "55659526-34a2-4a1a-a72c-fb3c6e469609",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [],
-		"examenprogramma_body_id": [
-			"8e86cd32-c184-4348-8321-e42ac5eda376",
-			"d6da92ce-90c2-4a67-b094-c5a83087f6f7",
-			"96bbaa9b-ffea-447c-87af-5513aa4c96df",
-			"210049c1-7c2e-422f-b663-949c56224b16"
-		]
-	},
-	{
-		"id": "b31d0bd8-c4e9-4d56-b508-2c01a24ecf18",
+		"id": "e03af3a7-a888-4dcb-a9e1-6edfe6883098",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"dd6d485d-7625-4a9a-a9b7-811b7b10d2ba",
-			"4e4d22fe-aa78-4131-aace-7a59191442bf",
-			"aea44f8c-a7ff-4aa0-b47b-59702ff10825",
-			"11c761c6-0c0d-42aa-9be0-e14034e953d8",
-			"3d3817f8-1ac8-4452-b1b7-da422a20564b",
-			"b4c70aaf-2de4-46c1-aab8-a61dcc7c35d4",
-			"52e26889-6f4f-40d3-a732-cd6208bf5fcb",
-			"a90a8861-d353-4585-a714-f99690dddbc0"
+			"834e2dba-89f3-404b-8e40-e158d976ce58",
+			"edea98bc-1ba6-4991-85ff-e7fc1da87e39",
+			"f2fc05bf-c94a-44b3-bb12-c7b99edbdc72",
+			"27b989a8-e629-44b7-8502-c465559a8cd2",
+			"a7b24018-b556-4004-930e-9bd4f76cde6e",
+			"c6c31ab1-ae8e-4320-b7e6-99af0bfdddeb",
+			"48cc2136-e991-4bb1-9a4f-0016dc4b6b65",
+			"09d59331-07a7-405e-bf84-7d4b39183e49"
 		]
 	},
 	{
-		"id": "6ac005e1-91ee-42bf-9a48-6f982aa534ca",
+		"id": "003be7b4-0884-44f7-863b-ff507e9bbd57",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"531a99bb-dfc5-4398-a446-6d03ddafe28b",
-			"288a5f8d-673b-4184-b0d3-5fcb1406682c",
-			"fe01c81a-48c3-499a-a256-7b7965cc8ee4",
-			"473093ff-fde2-4fea-8608-8f38c7f7c793",
-			"27c33fb5-755f-499e-8aa9-d113bd7670e4",
-			"a4e71a83-9870-47d4-aa79-382f54585102",
-			"66d6e430-b1e0-46bc-998b-494691a9f804",
-			"37a9261f-fc96-4968-acf5-16b8fff44b2a"
+			"214a429f-8911-4fdf-b627-3dd3ff5c466c",
+			"8a09be0f-e550-433a-b07f-c3e84aa0dbbc",
+			"bbcec77b-7e04-424d-b14e-03aa0cd3771b",
+			"0c104ce6-98a5-4d24-a211-3170b6e864ee",
+			"6d9c0ab0-1172-47a7-b826-b1a3f987ceb8",
+			"732b3bc9-acdf-4742-bb3e-191a9d3d1c4a",
+			"74a071d4-462d-474c-8cb2-42531bfed60d",
+			"297a93e8-acff-4299-80d0-e3e5ae467e7f"
 		]
 	},
 	{
-		"id": "d0b32e76-e390-4b73-8e0a-60bd6e09b0d1",
+		"id": "20b68494-ab8f-41d8-a1c9-c7eab48412ed",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"f4e959e7-485a-46dd-a2aa-490a1ee0c0f5",
-			"261f62fd-25e5-4547-889a-eaa0f80efd30",
-			"740d283d-2e37-4eba-b693-2bed68259005",
-			"dbd88ff4-fee5-4c7e-b2cf-f118ccdc0192",
-			"85147145-6ab6-4dd1-9b77-98f78bbbf90d",
-			"32cb8504-b42b-4af1-9c17-3bdae1b57e5f",
-			"c4316505-8db6-419e-8272-9bd1afa54294",
-			"aafa5a49-1c8a-45a9-887a-6cc2293ec471"
+			"8834f7e2-09fd-45d0-b207-9f8a32ade590",
+			"a19e5c2e-d212-4c2b-8fc8-1cca22cd5d47",
+			"b1527246-e06b-4d35-a00f-7125725da16a",
+			"a2774c24-e043-4d3c-96f1-377efdf58e05",
+			"3d8646a0-dbe4-455a-ba3d-7f0feab9213a",
+			"4390e0bd-6343-417a-84b8-168e43ecc535",
+			"20b25cfa-6223-4b4b-8bb6-f60b55b27fd2",
+			"9cc128c5-4e99-43cd-8125-86520e16c18e"
 		]
 	},
 	{
-		"id": "7e897c08-60fc-4188-9859-9282529cf029",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [
-			"753c0cf9-a1b4-4793-88b3-6d44c363b8dd"
-		],
-		"examenprogramma_body_id": []
-	},
-	{
-		"id": "a3ded62b-3630-4bdc-bca7-6d5f77f58d51",
+		"id": "ecd4351b-435b-4921-a0ed-8a0ed6b80d1b",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"fc578f98-43cd-435b-8d7c-6aeb8870ba7b",
-			"f0182c30-c735-4af1-bab9-33e68db70ec9",
-			"3036e895-46a5-478c-998d-a6a9ad581b89",
-			"25153f97-193f-45f1-a56f-b7af2cbc5b36",
-			"f621fc5c-bfc2-4758-859d-ab59d002576f",
-			"e0c9c905-4501-4955-8b8c-a7090852b233",
-			"b582f21f-d6f1-408f-8750-e5172f471b30",
-			"df757b30-98f7-41cb-8189-6ea3529e89df"
+			"e3f97823-6524-45a8-b2b0-91ac05d12448",
+			"3006dcde-ddf3-418c-82bd-6c16a6d0431e",
+			"550cf6a9-f330-4138-afa0-8c2d12ec196a",
+			"b20fc47f-ad91-46bb-b9b4-dcdfeef817e9",
+			"0f46c668-1a85-4b21-a0c9-1d46d364c23d",
+			"0ba84c4e-78e7-4ffd-9ae3-c0b2d48c1e37",
+			"e1562f06-9b93-4252-978f-a402f9e59591",
+			"8f3c5138-ebac-4871-ab99-223a4aaa64fc"
 		]
-	},
-	{
-		"id": "e48e6d63-2748-4b68-9988-1a2548620150",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [
-			"0ca3c96b-3248-410c-ae53-4cd0abef52c1"
-		],
-		"examenprogramma_body_id": []
 	},
 	{
 		"id": "61a7d5ec-5332-4e89-85bf-6c0a561136e5",
@@ -1566,31 +895,20 @@
 		]
 	},
 	{
-		"id": "3f2d38a1-e59c-43c7-8052-3d3ce529bc9c",
-		"title": "Het centraal examen",
+		"id": "b7486164-e607-4527-b598-9688aa1fcda8",
+		"title": "Daarnaast heeft het schoolexamen betrekking op:",
 		"tag_id": [
-			"14a35875-6f59-4877-ad8c-8dd870547928"
+			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"6b053d44-e6ad-455e-b33e-169142fa6ece",
-			"69da53a8-4ca2-472a-abe7-d49746aee6c0",
-			"16956cce-5b65-4e3d-ba66-a3c3a272cbf3"
+			"b31349e0-4c38-4292-aa25-dc86415409e7",
+			"3e7c227d-5011-40a5-a1a4-ce1d69c27d3f",
+			"c99da807-6e03-42fe-9fab-4a36e3aa355a"
 		]
 	},
 	{
-		"id": "4dfb25f0-53e1-4b9a-8e3e-8066f400aa8a",
-		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"examenprogramma_kop3_id": [
-			"404a64a1-9880-4495-8b00-a4e77f5e7269"
-		],
-		"examenprogramma_body_id": []
-	},
-	{
-		"id": "01e7a23f-7ee0-41dc-9a16-35e084491ece",
+		"id": "f2b0604a-c6f4-4312-b5c8-c7b27bba355d",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
@@ -1606,7 +924,7 @@
 		]
 	},
 	{
-		"id": "45b20497-855f-43a0-9fb1-d7a54ff87c27",
+		"id": "a7ad445a-5fda-41ff-9d49-ed547afbadaa",
 		"title": "Het centraal examen",
 		"tag_id": [
 			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
@@ -1627,7 +945,10 @@
 		],
 		"examenprogramma_kop3_id": [],
 		"examenprogramma_body_id": [
-			"e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b"
+			"e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
+			"421a3831-11da-4c89-b566-b236af75d2cd",
+			"e653076d-f71e-457c-ad45-0c6281e5a21b",
+			"5de4be97-bc5a-461c-a287-4082d30ebcd7"
 		],
 		"ce_se": "SE"
 	}
