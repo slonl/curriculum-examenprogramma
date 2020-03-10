@@ -3,7 +3,7 @@
 		"id": "edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
 		"title": "Examenprogramma wiskunde vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"df9dfa6f-f35c-4ac0-a093-52f4ea7cf3e7"
+			"4d7bee87-997e-448f-9aa4-bfbc0eafb0bc"
 		],
 		"examenprogramma_domein_id": [
 			"59ae47fe-b3b9-4c82-92dd-55d1ba520dfe",
@@ -30,7 +30,7 @@
 		"prefix": "WI/D/V/2018/Examenprogramma wiskunde D vwo",
 		"title": "Examenprogramma wiskunde D vwo",
 		"examenprogramma_vakleergebied_id": [
-			"30d8eb17-137e-4968-8ae7-efb73e571c9c"
+			"5e8cda38-a6e1-4618-8223-dec66d182a5b"
 		],
 		"examenprogramma_domein_id": [
 			"fdd09e66-80f6-43ac-b91a-0b7f938d6eaa",
@@ -42,8 +42,8 @@
 			"ddf07b07-9629-4bbe-9a6f-ae2943825095"
 		],
 		"examenprogramma_kop1_id": [
-			"78cd17e4-2d73-4e88-8620-46c48947b8c0",
-			"b54fca09-3bf2-4d11-816f-35512af121c0"
+			"e1cfb2b7-af13-47e0-8285-911ed8b1ca42",
+			"3b907c37-8c01-483a-8867-8a182191b5be"
 		],
 		"ingangsdatum": "2017",
 		"versie": "nnb",
@@ -55,18 +55,18 @@
 		"prefix": "WI/D/H/2018/Examenprogramma wiskunde D havo",
 		"title": "Examenprogramma wiskunde D havo",
 		"examenprogramma_vakleergebied_id": [
-			"30d8eb17-137e-4968-8ae7-efb73e571c9c"
+			"5e8cda38-a6e1-4618-8223-dec66d182a5b"
 		],
 		"examenprogramma_domein_id": [
-			"3d43ab4e-0540-4865-93ed-95b808af4cd4",
+			"aa1972e2-d258-4be3-995d-314c1b64c8a2",
 			"a5ed5752-d545-4e9c-a703-11b3dc006e72",
 			"4a1b4aa6-514a-4c93-a564-8b36d3cac6f4",
 			"a83b0d48-20e2-4e49-bd43-15d4ca852cc8",
 			"f9ae7f15-3c95-4655-82f7-571852241f7a"
 		],
 		"examenprogramma_kop1_id": [
-			"2706159b-7fae-4b67-83f7-d07dd7bfa8b3",
-			"beb92891-8b96-41b4-a4b0-a1c805b9c128"
+			"1f24e784-bd19-4441-a002-382b0f6ff881",
+			"02805a52-65ff-40ed-ad5f-eebaa77a9ba5"
 		],
 		"ingangsdatum": "2017",
 		"versie": "nnb",
@@ -78,7 +78,7 @@
 		"prefix": "WI/C/V/2018/Examenprogramma wiskunde C vwo",
 		"title": "Examenprogramma wiskunde C vwo",
 		"examenprogramma_vakleergebied_id": [
-			"35ffded5-bd9c-4d59-ab40-f597d1a43985"
+			"26b1891a-3390-4163-a91e-699955b1fca4"
 		],
 		"examenprogramma_domein_id": [
 			"2b245422-42b9-45d9-9ba0-ddc1834e4689",
@@ -91,9 +91,9 @@
 			"941b0c0d-de6d-428d-aa1e-657e663c7786"
 		],
 		"examenprogramma_kop1_id": [
-			"117d13d7-ca14-4e74-9795-d387700fcc19",
-			"b1c522ca-7641-49ba-acd9-b31ff4921bac",
-			"14304be3-0306-431d-a6e8-05761727d3c1"
+			"63217a9d-1d7a-4300-908e-8bf6300b828d",
+			"4ee95fd5-82c3-4b38-9c34-bdbdd1ade82b",
+			"07ee0bf7-aac3-4f80-8f50-1aa3f78139b8"
 		],
 		"ingangsdatum": "2020",
 		"versie": "nnb",
@@ -105,7 +105,7 @@
 		"prefix": "WI/B/V/2018/Examenprogramma wiskunde B vwo",
 		"title": "Examenprogramma wiskunde B vwo",
 		"examenprogramma_vakleergebied_id": [
-			"a44c465a-d9ff-4246-8281-2244e3afaab1"
+			"71053d31-e436-4493-844b-3afa20693538"
 		],
 		"examenprogramma_domein_id": [
 			"33a1bbba-1caa-4390-85ba-8b48d7805357",
@@ -116,9 +116,9 @@
 			"65362343-e7ab-45a3-8015-f2364ce66be3"
 		],
 		"examenprogramma_kop1_id": [
-			"59eae728-165c-48c2-9912-cbda8bbe75dc",
-			"b4d16330-7bce-4e95-bd4b-8efd9921ba75",
-			"7c52f59e-6855-48a7-86af-8a31c56f5208"
+			"694bc27a-3c75-4131-83a7-7131c275c592",
+			"43306c29-a456-46d7-b977-16bea97f8259",
+			"43b40002-1f90-4e8a-b40e-e066d97e82a4"
 		],
 		"ingangsdatum": "2018",
 		"versie": "nnb",
@@ -130,18 +130,18 @@
 		"prefix": "WI/B/H/2017/Examenprogramma wiskunde B havo",
 		"title": "Examenprogramma wiskunde B havo",
 		"examenprogramma_vakleergebied_id": [
-			"a44c465a-d9ff-4246-8281-2244e3afaab1"
+			"71053d31-e436-4493-844b-3afa20693538"
 		],
 		"examenprogramma_domein_id": [
-			"38c79451-911d-4a51-80dc-e758cba28ce8",
-			"492e933f-1be9-4759-83cf-399e768ab89c",
+			"8be3f4a3-3b2e-4789-a204-e31d92b92517",
+			"ff826223-c41b-492a-a0d4-07e5b973b881",
 			"ccc499e0-2534-49ac-ad48-17cca0b56485",
 			"be208853-5136-45c6-8c83-03ab902fa985"
 		],
 		"examenprogramma_kop1_id": [
-			"e127def7-d2a7-4465-94d4-4033ab02b654",
-			"badf01b8-3555-4d82-81e6-5495ed62744b",
-			"40ab5a10-9d91-44b4-bc85-e4a90287b8d5"
+			"ccfe1516-1ae5-4287-a5fa-ad4c90ee8fac",
+			"8bb53f0f-f143-4c91-938b-aa684d023c40",
+			"b251f074-ff92-451b-b794-f65b5effd0b6"
 		],
 		"ingangsdatum": "2017",
 		"versie": "nnb",
@@ -153,7 +153,7 @@
 		"prefix": "WI/A/V/2018/Examenprogramma wiskunde A vwo",
 		"title": "Examenprogramma wiskunde A vwo",
 		"examenprogramma_vakleergebied_id": [
-			"b90dea9c-834f-473e-9431-22f1c85416e4"
+			"52d18b6c-0478-46b6-87fe-1bc81711ad3f"
 		],
 		"examenprogramma_domein_id": [
 			"5e587a7a-1d72-474b-a757-579185f925af",
@@ -164,9 +164,9 @@
 			"aec70e35-7fb5-466e-bfed-929a31d2b975"
 		],
 		"examenprogramma_kop1_id": [
-			"62f945dc-d94a-4454-acb0-a0571f359334",
-			"30e0679f-b302-443f-905d-ffaf777efbf4",
-			"5b8e54fe-abd5-4416-8094-c81fe4f45d43"
+			"e10cf851-ba83-4c74-a88f-51ac3c3dbf9b",
+			"29e21108-ec4b-403d-813b-021d597e2c26",
+			"903fce21-6625-47d7-b4ee-328da6748b97"
 		],
 		"ingangsdatum": "2017",
 		"versie": "nnb",
@@ -178,7 +178,7 @@
 		"prefix": "WI/A/H/2017/Examenprogramma wiskunde A havo",
 		"title": "Examenprogramma wiskunde A havo",
 		"examenprogramma_vakleergebied_id": [
-			"b90dea9c-834f-473e-9431-22f1c85416e4"
+			"52d18b6c-0478-46b6-87fe-1bc81711ad3f"
 		],
 		"examenprogramma_domein_id": [
 			"b8300ada-606f-45c8-892f-cbed71adf738",
@@ -188,9 +188,9 @@
 			"be4bc6b1-4175-4598-b8ca-06c29b2a92f6"
 		],
 		"examenprogramma_kop1_id": [
-			"bf3fff1b-0ae7-4451-9b25-254c69a1dcb3",
-			"9f2586e8-5db9-4472-9265-b658686417bc",
-			"6cc349f4-b556-4c9d-858a-95b0bfbc0a71"
+			"d4e03bd2-ae26-4ca8-90e7-41b99fb8eeea",
+			"ec81c807-fa55-49e9-906d-9141c60adcd5",
+			"97f5a5c5-a1e4-4fad-9f10-baa62663633f"
 		],
 		"ingangsdatum": "2017",
 		"versie": "nnb",
@@ -202,7 +202,7 @@
 		"prefix": "THT/V/TV",
 		"title": "Examenprogramma textiele vormgeving vwo",
 		"examenprogramma_vakleergebied_id": [
-			"b5ae1868-b285-4215-9b89-5b44a883b54f"
+			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf",
@@ -210,9 +210,9 @@
 			"25deb580-a7ae-452d-a678-717c270b0035"
 		],
 		"examenprogramma_kop1_id": [
-			"b20f1882-90af-402b-a09c-87e29ec64f82",
-			"1fc75192-e71c-49d5-8ce8-c2f9180f2354",
-			"cfedcc37-9065-43d8-a511-6dbc71c777c7"
+			"7f3bee9b-e864-4aaa-af84-5ed9df1aa5aa",
+			"9ee0e504-fe4a-4608-9904-f1d1f4c66f46",
+			"d4b4097d-84a1-4b37-b38f-68ad441ced5d"
 		],
 		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-vwo/2019/f=/tw_vwo.pdf"
 	},
@@ -221,17 +221,17 @@
 		"prefix": "THT/H/TV",
 		"title": "Examenprogramma textiele vormgeving havo",
 		"examenprogramma_vakleergebied_id": [
-			"b5ae1868-b285-4215-9b89-5b44a883b54f"
+			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
-			"2a9dcc95-efff-459e-aaba-026785ccff77",
-			"3eda7027-51e9-499d-b5bf-fff0d92c80f7",
-			"957143fc-7226-45a3-8fd4-558eb22036c9"
+			"36a961a1-c152-44bc-96cb-338e8ef8c713",
+			"66dbceec-16e0-41e8-8068-dbca5773ecf8",
+			"0e8ac3a1-d919-46a9-b9c3-891a1e6e04ad"
 		],
 		"examenprogramma_kop1_id": [
-			"1a5abec3-8339-4920-868f-51b0088fdc22",
-			"030a3c74-0656-4eb4-b91e-bb4a0c3c3545",
-			"3a715628-d839-4225-836f-2ad1ee0b1167"
+			"0f1c2433-4064-439f-89ba-eb79e5068c72",
+			"c43f18cb-f517-4a1b-ab1c-995f9c588de1",
+			"9dc40047-527e-4de6-a03e-40321c8f9f2a"
 		],
 		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-havo/2019/f=/tw_havo.pdf"
 	},
@@ -240,17 +240,17 @@
 		"prefix": "THT/T/V",
 		"title": "Examenprogramma tekenen vwo",
 		"examenprogramma_vakleergebied_id": [
-			"b5ae1868-b285-4215-9b89-5b44a883b54f"
+			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
-			"5943bc95-28c5-4602-99c1-b50e23d1c591",
+			"325ee593-67f6-4910-b495-98e310ca5af8",
 			"edc20e03-72b8-4670-b991-b27e3a39818e",
 			"86e2cc4f-c418-4e16-88d9-d69cc65f2785"
 		],
 		"examenprogramma_kop1_id": [
-			"8ff5e66e-0d55-4007-b3dd-83ba893939e1",
-			"74b00479-da91-4ad8-bc0a-906253df96aa",
-			"63545604-bba1-48d9-ab2f-38ad023b58d5"
+			"097cecaf-3722-474f-9f78-4c41641bb348",
+			"6cf7c3e9-585e-4c6c-9b66-645dce2146da",
+			"b02c8450-7ebc-4b0e-8a57-f5a02c4466c4"
 		],
 		"url": "https://www.examenblad.nl/examenstof/tekenen-vwo/2019/vwo/f=/tek_vwo.pdf"
 	},
@@ -259,17 +259,17 @@
 		"prefix": "THT/T/H",
 		"title": "Examenprogramma tekenen havo",
 		"examenprogramma_vakleergebied_id": [
-			"b5ae1868-b285-4215-9b89-5b44a883b54f"
+			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
 			"52f42938-fb77-497b-abc2-b75ae200ed73",
-			"221855b4-564a-429c-b683-29b9a4ec1b18",
-			"36bfa971-dfc1-49f5-9354-4e979e71d73e"
+			"973840c7-6db0-4aa3-98ba-ba9c176225ba",
+			"664b6147-42ce-45b3-83d8-5df1303a7d35"
 		],
 		"examenprogramma_kop1_id": [
-			"6b1fa40c-10d4-4745-a93d-d9295b088e81",
-			"ac42452c-1e96-4fb0-b5f4-0b407217b745",
-			"4287d6f2-f841-4334-8dca-6a4ca720aac3"
+			"77c57531-6508-443a-a78a-424933f95793",
+			"57b243f8-00fc-46d1-8782-b81fea8b86e8",
+			"a2b955cc-2afc-4e79-89e0-317ec4ba656e"
 		],
 		"url": "https://www.examenblad.nl/examenstof/tekenen-havo/2019/f=/tek_havo.pdf"
 	},
@@ -278,7 +278,7 @@
 		"prefix": "SK/V",
 		"title": "Examenprogramma scheikunde vwo",
 		"examenprogramma_vakleergebied_id": [
-			"79eb215e-e630-49e6-a30f-0d349970dc95"
+			"e268ccb7-e6d7-4533-8783-d0e3c95459a2"
 		],
 		"examenprogramma_domein_id": [
 			"53d03698-2109-4b17-affc-b1872855b8b4",
@@ -290,9 +290,9 @@
 			"baa21fe3-bd82-4e21-9073-bf7acc8913a3"
 		],
 		"examenprogramma_kop1_id": [
-			"9e90db82-6300-42ff-9add-9f2abe9edde6",
-			"754daa1d-1008-4a9f-af27-7b1b0d130075",
-			"7340f539-b2cb-4ca2-a048-380c285398d4"
+			"971a739c-2676-4377-a56b-7b86b2c5e99a",
+			"85c72932-0a38-4e21-9ebc-9b18f6a26132",
+			"ae3ddd37-46bb-477a-93b7-6823cddebfd2"
 		],
 		"ingangsdatum": "Vanaf CE 2016",
 		"versie": "nnb",
@@ -303,10 +303,10 @@
 		"id": "37db1897-2916-4c11-8226-a719877d651e",
 		"title": "Examenprogramma scheikunde havo",
 		"examenprogramma_vakleergebied_id": [
-			"79eb215e-e630-49e6-a30f-0d349970dc95"
+			"e268ccb7-e6d7-4533-8783-d0e3c95459a2"
 		],
 		"examenprogramma_domein_id": [
-			"af8e5573-0901-4b32-adb4-cd98fdb9c928",
+			"1e350c67-ea8c-4518-ad5e-47c87cf562b8",
 			"55b65b9d-3da2-4074-bc0b-fcd00754ba51",
 			"0e8c9480-6446-4dbb-83ea-157d89453c6a",
 			"10594bfd-6634-4637-b3ad-dd4ca296c729",
@@ -315,9 +315,9 @@
 			"baa21fe3-bd82-4e21-9073-bf7acc8913a4"
 		],
 		"examenprogramma_kop1_id": [
-			"37f90802-be02-48c5-9bfb-aaecbba78ad3",
-			"c8823581-916a-4347-9aae-560ef67f825b",
-			"c3b6c153-c225-4484-88fd-eb7fdf558d3c"
+			"454d24ab-5112-41b1-a44e-da2db7e09a24",
+			"a68b6725-405c-4a7e-a761-7d3f44f68432",
+			"710d49bf-7056-48fc-9fac-8469fe84d03d"
 		],
 		"ingangsdatum": "Vanaf CE 2015",
 		"versie": "nnb",
@@ -328,7 +328,7 @@
 		"id": "71393e79-ddd8-4230-95c0-2fb6846fb208",
 		"title": "Examenprogramma natuur, leven en technologie vwo",
 		"examenprogramma_vakleergebied_id": [
-			"b476e5ff-0ef7-42b1-88cc-3476f58cc1e6"
+			"cd0f2b9f-d5ec-459e-b8d1-ad91d4b7489e"
 		],
 		"examenprogramma_domein_id": [
 			"a4018249-5959-42eb-93a3-c55227dba702",
@@ -339,8 +339,8 @@
 			"6cb812c0-0901-478d-917b-baf346f50c1c"
 		],
 		"examenprogramma_kop1_id": [
-			"a54d2cc1-b1ad-4210-92f0-aba7c5617b53",
-			"4302edd9-eb37-43d5-813a-e37533970829"
+			"ad572a94-e580-4698-91a6-acad560f4e46",
+			"eda77e24-5f33-4284-8edf-cfa20ad8796f"
 		],
 		"ingangsdatum": "Vanaf schooljaar 2014-2015",
 		"url": "https://www.examenblad.nl/examenstof/natuur-leven-en-technologie-vwo-2/2019/f=/examenprogramma_nlt_vwo_2015.pdf"
@@ -349,7 +349,7 @@
 		"id": "b477a5d1-07c5-4028-80c3-3e33cd4ef672",
 		"title": "Examenprogramma NLT havo",
 		"examenprogramma_vakleergebied_id": [
-			"b476e5ff-0ef7-42b1-88cc-3476f58cc1e6"
+			"cd0f2b9f-d5ec-459e-b8d1-ad91d4b7489e"
 		],
 		"examenprogramma_domein_id": [
 			"3ba08ff9-ddef-40b7-8f64-c2550918236b",
@@ -359,8 +359,8 @@
 			"7f2cd3b7-8a3d-4c07-9ce9-af5ed865a55c"
 		],
 		"examenprogramma_kop1_id": [
-			"8464fec2-db9a-473b-b5ad-51ce1f2e7886",
-			"1e7e222e-5494-49b1-9a2a-a0ffe940ed5e"
+			"a8044df4-c84e-4baa-baea-6c7ba388d4fa",
+			"6aff979b-30bd-4a95-b5bc-3ee87b685d40"
 		],
 		"ingangsdatum": "vanaf schooljaar 2013-2014"
 	},
@@ -368,7 +368,7 @@
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
 		"title": "Examenprogramma  Nederlandse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"42a46beb-3d78-4ec2-a5d2-eba2a3109b8e"
+			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
 		],
 		"examenprogramma_domein_id": [
 			"a0d712ff-2be3-4196-a33a-7d0d638cf327",
@@ -379,9 +379,9 @@
 			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8",
 			"37f27aaf-a7fb-439a-aa7d-559ff00a0315",
 			"7f96a983-edeb-4d1b-85b8-016b7349398b",
-			"df38078b-a990-453d-960e-d28395b83631",
-			"7cc60d7f-903f-4da0-8cb8-f2745fceb662",
-			"4d271608-97dc-4843-95dd-21bfc79c4d77"
+			"5bdff35c-875a-4ce7-87d5-de77ab022cb7",
+			"7f29f2e1-b052-4f23-880b-67eddafff6fe",
+			"cda5d254-aa37-4851-8210-3b47ad11c23e"
 		],
 		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "Vanaf CE 2014",
@@ -391,7 +391,7 @@
 		"id": "ddab8ccb-30e2-4075-b0e7-0b2eb526ef28",
 		"title": "Examenprogramma Nederlandse taal en literatuur havo/vwo",
 		"examenprogramma_vakleergebied_id": [
-			"42a46beb-3d78-4ec2-a5d2-eba2a3109b8e"
+			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
 		],
 		"examenprogramma_domein_id": [
 			"74a6a1ca-5ff8-4bc4-9a61-ba20aed48a8b",
@@ -402,9 +402,9 @@
 			"72c752f2-938a-4a13-96a5-97a0ce41dd7c"
 		],
 		"examenprogramma_kop1_id": [
-			"242e3645-4144-4cd3-9093-3f841a9ea17f",
-			"3e119611-0769-440d-af63-59fad3586295",
-			"be972f33-f0c6-4149-baa2-be78b54f20aa"
+			"be7c54bc-1c4b-42dc-aa7c-1ffaf1692f78",
+			"7ce14c4f-b975-4ade-9648-0e600ae4a20f",
+			"5a661f59-d6da-4df2-83c8-9b2544399b03"
 		],
 		"ingangsdatum": "Vanaf CE 2014",
 		"url": "https://www.examenblad.nl/examenstof/nederlandse-taal-en-literatuur-2/2019/f=/examenprogramma_nederlands_havo_vwo_2014.pdf"
@@ -413,7 +413,7 @@
 		"id": "611f2494-3499-4809-b28b-204bc405c3dd",
 		"title": "Examenprogramma natuurkunde vwo",
 		"examenprogramma_vakleergebied_id": [
-			"73663186-7131-49d8-bb1e-974b1754e38c"
+			"297b3f19-c2f7-4d0a-9931-db0f8e88aa9f"
 		],
 		"examenprogramma_domein_id": [
 			"352fb802-9d15-4508-bc18-af556cec336a",
@@ -427,9 +427,9 @@
 			"567aabfc-71dd-4358-9783-de8c169b0894"
 		],
 		"examenprogramma_kop1_id": [
-			"74b85ed2-cc99-47e5-8db3-877578df99eb",
-			"cd227658-494c-4257-b4d5-fd1677cb9939",
-			"d0fec523-d6a5-46f1-af46-e67bb967a63c"
+			"c43b1c43-e781-4926-b9e0-d7bc9d013597",
+			"b690d487-ba11-4d00-b7f5-9ff8a35c4d25",
+			"9aaa3fdf-ce9f-4dfd-ad6b-fcf4f6569dba"
 		],
 		"ingangsdatum": "Vanaf CE 2016",
 		"url": "https://www.examenblad.nl/examenstof/natuurkunde-vwo-2/2019/f=/examenprogramma_natuurkunde_vwo_2015_2016.pdf"
@@ -438,7 +438,7 @@
 		"id": "3f3dec2a-a6ad-40c3-9b0e-95e624e1bc9f",
 		"title": "Examenprogramma natuurkunde havo",
 		"examenprogramma_vakleergebied_id": [
-			"73663186-7131-49d8-bb1e-974b1754e38c"
+			"297b3f19-c2f7-4d0a-9931-db0f8e88aa9f"
 		],
 		"examenprogramma_domein_id": [
 			"e59bf9fd-46c6-45a3-aedd-743c3f037116",
@@ -452,9 +452,9 @@
 			"a3beeab4-db02-4871-a145-80af43eb1423"
 		],
 		"examenprogramma_kop1_id": [
-			"32109507-73e4-45c0-8fce-e699b16cd146",
-			"fcb52449-3f42-4313-ac33-a583b3fab9fa",
-			"339a315c-470b-4c32-88d1-97ed90f51766"
+			"58acd394-540c-4dd3-8339-bccca88135b3",
+			"691492b1-1cfc-4dcb-ba80-31754993865f",
+			"d379d6b9-e48a-43cd-a84d-89a82dd32541"
 		],
 		"ingangsdatum": "Vanaf CE 2015",
 		"url": "https://www.examenblad.nl/examenstof/natuurkunde-havo-2/2019/f=/examenprogramma_natuurkunde_havo_2014_2015.pdf"
@@ -463,7 +463,7 @@
 		"id": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
 		"title": "Examenprogramma natuur- en scheikunde II vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"711294d5-24e0-4b5e-9018-01a0df37c8fe"
+			"bb07ebf8-c5a1-4675-9771-c5d7623c79b0"
 		],
 		"examenprogramma_domein_id": [
 			"f5e1dcd9-d7dc-4f16-87df-5db52b4c9cb6",
@@ -489,7 +489,7 @@
 		"id": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
 		"title": "Examenprogramma natuur- en scheikunde 1 vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"508e25d0-58d8-493d-b443-4e0f87979a80"
+			"42bab708-73f3-4c4a-b2a6-3f2d911f2db1"
 		],
 		"examenprogramma_domein_id": [
 			"60c4b942-0fac-450b-b7c7-14a363b4b990",
@@ -514,11 +514,11 @@
 	},
 	{
 		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
-		"title": "Examenprogramma Griekse taal en cultuur - vwo",
+		"title": "Examenprogramma moderne vreemde talen en literatuur havo/vwo",
 		"examenprogramma_vakleergebied_id": [
-			"faeec85e-2803-4690-8c50-ee3a469db38a",
-			"e9d57136-cb24-4e72-b5cf-1cacc3170910",
-			"dc5a9f31-618d-48a3-9396-58e8ab627bfc"
+			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6",
+			"f0f07756-73fc-40d9-9f8e-eb450d337ea1",
+			"19755351-eab6-43fb-a2cc-7b0b909802b6"
 		],
 		"examenprogramma_domein_id": [
 			"4c9a41ef-1c73-42e8-bc06-08c06e4505aa",
@@ -529,27 +529,27 @@
 			"99387359-1d29-4541-9895-4a905f81f896"
 		],
 		"examenprogramma_kop1_id": [
-			"1232a485-7a1b-4666-8a2b-3717906584a8",
-			"f2c8639a-cc4e-41b3-8088-bf103a10ec01",
-			"b8ba01fb-1cbe-47cd-9f35-e8821b5e7837"
+			"05cd3e2d-346a-4fc0-a2a5-c8af21c35212",
+			"3b2a543e-e4e7-4564-a299-5c320c7ff8ef",
+			"5b4e2e4d-e421-488f-8478-a87df30613cb"
 		]
 	},
 	{
-		"id": "2fc2439c-5eb2-445c-844a-79294acde11c",
+		"id": "9c7ce10d-f8bb-4726-9387-078466916b43",
 		"prefix": "MUZ/V",
 		"title": "Examenprogramma muziek  vwo",
 		"examenprogramma_vakleergebied_id": [
-			"2714e3c0-3674-4b8e-8975-46de908f089b"
+			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
 		"examenprogramma_domein_id": [
-			"2425fefd-305c-42db-be78-85db4feb8776",
-			"de9db811-3ae7-4a24-8e78-58546bb3d5f8",
-			"d3a1712c-18b4-413e-951b-88713480429a"
+			"942afd18-8dc0-4b99-be3a-bdff22f99ec2",
+			"0ab9fc8e-9580-4c08-bb6a-84b1249e03e2",
+			"e5911a6f-59e7-4d31-8343-d1f6e656405f"
 		],
 		"examenprogramma_kop1_id": [
-			"c3ca31f8-14e9-47b4-80d2-058665dafd4c",
-			"920dec1a-b1ab-4af5-a869-38f71ab1c179",
-			"d11290a5-490e-42f9-832a-3b27e831a587"
+			"7f93f245-403f-4988-bc75-ae0a97ef9197",
+			"a0b1727a-1f2c-4075-9907-6b0e67476823",
+			"f6c633de-dc84-45ff-8c5d-6f704cc11cf5"
 		],
 		"url": "https://www.examenblad.nl/examenstof/muziek-vwo/2020/f=/muz_vwo.pdf"
 	},
@@ -557,7 +557,7 @@
 		"id": "340236bd-8944-4768-8361-7f0c5d349eb4",
 		"title": "Examenprogramma Muziek",
 		"examenprogramma_vakleergebied_id": [
-			"2714e3c0-3674-4b8e-8975-46de908f089b"
+			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
 		"examenprogramma_domein_id": [
 			"2368b511-e11d-4804-8027-6226a8bd3cee",
@@ -577,32 +577,78 @@
 		"url": "https://www.examenblad.nl/examenstof/muziek-vmbo-2/2020/f=/muziek.pdf"
 	},
 	{
-		"id": "680d44c8-b663-4c0b-abbb-0b0f4331ba59",
+		"id": "dab2a174-419b-45e6-912f-974fb4db4f06",
 		"prefix": "MUZ/H",
 		"title": "Examenprogramma muziek  havo",
 		"examenprogramma_vakleergebied_id": [
-			"2714e3c0-3674-4b8e-8975-46de908f089b"
+			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
 		"examenprogramma_domein_id": [
-			"c7ffc2c1-6f49-461a-a653-fec2c310a322",
-			"99639518-8c9e-4db3-81a0-69ab60debd2b",
-			"45ee2224-7c31-42de-bb82-3ad957f4148a"
+			"1671208d-7b3b-48a1-97b1-5c962763da38",
+			"5ef5d754-e93e-47d8-8ed0-dc2fac706f62",
+			"c46efd08-0cca-4222-af81-013c14750d40"
 		],
 		"examenprogramma_kop1_id": [
-			"598b9a3b-a156-4a7a-a591-c46044be5fdd",
-			"f1bc31db-888c-4418-9234-2969bd90b14b",
-			"35eb3a6d-6f7d-46ca-a5a1-e58e76f4e87d"
+			"db97639f-ff1c-44a8-9fba-b527bc4bb926",
+			"0cdfbd08-d2f9-4392-a6c7-252a4935be9d",
+			"5e1d272d-ad3b-48c6-b258-1076683104c5"
 		],
 		"url": "https://www.examenblad.nl/examenstof/muziek-havo/2020/f=/muz_havo.pdf"
+	},
+	{
+		"id": "b44cba12-6a0c-4579-a818-d781b53a618d",
+		"prefix": "MO/V",
+		"title": "Examenprogramma management en organisatie vwo",
+		"examenprogramma_vakleergebied_id": [
+			"ea6ba3d7-9bb6-4465-a424-02bf9a8eb1b5"
+		],
+		"examenprogramma_domein_id": [
+			"3523a6d9-e47e-4938-9693-56915d422114",
+			"a52cd4b0-0366-4339-8ec3-719edafb1c2b",
+			"1b641a37-ce5b-4263-af96-617c6d862c8a",
+			"8acb1033-c7be-4e39-bc43-11ef74e50760",
+			"aa24609a-91a7-4338-a5e7-b65f92d45824",
+			"b5b5ae9c-ae28-47de-b482-413e257abab0",
+			"939006cd-0e21-441d-849e-f56ccfbee0c5"
+		],
+		"examenprogramma_kop1_id": [
+			"93eee83f-9fd8-4f9c-97ca-ade3b449d206",
+			"2a72f2d4-11b7-4ecd-8b42-d2c73e210dd7",
+			"4ac5a650-7de1-493b-9dfa-b07250b383ae"
+		],
+		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2019/f=/examenprogramma_management_en_organisatie_vwo.pdf"
+	},
+	{
+		"id": "0685a60b-5833-4da0-8643-a54c206686ae",
+		"prefix": "MO/H",
+		"title": "Examenprogramma management en organisatie havo",
+		"examenprogramma_vakleergebied_id": [
+			"ea6ba3d7-9bb6-4465-a424-02bf9a8eb1b5"
+		],
+		"examenprogramma_domein_id": [
+			"64a61086-b2a2-4db1-8754-4d4159ae0579",
+			"a216dbf4-6cc9-43ff-ba51-2c651d9e6451",
+			"32681378-c339-47bf-ad9f-f3504b103476",
+			"615924a2-9c79-4b32-a265-d7d67f2687c0",
+			"7d731e15-8fe3-486d-8a0b-86167a3d73fa",
+			"d9c72ed1-fe18-4037-b5ae-97bdab5acee9",
+			"b8039fb1-c50b-49f7-8384-2d09a484b244"
+		],
+		"examenprogramma_kop1_id": [
+			"3060b72c-6a9c-4732-b320-63d72e5dfb87",
+			"6553e67a-39a1-4460-8d40-9ce90c279f5b",
+			"ebe3c114-2831-4174-a6fb-784a3e5c70ab"
+		],
+		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-havo-2/2019/f=/meno_havo.pdf"
 	},
 	{
 		"id": "a295b232-d65a-47b5-811b-194dd1d43422",
 		"title": "Examenprogramma Maatschappijwetenschappen vwo",
 		"examenprogramma_vakleergebied_id": [
-			"ff1f44bd-2b66-4107-becc-7ef3c4cdeb24"
+			"851fb2e0-b42a-4291-9ff4-669987b35d8e"
 		],
 		"examenprogramma_domein_id": [
-			"327f2a2c-bb48-4ef3-b8d2-ead544f37966",
+			"c36f2622-2003-422c-8fb3-ac5b88eb2211",
 			"f3d25f6e-8239-4575-9e3f-ed7a8d7a8cae",
 			"a16d38c3-c5f9-457d-9786-7bcbafabcb1f",
 			"8591a1e2-0c91-4b0c-8e07-35d10c652b3f",
@@ -612,9 +658,9 @@
 			"fb0a5b74-a559-4ed0-adf0-87388e64223c"
 		],
 		"examenprogramma_kop1_id": [
-			"1982dd3e-10b6-4490-a6db-c51866af8749",
-			"b9432319-6379-4502-a138-8582e46b134d",
-			"f4df1916-8c14-4cc2-a23d-7d98ef90da7b"
+			"d8613b91-79a4-4d5b-ad10-fe811b80b991",
+			"085ccc9d-0a4f-463a-aad2-eff11c3054d7",
+			"5d009611-1601-4104-a704-6030b35101b5"
 		],
 		"ingangsdatum": "Vanaf CE 2019 (pilot)",
 		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-vwo/2019/f=/mijwtschp_vwo.pdf"
@@ -623,7 +669,7 @@
 		"id": "75b428a4-c65f-40d7-885a-c87c6b51a57c",
 		"title": "Examenprogramma Maatschappijwetenschappen havo",
 		"examenprogramma_vakleergebied_id": [
-			"ff1f44bd-2b66-4107-becc-7ef3c4cdeb24"
+			"851fb2e0-b42a-4291-9ff4-669987b35d8e"
 		],
 		"examenprogramma_domein_id": [
 			"42eb2d4e-ec92-4a54-9c33-1fe22728ddac",
@@ -635,9 +681,9 @@
 			"7ad5ae2f-2316-4183-9f09-26e2b506af81"
 		],
 		"examenprogramma_kop1_id": [
-			"f30481be-16d6-4e9e-b469-95bab13676b8",
-			"cfa5c70e-d80e-4ea8-84e8-e722bb85bf0d",
-			"092f1b6c-9ef7-43ac-83f8-1d9de2a1db4d"
+			"202a7bb7-b4a6-4bf8-a0a2-af361471ef2f",
+			"ad96dde6-656a-4ffa-9a8b-b300f5e6c3ef",
+			"d9aae5bd-ae0c-48da-a74c-7fd59999866c"
 		],
 		"ingangsdatum": "vanaf CE 2019",
 		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-havo-2/2019/f=/examenprogramma_maatschappijwetenschappen_havo_vanaf_ce_2019.pdf"
@@ -646,7 +692,7 @@
 		"id": "dd62ec2d-7037-4ff8-9539-c31da2028944",
 		"title": "Examenprogramma maatschappijleer vwo",
 		"examenprogramma_vakleergebied_id": [
-			"40f8d883-adef-4d56-9e57-9e6d9fc8a2ec"
+			"34f4face-9e78-4666-826d-37c5e3dcba3e"
 		],
 		"examenprogramma_domein_id": [
 			"4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
@@ -656,8 +702,8 @@
 			"493af023-4d6a-4d13-b7a8-f9448fc3ec4e"
 		],
 		"examenprogramma_kop1_id": [
-			"4a631cb0-0fe3-4678-bc0c-6ad68d862388",
-			"8d0b82ca-4a82-4815-a129-8a2561271851"
+			"3198ce7e-d591-4585-bde9-dece1d6a540b",
+			"fb14bca9-003c-427f-9a7e-afa7cfafee83"
 		],
 		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2019/f=/examenprogramma_management_en_organisatie_vwo.pdf"
 	},
@@ -665,7 +711,7 @@
 		"id": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
 		"title": "Examenprogramma maatschappijleer vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"40f8d883-adef-4d56-9e57-9e6d9fc8a2ec"
+			"34f4face-9e78-4666-826d-37c5e3dcba3e"
 		],
 		"examenprogramma_domein_id": [
 			"86c33bef-a2eb-4838-b5e7-52d02259fb03",
@@ -683,7 +729,7 @@
 		"id": "bd4ef329-a3c6-4cbc-b043-17fb8ff85703",
 		"title": "Examenprogramma maatschappijleer havo",
 		"examenprogramma_vakleergebied_id": [
-			"40f8d883-adef-4d56-9e57-9e6d9fc8a2ec"
+			"34f4face-9e78-4666-826d-37c5e3dcba3e"
 		],
 		"examenprogramma_domein_id": [
 			"1084fd95-07df-4a71-b85f-0a99e31ad59e",
@@ -693,8 +739,8 @@
 			"0b4c18e5-af30-43ef-9652-f6795ac1e590"
 		],
 		"examenprogramma_kop1_id": [
-			"5dddd86f-2176-42c8-8ec0-91b86f6b4755",
-			"60f84705-75ff-4961-98ed-341c464e16c7"
+			"eb72d9ee-015d-47f3-8318-49057fec6c64",
+			"33ae33e8-fbb4-40ef-9d36-607fd9212cb4"
 		],
 		"url": "https://www.examenblad.nl/examenstof/maatschappijleer-havo-2/2019/f=/mijleer_havo.pdf"
 	},
@@ -703,7 +749,7 @@
 		"prefix": "ML2",
 		"title": "Examenprogramma maatschappijkunde vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"0be271cf-a90d-4f9b-867f-cff99fd0dc72"
+			"c649e661-8aea-4fc0-87ee-fb545188709c"
 		],
 		"examenprogramma_domein_id": [
 			"e15fbf14-357a-466f-b6cd-474225e59f24",
@@ -722,56 +768,10 @@
 		"url": "https://www.examenblad.nl/examenstof/examenprogramma-maatschappijkunde/2019/f=/Examenprogramma_maatschappijkunde.pdf"
 	},
 	{
-		"id": "b44cba12-6a0c-4579-a818-d781b53a618d",
-		"prefix": "MO/V",
-		"title": "Examenprogramma management en organisatie vwo",
-		"examenprogramma_vakleergebied_id": [
-			"97662428-ea75-4685-a16f-ac9ac70ff601"
-		],
-		"examenprogramma_domein_id": [
-			"3523a6d9-e47e-4938-9693-56915d422114",
-			"a52cd4b0-0366-4339-8ec3-719edafb1c2b",
-			"1b641a37-ce5b-4263-af96-617c6d862c8a",
-			"8acb1033-c7be-4e39-bc43-11ef74e50760",
-			"aa24609a-91a7-4338-a5e7-b65f92d45824",
-			"b5b5ae9c-ae28-47de-b482-413e257abab0",
-			"939006cd-0e21-441d-849e-f56ccfbee0c5"
-		],
-		"examenprogramma_kop1_id": [
-			"7f35e9ac-2c6b-40cc-9b0e-c33c0e502a05",
-			"b98c9752-561a-456a-9ea4-b0d35965e97d",
-			"ffc4fd06-1dae-4ef9-b021-8b04b380f1ed"
-		],
-		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2019/f=/examenprogramma_management_en_organisatie_vwo.pdf"
-	},
-	{
-		"id": "0685a60b-5833-4da0-8643-a54c206686ae",
-		"prefix": "MO/H",
-		"title": "Examenprogramma management en organisatie havo",
-		"examenprogramma_vakleergebied_id": [
-			"97662428-ea75-4685-a16f-ac9ac70ff601"
-		],
-		"examenprogramma_domein_id": [
-			"c95a8ba3-76d0-4ce0-94be-1c21a818ffbb",
-			"a331130c-d401-4e28-92bc-899a33c47e3a",
-			"2191e9cf-43d5-4615-b488-8f279577ea43",
-			"f8d060b0-150e-4423-99df-ab471987581a",
-			"fcbe3919-56b4-470e-b20c-550238b7709d",
-			"1ca889b2-1d98-4a74-8564-f921f5a97ba1",
-			"2449385d-841d-4605-b013-abb6cb11fdb2"
-		],
-		"examenprogramma_kop1_id": [
-			"55b83fee-17eb-406b-99d6-42037f7e3182",
-			"ae75eac3-4ca2-4a46-a0c0-9c57b5899aa1",
-			"4aa29cea-2397-408b-afa6-fa8d59bcd572"
-		],
-		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-havo-2/2019/f=/meno_havo.pdf"
-	},
-	{
 		"id": "4c4bddd2-c2ae-4a52-a1bc-c4ba103378a7",
 		"title": "Examenprogramma lichamelijke opvoeding havo/vwo",
 		"examenprogramma_vakleergebied_id": [
-			"67e9a7e4-3ca6-4caf-808d-a7d922063c48"
+			"4b6dd90f-42e3-48ad-964a-aa5deea42127"
 		],
 		"examenprogramma_domein_id": [
 			"37cec167-172d-4ca7-b5b5-d72d2e7ead96",
@@ -781,31 +781,31 @@
 			"931078f6-9d20-44b9-874e-e489db3cf4f7"
 		],
 		"examenprogramma_kop1_id": [
-			"e0150857-ec67-4ce7-998e-a9dedcdcb631",
-			"21619f07-1264-47c1-90ea-4ec7656f99b6"
+			"814c3113-c6e3-4ec7-8cff-56dc03b66016",
+			"5f737b7e-ede4-4d9b-bb41-4068dc84fc4a"
 		],
 		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-vwo-3/2019/f=/lo_havovwo.pdf"
 	},
 	{
-		"id": "4f7be50b-4f8a-41e6-bbe5-63a84fb7883f",
+		"id": "5047db28-8b01-41e9-ba93-9e0c9630c612",
 		"prefix": "LO2",
 		"title": "Examenprogramma Lichamelijke opvoeding 2",
 		"examenprogramma_vakleergebied_id": [
-			"0bed7130-e20f-48aa-a126-d21cc9dbe07c"
+			"e94ef774-675a-43fd-bb07-3914025c7b6b"
 		],
 		"examenprogramma_domein_id": [
-			"4323eab8-607e-4b3d-9a29-9122abacb72d",
-			"7c1872a5-37e0-48ae-a295-8f6657594a24",
-			"d91df8ce-f65c-4588-b129-a25591e0f847",
-			"d2b888c0-3898-4a6c-97ec-6d1fbe1fc2cd",
-			"49cc535f-ac97-4436-8c43-82da8cb7037a",
-			"8521787f-432f-46f9-8113-a2d9b0891013",
-			"a1b4855c-c64b-4234-baf9-1c9a0a9df713",
-			"6446bf75-471d-4d25-8f35-df376564e30a",
-			"1da39aad-97d1-49f1-a750-dfb6014d73d3",
-			"3ec82597-acb9-4501-8e32-782658b87c66",
-			"d769d3bb-3668-4360-8a02-9314ceee8dad",
-			"53b43d19-03ee-43fe-8023-3e5f1d2bebea"
+			"b0a3f198-9ca8-4569-ad6f-1fc1484fdad0",
+			"c5b6be3f-c802-4aa9-8138-b46fdcb8e991",
+			"c4e67ec1-26a1-4e89-bb32-7590aeb05e3c",
+			"e9857320-9da3-43e2-ae4f-f78309cb6cec",
+			"9759d981-77e8-4894-831f-9ab10d6ca8f6",
+			"57c324d8-1721-4c1a-8d7d-f3d4346092a1",
+			"ed5a93b9-4dd6-4d39-b44b-59f12f6b87fb",
+			"f6e6827e-1415-4061-abc2-5c9dcae25027",
+			"0b58ec9d-dbf1-40cf-8b4b-ab75fab2361b",
+			"4161d247-48f4-4f9b-af18-df8fe8f70481",
+			"31e5c6f1-9c81-496f-baa9-cc330a97da2e",
+			"b5f80488-0e13-4a8f-9fb3-7715151efb5a"
 		],
 		"examenprogramma_kop1_id": [],
 		"jaargang": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf"
@@ -814,7 +814,7 @@
 		"id": "ef31ea11-caa0-4086-a75a-d791185c18c2",
 		"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"76afb72b-62b7-43ee-a5b5-372065044e56"
+			"cba68be3-a144-436e-b24e-fbf64169eb6a"
 		],
 		"examenprogramma_domein_id": [
 			"135614fb-0815-4082-bfd6-5896a58c50b0",
@@ -831,23 +831,23 @@
 		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-vmbo-2/2020/f=/lichamelijke_oefening1.pdf"
 	},
 	{
-		"id": "b5d203c5-9a1f-4fba-9897-95ed6023b7c9",
+		"id": "2e8e7a6b-b40e-4ead-92db-8dd90f0b7b36",
 		"prefix": "LA/V/Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo",
 		"title": "Examenprogramma Latijnse taal en cultuur (LTC)",
 		"examenprogramma_vakleergebied_id": [
-			"5ebd0712-79ed-491a-afdf-b57727864ad5"
+			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
 		],
 		"examenprogramma_domein_id": [
-			"9c9b4fb1-9cac-4648-927b-24e326563b3d",
-			"4ba4b694-bb85-4a8c-9895-1ae16cbdea95",
-			"f6b452eb-ce4b-4943-a736-499cf9a37886",
-			"f947da5b-13ab-4d39-bfa2-42ad0d476300",
-			"420408f2-4330-4edc-9352-21a0801f1c71"
+			"ad2bd610-8202-4c79-a05a-a570afb5bd7e",
+			"c744695c-029c-4b3c-917c-008cc4da728f",
+			"b33a9c85-6806-446d-abdd-1a352df0c4ef",
+			"6885edcd-8b77-42e3-aa04-5be35acf4d8f",
+			"e4a6646e-0840-4da1-ae99-bec417a0b37a"
 		],
 		"examenprogramma_kop1_id": [
-			"67c04082-5c85-4841-bb45-155ad29865d1",
-			"50f1ec5b-4e57-4204-80ef-24517d951a3c",
-			"dd213027-61fb-4803-b563-1441377d93a0"
+			"b1726f9b-6f2f-44ef-b1f4-0a8d948c66cc",
+			"24733257-3c26-4035-b8cc-3c8bf0aa473e",
+			"82ac5293-24cf-4a98-bbed-8b7763784a0c"
 		],
 		"ingangsdatum": "41852",
 		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf"
@@ -856,7 +856,7 @@
 		"id": "cdd3e66f-17df-4a0c-9496-89efae7dffef",
 		"title": "Examenprogramma Kunstvakken incl. CKV",
 		"examenprogramma_vakleergebied_id": [
-			"d80ad768-f6ab-4ddf-8300-cc8405301e9b"
+			"0be557c4-ea18-43a4-800b-a2fb7e6e0f49"
 		],
 		"examenprogramma_domein_id": [
 			"f99831f7-f16b-471c-a1b0-c24015c9538d",
@@ -872,7 +872,7 @@
 		"prefix": "MU/V",
 		"title": "Examenprogramma kunst (muziek) vwo",
 		"examenprogramma_vakleergebied_id": [
-			"7401646b-576a-4aa4-b113-1580bffb10ea"
+			"b89256f2-ccb0-4a0f-a870-dea8d63d40d4"
 		],
 		"examenprogramma_domein_id": [
 			"9cbbf01a-3cb5-46dd-9b72-5c4fc1421d2e",
@@ -880,9 +880,9 @@
 			"281e83d1-edd5-4e92-b912-a73a9aa51e5e"
 		],
 		"examenprogramma_kop1_id": [
-			"0f5e241b-0f3e-4cd2-b980-bf791bd9797d",
-			"5b765c39-f283-4bbf-90ae-90936d13508d",
-			"c6b83000-93e7-4ec1-992a-b8a34cea857c"
+			"3a06d6a6-0218-4cc4-9d2d-71a7ead5f655",
+			"f4e8293e-c830-4ed5-b4c3-b2faa22c1425",
+			"9b3416e1-6f0c-4013-939b-f2234c80ebae"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-vwo/2019/f=/kunstmuz_vwo.pdf"
 	},
@@ -891,17 +891,17 @@
 		"prefix": "MU/H",
 		"title": "Examenprogramma kunst (muziek) havo",
 		"examenprogramma_vakleergebied_id": [
-			"2714e3c0-3674-4b8e-8975-46de908f089b"
+			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
 		"examenprogramma_domein_id": [
-			"bb978789-6748-4c44-a58a-712f021c915a",
-			"c847582c-5cb3-4d40-ae23-db883abb5297",
+			"efc5b46e-9b9d-441e-b5b5-5f0429387a14",
+			"a78e446f-fa61-48b9-af63-e11e52ef3caa",
 			"7d421cdf-40b3-477d-bc98-1e26d76d6a51"
 		],
 		"examenprogramma_kop1_id": [
-			"ae88c61a-42a5-412a-9081-62c8ff47cde6",
-			"1e352613-adb2-4cd4-8c0e-9046b3279745",
-			"baa7bc69-4255-4a63-8fe3-18320c1e4efa"
+			"4b5de09f-b4d3-4885-bab2-4a364d920994",
+			"a4708546-5138-4ba6-bc3e-b4d65ed056ba",
+			"fcf6d9c5-4856-400a-832e-ae90dff9eb00"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-havo/2019/f=/kunstmuz_havo.pdf"
 	},
@@ -910,7 +910,7 @@
 		"prefix": "DR/V",
 		"title": "Examenprogramma kunst drama vwo",
 		"examenprogramma_vakleergebied_id": [
-			"c48c62d8-9637-4c2d-9cb6-48237e4a140b"
+			"b4d10624-199f-4ffc-8a25-58df0bfb5002"
 		],
 		"examenprogramma_domein_id": [
 			"c204213a-3a69-4c77-aa6c-62ebd77f8ba6",
@@ -918,9 +918,9 @@
 			"fc25e03f-e5f4-451e-8a95-c4d6dcee5902"
 		],
 		"examenprogramma_kop1_id": [
-			"00a6020f-c230-4b7c-98cf-3a76416055bb",
-			"f2c40648-f557-432e-b11e-441c6eabd0e0",
-			"35f6a158-ff2e-4edb-8650-97c59b38efbb"
+			"4a998a8f-4e03-470e-81d3-e8fd02c0cdab",
+			"54c5782d-6503-4eba-92dd-b56eb6ea7cb2",
+			"9ee6277b-2515-4e24-b778-d38794f36495"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-drama-vwo/2020/f=/kunst_drama_vwo.pdf"
 	},
@@ -929,17 +929,17 @@
 		"prefix": "DR/H",
 		"title": "Examenprogramma kunst drama havo",
 		"examenprogramma_vakleergebied_id": [
-			"c48c62d8-9637-4c2d-9cb6-48237e4a140b"
+			"b4d10624-199f-4ffc-8a25-58df0bfb5002"
 		],
 		"examenprogramma_domein_id": [
-			"faeebd3f-7ef2-440e-bfea-b6eb66887c5c",
-			"3dd87545-9c5b-497e-9ad2-2c27cd8262db",
-			"6103495c-b823-4eab-b309-c09b41bdfb9f"
+			"3af43409-6944-43e9-b7ff-894441d04e73",
+			"ec607fdf-97d4-4abd-ae90-e653c152cfeb",
+			"e71bb596-58a0-4433-8a38-0cab05a1eadd"
 		],
 		"examenprogramma_kop1_id": [
-			"05ba24a9-2e45-4da0-a488-31c729ad55b7",
-			"2e8ea47c-aafe-43c0-8a54-948d79bb1290",
-			"4e728107-3b0c-4783-b1f9-e89a12ef1f17"
+			"7ad59c38-68a1-4185-951a-92ee40c37aaf",
+			"06cd44e4-afff-4593-8589-778071d5f600",
+			"58674a0e-e1e3-4a8d-aa54-5e3ed2195005"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-drama-vwo/2019/f=/kunst_drama_vwo.pdf"
 	},
@@ -948,17 +948,17 @@
 		"prefix": "DA/V",
 		"title": "Examenprogramma kunst (dans) vwo",
 		"examenprogramma_vakleergebied_id": [
-			"6f4b06cb-69de-49ef-b6eb-790c0482abc3"
+			"56edbfd4-ef52-49d4-852f-74ea54b9c290"
 		],
 		"examenprogramma_domein_id": [
 			"0d981433-2c5e-4dfc-a88d-8bc535968b28",
 			"75df6ab8-5f7e-477f-a9fc-bf7d31ee48a2",
-			"b590a1f6-f124-418a-9149-97a75d59771e"
+			"ff22e6f7-2ac1-4c04-9346-478d16fdc941"
 		],
 		"examenprogramma_kop1_id": [
-			"a97ef3c8-7b40-411e-9ddd-c55aa9a812f1",
-			"749665f1-b0a4-4e07-9238-5b6145c3c49a",
-			"5c516fde-9bee-4677-a425-792a11da4e98"
+			"753c9b35-67fc-44a0-b0d9-10b5726c1a1b",
+			"d6e21568-d38f-44d5-8d28-d2d51017be62",
+			"a7c65df1-8909-4c65-ab5a-0a6946632c9c"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-dans-vwo/2019/f=/kunstdans_vwo.pdf"
 	},
@@ -967,17 +967,17 @@
 		"prefix": "DA/H",
 		"title": "Examenprogramma kunst (dans) havo",
 		"examenprogramma_vakleergebied_id": [
-			"b09507ed-7206-4ba6-a340-d8d62812b7fc"
+			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
 		],
 		"examenprogramma_domein_id": [
-			"91d4eaad-dd53-4e33-8747-0053640df2dd",
-			"dc1c80dc-762a-468b-97a4-83eb88c4c376",
-			"a262c75c-a070-4486-a503-a58b8ae0d157"
+			"e7571bf0-fee6-4c6d-8928-3b29f147f721",
+			"9735a2ad-843a-4a88-b0fd-da42c03c84d0",
+			"f0e5e465-14fe-4ed2-a37e-ffa3d4a351c0"
 		],
 		"examenprogramma_kop1_id": [
-			"216d23f7-8cd3-4c24-8cd1-d8f63b6731bb",
-			"f9054c5b-dc54-4516-bcac-caeece984b4d",
-			"b586796e-c878-446e-9710-6278361dbf20"
+			"f7b63b36-2da8-4fea-818a-12648be86e71",
+			"6156f34b-25ed-463a-9aaa-c47c14d52b06",
+			"304f7ad9-7aa3-4180-b00f-eb223ec0fd77"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-dans-havo/2019/f=/kunstdans_havo.pdf"
 	},
@@ -985,7 +985,7 @@
 		"id": "90f32bf1-0834-4288-93ba-2ceb6bc40e49",
 		"title": "Examenprogramma kunst beeldende vormgeving vwo",
 		"examenprogramma_vakleergebied_id": [
-			"292c1afc-033b-48d8-9a1c-68fa50a675b8"
+			"9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93"
 		],
 		"examenprogramma_domein_id": [
 			"89769514-a6d6-4605-825d-8ea4ff3bb712",
@@ -993,9 +993,9 @@
 			"2bd1d16a-a01a-4e25-88b6-60b1c75d8c7c"
 		],
 		"examenprogramma_kop1_id": [
-			"62451872-6e60-4951-a5c7-d189b8fd4fd8",
-			"08904671-2c9f-47b0-b161-5ffd9e6fa203",
-			"373cc518-80dc-4a6e-bd4e-34096ac558fe"
+			"1c703789-335e-4de0-aa94-212b60c8ba49",
+			"5493efc8-f1d4-4401-a4a4-0e89b53c0d24",
+			"04608c70-b0e7-4a5b-9969-e6845843a1b5"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2019/f=/kunstbv_havo.pdf"
 	},
@@ -1003,34 +1003,34 @@
 		"id": "d343fb75-ba02-4969-960c-3ff5e009e946",
 		"title": "Examenprogramma kunst (beeldende vormgeving) havo",
 		"examenprogramma_vakleergebied_id": [
-			"292c1afc-033b-48d8-9a1c-68fa50a675b8"
+			"9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93"
 		],
 		"examenprogramma_domein_id": [
-			"134337c7-7d2b-4c97-930d-0b5c7e4b0670",
-			"31276f10-de39-4419-aecc-5e587272a640",
-			"0a8efa46-3c1f-46d2-947f-3bdb400f9cf0"
+			"d36c7a47-92d0-4f1a-b7ce-28557bcf309a",
+			"145577b2-c759-4385-a977-5db870f77bfe",
+			"d2704a46-359f-496a-8132-6d3958aeb416"
 		],
 		"examenprogramma_kop1_id": [
-			"a69bb509-dded-4bc1-83dc-6f4474f8447e",
-			"c691d59e-ee1a-47a6-89e0-635881be326b",
-			"87038aa7-0bf9-4d24-aa74-27985308c69b"
+			"e65a0a78-9d7c-488a-874f-5ab48b4a830b",
+			"f4cdb99b-d696-4e10-b0ff-1f5d8fbe1797",
+			"6fb0f96f-6e28-471e-868a-4474a72efae1"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2019/f=/kunstbv_havo.pdf"
 	},
 	{
-		"id": "f513757f-d32b-45d9-bb1d-bf6d49b5600d",
+		"id": "0d872678-c7ed-4cf2-b8eb-96580d330dfa",
 		"title": "Examenprogramma kunst (algemeen) vwo",
 		"examenprogramma_vakleergebied_id": [
-			"7707798a-2800-4c4b-bae0-5828a70bc10c"
+			"002d65dd-5302-4f02-9a62-25bf8ef8eaa4"
 		],
 		"examenprogramma_domein_id": [
-			"4cb4a02f-61b6-4b19-97e5-c27ccdd66932",
-			"815b391c-07b6-4a54-819d-06455094529b",
-			"aa3d56fe-09c0-42c6-928a-cab4b378f88b"
+			"bf818f4a-bde0-4dfd-96df-92c7e3cab0d6",
+			"c62899f0-fdae-40a9-a83d-108cc3705b05",
+			"20ad73f2-45b8-41ce-b125-11a1c61cdcd6"
 		],
 		"examenprogramma_kop1_id": [
-			"e7efb78a-9f57-4cd0-97c2-fd94ee0154e7",
-			"a9223fe4-e6fd-4ba7-91d3-b69c3ff7ca12"
+			"a830e9f3-a7f1-4811-aaed-cf17748a75e8",
+			"a68b73ae-4ffe-4b1a-8f7c-8df172e4b48b"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-algemeen-havo/2019/f=/kunstalg_havovwo.pdf"
 	},
@@ -1038,7 +1038,7 @@
 		"id": "a9a3ba23-bf44-43f1-a40d-1bf368d39470",
 		"title": "Examenprogramma kunst (algemeen) havo",
 		"examenprogramma_vakleergebied_id": [
-			"7707798a-2800-4c4b-bae0-5828a70bc10c"
+			"002d65dd-5302-4f02-9a62-25bf8ef8eaa4"
 		],
 		"examenprogramma_domein_id": [
 			"a1923ed8-ac58-4c41-867e-a0fd722f90ef",
@@ -1046,8 +1046,8 @@
 			"d8a2560e-bf4e-4d1b-8fb1-e6c4c945206b"
 		],
 		"examenprogramma_kop1_id": [
-			"65833974-0f6b-40fe-b5c4-e34e2233640c",
-			"225aec65-ae3b-4e35-8a45-293e78297113"
+			"7403f0f1-1e43-4db7-81f5-f401460df271",
+			"5db53a95-b7d3-4350-865c-7fbf55af1dc3"
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-algemeen-havo/2019/f=/kunstalg_havovwo.pdf"
 	},
@@ -1055,7 +1055,7 @@
 		"id": "ab7b3996-f658-4981-a4cb-0689f00aa24c",
 		"title": "Examenprogramma informatietechnologie vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"21d54d86-0f65-475f-a2e5-d3820d640e4f"
+			"62678a6d-8133-407b-9338-e7d0fe0cfd00"
 		],
 		"examenprogramma_domein_id": [
 			"caf3334d-6355-4f07-a24f-478bf1599754",
@@ -1071,10 +1071,43 @@
 		"url": "https://www.examenblad.nl/examenstof/informatietechnologie-vmbo/2019/f=/Examenprogramma_informatietechnologie_vmbo_vanaf2016-2017.pdf"
 	},
 	{
+		"id": "9d88473e-9cde-439e-88b7-32dea9665022",
+		"title": "Examenprogramma informatica vwo",
+		"examenprogramma_vakleergebied_id": [
+			"87a50ae0-4af8-483a-a9ea-7251cfc14618"
+		],
+		"examenprogramma_domein_id": [
+			"167d9388-a21b-4365-bcc2-691fdf6270af",
+			"f10329d0-7f11-41cb-92d6-8f298a3d9148",
+			"716340b8-0998-4b75-b6fe-ceb52fcc57d7",
+			"4415a917-36cd-4e39-b8de-229029d1bd1f",
+			"db8f9ac2-fd61-45bc-84b0-cbcbc58e1d4d",
+			"408c8ff3-8988-4463-a51d-068ad1d6442e",
+			"7738d401-12d7-4073-845b-8b1d347c7a54",
+			"b4fbae24-5049-4449-bfca-04bf4f1b81fd",
+			"270fd109-962b-44d7-bde4-f7bb185df7c1",
+			"253c5ec8-dbf7-4cb0-9a30-c84414a9737e",
+			"f7f8aaef-7fb7-46d1-9d19-746bb7fffd9e",
+			"8222a7f3-c901-4ad7-ae6e-a6b81b591404",
+			"8f2a5702-9dc1-4b75-a80b-806b2c9639e8",
+			"45678f59-6f37-4450-a14e-c863cdedbace",
+			"94f73258-1170-428a-bd45-46b780e342ca",
+			"6d68a9ab-08ac-4612-9b05-28e24c6daa4c",
+			"878b20fb-0ad3-4908-b3b6-ba58e38d632d",
+			"5ebe26d7-44a5-4ffa-94fc-7290b4c011aa"
+		],
+		"examenprogramma_kop1_id": [],
+		"ingangsdatum": "Vanaf schooljaar 2019",
+		"versie": "1.0",
+		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2019/f=/examenprogramma_Informatica_havo-vwo.pdf",
+		"jaargang": "2019",
+		"status": "Wettelijk"
+	},
+	{
 		"id": "fddc262e-f971-48a6-9fef-4b0cf4cd3253",
 		"title": "Examenprogramma informatica",
 		"examenprogramma_vakleergebied_id": [
-			"effb97f6-079c-4ac2-82c7-af1f357e2407"
+			"87a50ae0-4af8-483a-a9ea-7251cfc14618"
 		],
 		"examenprogramma_domein_id": [
 			"54b16660-d706-43ae-857d-eb328928d379",
@@ -1097,7 +1130,8 @@
 			"89d216ab-55dc-48c4-b4ee-f1e2c4474651"
 		],
 		"examenprogramma_kop1_id": [
-			"2e8d2d7a-c25c-44ec-b6c4-8ac7da03305c"
+			"41695bb3-a4df-4d08-b67c-7594d12af037",
+			"e1ebdbdc-7f4b-4c61-84d9-d50cc2482de5"
 		],
 		"ingangsdatum": "Vanaf schooljaar 2019",
 		"versie": "1.0",
@@ -1110,7 +1144,7 @@
 		"prefix": "THT/V/H",
 		"title": "Examenprogramma handvaardigheid vwo",
 		"examenprogramma_vakleergebied_id": [
-			"b5ae1868-b285-4215-9b89-5b44a883b54f"
+			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
 			"8311e93b-7817-47f0-8062-0853b35f4502",
@@ -1118,9 +1152,9 @@
 			"a2084e24-6371-4088-93a7-39b2893298b2"
 		],
 		"examenprogramma_kop1_id": [
-			"4bc3eee2-5c16-4d1b-b3b0-625642452dec",
-			"4753d33a-60fd-4677-a5aa-24a43005029a",
-			"31a7b8a8-eacf-4243-ae13-086c7bdc415a"
+			"bf886594-21b0-4217-90c2-07143959f3fc",
+			"3fe30ca0-674a-4d4a-a7c5-2edda77086fd",
+			"38f7c84e-769f-4a40-8f96-8ca75a6a109d"
 		],
 		"url": "https://www.examenblad.nl/examenstof/handvaardigheid-vwo/2019/f=/hv_vwo.pdf"
 	},
@@ -1129,7 +1163,7 @@
 		"prefix": "THT/H/H",
 		"title": "Examenprogramma handvaardigheid havo",
 		"examenprogramma_vakleergebied_id": [
-			"b5ae1868-b285-4215-9b89-5b44a883b54f"
+			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
 			"aedaa6a7-47b9-41db-b2a0-5b258f1fd34b",
@@ -1137,29 +1171,29 @@
 			"9b432dff-ebab-467a-978a-142390f46b94"
 		],
 		"examenprogramma_kop1_id": [
-			"51ec9efd-ba0a-4e92-96a8-d2c27b701dac",
-			"f41aef08-e7f7-4e75-949c-7297ccd181c5",
-			"a8abc12f-60de-42b5-8b1c-0f777fb5314f"
+			"ac037970-6ef5-4bba-919c-e7294b1dfeeb",
+			"ebcd1b2d-efa6-4867-9bb6-1f667a626ada",
+			"2db473a7-60da-4c51-9c8f-0209f5e8fadd"
 		]
 	},
 	{
-		"id": "00beaf9f-8389-485d-a532-81c881441b88",
+		"id": "aa932a9b-5996-449d-82bc-c0942bed68d2",
 		"prefix": "GR/V/Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo",
 		"title": "Examenprogramma Griekse taal en cultuur (LTC)",
 		"examenprogramma_vakleergebied_id": [
-			"5ebd0712-79ed-491a-afdf-b57727864ad5"
+			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
 		],
 		"examenprogramma_domein_id": [
-			"f99a4714-9d57-45ec-85ec-972d078f75db",
-			"ac80f8b7-37d5-4153-a08d-f75c0b6bad21",
-			"1b978be1-3058-42e9-be6d-fcbd0f74e0c1",
-			"e8f9b8d7-e73e-45fd-b60b-15cbefc198c7",
-			"01ac7156-5dd8-4844-b6c4-5b9504310de8"
+			"2e79294f-9788-4c7d-87d6-a7f0eddda00e",
+			"d8004613-bbd5-4f55-907c-f7e5039a38da",
+			"7e01afa1-28e5-48f5-9fa3-26ea5278db73",
+			"6e6ae4fb-ef2d-46a7-a99c-2801900d545f",
+			"bc794bbc-ae84-48f7-a2f4-0170f104b2bb"
 		],
 		"examenprogramma_kop1_id": [
-			"a5742492-5267-4c7b-bd3c-ad37319f186f",
-			"8d3923b9-6f68-41d1-81a7-6d97ca52425b",
-			"94092c6c-82fc-4e4f-b375-257120865716"
+			"82d279f6-30c8-4f3f-830f-4e71b3fec4e6",
+			"bca3b4d7-f33f-453b-8cde-373831319366",
+			"6a7a2228-db9d-4094-83d2-249040b0fc50"
 		],
 		"ingangsdatum": "41852",
 		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf"
@@ -1168,7 +1202,7 @@
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
 		"title": "Examenprogramma geschiedenis vwo",
 		"examenprogramma_vakleergebied_id": [
-			"c4b13606-8d7a-4cba-942a-bf07201ca69d"
+			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
 		],
 		"examenprogramma_domein_id": [
 			"8f9d8a47-21c1-4051-a35f-3afe64b88b69",
@@ -1178,9 +1212,9 @@
 			"493e5abc-d9b7-434b-9f6f-85dbe333baf2"
 		],
 		"examenprogramma_kop1_id": [
-			"e8e6d12c-7052-41ae-b57a-7e6db69a4592",
-			"281d7101-a722-44cc-9fe2-0147921a9e54",
-			"3d2b1a36-61f0-483e-9274-d50e2f34acf9"
+			"361219cf-a0bb-4f01-a161-87d53d1897d3",
+			"ecf1e699-ac12-40bb-9097-049b9f19dbb3",
+			"bf23fed3-9262-4e12-9db0-ff7b20bb5520"
 		],
 		"ingangsdatum": "Vanaf CE 2015",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-vwo-2/2019/f=/Examenprogramma_geschiedenis_vwo_vanaf_2015_wijziging_2013.pdf"
@@ -1189,7 +1223,7 @@
 		"id": "0af05781-3b4e-4137-9f16-cb700db72b88",
 		"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"c4b13606-8d7a-4cba-942a-bf07201ca69d"
+			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
 		],
 		"examenprogramma_domein_id": [
 			"0b767adb-ab60-4799-8857-9ab32ccd335a",
@@ -1221,19 +1255,19 @@
 		"id": "d70f38ff-7cd3-4fb7-921a-78b8e2d4c3ff",
 		"title": "Examenprogramma geschiedenis havo",
 		"examenprogramma_vakleergebied_id": [
-			"c4b13606-8d7a-4cba-942a-bf07201ca69d"
+			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
 		],
 		"examenprogramma_domein_id": [
-			"262325db-d54e-41a9-9c95-6cf3198c1d04",
-			"ff9358b5-3f92-490e-bdfb-8e4d32976179",
-			"8ff875ae-b00c-425f-8e2a-f354addf0e72",
-			"c3bdf7b1-da45-43f1-91bb-6631c83280c5",
-			"501cb10f-5319-40a8-ade1-89b64fad9765"
+			"a20f57f3-6fca-4a3e-abb1-e910b9ee339d",
+			"86969cc7-830a-4b8f-93d8-0238572b42c5",
+			"ff89811a-e5ef-407b-bc31-a8e7fe96363b",
+			"1bb062ad-6322-4379-819f-78d5dbb2eea1",
+			"46e6d7ec-64a6-4517-bcaf-0b27807afa64"
 		],
 		"examenprogramma_kop1_id": [
-			"c818276b-6279-41d1-a88d-802f6464921e",
-			"6a3500e0-9a05-41dd-bc61-fb062e0b433a",
-			"808bf731-5007-4118-8637-4e3636e82d7c"
+			"cc71f44a-71a8-4f7c-a145-92ef25319c77",
+			"f5349d7a-cdf0-4de5-8e55-343d1ba9f217",
+			"7a3f6d40-fb2a-4e89-b84c-f7a83f4b6263"
 		],
 		"ingangsdatum": "Vanaf CE 2018",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-havo-vanaf-2018/2019/f=/Examenprogramma_geschiedenis_havo_2018.pdf"
@@ -1242,7 +1276,7 @@
 		"id": "803fe798-4884-4e69-94b9-fc0364989e95",
 		"title": "Examenprogramma Franse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"e9d57136-cb24-4e72-b5cf-1cacc3170910"
+			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
 		],
 		"examenprogramma_domein_id": [
 			"fb138f99-786a-45a1-96d3-ef8d8a555b53",
@@ -1265,7 +1299,7 @@
 		"prefix": "FI/V",
 		"title": "Examenprogramma Filosofie vwo",
 		"examenprogramma_vakleergebied_id": [
-			"19659047-6356-4d7f-926f-d1f69084cb56"
+			"adefff5b-a281-4250-a48b-92842e6967c7"
 		],
 		"examenprogramma_domein_id": [
 			"05c65929-da64-4974-b769-244e65dd99ce",
@@ -1275,9 +1309,9 @@
 			"655953eb-223b-416d-b2f1-5f5a6fea8296"
 		],
 		"examenprogramma_kop1_id": [
-			"b90ae3ac-1277-44bd-8b1e-aaec45773aad",
-			"aa89f5c9-e2ff-44a5-b023-5a25105fdbf6",
-			"ad57d7e1-75e0-4442-bc1f-b108ba38a312"
+			"de6546e7-10c0-4436-ab88-f8deb50be038",
+			"867cbbf3-c062-477a-af29-f827711ed384",
+			"963b6d34-5783-4742-992e-b07ccea6a0a1"
 		],
 		"ingangsdatum": "Vanaf CE 2020"
 	},
@@ -1286,25 +1320,25 @@
 		"prefix": "FI/H",
 		"title": "Examenprogramma Filosofie havo",
 		"examenprogramma_vakleergebied_id": [
-			"19659047-6356-4d7f-926f-d1f69084cb56"
+			"adefff5b-a281-4250-a48b-92842e6967c7"
 		],
 		"examenprogramma_domein_id": [
-			"94ffc941-9b2f-43c1-9edd-bf585def14d8",
-			"95ff8856-3974-4854-8d61-2167193c542e",
-			"0c1f43de-891c-4cac-8a7f-d006ec4141d3",
+			"7032b1de-5150-4f8f-bc66-228601b15ce0",
+			"fcbaa79b-3dac-4f7e-9932-f1aae8cd1667",
+			"f97d9ea8-ea6f-43fa-b0be-f5206123d00d",
 			"57ae8740-026f-46d9-8528-f2bef1dc4023"
 		],
 		"examenprogramma_kop1_id": [
-			"83f14328-3848-4786-b400-a3937b240718",
-			"15973115-3b13-4d32-bdf5-7a714947f469",
-			"06f1d09e-7f00-4955-bd81-a9d5625d56bb"
+			"d27c38b1-32b9-4a93-882e-c158eb306086",
+			"31f260eb-de06-4e64-aef8-c55e1920f236",
+			"b7ca818d-3b04-47e9-a782-1a2e62d0fb2d"
 		]
 	},
 	{
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
 		"title": "Examenprogramma Engelse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"dc5a9f31-618d-48a3-9396-58e8ab627bfc"
+			"19755351-eab6-43fb-a2cc-7b0b909802b6"
 		],
 		"examenprogramma_domein_id": [
 			"955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
@@ -1327,7 +1361,7 @@
 		"id": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
 		"title": "Examenprogramma economie vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"e69b0ba6-6f91-4575-b4de-1f0fd11753a6"
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
 		],
 		"examenprogramma_domein_id": [
 			"192b908f-53ef-47d2-83b7-30fcee62846a",
@@ -1350,7 +1384,7 @@
 		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
 		"title": "Examenprogramma economie havo/vwo",
 		"examenprogramma_vakleergebied_id": [
-			"e69b0ba6-6f91-4575-b4de-1f0fd11753a6"
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
 		],
 		"examenprogramma_domein_id": [
 			"19ce8c9a-317c-4f03-9091-01cfa6ad2908",
@@ -1366,17 +1400,17 @@
 			"4abdcdd9-dc4a-4580-9218-aecb04462d13"
 		],
 		"examenprogramma_kop1_id": [
-			"39b6e544-5ee3-44fd-9d6d-bc8472711f10",
-			"604b292a-7d07-4fb5-972f-57c641f30070",
-			"7fb32090-b752-4306-9618-9decb3228f0a"
+			"6dbeb4e2-951a-4052-934a-ef670689b0bc",
+			"feb6ef86-7340-44e9-9ebd-d82243ddb99c",
+			"96e8cf80-4df7-40d5-ac31-56fff2c7271a"
 		],
 		"ingangsdatum": "Vanaf CE 2014"
 	},
 	{
-		"id": "60f515e2-0496-4fdd-b497-4d3696c3af57",
+		"id": "2e58a2e2-3332-4cd4-a39d-9205f36a50db",
 		"title": "Examenprogramma Duitse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"faeec85e-2803-4690-8c50-ee3a469db38a"
+			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
 		],
 		"examenprogramma_domein_id": [
 			"40175655-d16a-4128-b424-05b278bbb010",
@@ -1398,7 +1432,7 @@
 		"id": "d10201e5-a936-45cb-b8a8-36f576d78b77",
 		"title": "Examenprogramma Drama vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"ae90556c-59aa-4b82-a876-5355c6188881"
+			"561769d0-9c63-40e8-b2e7-54bde96f7e9f"
 		],
 		"examenprogramma_domein_id": [
 			"962affa6-0b4c-4d64-be91-9aeadec094ac",
@@ -1421,7 +1455,7 @@
 		"id": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
 		"title": "Examenprogramma Dans vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"b09507ed-7206-4ba6-a340-d8d62812b7fc"
+			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
 		],
 		"examenprogramma_domein_id": [
 			"3d891184-3c95-46fc-8afc-e62e8c179d36",
@@ -1441,20 +1475,20 @@
 		"url": "https://www.examenblad.nl/examenstof/dans-vmbo-2/2019/f=/dans.pdf"
 	},
 	{
-		"id": "0685a276-0256-4534-a015-d5fa52ceecc6",
+		"id": "d5d55bb7-270a-48f1-aa0c-bdcdc34dfd6d",
 		"title": "Examenprogramma culturele en kunstzinnige vorming vwo",
 		"examenprogramma_vakleergebied_id": [
-			"b2d3c3d2-7cb9-46fd-9c23-c877ad37e0c7"
+			"3023730d-db97-468e-b8d7-aa098399a7bd"
 		],
 		"examenprogramma_domein_id": [
-			"4644dd4b-b9fe-451e-a6d5-6c10e531758d",
-			"c238a0c8-c1b1-4412-921c-851f53edf7bc",
-			"04ed08dc-e7fe-4a09-b8a4-b2629f310911",
-			"62ebbe91-932f-4355-9a7a-5dc86bbc1605"
+			"0a720b65-2425-49bc-80ca-01a036eb0f53",
+			"4dab39e5-e832-4814-b8c2-fcc6c536b895",
+			"ade20844-52d8-4403-9c32-75dba1044ea8",
+			"d8771d14-2c47-426d-a693-4b535b5ddab8"
 		],
 		"examenprogramma_kop1_id": [
-			"6606a698-62ff-427b-a6b1-1df61ad89d79",
-			"b6959066-5946-4195-80b3-a6beef157ae3"
+			"6cc55eab-3bd2-43ea-bee7-3b54aa08dbb6",
+			"4603d09d-bd8d-4f11-9325-4203ed376d97"
 		],
 		"ingangsdatum": "Vanaf ex.jaar 2020",
 		"url": "https://www.examenblad.nl/examenstof/culturele-en-kunstzinnige-vorming-7/2020/f=/examenprogramma_culturele_en_kunstzinnige_vorming_vwo_vanaf_2020.pdf"
@@ -1463,7 +1497,7 @@
 		"id": "2f19281a-0926-4466-8ca5-ceb98b8f3f48",
 		"title": "Examenprogramma culturele en kunstzinnige vorming havo",
 		"examenprogramma_vakleergebied_id": [
-			"b2d3c3d2-7cb9-46fd-9c23-c877ad37e0c7"
+			"3023730d-db97-468e-b8d7-aa098399a7bd"
 		],
 		"examenprogramma_domein_id": [
 			"2cfb4119-c3f7-4ace-8cab-831170596719",
@@ -1472,29 +1506,29 @@
 			"2cc83fd4-2d12-4b01-a06f-017e7ff2bfaa"
 		],
 		"examenprogramma_kop1_id": [
-			"11e33df1-66c5-445a-9d2b-6d1dcadb8cab",
-			"ca52cefc-73b0-4fb6-9e55-7fe32403f38f"
+			"a27d36e0-eb71-4336-9bc7-fdf6305f8dae",
+			"826f0b06-26b8-462b-b1ad-f6a26fa3efb6"
 		],
 		"ingangsdatum": "Vanaf ex.jaar 2019",
 		"url": "https://www.examenblad.nl/examenstof/culturele-en-kunstzinnige-vorming-6/2019/f=/examenprogramma_culturele_en_kunstzinnige_vorming_havo_vanaf_2019.pdf"
 	},
 	{
-		"id": "df24f7f3-2488-4124-a5fd-e8632c04c9e1",
+		"id": "da9fe3a7-c53f-4e2e-a867-6928720a2528",
 		"title": "Examenprogramma Chinese Taal en Cultuur",
 		"examenprogramma_vakleergebied_id": [
-			"32db4052-4e96-47bc-aaf2-6d3ffc01c154"
+			"9117aa6e-7810-442d-978f-5361e5b8e85d"
 		],
 		"examenprogramma_domein_id": [
-			"94467c1f-0551-41d5-8e57-c9af097cfa06",
-			"ae2ad3b1-7b22-4191-98a0-b517c74a43f3",
-			"1d2e8880-f524-4361-be36-0c1285ca48b6",
-			"5e89b285-05ed-4ecf-94a3-c333c614d682",
-			"efa5a273-4f1e-4682-a0fc-70b565c8db6b",
-			"323a4437-91b4-4e4e-9017-eacac9ae9db4"
+			"d47bd2c0-a8cc-4276-b3f8-3c2a6b066219",
+			"fdd337aa-674e-4d90-b782-62578cc413d8",
+			"e95834c7-79b9-4b5c-93a4-f0c0a66002c8",
+			"29890dc7-6724-4d59-8ae7-ef6ffe722464",
+			"aa586f2c-bd6c-45f5-81b3-b458a3afc58b",
+			"d8b3b93b-530d-443e-9e15-2e87576e4b80"
 		],
 		"examenprogramma_kop1_id": [
-			"07112dbc-8397-43f6-b547-53e7dc8b78a3",
-			"69ea324d-51fd-4f22-872a-5cbe11d89b88"
+			"0fb1f16b-eb39-4980-8e1d-0632bddc015e",
+			"720ff63e-4552-4fd4-bcaf-527a9ffc29aa"
 		],
 		"jaargang": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2019/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf"
 	},
@@ -1502,7 +1536,7 @@
 		"id": "f7c80fe9-05e1-4eca-b939-9bb6ca3846ab",
 		"title": "Examenprogramma Bewegen, sport en maatschappij vwo",
 		"examenprogramma_vakleergebied_id": [
-			"d1c4d9f7-a721-47a0-8935-830ec04d1d4b"
+			"df7daeab-3f75-4a7a-9c6a-ff253f12d0bb"
 		],
 		"examenprogramma_domein_id": [
 			"ba6fff69-8cdf-47fb-b188-657177aca418",
@@ -1512,8 +1546,8 @@
 			"316dab9e-bc31-41a6-af04-6a924b58b261"
 		],
 		"examenprogramma_kop1_id": [
-			"65c1c6f3-11f8-47c1-9372-b90429a4b906",
-			"b7f8d79e-07bc-4cf8-bd0c-9ec0fce3451a"
+			"7e5654b7-eb0c-467a-816a-30af15369b7e",
+			"472767ec-e2b8-4ab1-9780-6e0e4cb7df9e"
 		],
 		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-vwo/2019/vwo/f=/bsm_vwo.pdf"
 	},
@@ -1521,18 +1555,18 @@
 		"id": "b1a7d541-bfc5-490c-92ff-c1c9db9119f1",
 		"title": "Examenprogramma Bewegen, sport en maatschappij havo",
 		"examenprogramma_vakleergebied_id": [
-			"d1c4d9f7-a721-47a0-8935-830ec04d1d4b"
+			"df7daeab-3f75-4a7a-9c6a-ff253f12d0bb"
 		],
 		"examenprogramma_domein_id": [
-			"926f7127-653b-4b93-80c6-0eef9b74b056",
-			"d323726c-7018-4ff6-893c-d433ab8ab418",
-			"ffcbf91d-df51-4dec-b5eb-2b6366eb8060",
-			"d86e7613-9423-47ff-9523-bef161ac261b",
-			"7967880e-5fda-4a94-8950-41a6438b5e4d"
+			"e5cb0992-d905-4f8b-9c65-e6cbbd41c8b4",
+			"c4b5b2e3-7213-4dd4-b4c4-c256bc4a87c9",
+			"e7a8753f-cc60-4d67-818e-fd2447b45b94",
+			"b1fa4f4b-4059-4f12-a593-931d94c25405",
+			"ebbe99d0-e3d2-4b39-a6db-b475a1a82c93"
 		],
 		"examenprogramma_kop1_id": [
-			"3761a737-6678-4fa3-82b2-2c20fdfd9d2e",
-			"b3d22bc2-3fb7-4660-9c62-2c4855731fed"
+			"1d8e5dcb-9807-4986-9f43-cabf7ab52349",
+			"ad991bc8-ab87-44e0-a1de-a25889b897dd"
 		],
 		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-havo/2019/f=/bsm_havo.pdf"
 	},
@@ -1540,7 +1574,7 @@
 		"id": "92f57200-9ac6-449c-964c-b18c8996df85",
 		"title": "Examenprogramma biologie vwo",
 		"examenprogramma_vakleergebied_id": [
-			"cea698c8-36b9-4e4f-ac08-5cdd899c5caf"
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
 		],
 		"examenprogramma_domein_id": [
 			"9ee0cec6-8b23-4cbc-ae3e-29697205e2cb",
@@ -1551,9 +1585,9 @@
 			"c13313d8-1f1a-45d5-83cd-37e628f00206"
 		],
 		"examenprogramma_kop1_id": [
-			"4918f057-9bdc-49f0-b08c-aa424684535f",
-			"aa9922ac-224f-4ead-8ff0-fe8de036c1e1",
-			"ef6fb7bf-bb33-40d2-9404-3b5fecfa0fae"
+			"886e2240-7daf-42ee-a689-84a3f1fcfe33",
+			"e983b687-6fe3-4acb-a2b0-79f29850918e",
+			"0829ca61-77cd-493a-8fca-7565c7ea5bdb"
 		],
 		"ingangsdatum": "vanaf CE 2016"
 	},
@@ -1561,7 +1595,7 @@
 		"id": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
 		"title": "Examenprogramma biologie vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"cea698c8-36b9-4e4f-ac08-5cdd899c5caf"
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
 		],
 		"examenprogramma_domein_id": [
 			"f80d6cd2-8a79-48a7-af22-37a741a85567",
@@ -1589,28 +1623,78 @@
 		"id": "6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
 		"title": "Examenprogramma biologie havo",
 		"examenprogramma_vakleergebied_id": [
-			"cea698c8-36b9-4e4f-ac08-5cdd899c5caf"
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
 		],
 		"examenprogramma_domein_id": [
-			"65cfe241-a6f4-4c59-951a-f844c4f627e4",
-			"7365bd2c-7c54-4ead-a6c6-39c3cfa84d73",
-			"a64e34e3-8356-4a70-aedd-5c6891cc3a57",
-			"d306b42a-2aef-456c-b184-344b40cb0df1",
-			"190291fc-be9a-4103-a2d8-96658985aea7",
-			"e8665f8f-b59d-4b46-b373-17266d31e1de"
+			"554f86e5-6cc9-4faa-85ec-2a0475452f08",
+			"cd589d1d-a2ec-42a6-a350-2ae291c16c7c",
+			"734c159c-4634-4977-ac5d-ef7cb30abf0b",
+			"6cefdb9a-fa5d-483f-94f9-abab806c8f50",
+			"11b7ba3f-bb5e-407d-96cf-0950fa9a996e",
+			"eed4cb84-c049-429a-ad9c-54b4f036bb02"
 		],
 		"examenprogramma_kop1_id": [
-			"11f61ad4-b8dd-4643-a7e0-c172500b35ef",
-			"57f950d4-613f-4c3c-b129-bea21eecdb82",
-			"3b9d46f2-acdd-4cfb-8c34-60ad654fbfe8"
+			"a91f2e41-3dea-400a-9f61-ef743d113761",
+			"96c78f3d-1835-4165-ab49-6f5ac04af24b",
+			"5af18db6-c73d-45ff-aa3c-29bac31955b6"
 		],
 		"ingangsdatum": "vanaf CE 2015"
+	},
+	{
+		"id": "a6e799c4-75f5-45b6-8a71-d2b0e76f1b02",
+		"prefix": "BE/V/Examenprogramma",
+		"title": "Examenprogramma Bedrijfseconomie vwo",
+		"examenprogramma_vakleergebied_id": [
+			"a440a28e-f561-4d88-ab06-6e372d9a6a5f"
+		],
+		"examenprogramma_domein_id": [
+			"94e41891-e7dc-4728-92f6-abd7478f8165",
+			"29153eb9-a441-4af3-989d-e25b1143d978",
+			"83eb22f9-e745-4a45-a659-50f6c626ad6c",
+			"fc85b25d-93ec-47bb-badb-20ed62db9f4e",
+			"b4b47760-3f8e-45bc-8290-8b4ab5761cb5",
+			"d08a2077-a465-4939-9dc8-4212af3ef214",
+			"6f2b7778-9d29-4deb-ab58-a304739459c6",
+			"cad1cb98-4e53-40f0-bf35-b23c6ae1dfef"
+		],
+		"examenprogramma_kop1_id": [
+			"7f26928c-4bb9-46c4-92cf-06cbea6a7522",
+			"ef379269-c9ae-4d23-9d00-522f41dcfc8f",
+			"618c387a-b83e-42ee-89ea-ed6670f7b355"
+		],
+		"ingangsdatum": "2021",
+		"versie": "1"
+	},
+	{
+		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
+		"prefix": "BE/H/Examenprogramma",
+		"title": "Examenprogramma Bedrijfseconomie havo",
+		"examenprogramma_vakleergebied_id": [
+			"a440a28e-f561-4d88-ab06-6e372d9a6a5f"
+		],
+		"examenprogramma_domein_id": [
+			"0fdcaa1e-e1af-41dc-ab46-497198497ec9",
+			"7b438d99-4804-4376-9e1d-b5c185cdf923",
+			"3ef8352d-0ec0-4e11-9ef9-cbaef008f36e",
+			"4c298d97-a872-4c30-bb5e-0e5903173fc7",
+			"9bf0dc19-0afb-4380-9182-09a1ab39c723",
+			"ce9477cc-2f1d-4324-b4e6-2474cd40e1d4",
+			"83476920-6d37-408a-b873-262388d29f11",
+			"b2d72e52-fd9f-4ebe-b981-f0112681b933"
+		],
+		"examenprogramma_kop1_id": [
+			"70d7fc98-d74d-4588-b71c-cc5370d9b844",
+			"5bfe6c85-b406-4e61-9ca5-a9828fe50d5c",
+			"e57a5dae-092f-45d8-bc36-72ee2c81d4c1"
+		],
+		"ingangsdatum": "2020",
+		"versie": "1"
 	},
 	{
 		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
 		"title": "Examenprogramma Beeldende vorming vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"1926169e-7a48-4e7b-8f9a-ed575e2f172f"
+			"cda3e026-b19d-404a-ba01-d6fa3a5cfeb3"
 		],
 		"examenprogramma_domein_id": [
 			"ae25280b-382b-4097-8fb2-ee89c4e99f90",
@@ -1629,61 +1713,11 @@
 		"url": "https://www.examenblad.nl/examenstof/beeldende-vorming-vmbo/2019/f=/beeldendevorming.pdf"
 	},
 	{
-		"id": "a6e799c4-75f5-45b6-8a71-d2b0e76f1b02",
-		"prefix": "BE/V/Examenprogramma",
-		"title": "Examenprogramma Bedrijfseconomie vwo",
-		"examenprogramma_vakleergebied_id": [
-			"b8b95ca1-f7e9-4554-85ad-48f1d0945c23"
-		],
-		"examenprogramma_domein_id": [
-			"94e41891-e7dc-4728-92f6-abd7478f8165",
-			"29153eb9-a441-4af3-989d-e25b1143d978",
-			"83eb22f9-e745-4a45-a659-50f6c626ad6c",
-			"fc85b25d-93ec-47bb-badb-20ed62db9f4e",
-			"b4b47760-3f8e-45bc-8290-8b4ab5761cb5",
-			"d08a2077-a465-4939-9dc8-4212af3ef214",
-			"6f2b7778-9d29-4deb-ab58-a304739459c6",
-			"cad1cb98-4e53-40f0-bf35-b23c6ae1dfef"
-		],
-		"examenprogramma_kop1_id": [
-			"e9595511-ca57-4fb2-8d00-a4bddd13eb47",
-			"5e136f50-4e00-4d10-8835-73bd0e6ed17f",
-			"0a58ec83-444d-442a-a041-1c61831d1b32"
-		],
-		"ingangsdatum": "2021",
-		"versie": "1"
-	},
-	{
-		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
-		"prefix": "BE/H/Examenprogramma",
-		"title": "Examenprogramma Bedrijfseconomie havo",
-		"examenprogramma_vakleergebied_id": [
-			"b8b95ca1-f7e9-4554-85ad-48f1d0945c23"
-		],
-		"examenprogramma_domein_id": [
-			"6eeeda96-4223-46a0-b94f-44616e84ee02",
-			"337c16bb-e9e2-4096-b784-6344740541d8",
-			"c8e23278-9b98-481c-a46b-0535f17c1b7d",
-			"9064c4fa-9255-4db7-8692-b12d6c661392",
-			"c9861458-9757-4622-9f0f-923845c26be5",
-			"d032e2bc-6418-4811-859e-8b300bbe5aaf",
-			"b05be4f1-a90f-4d42-92b8-899de0e44cdf",
-			"d27c179d-3892-4922-9482-6075a78befbd"
-		],
-		"examenprogramma_kop1_id": [
-			"d074832e-d742-4e58-aa41-4f71ae79967c",
-			"4635cc7b-da44-4b46-9755-277d2430fe65",
-			"d0985096-df78-4f79-9b05-7e3df4e460ad"
-		],
-		"ingangsdatum": "2020",
-		"versie": "1"
-	},
-	{
 		"id": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
 		"prefix": "ANW",
 		"title": "Examenprogramma algemene natuurwetenschappen vwo",
 		"examenprogramma_vakleergebied_id": [
-			"98cfd2aa-5583-4a8c-b8d7-1e11ea78b4f0"
+			"8b968d9f-69ac-4a58-8052-4942e99cb131"
 		],
 		"examenprogramma_domein_id": [
 			"ec6a6827-0b68-4c58-a035-3a6f583b2129",
@@ -1694,34 +1728,34 @@
 			"b60ad051-e02a-447a-b85a-09bf05c1d2f7"
 		],
 		"examenprogramma_kop1_id": [
-			"1a467be7-0f23-4a7a-9c98-8c0727c1fae6",
-			"21e72eb1-cad9-4b93-9ce1-9bdd66017689"
+			"f9974c63-8cd8-4b3e-adab-175afcb5185e",
+			"80ab5030-4202-4fe6-8224-77976183475c"
 		]
 	},
 	{
 		"id": "02cf73d4-f026-466d-a20a-78a1b0142fd9",
 		"title": "Examenprogramma algemene natuurwetenschappen havo",
 		"examenprogramma_vakleergebied_id": [
-			"98cfd2aa-5583-4a8c-b8d7-1e11ea78b4f0"
+			"8b968d9f-69ac-4a58-8052-4942e99cb131"
 		],
 		"examenprogramma_domein_id": [
-			"111a5a1d-c51f-4712-b095-09498953a392",
-			"34629b38-05d5-4bd1-9b1b-9f2c4f7cc091",
-			"a366dda9-f289-406f-b4d5-ed864a268cfd",
-			"11545e04-17ac-44f9-99b1-ee157f124b18",
-			"9aa902ec-475d-4461-a71c-78519bb35da6",
-			"7dd44677-df5e-4489-bead-960c1bfde5c6"
+			"3515175f-18fe-431b-9f73-af21c367708f",
+			"bfce85fd-88b4-4da4-892a-8a64158a9314",
+			"263fb25b-5aaf-430a-a91e-da11bb8103c3",
+			"d7105d69-5aba-4792-a4f2-7324bf16cc70",
+			"78652e90-0eaf-4b91-a1c2-14f4504534ce",
+			"4336bacd-c0f7-4c08-ad1a-98e3b8ef640e"
 		],
 		"examenprogramma_kop1_id": [
-			"95671719-b172-4949-b422-2570f6a3c5ca",
-			"9f5eec0f-ce47-4d4c-814c-c1bce7917e9e"
+			"3c131523-9079-4a9b-8454-0cb32dce3546",
+			"edaf0e0b-6797-4228-b0d3-f58daaa328a2"
 		]
 	},
 	{
 		"id": "e90b9cf7-b652-4f03-9e87-0a239e98eeab",
 		"title": "Examenprogramma aardrijkskunde vwo",
 		"examenprogramma_vakleergebied_id": [
-			"cc455396-5963-4b7e-aa9b-1a43995027a8"
+			"1f237289-4039-4122-a709-58c065bacda0"
 		],
 		"examenprogramma_domein_id": [
 			"99133512-0fc8-4de8-9fb9-f9235f75751b",
@@ -1732,7 +1766,7 @@
 			"f72384f9-4893-43cd-83a7-27733bdfe282"
 		],
 		"examenprogramma_kop1_id": [
-			"23a0b00f-c07c-46b9-839a-637126296d94",
+			"ffce92a1-7d75-4dff-a048-d81a326add47",
 			"3f2d38a1-e59c-43c7-8052-3d3ce529bc9c",
 			"4dfb25f0-53e1-4b9a-8e3e-8066f400aa8a"
 		],
@@ -1742,7 +1776,7 @@
 		"id": "544a0293-a7e3-4f6b-a973-30af7627bdea",
 		"title": "Examenprogramma aardrijkskunde vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"cc455396-5963-4b7e-aa9b-1a43995027a8"
+			"1f237289-4039-4122-a709-58c065bacda0"
 		],
 		"examenprogramma_domein_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
@@ -1774,18 +1808,20 @@
 		"id": "5effad33-ae66-4a1b-b610-d6a4f5542e0a",
 		"title": "Examenprogramma aardrijkskunde havo",
 		"examenprogramma_vakleergebied_id": [
-			"cc455396-5963-4b7e-aa9b-1a43995027a8"
+			"1f237289-4039-4122-a709-58c065bacda0"
 		],
 		"examenprogramma_domein_id": [
-			"e31e7ade-0adf-4c15-8429-38dc6722239c",
-			"133aa908-b7d7-474d-a244-050094afeedb",
-			"e5b8f1b2-6870-4754-84fd-1af3742da5f7",
-			"ebefe8f4-2d0a-4fe5-992d-eb0752b4c968",
-			"f7a3ff57-6cfe-4835-8bcb-728cd7ec144f",
-			"c421bd80-e49f-414d-8346-c34e482ce9ce"
+			"f8396db6-92cd-4cc5-9e9f-5de3fab6a171",
+			"d396a627-9202-40a9-844f-b5d8da88c714",
+			"aee8adb9-0858-43c2-adf8-fe8642d40d5f",
+			"6d8890df-c35b-4ed2-9920-6bed6d7425b4",
+			"7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
+			"d070f49b-5929-41b3-b9c7-7d8d06b0de67"
 		],
 		"examenprogramma_kop1_id": [
-			"31391ccb-36cd-438f-8be4-d8ad6b353bc3"
+			"15290d0a-8002-4773-ae3f-4b45f3e04de4",
+			"c897aa12-544f-409d-b0f6-8138748bbb61",
+			"a9234709-b275-4179-a40b-2c376f6f2f67"
 		]
 	}
 ]
