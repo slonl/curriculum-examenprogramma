@@ -20,7 +20,6 @@
 			"254b5655-1677-4dac-87ab-d569eca56306",
 			"60fdc8d5-cceb-4fe1-ab29-b33b13746b19"
 		],
-		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "Vanaf CE 2017",
 		"versie": "nnb",
 		"jaargang": "nnb",
@@ -385,7 +384,6 @@
 			"7f29f2e1-b052-4f23-880b-67eddafff6fe",
 			"cda5d254-aa37-4851-8210-3b47ad11c23e"
 		],
-		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "Vanaf CE 2014",
 		"url": "https://www.examenblad.nl/examenstof/nederlands-vmbo-3/2019/f=/examenprogramma_nederlands_vmbo_2014.pdf"
 	},
@@ -485,7 +483,6 @@
 			"69c69b49-239a-48c5-921d-4b669b804138",
 			"8d445964-7723-4bd3-9852-e7fb53c33db9"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/natuur-en-scheikunde-2-vmbo/2019/f=/nask2.pdf"
 	},
 	{
@@ -513,7 +510,6 @@
 			"3291f446-c199-46da-b647-bda5b30d34a0",
 			"1c109272-1683-4d3c-9668-a52f40ddf543"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/natuur-en-scheikunde-1-vmbo/2019/f=/nask1.pdf"
 	},
 	{
@@ -578,7 +574,6 @@
 			"18a3cdb9-9263-4dab-a935-7f04e9b3f3c1",
 			"68204e7e-e986-4f94-a979-f127133dee8c"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/muziek-vmbo-2/2020/f=/muziek.pdf"
 	},
 	{
@@ -728,7 +723,6 @@
 			"f2d61743-9e74-4922-b99f-181197214d5e",
 			"7f111e95-277e-4bc1-b58f-18084889f921"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/maatschappijleer-gemeenschappelijk/2019/f=/maatschappijleer1.pdf"
 	},
 	{
@@ -771,7 +765,6 @@
 			"956262c7-d4cf-4aa3-b1b1-1952af9cfe3b",
 			"7b1ba90d-36cc-4153-b176-d101292cb89a"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/examenprogramma-maatschappijkunde/2019/f=/Examenprogramma_maatschappijkunde.pdf"
 	},
 	{
@@ -815,7 +808,6 @@
 			"31e5c6f1-9c81-496f-baa9-cc330a97da2e",
 			"b5f80488-0e13-4a8f-9fb3-7715151efb5a"
 		],
-		"examenprogramma_kop1_id": [],
 		"jaargang": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf"
 	},
 	{
@@ -836,7 +828,6 @@
 			"1303a109-896a-4152-a96e-4eab28ff609f",
 			"8394bf1a-6932-4a99-ae47-5eaa1ca7f75d"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-vmbo-2/2020/f=/lichamelijke_oefening1.pdf"
 	},
 	{
@@ -858,8 +849,9 @@
 			"24733257-3c26-4035-b8cc-3c8bf0aa473e",
 			"82ac5293-24cf-4a98-bbed-8b7763784a0c"
 		],
-		"ingangsdatum": "41852",
-		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf"
+		"ingangsdatum": "Augustus 2014",
+		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "cdd3e66f-17df-4a0c-9496-89efae7dffef",
@@ -873,7 +865,6 @@
 			"085d26de-1ca2-4ade-b6bf-1e4c1bae331f",
 			"c1f7035f-5bc5-485e-be1d-8090821c4d66"
 		],
-		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "vanaf schooljaar 2018-2019"
 	},
 	{
@@ -1076,7 +1067,6 @@
 			"8207b6fd-3554-44b7-91d6-583f68eee1e1",
 			"10c0718e-9b60-4d86-8181-d4fcf747c4c7"
 		],
-		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "Vanaf schooljaar 2016-2017",
 		"url": "https://www.examenblad.nl/examenstof/informatietechnologie-vmbo/2019/f=/Examenprogramma_informatietechnologie_vmbo_vanaf2016-2017.pdf"
 	},
@@ -1106,7 +1096,6 @@
 			"878b20fb-0ad3-4908-b3b6-ba58e38d632d",
 			"5ebe26d7-44a5-4ffa-94fc-7290b4c011aa"
 		],
-		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "Vanaf schooljaar 2019",
 		"versie": "1.0",
 		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2019/f=/examenprogramma_Informatica_havo-vwo.pdf",
@@ -1189,7 +1178,7 @@
 	{
 		"id": "aa932a9b-5996-449d-82bc-c0942bed68d2",
 		"prefix": "GR/V/Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo",
-		"title": "Examenprogramma Griekse taal en cultuur (LTC)",
+		"title": "Examenprogramma Griekse taal en cultuur (GTC)",
 		"examenprogramma_vakleergebied_id": [
 			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
 		],
@@ -1205,8 +1194,9 @@
 			"bca3b4d7-f33f-453b-8cde-373831319366",
 			"6a7a2228-db9d-4094-83d2-249040b0fc50"
 		],
-		"ingangsdatum": "41852",
-		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf"
+		"ingangsdatum": "Augustus 2014",
+		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
@@ -1258,7 +1248,6 @@
 			"defb5ee8-6ef6-4318-b287-674a8e9c1c85",
 			"b61472de-71ca-4d3b-ae7f-040dcf8d0df8"
 		],
-		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "Vanaf CE 2018",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-en-staatsinrichting-2/2019/f=/examenprogramma_geschiedenis_vmbo_vanaf_ce_2018.pdf"
 	},
@@ -1303,7 +1292,6 @@
 			"fa244614-70a3-4e69-bc25-5a2917874c0a",
 			"311b43bd-3f0b-48e8-ab27-209f8d15e704"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/frans-vmbo/2019/f=/frans.pdf"
 	},
 	{
@@ -1366,7 +1354,6 @@
 			"35a649dd-0d0e-4df3-8237-a62bc622d5b6",
 			"f8fc7329-a2c9-4438-b42b-36cf5d6fb768"
 		],
-		"examenprogramma_kop1_id": [],
 		"ingangsdatum": "Vanaf CE 2017",
 		"url": "https://www.examenblad.nl/examenstof/engels-vmbo-2/2019/f=/Examenprogramma_Engelse_taal_vanaf_CE_2017_def.pdf"
 	},
@@ -1391,8 +1378,7 @@
 			"bad8ead1-f566-4201-87d7-5e4166b20c4a",
 			"97d9a316-1c50-4075-9022-7bf23644eb92",
 			"fc430196-76ae-4ac0-a55c-af24db05f5d1"
-		],
-		"examenprogramma_kop1_id": []
+		]
 	},
 	{
 		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
@@ -1440,7 +1426,6 @@
 			"e8333a86-f783-4980-9f70-3691a36be7a1",
 			"b6bfcb54-66c6-4a7d-856e-d2dda8b46913"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/duits-vmbo/2019/f=/duits.pdf"
 	},
 	{
@@ -1464,7 +1449,6 @@
 			"3a064206-f73b-4156-bb92-3604ea503c22",
 			"5fa31045-21c7-4a7d-9019-b6b3fda65604"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/drama-vmbo-2/2019/f=/drama.pdf"
 	},
 	{
@@ -1488,7 +1472,6 @@
 			"91574c73-d930-4f1d-85bd-2b9a09d557c4",
 			"739cd39c-899e-4caa-9249-3b19ed5c0cdd"
 		],
-		"examenprogramma_kop1_id": [],
 		"url": "https://www.examenblad.nl/examenstof/dans-vmbo-2/2019/f=/dans.pdf"
 	},
 	{
@@ -1531,7 +1514,7 @@
 	},
 	{
 		"id": "da9fe3a7-c53f-4e2e-a867-6928720a2528",
-		"title": "Examenprogramma Chinese Taal en Cultuur",
+		"title": "Examenprogramma Chinese Taal en Cultuur vwo",
 		"examenprogramma_vakleergebied_id": [
 			"9117aa6e-7810-442d-978f-5361e5b8e85d"
 		],
@@ -1547,7 +1530,10 @@
 			"0fb1f16b-eb39-4980-8e1d-0632bddc015e",
 			"720ff63e-4552-4fd4-bcaf-527a9ffc29aa"
 		],
-		"jaargang": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2019/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf"
+		"jaargang": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2019/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2020/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "f7c80fe9-05e1-4eca-b939-9bb6ca3846ab",
@@ -1566,7 +1552,9 @@
 			"7e5654b7-eb0c-467a-816a-30af15369b7e",
 			"472767ec-e2b8-4ab1-9780-6e0e4cb7df9e"
 		],
-		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-vwo/2019/vwo/f=/bsm_vwo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-vwo/2020/vwo/f=/bsm_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "b1a7d541-bfc5-490c-92ff-c1c9db9119f1",
@@ -1585,7 +1573,9 @@
 			"1d8e5dcb-9807-4986-9f43-cabf7ab52349",
 			"ad991bc8-ab87-44e0-a1de-a25889b897dd"
 		],
-		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-havo/2019/f=/bsm_havo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-havo/2020/f=/bsm_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "92f57200-9ac6-449c-964c-b18c8996df85",
@@ -1634,7 +1624,6 @@
 			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa8",
 			"c7318dac-13d8-4da7-bd05-de7751d84084"
 		],
-		"examenprogramma_kop1_id": [],
 		"versie": "https://www.examenblad.nl/examenstof/biologie-vmbo-2/2019/f=/biologie.pdf"
 	},
 	{
@@ -1681,7 +1670,8 @@
 			"618c387a-b83e-42ee-89ea-ed6670f7b355"
 		],
 		"ingangsdatum": "2021",
-		"versie": "1"
+		"versie": "2021",
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie-2/2021/f=/Examenprogramma_Bedrijfseconomie_vwo.pdf"
 	},
 	{
 		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
@@ -1706,7 +1696,8 @@
 			"e57a5dae-092f-45d8-bc36-72ee2c81d4c1"
 		],
 		"ingangsdatum": "2020",
-		"versie": "1"
+		"versie": "1",
+		"url": ""
 	},
 	{
 		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
@@ -1728,8 +1719,9 @@
 			"743ceb25-ab74-4091-9af7-639978680de4",
 			"407dfb06-67dd-411e-a3ba-bfe60f274ce8"
 		],
-		"examenprogramma_kop1_id": [],
-		"url": "https://www.examenblad.nl/examenstof/beeldende-vorming-vmbo/2019/f=/beeldendevorming.pdf"
+		"url": "https://www.examenblad.nl/examenstof/beeldende-vorming-vmbo/2020/f=/beeldendevorming.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
