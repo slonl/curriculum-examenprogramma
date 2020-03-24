@@ -326,7 +326,7 @@
 	},
 	{
 		"id": "71393e79-ddd8-4230-95c0-2fb6846fb208",
-		"title": "Examenprogramma natuur, leven en technologie vwo",
+		"title": "Examenprogramma Natuur, leven en technologie vwo",
 		"examenprogramma_vakleergebied_id": [
 			"cd0f2b9f-d5ec-459e-b8d1-ad91d4b7489e"
 		],
@@ -343,11 +343,12 @@
 			"eda77e24-5f33-4284-8edf-cfa20ad8796f"
 		],
 		"ingangsdatum": "Vanaf schooljaar 2014-2015",
-		"url": "https://www.examenblad.nl/examenstof/natuur-leven-en-technologie-vwo-2/2019/f=/examenprogramma_nlt_vwo_2015.pdf"
+		"url": "https://www.examenblad.nl/examenstof/natuur-leven-en-technologie-vwo-2/2020/f=/examenprogramma_nlt_vwo_2015.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "b477a5d1-07c5-4028-80c3-3e33cd4ef672",
-		"title": "Examenprogramma NLT havo",
+		"title": "Examenprogramma Natuur, leven en technologie havo",
 		"examenprogramma_vakleergebied_id": [
 			"cd0f2b9f-d5ec-459e-b8d1-ad91d4b7489e"
 		],
@@ -362,7 +363,9 @@
 			"a8044df4-c84e-4baa-baea-6c7ba388d4fa",
 			"6aff979b-30bd-4a95-b5bc-3ee87b685d40"
 		],
-		"ingangsdatum": "vanaf schooljaar 2013-2014"
+		"ingangsdatum": "vanaf schooljaar 2013-2014",
+		"url": "https://www.examenblad.nl/examenstof/natuur-leven-en-technologie-havo-2/2020/f=/examenprogramma_nlt_hav0_2014.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
@@ -407,7 +410,8 @@
 			"5a661f59-d6da-4df2-83c8-9b2544399b03"
 		],
 		"ingangsdatum": "Vanaf CE 2014",
-		"url": "https://www.examenblad.nl/examenstof/nederlandse-taal-en-literatuur-2/2019/f=/examenprogramma_nederlands_havo_vwo_2014.pdf"
+		"url": "https://www.examenblad.nl/examenstof/nederlandse-taal-en-literatuur-2/2020/f=/examenprogramma_nederlands_havo_vwo_2014.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "611f2494-3499-4809-b28b-204bc405c3dd",
@@ -555,7 +559,7 @@
 	},
 	{
 		"id": "340236bd-8944-4768-8361-7f0c5d349eb4",
-		"title": "Examenprogramma Muziek",
+		"title": "Examenprogramma Muziek vmbo gl/tl",
 		"examenprogramma_vakleergebied_id": [
 			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
@@ -574,7 +578,9 @@
 			"18a3cdb9-9263-4dab-a935-7f04e9b3f3c1",
 			"68204e7e-e986-4f94-a979-f127133dee8c"
 		],
-		"url": "https://www.examenblad.nl/examenstof/muziek-vmbo-2/2020/f=/muziek.pdf"
+		"url": "https://www.examenblad.nl/examenstof/muziek-vmbo-2/2020/f=/muziek.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "dab2a174-419b-45e6-912f-974fb4db4f06",
@@ -662,8 +668,9 @@
 			"085ccc9d-0a4f-463a-aad2-eff11c3054d7",
 			"5d009611-1601-4104-a704-6030b35101b5"
 		],
-		"ingangsdatum": "Vanaf CE 2019 (pilot)",
-		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-vwo/2019/f=/mijwtschp_vwo.pdf"
+		"ingangsdatum": "Vanaf CE 2020",
+		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-vwo/2020/f=/mijwtschp_vwo.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "75b428a4-c65f-40d7-885a-c87c6b51a57c",
@@ -686,7 +693,8 @@
 			"d9aae5bd-ae0c-48da-a74c-7fd59999866c"
 		],
 		"ingangsdatum": "vanaf CE 2019",
-		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-havo-2/2019/f=/examenprogramma_maatschappijwetenschappen_havo_vanaf_ce_2019.pdf"
+		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-havo-2/2020/f=/examenprogramma_maatschappijwetenschappen_havo_vanaf_ce_2019.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "dd62ec2d-7037-4ff8-9539-c31da2028944",
@@ -789,7 +797,7 @@
 	{
 		"id": "5047db28-8b01-41e9-ba93-9e0c9630c612",
 		"prefix": "LO2",
-		"title": "Examenprogramma Lichamelijke opvoeding 2",
+		"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
 		"examenprogramma_vakleergebied_id": [
 			"e94ef774-675a-43fd-bb07-3914025c7b6b"
 		],
@@ -808,7 +816,10 @@
 			"31e5c6f1-9c81-496f-baa9-cc330a97da2e",
 			"b5f80488-0e13-4a8f-9fb3-7715151efb5a"
 		],
-		"jaargang": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf"
+		"jaargang": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "ef31ea11-caa0-4086-a75a-d791185c18c2",
@@ -828,7 +839,9 @@
 			"1303a109-896a-4152-a96e-4eab28ff609f",
 			"8394bf1a-6932-4a99-ae47-5eaa1ca7f75d"
 		],
-		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-vmbo-2/2020/f=/lichamelijke_oefening1.pdf"
+		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-vmbo-2/2020/f=/lichamelijke_oefening1.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "2e8e7a6b-b40e-4ead-92db-8dd90f0b7b36",
@@ -865,7 +878,9 @@
 			"085d26de-1ca2-4ade-b6bf-1e4c1bae331f",
 			"c1f7035f-5bc5-485e-be1d-8090821c4d66"
 		],
-		"ingangsdatum": "vanaf schooljaar 2018-2019"
+		"ingangsdatum": "vanaf schooljaar 2018-2019",
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-kunstvakken/2020/f=/Examenprogramma_kunstvakken_inclusief_ckv.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "78cd103c-54e3-4d1b-b392-5b93c880582a",
@@ -1292,7 +1307,9 @@
 			"fa244614-70a3-4e69-bc25-5a2917874c0a",
 			"311b43bd-3f0b-48e8-ab27-209f8d15e704"
 		],
-		"url": "https://www.examenblad.nl/examenstof/frans-vmbo/2019/f=/frans.pdf"
+		"url": "https://www.examenblad.nl/examenstof/frans-vmbo/2020/f=/frans.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
@@ -1313,7 +1330,9 @@
 			"867cbbf3-c062-477a-af29-f827711ed384",
 			"963b6d34-5783-4742-992e-b07ccea6a0a1"
 		],
-		"ingangsdatum": "Vanaf CE 2020"
+		"ingangsdatum": "Vanaf CE 2020",
+		"url": "https://www.examenblad.nl/examenstof/filosofie-vwo-3/2020/f=/Examenprogramma_filosofie_vwo.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170",
@@ -1332,7 +1351,10 @@
 			"d27c38b1-32b9-4a93-882e-c158eb306086",
 			"31f260eb-de06-4e64-aef8-c55e1920f236",
 			"b7ca818d-3b04-47e9-a782-1a2e62d0fb2d"
-		]
+		],
+		"ingangsdatum": "vanaf CE 2020",
+		"url": "https://www.examenblad.nl/examenstof/filosofie-havo-3/2020/f=/Examenprogramma_filosofie_havo.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
@@ -1355,7 +1377,8 @@
 			"f8fc7329-a2c9-4438-b42b-36cf5d6fb768"
 		],
 		"ingangsdatum": "Vanaf CE 2017",
-		"url": "https://www.examenblad.nl/examenstof/engels-vmbo-2/2019/f=/Examenprogramma_Engelse_taal_vanaf_CE_2017_def.pdf"
+		"url": "https://www.examenblad.nl/examenstof/engels-vmbo-2/2020/f=/Examenprogramma_Engelse_taal_vanaf_CE_2017_def.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
@@ -1426,7 +1449,9 @@
 			"e8333a86-f783-4980-9f70-3691a36be7a1",
 			"b6bfcb54-66c6-4a7d-856e-d2dda8b46913"
 		],
-		"url": "https://www.examenblad.nl/examenstof/duits-vmbo/2019/f=/duits.pdf"
+		"url": "https://www.examenblad.nl/examenstof/duits-vmbo/2020/f=/duits.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "d10201e5-a936-45cb-b8a8-36f576d78b77",
@@ -1449,7 +1474,9 @@
 			"3a064206-f73b-4156-bb92-3604ea503c22",
 			"5fa31045-21c7-4a7d-9019-b6b3fda65604"
 		],
-		"url": "https://www.examenblad.nl/examenstof/drama-vmbo-2/2019/f=/drama.pdf"
+		"url": "https://www.examenblad.nl/examenstof/drama-vmbo-2/2020/f=/drama.pdf",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
