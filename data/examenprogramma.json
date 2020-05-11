@@ -369,7 +369,7 @@
 	},
 	{
 		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
-		"title": "Examenprogramma  Nederlandse taal vmbo",
+		"title": "Examenprogramma  nederlandse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
 		],
@@ -388,7 +388,9 @@
 			"cda5d254-aa37-4851-8210-3b47ad11c23e"
 		],
 		"ingangsdatum": "Vanaf CE 2014",
-		"url": "https://www.examenblad.nl/examenstof/nederlands-vmbo-3/2019/f=/examenprogramma_nederlands_vmbo_2014.pdf"
+		"url": "https://www.examenblad.nl/examenstof/nederlands-vmbo-3/2019/f=/examenprogramma_nederlands_vmbo_2014.pdf",
+		"prefix": "",
+		"versie": "2020"
 	},
 	{
 		"id": "ddab8ccb-30e2-4075-b0e7-0b2eb526ef28",
@@ -937,7 +939,7 @@
 	{
 		"id": "530811b4-b704-429a-9ff2-2f2f0f472d50",
 		"prefix": "DR/V",
-		"title": "Examenprogramma Kunst (drama) vwo",
+		"title": "Examenprogramma kunst (drama) vwo",
 		"examenprogramma_vakleergebied_id": [
 			"b4d10624-199f-4ffc-8a25-58df0bfb5002"
 		],
@@ -958,7 +960,7 @@
 	{
 		"id": "18ff572d-ac19-42b5-a558-9a7659339889",
 		"prefix": "DR/H",
-		"title": "Examenprogramma Kunst (drama) havo",
+		"title": "Examenprogramma kunst (drama) havo",
 		"examenprogramma_vakleergebied_id": [
 			"b4d10624-199f-4ffc-8a25-58df0bfb5002"
 		],
@@ -979,7 +981,7 @@
 	{
 		"id": "0e62e61e-23e5-40e8-a12f-b4dbdc591812",
 		"prefix": "DA/V",
-		"title": "Examenprogramma Kunst (dans) vwo",
+		"title": "Examenprogramma kunst (dans) vwo",
 		"examenprogramma_vakleergebied_id": [
 			"56edbfd4-ef52-49d4-852f-74ea54b9c290"
 		],
@@ -1000,7 +1002,7 @@
 	{
 		"id": "6cbb98e3-a020-4623-816d-89673d10793b",
 		"prefix": "DA/H",
-		"title": "Examenprogramma Kunst (dans) havo",
+		"title": "Examenprogramma kunst (dans) havo",
 		"examenprogramma_vakleergebied_id": [
 			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
 		],
@@ -1020,7 +1022,7 @@
 	},
 	{
 		"id": "90f32bf1-0834-4288-93ba-2ceb6bc40e49",
-		"title": "Examenprogramma Kunst (beeldende vormgeving) vwo",
+		"title": "Examenprogramma kunst (beeldende vormgeving) vwo",
 		"examenprogramma_vakleergebied_id": [
 			"9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93"
 		],
@@ -1036,11 +1038,12 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "d343fb75-ba02-4969-960c-3ff5e009e946",
-		"title": "Examenprogramma Kunst (beeldende vormgeving) havo",
+		"title": "Examenprogramma kunst (beeldende vormgeving) havo",
 		"examenprogramma_vakleergebied_id": [
 			"9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93"
 		],
@@ -1056,7 +1059,8 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "0d872678-c7ed-4cf2-b8eb-96580d330dfa",
@@ -1098,7 +1102,7 @@
 	},
 	{
 		"id": "ab7b3996-f658-4981-a4cb-0689f00aa24c",
-		"title": "Examenprogramma Informatietechnologie vmbo",
+		"title": "Examenprogramma informatietechnologie vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"62678a6d-8133-407b-9338-e7d0fe0cfd00"
 		],
@@ -1114,7 +1118,8 @@
 		],
 		"ingangsdatum": "Vanaf schooljaar 2016-2017",
 		"url": "https://www.examenblad.nl/examenstof/informatietechnologie-vmbo/2020/f=/Examenprogramma_informatietechnologie_vmbo_vanaf2016-2017.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "9d88473e-9cde-439e-88b7-32dea9665022",
@@ -1143,17 +1148,18 @@
 			"5ebe26d7-44a5-4ffa-94fc-7290b4c011aa"
 		],
 		"ingangsdatum": "Vanaf schooljaar 2019",
-		"versie": "1.0",
-		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2019/f=/examenprogramma_Informatica_havo-vwo.pdf",
+		"versie": "2020",
+		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2020/f=/examenprogramma_Informatica_havo-vwo.pdf",
 		"jaargang": "2019",
 		"status": "Wettelijk",
 		"examenprogramma_kop1_id": [
 			"2538e33d-aef7-435f-b160-864d87e6c2f6"
-		]
+		],
+		"prefix": ""
 	},
 	{
 		"id": "fddc262e-f971-48a6-9fef-4b0cf4cd3253",
-		"title": "Examenprogramma Informatica havo",
+		"title": "Examenprogramma informatica havo",
 		"examenprogramma_vakleergebied_id": [
 			"87a50ae0-4af8-483a-a9ea-7251cfc14618"
 		],
@@ -1185,12 +1191,13 @@
 		"versie": "2020",
 		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2020/f=/examenprogramma_Informatica_havo-vwo.pdf",
 		"jaargang": "2019",
-		"status": "Wettelijk"
+		"status": "Wettelijk",
+		"prefix": ""
 	},
 	{
 		"id": "4d379dd8-d4ce-4725-97e3-9f6a890cc071",
 		"prefix": "THT/V/H",
-		"title": "Examenprogramma Handvaardigheid vwo",
+		"title": "Examenprogramma handvaardigheid vwo",
 		"examenprogramma_vakleergebied_id": [
 			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
@@ -1211,7 +1218,7 @@
 	{
 		"id": "74f5153b-7b26-4b3a-88a9-380c0a6d7a96",
 		"prefix": "THT/H/H",
-		"title": "Examenprogramma Handvaardigheid havo",
+		"title": "Examenprogramma handvaardigheid havo",
 		"examenprogramma_vakleergebied_id": [
 			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
@@ -1231,8 +1238,8 @@
 	},
 	{
 		"id": "aa932a9b-5996-449d-82bc-c0942bed68d2",
-		"prefix": "GR/V/Examenprogramma Griekse taal en literatuur vwo Latijnse taal en literatuur vwo",
-		"title": "Examenprogramma Griekse taal en cultuur (GTC)",
+		"prefix": "GR/V",
+		"title": "Examenprogramma griekse taal en cultuur (GTC)",
 		"examenprogramma_vakleergebied_id": [
 			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
 		],
@@ -1254,7 +1261,7 @@
 	},
 	{
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
-		"title": "Examenprogramma Geschiedenis vwo",
+		"title": "Examenprogramma geschiedenis vwo",
 		"examenprogramma_vakleergebied_id": [
 			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
 		],
@@ -1272,11 +1279,12 @@
 		],
 		"ingangsdatum": "Vanaf CE 2015",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-vwo-2/2020/f=/Examenprogramma_geschiedenis_vwo_vanaf_2015_wijziging_2013.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "0af05781-3b4e-4137-9f16-cb700db72b88",
-		"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+		"title": "Examenprogramma geschiedenis en staatsinrichting vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
 		],
@@ -1305,11 +1313,12 @@
 		],
 		"ingangsdatum": "Vanaf CE 2018",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-en-staatsinrichting-2/2020/f=/examenprogramma_geschiedenis_vmbo_vanaf_ce_2018.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "d70f38ff-7cd3-4fb7-921a-78b8e2d4c3ff",
-		"title": "Examenprogramma Geschiedenis havo",
+		"title": "Examenprogramma geschiedenis havo",
 		"examenprogramma_vakleergebied_id": [
 			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
 		],
@@ -1327,11 +1336,12 @@
 		],
 		"ingangsdatum": "Vanaf CE 2018",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-havo-vanaf-2018/2020/f=/Examenprogramma_geschiedenis_havo_2018.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "803fe798-4884-4e69-94b9-fc0364989e95",
-		"title": "Examenprogramma Franse taal vmbo",
+		"title": "Examenprogramma franse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
 		],
@@ -1351,12 +1361,13 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/frans-vmbo/2020/f=/frans.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "2cca3c55-97fd-4b32-a9eb-1d6c42a314e2",
 		"prefix": "FI/V",
-		"title": "Examenprogramma Filosofie vwo",
+		"title": "Examenprogramma filosofie vwo",
 		"examenprogramma_vakleergebied_id": [
 			"adefff5b-a281-4250-a48b-92842e6967c7"
 		],
@@ -1379,7 +1390,7 @@
 	{
 		"id": "0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170",
 		"prefix": "FI/H",
-		"title": "Examenprogramma Filosofie havo",
+		"title": "Examenprogramma filosofie havo",
 		"examenprogramma_vakleergebied_id": [
 			"adefff5b-a281-4250-a48b-92842e6967c7"
 		],
@@ -1400,7 +1411,7 @@
 	},
 	{
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
-		"title": "Examenprogramma Engelse taal vmbo",
+		"title": "Examenprogramma engelse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"19755351-eab6-43fb-a2cc-7b0b909802b6"
 		],
@@ -1420,11 +1431,12 @@
 		],
 		"ingangsdatum": "Vanaf CE 2017",
 		"url": "https://www.examenblad.nl/examenstof/engels-vmbo-2/2020/f=/Examenprogramma_Engelse_taal_vanaf_CE_2017_def.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
-		"title": "Examenprogramma Economie vmbo",
+		"title": "Examenprogramma economie vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
 		],
@@ -1446,11 +1458,12 @@
 		],
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/economie-vmbo-2/2020/f=/economie.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
-		"title": "Examenprogramma Economie havo/vwo",
+		"title": "Examenprogramma economie havo/vwo",
 		"examenprogramma_vakleergebied_id": [
 			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
 		],
@@ -1474,11 +1487,12 @@
 		],
 		"ingangsdatum": "Vanaf CE 2014",
 		"url": "https://www.examenblad.nl/examenstof/economie-vwo-en-havo/2020/f=/examenprogramma_economie_havo_vwo_2015.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "2e58a2e2-3332-4cd4-a39d-9205f36a50db",
-		"title": "Examenprogramma Duitse taal vmbo",
+		"title": "Examenprogramma duitse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
 		],
@@ -1498,11 +1512,12 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/duits-vmbo/2020/f=/duits.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "d10201e5-a936-45cb-b8a8-36f576d78b77",
-		"title": "Examenprogramma Drama vmbo",
+		"title": "Examenprogramma drama vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"561769d0-9c63-40e8-b2e7-54bde96f7e9f"
 		],
@@ -1523,11 +1538,12 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/drama-vmbo-2/2020/f=/drama.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
-		"title": "Examenprogramma Dans vmbo",
+		"title": "Examenprogramma dans vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
 		],
@@ -1546,11 +1562,14 @@
 			"91574c73-d930-4f1d-85bd-2b9a09d557c4",
 			"739cd39c-899e-4caa-9249-3b19ed5c0cdd"
 		],
-		"url": "https://www.examenblad.nl/examenstof/dans-vmbo-2/2019/f=/dans.pdf"
+		"url": "https://www.examenblad.nl/examenstof/dans-vmbo-2/2020/f=/dans.pdf",
+		"prefix": "",
+		"ingangsdatum": "",
+		"versie": "2020"
 	},
 	{
 		"id": "d5d55bb7-270a-48f1-aa0c-bdcdc34dfd6d",
-		"title": "Examenprogramma Culturele en kunstzinnige vorming vwo",
+		"title": "Examenprogramma culturele en kunstzinnige vorming vwo",
 		"examenprogramma_vakleergebied_id": [
 			"3023730d-db97-468e-b8d7-aa098399a7bd"
 		],
@@ -1566,11 +1585,12 @@
 		],
 		"ingangsdatum": "Vanaf ex.jaar 2020",
 		"url": "https://www.examenblad.nl/examenstof/culturele-en-kunstzinnige-vorming-7/2020/f=/examenprogramma_culturele_en_kunstzinnige_vorming_vwo_vanaf_2020.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "2f19281a-0926-4466-8ca5-ceb98b8f3f48",
-		"title": "Examenprogramma Culturele en kunstzinnige vorming havo",
+		"title": "Examenprogramma culturele en kunstzinnige vorming havo",
 		"examenprogramma_vakleergebied_id": [
 			"3023730d-db97-468e-b8d7-aa098399a7bd"
 		],
@@ -1586,11 +1606,12 @@
 		],
 		"ingangsdatum": "Vanaf ex.jaar 2019",
 		"url": "https://www.examenblad.nl/examenstof/culturele-en-kunstzinnige-vorming-6/2020/f=/examenprogramma_culturele_en_kunstzinnige_vorming_havo_vanaf_2019.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "da9fe3a7-c53f-4e2e-a867-6928720a2528",
-		"title": "Examenprogramma Chinese Taal en Cultuur vwo",
+		"title": "Examenprogramma chinese taal en cultuur vwo",
 		"examenprogramma_vakleergebied_id": [
 			"9117aa6e-7810-442d-978f-5361e5b8e85d"
 		],
@@ -1609,11 +1630,12 @@
 		"jaargang": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2019/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2020/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "f7c80fe9-05e1-4eca-b939-9bb6ca3846ab",
-		"title": "Examenprogramma Bewegen, sport en maatschappij vwo",
+		"title": "Examenprogramma bewegen, sport en maatschappij vwo",
 		"examenprogramma_vakleergebied_id": [
 			"df7daeab-3f75-4a7a-9c6a-ff253f12d0bb"
 		],
@@ -1630,11 +1652,12 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-vwo/2020/vwo/f=/bsm_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "b1a7d541-bfc5-490c-92ff-c1c9db9119f1",
-		"title": "Examenprogramma Bewegen, sport en maatschappij havo",
+		"title": "Examenprogramma bewegen, sport en maatschappij havo",
 		"examenprogramma_vakleergebied_id": [
 			"df7daeab-3f75-4a7a-9c6a-ff253f12d0bb"
 		],
@@ -1651,11 +1674,12 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-havo/2020/f=/bsm_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "92f57200-9ac6-449c-964c-b18c8996df85",
-		"title": "Examenprogramma Biologie vwo",
+		"title": "Examenprogramma biologie vwo",
 		"examenprogramma_vakleergebied_id": [
 			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
 		],
@@ -1674,11 +1698,12 @@
 		],
 		"ingangsdatum": "vanaf CE 2016",
 		"url": "https://www.examenblad.nl/examenstof/biologie-vwo-3/2020/f=/examenprogramma_biologie_vwo_2015_2016.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
-		"title": "Examenprogramma Biologie vmbo",
+		"title": "Examenprogramma biologie vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
 		],
@@ -1704,11 +1729,12 @@
 		],
 		"versie": "2020",
 		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/biologie-vmbo-2/2020/f=/biologie.pdf"
+		"url": "https://www.examenblad.nl/examenstof/biologie-vmbo-2/2020/f=/biologie.pdf",
+		"prefix": ""
 	},
 	{
 		"id": "6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a",
-		"title": "Examenprogramma Biologie havo",
+		"title": "Examenprogramma biologie havo",
 		"examenprogramma_vakleergebied_id": [
 			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
 		],
@@ -1727,12 +1753,13 @@
 		],
 		"ingangsdatum": "vanaf CE 2015",
 		"url": "https://www.examenblad.nl/examen/biologie-havo-3/2020",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "a6e799c4-75f5-45b6-8a71-d2b0e76f1b02",
-		"prefix": "BE/V/Examenprogramma",
-		"title": "Examenprogramma Bedrijfseconomie vwo",
+		"prefix": "BE/V",
+		"title": "Examenprogramma bedrijfseconomie vwo",
 		"examenprogramma_vakleergebied_id": [
 			"a440a28e-f561-4d88-ab06-6e372d9a6a5f"
 		],
@@ -1751,14 +1778,14 @@
 			"ef379269-c9ae-4d23-9d00-522f41dcfc8f",
 			"618c387a-b83e-42ee-89ea-ed6670f7b355"
 		],
-		"ingangsdatum": "2021",
+		"ingangsdatum": "Vanaf CE 2021",
 		"versie": "2021",
 		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie-2/2021/f=/Examenprogramma_Bedrijfseconomie_vwo.pdf"
 	},
 	{
 		"id": "3fdb47af-a3ee-45e7-ac0c-316d7a423b6d",
-		"prefix": "BE/H/Examenprogramma",
-		"title": "Examenprogramma Bedrijfseconomie havo",
+		"prefix": "BE/H",
+		"title": "Examenprogramma bedrijfseconomie havo",
 		"examenprogramma_vakleergebied_id": [
 			"a440a28e-f561-4d88-ab06-6e372d9a6a5f"
 		],
@@ -1777,13 +1804,13 @@
 			"5bfe6c85-b406-4e61-9ca5-a9828fe50d5c",
 			"e57a5dae-092f-45d8-bc36-72ee2c81d4c1"
 		],
-		"ingangsdatum": "2020",
-		"versie": "1",
-		"url": ""
+		"ingangsdatum": "vanaf CE 2020",
+		"versie": "2020",
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie/2020/f=/Examenprogramma_Bedrijfseconomie_havo.pdf"
 	},
 	{
 		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
-		"title": "Examenprogramma Beeldende vorming vmbo",
+		"title": "Examenprogramma beeldende vorming vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"cda3e026-b19d-404a-ba01-d6fa3a5cfeb3"
 		],
@@ -1803,7 +1830,8 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/beeldende-vorming-vmbo/2020/f=/beeldendevorming.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "71151b13-9fd5-4b83-9b2d-86e63abe9a30",
@@ -1830,7 +1858,7 @@
 	},
 	{
 		"id": "02cf73d4-f026-466d-a20a-78a1b0142fd9",
-		"title": "Examenprogramma Algemene natuurwetenschappen havo",
+		"title": "Examenprogramma algemene natuurwetenschappen havo",
 		"examenprogramma_vakleergebied_id": [
 			"8b968d9f-69ac-4a58-8052-4942e99cb131"
 		],
@@ -1848,7 +1876,8 @@
 		],
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/algemene-natuurwetenschappen-havo/2020/f=/anw_havovwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "e90b9cf7-b652-4f03-9e87-0a239e98eeab",
@@ -1875,7 +1904,7 @@
 	},
 	{
 		"id": "544a0293-a7e3-4f6b-a973-30af7627bdea",
-		"title": "Examenprogramma Aardrijkskunde vmbo",
+		"title": "Examenprogramma aardrijkskunde vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"1f237289-4039-4122-a709-58c065bacda0"
 		],
@@ -1901,16 +1930,16 @@
 		],
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958",
-			"279d4d59-e33a-4495-886d-be73fddc25a7",
-			"ef04b1ff-e25e-4673-b095-aedb8d976ffe"
+			"279d4d59-e33a-4495-886d-be73fddc25a7"
 		],
 		"ingangsdatum": "2014-2015",
 		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-vmbo-3/2020/f=/examenprogramma_vmbo_aardrijkskunde_vanaf_2014_2015.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	},
 	{
 		"id": "5effad33-ae66-4a1b-b610-d6a4f5542e0a",
-		"title": "Examenprogramma Aardrijkskunde havo",
+		"title": "Examenprogramma aardrijkskunde havo",
 		"examenprogramma_vakleergebied_id": [
 			"1f237289-4039-4122-a709-58c065bacda0"
 		],
@@ -1929,6 +1958,7 @@
 		],
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-havo/2020/f=/aard_havo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"prefix": ""
 	}
 ]
