@@ -562,8 +562,7 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"deleted": "0"
+		]
 	},
 	{
 		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
@@ -585,7 +584,11 @@
 			"05cd3e2d-346a-4fc0-a2a5-c8af21c35212",
 			"3b2a543e-e4e7-4564-a299-5c320c7ff8ef",
 			"5b4e2e4d-e421-488f-8478-a87df30613cb"
-		]
+		],
+		"prefix": "",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/moderne-vreemde-talen-havo/2020/f=/mvt_havovwo.pdf",
+		"versie": "2020"
 	},
 	{
 		"id": "9c7ce10d-f8bb-4726-9387-078466916b43",
@@ -1006,8 +1009,7 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-havo/2020/f=/kunstmuz_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020",
-		"deleted": "0"
+		"versie": "2020"
 	},
 	{
 		"id": "530811b4-b704-429a-9ff2-2f2f0f472d50",
