@@ -11,19 +11,21 @@
 			var matches = /.*\#\/definitions\/(.*)/g.exec(schema);
 			if (matches) {
 				var result = curriculum.types[data] == matches[1];
+				if (!result) {
+					console.log(data, matches[1]);
+				}
 				return result;
 			}
 			console.log('Unknown #ref definition: '+schema);
 		}
 	});
 
-	var curriculum   = require('../curriculum-doelen/lib/curriculum.js');
+	var curriculum   = require('../curriculum-basis/lib/curriculum.js');
 	var schema       = curriculum.loadSchema('context.json');
-	var coreSchema   = curriculum.loadSchema('../curriculum-doelen/context.json', 'curriculum-doelen/');
-	var inhoudSchema = curriculum.loadSchema('../curriculum-inhouden/context.json', 'curriculum-inhouden/');
-
-	var valid = ajv.addSchema(coreSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json')
-					.addSchema(inhoudSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-inhouden/context.json')
+	var basisSchema  = curriculum.loadSchema('curriculum-basis/context.json', 'curriculum-basis/');
+	//console.log(curriculum.types['6ed6fb6f-5cd5-40d1-945d-1f02af6a79da']);
+	
+	var valid = ajv.addSchema(basisSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json')
 					.addSchema(schema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json')
 	               	.validate('https://opendata.slo.nl/curriculum/schemas/curriculum-examenprogramma/context.json', curriculum.data);
 
