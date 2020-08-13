@@ -12206,399 +12206,619 @@
 	},
 	{
 		"id": "704abc1d-a85e-4964-ab1a-66d5515cea87",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.1",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - de levenswijze van jagers-verzamelaars.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e83b8a8e-ecf5-45ba-a508-0b7cab7c9968",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.2",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - het ontstaan van landbouw en landbouwsamenlevingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "65dbd233-7f0b-4201-a861-5794a4725731",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.3",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - het ontstaan van de eerste stedelijke gemeenschappen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "43616401-8138-4638-b64d-016d135a3b8a",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.4",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van wetenschappelijk denken en het denken over burgerschap en politiek in de Griekse stadstaat.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bf4db817-9069-40fb-9b72-832aea2259ac",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.5",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de klassieke vormentaal van de Grieks-Romeinse cultuur.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "35d35518-7550-4d04-956a-c239cbad1ebe",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.6",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de groei van het Romeinse imperium waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1e6262bf-a0b4-4c8a-8495-a67b371c44ba",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.7",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f1569026-1134-4b77-806b-9cc6adca2156",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.8",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8cb73c09-f846-4174-a15b-3eb4dc3329a6",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.9",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - de verspreiding van het christendom in geheel Europa.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5171263f-2510-4b51-ad47-05d13cce772a",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.10",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - het ontstaan en de verspreiding van de islam.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "54faee47-7772-4a27-817a-4f20dd93e62c",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.11",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "09fb7f28-4f41-42ec-832c-ef3d60948743",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.12",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - het ontstaan van feodale verhoudingen in het bestuur.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ae93100a-1f2f-4051-a6be-93d90551bc7f",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.13",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "2d14a703-e324-42be-8cf4-115f3e6d4452",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.14",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "82f3334f-b24a-4259-ae46-2711ef2166d3",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.15",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "7ace4eea-eab6-4965-a41b-dd6897b2f151",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.16",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d403b539-b7b6-4c65-b659-ad422d4b0444",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.17",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - het begin van staatsvorming en centralisatie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "947eeb72-24c2-43cd-9f6b-52e7131bcd9e",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.18",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het begin van de Europese overzeese expansie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e636f404-2685-4130-a7ee-dab28ffc7bda",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.19",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het veranderende mens- en wereldbeeld van de renaissance en het begin van een nieuwe wetenschappelijke belangstelling.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "85cf7676-f7ea-4d97-8183-ab2ced32d9d5",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.20",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "98015369-c226-44fa-9a22-9b6e81971428",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.21",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bc514178-6de8-4058-982a-f3f734c1e0c9",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.22",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f1a648fc-a182-4596-875a-a64d515f07d5",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.23",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - het streven van vorsten naar absolute macht.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "9b25b222-61e7-40d0-b59a-33555ad1e47e",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.24",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - de bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d39da0cf-6956-45b3-985a-5f16e1bd2c39",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.25",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "09af65e5-201f-4444-9f26-523773e84098",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.26",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - de wetenschappelijke revolutie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "af592ddd-1860-4adf-bf39-6a270974f1e5",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.27",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a0dacf4b-5d84-40dd-86ee-8cef3c6ed045",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.28",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme).",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "9dfa9b19-b507-4250-927b-2f632861e204",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.29",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e06421a5-690d-45db-8ba3-7c85e3998139",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.30",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - de democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f959195e-f24a-4724-bb02-255147897a9e",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.31",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "7b1011e4-1772-4d53-b128-66307315a324",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.32",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - discussies over de ‘sociale kwestie’.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "45e4e7e9-dd92-4608-aff2-3ba816ae3b2b",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.33",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de moderne vorm van imperialisme die verband hield met de industrialisatie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8932d56e-0eb9-48a5-b1a9-74a1bc72774c",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.34",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de opkomst van emancipatiebewegingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "eab23d05-59f9-4e4d-aecd-dd8f7b390cf9",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.35",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - voortschrijdende democratisering, met deelname van steeds meer mannen en vrouwen aan het politieke proces.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "12b99281-1782-46f7-a4da-5f6c3c1bb94b",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.36",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de opkomst van politiek-maatschappelijke stromingen: liberalisme, nationalisme, socialisme, confessionalisme en feminisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "817b7b64-c990-4ddf-b4ca-7a3c0c858e6c",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.37",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "531cf3e6-5525-4fe8-9dee-51b32e1bab05",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.38",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaal-socialisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "03fb80c2-fa3b-41e1-9364-ac127717ecad",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.39",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de crisis van het wereldkapitalisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a76e4f0c-a756-4cb0-aea9-d67575e043a0",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.40",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het voeren van twee wereldoorlogen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "203c2af9-735a-4b9a-a1bc-977a1c9e0c90",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.41",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a594083c-4527-4467-a488-04d8986a8e44",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.42",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de Duitse bezetting van Nederland.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c4626f98-2924-463e-80b2-7eb0635b9dce",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.43",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en de betrokkenheid van de burgerbevolking bij oorlogvoering.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "67d60572-45f6-472b-8d42-091e862da0e1",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.44",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - vormen van verzet tegen het West-Europese imperialisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "78f19d9c-95d7-4dc6-afd8-465dbe3c3f7e",
@@ -12611,39 +12831,59 @@
 	},
 	{
 		"id": "f8d3958a-4080-420a-9f05-152605d08e05",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.46",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ad8017d8-05bd-4b46-bae9-28a08976c5b8",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.47",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de eenwording van Europa.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "cd3dcc2b-40af-4b14-b26b-94a9287aa9c0",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.48",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f95e53f7-0b4d-48c2-bbdb-71843fd097f5",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.49",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de ontwikkeling van pluriforme en multiculturele samenlevingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "93105db2-b6d3-403e-83cc-c15fb9db671d",
