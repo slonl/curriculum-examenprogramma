@@ -962,7 +962,6 @@
 		"id": "6fefbf2d-b1bb-40b1-8252-d3a598bf6f53",
 		"prefix": "8.",
 		"title": "De kandidaat kan afstanden en hoeken berekenen met behulp van goniometrische verhoudingen, de stelling van Pythagoras en de sinus- en cosinusregel.",
-		"niveau_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -1229,7 +1228,6 @@
 		"id": "939b284f-fcc3-4632-83da-d046d4ac6d6f",
 		"prefix": "8.",
 		"title": "De kandidaat kan een grafiek tekenen op basis van gegevens uit een tekst, een tabel, een formule of andere grafieken en gegevens en relevante informatie uit grafieken aflezen, grafieken interpreteren en in verband brengen met andere grafieken, formules of tekst.",
-		"niveau_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -1254,7 +1252,6 @@
 		"id": "7813ce75-a5f2-48d3-8d1a-c48571219980",
 		"prefix": "11.",
 		"title": "De kandidaat kan exponentiële verbanden herkennen, met formules beschrijven, in grafieken weergeven en er berekeningen aan uitvoeren.",
-		"niveau_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -5305,8 +5302,7 @@
 	{
 		"id": "93c9a579-1e6f-46e8-8e9d-8826d47f90ed",
 		"prefix": "2.",
-		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.",
-		"niveau_id": []
+		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek."
 	},
 	{
 		"id": "a3cd32db-98cf-4435-a655-5a0ba6611b8c",
@@ -5595,8 +5591,7 @@
 	{
 		"id": "1d260ea8-d3ce-4ade-9278-cc3d9631e121",
 		"prefix": "2.",
-		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.",
-		"niveau_id": []
+		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek."
 	},
 	{
 		"id": "cad7719c-fe42-404b-96a5-2e987e7ac5d2",
@@ -5936,21 +5931,18 @@
 		"id": "7d756cf4-8e6d-4e7b-9f6c-38e1422670d1",
 		"prefix": "14.",
 		"title": "De kandidaat kan op basis van algemene modellen voor een bedrijf met stukproductie of voor een bedrijf met homogene massaproductie de fabricagekostprijs, de commerciële kostprijs en de verkoopprijs vaststellen, en daarbij onderscheid maken tussen werkelijke kosten en toegestane kosten.",
-		"niveau_id": [],
 		"ce_se": "CE"
 	},
 	{
 		"id": "9eec9cd8-9126-4c57-85ba-bf3dbaad40be",
 		"prefix": "14.",
 		"title": "De kandidaat kan de ontwikkeling in de resultaten analyseren, zowel met behulp van gegevens uit interne als uit externe verslaggeving.",
-		"niveau_id": [],
 		"ce_se": "CE"
 	},
 	{
 		"id": "7407cee5-3e2c-4fd0-aec0-01cb9ba0f0ea",
 		"prefix": "14.",
 		"title": "De kandidaat kan op grond van geformuleerde doelstellingen geplande investeringen selecteren.",
-		"niveau_id": [],
 		"ce_se": "CE"
 	},
 	{
@@ -9365,8 +9357,7 @@
 	{
 		"id": "35fff6e0-60e4-40bb-ac82-21fc4ac08503",
 		"prefix": "2.",
-		"title": "de kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.",
-		"niveau_id": []
+		"title": "de kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek."
 	},
 	{
 		"id": "a09f7102-acf7-41bd-9ed0-ac2121101715",
@@ -12215,399 +12206,619 @@
 	},
 	{
 		"id": "704abc1d-a85e-4964-ab1a-66d5515cea87",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.1",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - de levenswijze van jagers-verzamelaars.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e83b8a8e-ecf5-45ba-a508-0b7cab7c9968",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.2",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - het ontstaan van landbouw en landbouwsamenlevingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "65dbd233-7f0b-4201-a861-5794a4725731",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.3",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - het ontstaan van de eerste stedelijke gemeenschappen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "43616401-8138-4638-b64d-016d135a3b8a",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.4",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van wetenschappelijk denken en het denken over burgerschap en politiek in de Griekse stadstaat.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bf4db817-9069-40fb-9b72-832aea2259ac",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.5",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de klassieke vormentaal van de Grieks-Romeinse cultuur.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "35d35518-7550-4d04-956a-c239cbad1ebe",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.6",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de groei van het Romeinse imperium waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1e6262bf-a0b4-4c8a-8495-a67b371c44ba",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.7",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f1569026-1134-4b77-806b-9cc6adca2156",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.8",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8cb73c09-f846-4174-a15b-3eb4dc3329a6",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.9",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - de verspreiding van het christendom in geheel Europa.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5171263f-2510-4b51-ad47-05d13cce772a",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.10",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - het ontstaan en de verspreiding van de islam.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "54faee47-7772-4a27-817a-4f20dd93e62c",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.11",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "09fb7f28-4f41-42ec-832c-ef3d60948743",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.12",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - het ontstaan van feodale verhoudingen in het bestuur.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ae93100a-1f2f-4051-a6be-93d90551bc7f",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.13",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "2d14a703-e324-42be-8cf4-115f3e6d4452",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.14",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "82f3334f-b24a-4259-ae46-2711ef2166d3",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.15",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "7ace4eea-eab6-4965-a41b-dd6897b2f151",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.16",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d403b539-b7b6-4c65-b659-ad422d4b0444",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.17",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - het begin van staatsvorming en centralisatie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "947eeb72-24c2-43cd-9f6b-52e7131bcd9e",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.18",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het begin van de Europese overzeese expansie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e636f404-2685-4130-a7ee-dab28ffc7bda",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.19",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het veranderende mens- en wereldbeeld van de renaissance en het begin van een nieuwe wetenschappelijke belangstelling.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "85cf7676-f7ea-4d97-8183-ab2ced32d9d5",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.20",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "98015369-c226-44fa-9a22-9b6e81971428",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.21",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bc514178-6de8-4058-982a-f3f734c1e0c9",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.22",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f1a648fc-a182-4596-875a-a64d515f07d5",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.23",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - het streven van vorsten naar absolute macht.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "9b25b222-61e7-40d0-b59a-33555ad1e47e",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.24",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - de bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d39da0cf-6956-45b3-985a-5f16e1bd2c39",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.25",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "09af65e5-201f-4444-9f26-523773e84098",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.26",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - de wetenschappelijke revolutie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "af592ddd-1860-4adf-bf39-6a270974f1e5",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.27",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a0dacf4b-5d84-40dd-86ee-8cef3c6ed045",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.28",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme).",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "9dfa9b19-b507-4250-927b-2f632861e204",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.29",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e06421a5-690d-45db-8ba3-7c85e3998139",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.30",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - de democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f959195e-f24a-4724-bb02-255147897a9e",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.31",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "7b1011e4-1772-4d53-b128-66307315a324",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.32",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - discussies over de ‘sociale kwestie’.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "45e4e7e9-dd92-4608-aff2-3ba816ae3b2b",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.33",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de moderne vorm van imperialisme die verband hield met de industrialisatie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8932d56e-0eb9-48a5-b1a9-74a1bc72774c",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.34",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de opkomst van emancipatiebewegingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "eab23d05-59f9-4e4d-aecd-dd8f7b390cf9",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.35",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - voortschrijdende democratisering, met deelname van steeds meer mannen en vrouwen aan het politieke proces.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "12b99281-1782-46f7-a4da-5f6c3c1bb94b",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.36",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de opkomst van politiek-maatschappelijke stromingen: liberalisme, nationalisme, socialisme, confessionalisme en feminisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "817b7b64-c990-4ddf-b4ca-7a3c0c858e6c",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.37",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "531cf3e6-5525-4fe8-9dee-51b32e1bab05",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.38",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaal-socialisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "03fb80c2-fa3b-41e1-9364-ac127717ecad",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.39",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de crisis van het wereldkapitalisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a76e4f0c-a756-4cb0-aea9-d67575e043a0",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.40",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het voeren van twee wereldoorlogen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "203c2af9-735a-4b9a-a1bc-977a1c9e0c90",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.41",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a594083c-4527-4467-a488-04d8986a8e44",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.42",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de Duitse bezetting van Nederland.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c4626f98-2924-463e-80b2-7eb0635b9dce",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.43",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en de betrokkenheid van de burgerbevolking bij oorlogvoering.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "67d60572-45f6-472b-8d42-091e862da0e1",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.44",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - vormen van verzet tegen het West-Europese imperialisme.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "78f19d9c-95d7-4dc6-afd8-465dbe3c3f7e",
@@ -12620,39 +12831,59 @@
 	},
 	{
 		"id": "f8d3958a-4080-420a-9f05-152605d08e05",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.46",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ad8017d8-05bd-4b46-bae9-28a08976c5b8",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.47",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de eenwording van Europa.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "cd3dcc2b-40af-4b14-b26b-94a9287aa9c0",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.48",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f95e53f7-0b4d-48c2-bbdb-71843fd097f5",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.49",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de ontwikkeling van pluriforme en multiculturele samenlevingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "93105db2-b6d3-403e-83cc-c15fb9db671d",
@@ -13267,444 +13498,689 @@
 	},
 	{
 		"id": "20a586c0-6fb3-416e-bd31-14b15f8ec2f4",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.1",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - de levenswijze van jagers-verzamelaars.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "453ccf91-c781-424a-aeec-fecdcecb2e8b",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.2",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - het ontstaan van landbouw en landbouwsamenlevingen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "58402de2-04b8-48c7-a3f5-13aee0b8b27f",
-		"prefix": "8 tijdvak 1",
+		"prefix": "8 tijdvak 1.3",
 		"title": "Voor tijdvak 1 gelden de volgende kenmerkende aspecten - het ontstaan van de eerste stedelijke gemeenschappen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "be36b0c3-30d1-422b-8491-a43c117b859d",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.4",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van wetenschappelijk denken en het denken over burgerschap en politiek in de Griekse stadstaat.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ad317b69-eb3f-4ff0-91f0-56bf5d0f2150",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.5",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de klassieke vormentaal van de Grieks-Romeinse cultuur.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "123199d1-9618-4675-ad08-3d232f34f3d1",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.6",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de groei van het Romeinse imperium waardoor de Grieks-Romeinse cultuur zich in Europa verspreidde.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "dc49bd79-3626-40df-8359-a409be5ee0f5",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.7",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de confrontatie tussen de Grieks-Romeinse cultuur en de Germaanse cultuur van Noordwest-Europa.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "05bc1180-d66b-4152-b5d5-97ce7646c9f1",
-		"prefix": "8 tijdvak 2",
+		"prefix": "8 tijdvak 2.8",
 		"title": "Voor tijdvak 2 gelden de volgende kenmerkende aspecten - de ontwikkeling van het jodendom en het christendom als de eerste monotheïstische godsdiensten.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ef8f4ce0-9d4e-4899-acc8-2df63b0fd58b",
-		"prefix": "8 tijdvak 3",
-		"title": "de verspreiding van het christendom in geheel Europa.",
+		"prefix": "8 tijdvak 3.9",
+		"title": "Voor tijdvak 3 gelden de volgende de volgende kenmerkende aspecten - verspreiding van het christendom in geheel Europa.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "855f787b-f350-4c3f-aaa8-50571237431c",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.10",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - het ontstaan en de verspreiding van de islam;",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "825c7793-70dc-4a2e-8223-61ec6b5f90b8",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.11",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - de vrijwel volledige vervanging in West-Europa van de agrarisch-urbane cultuur door een zelfvoorzienende agrarische cultuur, georganiseerd via hofstelsel en horigheid;",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "3520bc1a-7392-4da5-889e-4fbe0d175bbe",
-		"prefix": "8 tijdvak 3",
+		"prefix": "8 tijdvak 3.12",
 		"title": "Voor tijdvak 3 gelden de volgende kenmerkende aspecten - het ontstaan van feodale verhoudingen in het bestuur.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "443aba6f-0cf1-4a3f-ba47-4978356e6232",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.13",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de opkomst van handel en ambacht die de basis legde voor het herleven van een agrarisch-urbane samenleving.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "96110720-5a47-471e-b1d2-23a00b57803e",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.14",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de opkomst van de stedelijke burgerij en de toenemende zelfstandigheid van steden.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f25b7096-d0c6-47b8-8394-ba11397200c2",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.15",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - het conflict in de christelijke wereld over de vraag of de wereldlijke dan wel de geestelijke macht het primaat behoorde te hebben.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c9b23901-0131-48d5-92f9-7cd8ad38a3aa",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.16",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - de expansie van de christelijke wereld naar buiten toe, onder andere in de vorm van de kruistochten.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "4c93a2cc-b2f6-4df0-81e6-90d56d530e32",
-		"prefix": "8 tijdvak 4",
+		"prefix": "8 tijdvak 4.17",
 		"title": "Voor tijdvak 4 gelden de volgende kenmerkende aspecten - het begin van staatsvorming en centralisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "912385f8-b1a8-498b-8546-1282720db260",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.18",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het begin van de Europese overzeese expansie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8c287585-22d7-4164-bd73-72bc784b6770",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.19",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het veranderende mens- en wereldbeeld van de renaissance en het begin van een nieuwe wetenschappelijke belangstelling.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b0c84515-64e7-4e6f-b255-e659af7d246d",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.20",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de hernieuwde oriëntatie op het erfgoed van de klassieke Oudheid.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f8dcc859-bb15-4922-8dde-3de9756128af",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.21",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - de protestantse reformatie die splitsing van de christelijke kerk in West-Europa tot gevolg had.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "19508158-30a3-4f0d-b087-3cdb04f506a4",
-		"prefix": "8 tijdvak 5",
+		"prefix": "8 tijdvak 5.22",
 		"title": "Voor tijdvak 5 gelden de volgende kenmerkende aspecten - het conflict in de Nederlanden dat resulteerde in de stichting van een Nederlandse staat.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b2cec331-61e9-4a88-bca2-941e89b03e26",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.23",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - het streven van vorsten naar absolute macht.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a7c195da-39af-44cd-b3cf-9d21a383c111",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.24",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - de bijzondere plaats in staatkundig opzicht en de bloei in economisch en cultureel opzicht van de Nederlandse Republiek.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "000a0b15-45c6-4200-8e6a-63610d04ee8c",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.25",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - wereldwijde handelscontacten, handelskapitalisme en het begin van een wereldeconomie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "534c5aef-f91f-4167-bc53-4c94aefd39c8",
-		"prefix": "8 tijdvak 6",
+		"prefix": "8 tijdvak 6.26",
 		"title": "Voor tijdvak 6 gelden de volgende kenmerkende aspecten - de wetenschappelijke revolutie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f1814456-6bd4-46e7-9324-ecbc9f5186ff",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.27",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - rationeel optimisme en ‘verlicht denken’ dat werd toegepast op alle terreinen van de samenleving: godsdienst, politiek, economie en sociale verhoudingen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "0f18521e-0af0-4944-b351-5ed0888d33fa",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.28",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - voortbestaan van het ancien régime met pogingen om het vorstelijk bestuur op eigentijdse verlichte wijze vorm te geven (verlicht absolutisme).",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "67b01fc8-2c2c-4528-935a-585a703a1440",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.29",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - uitbouw van de Europese overheersing, met name in de vorm van plantagekoloniën en de daarmee verbonden transatlantische slavenhandel, en de opkomst van het abolitionisme.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e4eaf980-02ea-4454-9cdd-609851aa8f06",
-		"prefix": "8 tijdvak 7",
+		"prefix": "8 tijdvak 7.30",
 		"title": "Voor tijdvak 7 gelden de volgende kenmerkende aspecten - de democratische revoluties in westerse landen met als gevolg discussies over grondwetten, grondrechten en staatsburgerschap.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d9c37c0e-9979-4c6a-acf1-374ee2240806",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.31",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de industriële revolutie die in de westerse wereld de basis legde voor een industriële samenleving.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5d443c1a-f97a-4c95-bffb-f5d324824bfd",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.32",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - discussies over de ‘sociale kwestie’.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1509e685-7517-48fb-9020-0ac8fa31d175",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.33",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de moderne vorm van imperialisme die verband hield met de industrialisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "919bbba5-0695-47a8-a128-e789a8f6a2e3",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.34",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de opkomst van emancipatiebewegingen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1ddd718e-6350-4595-8106-debacd24c3c9",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.35",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - voortschrijdende democratisering, met deelname van steeds meer mannen en vrouwen aan het politieke proces.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b8ebf628-a0df-4f29-abdb-6cc2a05796c1",
-		"prefix": "8 tijdvak 8",
+		"prefix": "8 tijdvak 8.36",
 		"title": "Voor tijdvak 8 gelden de volgende kenmerkende aspecten - de opkomst van politiek-maatschappelijke stromingen: liberalisme, nationalisme, socialisme, confessionalisme en feminisme.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5b76566a-2f46-4d2e-af96-03580b5c5f42",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.37",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de rol van moderne propaganda- en communicatiemiddelen en vormen van massaorganisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a72a66ec-7565-48a9-97d3-6b6471cb45fd",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.38",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het in praktijk brengen van de totalitaire ideologieën communisme en fascisme/nationaalsocialisme.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "63b7e4a3-d7c3-4dd2-be96-e8541bee22df",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.39",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de crisis van het wereldkapitalisme.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bd59d900-9827-452f-b756-9241e841ef35",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.40",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - het voeren van twee wereldoorlogen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "6dae3f86-6eb7-4e9d-8551-04d477542ced",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.41",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - racisme en discriminatie die leidden tot genocide, in het bijzonder op de joden.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d1aa357d-19c9-4180-8694-cd9f5119087f",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.42",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - de Duitse bezetting van Nederland.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c302fed1-ea27-4d15-8c5c-aaafc5068b06",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.43",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - verwoestingen op niet eerder vertoonde schaal door massavernietigingswapens en de betrokkenheid van de burgerbevolking bij oorlogvoering.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "288542ba-a0a2-4f6c-8b41-dc381a7945ce",
-		"prefix": "8 tijdvak 9",
+		"prefix": "8 tijdvak 9.44",
 		"title": "Voor tijdvak 9 gelden de volgende kenmerkende aspecten - vormen van verzet tegen het West-Europese imperialisme.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e8a3d8e4-fe24-42ed-beaa-623b32cf2885",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.45",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de verdeling van de wereld in twee ideologische blokken in de greep van een wapenwedloop en de daaruit voortvloeiende dreiging van een atoomoorlog.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "df34f5d9-4089-4a28-8f75-ab65f59b9f80",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.46",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de dekolonisatie die een eind maakte aan de westerse hegemonie in de wereld.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f621a73f-00bc-4c1e-9fd8-cbb6c697f51c",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.47",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de eenwording van Europa.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ac1bdcef-0069-42c0-961c-b475a7e26634",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.48",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de toenemende westerse welvaart die vanaf de jaren zestig van de twintigste eeuw aanleiding gaf tot ingrijpende sociaal-culturele veranderingsprocessen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a7858193-45fc-45ad-9a83-dcaa133ee732",
-		"prefix": "8 tijdvak 10",
+		"prefix": "8 tijdvak 10.49",
 		"title": "Voor tijdvak 10 gelden de volgende kenmerkende aspecten - de ontwikkeling van pluriforme en multiculturele samenlevingen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "be10e5b3-8bb3-459e-a208-704ee720bedd",
@@ -19471,8 +19947,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het kennen van en omgaan met eigen en andermans normen en waarden.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "ad0d9a09-834b-4088-9e4b-9058fdd0f183",
@@ -19480,8 +19955,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het onderkennen van en omgaan met de verschillen tussen de seksen.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "e94f48fe-6505-4be9-aa67-8bb51835a796",
@@ -19489,8 +19963,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed de relatie tussen de mens en de natuur en het concept van duurzame ontwikkeling.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "350b0f93-493b-4391-b267-a93229fbe3a4",
@@ -19498,8 +19971,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het functioneren als democratisch burger in een multiculturele samenleving, ook in internationaal verband.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "76d80b52-17c3-4d55-a030-585dc77ba142",
@@ -19507,8 +19979,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het op een voor henzelf en anderen veilige manier functioneren in de beroepspraktijk en in eigen omgeving.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "db08f498-947e-4cbc-bb20-02d74979712c",
@@ -19516,8 +19987,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van technologische ontwikkeling, waaronder met name moderne informatie- en communicatietechnologie.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "40800109-91f0-4796-bc40-52ae8d4a2dd5",
@@ -19525,8 +19995,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van betaalde en onbetaalde arbeid.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "2604fbe4-3093-4b20-baad-62b139e605ee",
@@ -19534,8 +20003,7 @@
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de verworvenheden en mogelijkheden van kunst en cultuur, waaronder ook de media.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "9abff946-93ac-480c-b508-6b76efcf6146",
@@ -19543,8 +20011,7 @@
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen. Het gaat daarbij om Nederlandse en Engelse teksten lezen en beluisteren.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "b74afe65-a569-46f5-8c9b-b6165dcbbdd6",
@@ -19552,8 +20019,7 @@
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen. Het gaat daarbij om schriftelijke en mondelinge teksten produceren in correct Nederlands.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "0238274d-a5ce-4c07-9cf8-5eafcccd2483",
@@ -19561,8 +20027,7 @@
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om informatie in verschillende gegevensbestanden opzoeken, selecteren, verzamelen en ordenen.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "764ca9c5-b99c-4a5e-aed2-aae721c5f2bb",
@@ -19570,8 +20035,7 @@
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om de rekenvaardigheden hoofdrekenen, rekenregels gebruiken, meten en schatten toepassen.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "48abbf92-f596-4529-a2e0-3633abcae3d0",
@@ -19579,8 +20043,7 @@
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om voldoen aan eisen van milieu, hygiëne, gezondheid en ergonomie.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "79200f1c-a487-4943-b12e-f5c4c6664a22",
@@ -19588,8 +20051,7 @@
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om doelmatig en veilig omgaan met materialen, gereedschappen en apparatuur.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "b29ac6f7-da94-4266-adde-70ffe385d8e3",
@@ -19597,8 +20059,7 @@
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om computervaardigheden.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "9b7a4400-75f3-4bb1-9aa0-ebf9ae390a1b",
@@ -19606,8 +20067,7 @@
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om informatie beoordelen op betrouwbaarheid, representativiteit en bruikbaarheid, informatie verwerken en benutten.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "9ce7df8d-44bf-4d01-86c4-015f6cd7b77f",
@@ -19615,8 +20075,7 @@
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het aanleren van nieuwe kennis en vaardigheden.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "e8e1fcab-378b-4f85-aed5-f5a80e60253b",
@@ -19624,8 +20083,7 @@
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het begrijpen van mondelinge en schriftelijke informatie.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "ff73fc5d-b07d-402a-a843-2576874cfb46",
@@ -19633,8 +20091,7 @@
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om op een doordachte wijze keuzeproblemen oplossen.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "57d1b876-7922-44dd-82d1-d1ecf654c96c",
@@ -19642,8 +20099,7 @@
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om een eenvoudig bedrijfsmatig, natuurwetenschappelijk of maatschappelijk vraagstuk planmatig onderzoeken.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "5398d3ea-4dab-4c49-9cc1-37f3254c0fac",
@@ -19651,8 +20107,7 @@
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "81b31f9f-3bac-42c6-aeb9-6724a4394b27",
@@ -19660,8 +20115,7 @@
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "8cc29807-653a-4318-afb9-d0ac810837f0",
@@ -19669,8 +20123,7 @@
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om elementaire sociale conventies in acht nemen.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "1f40ba8b-dc80-4776-adb6-11947149d920",
@@ -19678,8 +20131,7 @@
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om overleggen en samenwerken in teamverband.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "4b93677f-7649-45ff-b2e2-550a4878e4b6",
@@ -19687,8 +20139,7 @@
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om passende gesprekstechnieken hanteren.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "b1b78fec-da7d-4fc4-9408-71742be7aab3",
@@ -19696,8 +20147,7 @@
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om verschillen in meningen en opvattingen benoemen en hanteren.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "0ad279cb-468d-46a8-abec-6b7cb1f45edf",
@@ -19705,8 +20155,7 @@
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om culturele en seksegebonden verschillen tussen mensen benoemen en hanteren.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "e01623d2-41d9-4cbe-8850-5fe4f074634f",
@@ -19714,8 +20163,7 @@
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om het omgaan met formele en informele afspraken, regels en procedures.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "39a808ae-8995-4102-9a80-db092e994b25",
@@ -19723,8 +20171,7 @@
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om zichzelf en eigen werk presenteren.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "82eb1869-4530-45fb-8479-165d016abc98",
@@ -19732,8 +20179,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een leer- en/of werkplanning maken.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "14b313d0-5188-41d9-8c22-7b6a425143f2",
@@ -19741,8 +20187,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om het leer- en/of werkproces bewaken.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "cef54650-d38e-430d-9364-572d091dae0a",
@@ -19750,8 +20195,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een eenvoudige product- en procesevaluatie maken en hieruit conclusies trekken.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "50cbb9c4-67b1-4b3a-a52c-ce9de4012add",
@@ -19759,8 +20203,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het inventariseren van de eigen mogelijkheden en interesses.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "13c9b0ab-d6a5-4d55-8e51-707e4341577b",
@@ -19768,8 +20211,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het onderzoeken van de mogelijkheden voor verdere studie.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "44afd902-33bb-4758-a8ed-13fa1cf384f1",
@@ -19777,8 +20219,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het zicht krijgen op beroepen, de beroepspraktijk en actuele ontwikkelingen daarbinnen.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "990fdb92-ec6d-4812-b031-3ff5fdfe1080",
@@ -19786,8 +20227,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de rol en het belang van op school geleerde kennis, inzicht en vaardigheden voor het maatschappelijk leven, dagelijks leven, vrije tijd, vrijwilligerswerk.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "ce01a395-548d-4c28-8214-b67e63cded27",
@@ -19795,8 +20235,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de kenmerken van de arbeidsmarkt op dit moment en in de nabije toekomst.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "0152b14f-35af-42d2-b5f3-b835b2ecddd6",
@@ -19804,8 +20243,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de organisatie van branches en bedrijven.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
@@ -19813,8 +20251,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het beoordelen van de eigen mogelijkheden en interesses in het licht van vervolgstudie, beroepen en maatschappelijk functioneren.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "ea4a0513-da7e-4249-8190-97cc2a7268b9",
@@ -19822,8 +20259,7 @@
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het kunnen maken van een verantwoorde keuze voor een vervolgopleiding.",
 		"tag_id": [
 			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
-		"niveau_id": []
+		]
 	},
 	{
 		"id": "78b6c732-11ef-44a8-9687-b5cc28bd9a4b",
