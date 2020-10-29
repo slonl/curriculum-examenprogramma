@@ -5,10 +5,10 @@
 			"properties": {
 				"description": { "type": "string" },
 				"prefix": { "type": "string" },
-				"ce" : { "type" : "boolean" },
-				"se" : { "type" : "boolean" },
-				"kern" : { "type" : "boolean" },
-				"keuze" : { "type" : "boolean" },
+				"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+				"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+				"kern" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+				"keuze" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 				"niveau_id" : {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
