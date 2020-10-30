@@ -73,7 +73,8 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied" } }
 					]
 				}
-			}
+			},
+			"required": [ "id", "title", "vakleergebied_id" ]			
 		},
 		"examenprogramma" : {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -97,7 +98,8 @@
 						}
 					]
 				}
-			}
+			},
+			"required": ["id", "title", "examenprogramma_domein_id", "examenprogramma_vakleergebied_id"]
 		},
 		"examenprogramma_kop1": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -138,7 +140,11 @@
 						}
 					]
 				}
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_kop2_id"]},
+				{"required":["id","title","examenprogramma_body_id"]}
+			]				
 		},
 		"examenprogramma_kop2": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -179,7 +185,11 @@
 						}
 					]
 				}
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_kop3_id"]},
+				{"required":["id","title","examenprogramma_body_id"]}
+			]				
 		},
 		"examenprogramma_kop3": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -220,7 +230,11 @@
 						}
 					]
 				}
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_kop4_id"]},
+				{"required":["id","title","examenprogramma_body_id"]}
+			]				
 		},
 		"examenprogramma_kop4": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -249,7 +263,8 @@
 						}
 					]
 				}
-			}
+			},
+			"required":["id","title","examenprogramma_body_id"]
 		},
 		"examenprogramma_body": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -266,7 +281,8 @@
 						}
 					]
 				}
-			}
+			},
+			"required":["id","title"]
 		},
 		"allEntities" : {
 			"properties" : {
