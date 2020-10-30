@@ -15,12 +15,13 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
 					]
 				}
-			}
+			},
+			"required": ["id","title","niveau_id"]
 		},
 		"examenprogramma_subdomein": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
-				"eindterm_id": {
+				"examenprogramma_eindterm_id": {
 					"allOf": [
 						{
 							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
@@ -32,7 +33,8 @@
 						}
 					]
 				}
-			}
+			},
+			"required": ["id","title","examenprogramma_eindterm_id"]
 		},
 		"examenprogramma_domein": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -49,7 +51,7 @@
 						}
 					]
 				},
-				"eindterm_id": {
+				"examenprogramma_eindterm_id": {
 					"allOf": [
 						{
 							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
@@ -61,8 +63,11 @@
 						}
 					]
 				}
-
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_subdomein_id"]},
+				{"required":["id","title","examenprogramma_eindterm_id"]}
+			]
 		},
 		"examenprogramma_vakleergebied": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
