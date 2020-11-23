@@ -1202,7 +1202,7 @@
 		]
 	},
 	{
-		"prefix": "I/vwo",
+		"prefix": "Inf/vwo",
 		"id": "9d88473e-9cde-439e-88b7-32dea9665022",
 		"title": "Examenprogramma informatica vwo",
 		"examenprogramma_vakleergebied_id": [
@@ -1232,11 +1232,10 @@
 		"versie": "2020",
 		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2020/f=/examenprogramma_Informatica_havo-vwo.pdf",
 		"jaargang": "2019",
-		"status": "Wettelijk",
-		"examenprogramma_kop1_id": []
+		"status": "Wettelijk"
 	},
 	{
-		"prefix": "I/havo",
+		"prefix": "INF/havo",
 		"id": "fddc262e-f971-48a6-9fef-4b0cf4cd3253",
 		"title": "Examenprogramma informatica havo",
 		"examenprogramma_vakleergebied_id": [
@@ -1494,7 +1493,7 @@
 		"versie": "2020"
 	},
 	{
-		"prefix": "EN/vmbo",
+		"prefix": "MVT/EN/vmbo",
 		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
 		"title": "Examenprogramma engelse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
