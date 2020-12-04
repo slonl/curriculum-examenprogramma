@@ -78,10 +78,11 @@
 	},
 	{
 		"id": "42bab708-73f3-4c4a-b2a6-3f2d911f2db1",
-		"title": "NASK 1 Natuur- en scheikunde",
+		"title": "Natuur- en scheikunde I",
 		"vakleergebied_id": [
-			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
-		]
+			"b362c478-90c9-45ac-855a-79421d23ed07"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "aa11f7d4-0bab-4960-9b45-ccf9a74836a6",
@@ -122,8 +123,7 @@
 		"id": "34f4face-9e78-4666-826d-37c5e3dcba3e",
 		"title": "Maatschappijleer",
 		"vakleergebied_id": [
-			"ef5159b3-ead9-4a86-9324-e80cd867856c",
-			"c960fcb7-2c47-4822-88a3-68822f031c40"
+			"ef5159b3-ead9-4a86-9324-e80cd867856c"
 		]
 	},
 	{
