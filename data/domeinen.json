@@ -1753,7 +1753,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "MVT/DomeinA",
+		"prefix": "MVT/EN/H/DomeinA",
 		"id": "4c9a41ef-1c73-42e8-bc06-08c06e4505aa",
 		"title": "Domein A: Leesvaardigheid",
 		"examenprogramma_eindterm_id": [
@@ -1766,7 +1766,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "MVT/DomeinB ",
+		"prefix": "MVT/EN/H/DomeinB ",
 		"id": "ad934e12-3b81-4157-8ccc-58f2a8be6a10",
 		"title": "Domein B: Kijk- en luistervaardigheid",
 		"examenprogramma_eindterm_id": [
@@ -1780,7 +1780,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "MVT/DomeinC ",
+		"prefix": "MVT/EN/H/DomeinC ",
 		"id": "f6d0da70-f3f4-4165-b700-3cc5bc1bb1cd",
 		"title": "Domein C: Gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [
@@ -1790,7 +1790,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "MVT/DomeinD ",
+		"prefix": "MVT/EN/H/DomeinD ",
 		"id": "7c4c3a29-6c9c-451e-98c3-a78e397a2ac0",
 		"title": "Domein D: Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [
@@ -1800,18 +1800,16 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "MVT/DomeinE ",
+		"prefix": "MVT/EN/H/DomeinE ",
 		"id": "512b82ad-475d-48ad-898c-e0a8dd095e69",
 		"title": "Domein E: Literatuur",
 		"examenprogramma_subdomein_id": [
-			"fca9e161-1895-40d9-8aa7-a304ec98e3d4",
-			"abc570d6-b766-46e0-a684-c99c0f8e4cbf",
-			"caa27268-6b85-4c93-a9c0-7c0490ecb981"
+			"fca9e161-1895-40d9-8aa7-a304ec98e3d4"
 		],
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "MVT/DomeinF",
+		"prefix": "MVT/EN/H/DomeinF",
 		"id": "99387359-1d29-4541-9895-4a905f81f896",
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
