@@ -3420,12 +3420,17 @@
 	},
 	{
 		"id": "dc918dad-3c9e-4231-8662-11ce757a2892",
-		"prefix": "7.",
+		"prefix": "NE/H/DomeinE/E1/7",
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. Minimaal 8 literarire werken waarvan minimaal 3 voor 1880. De werken zijn oorspronkelijk geschreven in de Nederlandse taal.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d0d2feea-2b35-4a14-b242-f4ac3fbc51bc",
@@ -3438,23 +3443,33 @@
 	},
 	{
 		"id": "cbdf13a5-7994-4219-a72a-2a293702bf27",
-		"prefix": "8.",
+		"prefix": "NE/H/DomeinE/E2/8",
 		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "87251bd2-4c54-45f3-a50e-b8b26b71bc66",
-		"prefix": "9.",
+		"prefix": "NE/H/DomeinE/E3/9",
 		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis, en de gelezen literaire werken plaatsen in dit historisch perspectief.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "be001bf7-5161-445c-9f24-8367525d521b",
