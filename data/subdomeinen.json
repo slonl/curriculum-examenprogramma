@@ -1970,10 +1970,11 @@
 		"id": "ed0b3da6-fd7a-4e13-a7de-afb9615168ae",
 		"title": "Subdomein E1: Literaire ontwikkeling",
 		"examenprogramma_eindterm_id": [
-			"dc918dad-3c9e-4231-8662-11ce757a2892",
-			"d0d2feea-2b35-4a14-b242-f4ac3fbc51bc"
+			"dc918dad-3c9e-4231-8662-11ce757a2892"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "NE/H/DomeinE/E1",
+		"dirty": "1"
 	},
 	{
 		"id": "f108928b-12a7-44d5-918e-37f2d4cb4974",
@@ -1981,7 +1982,8 @@
 		"examenprogramma_eindterm_id": [
 			"cbdf13a5-7994-4219-a72a-2a293702bf27"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "NE/H/DomeinE/E2"
 	},
 	{
 		"id": "f483b93f-aa2b-4365-81a6-2b3c348fd3db",
@@ -1989,7 +1991,8 @@
 		"examenprogramma_eindterm_id": [
 			"87251bd2-4c54-45f3-a50e-b8b26b71bc66"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "NE/H/DomeinE/E3"
 	},
 	{
 		"id": "8858f025-8faa-42dd-a82a-250ca9b46b42",
