@@ -4729,7 +4729,7 @@
 		]
 	},
 	{
-		"prefix": "EC/DomeinA",
+		"prefix": "EC/H/DomeinA",
 		"id": "19ce8c9a-317c-4f03-9091-01cfa6ad2908",
 		"title": "Domein A Vaardigheden",
 		"examenprogramma_eindterm_id": [
@@ -4738,7 +4738,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "EC/DomeinB",
+		"prefix": "EC/H/DomeinB",
 		"id": "6293da5f-8658-4bc6-80e2-8ce2de8cd64b",
 		"title": "Domein B Concept schaarste",
 		"examenprogramma_eindterm_id": [
@@ -4747,7 +4747,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "EC/DomeinC",
+		"prefix": "EC/H/DomeinC",
 		"id": "1e99955b-beac-4bd8-9696-1294935ea023",
 		"title": "Domein C Concept ruil",
 		"examenprogramma_eindterm_id": [
@@ -4757,7 +4757,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "EC/DomeinD",
+		"prefix": "EC/H/DomeinD",
 		"id": "8dd98112-5fd8-4487-9e40-70cbce53578a",
 		"title": "Domein D Concept markt",
 		"examenprogramma_eindterm_id": [
@@ -4768,7 +4768,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "EC/DomeinE",
+		"prefix": "EC/H/DomeinE",
 		"id": "01f25970-4cee-4094-acf6-2e9e3a76cbee",
 		"title": "Domein E Concept ruilen over de tijd",
 		"examenprogramma_eindterm_id": [
@@ -4778,7 +4778,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "EC/DomeinF",
+		"prefix": "EC/H/DomeinF",
 		"id": "343652ee-2e6e-412e-8e45-1f23b65db61a",
 		"title": "Domein F Concept samenwerken en onderhandelen",
 		"examenprogramma_eindterm_id": [
@@ -4788,7 +4788,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "EC/DomeinG",
+		"prefix": "EC/H/DomeinG",
 		"id": "3586b085-400d-41a0-be4b-358c0cb6aabe",
 		"title": "Domein G Concept risico en informatie",
 		"examenprogramma_eindterm_id": [
@@ -4798,7 +4798,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "EC/DomeinH",
+		"prefix": "EC/H/DomeinH",
 		"id": "3ac3ec8c-d76b-4636-8a26-9a6c0d2bcd36",
 		"title": "Domein H Concept welvaart en groei",
 		"examenprogramma_eindterm_id": [
@@ -4808,7 +4808,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "EC/DomeinI",
+		"prefix": "EC/H/DomeinI",
 		"id": "c85825e8-04a5-48d0-8433-72f7f3b2ff16",
 		"title": "Domein I Concept goede tijden, slechte tijden",
 		"examenprogramma_eindterm_id": [
@@ -4818,7 +4818,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "EC/DomeinJ",
+		"prefix": "EC/H/DomeinJ",
 		"id": "1131592a-bc05-4c0b-9f53-7f98f7f5ad4f",
 		"title": "Domein J Onderzoek en experiment",
 		"examenprogramma_eindterm_id": [
@@ -4828,7 +4828,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "EC/DomeinK",
+		"prefix": "EC/H/DomeinK",
 		"id": "4abdcdd9-dc4a-4580-9218-aecb04462d13",
 		"title": "Domein K Keuzeonderwerpen",
 		"examenprogramma_eindterm_id": [
