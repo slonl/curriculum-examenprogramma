@@ -564,12 +564,10 @@
 		]
 	},
 	{
-		"prefix": "MVT/havo/vwo",
+		"prefix": "MVT/EN/H",
 		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
-		"title": "Examenprogramma moderne vreemde talen en literatuur havo/vwo",
+		"title": "Examenprogramma moderne vreemde talen en literatuur Engels havo",
 		"examenprogramma_vakleergebied_id": [
-			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6",
-			"f0f07756-73fc-40d9-9f8e-eb450d337ea1",
 			"19755351-eab6-43fb-a2cc-7b0b909802b6"
 		],
 		"examenprogramma_domein_id": [
