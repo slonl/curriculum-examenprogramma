@@ -1551,9 +1551,9 @@
 		]
 	},
 	{
-		"prefix": "EC/havo/vwo",
+		"prefix": "EC/havo",
 		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
-		"title": "Examenprogramma economie havo/vwo",
+		"title": "Examenprogramma economie havo",
 		"examenprogramma_vakleergebied_id": [
 			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
 		],
