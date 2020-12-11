@@ -848,9 +848,9 @@
 		]
 	},
 	{
-		"prefix": "LO/havo/vwo",
+		"prefix": "LO/havo",
 		"id": "4c4bddd2-c2ae-4a52-a1bc-c4ba103378a7",
-		"title": "Examenprogramma lichamelijke opvoeding havo/vwo",
+		"title": "Examenprogramma lichamelijke opvoeding havo",
 		"examenprogramma_vakleergebied_id": [
 			"4b6dd90f-42e3-48ad-964a-aa5deea42127"
 		],
