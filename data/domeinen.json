@@ -2650,7 +2650,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "LO/H/V/DomeinA",
+		"prefix": "LO/H/DomeinA",
 		"id": "37cec167-172d-4ca7-b5b5-d72d2e7ead96",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_eindterm_id": [
@@ -2659,7 +2659,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "LO/H/V/DomeinB",
+		"prefix": "LO/H/DomeinB",
 		"id": "88cb2225-ed7d-4a4a-9939-d4ba5eb8ca26",
 		"title": "Domein B: Bewegen",
 		"examenprogramma_eindterm_id": [
@@ -2671,7 +2671,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "LO/H/V/DomeinC",
+		"prefix": "LO/H/DomeinC",
 		"id": "addf3719-9924-48c2-ad0a-f7c9595bdcb7",
 		"title": "Domein C: Bewegen en regelen",
 		"examenprogramma_eindterm_id": [
@@ -2690,7 +2690,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "LO/H/V/DomeinE",
+		"prefix": "LO/H/DomeinE",
 		"id": "931078f6-9d20-44b9-874e-e489db3cf4f7",
 		"title": "Domein E: Bewegen en samenleving",
 		"examenprogramma_eindterm_id": [
