@@ -8769,43 +8769,59 @@
 	},
 	{
 		"id": "e8fafe3b-88f6-412a-902f-665a2c7b8892",
-		"prefix": "1.",
+		"prefix": "LO/H/DomeinA/1",
 		"title": "De kandidaat kan op verantwoorde en perspectiefrijke wijze en met plezier in bewegende en regelende rollen deelnemen aan de bewegingscultuur, en kan aangeven in hoeverre hij daaraan - ook in de toekomst - kan en wil deelnemen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "adc7666a-29f7-4d4e-8629-42afa03105b3",
-		"prefix": "2.",
+		"prefix": "LO/H/DomeinB/2a",
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om verbreding (leren van nieuwe activiteiten) en verdieping (qua niveau, taken en contexten) van bewegingsactiviteiten die in de onderbouw zijn aangeboden.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bd38e428-4ebf-465a-8f95-fb0b6f9847b7",
-		"prefix": "2.",
+		"prefix": "LO/H/DomeinB/2b",
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om in elk geval uit het activiteitengebied spelen een slag- en loopspel, twee doelspelen en een terugslagspel, bij voorkeur door de kandidaat te kiezen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1d61adc5-d18f-4aef-9663-9263d25ef957",
-		"prefix": "2.",
+		"prefix": "LO/H/DomeinB/2c",
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om minimaal twee door de kandidaat te kiezen bewegingsactiviteiten uit een door de school gedaan aanbod voor de activiteitengebieden turnen, atletiek, bewegen op muziek e zelfverdediging.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f743c107-19b8-411a-bace-fcbb0788a242",
@@ -8819,43 +8835,59 @@
 	},
 	{
 		"id": "bb257671-84a3-4438-9372-9d104771e267",
-		"prefix": "3.",
+		"prefix": "LO/H/DomeinC/3a",
 		"title": "De kandidaat kan (samen met anderen) ondersteunende en leidinggevende rollen in bewegingssituaties vervullen, waarbij het gaat om bewegingssituaties inrichten, op gang brengen en op gang houden.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1dac0bfa-c970-4b9f-b7e8-1f92cb6dfd54",
-		"prefix": "3.",
+		"prefix": "LO/H/DomeinC/3b",
 		"title": "De kanidaat kan (samen met anderen) ondersteunende en leidinggevende rollen in bewegingssituaties vervullen, waarbij het gaat om minimaal twee door de leerling te kiezen rollen van instructeur, coach/begeleider, scheidsrechter/jurylid en organisator.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "baf313e7-cece-489f-b2af-a9f749829038",
-		"prefix": "4.",
-		"title": "De kandidaat kan op basis van eigen ervaring met en inzicht in de betekenis\r\nvan sport en bewegen voor de (beleving van) gezondheid in brede zin\r\nverantwoord omgaan met belasting en risico's in bewegingssituaties, en een\r\ntrainingsprogramma opstellen dat past bij de eigen mogelijkheden.",
+		"prefix": "LO/H/DomeinD/4",
+		"title": "De kandidaat kan op basis van eigen ervaring met en inzicht in de betekenis\nvan sport en bewegen voor de (beleving van) gezondheid in brede zin\nverantwoord omgaan met belasting en risico's in bewegingssituaties, en een\ntrainingsprogramma opstellen dat past bij de eigen mogelijkheden.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "7af557b6-9047-4ff6-92c9-57456bdefd8f",
-		"prefix": "5.",
-		"title": "De kandidaat kan op grond van inzicht in de kenmerken van het aanbod en in\r\nde eigen wensen en mogelijkheden ten aanzien van sportdeelname een\r\nbewuste keuze maken uit het aanbod aan sport en bewegen in de\r\nsamenleving.",
+		"prefix": "LO/H/DomeinE/5",
+		"title": "De kandidaat kan op grond van inzicht in de kenmerken van het aanbod en in\nde eigen wensen en mogelijkheden ten aanzien van sportdeelname een\nbewuste keuze maken uit het aanbod aan sport en bewegen in de\nsamenleving.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "0e1aaaf9-7f6a-499f-b057-4e71b6568e08",
