@@ -571,7 +571,7 @@
 		"ce_se": "CE;SE"
 	},
 	{
-		"prefix": "THT/V/TV/DomeinA",
+		"prefix": "THT/TV/V/DomeinA",
 		"id": "8c78af02-238d-4048-b965-ab81b8fa7bdf",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
@@ -581,7 +581,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "THT/V/TV/DomeinB",
+		"prefix": "THT/TV/V/DomeinB",
 		"id": "2673561a-76e5-4492-8bdc-4975ec3bda92",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
@@ -590,13 +590,13 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "THT/V/TV/DomeinC",
+		"prefix": "THT/TV/V/DomeinC",
 		"id": "25deb580-a7ae-452d-a678-717c270b0035",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "THT/H/TV/DomeinA",
+		"prefix": "THT/TV/H/DomeinA",
 		"id": "36a961a1-c152-44bc-96cb-338e8ef8c713",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
@@ -606,7 +606,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "THT/H/TV/DomeinB",
+		"prefix": "THT/TV/H/DomeinB",
 		"id": "66dbceec-16e0-41e8-8068-dbca5773ecf8",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
@@ -1815,7 +1815,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "MUZ/V/DomeinA",
+		"prefix": "MU/V/DomeinA",
 		"id": "942afd18-8dc0-4b99-be3a-bdff22f99ec2",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
@@ -1953,7 +1953,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "MUZ/H/DomeinA",
+		"prefix": "MU/H/DomeinA",
 		"id": "1671208d-7b3b-48a1-97b1-5c962763da38",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
@@ -2450,7 +2450,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "ML/H/DomeinA Vaardigheden",
+		"prefix": "ML/H/DomeinA",
 		"id": "1084fd95-07df-4a71-b85f-0a99e31ad59e",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -2460,7 +2460,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "ML/H/DomeinB Rechtsstaat",
+		"prefix": "ML/H/DomeinB",
 		"id": "0f9f4e77-c360-4595-ae0f-f0e4758d64ff",
 		"title": "Domein B: Rechtsstaat",
 		"examenprogramma_subdomein_id": [
