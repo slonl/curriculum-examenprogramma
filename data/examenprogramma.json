@@ -1576,7 +1576,8 @@
 		],
 		"ingangsdatum": "Vanaf CE 2014",
 		"url": "https://www.examenblad.nl/examenstof/economie-vwo-en-havo/2020/f=/examenprogramma_economie_havo_vwo_2015.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"dirty": "1"
 	},
 	{
 		"prefix": "DU/vmbo",
