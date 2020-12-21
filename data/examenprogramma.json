@@ -2065,5 +2065,31 @@
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-havo/2020/f=/aard_havo.pdf",
 		"versie": "2020"
+	},
+	{
+		"examenprogramma_domein_id": [
+			"e5ada5c6-678e-4472-9bef-5dd92e998783",
+			"60423bf4-423a-4da8-a405-57e7052b6bdd",
+			"6b0b176f-f0f9-498a-9181-70568cf456d6",
+			"6a88db07-690c-4c47-83c1-fd760900fbe9",
+			"f3e4b98a-b6b9-492f-bc2c-902ad33bdcd5",
+			"f4eeea68-5c56-4edb-bebb-06e5dfe8b3fc",
+			"87846547-0357-4076-bcfa-edd9567472c8",
+			"6803f13b-88d0-4da6-8cb3-e24695ee81ea",
+			"5075bbd7-4756-4d6f-b763-e3ecc5c70d59",
+			"8732b8eb-2647-4558-aa32-f4bbea65383a",
+			"16ed878f-47fc-46e7-9ecb-efa93db31ee6"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
+		],
+		"examenprogramma_kop1_id": [
+			"676a4168-512e-4fca-a6dd-02ad293b9f99",
+			"619afb92-7be3-47ba-887c-285b09f51e65",
+			"3ec0b2e3-b784-4f25-9a6e-505ff660f3a0"
+		],
+		"title": "Examenprogramma economie vwo",
+		"id": "266a32b4-aed8-495f-9e78-da585f8cc370",
+		"unreleased": true
 	}
 ]
