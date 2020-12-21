@@ -4348,5 +4348,70 @@
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "c6022888-bfc3-43cc-8170-5b22fec49bf4",
 		"unreleased": true
+	},
+	{
+		"title": "Domein A Leesvaardigheid",
+		"id": "28f22da5-b16e-4c29-ad2b-8a9f5e31e1dd",
+		"unreleased": true
+	},
+	{
+		"title": "Domein B Kijk-en luistervaardigheid",
+		"id": "293a9a25-9062-49f7-a704-4bbbf3bbbcfa",
+		"unreleased": true
+	},
+	{
+		"title": "Domein C Gespreksvaardigheid",
+		"id": "68f53226-6032-4e25-8bda-18b3aacd7860",
+		"unreleased": true
+	},
+	{
+		"title": "Domein D Schrijfvaardigheid",
+		"id": "dae99163-0e57-4ae4-8aa5-ef74fae4e4f4",
+		"unreleased": true
+	},
+	{
+		"title": "Domein E Literatuur",
+		"id": "4d4a87b8-2d29-4450-be6b-53ae419de532",
+		"unreleased": true
+	},
+	{
+		"title": "Domein F Oriëntatie op studie en beroep.",
+		"id": "8da07066-9196-4cd3-9318-f6ae4b39ce31",
+		"unreleased": true
+	},
+	{
+		"title": "Het centraal examen heeft betrekking op domein A.",
+		"id": "8607e4ec-06ce-4be8-a01b-093b67b7d250",
+		"unreleased": true
+	},
+	{
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
+		"id": "d57329c5-7738-4929-ab8b-b34a2cbd7ddf",
+		"unreleased": true
+	},
+	{
+		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen, waarbij in elk geval het niveau in termen van het Europees Referentiekader wordt vastgesteld.",
+		"id": "366fa95c-a0b9-4ae4-a2a8-a7e526bf4612",
+		"unreleased": true
+	},
+	{
+		"title": "Het schoolexamen heeft betrekking op:",
+		"id": "7b59b862-e091-4e48-af34-61b98ff045a1",
+		"unreleased": true
+	},
+	{
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
+		"id": "ea92fdb0-e74f-4de9-83db-d2ae1618b1f3",
+		"unreleased": true
+	},
+	{
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"id": "50a3b764-796c-4a7c-95a6-9167a169e9a9",
+		"unreleased": true
+	},
+	{
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"id": "ffa0e1a6-b2f9-49f0-a8fe-7cca370cb1b2",
+		"unreleased": true
 	}
 ]
