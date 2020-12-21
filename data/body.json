@@ -4221,67 +4221,67 @@
 	},
 	{
 		"title": "Domein A Leesvaardigheid",
-		"id": "4f465f3e-93ed-4ccd-9b72-83c7ea162d9e",
+		"id": "7f922bd7-47ec-432f-afe0-5e99c289260e",
 		"unreleased": true
 	},
 	{
 		"title": "Domein B Kijk-en luistervaardigheid",
-		"id": "804a6d27-3950-4bbe-a0a6-6ed21de9ff74",
+		"id": "c6ef1af9-8b9a-4209-aefd-00f5dceec8a3",
 		"unreleased": true
 	},
 	{
 		"title": "Domein C Gespreksvaardigheid",
-		"id": "de92d4f2-7452-4311-87fd-b3d057217505",
+		"id": "bfe18074-a9c4-4464-8434-4b127733fff6",
 		"unreleased": true
 	},
 	{
 		"title": "Domein D Schrijfvaardigheid",
-		"id": "155e7346-da70-4b16-b957-28a273b5241c",
+		"id": "7c7368c1-54b9-4727-b020-4ef8d06bee37",
 		"unreleased": true
 	},
 	{
 		"title": "Domein E Literatuur",
-		"id": "5f649939-d9e2-4ce0-94fa-96f7816b097a",
+		"id": "4a83c217-94e0-4cc7-a0ee-131addfce2dc",
 		"unreleased": true
 	},
 	{
 		"title": "Domein F Oriëntatie op studie en beroep.",
-		"id": "6ad93479-c681-4d3f-8446-8f0f3c3105ad",
+		"id": "4f150cf4-379b-4bc0-8105-79204610bbff",
 		"unreleased": true
 	},
 	{
 		"title": "Het centraal examen heeft betrekking op domein A.",
-		"id": "ba70e291-8596-429b-8c4b-544576bdfae8",
+		"id": "72399f19-8e60-4805-9c6b-9a2322e11dcf",
 		"unreleased": true
 	},
 	{
 		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"id": "d5237892-bfe9-46ef-8d21-3bcb4782d17c",
+		"id": "a73bc87d-4708-401d-ae4e-304c17af52d2",
 		"unreleased": true
 	},
 	{
 		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen, waarbij in elk geval het niveau in termen van het Europees Referentiekader wordt vastgesteld.",
-		"id": "96665e0c-9bb4-41a5-bfbb-31a42a5e320f",
+		"id": "21ed3ced-d120-4466-bccd-35cae93f483a",
 		"unreleased": true
 	},
 	{
 		"title": "Het schoolexamen heeft betrekking op:",
-		"id": "b90a55b2-8efd-41fe-addf-c7e89c08db41",
+		"id": "2205ee3c-97d1-4e35-a4bf-b96dbc63b384",
 		"unreleased": true
 	},
 	{
 		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"id": "dbaacb0b-2d5b-4494-823c-7e5657e2a256",
+		"id": "efec0c27-543d-4198-847f-1cea3f9905a7",
 		"unreleased": true
 	},
 	{
 		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"id": "65a260ff-e95f-4d7f-8374-b94e4e5c20c0",
+		"id": "c9e585d1-46e8-488c-9bec-1ddf9922df6c",
 		"unreleased": true
 	},
 	{
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"id": "4c6a53b2-6245-43ec-8d50-6a4085d9aaa4",
+		"id": "65e79343-3713-4320-a944-4169deb08add",
 		"unreleased": true
 	}
 ]
