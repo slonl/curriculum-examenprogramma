@@ -4138,5 +4138,85 @@
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
 		],
 		"ce_se": "SE"
+	},
+	{
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
+		"id": "27f5f831-0553-476b-8bb4-fa86f6f09c9c",
+		"unreleased": true
+	},
+	{
+		"title": "Domein A Vaardigheden",
+		"id": "b8dc3210-b688-4c89-9c64-e51b6d2c1fef",
+		"unreleased": true
+	},
+	{
+		"title": "Domein B Concept Schaarste",
+		"id": "a12fe264-7797-432b-a7ea-7455da69fc60",
+		"unreleased": true
+	},
+	{
+		"title": "Domein C Concept Ruil",
+		"id": "925b6556-6147-43df-92ec-bac150c71333",
+		"unreleased": true
+	},
+	{
+		"title": "Domein D Concept Markt",
+		"id": "9199a2c6-452e-465a-add5-fe4b0f91fe0f",
+		"unreleased": true
+	},
+	{
+		"title": "Domein E Concept Ruilen over de tijd",
+		"id": "a39ef510-b6bd-417c-98fe-be1bba25057b",
+		"unreleased": true
+	},
+	{
+		"title": "Domein F Concept Samenwerken en onderhandelen",
+		"id": "ec98f308-b01e-41aa-9683-e903c8368431",
+		"unreleased": true
+	},
+	{
+		"title": "Domein G Concept Risico en informatie",
+		"id": "3c328941-8eeb-46ac-9021-b3cc8f96d9d6",
+		"unreleased": true
+	},
+	{
+		"title": "Domein H Concept Welvaart en groei",
+		"id": "b6be25f3-fb80-4d55-b76a-cdaea3009bda",
+		"unreleased": true
+	},
+	{
+		"title": "Domein I Concept Goede tijden, slechte tijden",
+		"id": "efa5f2cf-75ac-4dc8-84ad-d2f2f5500f6d",
+		"unreleased": true
+	},
+	{
+		"title": "Domein J Onderzoek en experiment",
+		"id": "72d76a5e-52fa-4e76-84b1-4b50bef2558f",
+		"unreleased": true
+	},
+	{
+		"title": "Domein K Keuzeonderwerpen",
+		"id": "eb54d019-e5d2-4cec-88ae-08275e0d218b",
+		"unreleased": true
+	},
+	{
+		"title": "Het centraal examen heeft betrekking op de domeinen D, E, F, G, H, I, in combinatie met domein A.",
+		"id": "d540e800-b6f6-4d15-9a4b-428162839910",
+		"unreleased": true
+	},
+	{
+		"title": "Het schoolexamen heeft betrekking op domein B, C, J en K, in combinatie met domein A en:",
+		"id": "c4b74494-e116-496f-8307-88ba541dc7d7",
+		"unreleased": true
+	},
+	{
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
+		"id": "b66ecf60-e9d8-41a3-881d-78ab8c800575",
+		"unreleased": true
+	},
+	{
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"id": "00777f0e-f4f5-4755-8c2a-10c8bd807c76",
+		"unreleased": true
 	}
 ]
