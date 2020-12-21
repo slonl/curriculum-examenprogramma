@@ -6534,5 +6534,114 @@
 		"id": "d070f49b-5929-41b3-b9c7-7d8d06b0de67",
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "Domein A Vaardigheden",
+		"id": "e5ada5c6-678e-4472-9bef-5dd92e998783",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"9ba33f47-c9b5-4eeb-8762-558274ea3bb3"
+		],
+		"title": "Domein B Concept schaarste",
+		"id": "60423bf4-423a-4da8-a405-57e7052b6bdd",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"38152c78-8d78-46ec-af54-3621abd4ddef",
+			"622d849b-7d36-42de-a872-8753da42902f"
+		],
+		"title": "Domein C Concept ruil",
+		"id": "6b0b176f-f0f9-498a-9181-70568cf456d6",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8",
+			"24b77886-45fa-41d0-982d-1e1ae9dfbdec",
+			"f641c15c-a416-49c2-84eb-b3f0c40c3efc"
+		],
+		"title": "Domein D Concept markt",
+		"id": "6a88db07-690c-4c47-83c1-fd760900fbe9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493",
+			"0b53e93b-a54b-4188-aa4b-0cd2fed6ef0d"
+		],
+		"title": "Domein E Concept ruilen over de tijd",
+		"id": "f3e4b98a-b6b9-492f-bc2c-902ad33bdcd5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917",
+			"998da70f-f354-4fe8-b1ed-0a2dc90fc9bb"
+		],
+		"title": "Domein F Concept samenwerken en onderhandelen",
+		"id": "f4eeea68-5c56-4edb-bebb-06e5dfe8b3fc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0",
+			"d3dd771d-faa0-4c0a-9550-5af3bf915975"
+		],
+		"title": "Domein G Concept risico en informatie",
+		"id": "87846547-0357-4076-bcfa-edd9567472c8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2",
+			"41c8a69e-3d50-4417-a0c9-9a99a9a399a1"
+		],
+		"title": "Domein H Concept welvaart en groei",
+		"id": "6803f13b-88d0-4da6-8cb3-e24695ee81ea",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039",
+			"27da1419-7ee6-4e5e-ad78-15f07b790852"
+		],
+		"title": "Domein I Concept goede tijden, slechte tijden",
+		"id": "5075bbd7-4756-4d6f-b763-e3ecc5c70d59",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"02ae4d13-a7fd-4dd3-b750-a2c479a328a2",
+			"939f1c3a-bbd4-4553-8551-26de786508e9"
+		],
+		"title": "Domein J Onderzoek en experiment",
+		"id": "8732b8eb-2647-4558-aa32-f4bbea65383a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"e996e469-b360-4de4-abf6-43ef13127671",
+			"637892ce-63d8-4857-977d-1958ca7f5ece"
+		],
+		"title": "Domein K Keuzeonderwerpen",
+		"id": "16ed878f-47fc-46e7-9ecb-efa93db31ee6",
+		"unreleased": true
 	}
 ]
