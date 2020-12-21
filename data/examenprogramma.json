@@ -2094,23 +2094,23 @@
 	},
 	{
 		"examenprogramma_domein_id": [
-			"4ac1cd87-b64e-44a1-b15e-dbafb5a49a71",
-			"4f26d9fb-1942-41ce-88a5-bfcbf180e917",
-			"0b83d35f-8738-42c8-b4d7-5ef63f6f84e1",
-			"f61a1ee7-6602-49ae-8167-56ae6990ea30",
-			"ca5ad5f6-44cf-4aad-94af-a8172a10fb05",
-			"1e48c39b-5799-4fd9-88c4-64f0e1b0422b"
+			"22aa5606-9f7a-489c-a761-c9c589514c57",
+			"b66ab7a1-085c-4554-ab57-020eb56cf8ab",
+			"011868f8-9c73-4156-8b81-7b6181bafc79",
+			"7b543eb0-e2e6-479f-bc06-97ae397852b8",
+			"c2a479d5-b18d-4423-9343-71ae519bda61",
+			"825dd3a5-beff-4d90-8c5f-e6aa55ec9ff7"
 		],
 		"examenprogramma_vakleergebied_id": [
 			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
 		],
 		"examenprogramma_kop1_id": [
-			"23e46d3c-17b7-4f09-8ad4-729a023bd432",
-			"b8fd967e-2a29-4f33-be9b-de8eb82115c3",
-			"f00dcb6a-4a7c-41f0-80ae-198f92f19880"
+			"94eb621b-74a3-4c61-9ae8-1f7310d0024c",
+			"17daf55b-089f-497e-8266-4b17008a0a13",
+			"192588c9-6cd8-4f92-b7cf-5654931fcbb4"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits havo",
-		"id": "343b60e9-8d52-449a-9f3a-150b0564e037",
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits vwo",
+		"id": "b318368e-baad-4b5c-b146-bdb589e44beb",
 		"unreleased": true
 	}
 ]
