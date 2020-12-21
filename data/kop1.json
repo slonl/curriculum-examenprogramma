@@ -1921,5 +1921,34 @@
 		"title": "Het schoolexamen",
 		"id": "6ef0953d-8e97-472d-b099-e885fdfec1a3",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"b82d6acd-e631-4d2c-8748-7c88093ff767",
+			"f0dfa01b-9c8e-4c35-91c2-b930c429764a",
+			"e73cb825-d60e-40be-a76b-472ebb4b77de",
+			"588569c5-0dde-4213-8154-30aa9fd7379f",
+			"e22a28f2-9126-41a0-a622-3803df922f0d",
+			"87548f8c-c73c-4def-bbfb-9d1f569a328a"
+		],
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.\r\nHet examenprogramma bestaat uit de volgende domeinen:",
+		"id": "bc4d5954-8069-494e-99f8-e81ad60e7217",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"c51a021c-1997-4141-b6a3-9ec1f058400d"
+		],
+		"title": "Het centraal examen\r\nHet centraal examen heeft betrekking op domein A.",
+		"id": "3817258a-f30b-44ec-8730-54fc7d9f7615",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"1116bb39-e9f2-4a77-911d-0024ecd14525"
+		],
+		"title": "Het schoolexamen",
+		"id": "cb790dce-ca2d-4967-a55d-77821a1f872f",
+		"unreleased": true
 	}
 ]
