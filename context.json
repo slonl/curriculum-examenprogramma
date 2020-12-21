@@ -103,6 +103,16 @@
 							}
 						}
 					]
+				},
+				"examenprogramma_kop1": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/examenprogramma_kop1"
+							}
+						}
+					]
 				}
 			},
 			"required": ["id", "title", "examenprogramma_domein_id", "examenprogramma_vakleergebied_id"]
