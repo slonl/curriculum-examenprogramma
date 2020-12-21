@@ -1863,5 +1863,34 @@
 		"title": "Het schoolexamen",
 		"id": "24f89f2a-2ace-4680-861d-a546890c5d11",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_kop2_id": [
+			"53d810de-c001-4382-9251-678c22f5342a"
+		],
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
+		"id": "b1ce5a5c-8a52-49df-821f-d5e99b52e245",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"8607e4ec-06ce-4be8-a01b-093b67b7d250",
+			"d57329c5-7738-4929-ab8b-b34a2cbd7ddf",
+			"366fa95c-a0b9-4ae4-a2a8-a7e526bf4612"
+		],
+		"title": "Het centraal examen",
+		"id": "846be9cf-9877-49f5-82a7-126a5b64cfb7",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"7b59b862-e091-4e48-af34-61b98ff045a1",
+			"ea92fdb0-e74f-4de9-83db-d2ae1618b1f3",
+			"50a3b764-796c-4a7c-95a6-9167a169e9a9",
+			"ffa0e1a6-b2f9-49f0-a8fe-7cca370cb1b2"
+		],
+		"title": "Het schoolexamen",
+		"id": "5f414f5e-4f5b-4a5c-b279-75301fe9798b",
+		"unreleased": true
 	}
 ]
