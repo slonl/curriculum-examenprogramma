@@ -2091,5 +2091,26 @@
 		"title": "Examenprogramma economie vwo",
 		"id": "266a32b4-aed8-495f-9e78-da585f8cc370",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"4ac1cd87-b64e-44a1-b15e-dbafb5a49a71",
+			"4f26d9fb-1942-41ce-88a5-bfcbf180e917",
+			"0b83d35f-8738-42c8-b4d7-5ef63f6f84e1",
+			"f61a1ee7-6602-49ae-8167-56ae6990ea30",
+			"ca5ad5f6-44cf-4aad-94af-a8172a10fb05",
+			"1e48c39b-5799-4fd9-88c4-64f0e1b0422b"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
+		],
+		"examenprogramma_kop1_id": [
+			"23e46d3c-17b7-4f09-8ad4-729a023bd432",
+			"b8fd967e-2a29-4f33-be9b-de8eb82115c3",
+			"f00dcb6a-4a7c-41f0-80ae-198f92f19880"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits havo",
+		"id": "343b60e9-8d52-449a-9f3a-150b0564e037",
+		"unreleased": true
 	}
 ]
