@@ -2538,18 +2538,12 @@
 	{
 		"id": "abc570d6-b766-46e0-a684-c99c0f8e4cbf",
 		"title": "Subdomein E2: Literaire begrippen",
-		"examenprogramma_eindterm_id": [
-			"45e6b712-53bc-4396-9a38-5b609c00567f"
-		],
 		"ce_se": "SE",
 		"prefix": "MVT/EN/H/DomeinE/E2"
 	},
 	{
 		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
 		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"examenprogramma_eindterm_id": [
-			"90c8a9bc-4c2a-48a4-a592-34ec8381e600"
-		],
 		"ce_se": "SE"
 	},
 	{
@@ -9832,17 +9826,11 @@
 	{
 		"id": "abc570d6-b766-46e0-a684-c99c0f8e4cbf",
 		"title": "Subdomein E2: Literaire begrippen",
-		"examenprogramma_eindterm_id": [
-			"45e6b712-53bc-4396-9a38-5b609c00567f"
-		],
 		"ce_se": "SE"
 	},
 	{
 		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
 		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"examenprogramma_eindterm_id": [
-			"90c8a9bc-4c2a-48a4-a592-34ec8381e600"
-		],
 		"ce_se": "SE"
 	},
 	{
@@ -14602,5 +14590,52 @@
 		"examenprogramma_eindterm_id": [
 			"4198160b-0f19-4cbc-8897-c8075339333d"
 		]
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"83fac650-856e-47a6-9aa2-c388a97d588e",
+			"b4d2051a-159c-40c0-bf4e-3e49a0ec79fd",
+			"eb49ba34-f25a-4106-845c-c10c23e347af",
+			"6502349d-6c9c-4e9f-87ff-35d049e99678",
+			"0de0faf4-e58c-4ab1-a6a7-fdd5093cd957"
+		],
+		"title": "Subdomein C1: Gesprekken voeren",
+		"id": "dc653d92-d48f-4012-8e69-24977c24d16c",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"6fce40a0-71d1-45de-8586-9055d20f8920"
+		],
+		"title": "Subdomein C2: Spreken",
+		"id": "132a2f2f-f5e2-45ee-9ac5-87d44727ca60",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"9db257ba-b0d8-40c0-96c6-ebb3ae12475b",
+			"4bc06355-27c3-45a0-97cd-42294b243327",
+			"8584f069-1678-4e2f-b0b0-fc03029e5bc0"
+		],
+		"title": "Subdomein D1: Taalvaardigheden",
+		"id": "9a6ffce0-ad23-47f9-ba53-86442920d060",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"73d020c4-316e-40cc-b5bb-f232e4640faf",
+			"be10b977-df19-4d47-9953-8b70a80aff15"
+		],
+		"title": "Subdomein D2: Strategische vaardigheden",
+		"id": "18590563-349f-43a3-9606-2babd85346e4",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"993c73bf-f2bd-46dd-b838-dc8d9937f2ad"
+		],
+		"title": "Subdomein E1: Literaire ontwikkeling",
+		"id": "1a259392-2235-4b7d-a76a-a35da92a628d",
+		"unreleased": true
 	}
 ]
