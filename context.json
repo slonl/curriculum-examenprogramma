@@ -104,7 +104,7 @@
 						}
 					]
 				},
-				"examenprogramma_kop1": {
+				"examenprogramma_kop1_id": {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
 						{
