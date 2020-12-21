@@ -879,15 +879,15 @@
 	},
 	{
 		"examenprogramma_body_id": [
-			"dbc53a87-9e81-4f5a-aeba-43e18779d679",
-			"98d86b35-9ed7-4090-ba9c-4d2cfd315ded",
-			"5d4ca61c-968a-4d2f-8634-668348549500",
-			"9784317a-35e9-4e65-9039-b016ef6cd457",
-			"7ed3632a-f073-454a-a475-a2df2699719e",
-			"e706258b-9543-443f-ae6c-274112f4b232"
+			"f7cbf021-d80b-4f8f-ad81-5774b7d15ad2",
+			"8f4c0a46-76e5-4852-b4c4-c044104a5fb0",
+			"03410290-9af8-4dd5-9967-f5c44a003d41",
+			"4e7e1788-ec8a-4811-822c-7146eb1446b9",
+			"dace21d2-bb37-414f-a6ae-88afc13d593f",
+			"02c7107d-e5c5-445c-84ab-135f00394112"
 		],
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"id": "cf53513f-49de-49fe-9571-45d60d1ac8f2",
+		"id": "8a6c2d45-b150-418b-bceb-25015b890021",
 		"unreleased": true
 	}
 ]
