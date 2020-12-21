@@ -6826,5 +6826,65 @@
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "437b4a6d-d22b-4214-b14b-0ecb6d4fe7a4",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"e58c134d-990a-466c-b41e-7f914294b678",
+			"0d0750a0-09aa-4fc5-910c-98ac64cd02e4",
+			"02494a8e-ff7e-495d-94cb-8555d244e079",
+			"b91396ec-2ffc-4cec-8cbb-01ddd3e76716",
+			"d7d08ac2-f140-4db9-9f8d-82abb246d347"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "fc8c86a6-6b50-4fce-a779-c9ab62e83810",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"4972b065-6df4-4a02-b20a-0b78c76fcb50",
+			"0f0afe20-9db4-432e-8f23-e627ad75fce9",
+			"4d11e748-c678-4e18-affe-667a5ed78dfb",
+			"9b048828-5f4b-4edd-9eeb-492316933914",
+			"95f1002c-b452-43a0-927e-6faafec26953",
+			"1f1e9972-91c1-4b9f-9bbb-9c3ca23d4fe6"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "a4d6924f-7e23-40ef-986c-662c3e1f53fe",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"2636921c-741b-464b-82d4-9d1269817102",
+			"1f2a7a1c-284d-4d49-9044-729bb59981a6"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "69c7b6c0-c0bf-4508-a472-c071753b198a",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"73462611-93ed-42fe-8427-0ec54431907f",
+			"af647557-18d5-458e-9f1b-95fe449fb3dd"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "49fec174-cdb8-4180-afa9-99e40eba860c",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"a2db5d7d-fbfe-4939-8c94-e5cce1fef020"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "8cb19cd4-9a48-49a7-9f73-e49f4d6d94ae",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"64b63358-8038-431f-93b5-08d9194e21f8"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "ec09b254-a8bc-437d-ae26-67308e6dc600",
+		"unreleased": true
 	}
 ]
