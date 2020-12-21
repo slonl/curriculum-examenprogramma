@@ -1776,5 +1776,34 @@
 			"d70e8e03-7e2c-4fae-ba4a-6be2435c6002"
 		],
 		"ce_se": "SE"
+	},
+	{
+		"examenprogramma_kop2_id": [
+			"f6008817-301d-46fd-90bd-2b6aca8a2901"
+		],
+		"examenprogramma_body_id": [
+			"27f5f831-0553-476b-8bb4-fa86f6f09c9c"
+		],
+		"title": "Het eindexamen",
+		"id": "676a4168-512e-4fca-a6dd-02ad293b9f99",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"d540e800-b6f6-4d15-9a4b-428162839910"
+		],
+		"title": "Het centraal examen:",
+		"id": "619afb92-7be3-47ba-887c-285b09f51e65",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"c4b74494-e116-496f-8307-88ba541dc7d7",
+			"b66ecf60-e9d8-41a3-881d-78ab8c800575",
+			"00777f0e-f4f5-4755-8c2a-10c8bd807c76"
+		],
+		"title": "Het schoolexamen:",
+		"id": "3ec0b2e3-b784-4f25-9a6e-505ff660f3a0",
+		"unreleased": true
 	}
 ]
