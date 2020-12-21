@@ -2154,5 +2154,26 @@
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Frans vwo",
 		"id": "11600baa-9848-4403-8fbd-a552a4b4fee8",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"fc8c86a6-6b50-4fce-a779-c9ab62e83810",
+			"a4d6924f-7e23-40ef-986c-662c3e1f53fe",
+			"69c7b6c0-c0bf-4508-a472-c071753b198a",
+			"49fec174-cdb8-4180-afa9-99e40eba860c",
+			"8cb19cd4-9a48-49a7-9f73-e49f4d6d94ae",
+			"ec09b254-a8bc-437d-ae26-67308e6dc600"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
+		],
+		"examenprogramma_kop1_id": [
+			"41458445-81df-49dd-af1d-b53a1bbc1424",
+			"d83e21f0-ca9c-47eb-9cc0-238929f25747",
+			"6ef0953d-8e97-472d-b099-e885fdfec1a3"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits havo",
+		"id": "e89be7de-fc4c-450c-9cda-5ca1b24ae813",
+		"unreleased": true
 	}
 ]
