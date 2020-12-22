@@ -1588,10 +1588,11 @@
 	},
 	{
 		"id": "64429207-fb1d-48c5-b360-00f6ee81f0b7",
-		"title": "Het centraal examen heeft betrekking op de domeinen B, C en F, in combinatie met domein A.",
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2 en B3, C, D en E, in combinatie met domein A.",
 		"tag_id": [
 			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		],
+		"prefix": ""
 	},
 	{
 		"id": "9fa50409-6dff-467d-9682-beb66aa59e17",
@@ -1609,10 +1610,11 @@
 	},
 	{
 		"id": "d682eaaa-7863-4415-b4a7-404452d7f149",
-		"title": "Het schoolexamen heeft betrekking op twee van de domeinen D, E, G en H;",
+		"title": "Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F en G, in combinatie met Domein A en",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		],
+		"prefix": ""
 	},
 	{
 		"id": "ed9cb5a7-9c91-48d7-99b9-1d288f4d3e99",
