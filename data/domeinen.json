@@ -2138,14 +2138,15 @@
 	{
 		"prefix": "MAW/V/DomeinB",
 		"id": "f3d25f6e-8239-4575-9e3f-ed7a8d7a8cae",
-		"title": "Domein B: Politieke besluitvorming",
+		"title": "Domein B: Vorming (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
 			"ab7c8e53-1963-42a5-a2b3-4fb1b9b38858",
 			"41f1624e-f04a-4b65-a3a6-06d60ca42f33",
 			"43124154-3cb2-4821-a8a1-f2e03fa1814d",
 			"56e69f31-21d9-441f-9d11-2895c90b8a0f"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/V/DomeinC",
