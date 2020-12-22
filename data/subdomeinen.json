@@ -2934,64 +2934,75 @@
 		"id": "925f09fa-fed5-4fc1-9e53-ace39ecb999c",
 		"title": "Subdomein A1: Informatievaardigheden",
 		"examenprogramma_eindterm_id": [
-			"e6a635bd-9606-4a44-81f7-7c98d6f2a6c0",
 			"a18abb3d-3d4f-4c57-9f1a-499f94c99ea9",
 			"c8eea64f-d819-4f7e-b4b6-e375c3da074a",
-			"57fb8ed4-c090-47b7-b6b4-e21a95be4f98",
-			"2c74b74e-9a54-4532-8da2-8125a99af100"
+			"57fb8ed4-c090-47b7-b6b4-e21a95be4f98"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"dirty": "1"
 	},
 	{
 		"id": "8589f4d6-6257-4bec-9ce8-fb80ef3cc186",
-		"title": "Subdomein A2: Onderzoeksvaardigheden",
+		"title": "Subdomein A2: Concept-contextbenadering",
 		"examenprogramma_eindterm_id": [
 			"82dbe5c4-0df9-4404-8b33-e0e915c68196"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A2",
+		"dirty": "1"
 	},
 	{
 		"id": "c8ed89fa-6adf-40af-9634-5a1d1e046400",
-		"title": "Subdomein A3: Benaderingswijzen",
+		"title": "Subdomein A3: Onderzoeksvaardigheden",
 		"examenprogramma_eindterm_id": [
 			"df6f70f0-08e8-4a3b-b065-e870acc517d1",
 			"b9366940-b0a4-48d5-98ad-962bdf1b5656",
-			"89b85b56-90ab-4c3b-9d4d-c8a18dbb2baa",
-			"b034c19c-fd46-4dc3-9176-c3b5ab04c6b1"
+			"89b85b56-90ab-4c3b-9d4d-c8a18dbb2baa"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A3",
+		"dirty": "1"
 	},
 	{
 		"id": "ab7c8e53-1963-42a5-a2b3-4fb1b9b38858",
-		"title": "Subdomein B1: Politieke structuren",
+		"title": "Subdomein B1: Socialisatie",
 		"examenprogramma_eindterm_id": [
 			"1b6f275c-2b4c-47d7-a5a5-f0c475613b2c"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1",
+		"dirty": "1"
 	},
 	{
 		"id": "41f1624e-f04a-4b65-a3a6-06d60ca42f33",
-		"title": "Subdomein B2: Actoren in het proces van politieke besluitvorming",
+		"title": "Subdomein B2: Politieke socialisatie",
 		"examenprogramma_eindterm_id": [
 			"b13dc006-cda0-4d8f-b90e-1955c6888a30"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2",
+		"dirty": "1"
 	},
 	{
 		"id": "43124154-3cb2-4821-a8a1-f2e03fa1814d",
-		"title": "Subdomein B3: Politieke cultuur en politieke stromingen",
+		"title": "Subdomein B3: Visies vanuit paradigma's op socialisatie en politieke socialisatie",
 		"examenprogramma_eindterm_id": [
 			"c60e54ee-ec15-4c4a-a0f7-d6fdeec6dfcd"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B3",
+		"dirty": "1"
 	},
 	{
 		"id": "56e69f31-21d9-441f-9d11-2895c90b8a0f",
-		"title": "Subdomein B4:  Internationale betrekkingen",
+		"title": "Subdomein B4: Socialisatie binnen een specifieke context",
 		"examenprogramma_eindterm_id": [
 			"5fdb7287-3487-4ebc-83ee-392809b8775d"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B4",
+		"dirty": "1"
 	},
 	{
 		"id": "7a9bd011-97e0-44c1-88cd-5689d894e0a3",
