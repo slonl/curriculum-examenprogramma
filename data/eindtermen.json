@@ -22531,5 +22531,85 @@
 		"title": "n.v.t.",
 		"id": "e2d0f277-89dd-4a3b-a3d6-b953f9d2935a",
 		"unreleased": true
+	},
+	{
+		"id": "d0a88faa-0911-4678-8804-0f5679b71f63",
+		"title": "De kandidaat kan denkvaardigheden toepassen op de hoofdconcepten vorming, verhouding, binding en verandering en kernconepten sociale cohesie, sociale institutie, groepsvorming, cultuut, socialisatie/acculturatie, identiteit, sociale gelijkheid/ongelijkheid, rationalisering, individualisering, institutionalisering, politieke institutie, representatie/representativiteit, politieke socialisatie, ideologie, macht/gezag, conflict/samenwerking, democratisering, globalisering en staatsvorming",
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"dirty": "1",
+		"prefix": "MAW/V/DomeinA/A2/2a",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "ca9dd9a9-5054-41fd-9159-3477af764760",
+		"dirty": "1",
+		"title": "De kandidaat kan denkvaardigheden toepassen op contexten, daarbij gebruik makend van hoofd- en kernconcepten. Het betreft zowel de in de domeinen beschrijven contexten als andere contexten",
+		"description": "",
+		"prefix": "MAW/V/DomeinA/A2/2b",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "eaf9bc40-2483-4104-8bd0-9fbcf454f3a4",
+		"title": "De kandidaat kan verbanden leggen tussen en binnen de in de domeinen beschreven contexten met behulp van hoofd- en kernconcepten",
+		"description": "",
+		"prefix": "MAW/V/DomeinA/A2/2c",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "913e5581-866c-4371-9cb1-12b6eca48f7f",
+		"title": "De kandidaat kan verbanden leggen tussen en binnen andere contexten me behulp van hoofd- en kernconcepten",
+		"description": "",
+		"prefix": "MAW/V/DomeinA/A2/2d",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "0ff42838-ca02-43d1-8996-819274ec7b1c",
+		"title": "De kandidaat kan de sociaalwetenschappelijke paradigma's functionalisme-paradigma, conflict-paradigma, sociaalconstructivisme-paradigma en rationele actor-paradigma betreffende de hoofd- en kernconcepten onderscheiden en deze sociaal wetenschappelijke paradigma's herkennen in visies op maatschappelijke verschijnselen en ontwikkelingen",
+		"description": "",
+		"prefix": "MAW/V/DomeinA/A2/2e",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "6b2793c4-9473-41a9-9881-75aa4236698b",
+		"title": "De kandidaat kan weergeven op welke wijze de overheid invloed tracht uit te oefenen op het proces van (politieke) socialisatie. Hij kan tevens afleiden welke opvattingen aanhangers van politieke stromingen hebben over de rol van de overheid binnen een specifieke context.",
+		"description": "",
+		"prefix": "MAW/V/DomeinB/B5/8",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	}
 ]
