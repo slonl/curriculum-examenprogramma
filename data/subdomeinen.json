@@ -14887,5 +14887,10 @@
 		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"id": "1d8cd2f9-0646-42f8-9c3f-37f2fc3b5cfb",
 		"unreleased": true
+	},
+	{
+		"id": "ad10d1ee-d312-4698-b4ed-b33f957a413c",
+		"title": "Overheidsbeleid en standpunten van politieke partijen",
+		"prefix": "MAW/V/DomeinB/B5"
 	}
 ]
