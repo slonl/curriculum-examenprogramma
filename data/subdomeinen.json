@@ -2939,14 +2939,16 @@
 			"57fb8ed4-c090-47b7-b6b4-e21a95be4f98"
 		],
 		"ce_se": "CE; SE",
-		"prefix": "",
-		"dirty": "1"
+		"prefix": "MAW/V/DomeinA/A1"
 	},
 	{
 		"id": "8589f4d6-6257-4bec-9ce8-fb80ef3cc186",
 		"title": "Subdomein A2: Concept-contextbenadering",
 		"examenprogramma_eindterm_id": [
-			"82dbe5c4-0df9-4404-8b33-e0e915c68196"
+			"edde833b-994d-4a2c-a935-386b509c3e31",
+			"f6321009-b1dc-4577-9553-12e1b2a42e2d",
+			"a995e725-d7b4-4256-8085-3ffb15c89f39",
+			"03ff7c0d-080e-48e5-8494-e8b050a37730"
 		],
 		"ce_se": "CE; SE",
 		"prefix": "MAW/V/DomeinA/A2",
@@ -14892,5 +14894,11 @@
 		"id": "ad10d1ee-d312-4698-b4ed-b33f957a413c",
 		"title": "Overheidsbeleid en standpunten van politieke partijen",
 		"prefix": "MAW/V/DomeinB/B5"
+	},
+	{
+		"id": "7089b515-b87b-489f-b441-af10bb20712c",
+		"dirty": "1",
+		"prefix": "MAW/V/DomeinB/B5",
+		"title": "Overheidsbeleid en standpunten van politieke partijen"
 	}
 ]
