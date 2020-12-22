@@ -22611,5 +22611,19 @@
 		"se": 1,
 		"kern": 0,
 		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "0fd61cad-6371-4f02-88b9-244c2941cdfa",
+		"dirty": "1",
+		"prefix": "MAW/V/DomeinA/A2/2e",
+		"title": "De kandidaat kan de sociaalwetenschappelijke paradigma's functionalisme-paradigma, conflict-paradigma, sociaalconstructivisme-paradigma en rationele actor-paradigma betreffende de hoofd- en kernconepten onderscheiden en deze sociaalwetenschappelijke paradigma's herkennen in visies op maatschappelijke verschijnselen en ontwikkelingen.",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	}
 ]
