@@ -6432,27 +6432,48 @@
 	},
 	{
 		"id": "a18abb3d-3d4f-4c57-9f1a-499f94c99ea9",
-		"title": "De kandidaat kan uit bronnenmateriaal over een concreet maatschappelijk vraagstuk, op basis van gegeven of zelf geformuleerde vragen, bruikbare gegevens selecteren.",
+		"title": "De kandidaat kan benodigde informatie verwerven en selecteren uit digitale en niet-digitale bronnen",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A1/1a",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "c8eea64f-d819-4f7e-b4b6-e375c3da074a",
-		"title": "De kandidaat kan (verworven) informatie over een concreet maatschappelijk vraagstuk vanuit gegeven of zelf geformuleerde vragen mede met behulp van ICT verwerken en daaruit beredeneerde conclusies trekken.",
+		"title": "De kandidaat informatie verwerken en daaruit beredeneerde conclusies trekken",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A1/1b",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "57fb8ed4-c090-47b7-b6b4-e21a95be4f98",
-		"title": "De kandidaat kan de resultaten van een leeractiviteit overdragen naar anderen.",
+		"title": "De kandidaat kan de resultaten van een leeractiviteit beschrijven en presenteren",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A1/1c",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "2c74b74e-9a54-4532-8da2-8125a99af100",
@@ -6472,27 +6493,48 @@
 	},
 	{
 		"id": "df6f70f0-08e8-4a3b-b065-e870acc517d1",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: de politiek-juridische benaderingswijze.",
+		"title": "De kandidaat kan gegeven onderzoeksresultaten beoordelen op betrouwbaarheid, validiteit en representativiteit",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A3/3a",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "b9366940-b0a4-48d5-98ad-962bdf1b5656",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: de sociaal-economische benaderingswijze.",
+		"title": "De kandidaat kan een eenvoudig onderzoek opzetten en uitvoeren over een concreet maatschappelijk verschijnsel",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A3/3b",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "89b85b56-90ab-4c3b-9d4d-c8a18dbb2baa",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer:  de sociaal-culturele benaderingswijze.",
+		"title": "De kandidaat kan basiskennis over statistiek toepassen",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A3/3c",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "b034c19c-fd46-4dc3-9176-c3b5ab04c6b1",
@@ -6504,35 +6546,63 @@
 	},
 	{
 		"id": "1b6f275c-2b4c-47d7-a5a5-f0c475613b2c",
-		"title": "De kandidaat kan de structuur van het Nederlandse stelsel van politieke besluitvorming en die van andere stelsels typeren.",
+		"title": "De kandidaat kan ontleden hoe cultuuroverdracht en cultuurverwerving door socialisatie plaatsvinden. Hij kan tevens verbanden tussen persoonlijke identiteit en collectieve identiteit beschrijven en culturen classificeren op basis van verschillende culturele dimensies",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "b13dc006-cda0-4d8f-b90e-1955c6888a30",
-		"title": "De kandidaat kan beleids- en besluitvormingsprocessen analyseren met behulp van diverse modellen van het politieke proces en de rol van diverse actoren in het politieke proces.",
+		"title": "De kandidaat kan beredeneren wanneer er in een gegeven situatie sprake is van politieke socialisatie. Hij kan tevens standpunten classificeren op basis van ideologieën en politieke dimensies",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2/5",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "c60e54ee-ec15-4c4a-a0f7-d6fdeec6dfcd",
-		"title": "De kandidaat kan in discussies over het politieke systeem en over beleidsvraagstukken veranderingen in de politieke cultuur beschrijven, en de belangrijkste politieke stromingen en politieke partijen onderscheiden.",
+		"title": "De kandidaat kan verschillende visies op socialisatie en politieke socialisatie vanuit drie sociaalwetenschappelijke paradigma's onderscheiden",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B3/6",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "5fdb7287-3487-4ebc-83ee-392809b8775d",
-		"title": "De kandidaat kan uitleggen hoe politieke beleids- en besluitvormingsprocessen in Nederland worden beÃ¯nvloed door de politieke, economische en culturele verwevenheid van de internationale samenleving.",
+		"title": "De kandidaat kan in hoofdlijnen maatschappelijke ontwikkelingen beschrijven die van invloed zijn op socialisatieprocessen in een specifieke context en op de rol van socialisatoren daarin. Hij kan tevens conclusies trekken over de veranderde socialisatieprcessen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B4/7",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "07bc1b3a-6c1b-4a95-a53a-7a6c632dbd5f",
