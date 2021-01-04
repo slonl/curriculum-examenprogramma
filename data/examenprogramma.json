@@ -2091,7 +2091,11 @@
 		],
 		"title": "Examenprogramma economie vwo",
 		"id": "266a32b4-aed8-495f-9e78-da585f8cc370",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/vwo",
+		"ingangsdatum": "vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/economie-vwo-en-havo/2021/f=/examenprogramma_economie_havo_vwo_2015.pdf",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
