@@ -6552,7 +6552,8 @@
 		],
 		"title": "Domein B Concept schaarste",
 		"id": "60423bf4-423a-4da8-a405-57e7052b6bdd",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinB"
 	},
 	{
 		"ce_se": "SE",
@@ -6562,7 +6563,8 @@
 		],
 		"title": "Domein C Concept ruil",
 		"id": "6b0b176f-f0f9-498a-9181-70568cf456d6",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinC"
 	},
 	{
 		"ce_se": "CE",
@@ -6573,7 +6575,8 @@
 		],
 		"title": "Domein D Concept markt",
 		"id": "6a88db07-690c-4c47-83c1-fd760900fbe9",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinD"
 	},
 	{
 		"ce_se": "CE",
@@ -6583,7 +6586,8 @@
 		],
 		"title": "Domein E Concept ruilen over de tijd",
 		"id": "f3e4b98a-b6b9-492f-bc2c-902ad33bdcd5",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinE"
 	},
 	{
 		"ce_se": "CE",
@@ -6593,7 +6597,8 @@
 		],
 		"title": "Domein F Concept samenwerken en onderhandelen",
 		"id": "f4eeea68-5c56-4edb-bebb-06e5dfe8b3fc",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinF"
 	},
 	{
 		"ce_se": "CE",
@@ -6603,7 +6608,8 @@
 		],
 		"title": "Domein G Concept risico en informatie",
 		"id": "87846547-0357-4076-bcfa-edd9567472c8",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinG"
 	},
 	{
 		"ce_se": "CE",
@@ -6613,7 +6619,8 @@
 		],
 		"title": "Domein H Concept welvaart en groei",
 		"id": "6803f13b-88d0-4da6-8cb3-e24695ee81ea",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinH"
 	},
 	{
 		"ce_se": "CE",
@@ -6623,7 +6630,8 @@
 		],
 		"title": "Domein I Concept goede tijden, slechte tijden",
 		"id": "5075bbd7-4756-4d6f-b763-e3ecc5c70d59",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinI"
 	},
 	{
 		"ce_se": "SE",
@@ -6633,7 +6641,8 @@
 		],
 		"title": "Domein J Onderzoek en experiment",
 		"id": "8732b8eb-2647-4558-aa32-f4bbea65383a",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinJ"
 	},
 	{
 		"ce_se": "SE",
@@ -6643,7 +6652,8 @@
 		],
 		"title": "Domein K Keuzeonderwerpen",
 		"id": "16ed878f-47fc-46e7-9ecb-efa93db31ee6",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinK"
 	},
 	{
 		"examenprogramma_eindterm_id": [
