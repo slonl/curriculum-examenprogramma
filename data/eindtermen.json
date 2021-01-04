@@ -21200,7 +21200,13 @@
 		],
 		"title": "De kandidaat kan economische concepten herkennen en toepassen in uiteenlopende contexten",
 		"id": "92dca5d6-2612-4eed-9a02-38b3891e6f13",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinA/1",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -21209,7 +21215,13 @@
 		],
 		"title": "De kandidaat kan in contexten analyseren dat beperkte middelen en ongelimiteerde behoeften dwingen tot het maken van keuzes.",
 		"id": "9ba33f47-c9b5-4eeb-8762-558274ea3bb3",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinB/2",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -21218,7 +21230,13 @@
 		],
 		"title": "De kandidaat kan in contexten analyseren dat het ruilproces de basis vormt voor een optimale inzet van middelen en een optimale benutting van comparatieve voordelen.",
 		"id": "38152c78-8d78-46ec-af54-3621abd4ddef",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinC/3a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -21227,7 +21245,13 @@
 		],
 		"title": "Voorts kan de kandidaat analyseren dat ruil arbeidsdeling mogelijk maakt en op welke manier geld het ruilproces soepeler laat verlopen.",
 		"id": "622d849b-7d36-42de-a872-8753da42902f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinC/3b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21236,7 +21260,13 @@
 		],
 		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt.",
 		"id": "43e728ef-8ce1-4d08-9416-4e7b0d1053b8",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinD/4a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21245,7 +21275,13 @@
 		],
 		"title": "Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd.",
 		"id": "24b77886-45fa-41d0-982d-1e1ae9dfbdec",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinD/4b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21254,7 +21290,13 @@
 		],
 		"title": "De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.",
 		"id": "f641c15c-a416-49c2-84eb-b3f0c40c3efc",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinD/4c",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21263,7 +21305,13 @@
 		],
 		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd.",
 		"id": "9844212a-ea9c-474f-beaa-f3783d902493",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinE/5a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21272,7 +21320,13 @@
 		],
 		"title": "De prijs die deze intertemporele ruil coördineert is de rente.",
 		"id": "0b53e93b-a54b-4188-aa4b-0cd2fed6ef0d",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/Domein/5b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21281,7 +21335,13 @@
 		],
 		"title": "De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties.",
 		"id": "280d0d3b-ed14-47ac-84d7-0c2660806917",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinF/6a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21290,7 +21350,13 @@
 		],
 		"title": "Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
 		"id": "998da70f-f354-4fe8-b1ed-0a2dc90fc9bb",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinF/4b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21299,7 +21365,13 @@
 		],
 		"title": "De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen.",
 		"id": "fd86ce4e-7391-4220-b918-43554cc459f0",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinG/7a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21308,7 +21380,13 @@
 		],
 		"title": "Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
 		"id": "d3dd771d-faa0-4c0a-9550-5af3bf915975",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinG/7b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21317,7 +21395,13 @@
 		],
 		"title": "De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart.",
 		"id": "3cd1c168-a60c-4fc2-95f0-90d7d9aedde2",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinH/8a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21326,7 +21410,13 @@
 		],
 		"title": "Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
 		"id": "41c8a69e-3d50-4417-a0c9-9a99a9a399a1",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinH/8b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21335,7 +21425,13 @@
 		],
 		"title": "De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid.",
 		"id": "0716b0d7-cff5-4e17-b29a-c739fe323039",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinI/9a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -21344,7 +21440,13 @@
 		],
 		"title": "Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten",
 		"id": "27da1419-7ee6-4e5e-ad78-15f07b790852",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinI/9b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -21353,7 +21455,13 @@
 		],
 		"title": "De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht.",
 		"id": "02ae4d13-a7fd-4dd3-b750-a2c479a328a2",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinJ/10a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -21362,16 +21470,28 @@
 		],
 		"title": "De kandidaat kan analyseren welke grenzen aan de verklaringskracht van theoretische concepten gesteld kunnen worden.",
 		"id": "939f1c3a-bbd4-4553-8551-26de786508e9",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinJ/10b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs\r\nanalyseren.",
+		"title": "De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs analyseren.",
 		"id": "e996e469-b360-4de4-abf6-43ef13127671",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinK/11a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -21380,7 +21500,13 @@
 		],
 		"title": "De kandidaat kiest ten minste twee keuzeonderwerpen om deze analyse uit te voeren",
 		"id": "637892ce-63d8-4857-977d-1958ca7f5ece",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "EC/V/DomeinK/11b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
