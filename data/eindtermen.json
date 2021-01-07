@@ -10531,12 +10531,17 @@
 	{
 		"id": "f2754d70-ceb1-4574-88cc-c67686facc63",
 		"prefix": "1.",
-		"title": "De kandidaat heeft inzicht in de plaats en mogelijkheden van ICT en informatica in de sectoren Zorg & Welzijn, Handel & Administratie, Techniek, Groen en Creatieve Industrie (of informatie- en communicatietechnologie) zelf.",
+		"title": "De kandidaat heeft inzicht in de plaats en mogelijkheden van ICT en informatica in de verschillende sectoren van de arbeidsmarkt.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "fdf50966-f1a9-4303-9714-29e87e241f39",
