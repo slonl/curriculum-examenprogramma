@@ -2201,5 +2201,26 @@
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Engels vwo",
 		"id": "585c656d-6e1a-48ef-a165-0a38ce28ca80",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"7c79a13c-2ef3-4a6d-90e4-2479adb761c2",
+			"d1e7530a-541a-4161-9778-f340144aec2b",
+			"bb58304a-83a3-4376-bed6-fd43178394be",
+			"ad81b3f9-0b24-4a56-9968-c8a3c160f495",
+			"4c8fdc16-8515-4895-a638-6cb00282bd24",
+			"35f3b379-3280-4f0b-a0cc-526289f2602d"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
+		],
+		"examenprogramma_kop1_id": [
+			"4da0e8c0-cd24-4d57-9cad-46794862bc0a",
+			"9edbcc87-4cc5-495a-9aa3-9370c234b34b",
+			"780b8aab-889d-4a7c-8462-63f579de42b5"
+		],
+		"title": "Examenprogramma Nederlandse taal en literatuur vwo",
+		"id": "ce6c5669-3f94-4517-9346-9017e24bf0f1",
+		"unreleased": true
 	}
 ]
