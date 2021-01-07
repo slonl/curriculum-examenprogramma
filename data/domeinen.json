@@ -6969,7 +6969,8 @@
 		],
 		"title": "Domein A: Leesvaardigheid",
 		"id": "7c79a13c-2ef3-4a6d-90e4-2479adb761c2",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "NE/V/DomeinA"
 	},
 	{
 		"examenprogramma_eindterm_id": [
@@ -6979,7 +6980,8 @@
 		],
 		"title": "Domein B: Mondelinge taalvaardigheid",
 		"id": "d1e7530a-541a-4161-9778-f340144aec2b",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "NE/V/DomeinB"
 	},
 	{
 		"examenprogramma_eindterm_id": [
@@ -6989,7 +6991,8 @@
 		],
 		"title": "Domein C: Schrijfvaardigheid",
 		"id": "bb58304a-83a3-4376-bed6-fd43178394be",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "NE/V/DomeinC"
 	},
 	{
 		"examenprogramma_eindterm_id": [
@@ -6999,7 +7002,8 @@
 		],
 		"title": "Domein D: Argumentatieve vaardigheden",
 		"id": "ad81b3f9-0b24-4a56-9968-c8a3c160f495",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "NE/V/DomeinD"
 	},
 	{
 		"examenprogramma_subdomein_id": [
@@ -7009,7 +7013,8 @@
 		],
 		"title": "Domein E: Literatuur",
 		"id": "4c8fdc16-8515-4895-a638-6cb00282bd24",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "NE/V/DomeinE"
 	},
 	{
 		"examenprogramma_eindterm_id": [
@@ -7017,6 +7022,7 @@
 		],
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "35f3b379-3280-4f0b-a0cc-526289f2602d",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "NE/V/DomeinF"
 	}
 ]
