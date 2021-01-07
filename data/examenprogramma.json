@@ -2221,6 +2221,10 @@
 		],
 		"title": "Examenprogramma Nederlandse taal en literatuur vwo",
 		"id": "ce6c5669-3f94-4517-9346-9017e24bf0f1",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "NE/vwo",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	}
 ]
