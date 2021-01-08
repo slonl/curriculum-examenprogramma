@@ -2226,5 +2226,26 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": ""
+	},
+	{
+		"examenprogramma_domein_id": [
+			"9ab753d9-be16-424e-b0d1-fc4f407a5421",
+			"5b13307a-5d3a-4be6-8db1-757ade8e90f3",
+			"7ee1dcdf-3ba2-4aee-981b-029df8dc880f",
+			"ab03df83-98de-4d58-8269-d65a9bb43e4f",
+			"db786019-0499-4b75-9b65-aae13c56cf8a",
+			"0e1b17c4-3aad-4a3d-9f2d-39564c94b64d"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"180c82c1-6805-4bc3-811e-e102e8ed7835"
+		],
+		"examenprogramma_kop1_id": [
+			"e3dd88f5-422f-40e8-8aef-1ed803766a31",
+			"ebd76550-99a2-4594-a3ec-0e95f641edfa",
+			"c7003a2a-ecbb-4cfc-940d-cf5c05a3a322"
+		],
+		"title": "Examenprogramma Friese taal en cultuur havo/vwo",
+		"id": "f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc",
+		"unreleased": true
 	}
 ]
