@@ -2143,7 +2143,8 @@
 			"ab7c8e53-1963-42a5-a2b3-4fb1b9b38858",
 			"41f1624e-f04a-4b65-a3a6-06d60ca42f33",
 			"43124154-3cb2-4821-a8a1-f2e03fa1814d",
-			"56e69f31-21d9-441f-9d11-2895c90b8a0f"
+			"56e69f31-21d9-441f-9d11-2895c90b8a0f",
+			"59c29633-b935-48ab-b840-b6a480aa8b4f"
 		],
 		"ce_se": "CE",
 		"dirty": "1"
@@ -2159,59 +2160,58 @@
 			"0aaa5efa-a81b-47e0-9f0d-fe2ee7f56f1b",
 			"982685ed-ae23-44f1-b6d8-c7de8bf18665"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/V/DomeinD",
 		"id": "8591a1e2-0c91-4b0c-8e07-35d10c652b3f",
-		"title": "Domein D: Multiculturele samenleving",
+		"title": "Domein D: Binding (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
 			"3b4bcc6b-8bed-4eaa-979c-3935e1b55302",
 			"958b8c8d-a368-49c9-91b7-82cedde6c101",
 			"89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3",
 			"d718e7e1-2cb0-4e52-9e44-967ec9db7eb4"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/V/DomeinE",
 		"id": "6760aaf1-7609-40a4-91be-a63bac9779bb",
-		"title": "Domein E: Mens en werk",
+		"title": "Domein E: Verandering (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
 			"98e55553-55ed-485f-9724-5d0ce30b42e1",
 			"c250a4d1-73c7-49cb-9d1b-5ff458c6eae1",
 			"1d37b9ba-ae5a-48d5-a668-eb32e89916b5",
-			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b",
-			"57c0a818-acfa-484e-baef-b42dedfb357f",
-			"1c1445f8-b15e-41d1-bdc9-1175e1246d86"
+			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/V/DomeinF",
 		"id": "eda307f3-d4e2-444c-b0e4-783eb3214409",
-		"title": "Domein F: Criminaliteit en rechtsstaat",
+		"title": "Domein F: Analyse van/onderzoek doen naar een sociale actualiteit",
 		"examenprogramma_subdomein_id": [
 			"76ad6d16-aee9-4894-8363-85d191a3f15f",
-			"cfff0210-7843-46d5-8278-967559cd89e3",
-			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
-			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
-			"b5df6539-8ad3-4efd-9d2a-8147b26ca86a"
+			"cfff0210-7843-46d5-8278-967559cd89e3"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/V/DomeinG",
 		"id": "0791bcec-963e-43d7-b342-c8067b0e702f",
-		"title": "Domein G: Milieu en beleid",
+		"title": "Domein G: Analyse van/onderzoek doen naar een politieke actualiteit (binnen een specifieke context) ",
 		"examenprogramma_subdomein_id": [
 			"c640655b-68e9-4ae7-816f-fee79967bf78",
 			"9c23257e-e6e5-4c1e-a668-02e56b926776",
 			"bfbb0ab9-cedf-406f-90d6-89b6259def94",
-			"f727d685-96f3-49df-8b4b-4cd011138ea7",
-			"b52d219f-d26f-40fe-8559-e93ebfbbf312"
+			"f727d685-96f3-49df-8b4b-4cd011138ea7"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/V/DomeinH",
