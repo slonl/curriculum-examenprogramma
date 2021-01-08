@@ -29863,5 +29863,87 @@
 		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"id": "4b7a1c3c-797d-448d-9429-a21b5312efbf",
 		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"43db27de-69ff-4566-b1bf-9c401ccf85a8",
+			"da545d85-b169-46f5-9b62-db7d999638c4",
+			"371470a2-99fe-452a-b759-56734452f87b",
+			"fe55c2f7-696e-46b8-86aa-522c39794a08"
+		],
+		"title": "Subdomein B1: Luistervaardigheid",
+		"id": "c080e2e9-5d24-4e34-9c1b-6d7396b2df0c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"a9196777-d9d9-4276-83c5-9ac09b6217fb"
+		],
+		"title": "Subdomein B2: Spreekvaardigheid",
+		"id": "a4736af6-78d2-45c2-b4a0-4e4ec3f09fed",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"30c3bc67-5b90-4ddd-827b-ca7b91ca8592",
+			"e0d71cac-ffd5-4ec1-82c4-7d4c434bb72c"
+		],
+		"title": "Subdomein B3: Gespreksvaardigheid",
+		"id": "6cceb60d-6376-46c7-841f-e868712c1f97",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"c51fb23a-d406-488c-94e6-b5dc6a12af65",
+			"5ebe7a96-a3f0-48a2-a206-43452debae71"
+		],
+		"title": "Subdomein D1: Literaire ontwikkeling",
+		"id": "c045f6f5-c9b4-49de-9e68-81040cbcc1dc",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"05318a68-00d2-4f1c-969d-e9ff4c54f6c5"
+		],
+		"title": "Subdomein D2: Literaire begrippen",
+		"id": "583f9798-f3d2-4990-adcd-839ef54cee74",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"0ce12652-2469-43be-ace8-d39a941539ee"
+		],
+		"title": "Subdomein D3: Literatuurgeschiedenis",
+		"id": "36e937a1-6ea9-4ad3-b0b5-92aa0fcc8d7e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"e4a6d838-0f8a-48f8-b916-ecdcd7c0e5cd",
+			"e1b69f4b-4247-4c27-b082-d31463452c82",
+			"42ab8537-2f01-4822-a3d0-6d04b2f83c7f",
+			"b08921a3-0c01-405a-8db8-bdfff8b6eed9",
+			"80201066-4c8a-4f99-acd5-c02948eb0014"
+		],
+		"title": "Subdomein E1: Friese taal",
+		"id": "0c9352ed-13a0-456e-9c64-048d4918f0c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"4fe5df3b-93c9-4d09-afe4-310590121844",
+			"1be29f4c-74f3-4ab2-b355-ad27e329d264"
+		],
+		"title": "Subdomein E2: Friese cultuur",
+		"id": "28d1eca9-160c-48b6-b0ae-2d6755ec68fb",
+		"unreleased": true
 	}
 ]
