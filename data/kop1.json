@@ -2005,5 +2005,30 @@
 		"title": "Het schoolexamen",
 		"id": "c7003a2a-ecbb-4cfc-940d-cf5c05a3a322",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_kop2_id": [
+			"473bb98b-457b-44d4-940b-84d5c2dab360"
+		],
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
+		"id": "0b30edc8-8dd9-45e0-ba0d-23d591157cfd",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"b36d8e57-6a89-4f63-a91c-1f20ec466e35",
+			"26142f06-4dc5-4595-8146-2dd3477958e5"
+		],
+		"title": "Het centraal examen",
+		"id": "1585f8c2-320c-4886-9792-ba0f1188a381",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"33a350bc-f7d6-463f-925b-832afa523268"
+		],
+		"title": "Het schoolexamen",
+		"id": "56dd759d-ee0b-4a8f-9f1b-b1dd55cd2ef8",
+		"unreleased": true
 	}
 ]
