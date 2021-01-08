@@ -316,5 +316,13 @@
 		"vakleergebied_id": [
 			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
 		]
+	},
+	{
+		"vakleergebied_id": [
+			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
+		],
+		"title": "Friese taal",
+		"id": "180c82c1-6805-4bc3-811e-e102e8ed7835",
+		"unreleased": true
 	}
 ]
