@@ -7036,7 +7036,8 @@
 		],
 		"title": "Domein A: Leesvaardigheid",
 		"id": "9ab753d9-be16-424e-b0d1-fc4f407a5421",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "FR/V/DomeinA"
 	},
 	{
 		"ce_se": "SE",
@@ -7047,7 +7048,8 @@
 		],
 		"title": "Domein B: Mondelinge taalvaardigheid",
 		"id": "5b13307a-5d3a-4be6-8db1-757ade8e90f3",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "FR/V/DomeinB"
 	},
 	{
 		"ce_se": "SE",
@@ -7058,7 +7060,8 @@
 		],
 		"title": "Domein C: Schrijfvaardigheid",
 		"id": "7ee1dcdf-3ba2-4aee-981b-029df8dc880f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "FR/V/DomeinC"
 	},
 	{
 		"ce_se": "SE",
@@ -7069,7 +7072,8 @@
 		],
 		"title": "Domein D: Literatuur",
 		"id": "ab03df83-98de-4d58-8269-d65a9bb43e4f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "FR/V/DomeinD"
 	},
 	{
 		"ce_se": "SE",
@@ -7079,7 +7083,8 @@
 		],
 		"title": "Domein E: Friese taal en cultuur",
 		"id": "db786019-0499-4b75-9b65-aae13c56cf8a",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "FR/V/DomeinE"
 	},
 	{
 		"ce_se": "SE",
@@ -7088,71 +7093,7 @@
 		],
 		"title": "Domein F Oriëntatie op studie en beroep",
 		"id": "0e1b17c4-3aad-4a3d-9f2d-39564c94b64d",
-		"unreleased": true
-	},
-	{
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"303a620d-7d43-4306-9e6a-98248fb3e3e5",
-			"07c7e242-388c-43bb-8aa1-9e5cd597560d",
-			"5bcd27fc-8b83-4834-bf6c-2bb7d9c063ef",
-			"429e0579-c0bb-4a76-ba45-32b2a9f9e710",
-			"8bff6567-984b-4fbb-96cd-d07730ef2f54"
-		],
-		"title": "Domein A: Leesvaardigheid",
-		"id": "1fd805ce-34f5-475b-aac2-1aa09c7a38b5",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"examenprogramma_subdomein_id": [
-			"612a30ba-d2e9-45f9-94cc-0a699a89515d",
-			"fec11807-2bcf-49b4-8cb0-47d59e9f23ae",
-			"bc0a28d1-a101-4310-8406-c5c308456157"
-		],
-		"title": "Domein B: Mondelinge taalvaardigheid",
-		"id": "b9f576ff-f65e-47d0-9ffe-8220b5b26baa",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"4d0a34a0-7985-4059-981f-6f35d8ac7600",
-			"67238886-507a-48ae-99b7-de84de0c3a45",
-			"76ada57a-53f7-4896-aed0-9ffbd634f506"
-		],
-		"title": "Domein C: Schrijfvaardigheid",
-		"id": "26638b0a-e634-43e7-9ca8-15c3c28ab445",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"examenprogramma_subdomein_id": [
-			"08277380-ba63-47c7-af64-1030aec39f20",
-			"bdc50296-71b2-4ca8-81c2-5e3e9b4850db",
-			"4282c57e-8150-4e7a-ba1f-11f9cd954265"
-		],
-		"title": "Domein D: Literatuur",
-		"id": "e4f64b8f-6182-49b9-9199-c09e7a19d09a",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"examenprogramma_subdomein_id": [
-			"4058ebec-1ee3-4b48-9714-8aefe397d056",
-			"f906e326-3fb3-476c-94ec-a220e10b2cbc"
-		],
-		"title": "Domein E: Friese taal en cultuur",
-		"id": "b609ed73-7d2b-4294-80bc-c5e7b1dc632b",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"694a4385-80a8-49ec-884e-d44d38a35b3d"
-		],
-		"title": "Domein F Oriëntatie op studie en beroep",
-		"id": "c14be7f8-1136-4f38-b1c2-539813a9f729",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "FR/V/DomeinF"
 	}
 ]
