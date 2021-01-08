@@ -2247,5 +2247,26 @@
 		"title": "Examenprogramma Friese taal en cultuur havo/vwo",
 		"id": "f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"1fd805ce-34f5-475b-aac2-1aa09c7a38b5",
+			"b9f576ff-f65e-47d0-9ffe-8220b5b26baa",
+			"26638b0a-e634-43e7-9ca8-15c3c28ab445",
+			"e4f64b8f-6182-49b9-9199-c09e7a19d09a",
+			"b609ed73-7d2b-4294-80bc-c5e7b1dc632b",
+			"c14be7f8-1136-4f38-b1c2-539813a9f729"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"5b4b1f9c-a1ae-417b-89e6-04a30221c859"
+		],
+		"examenprogramma_kop1_id": [
+			"0b30edc8-8dd9-45e0-ba0d-23d591157cfd",
+			"1585f8c2-320c-4886-9792-ba0f1188a381",
+			"56dd759d-ee0b-4a8f-9f1b-b1dd55cd2ef8"
+		],
+		"title": "Examenprogramma Friese taal en cultuur havo",
+		"id": "d9b57216-122f-4ac6-a685-cf231714adee",
+		"unreleased": true
 	}
 ]
