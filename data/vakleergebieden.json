@@ -324,5 +324,13 @@
 		"title": "Friese taal",
 		"id": "180c82c1-6805-4bc3-811e-e102e8ed7835",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
+		],
+		"title": "Friese taal",
+		"id": "5b4b1f9c-a1ae-417b-89e6-04a30221c859",
+		"unreleased": true
 	}
 ]
