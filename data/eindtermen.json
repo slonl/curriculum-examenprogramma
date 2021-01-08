@@ -6606,43 +6606,78 @@
 	},
 	{
 		"id": "07bc1b3a-6c1b-4a95-a53a-7a6c632dbd5f",
-		"title": "De kandidaat kan het functioneren van massamedia in de samenleving analyseren.",
+		"title": "De kandidaat kan vanuit wetenschappelijke paradigma’s verklaringen geven voor sociale ongelijkheid tussen staten en binnen een staat. Tevens kan hij beschrijven wat gevolgen van sociale ongelijkheid zijn en kan hij weergeven met welke andere factoren sociale ongelijkheid samenhangt",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C1/9",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "8247a222-17fa-47d4-b616-538d1c0cd746",
-		"title": "De kandidaat kan analyseren welke relatie er bestaat tussen technologische ontwikkelingen en ontwikkelingen op het gebied van de massamedia.",
+		"title": "De kandidaat kan vanuit wetenschappelijke paradigma’s hypothesen formuleren over verschillen in macht en gezag tussen staten en binnen een staat. Ook kan hij wetenschappelijke onderzoeksmethoden onderscheiden, waarmee onderzoekers actoren en hun machtsbronnen in kaart brengen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW?V/DomeinC/C2/10",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "05c79b7a-2a0b-417f-be94-0956e3cd7d9b",
-		"title": "De kandidaat kan uitleggen op welke wijze de overheid in ons land betrokken is bij de massamedia en kan het mediabeleid becommentariÃ«ren.",
+		"title": "De kandidaat kan vanuit wetenschappelijke paradigma’s maatschappelijke en politieke conflicten en samenwerking benoemen, ontleden welke oorzaken eraan ten grondslag liggen op de verschillende niveaus en wat de gevolgen ervan zijn. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C3/11",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "36860af6-c26f-42a4-ac26-2249de46c5cb",
-		"title": "De kandidaat kan de invloed analyseren van economische overwegingen, belangen en ontwikkelingen op de organisatie en de werking van de media en op het media-aanbod.",
+		"title": "De kandidaat kan in hoofdlijnen aangeven hoe machtsverhoudingen veranderen, wat daarvan de gevolgen zijn en hoe ze kunnen leiden tot vormen van conflict en samenwerking.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C4/12",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "0517ce76-0a56-482c-ad87-0cc1e93b842b",
-		"title": "De kandidaat kan de invloed analyseren van sociaal-culturele ontwikkelingen en centrale waarden in de samenleving op de inhoud van het media-aanbod en op de organisatie van de media.",
+		"title": "De kandidaat kan weergeven wat de positie van Nederland is in het internationale krachtenveld en hoe de Nederlandse overheid hierop invloed tracht uit te oefenen. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C5/13",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "84a3dfa0-1532-4f9b-8cfd-19e18c5e1185",
@@ -6654,43 +6689,78 @@
 	},
 	{
 		"id": "8ab02e72-7c8c-4ce0-926f-29c06db71a65",
-		"title": "De kandidaat kan een beschrijving geven van de Nederlandse samenleving als een multiculturele samenleving en de aanwezigheid van de grootste allochtone groepen verklaren.",
+		"title": "De kandidaat kan onderscheiden welke indicatoren van sociale cohesie wetenschappers vanuit verschillende paradigma’s onderzoeken. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D1/14",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "c347a974-7031-4bce-9cd8-8755d5fb53aa",
-		"title": "De kandidaat kan de uitgangspunten en hoofdlijnen van vreemdelingenbeleid en minderhedenbeleid verwoorden en de standpunten van politieke partijen met betrekking tot genoemd beleid vergelijken en becommentariÃ«ren.",
+		"title": "De kandidaat kan bindingen in de samenleving illustreren aan de hand van politieke instituties en beschrijven wat het belang is van representativiteit/representatie voor een democratische rechtsstaat. Tevens kan de kandidaat uitleggen hoe representatie en representativiteit bijdragen aan politieke binding. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D2/15",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "d9bff332-30c0-449f-a125-bb61e19c0bc9",
-		"title": "De kandidaat kan verschillende visies onderscheiden die een verklaring geven voor de maatschappelijke positie van etnische minderheden voor wat betreft arbeid en inkomen, onderwijs en huisvesting en de gevolgen van deze maatschappelijke positie uitleggen. Â½ 145 16.",
+		"title": "De kandidaat kan binnen een specifieke context beredeneren wat de effecten zijn van bepaalde maatschappelijke ontwikkelingen op politieke bindingen in een samenleving. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D3/16",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "a594f249-d961-43e9-ac32-1f3783baa24c",
-		"title": "De kandidaat kan de verhouding tussen allochtone groepen en autochtone groepen in Nederland beschrijven.",
+		"title": "De kandidaat kan binnen een specifieke context beredeneren wat de effecten zijn van bepaalde maatschappelijke ontwikkelingen op affectieve bindingen in een samenleving. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D4/17",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "3789e3bc-3c3f-441d-aa32-8e703e2df793",
-		"title": "De kandidaat kan de mogelijke oorzaken en gevolgen van discriminatie aangeven.",
+		"title": "De kandidaat kan overheidsbeleid en standpunten van politieke partijen ten aanzien van een bindingsvraagstuk onderscheiden. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D5/18",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "c6240118-7fd3-4624-9048-77a70e61375c",
@@ -6702,11 +6772,18 @@
 	},
 	{
 		"id": "03ea9a87-b32c-4565-a816-91dcc9c4c546",
-		"title": "De kandidaat kan aangeven welke visies de belangrijkste politieke stromingen en politieke partijen in Nederland hebben op sociaal-economische vraagstukken en op de rol die de overheid op sociaal-economisch terrein dient te spelen.",
+		"title": "De kandidaat kan beschrijven hoe rationalisering, individualisering en institutionalisering worden beschouwd als typerend voor de ontwikkeling van westerse samenlevingen van traditioneel naar modern. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E1/19",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "06862645-7d9c-4b1a-ae52-bf0a8c4cca5c",
@@ -6726,27 +6803,48 @@
 	},
 	{
 		"id": "11495862-76f6-415b-a16c-acab73470949",
-		"title": "De kandidaat kan de Nederlandse economische orde vergelijken met die van andere landen.",
+		"title": "De kandidaat kan beschrijven hoe staatsvorming, democratisering en globalisering worden beschouwd als typerend voor de ontwikkeling van westerse samenlevingen van traditioneel naar modern.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E2/20",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "9fbd4026-4d64-4401-ba38-4c3e9bb07b7f",
-		"title": "De kandidaat kan van de belangrijkste groeperingen die betrokken zijn bij arbeid aangeven wat hun belangen zijn, hoe ze georganiseerd zijn en wat hun onderlinge verhoudingen zijn.",
+		"title": "De kandidaat kan uitleggen welke veranderingen zich hebben voorgedaan binnen een specifieke context en wat daarvan de effecten zijn op vraagstukken van identiteit, binding en ongelijkheid. Tevens kan hij maatschappelijke vraagstukken relateren aan drie paradoxen van modernisering.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E3/21",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "47ebb304-9dcb-4b30-a13e-789d5db566a6",
-		"title": "De kandidaat kan uitleggen welke gevolgen een voortschrijdende arbeidsverdeling heeft voor mens en samenleving.",
+		"title": "De kandidaat kan binnen een specifieke context onderscheiden welke standpunten aanhangers van de verschillende politieke stromingen innemen ten aanzien van veranderingsprocessen in een samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E4/22",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "a8393d28-8714-4125-9343-66bc4b49edab",
@@ -6766,19 +6864,33 @@
 	},
 	{
 		"id": "70e80507-819e-45ee-9e01-6d266aa9dd77",
-		"title": "De kandidaat kan een beschrijving geven van aard en omvang van het verschijnsel criminaliteit en daarmee samenhangende vraagstukken voor burger en samenleving.",
+		"title": "De kandidaat kan informatie verzamelen over een actualiteit met maatschappijwetenschappelijke relevantie, zowel over feiten als ook over de verschillende meningen die erover bestaan. Tevens kan de kandidaat verschillende groepen en belangen onderscheiden die een rol spelen in deze actualiteit. De kandidaat kan over een actualiteit een vraagstelling formuleren, een eenvoudige onderzoeksopzet ontwerpen en deze ook uitvoeren. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinF/F1/23",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "5ca2242c-3433-434f-b554-2a143a631a6f",
-		"title": "De kandidaat kan strafbaarstelling en aanpak van criminaliteit door de staat in verband brengen met de uitgangspunten van de rechtsstaat en aangeven welke dilemma's kunnen ontstaan bij de uitvoering van taken ter voorkoming en bestrijding van criminaliteit door politie, Openbaar Ministerie en rechterlijke macht.",
+		"title": "De kandidaat kan een actualiteit analyseren met behulp van hoofd- en kernconcepten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinF/F2/24",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "9d5165b9-e8fe-43c5-b391-b12040d804ad",
@@ -6814,35 +6926,63 @@
 	},
 	{
 		"id": "a18b3f99-0b6f-4189-9364-bf064e432e9e",
-		"title": "De kandidaat kan sociale dilemma's herkennen in de oorzaken van de milieuproblematiek en de aanpak hiervan door de overheid, het bedrijfsleven en individuele burgers.",
+		"title": "De kandidaat kan onderscheid maken tussen de verschillende vormen van politieke en sociale participatie. Tevens kan hij de wenselijkheid van participatie beoordelen met behulp van hoofden kernconcepten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinG/G1/25",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "6a39d5df-d595-4fe6-8de1-66e682096ab1",
-		"title": "De kandidaat kan de effectiviteit van het milieubeleid analyseren aan de hand van taken, verantwoordelijkheden en beleidsinstrumenten van regionale, landelijke en internationale overheden en internationale instanties.",
+		"title": "De kandidaat kan met behulp van hoofd- en kernconcepten beschrijven wat het belang is van vrije en eerlijke verkiezingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinG/G2/26",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "f42bc656-66e2-41cc-896a-4988249f01f3",
-		"title": "De kandidaat kan belangen(afwegingen) onderscheiden die een rol spelen bij de opositiebepaling van bedrijfsleven, werkgevers- en werknemersorganisaties en andere maatschappelijke organisaties ten aanzien van het milieu(beleid).",
+		"title": "De kandidaat kan de hoofdlijnen van het Nederlandse politieke (kies)stelsel en dat van een ander land, beschrijven. Tevens kan hij de voor- en nadelen ervan benoemen en kan analyseren/onderzoeken hoe deze stelsels het politieke proces in beide landen beïnvloeden. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinG/G3/27",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "b061266c-5b62-4947-98a5-1bba9b5e6ea5",
-		"title": "De kandidaat kan de milieuproblematiek in verband brengen met de sociaal-economischverhoudingen op mondiaal niveau.",
+		"title": "De kandidaat kan de verschuivingen in de deelname aan verkiezingen in Nederland en in een ander land beschrijven. Tevens kan hij de samenstelling van de electorale achterban van de belangrijkste politieke partijen en bewegingen in Nederland en in dat andere land beschrijven.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinG/G4/28",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "a1d1e85a-66e2-4e2a-bd97-7ca2e2e6e974",
@@ -23202,274 +23342,6 @@
 		"ce_se": "SE",
 		"title": "niet van toepassing",
 		"id": "fc9188e5-e462-4cda-9d8b-0cd1e58cab79",
-		"unreleased": true
-	},
-	{
-		"prefix": "1.",
-		"ce_se": "CE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven",
-		"id": "303a620d-7d43-4306-9e6a-98248fb3e3e5",
-		"unreleased": true
-	},
-	{
-		"prefix": "1.",
-		"ce_se": "CE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen relaties tussen delen van een tekst aangeven",
-		"id": "07c7e242-388c-43bb-8aa1-9e5cd597560d",
-		"unreleased": true
-	},
-	{
-		"prefix": "1.",
-		"ce_se": "CE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur",
-		"id": "5bcd27fc-8b83-4834-bf6c-2bb7d9c063ef",
-		"unreleased": true
-	},
-	{
-		"prefix": "1.",
-		"ce_se": "CE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen standpunten en argumenten herkennen en onderscheiden",
-		"id": "429e0579-c0bb-4a76-ba45-32b2a9f9e710",
-		"unreleased": true
-	},
-	{
-		"prefix": "1.",
-		"ce_se": "CE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven",
-		"id": "8bff6567-984b-4fbb-96cd-d07730ef2f54",
-		"unreleased": true
-	},
-	{
-		"prefix": "2.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: de hoofdgedachte van de tekst of tekstgedeelten verwoorden.",
-		"id": "8bd9a8f1-72eb-4f15-abe5-a47115b48f6e",
-		"unreleased": true
-	},
-	{
-		"prefix": "2.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: opvattingen en gevoelens van de spreker benoemen",
-		"id": "a3298ece-b696-4efb-aaed-a9c0c56b6cd9",
-		"unreleased": true
-	},
-	{
-		"prefix": "2.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: standpunten en argumenten herkennen en onderscheiden",
-		"id": "2e7ce60e-52c3-457e-9e26-7d7fbcb0ee5f",
-		"unreleased": true
-	},
-	{
-		"prefix": "2.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: het beoogde publiek en het spreekdoel benoemen",
-		"id": "be9b90ff-9860-47ec-9a65-fcde28869726",
-		"unreleased": true
-	},
-	{
-		"prefix": "3.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan verworven informatie adequaat in het Fries presenteren met het oog op doel en publiek en daarbij standpunten en argumenten verwoorden.",
-		"id": "92a45e32-be48-43c3-9e9e-7f9e98c63611",
-		"unreleased": true
-	},
-	{
-		"prefix": "4.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan in een gesprek in het Fries adequaat: informatie vragen of verstrekken met het oog op doel, publiek en gespreksvorm",
-		"id": "cf751773-dca3-4dca-bfe2-f586b284231e",
-		"unreleased": true
-	},
-	{
-		"prefix": "4.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan in een gesprek in het Fries adequaat: reageren op bijdragen van luisteraars of gespreksdeelnemers",
-		"id": "9f07403f-b594-457b-8642-ea07c4d5409e",
-		"unreleased": true
-	},
-	{
-		"prefix": "5.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan adequaat in het Fries schriftelijke informatie vragen en verstrekken",
-		"id": "4d0a34a0-7985-4059-981f-6f35d8ac7600",
-		"unreleased": true
-	},
-	{
-		"prefix": "5.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan adequaat in het Fries verworven informatie schriftelijk presenteren, rekening houdend met doel en publiek en daarbij standpunten en argumenten verwoorden of uitdrukking geven aan gevoelens",
-		"id": "67238886-507a-48ae-99b7-de84de0c3a45",
-		"unreleased": true
-	},
-	{
-		"prefix": "5.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan adequaat in het Fries een verslag schrijven",
-		"id": "76ada57a-53f7-4896-aed0-9ffbd634f506",
-		"unreleased": true
-	},
-	{
-		"prefix": "6.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. De werken zijn oorspronkelijk geschreven in de Friese taal.",
-		"id": "5be8243d-a249-41cc-8151-2c11b0b8ae85",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Minimumaantal: havo 6; vwo 9 waarvan minimaal 3 voor 1945",
-		"id": "943696de-2f1d-43cc-b98a-da4e083b2f06",
-		"unreleased": true
-	},
-	{
-		"prefix": "7.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren bij de interpretatie van literaire teksten.",
-		"id": "d662358e-e932-4a21-a9df-0d1bfc5c8c44",
-		"unreleased": true
-	},
-	{
-		"prefix": "8.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de Friese literatuurgeschiedenis en de gelezen literaire werken plaatsen in historisch perspectief.",
-		"id": "14433a16-72a3-48ca-9b8a-c9f1c5b85a59",
-		"unreleased": true
-	},
-	{
-		"prefix": "9.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan hoofdlijnen aangeven van de historische ontwikkeling van de Friese taal;",
-		"id": "2130b2a9-3d14-4be1-8d89-f8ce1aa7d643",
-		"unreleased": true
-	},
-	{
-		"prefix": "9.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan voorbeelden geven van taalverandering en interferenties;",
-		"id": "11308514-c935-4fb3-abec-f4b207259882",
-		"unreleased": true
-	},
-	{
-		"prefix": "9.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan de hedendaagse positie van de Friese taal als minderheidstaal binnen de regionale, de Nederlandse en de Europese samenleving verwoorden",
-		"id": "09ddcab4-5e0a-4d19-82e9-892c0e609832",
-		"unreleased": true
-	},
-	{
-		"prefix": "9.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan de rol en de maatschappelijke betekenis van de Friese taal in het openbare leven beschrijven;",
-		"id": "12b95997-142c-46af-9f88-1877b2059401",
-		"unreleased": true
-	},
-	{
-		"prefix": "9.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn studie naar of ervaringen met een taalkundig verschijnsel in Friesland.",
-		"id": "82e0ab37-2351-49a7-be84-218ffb3169d5",
-		"unreleased": true
-	},
-	{
-		"prefix": "10.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan (door middel van voorbeelden) een overzicht geven van uiteenlopende Friese cultuuruitingen",
-		"id": "7a719521-e163-416d-bcad-d5923b265ce2",
-		"unreleased": true
-	},
-	{
-		"prefix": "10.",
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn ervaringen met enkele Friese cultuuruitingen.",
-		"id": "154743fa-5361-47b1-b7b9-66d053ad01c8",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"title": "Niet van toepassing",
-		"id": "694a4385-80a8-49ec-884e-d44d38a35b3d",
 		"unreleased": true
 	}
 ]
