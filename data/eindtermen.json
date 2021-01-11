@@ -23343,5 +23343,273 @@
 		"title": "niet van toepassing",
 		"id": "fc9188e5-e462-4cda-9d8b-0cd1e58cab79",
 		"unreleased": true
+	},
+	{
+		"prefix": "1.",
+		"ce_se": "CE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven",
+		"id": "85be34c5-67c0-4896-9f4c-9c1cd59224e0",
+		"unreleased": true
+	},
+	{
+		"prefix": "1.",
+		"ce_se": "CE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen relaties tussen delen van een tekst aangeven",
+		"id": "4c79c15a-a8a4-4dee-a8c0-20a0d7b744a5",
+		"unreleased": true
+	},
+	{
+		"prefix": "1.",
+		"ce_se": "CE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur",
+		"id": "7e8932ba-1aa7-4392-96bc-7563b681582a",
+		"unreleased": true
+	},
+	{
+		"prefix": "1.",
+		"ce_se": "CE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen standpunten en argumenten herkennen en onderscheiden",
+		"id": "ee82193e-2c9d-4382-94ce-4df6f3ebaa8d",
+		"unreleased": true
+	},
+	{
+		"prefix": "1.",
+		"ce_se": "CE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven",
+		"id": "036517fa-4862-4f53-a23f-db587d4f98b5",
+		"unreleased": true
+	},
+	{
+		"prefix": "2.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: de hoofdgedachte van de tekst of tekstgedeelten verwoorden.",
+		"id": "fdc426b0-e9f3-47b9-abc4-861cc7a206c6",
+		"unreleased": true
+	},
+	{
+		"prefix": "2.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: opvattingen en gevoelens van de spreker benoemen",
+		"id": "f70823a1-8f9e-4420-aae1-bf746948bc60",
+		"unreleased": true
+	},
+	{
+		"prefix": "2.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: standpunten en argumenten herkennen en onderscheiden",
+		"id": "62e62125-c5db-40a7-90dc-77ca6d44805b",
+		"unreleased": true
+	},
+	{
+		"prefix": "2.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: het beoogde publiek en het spreekdoel benoemen",
+		"id": "3009e209-7a92-446f-8017-ad8683832b28",
+		"unreleased": true
+	},
+	{
+		"prefix": "3.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan verworven informatie adequaat in het Fries presenteren met het oog op doel en publiek en daarbij standpunten en argumenten verwoorden.",
+		"id": "ba854551-2523-48ea-b173-08032811f77d",
+		"unreleased": true
+	},
+	{
+		"prefix": "4.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan in een gesprek in het Fries adequaat: informatie vragen of verstrekken met het oog op doel, publiek en gespreksvorm",
+		"id": "e191a6a3-1305-4bc3-bd76-0d3e7e035f42",
+		"unreleased": true
+	},
+	{
+		"prefix": "4.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan in een gesprek in het Fries adequaat: reageren op bijdragen van luisteraars of gespreksdeelnemers",
+		"id": "708970c4-d35e-40ef-ad44-135dc4a552f0",
+		"unreleased": true
+	},
+	{
+		"prefix": "5.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan adequaat in het Fries schriftelijke informatie vragen en verstrekken",
+		"id": "6bbc2355-4a79-4c8b-950f-7b7475b90145",
+		"unreleased": true
+	},
+	{
+		"prefix": "5.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan adequaat in het Fries verworven informatie schriftelijk presenteren, rekening houdend met doel en publiek en daarbij standpunten en argumenten verwoorden of uitdrukking geven aan gevoelens",
+		"id": "3befc8ac-17ae-4ae2-87e9-6dad58c61263",
+		"unreleased": true
+	},
+	{
+		"prefix": "5.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan adequaat in het Fries een verslag schrijven",
+		"id": "e4d7363c-cb55-4dba-b740-20bde36d45f6",
+		"unreleased": true
+	},
+	{
+		"prefix": "6.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. De werken zijn oorspronkelijk geschreven in de Friese taal.",
+		"id": "dc865f14-05e8-465b-8d6e-ef49241ccf00",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "Minimumaantal: havo 6; vwo 9 waarvan minimaal 3 voor 1945",
+		"id": "572faee2-e3b3-4213-bc77-3c2f2f307e2b",
+		"unreleased": true
+	},
+	{
+		"prefix": "7.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren bij de interpretatie van literaire teksten.",
+		"id": "4012c946-1af1-4cef-b3e0-b5901c8f0df1",
+		"unreleased": true
+	},
+	{
+		"prefix": "8.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de Friese literatuurgeschiedenis en de gelezen literaire werken plaatsen in historisch perspectief.",
+		"id": "999fe5a0-0d03-4b86-afb7-a7b161dedd07",
+		"unreleased": true
+	},
+	{
+		"prefix": "9.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan hoofdlijnen aangeven van de historische ontwikkeling van de Friese taal;",
+		"id": "6593080e-a143-4821-b675-f8b4fee3226a",
+		"unreleased": true
+	},
+	{
+		"prefix": "9.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan voorbeelden geven van taalverandering en interferenties;",
+		"id": "eea79d29-eae1-47b6-b0c4-73e79b532515",
+		"unreleased": true
+	},
+	{
+		"prefix": "9.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan de hedendaagse positie van de Friese taal als minderheidstaal binnen de regionale, de Nederlandse en de Europese samenleving verwoorden",
+		"id": "f2fdd419-cae5-41e9-bd09-874e6eb74a10",
+		"unreleased": true
+	},
+	{
+		"prefix": "9.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan de rol en de maatschappelijke betekenis van de Friese taal in het openbare leven beschrijven;",
+		"id": "f9ba2022-844a-4f70-be5a-474d7f799c82",
+		"unreleased": true
+	},
+	{
+		"prefix": "9.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn studie naar of ervaringen met een taalkundig verschijnsel in Friesland.",
+		"id": "861cfc8c-b8f4-4e52-8981-247a299dbebc",
+		"unreleased": true
+	},
+	{
+		"prefix": "10.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan (door middel van voorbeelden) een overzicht geven van uiteenlopende Friese cultuuruitingen",
+		"id": "b8161dfa-df19-493d-96b8-79ac215dcb01",
+		"unreleased": true
+	},
+	{
+		"prefix": "10.",
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn ervaringen met enkele Friese cultuuruitingen.",
+		"id": "a4b3df7f-d977-4392-8c07-756b4e72aede",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "Niet van toepassing",
+		"id": "ec808e0f-557a-4199-a6b4-88852a1ccc09",
+		"unreleased": true
 	}
 ]
