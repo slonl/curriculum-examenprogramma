@@ -4670,5 +4670,55 @@
 		"title": "de domeinen E (behalve het gecursiveerde deel) en F,  en ten minste twee domeinen uit de domeinen B, C, D, en E (het gecursiveerde deel);\r\nindien het bevoegd gezag daarvoor kiest: het domein A, waarop het centraal examen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "87623f01-fec9-4b96-aea1-5c0040f6000f",
 		"unreleased": true
+	},
+	{
+		"title": "Domein A Leesvaardigheid",
+		"id": "383b1818-5f2f-4ede-bd46-c5b85e9592c9",
+		"unreleased": true
+	},
+	{
+		"title": "Domein B Mondeline taalvaardigheid",
+		"id": "21c9dee1-9564-4762-8d86-9aa5e24066b6",
+		"unreleased": true
+	},
+	{
+		"title": "Domein C Schrijfvaardigheid",
+		"id": "933331da-7c45-45d2-b350-cc71aab79076",
+		"unreleased": true
+	},
+	{
+		"title": "Domein D Literatuur",
+		"id": "55d992ad-4f03-417c-9bca-9efc9de7804e",
+		"unreleased": true
+	},
+	{
+		"title": "Domein E Friese taal en cultuur",
+		"id": "e8c831c6-9c87-4346-9a20-dfad46250148",
+		"unreleased": true
+	},
+	{
+		"title": "Domein F Oriëntatie op studie en beroep.",
+		"id": "7c73f75b-eef7-4de4-b046-25c70e89ada4",
+		"unreleased": true
+	},
+	{
+		"title": "Het centraal examen heeft betrekking op domein A.",
+		"id": "356c3395-6b9a-44d3-8f99-7a817fcc436d",
+		"unreleased": true
+	},
+	{
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. \r\nDe CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen",
+		"id": "ca8d2a09-284a-4f70-bd10-ab27a39c5a06",
+		"unreleased": true
+	},
+	{
+		"title": "Het schoolexamen heeft betrekking op:",
+		"id": "00984a23-fb4f-430a-ba21-54b47192f786",
+		"unreleased": true
+	},
+	{
+		"title": "de domeinen E (behalve het gecursiveerde deel) en F,  en ten minste twee domeinen uit de domeinen B, C, D, en E (het gecursiveerde deel);\r\nindien het bevoegd gezag daarvoor kiest: het domein A, waarop het centraal examen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"id": "60d7d182-afab-4ad3-8ec9-4df6543ba18f",
+		"unreleased": true
 	}
 ]
