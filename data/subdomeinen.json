@@ -3424,11 +3424,13 @@
 	},
 	{
 		"id": "4bad25a7-8f30-472d-a2bc-1bade620ef30",
-		"title": "Subdomein D4: Overheidsbeleid en standpunten van politieke partijen",
+		"title": "Subdomein D5: Overheidsbeleid en standpunten van politieke partijen",
 		"examenprogramma_eindterm_id": [
 			"884f7a40-dfa1-4657-a55f-d0bf65211541"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinD/D5",
+		"dirty": "1"
 	},
 	{
 		"id": "19dc19e8-a627-44eb-8070-e0be220cd62c",
@@ -29987,6 +29989,10 @@
 		"id": "cbcfd73d-2be0-4536-afeb-02fc6a1d347f",
 		"title": "Subdomein D5: Overheidsbeleid en standpunten van politieke partijen",
 		"description": "",
-		"prefix": "MAW/V/DomeinD/D5"
+		"prefix": "MAW/V/DomeinD/D5",
+		"examenprogramma_eindterm_id": [
+			"3789e3bc-3c3f-441d-aa32-8e703e2df793"
+		],
+		"dirty": "1"
 	}
 ]
