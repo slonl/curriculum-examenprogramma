@@ -11510,36 +11510,52 @@
 		"prefix": "1.",
 		"title": "De kandidaat kan doelgericht informatie zoeken, beoordelen, selecteren en verwerken.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "af28c001-e247-4ec3-8fbd-73f224a1c1a8",
 		"prefix": "2.",
 		"title": "De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over informatica gerelateerde onderwerpen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f4c63ab3-173a-4626-96f4-b0ef4859dcc3",
 		"prefix": "3.",
 		"title": "De kandidaat kan bij het verwerven van vakkennis en vakvaardigheden reflecteren op eigen belangstelling, motivatie en leerproces.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8d0accc0-2c26-4660-afba-4eee5b1846d6",
 		"prefix": "4.",
 		"title": "De kandidaat kan aangeven op welke wijze informaticakennis in studie en beroep wordt gebruikt en kan mede op basis daarvan de eigen belangstelling voor studies en beroepen onder woorden brengen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "0f56f83b-f338-400e-a5ca-079ff87faccf",
@@ -11547,7 +11563,12 @@
 		"title": "De kandidaat kan  in contexten instructies voor onderzoek op basis van vraagstellingen uitvoeren en conclusies trekken uit de onderzoeksresultaten. De kandidaat maakt daarbij gebruik van consistente redeneringen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1ca94946-8eae-495d-871f-9b3a2c58083c",
@@ -11562,45 +11583,65 @@
 		"prefix": "6.",
 		"title": "De kandidaat kan in contexten een relevant probleem analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren, en het model toetsen en beoordelen. De kandidaat maakt daarbij gebruik van consistente redeneringen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e0512efa-d08a-4db2-9f24-3375154afc5b",
 		"prefix": "7.",
 		"title": "De kandidaat kan in contexten een beargumenteerd oordeel geven over een situatie in de praktijk of een technische toepassing, en daarin onderscheid maken tussen wetenschappelijke argumenten, normatieve maatschappelijke overwegingen en persoonlijke opvattingen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b6bb8996-b502-4152-9035-0ff8589e03e1",
 		"prefix": "8.",
 		"title": "De kandidaat kan in een context mogelijkheden zien voor het inzetten van digitale artefacten, deze mogelijkheden vertalen tot een doelstelling voor ontwerp en ontwikkeling, daarbij technische factoren, omgevingsfactoren en menselijke factoren betrekken, wensen en eisen specificeren en deze op haalbaarheid toetsen, een digitaal artefact ontwerpen, bij het ontwerp van een digitaal artefact keuzes afwegen via onderzoeken en experimenteren, een digitaal artefact implementeren, en de kwaliteit van digitale artefacten evalueren, en deze vaardigheden in samenhang inzetten voor het ontwikkelen van digitale artefacten.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f506c59b-1336-4fc7-b031-e543328d67c2",
 		"prefix": "9.",
 		"title": "De kandidaat kan in contexten verschijnselen duiden, uitleggen en verklaren in termen van informatica, informatica-concepten herkennen en met elkaar in verband brengen, en mogelijkheden en beperkingen van digitale artefacten inschatten en beredeneren in vaktermen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "191add48-bfd4-4aff-a6fd-4f514ca1b260",
 		"prefix": "10.",
 		"title": "De kandidaat kan bij het ontwerpen en ontwikkelen van digitale artefacten op een gestructureerde wijze samenwerken in een team, en samenwerken met mensen afkomstig uit een toepassingsgebied.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ca628602-43fa-49c1-be08-3a1e151c9807",
@@ -11623,9 +11664,13 @@
 		"prefix": "12.",
 		"title": "De kandidaat kan voor de informatica relevante gereedschappen hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om (computer)apparatuur, besturingssystemen, applicaties, vaktaal, vakconventies en formalismen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "31c5570a-ead0-4193-b426-7ae356a26173",
@@ -11633,7 +11678,12 @@
 		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F, en in de gekozen domeinen uit G tot en met R, genoemde concepten ten minste gebruiken in beroepscontexten, in maatschappelijke contexten.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "af13dde7-5e5e-4346-8bdd-a727d2bc7707",
@@ -11645,156 +11695,224 @@
 	},
 	{
 		"id": "b2319dcc-830d-4a6e-9185-18ab611a06ec",
-		"prefix": "14.",
+		"prefix": "INF/H/DomeinB/B1/14",
 		"title": "De kandidaat kan een oplossingsrichting voor een probleem uitwerken tot een algoritme, daarbij standaardalgoritmen herkennen en gebruiken, en de correctheid en efficiëntie van digitale artefacten onderzoeken via de achterliggende algoritmen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bf197348-2c04-45c6-ab95-b0260d3abd1a",
 		"prefix": "15.",
 		"title": "De kandidaat kan verschillende abstracte datastructuren met elkaar vergelijken op elegantie en efficiëntie.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "12e150ae-24f1-496e-bc02-cf728175bec8",
 		"prefix": "16.",
 		"title": "De kandidaat kan eindige automaten gebruiken voor de karakterisering van bepaalde algoritmen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8486f991-2f6f-4580-9cc5-94a741eebf63",
 		"prefix": "17.",
 		"title": "De kandidaat kan grammatica’s hanteren als hulpmiddel bij de beschrijving van talen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b39f63ed-1d9c-4ff5-aac2-c6ec9abe4d34",
 		"prefix": "18.",
 		"title": "De kandidaat kan doelstellingen voor informatie- en gegevensverwerking onderscheiden, waaronder zoeken en bewerken.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "9247849e-272f-411d-9f14-bfcd322edfd9",
 		"prefix": "19.",
 		"title": "De kandidaat kan informatie en gegevens identificeren in contexten, daarbij rekening houdend met de doelstelling.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "fcc51ec6-0f21-4adf-89ed-849387b20920",
 		"prefix": "20.",
 		"title": "De kandidaat kan gegevens representeren in een geschikte datastructuur, daarbij rekening houdend met de doelstelling, en kan daarbij verschillende representaties met elkaar vergelijken op elegantie, efficiëntie en implementeerbaarheid.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "07b4e5fd-dfd5-45aa-b8cc-e8d3df1ba686",
 		"prefix": "21.",
 		"title": "De kandidaat kan standaardrepresentaties van numerieke gegevens en media gebruiken en aan elkaar relateren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "549354a4-0e81-4aa3-8c52-f1a9b4e31030",
 		"prefix": "22.",
 		"title": "De kandidaat kan een informatiebehoefte vertalen in een zoekopdracht op een verzameling gestructureerde data.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a9eb90f2-218a-4d32-be13-ce643dfb33ce",
 		"prefix": "23.",
 		"title": "De kandidaat kan, voor een gegeven doelstelling, programmacomponenten ontwikkelen in een imperatieve programmeertaal, daarbij programmeertaalconstructies gebruiken die abstractie ondersteunen, en programmacomponenten zodanig structureren dat ze door anderen gemakkelijk te begrijpen en te evalueren zijn.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "3ce2484d-70c3-413c-ac42-0d8fde2892ab",
 		"prefix": "24.",
 		"title": "De kandidaat kan structuur en werking van gegeven programmacomponenten uitleggen, en zulke programmacomponenten aanpassen op basis van evaluatie of veranderde eisen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "7780df11-05ff-40b3-b585-d584874a19cc",
 		"prefix": "25.",
 		"title": "De kandidaat kan de structuur en werking van digitale artefacten uitleggen aan de hand van architectuurelementen, dat wil zeggen in termen van de niveaulagen fysiek, logisch en toepassingen, en in termen van de componenten in deze lagen en hun onderlinge interactie.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d0be8529-0299-4fa2-bd28-47197ad72b3a",
 		"prefix": "26.",
 		"title": "De kandidaat kan enkele security-bedreigingen en veelgebruikte technische maatregelen benoemen en relateren aan architectuurelementen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "3118cfa2-3d52-4030-8232-9def214c94c2",
 		"prefix": "27.",
 		"title": "De kandidaat kan gebruikersinterfaces van digitale artefacten evalueren aan de hand van heuristieken, en vuistregels van goed ontwerp met betrekking tot interfaces toepassen bij ontwerp en ontwikkeling van digitale artefacten.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "40e493cf-3628-4ffe-96ad-f456e511cc12",
 		"prefix": "28.",
 		"title": "De kandidaat kan de invloed van digitale artefacten op sociale interactie en persoonlijke levenssfeer herkennen en in historisch perspectief plaatsen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ccee6d89-2020-4cb0-9c15-59b0661decc9",
 		"prefix": "29.",
 		"title": "De kandidaat kan redeneren over de gevolgen van de veranderende mogelijkheden van digitale artefacten op de persoonlijke vrijheid.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ed97f990-aa6b-4831-a0e0-393e12845ed4",
 		"prefix": "30.",
 		"title": "De kandidaat kan enkele security-bedreigingen en veelgebruikte socio-technische maatregelen benoemen en deze relateren aan sociale en menselijke factoren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "2950dcd3-caf2-4ebc-96df-2bb0bcbe9a17",
@@ -11817,297 +11935,429 @@
 		"prefix": "32.",
 		"title": "De kandidaat kan berekeningen op verschillende abstractieniveaus karakteriseren en relateren, en kan klassieke onberekenbare problemen herkennen en benoemen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1afde261-58de-4fa7-9707-b90fccb80fa0",
 		"prefix": "33.",
 		"title": "De kandidaat kan eigenschappen van digitale artefacten uitdrukken in logische formules.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b482869c-f598-4bfd-b801-eddd5dc9f964",
 		"prefix": "34.",
 		"title": "De kandidaat kan een informatiemodel opstellen voor een eenvoudige praktische situatie en aan de hand hiervan een database definiëren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5a27fe12-3b72-4aa1-894e-9ad1f2f5a435",
 		"prefix": "35.",
 		"title": "De kandidaat kan naast het relationele paradigma tenminste één ander database-paradigma beschrijven en kan voor een concrete toepassing de geschiktheid van de betreffende paradigma’s afwegen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ae695669-7c39-4e9a-a236-f96f2a1c732f",
 		"prefix": "36.",
 		"title": "De kandidaat kan in een toepassing data uit verschillende databases (databronnen) met elkaar in verband brengen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "355ddf59-5a3c-4699-bf33-de0e195d70e1",
 		"prefix": "37.",
 		"title": "De kandidaat kan de processen die nodig zijn voor intelligent gedrag beschrijven en kan analyseren hoe deze processen in de informatica ingezet kunnen worden bij het ontwikkelen van digitale artefacten.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a9557850-0270-4c49-8be0-984af368f426",
 		"prefix": "38.",
 		"title": "De kandidaat kan de belangrijkste kenmerken van cognitive computingsystemen uitleggen, en het verschil met traditionele digitale artefacten aangeven en kan van een probleem aangeven of de oplossing ervan zich leent voor een cognitive computing-aanpak.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5d3f8b32-3b7f-41e2-9f31-edacf58fdac3",
 		"prefix": "39.",
 		"title": "De kandidaat kan een eenvoudige toepassing realiseren met één of meer van de methodes en technologieën uit de cognitive computing.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a3be494a-ed79-494f-a22e-9ca2682585dc",
 		"prefix": "40.",
 		"title": "De kandidaat kan van minimaal één extra programmeerparadigma de kenmerken beschrijven en kan programma’s volgens dat paradigma ontwikkelen en evalueren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bdbb2cdd-0d6a-4129-956b-35fb6c2b0989",
 		"prefix": "41.",
 		"title": "De kandidaat kan voor een gegeven probleem een afweging maken tussen paradigma’s voor het oplossen ervan.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "df4a051e-d615-4bc3-af2d-0b5d949ad388",
 		"prefix": "42.",
 		"title": "De kandidaat kan rekenen met formules in Booleaanse algebra.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "6b77c58e-b6a3-4255-aee1-42607b49e9e3",
 		"prefix": "43.",
 		"title": "De kandidaat kan eenvoudige digitale schakelingen op bit-niveau construeren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c3626573-63fc-4e14-8e2d-5480b06b59f3",
 		"prefix": "44.",
 		"title": "De kandidaat kan een eenvoudig programma in machinetaal schrijven aan de hand van de beschrijving van een instructieset-architectuur.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "291b8b47-fdaa-42fc-972b-d9bed97de02a",
 		"prefix": "45.",
 		"title": "De kandidaat kan variatie in computerarchitectuur verklaren in termen van technologische ontwikkelingen en toepassingsdomeinen",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "03e031af-5606-4be9-a2ac-2e8849842298",
 		"prefix": "46.",
 		"title": "De kandidaat kan de manier waarop netwerkcomponenten met elkaar communiceren beschrijven en analyseren, en kan schalingseffecten bij communicatie herkennen, er voorbeelden van geven en de gevolgen ervan uitleggen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "2bfc9e84-94a6-443f-b753-92cf49675d21",
 		"prefix": "47.",
 		"title": "De kandidaat kan de basisprincipes van het internet als netwerk uitleggen en aangeven welke gevolgen dit heeft voor toepassingen en voor gebruikers.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "54fcd571-e59c-4050-a0b3-f49c8ec2de54",
 		"prefix": "48.",
 		"title": "De kandidaat kan vormen van samenwerking en verdeling van functies en gegevens in netwerken beschrijven.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "28e8fe06-8d8d-4fce-a50d-50b00bc122ca",
 		"prefix": "49.",
 		"title": "De kandidaat kan gevaren van inbreuk op gedistribueerde functies en gegevens analyseren, en maatregelen adviseren die deze inbreuk tegengaan.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5d9cf59b-8aaa-4a65-93dc-1a35fcc862ca",
 		"prefix": "50.",
 		"title": "De kandidaat kan sensoren en actuatoren waarmee een computersysteem de fysieke omgeving kan waarnemen en aansturen herkennen en functioneel beschrijven.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ff564886-a604-40f4-bb46-8a1b1fe60a8e",
 		"prefix": "51.",
 		"title": "De kandidaat kan fysieke systemen en processen modelleren met het oog op real time besturingsaspecten en kan met behulp van deze modellen, sensoren en actuatoren een computersysteem ontwikkelen om fysieke systemen en processen te bewaken en besturen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "45619c3a-b636-4121-9398-ca6abdf1feaf",
 		"prefix": "52.",
 		"title": "De kandidaat kan risico’s, bedreigingen en kwetsbaarheden in een ict- toepassing analyseren en kan daarbij zowel technische als menselijke factoren betrekken.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "0c97bc9f-b37b-4391-838a-c0210c18d9fe",
 		"prefix": "53.",
 		"title": "De kandidaat kan keuzen voor technische en organisatorische maatregelen ter vergroting van de security verklaren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e9e2f7f1-2598-41b2-9eff-9c5b22eca122",
 		"prefix": "54.",
 		"title": "De kandidaat kan de werking van gebruikersinterfaces beschrijven en verklaren aan de hand van cognitieve en biologische modellen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "81e37c3a-b782-44a5-b5d8-9a5f3c1bcf68",
 		"prefix": "55.",
 		"title": "De kandidaat kan gebruikersinterfaces van digitale artefacten evalueren via gebruikersonderzoek.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a46bacd8-3aa6-4d95-a7aa-58b08c5eb32c",
 		"prefix": "56.",
 		"title": "De kandidaat kan elementen van een gebruikersinterface ontwerpen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "683f5862-ae15-4ac8-bc2b-48320083b138",
 		"prefix": "57.",
 		"title": "De kandidaat kan de relatie tussen ontwerpkeuzes van een interactief digitaal artefact en de verwachte cognitieve, gedragsmatige en affectieve veranderingen of ervaringen verklaren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1207e4f7-3f4c-4d63-9d23-1be5a2972d64",
 		"prefix": "58.",
 		"title": "De kandidaat kan voor een digitaal artefact de gebruikersinteractie vormgeven, de ontwerpbeslissingen verantwoorden en voor een eenvoudige toepassing implementeren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f377dfc1-a875-4cad-834a-c2f6d894f051",
 		"prefix": "59.",
 		"title": "De kandidaat kan positieve en negatieve effecten van informatica en de genetwerkte samenleving op individueel en sociaal leven verklaren en voorspellen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1f723c49-ea6a-40e3-899d-17f14f07b38b",
 		"prefix": "60.",
 		"title": "De kandidaat kan juridische aspecten van de toepassing van informatica in de samenleving analyseren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a458dfd9-7784-4515-b548-b3bfe81d4e6e",
 		"prefix": "61.",
 		"title": "De kandidaat kan effecten van technische, juridische en sociale maatregelen voor privacy-gerelateerde kwesties onderzoeken.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "6eb5075d-1d4e-4c29-b694-3aa9e995df58",
 		"prefix": "62.",
 		"title": "De kandidaat kan redeneren over de invloed van informatica op culturele uitingen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bc35aee6-809e-46a5-a60f-04926c33eb0e",
 		"prefix": "63.",
 		"title": "De kandidaat kan aspecten van een andere wetenschappelijke discipline modelleren in computationele termen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "0819e181-3821-4061-b21a-f384e6cfa5c8",
 		"prefix": "64.",
 		"title": "De kandidaat kan modellen en simulaties construeren en gebruiken voor het onderzoeken van verschijnselen in die andere wetenschap.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "4ae7430d-c23a-4fe2-9cf0-dc0c818f6afb",
@@ -15742,21 +15992,31 @@
 	},
 	{
 		"id": "910d57d3-2d8e-4400-a614-30b4d5186179",
-		"prefix": "8.",
+		"prefix": "EC/K/6/8",
 		"title": "De kandidaat heeft inzicht in de sociale, economische en financiële functies van de overheid en kan dit inzicht toepassen in een gegeven casus.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5e83446b-83ff-497e-8027-6d7c2c9a7ab8",
-		"prefix": "8.",
+		"prefix": "EC/K/6/8",
 		"title": "De kandidaat heeft inzicht in de sociale, economische en financiële functies van de overheid en kan dit inzicht toepassen in een gegeven casus.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bbbaa1ac-2489-412f-9e87-1d936bd7a37a",
@@ -15835,46 +16095,71 @@
 		"id": "78a7c0a6-5f25-4433-b394-0176e38fb338",
 		"title": "De kandidaat kan economische concepten herkennen en toepassen in uiteenlopende contexten",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "EC/H/DomeinA/1",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e3df4d03-549c-46d2-9290-df0740b54185",
 		"title": "De kandidaat kan in contexten analyseren dat beperkte middelen en ongelimiteerde behoeften dwingen tot het maken van keuzes.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5cc6b63e-ff9d-4e4d-a6e1-a1bbd9161e8e",
 		"title": "De kandidaat kan in contexten analyseren dat het ruilproces de basis vormt voor een optimale inzet van middelen en een optimale benutting van comparatieve voordelen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "310429a4-4a9b-4db9-8be8-59212be1eb85",
 		"title": "Voorts kan de kandidaat analyseren dat ruil arbeidsdeling mogelijk maakt en op welke manier geld het ruilproces soepeler laat verlopen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1ce5ff0c-b132-4372-b474-6433ec44ce09",
-		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt.",
+		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "EC/H/DomeinD/4",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "2ee9eb4d-f7b8-4c0b-a2db-3a7fb0a4d705",
@@ -15896,12 +16181,17 @@
 	},
 	{
 		"id": "a710730a-bd76-4893-920d-c14183dbc32a",
-		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd.",
+		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd. De prijs die deze intertemporele ruil coördineert is de rente.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "EC/H/DomeinE/5",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "90817313-6c00-463d-bad7-71280b32573d",
@@ -15914,12 +16204,17 @@
 	},
 	{
 		"id": "3cc9e81c-46f1-4656-81e9-723311c8bd1c",
-		"title": "De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties.",
+		"title": "De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties. Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "EC/H/DomeinF/6",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "06cd0d87-6124-4553-95a0-45f9d322d5dd",
@@ -15932,12 +16227,17 @@
 	},
 	{
 		"id": "2f4c3f37-f576-4b71-92e0-e29fb385ad95",
-		"title": "De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen.",
+		"title": "De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen. Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "EC/H/DomeinG/7",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "778ef219-dc0a-42d5-86b6-1486c465b8e8",
@@ -15950,12 +16250,17 @@
 	},
 	{
 		"id": "f167bc6a-eedf-4b39-b47e-c5ff09aeecd2",
-		"title": "De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart.",
+		"title": "De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart. Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "EC/H/DomeinH/8",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "35673be9-eb57-4dcb-aff7-23a4ae9af237",
@@ -15968,12 +16273,17 @@
 	},
 	{
 		"id": "f8f22c55-d82d-46ee-9950-43011e2979c7",
-		"title": "De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid.",
+		"title": "De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid. Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "EC/H/DomeinI/9",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f3d4dc1d-2bc8-4ee7-a45d-1942bd19f58d",
@@ -15988,37 +16298,57 @@
 		"id": "df52ca9c-d832-4e5e-a43e-3f85aca2aef2",
 		"title": "De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "96518658-39e2-4bf3-a401-ff110ab7de3f",
 		"title": "De kandidaat kan analyseren welke grenzen aan de verklaringskracht van theoretische concepten gesteld kunnen worden.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "de76b438-7fe3-41b4-a58b-5ae22b791df9",
-		"title": "De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs\r\nanalyseren.",
+		"title": "De kandidaat kan een economisch concept in verschillende contexten vergelijkenderwijs\nanalyseren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1b79086a-0b61-488d-a722-155a21730b68",
 		"title": "De kandidaat kiest ten minste twee keuzeonderwerpen om deze analyse uit te voeren",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c94f4790-d239-4710-b866-cad4ba5edc04",
@@ -21375,7 +21705,10 @@
 		"se": 0,
 		"kern": 0,
 		"keuze": 0,
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
