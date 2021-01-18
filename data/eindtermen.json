@@ -16630,33 +16630,48 @@
 	},
 	{
 		"id": "7fc4e54e-9de1-46f7-a1ce-419e3b9ce39b",
-		"prefix": "4.",
-		"title": "De kandidaat kan alleen en in samenwerking met anderen gevoelens, ervaringen, ideeën, situaties en gebeurtenissen.",
+		"prefix": "DA/K/4/4a",
+		"title": "De kandidaat kan alleen en in samenwerking met anderen gevoelens, ervaringen, ideeën, situaties en gebeurtenissen in dans vertalen, met gebruikmaking van de danselementen ruimte, tijd en kracht, met toepassing van lichaamsbesef en vormbewustzijn en met een persoonlijke lading",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ef274bb4-afff-4ba8-8551-f1fedc2a4b4b",
-		"prefix": "4.",
-		"title": "De kandidaat kan alleen en in samenwerking met anderen bewegingsideeën.",
+		"prefix": "DA/K/4/4b",
+		"title": "De kandidaat kan alleen en in samenwerking met anderen bewegingsideeën in dans vertalen, met gebruikmaking van de danselementen ruimte, tijd en kracht, met toepassing van lichaamsbesef en vormbewustzijn en met een persoonlijke lading.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "098dda99-625d-4ab2-8c46-feb77535261d",
-		"prefix": "4.",
-		"title": "De kandidaat kan alleen en in samenwerking met anderen een fysiek, muzikaal, dramatisch of beeldend thema.",
+		"prefix": "DA/K/4/4c",
+		"title": "De kandidaat kan alleen en in samenwerking met anderen een fysiek, muzikaal, dramatisch of beeldend thema in dans vertalen, met gebruikmaking van de danselementen ruimte, tijd en kracht, met toepassing van lichaamsbesef en vormbewustzijn en met een persoonlijke lading.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "43d0e8cc-2029-4f15-a723-8d6fc0fc85cc",
@@ -18289,14 +18304,19 @@
 	},
 	{
 		"id": "425568d0-a039-4061-8bae-3265ccca0c8b",
-		"prefix": "9.",
+		"prefix": "BIO/K/6/9b",
 		"title": "De kandidaat kan de relaties noemen en toelichten die ze onderling en met hun omgeving hebben.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f0758e82-86fc-4c79-a090-a2f77cd8b343",
@@ -18427,14 +18447,19 @@
 	},
 	{
 		"id": "08f63cfc-37b3-4609-90b6-75d4f83ac1e7",
-		"prefix": "16.",
+		"prefix": "BIO/K/11/16b",
 		"title": "De kandidaat kan beschrijven welke relatie er is tussen gedrag en inwendige en uitwendige prikkels.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "cc463fdb-3886-47f7-8023-5d071679fb00",
@@ -18932,48 +18957,73 @@
 	},
 	{
 		"id": "9011a16d-e675-482b-bf14-ab281d72422a",
-		"prefix": "8.",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de interne organisatie en personeelsbeleid.",
+		"prefix": "BE/V/DomeinA/A6/8a",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de interne organisatie en personeelsbeleid, bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e2da6114-f223-4988-987e-e30d96f65a69",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de investeringen en financiering",
+		"prefix": "BE/V/DomeinA/A6/8b",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de investeringen en financiering, bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "67ca8457-400e-4b7b-aa23-bde580aed9d2",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het marketingbeleid.",
+		"prefix": "BE/V/DomeinA/A6/8c",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het marketingbeleid, bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8d4d6de1-608d-477f-b2d7-dcae2f2f664b",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het financieel beheer.",
+		"prefix": "BE/V/DomeinA/A6/8d",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het financieel beheer, bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "3b96caa8-0426-4d20-861f-4212f01d2b6f",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de verslaggeving.",
+		"prefix": "BE/V/DomeinA/A6/8e",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de verslaggeving, bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren. ",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a78e3011-a6ac-4c06-b627-f4ac48e5fbe6",
@@ -19291,48 +19341,73 @@
 	},
 	{
 		"id": "b165ebea-1d7d-45f9-91f5-6263e086fda5",
-		"prefix": "8.",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de interne organisatie en personeelsbeleid.",
+		"prefix": "BE/H/DomeinA/A6/8a",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de interne organisatie en personeelsbeleid, bedrijfseconomische en organisatorische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e4d95546-2397-402d-9b7f-2f3bd0aa0606",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de investeringen en financiering",
+		"prefix": "BE/H/DomeinA/A6/8b",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de investeringen en financiering, bedrijfseconomische en organisatorische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "7aadae3d-7e29-4264-8463-b17e776c5ba7",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het marketingbeleid",
+		"prefix": "BE/H/DomeinA/A6/8c",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het marketingbeleid, bedrijfseconomische en organisatorische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e7601ad4-0078-457c-8bda-f55b8b6d5886",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het financieel beheer",
+		"prefix": "BE/H/DomeinA/A6/8d",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van het financieel beheer, bedrijfseconomische en organisatorische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "079c2ef0-9d78-4176-acc8-84a768ad5e8d",
-		"prefix": "-",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de verslaggeving",
+		"prefix": "BE/H/DomeinA/A6/8e",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de verslaggeving, bedrijfseconomische en organisatorische perspectieven en daaruit voortvloeiende belangen onderkennen van de diverse betrokkenen bij de organisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c2170fe0-db97-4b47-bfec-fa3b54a5a616",
@@ -20293,19 +20368,29 @@
 	},
 	{
 		"id": "887d1c30-7eda-4976-81c4-3c3ac7541855",
-		"prefix": "9.",
-		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland.",
+		"prefix": "AK/V/DomeinE/E1/9a",
+		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e4b0e143-3d1b-41b9-aa31-3eebde4d82bb",
-		"prefix": "9.",
-		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland.",
+		"prefix": "AK/V/DomeinE/E1/9b",
+		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b5777fb3-c37c-488c-8245-7a9db80b01bf",
@@ -20776,14 +20861,16 @@
 	},
 	{
 		"id": "56af26ec-a03f-48e3-bf32-e036c3cb4ee6",
-		"prefix": "5.",
+		"prefix": "AK/K/4/5",
 		"title": "De kandidaat kan Weer en klimaat van Nederland beschrijven en verklaren.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "74812d84-8450-49d0-a53c-94ea869a7c5c",
@@ -21282,7 +21369,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
@@ -21313,12 +21406,17 @@
 	},
 	{
 		"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
-		"prefix": "11.",
-		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland.",
+		"prefix": "AK/H/DomeinE/E1/11a",
+		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c0a6d118-9998-40bb-883a-4ae007397235",
@@ -23611,5 +23709,35 @@
 		"title": "Niet van toepassing",
 		"id": "ec808e0f-557a-4199-a6b4-88852a1ccc09",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "abde0270-9d30-4fd6-b07c-2bfe90680060",
+		"prefix": "BIO/K/11/16a",
+		"title": "De kandidaat kan de rol en de werking van het zenuwstelsel, zintuigstelsel en hormoonstelsel toelichten.",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "70ec03a6-916f-440e-9543-0622265389bf",
+		"prefix": "BIO/K/6/9a",
+		"title": "De kandidaat kan de namen van organismen opzoeken en de delen waaruit ze zijn samengesteld",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	}
 ]
