@@ -5298,8 +5298,7 @@
 		"id": "f582338c-8108-4191-a1a2-deb5631aef51",
 		"title": "Subdomein A5: Onderzoeken",
 		"examenprogramma_eindterm_id": [
-			"0f56f83b-f338-400e-a5ca-079ff87faccf",
-			"1ca94946-8eae-495d-871f-9b3a2c58083c"
+			"0f56f83b-f338-400e-a5ca-079ff87faccf"
 		]
 	},
 	{
@@ -5347,8 +5346,7 @@
 		"id": "faafe16c-5fc7-4e80-b866-c9103ae9947c",
 		"title": "Subdomein A11: Ethisch handelen",
 		"examenprogramma_eindterm_id": [
-			"ca628602-43fa-49c1-be08-3a1e151c9807",
-			"a469ea8d-1078-442f-ada5-d8c494938d71"
+			"ca628602-43fa-49c1-be08-3a1e151c9807"
 		]
 	},
 	{
@@ -5364,8 +5362,7 @@
 		"id": "86047c2f-4f15-4030-a4dd-c2167c82cc4e",
 		"title": "Subdomein A13: Werken in contexten",
 		"examenprogramma_eindterm_id": [
-			"31c5570a-ead0-4193-b426-7ae356a26173",
-			"af13dde7-5e5e-4346-8bdd-a727d2bc7707"
+			"31c5570a-ead0-4193-b426-7ae356a26173"
 		]
 	},
 	{
@@ -5509,8 +5506,7 @@
 		"id": "27e135f2-b6eb-42bc-83bd-230ab32616e1",
 		"title": "Subdomein G1: Complexiteit van algoritmen",
 		"examenprogramma_eindterm_id": [
-			"2950dcd3-caf2-4ebc-96df-2bb0bcbe9a17",
-			"d142d234-9309-47c9-8412-b0907d270a3a"
+			"2950dcd3-caf2-4ebc-96df-2bb0bcbe9a17"
 		]
 	},
 	{
@@ -8140,7 +8136,6 @@
 		"title": "Subdomein D1: Gebiedskenmerken",
 		"examenprogramma_eindterm_id": [
 			"d18be974-1bb8-4839-8ca2-1327183fd180",
-			"8b9acfb7-9adf-4e92-84d2-20868647ec9e",
 			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
 		],
 		"ce_se": "CE"
