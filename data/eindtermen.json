@@ -962,7 +962,15 @@
 		"id": "6fefbf2d-b1bb-40b1-8252-d3a598bf6f53",
 		"prefix": "8.",
 		"title": "De kandidaat kan afstanden en hoeken berekenen met behulp van goniometrische verhoudingen, de stelling van Pythagoras en de sinus- en cosinusregel.",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"id": "1277d216-7ed1-4f69-b184-b7382e5f74fd",
@@ -1226,9 +1234,17 @@
 	},
 	{
 		"id": "939b284f-fcc3-4632-83da-d046d4ac6d6f",
-		"prefix": "8.",
+		"prefix": "WI/A/H/DomeinC/C2/8",
 		"title": "De kandidaat kan een grafiek tekenen op basis van gegevens uit een tekst, een tabel, een formule of andere grafieken en gegevens en relevante informatie uit grafieken aflezen, grafieken interpreteren en in verband brengen met andere grafieken, formules of tekst.",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"id": "085f3b01-96a9-4d7a-ab92-8d6f52877dfd",
@@ -1250,9 +1266,17 @@
 	},
 	{
 		"id": "7813ce75-a5f2-48d3-8d1a-c48571219980",
-		"prefix": "11.",
+		"prefix": "WI/A/H/DomeinC/C5/11",
 		"title": "De kandidaat kan exponentiële verbanden herkennen, met formules beschrijven, in grafieken weergeven en er berekeningen aan uitvoeren.",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"id": "c4c316c3-7483-48b3-9c18-aff814ecd6cd",
@@ -9057,13 +9081,17 @@
 	},
 	{
 		"id": "f743c107-19b8-411a-bace-fcbb0788a242",
-		"prefix": "2.",
+		"prefix": "LO/H/DomeinB/2d",
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om minimaal drie door de kandidaat te kiezen en voor de kandidaat nieuwe bewegingsactiviteiten die bij voorkeur niet tot één van de hierboven genoemde activiteitengebieden behoren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "bb257671-84a3-4438-9372-9d104771e267",
