@@ -2314,5 +2314,26 @@
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch vwo",
 		"id": "ddc10650-6c3d-4666-8727-e895e0a9bf03",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"9e7cca88-8283-4865-90c8-04a56fcd6a77",
+			"cbe7f1c1-b119-40c3-86aa-460125ca37d0",
+			"61727f77-287a-4822-888e-dd31c3ab56f6",
+			"0f92a591-7682-45b5-bddd-11fabda4ef11",
+			"696a6a68-3f41-4759-873d-85d295935141",
+			"bbb21971-9154-4fe8-88fb-f85db46016ef"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
+		],
+		"examenprogramma_kop1_id": [
+			"1f60d1b4-0781-49ed-a21d-b7a88e07a682",
+			"3a3fcf32-03e1-42db-873d-022abda4dcaf",
+			"f8d7c71d-3099-425f-8063-e2a2ace1c02b"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch havo",
+		"id": "074e7ee9-4763-4391-b3b6-716155964bda",
+		"unreleased": true
 	}
 ]
