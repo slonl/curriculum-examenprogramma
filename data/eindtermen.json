@@ -24104,222 +24104,213 @@
 	{
 		"ce_se": "CE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
-		"id": "eb1bba62-e4fd-4e0f-9eb1-b6e280ae93ad",
+		"id": "67da4c4b-5b7d-477c-9734-135c1633b6ab",
 		"unreleased": true
 	},
 	{
 		"ce_se": "CE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
-		"id": "4b31ceea-7fb0-4b78-a377-f0237db3c7e5",
+		"id": "e416c685-d78a-4945-9798-f1ab72494257",
 		"unreleased": true
 	},
 	{
 		"ce_se": "CE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
-		"id": "c0b84fa6-63cf-42f2-ab16-8621504aedfb",
+		"id": "32d4ade5-876a-44f1-8219-c5d5851719e6",
 		"unreleased": true
 	},
 	{
 		"ce_se": "CE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven.",
-		"id": "b3458203-6500-4cca-b7b8-c2d2cf5fa7ff",
+		"id": "931a0d7a-6adb-4c29-baf6-242ec8793ce3",
 		"unreleased": true
 	},
 	{
 		"ce_se": "CE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
-		"id": "003558ad-178c-4759-9fb2-8e9b0b1d3f47",
+		"id": "47ceeeee-da4f-4ce0-a6f5-6a9d941bd7b7",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
-		"id": "650af686-ad93-4737-a1bf-3f41955ed83c",
+		"id": "4095df9e-25e2-4d11-a397-c15ef308ec36",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
-		"id": "7201dac4-31c1-4160-afc7-9653beec536c",
+		"id": "384520f4-91b4-458a-85e6-837caf197121",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
-		"id": "7e858780-840f-4a2e-86c8-3aadf94e69ff",
+		"id": "70fcbf65-3d0d-4dda-878e-4fbcc0287606",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
-		"id": "3ba1d8cf-be8f-4fef-a21c-3a516d511408",
+		"id": "2f70e2ad-a253-457a-aa39-3242afe8196f",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
-		"id": "94527013-25f9-4e89-b304-5783c2d9aeeb",
+		"id": "8c572feb-a019-4354-a7ab-e90cd21fedb1",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
-		"id": "209cfe78-e91e-4ee7-b4f7-1a454c879a07",
+		"id": "a8342be9-a0f6-4408-b43e-b1dbc99223a7",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
-		"id": "91577dba-5792-4982-8534-403ab4c7a162",
+		"id": "6e4294fe-1f26-407a-8264-dbe54e5c92b8",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
-		"id": "45c123fa-0872-4a9c-bd6d-1198de88eb6b",
+		"id": "874fc89e-3db1-4eb8-94f6-702cb52631ce",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
-		"id": "55245ed9-7d65-440c-aa20-6480a563fe5e",
+		"id": "84993820-b287-4837-a6d2-610428fe2f27",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
-		"id": "151e5dd4-3a3c-4897-a004-d8332fd8edb3",
+		"id": "d75f87c8-c8ab-490b-999d-fb2fdbaece49",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
-		"id": "78ec3ebc-3008-4a17-b69e-9e904ce83aa1",
+		"id": "f255509f-b415-4f0c-8393-0f521a5eec53",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
-		"id": "f14250b1-6074-4376-bce3-ea391f52ca40",
+		"id": "41588141-bae2-4df3-b3f6-db8bfc850e86",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
-		"id": "c041e6a2-5b2f-4f27-86af-c70643254a80",
+		"id": "a0e01240-6cdf-4828-86b8-f14b3fb2887c",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
-		"id": "fbf3447b-3972-4ae7-9a89-c31156627edd",
+		"id": "4c260311-f779-4496-8b7c-e5c243b06c75",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandiaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
-		"id": "c72c21af-f334-420b-8d75-61626d80365f",
+		"id": "a3ba33e6-7fdb-452c-a625-d279db8ef238",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "De kandidaat kan een verslag schrijven",
-		"id": "44261f1f-9f94-430f-a534-000226648a1e",
-		"unreleased": true
-	},
-	{
-		"ce_se": "SE",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
-		"id": "f989a644-9014-47e2-906c-ccae3d7724d2",
+		"id": "7b4ecf1d-a380-4232-89e0-cd2bb73520dd",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
-		"id": "0ffb59fb-ebbc-4c5c-b47d-f95d318deb99",
+		"id": "74366f4f-89de-43d6-a4cd-d70b8cfe399b",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
-		"id": "1006f67e-e39e-4896-8fba-43af3148e521",
+		"id": "0b419e92-5f43-4d35-9211-760ee5c52cc9",
 		"unreleased": true
 	},
 	{
 		"title": "n.v.t.",
-		"id": "f9f45099-fbcb-4d94-941e-432738a9752f",
+		"id": "f940fe18-30c7-42ba-a1d6-6df2709513f0",
 		"unreleased": true
 	}
 ]
