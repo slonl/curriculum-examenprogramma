@@ -2275,23 +2275,23 @@
 	},
 	{
 		"examenprogramma_domein_id": [
-			"bc0f1c37-3def-45b3-994f-a00848b0859f",
-			"14f6a7d6-a2d1-4540-8a36-50d3e9350067",
-			"6559eae6-cd14-4e87-bd55-e9ff10fa7470",
-			"504b6ad1-2396-4a80-b01a-7269f46a3293",
-			"b77cf59f-7b54-403b-93c8-e4cd088e35f2",
-			"57437825-64cf-4bb6-8dbf-7015a6a4e9f0"
+			"76c0179f-c137-48bb-8d3b-80e287fb3b9a",
+			"e304725b-d485-4406-bdd5-00a370f4989d",
+			"945db72b-1b62-4581-a262-a69b492941be",
+			"7c4cca33-6855-4a01-95bc-ce78026c4d78",
+			"ecd0fae6-088c-4079-91a2-f7d754435904",
+			"1defef49-89a7-4c44-a692-b05e40e2a53a"
 		],
 		"examenprogramma_vakleergebied_id": [
-			"6b66de44-2203-49e1-a213-6414a438daa7"
+			"27c99045-94ce-4202-b354-203e1ba49531"
 		],
 		"examenprogramma_kop1_id": [
-			"bc911615-8bae-4012-a202-e416dfe6d36b",
-			"80f03650-4e40-47fc-92d4-85c5ec26144f",
-			"eb3fb4d0-3d5d-4fa9-ab58-df0c9332f6ec"
+			"a23433cf-ff6d-471f-ac3e-91e6131ef6f0",
+			"bc7acc7d-348a-4df1-803d-d02c3fc843c2",
+			"a515f58e-1ebe-4e1b-88ba-80d1e9211f3e"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch vwo",
-		"id": "ba4ff06e-eb51-453c-b6bb-6e89ef4b2842",
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch havo",
+		"id": "f35c7f76-33bb-4bde-b274-7ab180bc322f",
 		"unreleased": true
 	}
 ]
