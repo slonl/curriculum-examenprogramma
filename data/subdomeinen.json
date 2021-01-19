@@ -8710,5 +8710,57 @@
 		"title": "Subdomein E2: Friese cultuur",
 		"id": "cb1667a3-57fa-4a34-b32c-b38e2417d328",
 		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"becfa5d8-8825-4cfc-9608-f06ff4f5ec69",
+			"a99c8b52-3a8a-4326-9d38-5a7a587a0570",
+			"1cc73784-b986-4da8-86d8-b62f7988debb",
+			"a4881cc6-e6eb-438e-a374-433993f477fe",
+			"bc6b1619-993f-412b-89a6-5356fb8e7e00"
+		],
+		"title": "Subdomein C1: Gesprekken voeren",
+		"id": "4f90134d-42fc-4700-94df-62e70faeb9e0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"e79d3db4-4e0f-481e-9c31-b80488604e5e"
+		],
+		"title": "Subdomein C2: Spreken",
+		"id": "129977df-ba2e-4782-ae30-5c4a8b25d80d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"898e0ae4-ec94-4b17-8006-dd93400a73a4",
+			"8c96f771-ed5b-4623-8283-bcd3829ffe31",
+			"1ccd446c-64ac-446f-ab27-16b61b0c1cd4"
+		],
+		"title": "Subdomein D1: Taalvaardigheden",
+		"id": "4d3e168e-9fcd-4965-9c09-37258b7fc185",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"929c0849-ce24-4bd4-9a37-755024d4d635",
+			"6a5b3694-e741-4b52-8da9-c5401335659b"
+		],
+		"title": "Subdomein D2: Strategische vaardigheden",
+		"id": "f5e78298-ee26-483b-b26a-7bfa77fa72fa",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6b4a1a6a-f94c-43ce-83cb-ac65cd3c6ecd"
+		],
+		"title": "Subdomein E1: Literaire ontwikkeling",
+		"id": "4e3ba560-ecc1-4635-a46b-1587d416bbd8",
+		"unreleased": true
 	}
 ]
