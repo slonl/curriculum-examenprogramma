@@ -8975,54 +8975,54 @@
 	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
-			"a24c1766-f9cb-4020-9a50-754befdea61c",
-			"c67c8434-881d-45ec-be17-d507d51d5d01",
-			"ec19c1f0-dedf-4c1e-8a91-690b15c04b1f",
-			"9975cfd8-5d0c-4ee9-ac55-be8717b523fa",
-			"9077d5e7-3da2-4003-a865-f1309e40927c"
+			"dce0ce1b-32e8-4892-9ba5-bc241decb7b8",
+			"ec722fea-dbf7-4bbf-9286-175c47cde940",
+			"b856f740-8097-4cc0-9ddf-510e4764d5ed",
+			"61db4a53-4f7e-4399-90e3-1f425e48808e",
+			"97c3081f-823f-4a50-9269-9ce67472408c"
 		],
 		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "bdb976b7-3a27-4fbd-8f43-e98d149396ba",
+		"id": "71023f12-d79b-4646-a231-d5e5665c5f90",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
-			"63417f3b-abab-4ab3-851e-308a8223e6f8"
+			"d26b8bed-ffa0-4054-ad85-7c6fdc9f60d5"
 		],
 		"title": "Subdomein C2: Spreken",
-		"id": "9191c284-fab2-4e85-ac91-a6d71fba385d",
+		"id": "c437db88-d330-4b6d-8e88-91c2d34010c6",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
-			"b4f5d9a3-357a-4065-8f62-1a81082874e0",
-			"f3b1f398-463d-4adb-b7ba-ae781e6d2e2c",
-			"d9d40138-ae6c-4943-8f24-b47c51772197",
-			"c065c50b-482b-4838-afaa-a564a6ae140f"
+			"3b642c58-2b7f-4e71-b423-5cf350d9572a",
+			"58df2875-0c55-47d9-8458-6bae3c466d69",
+			"c549f925-ea6a-4539-9f36-bf5360ce785a",
+			"c21bcce8-d7ff-4d59-bf25-5c2eeed76380"
 		],
 		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "286f95c4-b36e-49e9-9049-fba5211911dc",
+		"id": "677f6197-eb4b-46e3-9a23-4af94d6fb8bc",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
-			"3e7298b1-8f5a-4b8d-ab78-67096bf3c931",
-			"db222f55-2a14-4171-a862-9e50e4850dd3"
+			"1fa1e11c-b006-4635-a5a6-357b1af57ac3",
+			"ec1c22ce-d517-4ee7-b4cf-a893e9fa8b00"
 		],
 		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "78ac9c57-12c4-4b51-a733-c9d5fec3597b",
+		"id": "cf4bac49-1c9c-42c7-9932-cbe2a9ccff71",
 		"unreleased": true
 	},
 	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
-			"0e95d415-9eee-4465-9dda-983e7138e263"
+			"c8b22060-ff33-4ea8-a002-bcb89ce6055e"
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "50e769df-ea4f-4a70-85d2-b2adc5e14f3f",
+		"id": "d92137de-3219-4a73-bd6b-6333ef9a2337",
 		"unreleased": true
 	}
 ]
