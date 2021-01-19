@@ -2338,22 +2338,23 @@
 	},
 	{
 		"examenprogramma_domein_id": [
-			"e4728b96-4ace-4bbb-8763-53aee16fc1e5",
-			"053ccdce-1ad9-4610-9035-6016c13c2366",
-			"96cdd1bd-1e02-40a2-89b4-d45b2330ebe8",
-			"6c7d578d-d843-4257-a648-bce9ca4e63db",
-			"7724333b-81ea-43df-b414-e19e62d20170",
-			"179462fe-baa0-46d7-a799-abba53764544",
-			"2090271f-5f6f-4b11-bdf6-b0301b48082c",
-			"89ddc318-4747-4287-921b-a97682c8d8b0",
-			"332d5310-a624-46c7-88a2-f5935a366b79",
-			"5f239c76-dcdf-4a74-ac88-9114ef965a17"
+			"1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97",
+			"825648ba-7910-4f9a-a5fe-8712208fac18",
+			"33048b47-a377-465a-b01d-2c85778269e4",
+			"d5dae5ba-37a3-438a-a663-c2a379c70e95",
+			"f3605d5b-48c2-4997-b5ca-58b646e09d02",
+			"5b7dabe3-0aef-4bb8-97db-89b034665512"
 		],
 		"examenprogramma_vakleergebied_id": [
-			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
+			"f6b9efbb-1826-4a76-83fd-b16cf4906560"
 		],
-		"title": "Examenprogramma Arabische taal vmbo",
-		"id": "684035c5-a302-44e9-819d-5bec1ae2c508",
+		"examenprogramma_kop1_id": [
+			"8e6cb0eb-50a0-4000-9f0e-71840fd69a83",
+			"cdd2a931-79bb-4d5c-9f7a-b66280ef52fe",
+			"a16d510b-9863-4b16-a305-1eac2a85f52f"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch havo",
+		"id": "3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3",
 		"unreleased": true
 	}
 ]
