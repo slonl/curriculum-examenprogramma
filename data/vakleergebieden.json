@@ -352,5 +352,13 @@
 		"title": "Arabisch",
 		"id": "28e0a161-cc77-42d7-8c3f-f41010d1af4f",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"6b89b236-42ae-429f-bc33-422e12b53cb1"
+		],
+		"title": "Russisch",
+		"id": "f6b9efbb-1826-4a76-83fd-b16cf4906560",
+		"unreleased": true
 	}
 ]
