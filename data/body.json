@@ -5045,5 +5045,45 @@
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "c600ae6c-6772-4750-843f-45bef7866295",
 		"unreleased": true
+	},
+	{
+		"title": "Domein A Leesvaardigheid",
+		"id": "3805c7c6-0992-414d-841d-64499cd2b74a",
+		"unreleased": true
+	},
+	{
+		"title": "Domein B Kijk-en luistervaardigheid",
+		"id": "2edcc714-5df4-4270-8296-7d25bfef3a8a",
+		"unreleased": true
+	},
+	{
+		"title": "Domein C Gespreksvaardigheid",
+		"id": "2af7723a-8d4f-4576-b49f-f6b6ebb8e2b5",
+		"unreleased": true
+	},
+	{
+		"title": "Domein D Schrijfvaardigheid",
+		"id": "04d62e01-32b4-48ad-ad87-481ab023bd6f",
+		"unreleased": true
+	},
+	{
+		"title": "Domein E Literatuur",
+		"id": "618d15c5-4c7f-430c-9715-5422b6c4cb75",
+		"unreleased": true
+	},
+	{
+		"title": "Domein F Oriëntatie op studie en beroep.",
+		"id": "9594521d-837b-41a9-a3e0-f3c53f9f25f3",
+		"unreleased": true
+	},
+	{
+		"title": "Het centraal examen heeft betrekking op domein A.\r\nDe CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.\r\nDe CvTE maakt een specificatie bekend van de examenstof van het centraal examen, waarbij in elk geval het niveau in termen van het Europees Referentiekader wordt vastgesteld.",
+		"id": "fa894692-85a4-45ae-a0b2-f40c6e272915",
+		"unreleased": true
+	},
+	{
+		"title": "Het schoolexamen heeft betrekking op:\r\nde domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"id": "2df1b6b3-5a7b-4e61-a58e-4fc09a3271ec",
+		"unreleased": true
 	}
 ]
