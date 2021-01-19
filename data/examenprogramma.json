@@ -2293,5 +2293,26 @@
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch havo",
 		"id": "f35c7f76-33bb-4bde-b274-7ab180bc322f",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"ff546be4-977c-4505-bd34-ffff744b9540",
+			"019e61c2-29fb-4d3a-bfb2-1bc780dc9bbd",
+			"e62364a4-5011-4342-b96d-a01ab3923001",
+			"4d4c5d2c-c6b4-446b-93d8-0b2e862fba86",
+			"6ccba17d-b760-455e-95e3-f0a9f595af0d",
+			"02f8733c-d7b1-432f-b339-028a89cc37e1"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
+		],
+		"examenprogramma_kop1_id": [
+			"8389861b-b2da-463d-88ec-87228922475b",
+			"82728448-0923-4a5a-8e5a-4b154428ea6d",
+			"2f8f0d92-3fa0-46a1-8297-62f2d6704438"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch havo",
+		"id": "e60a632c-c7fc-4a00-936d-b7a5b4778d7f",
+		"unreleased": true
 	}
 ]
