@@ -332,6 +332,17 @@
 		"title": "Friese taal",
 		"id": "5b4b1f9c-a1ae-417b-89e6-04a30221c859",
 		"unreleased": true,
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_vakleergebied"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"782220bf-4155-4090-b218-c6957a14f963"
+		],
+		"title": "Arabisch",
+		"id": "4a0bf200-6f84-4c77-a7f0-dc245a065f7e",
+		"unreleased": true
 	}
 ]
