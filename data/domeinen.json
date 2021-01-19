@@ -7346,5 +7346,110 @@
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "bbb21971-9154-4fe8-88fb-f85db46016ef",
 		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"3ac0b756-1e32-45bc-ab54-169fe0304953"
+		],
+		"title": "Oriëntatie op leren en werken",
+		"id": "e4728b96-4ace-4bbb-8763-53aee16fc1e5",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"11e08b78-49cb-4aba-8857-ff6699052510"
+		],
+		"title": "Basisvaardigheden",
+		"id": "053ccdce-1ad9-4610-9035-6016c13c2366",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6a365e86-3e2a-4171-9699-b65c22e8233c",
+			"56038dcb-361b-416c-8690-3da4ca5295ad",
+			"d1c63961-b122-4894-a1b7-8105d8fdb07d",
+			"456fabda-7bdc-4b9a-9b64-ee0d438bca36"
+		],
+		"title": "Leervaardigheden in de Moderne Vreemde Talen",
+		"id": "96cdd1bd-1e02-40a2-89b4-d45b2330ebe8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"9fca167d-399d-423a-99ac-3d6b235b5bc0",
+			"57ad8600-2048-42d0-9705-f11b595cb9e7",
+			"3fc4f5e3-552b-40ae-bc6a-7813788ed981",
+			"6b834427-b2e4-45ff-8cc6-d49ec515b883",
+			"c7e2a27e-8c89-4a3b-b5cd-65bfd6b538a4"
+		],
+		"title": "Leesvaardigheid",
+		"id": "6c7d578d-d843-4257-a648-bce9ca4e63db",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"d5117704-7b14-4349-bedb-f692c2fc3aba",
+			"cec788cf-c14a-4e15-b9ce-4f869ee5335c",
+			"bc3f4504-05c6-4b5a-b05b-a4864f2bf27b",
+			"328c1fe4-36af-4904-82f4-8181e2974a74"
+		],
+		"title": "Luister- en kijkvaardigheid",
+		"id": "7724333b-81ea-43df-b414-e19e62d20170",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"66faddcd-6d16-4cbf-8934-5656918c82a1",
+			"2f6f7b60-0b4e-43c4-ac79-0e521501a31c",
+			"a2a2df1f-3795-4598-8f85-900000885598",
+			"8087a658-1056-48c8-95c3-ac1a65c1d260",
+			"5f95e3d5-8a4e-4ff0-9687-deaefe0599a1"
+		],
+		"title": "Gespreksvaardigheid",
+		"id": "179462fe-baa0-46d7-a799-abba53764544",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"8b7a4659-5104-475d-867f-e2c7528d3133",
+			"cfad6713-73f7-4999-95b6-5ae08b56263c"
+		],
+		"title": "Leesvaardigheid",
+		"id": "2090271f-5f6f-4b11-bdf6-b0301b48082c",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"60da3cf6-60c7-44f6-9981-2d8cf6299e84"
+		],
+		"title": "Kennis van land en samenleving",
+		"id": "89ddc318-4747-4287-921b-a97682c8d8b0",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"317d7472-b2b9-41d2-abeb-ae3516e496ec"
+		],
+		"title": "Verwerven, verwerken en verstrekken van informatie",
+		"id": "332d5310-a624-46c7-88a2-f5935a366b79",
+		"unreleased": true
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"a5c13ed1-a690-4f95-b734-f43f485c878e"
+		],
+		"title": "Vaardigheden in samenhang",
+		"id": "5f239c76-dcdf-4a74-ac88-9114ef965a17",
+		"unreleased": true
 	}
 ]
