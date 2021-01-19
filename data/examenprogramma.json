@@ -2377,5 +2377,26 @@
 		"title": "Examenprogramma Turkse taal vmbo",
 		"id": "986b8af5-7495-41d3-8764-43053750ebcd",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"5ad01101-c31f-460c-8921-28c9009ed8c5",
+			"45185532-2a06-41d2-ba1d-637d1aa50522",
+			"5e7a20e3-0771-4356-9716-e3fe7f040797",
+			"68cef046-50d7-4916-a872-8b248d0e2274",
+			"f70f7178-12d8-4fa2-aedf-452daa81525a",
+			"f46125a7-7ae8-49f9-a758-506df66d0bcb"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"df4f53f6-571b-44db-9167-27a5c4a7d59c"
+		],
+		"examenprogramma_kop1_id": [
+			"53d70b8f-17c1-4f95-a43b-4ec8a6511c8e",
+			"48d2a912-51ee-4ac9-951f-1d114c191b7e",
+			"bbe56ec4-d8fb-4e3d-87a7-b15a30daca7f"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks vwo",
+		"id": "212299a6-2cd2-4881-a197-6bb74ff9c991",
+		"unreleased": true
 	}
 ]
