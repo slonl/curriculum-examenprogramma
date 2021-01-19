@@ -2380,23 +2380,23 @@
 	},
 	{
 		"examenprogramma_domein_id": [
-			"5ad01101-c31f-460c-8921-28c9009ed8c5",
-			"45185532-2a06-41d2-ba1d-637d1aa50522",
-			"5e7a20e3-0771-4356-9716-e3fe7f040797",
-			"68cef046-50d7-4916-a872-8b248d0e2274",
-			"f70f7178-12d8-4fa2-aedf-452daa81525a",
-			"f46125a7-7ae8-49f9-a758-506df66d0bcb"
+			"810edac4-adff-4c9c-9886-69146dc02abe",
+			"e8a892ac-94c9-41fc-84c4-d97234388194",
+			"a98174f0-659b-4ae3-8d73-809593451dbf",
+			"61f3b60a-081b-485b-a89f-55a5fe2ea481",
+			"bfc8a7cc-7c5d-4772-b1f9-74068130de34",
+			"3a9e9bfb-dfda-49ca-b591-798bcb40240f"
 		],
 		"examenprogramma_vakleergebied_id": [
 			"df4f53f6-571b-44db-9167-27a5c4a7d59c"
 		],
 		"examenprogramma_kop1_id": [
-			"53d70b8f-17c1-4f95-a43b-4ec8a6511c8e",
-			"48d2a912-51ee-4ac9-951f-1d114c191b7e",
-			"bbe56ec4-d8fb-4e3d-87a7-b15a30daca7f"
+			"297966bf-da00-4289-b768-ed0d195d0b08",
+			"f1a96fbc-db47-44f1-b08c-31158ae13621",
+			"5dd8cc4a-875b-4fe0-83ac-63ebcfedf6ec"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks vwo",
-		"id": "212299a6-2cd2-4881-a197-6bb74ff9c991",
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks havo",
+		"id": "cb227107-e06f-40d7-8011-a770f8a9775b",
 		"unreleased": true
 	}
 ]
