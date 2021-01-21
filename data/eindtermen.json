@@ -25660,5 +25660,31 @@
 		"title": "n.v.t.",
 		"id": "02d6eb1d-83c4-4e53-9e13-df8122faccc3",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "70a59d27-f103-4355-90a2-087a14e88f25",
+		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.",
+		"description": "",
+		"prefix": "AR/V/DomeinE/E2/8",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "9043ec23-1d9d-4758-ab3e-f46e0dd5a5b0",
+		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief.",
+		"description": "",
+		"prefix": "AR/V/DomeinE/E3/9",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	}
 ]
