@@ -2313,7 +2313,11 @@
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch vwo",
 		"id": "ddc10650-6c3d-4666-8727-e895e0a9bf03",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "AR/V",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
