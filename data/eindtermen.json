@@ -24320,7 +24320,13 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "82a57889-3b27-4768-b663-ab5a45eea210",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinA/1a",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24329,7 +24335,13 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
 		"id": "0b5b9bcf-fcc9-4321-b71c-45d5b88d1e28",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinA/1b",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24338,7 +24350,13 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "00bf697d-b19a-430d-a987-79a4c79871ca",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinA/1c",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24347,7 +24365,13 @@
 		],
 		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven.",
 		"id": "0b46fd6b-98dd-4c6d-8f5e-c96133ac8015",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinA/1d",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24356,7 +24380,13 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
 		"id": "2545e2e6-175b-4278-aadf-220b411c2253",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinA/1d",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24365,7 +24395,13 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "6dbe38ca-768d-41cf-bb44-4258e429b765",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinB/2a",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24374,7 +24410,13 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
 		"id": "23e728ac-6541-4c7b-b6c6-658cb8bb492b",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinB/2b",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24383,7 +24425,13 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "e4b17055-acae-4528-b364-f72482efe0cd",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinB/2c",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24392,7 +24440,13 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
 		"id": "b6e67bb2-af05-48a8-b846-6e264b2c9aab",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinB/2d",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24401,7 +24455,13 @@
 		],
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
 		"id": "72518b34-8aa2-4cda-9bdc-45e35950a115",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinB/2e",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24410,7 +24470,13 @@
 		],
 		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
 		"id": "adfa2ea0-6f96-4a82-987a-234ea52afd9e",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinB/2f",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24419,7 +24485,13 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
 		"id": "a0f2ce2d-c1af-4f8c-aebf-7d764b354f5f",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinC/C1/3a",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24428,7 +24500,13 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "29c89d3d-0aba-4067-91ef-a1d28a912e70",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinC/C1/3b",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24437,7 +24515,13 @@
 		],
 		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
 		"id": "df23504d-c044-4a5d-9586-a87a7afad71a",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinC/C1/3c",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24446,7 +24530,13 @@
 		],
 		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "0e144867-b409-4ba7-892b-2b24c06ad0e3",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinC/C1/3d",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24455,7 +24545,13 @@
 		],
 		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
 		"id": "de43c328-d12b-4d23-a1e0-cd5bb376eb21",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinC/C1/3e",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24464,7 +24560,13 @@
 		],
 		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "436c5964-6ea6-40b2-b4b3-9c2c430ae0bf",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinC/C2/4",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24473,7 +24575,13 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
 		"id": "be243d60-6ded-4cb5-9419-491fbad278f7",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinD/D1/5a",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24482,7 +24590,13 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "2a6e54fd-55b8-4020-a0da-becdb61879b6",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinD/D1/5b",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24491,7 +24605,13 @@
 		],
 		"title": "De kandiaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
 		"id": "9264ea32-2abd-4d11-96ee-0b4813e66b50",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinD/D1/5c",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24500,7 +24620,13 @@
 		],
 		"title": "De kandidaat kan een verslag schrijven",
 		"id": "82bf63d9-6cc0-45bf-af2a-9551359040f4",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinD/D1/5d",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24509,7 +24635,13 @@
 		],
 		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
 		"id": "4ec5f908-1f6f-4221-99b5-5685542b95e8",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinD/D2/6a",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24518,7 +24650,13 @@
 		],
 		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
 		"id": "7c345b26-1b2d-4c43-9eed-79eada1f1f44",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinD/D2/6b",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24527,7 +24665,13 @@
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
 		"id": "09439a2c-4549-4349-8063-73e5337445b5",
-		"unreleased": true
+		"unreleased": true,
+		"description": "",
+		"prefix": "AR/V/DomeinE/E1/7",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"title": "n.v.t.",
