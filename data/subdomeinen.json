@@ -9029,5 +9029,16 @@
 		"title": "Subdomein E1: Literaire ontwikkeling",
 		"id": "d92137de-3219-4a73-bd6b-6333ef9a2337",
 		"unreleased": true
+	},
+	{
+		"id": "1f868ee4-355e-4726-afa9-5c157381cf8a",
+		"title": "Literaire begrippen",
+		"description": "",
+		"prefix": "AR/V/DomeinE/E2"
+	},
+	{
+		"id": "d4c8f735-bf5e-4e4f-8868-061e4889e8f5",
+		"title": "Subdomein E3: Literatuurgeschiedenis",
+		"prefix": "AR/V/DomeinE/E3"
 	}
 ]
