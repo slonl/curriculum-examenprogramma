@@ -2402,5 +2402,25 @@
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks havo",
 		"id": "cb227107-e06f-40d7-8011-a770f8a9775b",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"a0400dbb-4886-406b-b227-b549757f9d98",
+			"4f9e33b0-f0ee-4276-90fb-a76e6b96962d",
+			"cc43f6a5-5a45-4d79-ab3b-e509d700b41b",
+			"0755191b-2efc-4f56-bfa2-b2723012ff3c",
+			"d6f14d12-e83d-43be-bb9e-0f9157df4684",
+			"257bf344-c937-44c8-b38d-1e351b2cb5f0",
+			"c97d84a2-c97d-4fc0-8360-e043b8d61fdf",
+			"abeca698-5363-4844-beb5-3343e97331f3",
+			"c80a5ea6-17fb-4660-9e3d-f56972f87730",
+			"6ee150eb-8970-404b-a0bc-13f0ad19e36d"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
+		],
+		"title": "Examenprogramma Arabische taal vmbo",
+		"id": "c44ed430-460f-4103-98ee-bd1fd011d6f4",
+		"unreleased": true
 	}
 ]
