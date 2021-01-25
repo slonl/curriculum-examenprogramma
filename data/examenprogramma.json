@@ -2422,5 +2422,26 @@
 		"title": "Examenprogramma Arabische taal vmbo",
 		"id": "c44ed430-460f-4103-98ee-bd1fd011d6f4",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"c1013a84-381e-4f25-9c39-476f44df40e8",
+			"8fed1fec-69b2-459e-94c3-b8989e4b63c9",
+			"5185de86-f287-4d02-a9e5-081075fddba8",
+			"b645a481-fa1b-4d56-a184-36e7b3d3d468",
+			"99147c7d-b45f-4db8-8905-92614e2093fe",
+			"d3a4f06a-6ffd-4480-882f-eb6e5236f5c7"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"27c99045-94ce-4202-b354-203e1ba49531"
+		],
+		"examenprogramma_kop1_id": [
+			"8442cc09-7c42-4232-9aa4-e876ad3d4e92",
+			"6b35b530-73c3-48f0-b4d9-573a6cbf8a7c",
+			"ceca21b6-606c-424b-96e8-f8d6a23235cc"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch vwo",
+		"id": "07739ee9-913f-4ff8-bfd0-314e67f5ce05",
+		"unreleased": true
 	}
 ]
