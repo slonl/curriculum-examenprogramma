@@ -5545,8 +5545,16 @@
 	},
 	{
 		"id": "93c9a579-1e6f-46e8-8e9d-8826d47f90ed",
-		"prefix": "2.",
-		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek."
+		"prefix": "MU/V/DomeinA/A2/2c",
+		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "a3cd32db-98cf-4435-a655-5a0ba6611b8c",
@@ -5794,112 +5802,199 @@
 	},
 	{
 		"id": "891d1087-84d7-4d0a-830e-d64bb3855327",
-		"prefix": "1.",
-		"title": "De kandidaat kan een muzieknotatie en een partituur volgen.",
+		"prefix": "MU/H/DomeinA/A1/1a",
+		"title": "De kandidaat kan een muzieknotatie volgen.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "63971e8c-33ae-4b9d-9cac-954090af4e60",
-		"prefix": "1.",
+		"prefix": "MU/H/DomeinA/A1/1b",
 		"title": "De kandidaat kan klinkende eenvoudige ritmes en melodiefragmenten noteren.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "bf489c7a-3dac-4835-a69b-0007d75fb153",
-		"prefix": "1.",
+		"prefix": "MU/H/DomeinA/A1/1c",
 		"title": "De kandidaat kan muzikale aspecten onderscheiden, herkennen en benoemen naar aanleiding van klinkende voorbeelden.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "4b157bb3-d431-4625-acda-777b4a15bf19",
-		"prefix": "2.",
+		"prefix": "MU/H/DomeinA/A2/2a",
 		"title": "De kandidaat kan muzikale structuren analyseren naar aanleiding van klinkende voorbeelden.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "13bb925c-7f26-42ab-8f94-b8677afe2cc4",
-		"prefix": "2.",
+		"prefix": "MU/H/DomeinA/A2/2b",
 		"title": "De kandidaat kan muzikale processen interpreteren.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "1d260ea8-d3ce-4ade-9278-cc3d9631e121",
-		"prefix": "2.",
-		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek."
+		"prefix": "MU/H/DomeinA/A2/2c",
+		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "cad7719c-fe42-404b-96a5-2e987e7ac5d2",
-		"prefix": "3.",
+		"prefix": "MU/H/DomeinA/A3/3a",
 		"title": "De kandidaat kan historische ordening aanbrengen in de ontwikkeling van muzikale vormen en genres.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "e10f396e-da0f-41b9-873b-faf69bc99d54",
-		"prefix": "3.",
+		"prefix": "MU/H/DomeinA/A3/3b",
 		"title": "De kandidaat kan hem bekende werken plaatsen in de ontwikkelingslijn van muzieksoorten, in een geografische regio en een maatschappelijke context en kan daarbij verbanden leggen tussen cultuurhistorische perioden.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "a8562c25-9aea-4d86-acdd-44b37527c38f",
-		"prefix": "3.",
+		"prefix": "MU/H/DomeinA/A3/3c",
 		"title": "De kandidaat kan hem onbekende werken plaatsen op basis van culturele, stilistische, vormtechnische en muziekhistorische argumenten.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "7c0a5679-7903-46ed-9d78-4a2914ce014c",
-		"prefix": "3.",
+		"prefix": "MU/H/DomeinA/A3/3d",
 		"title": "De kandidaat kan op basis van een probleemstelling een onderwerp uit de muziekgeschiedenis/muziekcultuur uitwerken en daarover verslag doen",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "205807f6-46aa-4529-a67d-2e40b85660f5",
-		"prefix": "4.",
+		"prefix": "MU/H/DomeinB/B1/4a",
 		"title": "De kandidaat kan een gevarieerd repertoire uitvoeren van één- en meerstemmige vocale en/of instrumentale muziek.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "75c4148a-ae26-47a6-ae5a-be428ef6d0ee",
-		"prefix": "4.",
+		"prefix": "MU/H/DomeinB/B1/4b",
 		"title": "De kandidaat kan onvoorbereid een melodie/muziekstuk spelen.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "ecc240b5-e314-43cc-ab3f-16fea575d861",
-		"prefix": "4.",
-		"title": "De kandidaat kan een melodie treffen",
+		"prefix": "MU/H/DomeinB/B1/4c",
+		"title": "De kandidaat kan een melodie treffen.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "898c8e73-da21-4c5d-88f4-8fef6f8e19cb",
-		"prefix": "6.",
+		"prefix": "MU/H/DomeinB/B2/5",
 		"title": "De kandidaat kan muziek improviseren en componeren, vanuit een probleemstelling en met weloverwogen gebruik van muzikale materialen en middelen.",
 		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "21183829-fab9-4039-89db-fc747ff1dc16",
@@ -7546,12 +7641,17 @@
 	},
 	{
 		"id": "2fafe6b7-5361-4212-b5c8-1a86920da821",
-		"prefix": "2.",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij:",
+		"prefix": "ML/V/DomeinA/A2/2a",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij aannemelijk maken wat de relatie is tussen het vraagstuk/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8eb1de66-9d51-4608-b103-a16e86451081",
@@ -7564,21 +7664,31 @@
 	},
 	{
 		"id": "e5c334c2-5428-4f9f-903e-4719c3ea74f5",
-		"prefix": "2.",
-		"title": "beargumenteren of door het vraagstuk/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn;",
+		"prefix": "ML/V/DomeinA/A12/2b",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij beargumenteren of door het vraagstuk/probleem belangrijke waarden van de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving in het geding zijn.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "38bb4955-ffdc-4473-8ec2-33539f458738",
-		"prefix": "2.",
-		"title": "beschrijven wat de relatie is tussen het maatschappelijke vraagstuk/probleem en sociale ongelijkheid in de samenleving.",
+		"prefix": "ML/V/DomeinA/A2/2c",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij beschrijven wat de relatie is tussen het maatschappelijke vraagstuk/probleem en sociale ongelijkheid in de samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "13d64495-ab43-416d-a53b-3443a51c6125",
@@ -9806,96 +9916,159 @@
 	},
 	{
 		"id": "cca36389-68a8-4580-adbd-04e8711bb2fc",
-		"prefix": "1.",
+		"prefix": "KUMU/V/DomeinA/A1/1a",
 		"title": "De kandidaat kan een muzieknotatie en een partituur volgen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "392001cd-0df7-4494-9a09-e183dcbba716",
-		"prefix": "1.",
+		"prefix": "KUMU/V/DomeinA/A1/1b",
 		"title": "De kandidaat kan klinkende eenvoudige ritmes en melodiefragmenten noteren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "dd724715-4ae9-4609-883c-27579d211c1d",
-		"prefix": "1.",
+		"prefix": "KUMU/V/DomeinA/A1/1a",
 		"title": "De kandidaat kan muzikale aspecten onderscheiden, herkennen en benoemen naar aanleiding van klinkende voorbeelden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "81f63794-83f3-4710-aea9-7137915fea06",
-		"prefix": "2.",
+		"prefix": "KUMU/V/DomeinA/A2/2a",
 		"title": "De kandidaat kan muzikale structuren analyseren naar aanleiding van klinkende voorbeelden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "c9137afb-18db-4d93-9ff5-696af36a5cbe",
-		"prefix": "2.",
+		"prefix": "KUMU/V/DomeinA/A2/2b",
 		"title": "De kandidaat kan muzikale processen interpreteren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "35fff6e0-60e4-40bb-ac82-21fc4ac08503",
-		"prefix": "2.",
-		"title": "de kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek."
+		"prefix": "KUMU/V/DomeinA/A2/2c",
+		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"id": "a09f7102-acf7-41bd-9ed0-ac2121101715",
-		"prefix": "3.",
+		"prefix": "KUMU/V/DomeinA/A3/3a",
 		"title": "De kandidaat kan historische ordening aanbrengen in de ontwikkeling van muzikale vormen en genres.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "a96097e9-e284-472c-9423-f01397bdb1ef",
-		"prefix": "3.",
+		"prefix": "KUMU/V/DomeinA/A3/3b",
 		"title": "De kandidaat kan hem bekende werken plaatsen in de ontwikkelingslijn van muzieksoorten, in een geografische regio en een maatschappelijke context en kan daarbij verbanden leggen tussen cultuurhistorische perioden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "ed4ceb42-5ca9-4a15-842d-8c88592b3b11",
-		"prefix": "3.",
+		"prefix": "KUMU/H/DomeinA/A3/3c",
 		"title": "De kandidaat kan hem onbekende werken plaatsen op basis van culturele, stilistische, vormtechnische en muziekhistorische argumenten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "6ab374ed-8cdc-423b-ae7f-06ab167ad639",
-		"prefix": "4.",
+		"prefix": "KUMU/V/DomeinB/B1/4a",
 		"title": "De kandidaat kan een gevarieerd repertoire uitvoeren van één- en meerstemmige vocale en/of instrumentale muziek.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "e93e3b3a-afb8-418f-bc6f-b24f92c9037e",
-		"prefix": "4.",
+		"prefix": "KUMU/V/DomeinB/B1/4b",
 		"title": "De kandidaat kan onvoorbereid een melodie/muziekstuk spelen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "1f994e5e-95b0-4e89-9555-28102a196c0a",
-		"prefix": "6.",
+		"prefix": "KUMU/V/DomeinB/B2/5",
 		"title": "De kandidaat kan muziek improviseren en componeren, vanuit een probleemstelling en met weloverwogen gebruik van muzikale materialen en middelen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "85acf7e5-dcf0-4b8c-b369-40eef115b64e",
