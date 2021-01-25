@@ -2443,5 +2443,26 @@
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks vwo",
 		"id": "0c8516fd-e85c-4981-8f99-a3db39114cc6",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"340ad968-dba7-468f-b544-58bd0f009a35",
+			"7af85fcb-be6b-4c27-af2c-a7fb76518867",
+			"f8558bcc-2cf9-41eb-bad1-cdfac59722f3",
+			"8b3fca47-6f27-4c74-afaf-6a841fcfc37f",
+			"03c27faa-18b5-438e-9845-84e8e4273794",
+			"799ec1f1-9487-4c4a-9b0e-e2d6df31bc73"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"605f1968-9065-42a4-9b2b-83214684aea6"
+		],
+		"examenprogramma_kop1_id": [
+			"52e9b2c0-9d8f-41b5-af42-2722b88f594b",
+			"52066917-0189-4757-96aa-8c0bbcd47002",
+			"33da1c36-eae1-4920-b825-808a6d25eb1c"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans vwo",
+		"id": "ec8b1d71-eb21-4522-83ed-c9d297846dbb",
+		"unreleased": true
 	}
 ]
