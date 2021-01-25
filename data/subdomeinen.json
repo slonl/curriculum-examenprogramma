@@ -2842,7 +2842,8 @@
 		"id": "abc570d6-b766-46e0-a684-c99c0f8e4cbf",
 		"title": "Subdomein E2: Literaire begrippen",
 		"ce_se": "SE",
-		"prefix": "MVT/EN/H/DomeinE/E2"
+		"prefix": "MVT/EN/H/DomeinE/E2",
+		"deleted": 1
 	},
 	{
 		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
