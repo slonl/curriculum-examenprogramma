@@ -2843,7 +2843,10 @@
 		"title": "Subdomein E2: Literaire begrippen",
 		"ce_se": "SE",
 		"prefix": "MVT/EN/H/DomeinE/E2",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
@@ -3915,11 +3918,11 @@
 		"title": "Subdomein A2: Benaderingswijzen",
 		"examenprogramma_eindterm_id": [
 			"2fafe6b7-5361-4212-b5c8-1a86920da821",
-			"8eb1de66-9d51-4608-b103-a16e86451081",
 			"e5c334c2-5428-4f9f-903e-4719c3ea74f5",
 			"38bb4955-ffdc-4473-8ec2-33539f458738"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "ML/V/DomeinB/B1",
