@@ -5623,9 +5623,11 @@
 		"examenprogramma_eindterm_id": [
 			"0027614b-9738-43d4-a484-c59c5a3ef3c1",
 			"16b1d959-efd7-4bff-8c62-112cd728ed04",
-			"425568d0-a039-4061-8bae-3265ccca0c8b"
+			"425568d0-a039-4061-8bae-3265ccca0c8b",
+			"70ec03a6-916f-440e-9543-0622265389bf"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "BIO/K/7",
@@ -5675,9 +5677,11 @@
 		"title": "Reageren op prikkels",
 		"examenprogramma_eindterm_id": [
 			"98dd6f49-8dcd-47d1-b9e8-f0294943017d",
-			"08f63cfc-37b3-4609-90b6-75d4f83ac1e7"
+			"08f63cfc-37b3-4609-90b6-75d4f83ac1e7",
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "BIO/K/12",
