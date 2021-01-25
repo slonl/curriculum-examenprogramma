@@ -368,5 +368,13 @@
 		"title": "Turks",
 		"id": "df4f53f6-571b-44db-9167-27a5c4a7d59c",
 		"unreleased": true
+	},
+	{
+		"vakleergebied_id": [
+			"73abc618-988a-4409-b2ae-ff16febf68ee"
+		],
+		"title": "Spaans",
+		"id": "605f1968-9065-42a4-9b2b-83214684aea6",
+		"unreleased": true
 	}
 ]
