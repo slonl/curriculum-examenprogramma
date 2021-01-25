@@ -3274,173 +3274,258 @@
 	},
 	{
 		"id": "72e76e77-086d-43c1-a7a9-c512d5b8960c",
-		"prefix": "1.",
+		"prefix": "NE/H/DomeinA/A1/1a",
 		"title": "De kandidaat kan vaststellen tot welke tekstsoort een tekst of tekstgedeelte behoort;",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "da1a4fd6-b8f3-418d-bf78-a78464282786",
-		"prefix": "1.",
+		"prefix": "NE/H/DomeinA/A1/1b",
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven;",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "a02faeb5-828a-4ee8-aa98-c4e0de65af6b",
-		"prefix": "1.",
-		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven;",
+		"prefix": "NE/H/DomeinA/A1/1c",
+		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "34ef4843-9a2a-42df-9e89-da68daa94d45",
-		"prefix": "1.",
-		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur;",
+		"prefix": "NE/H/DomeinA/A1/1d",
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "1eeca231-4628-4fcf-955c-333cf56fc699",
-		"prefix": "1.",
-		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden;",
+		"prefix": "NE/H/DomeinA/A1/1e",
+		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "209e73d8-6f48-472c-a889-4ae7a23dbc0b",
-		"prefix": "1.",
+		"prefix": "NE/H/DomeinA/A1/1f",
 		"title": "De kandidaat kan argumentatieschema's herkennen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "2634770b-0cfb-422e-8dae-d5183b2d36a5",
-		"prefix": "2.",
+		"prefix": "NE/H/DomeinA/A2/2",
 		"title": "De kandidaat kan een betogende tekst of betogend tekstgedeelte op aanvaardbaarheid beoordelen en in deze tekst drogredenen herkennen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "43550cf5-558b-4ce0-8ae3-f99bb238156c",
-		"prefix": "3.",
+		"prefix": "NE/H/DomeinA/A3/3",
 		"title": "De kandidaat kan teksten en tekstgedeelten beknopt samenvatten.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "fea8d08f-7644-41f5-9cdb-424323424e7a",
-		"prefix": "4.",
-		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) relevante informatie verzamelen en verwerken;",
+		"prefix": "NE/H/DomeinB/B1/4a",
+		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) relevante informatie verzamelen en verwerken.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "4f249dab-cd96-4e2f-9fe4-3bf82567cb68",
-		"prefix": "4.",
-		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) deze informatie adequaat presenteren met het oog op doel, publiek en gespreksvorm;",
+		"prefix": "NE/H/DomeinB/B1/4b",
+		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) deze informatie adequaat presenteren met het oog op doel, publiek en gespreksvorm.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "1331eb2d-5b55-41a4-9f34-6a13ce74c215",
-		"prefix": "4.",
+		"prefix": "NE/H/DomeinB/B1/4c",
 		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) adequaat reageren op bijdragen van luisteraars of gespreksdeelnemers.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "a51264e4-8e4a-4fb1-a06e-7d20d150edd8",
-		"prefix": "5.",
+		"prefix": "NE/H/Domein C/C1/5a",
 		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog relevante informatie verzamelen en verwerken.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "f41ff1e9-bf86-4366-8e65-76f5fe3f976c",
-		"prefix": "5.",
+		"prefix": "NE/H/DomeinC/C1/5b",
 		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog deze informatie adequaat presenteren met het oog op doel, publiek, tekstsoort en conventies voor geschreven taal",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "04d56a30-b97d-4946-9c61-27fd25936ac6",
-		"prefix": "5.",
+		"prefix": "NE/H/DomeinC/C1/5c",
 		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog concepten van de tekst reviseren op basis van geleverd commentaar.\"",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "f0e99a4a-e7cf-4589-9eda-e50c50e497b4",
-		"prefix": "6.",
+		"prefix": "NE/H/DomeinD/D1/6a",
 		"title": "De kandidaat kan een betoog analyseren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "c82ab80b-35f7-4f63-9a11-c5aabd59a8fe",
-		"prefix": "6.",
+		"prefix": "NE/H/DomeinD/D1/6b",
 		"title": "De kandidaat kan beoordelen.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "cb16f411-e401-4e8e-bccd-b3af08144915",
-		"prefix": "6.",
+		"prefix": "NE/H/DomeinD/D1/6c",
 		"title": "De kandidaat kan zelf opzetten en presenteren, schriftelijk en mondeling.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "dc918dad-3c9e-4231-8662-11ce757a2892",
@@ -3470,30 +3555,30 @@
 		"prefix": "NE/H/DomeinE/E2/8",
 		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"ce_se": "SE",
 		"description": "",
 		"ce": 0,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "87251bd2-4c54-45f3-a50e-b8b26b71bc66",
 		"prefix": "NE/H/DomeinE/E3/9",
 		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis, en de gelezen literaire werken plaatsen in dit historisch perspectief.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"ce_se": "SE",
 		"description": "",
 		"ce": 0,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "be001bf7-5161-445c-9f24-8367525d521b",
@@ -18641,24 +18726,32 @@
 	},
 	{
 		"id": "0027614b-9738-43d4-a484-c59c5a3ef3c1",
-		"prefix": "8.",
+		"prefix": "BIO/K/6/8a",
 		"title": "De kandidaat kan de namen van organismen opzoeken en de delen waaruit ze zijn samengesteld",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "16b1d959-efd7-4bff-8c62-112cd728ed04",
-		"prefix": "8.",
+		"prefix": "BIO/K/6/8b",
 		"title": "De kandidaat kan de relaties noemen die ze onderling en met hun omgeving hebben.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "425568d0-a039-4061-8bae-3265ccca0c8b",
@@ -18757,7 +18850,7 @@
 	},
 	{
 		"id": "a2db60bd-447f-4bc7-be40-ea45666bd15b",
-		"prefix": "13.",
+		"prefix": "BIO/K/9//13a",
 		"title": "De kandidaat kan vorm, werking en functie van het verteringsstelsel, bloedvatenstelsel, ademhalingsstelsel en uitscheidingsstelsel beschrijven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -18765,11 +18858,16 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "63029ffc-3389-4c68-86c0-7a5571970ab1",
-		"prefix": "13.",
+		"prefix": "BIO/K/9/13b",
 		"title": "De kandidaat kan hun onderling verband toelichten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -18777,7 +18875,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "5353709e-073e-45d4-8902-3bc8bccbdd27",
@@ -18793,15 +18896,18 @@
 	},
 	{
 		"id": "98dd6f49-8dcd-47d1-b9e8-f0294943017d",
-		"prefix": "15.",
+		"prefix": "BI/K/11/15",
 		"title": "De kandidaat kan de rol en de werking van zenuwstelsel, zintuigstelsel en hormoonstelsel toelichten.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "08f63cfc-37b3-4609-90b6-75d4f83ac1e7",
@@ -18814,7 +18920,7 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -19636,12 +19742,17 @@
 	},
 	{
 		"id": "581e037a-56f8-455d-b57b-f8712efdc6da",
-		"prefix": "1.",
+		"prefix": "BE/H/DomeinA/A1/1",
 		"title": "De kandidaat kan doelgericht informatie zoeken, interpreteren, selecteren en verwerken.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "cba68670-af4a-4fca-aa34-38f1aeed6a69",
@@ -19822,12 +19933,17 @@
 	},
 	{
 		"id": "cc0d7162-ff46-4080-a5b2-f47b7ae1f41d",
-		"prefix": "11.",
+		"prefix": "BE/H/DomeinB/B1/11",
 		"title": "De kandidaat kan vraagstukken met persoonlijke financiële consequenties herkennen en (financieel) onderbouwde keuzes maken.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "86a20bc5-5021-469f-97c4-fd42142b8b1d",
@@ -19858,12 +19974,17 @@
 	},
 	{
 		"id": "82227957-1337-4029-a60f-e2ed37b66983",
-		"prefix": "15.",
+		"prefix": "BE/H/DomeinC/C1/15",
 		"title": "De kandidaat kan de interne organisatie (inclusief de taken van het management en de stijlen van leiderschap) van een organisatie beschrijven en deze relateren aan de doelstelling en aard van de organisatie.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "185cf54f-8835-4a27-af49-be9ed99f5a89",
@@ -19876,12 +19997,17 @@
 	},
 	{
 		"id": "8e8e94cd-5302-4e54-a3be-3409c604e16f",
-		"prefix": "17.",
+		"prefix": "BE/H/DomeinD/D1/17",
 		"title": "De kandidaat kan bij een investeringsvraagstuk beschrijven welke gegevens relevant zijn, vaststellen of een investering economisch zinvol is en hierbij verschillende investeringsselectiemethoden toepassen en analyseren.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "405ca3fd-c731-4a8f-b2fc-f14677adc03e",
@@ -19912,12 +20038,17 @@
 	},
 	{
 		"id": "36dcb8ad-7946-4f9f-ab43-a8c750ff08f5",
-		"prefix": "21.",
+		"prefix": "BE/H/DomeinE/E1/21",
 		"title": "De kandidaat kan marketing beschrijven met het oog op de te onderscheiden doelgroepen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "d7f01b71-a1e4-4e04-bc8d-c1e06361103e",
@@ -19930,12 +20061,17 @@
 	},
 	{
 		"id": "439b7592-f5e3-4941-a04f-341a73d6ae75",
-		"prefix": "23.",
+		"prefix": "BE/H/DomeinF/F1/23",
 		"title": "De kandidaat kan financiële feiten inventariseren en verwerken tot financiële overzichten.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "07fb9848-ebd8-487b-90c1-bbe5802f2bba",
@@ -19957,12 +20093,17 @@
 	},
 	{
 		"id": "13cd9721-b461-4e24-b227-5f40390f9f5a",
-		"prefix": "26.",
+		"prefix": "BE/H/DomeinG/26",
 		"title": "De kandidaat kan de jaarrekening van een eenvoudige organisatie (zoals een MKB-bedrijf) interpreteren en uitleggen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "fe52c701-d09d-4f91-887f-4c9924318b11",
