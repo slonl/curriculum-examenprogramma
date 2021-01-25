@@ -2425,23 +2425,23 @@
 	},
 	{
 		"examenprogramma_domein_id": [
-			"c1013a84-381e-4f25-9c39-476f44df40e8",
-			"8fed1fec-69b2-459e-94c3-b8989e4b63c9",
-			"5185de86-f287-4d02-a9e5-081075fddba8",
-			"b645a481-fa1b-4d56-a184-36e7b3d3d468",
-			"99147c7d-b45f-4db8-8905-92614e2093fe",
-			"d3a4f06a-6ffd-4480-882f-eb6e5236f5c7"
+			"015ecedb-b86a-4508-824b-aa1253296bb3",
+			"1e2cdaad-eca5-4e00-a6a5-1d1e0ad3989b",
+			"26f0a147-1818-4a1e-a6e8-174a95f70d9e",
+			"d32e3d66-3665-41c7-9066-a1a976fc5a55",
+			"67b6582c-e039-4963-aedc-8538b1d2d103",
+			"86e4fb35-9b07-4d84-861f-a6520cb0ea8a"
 		],
 		"examenprogramma_vakleergebied_id": [
-			"27c99045-94ce-4202-b354-203e1ba49531"
+			"df4f53f6-571b-44db-9167-27a5c4a7d59c"
 		],
 		"examenprogramma_kop1_id": [
-			"8442cc09-7c42-4232-9aa4-e876ad3d4e92",
-			"6b35b530-73c3-48f0-b4d9-573a6cbf8a7c",
-			"ceca21b6-606c-424b-96e8-f8d6a23235cc"
+			"d72f75f6-52a0-4e19-b508-f7d50d860eca",
+			"7bc81b7b-ff9a-4f74-b2e4-2676a380e153",
+			"dccb569c-e841-4aa2-8014-ca7ee40018ae"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch vwo",
-		"id": "07739ee9-913f-4ff8-bfd0-314e67f5ce05",
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks vwo",
+		"id": "0c8516fd-e85c-4981-8f99-a3db39114cc6",
 		"unreleased": true
 	}
 ]
