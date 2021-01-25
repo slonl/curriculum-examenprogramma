@@ -2464,5 +2464,25 @@
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans havo",
 		"id": "129ba6cd-7884-4fbb-9b4f-7abbec127976",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"1e1c230c-a8c9-417c-b169-30e8cbea17f1",
+			"2435d263-6129-484c-979f-dec4cdbce2ee",
+			"0eadc684-2502-4039-9786-ac965be3e902",
+			"9a6a34a0-f728-4233-92d9-881a6e1b239e",
+			"31ab751a-13c5-4ab7-b233-d414e8b77f57",
+			"99e1139c-ddaf-4838-aa74-3591e6dd2d5a",
+			"a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9",
+			"bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf",
+			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
+			"7d2a47b8-11c1-408d-bbcf-22a86bee7710"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"605f1968-9065-42a4-9b2b-83214684aea6"
+		],
+		"title": "Examenprogramma Spaanse taal vmbo",
+		"id": "787ab014-814b-436d-bd51-faa7ddf8eea4",
+		"unreleased": true
 	}
 ]
