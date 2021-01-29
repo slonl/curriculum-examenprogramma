@@ -127,8 +127,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/D/V/DomeinA",
 		"id": "fdd09e66-80f6-43ac-b91a-0b7f938d6eaa",
-		"prefix": "WI/D/V/2018/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"8850cf7b-c74e-4c91-bd1f-f8385e7b7641",
@@ -137,8 +137,8 @@
 		]
 	},
 	{
+		"prefix": "WI/D/V/DomeinB ",
 		"id": "532621b9-c573-44bc-985f-957375c03d18",
-		"prefix": "WI/D/V/2018/Domein B Kansrekening en statistiek",
 		"title": "Domein B: Kansrekening en statistiek",
 		"examenprogramma_subdomein_id": [
 			"a0715b7e-6e6e-4699-b1d3-94acee96a365",
@@ -151,8 +151,8 @@
 		]
 	},
 	{
+		"prefix": "WI/D/V/DomeinC",
 		"id": "9e6b95ce-1aaa-45e7-9cf6-c6805a3e8f5c",
-		"prefix": "WI/D/V/2018/Domein C Dynamische systemen",
 		"title": "Domein C: Dynamische systemen",
 		"examenprogramma_subdomein_id": [
 			"8f7f2f31-7cf5-47b8-a1bb-aa5a31858470",
@@ -161,8 +161,8 @@
 		]
 	},
 	{
+		"prefix": "WI/D/V/DomeinD",
 		"id": "fd1d9c93-3a21-4d0e-b76d-07ea235fbcb7",
-		"prefix": "WI/D/V/2018/Domein D Meetkunde",
 		"title": "Domein D: Meetkunde",
 		"examenprogramma_subdomein_id": [
 			"4cb72338-70e8-4ee7-b764-62e1f9b18256",
@@ -172,8 +172,8 @@
 		]
 	},
 	{
+		"prefix": "WI/D/V/DomeinE",
 		"id": "6bb713e4-e368-46cb-bd62-adf9bf9c57d2",
-		"prefix": "WI/D/V/2018/Domein E Complexe getallen",
 		"title": "Domein E: Complexe getallen",
 		"examenprogramma_subdomein_id": [
 			"1244b9aa-7ab7-4ccd-99ef-189046316965",
@@ -181,21 +181,21 @@
 		]
 	},
 	{
+		"prefix": "WI/D/V/DomeinF",
 		"id": "0b93af47-313e-466b-b9a7-7a70e25235c2",
-		"prefix": "WI/D/V/2018/Domein F Wiskunde in wetenschap",
 		"title": "Domein F: Wiskunde in wetenschap",
 		"examenprogramma_eindterm_id": [
 			"9fdececb-2d38-43c1-bf89-c3da908c97b9"
 		]
 	},
 	{
+		"prefix": "WI/D/V/DomeinG",
 		"id": "ddf07b07-9629-4bbe-9a6f-ae2943825095",
-		"prefix": "WI/D/V/2018/Domein G Keuzeonderwerpen",
 		"title": "Domein G: Keuzeonderwerpen"
 	},
 	{
+		"prefix": "WI/D/H/DomeinA",
 		"id": "aa1972e2-d258-4be3-995d-314c1b64c8a2",
-		"prefix": "WI/D/H/2018/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"c420b5df-4417-4ce7-8629-a51a39e0c442",
@@ -205,8 +205,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/D/H/DomeinB",
 		"id": "a5ed5752-d545-4e9c-a703-11b3dc006e72",
-		"prefix": "WI/D/H/2018/Domein B Statistiek en kansrekening",
 		"title": "Domein B: Statistiek en kansrekening",
 		"examenprogramma_subdomein_id": [
 			"edf7787f-f5eb-419f-adac-b634f6467801",
@@ -219,8 +219,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/D/H/DomeinC",
 		"id": "4a1b4aa6-514a-4c93-a564-8b36d3cac6f4",
-		"prefix": "WI/D/H/2018/Domein C Ruimtemeetkunde",
 		"title": "Domein C: Ruimtemeetkunde",
 		"examenprogramma_subdomein_id": [
 			"379f36ba-9193-4fbf-a5f0-058c4681d30b",
@@ -231,8 +231,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/D/H/DomeinD",
 		"id": "a83b0d48-20e2-4e49-bd43-15d4ca852cc8",
-		"prefix": "WI/D/H/2018/Domein D Wiskunde in technologie",
 		"title": "Domein D: Wiskunde in technologie",
 		"examenprogramma_eindterm_id": [
 			"a0db7dee-cafb-48a0-8526-638ef670230b"
@@ -240,14 +240,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/D/H/DomeinE",
 		"id": "f9ae7f15-3c95-4655-82f7-571852241f7a",
-		"prefix": "WI/D/H/2018/Domein E Keuzeonderwerpen",
 		"title": "Domein E: Keuzeonderwerpen",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/C/V/DomeinA",
 		"id": "2b245422-42b9-45d9-9ba0-ddc1834e4689",
-		"prefix": "WI/C/V/2018/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"4670fd2c-dfc8-441d-a671-86770c83f8f3",
@@ -264,8 +264,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "WI/C/V/DomeinB",
 		"id": "d7b55fc8-5a33-46df-93ca-66fc2c09a49c",
-		"prefix": "WI/C/V/2018/Domein B Algebra en tellen",
 		"title": "Domein B: Algebra en tellen",
 		"examenprogramma_subdomein_id": [
 			"fe7822b9-2c78-4ce3-b0e4-bbc0d9c3649e",
@@ -274,8 +274,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/C/V/DomeinC",
 		"id": "0ad1c1fe-ab04-4055-9a27-772fc07f7847",
-		"prefix": "WI/C/V/2018/Domein C Verbanden",
 		"title": "Domein C: Verbanden",
 		"examenprogramma_eindterm_id": [
 			"ba8105cc-e64b-4d9e-b62a-bb704569c0ed"
@@ -283,16 +283,16 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/C/V/DomeinD",
 		"id": "5c6d73db-9b6c-4162-9591-be3d6d9b35ac",
-		"prefix": "WI/C/V/2018/Domein D Veranderingen",
 		"title": "Domein D: Veranderingen",
 		"examenprogramma_eindterm_id": [
 			"6978a9ea-f9ae-4dd6-aeca-cf0954e4e4df"
 		]
 	},
 	{
+		"prefix": "WI/C/V/DomeinE",
 		"id": "5f9e15ce-9953-4911-bc9b-d32dbd84777b",
-		"prefix": "WI/C/V/2018/Domein E Statistiek en kansrekening",
 		"title": "Domein E: Statistiek en kansrekening",
 		"examenprogramma_subdomein_id": [
 			"06527ec3-7ba8-406e-bdf2-285e9ef64f5a",
@@ -319,8 +319,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/C/V/DomeinF",
 		"id": "0a7d168d-189c-4d00-b4cb-bc9b939811ca",
-		"prefix": "WI/C/V/2018/Domein F Logisch redeneren",
 		"title": "Domein F: Logisch redeneren",
 		"examenprogramma_eindterm_id": [
 			"ed45b4e1-abd1-4a38-ab82-a9ba8ce87c9f"
@@ -328,8 +328,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/C/V/DomeinG",
 		"id": "e58d8733-771b-4234-b2d0-76a3b5778d11",
-		"prefix": "WI/C/V/2018/Domein G Vorm en ruimte",
 		"title": "Domein G: Vorm en ruimte",
 		"examenprogramma_eindterm_id": [
 			"6ea1605e-87e3-4f31-bc96-8b0e625e9a91"
@@ -337,14 +337,14 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/C/V/DomeinH",
 		"id": "941b0c0d-de6d-428d-aa1e-657e663c7786",
-		"prefix": "WI/C/V/2018/Domein H Keuzeonderwerpen",
 		"title": "Domein H: Keuzeonderwerpen",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/B/V/DomeinA",
 		"id": "33a1bbba-1caa-4390-85ba-8b48d7805357",
-		"prefix": "WI/B/V/2018/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"5f695c47-20fe-452a-9818-7c3fcfe3e62e",
@@ -354,8 +354,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "WI/B/V/DomeinB",
 		"id": "99beabb6-863b-417f-9285-b70fd49dbfde",
-		"prefix": "WI/B/V/2018/Domein B Formules, functies en grafieken",
 		"title": "Domein B: Functies, grafieken en vergelijkingen",
 		"examenprogramma_subdomein_id": [
 			"1eb6a8d9-8f65-4839-9727-0c693f98fc58",
@@ -368,8 +368,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/B/V/DomeinC",
 		"id": "89dd0360-511e-43cd-a742-ef6730752293",
-		"prefix": "WI/B/V/2017/Domein C Differentiaal- en integraal rekening",
 		"title": "Domein C: Differentiaal- en integraalrekening",
 		"examenprogramma_subdomein_id": [
 			"771c1e81-1c1c-49af-9967-0f05770041da",
@@ -379,8 +379,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/B/V/DomeinD",
 		"id": "f3f245a0-cc81-4d97-9682-fe0f883d7da0",
-		"prefix": "WI/B/V/2018/Domein D Goniometrische functies",
 		"title": "Domein D: Goniometrische functies",
 		"examenprogramma_eindterm_id": [
 			"f5a6d458-72ac-4ca9-bfbe-fa360170a3e4"
@@ -388,8 +388,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/B/V/DomeinE",
 		"id": "653dcf75-e53f-40ae-86de-2d7a836b496b",
-		"prefix": "WI/B/V/2018/Domein E Meetkunde met coördinaten",
 		"title": "Domein E: Meetkunde met coördinaten",
 		"examenprogramma_subdomein_id": [
 			"77ef1cec-1237-48db-8b3b-d796577c2c38",
@@ -400,14 +400,14 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/B/V/DomeinF",
 		"id": "65362343-e7ab-45a3-8015-f2364ce66be3",
-		"prefix": "WI/B/V/2018/Domein F Keuzeonderwerpen",
 		"title": "Domein F: Keuzeonderwerpen",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/B/H/DomeinA",
 		"id": "8be3f4a3-3b2e-4789-a204-e31d92b92517",
-		"prefix": "WI/B/H/2017/Domein A: Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"31a4f05d-bf4b-42ca-9b6a-597a8de0007d",
@@ -417,8 +417,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "WI/B/H/DomeinB",
 		"id": "ff826223-c41b-492a-a0d4-07e5b973b881",
-		"prefix": "WI/B/H/2017/Domein B: Functies, grafieken en vergelijkingen",
 		"title": "Domein B: Functies, grafieken en vergelijkingen",
 		"examenprogramma_subdomein_id": [
 			"26335c40-3567-4112-a438-41746ca96afd",
@@ -429,8 +429,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/B/H/DomeinC",
 		"id": "ccc499e0-2534-49ac-ad48-17cca0b56485",
-		"prefix": "WI/B/H/2017/Domein C: Meetkundige berekeningen",
 		"title": "Domein C: Meetkundige berekeningen",
 		"examenprogramma_subdomein_id": [
 			"6f6323dd-3913-4b47-a13b-c34df05a9f62",
@@ -439,8 +439,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/B/H/DomeinD",
 		"id": "be208853-5136-45c6-8c83-03ab902fa985",
-		"prefix": "WI/B/H/2017/Domein D: Toegepaste analyse",
 		"title": "Domein D: Toegepaste analyse",
 		"examenprogramma_subdomein_id": [
 			"7de4fec7-bec6-4a90-a56a-b8c5a2514cc6",
@@ -451,8 +451,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "WI/A/V/DomeinA",
 		"id": "5e587a7a-1d72-474b-a757-579185f925af",
-		"prefix": "WI/A/V/2018/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"c7b8bcad-4e65-473d-9491-27ee29475f32",
@@ -462,8 +462,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "WI/A/V/DomeinB",
 		"id": "c32a021a-5672-44d0-ac52-4fddd091cd52",
-		"prefix": "WI/A/V/2018/Domein B Algebra en tellen",
 		"title": "Domein B: Algebra en tellen",
 		"examenprogramma_subdomein_id": [
 			"27b1dcc5-5849-46c9-ba5d-1e3a72639798",
@@ -472,8 +472,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/A/V/DomeinC",
 		"id": "9e34c7fc-3e72-4ec2-9e65-1884f09fb38a",
-		"prefix": "WI/A/V/2018/Domein C Verbanden",
 		"title": "Domein C: Verbanden",
 		"examenprogramma_subdomein_id": [
 			"d7f94ae5-fe8a-4e3c-b326-bd7264ad3b62",
@@ -482,8 +482,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/A/V/DomeinD",
 		"id": "ca60f778-3b28-4123-ac02-9d606b58ce05",
-		"prefix": "WI/A/V/2018/Domein D Verandering",
 		"title": "Domein D: Verandering",
 		"examenprogramma_subdomein_id": [
 			"4a37a1ef-24f5-402e-92bc-4c31404202b4",
@@ -493,8 +493,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/A/V/DomeinE",
 		"id": "56fa83d1-94a7-4713-8c56-60876a1e67ef",
-		"prefix": "WI/A/V/2018/Domein E Statistiek",
 		"title": "Domein E: Statistiek en kansrekening",
 		"examenprogramma_subdomein_id": [
 			"9f680bda-38f2-48f4-bc54-5be64cafab53",
@@ -508,14 +508,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/A/V/DomeinF",
 		"id": "aec70e35-7fb5-466e-bfed-929a31d2b975",
-		"prefix": "WI/A/V/2018/Domein F Keuzeonderwerpen",
 		"title": "Domein F: Keuzeonderwerpen",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/A/H/DomeinA",
 		"id": "b8300ada-606f-45c8-892f-cbed71adf738",
-		"prefix": "WI/A/H/2017/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"c4077610-c010-4ac7-857c-07e761b75f5f",
@@ -525,6 +525,7 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "WI/A/H/DomeinB",
 		"id": "55879400-94fc-43b1-b7cb-624346e40842",
 		"title": "Domein B: Algebra en tellen",
 		"examenprogramma_subdomein_id": [
@@ -535,8 +536,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "WI/A/H/DomeinC",
 		"id": "de5aceef-63ae-487d-b954-baed934de204",
-		"prefix": "WI/A/H/2017/Domein C Verbanden",
 		"title": "Domein C: Verbanden",
 		"examenprogramma_subdomein_id": [
 			"1bf7f15d-6a16-4133-84df-7f0d0635f9f2",
@@ -548,8 +549,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "WI/A/H/DomeinD",
 		"id": "06c9fab9-913e-46df-842a-4d76c41d8b73",
-		"prefix": "WI/A/H/2017/Domein D Verandering",
 		"title": "Domein D: Verandering",
 		"examenprogramma_eindterm_id": [
 			"c4c316c3-7483-48b3-9c18-aff814ecd6cd"
@@ -557,8 +558,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "WI/A/H/DomeinE",
 		"id": "be4bc6b1-4175-4598-b8ca-06c29b2a92f6",
-		"prefix": "WI/A/H/2017/Domein E Statistiek",
 		"title": "Domein E: Statistiek",
 		"examenprogramma_subdomein_id": [
 			"e38f47b5-b041-4247-b5d8-375dca43b006",
@@ -570,8 +571,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "THT/TV/V/DomeinA",
 		"id": "8c78af02-238d-4048-b965-ab81b8fa7bdf",
-		"prefix": "THT/V/TV/A",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"83a77040-cd39-4f3a-b998-77b6ca84eab6",
@@ -580,8 +581,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/TV/V/DomeinB",
 		"id": "2673561a-76e5-4492-8bdc-4975ec3bda92",
-		"prefix": "THT/V/TV/B",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
 			"09b29432-b8c5-4716-8b87-ccb74985f0ea"
@@ -589,14 +590,14 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/TV/V/DomeinC",
 		"id": "25deb580-a7ae-452d-a678-717c270b0035",
-		"prefix": "THT/V/TV/C",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "THT/TV/H/DomeinA",
 		"id": "36a961a1-c152-44bc-96cb-338e8ef8c713",
-		"prefix": "THT/H/TV/A",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"c0ad0d5f-2295-474e-ba64-81cf8dc6b18c",
@@ -605,8 +606,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/TV/H/DomeinB",
 		"id": "66dbceec-16e0-41e8-8068-dbca5773ecf8",
-		"prefix": "THT/H/TV/B",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
 			"92218fa1-40d7-493d-86d0-7db05380ba65"
@@ -614,14 +615,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "THT/H/V/DomeinC",
 		"id": "0e8ac3a1-d919-46a9-b9c3-891a1e6e04ad",
-		"prefix": "THT/H/V/C",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "THT/T/V/DomeinA",
 		"id": "325ee593-67f6-4910-b495-98e310ca5af8",
-		"prefix": "THT/T/V/A",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"7618a33a-e6b0-4d27-86a7-53043341c0ff",
@@ -630,8 +631,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/T/V/DomeinB",
 		"id": "edc20e03-72b8-4670-b991-b27e3a39818e",
-		"prefix": "THT/T/V/B",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
 			"9aec6a32-4424-4691-b6ab-f1593d35eb6a"
@@ -639,14 +640,14 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/T/V/DomeinC",
 		"id": "86e2cc4f-c418-4e16-88d9-d69cc65f2785",
-		"prefix": "THT/T/V/C",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "THT/T/H/DomeinA",
 		"id": "52f42938-fb77-497b-abc2-b75ae200ed73",
-		"prefix": "THT/T/H/A",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"13fc636f-53fb-458e-9159-bdd6174268f5",
@@ -655,8 +656,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/T/H/DomeinB",
 		"id": "973840c7-6db0-4aa3-98ba-ba9c176225ba",
-		"prefix": "THT/T/H/B",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
 			"26fdc231-4794-4523-8fbe-f3217c75d67f"
@@ -664,14 +665,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "THT/T/H/DomeinC",
 		"id": "664b6147-42ce-45b3-83d8-5df1303a7d35",
-		"prefix": "THT/T/C",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "SK/V/DomeinA",
 		"id": "53d03698-2109-4b17-affc-b1872855b8b4",
-		"prefix": "SK/V/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"e0535f8c-d94d-465d-8d2d-64ef90288e87",
@@ -693,8 +694,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/V/DomeinB",
 		"id": "6ac7e146-d489-4067-a463-f421c8f73672",
-		"prefix": "SK/V/Domein B Stoffen en materialen in de chemie",
 		"title": "Domein B: Stoffen en materialen in de chemie",
 		"examenprogramma_subdomein_id": [
 			"c0102181-205d-4fd1-924f-256d748cc9f1",
@@ -705,8 +706,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "SK/V/DomeinC ",
 		"id": "90134a61-c5d3-40ce-a700-83df0f4def6f",
-		"prefix": "SK/V/Domein C Chemische processen en behoudswetten",
 		"title": "Domein C: Chemische processen en behoudswetten",
 		"examenprogramma_subdomein_id": [
 			"cfb6c284-dde9-4e07-b339-d2bced30f6bd",
@@ -723,8 +724,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/V/DomeinD ",
 		"id": "8ef3519c-1bd1-4c85-86e4-41cd0447c9e1",
-		"prefix": "SK/V/Domein D Ontwikkelen van chemische kennis",
 		"title": "Domein D: Ontwikkelen van chemische kennis",
 		"examenprogramma_subdomein_id": [
 			"916d2083-a501-4844-a87a-717facffd02b",
@@ -735,8 +736,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/V/DomeinE ",
 		"id": "d51aa91d-07cb-4472-805a-17fd7bd672df",
-		"prefix": "SK/V/Domein E Innovatie en chemisch onderzoek",
 		"title": "Domein E: Innovatie en chemisch onderzoek",
 		"examenprogramma_subdomein_id": [
 			"ebbaf6f5-7e13-4dc1-9f1d-c6ee9c36769e",
@@ -748,8 +749,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/V/DomeinF",
 		"id": "5c156aca-d18f-4ef9-ad50-42ce135578ad",
-		"prefix": "SK/V/Domein F Industriële (chemische) processen",
 		"title": "Domein F: Industriële (chemische) processen",
 		"examenprogramma_subdomein_id": [
 			"c9bb5471-fce8-46e8-95f2-b64fa25e95d9",
@@ -761,21 +762,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"id": "baa21fe3-bd82-4e21-9073-bf7acc8913a3",
-		"prefix": "SK/V/Domein G Maatschappij, chemie en technologie",
-		"title": "Domein G: Maatschappij, chemie en technologie",
-		"examenprogramma_subdomein_id": [
-			"e92b6b4f-0818-4d22-a79a-e12d600edce0",
-			"3f606b05-18fd-4245-9bce-cf73e00c439c",
-			"336e0f2d-d2b9-4b56-bdd8-0c0ebd8da47f",
-			"facc0f52-0195-45ea-8c14-f0a19fe89a01",
-			"c51ead26-1e12-487e-9a3a-13a989f2c86e"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
+		"prefix": "SK/H/DomeinA",
 		"id": "1e350c67-ea8c-4518-ad5e-47c87cf562b8",
-		"prefix": "SK/H/Domein A: vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"d38176d7-3166-4be8-b3e4-ec82d6072244",
@@ -797,8 +785,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/H/DomeinB",
 		"id": "55b65b9d-3da2-4074-bc0b-fcd00754ba51",
-		"prefix": "SK/H/Domein B: Kennis van stoffen en materialen",
 		"title": "Domein B: Kennis van stoffen en materialen",
 		"examenprogramma_subdomein_id": [
 			"b096d42a-986b-481c-85f9-d83c93c72ee5",
@@ -810,8 +798,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "SK/H/DomeinC",
 		"id": "0e8c9480-6446-4dbb-83ea-157d89453c6a",
-		"prefix": "SK/H/Domein C: Kennis van chemische processen en kringlopen",
 		"title": "Domein C: Kennis van chemische processen en kringlopen",
 		"examenprogramma_subdomein_id": [
 			"2875fce6-d83d-4ff1-88bb-0d68e2a7fb71",
@@ -826,8 +814,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/H/DomeinD",
 		"id": "10594bfd-6634-4637-b3ad-dd4ca296c729",
-		"prefix": "SK/H/Domein D: Ontwerpen en experimenten in de chemie",
 		"title": "Domein D: Ontwerpen en experimenten in de chemie",
 		"examenprogramma_subdomein_id": [
 			"dd3a3568-2d0b-4293-a543-6d58c7151881",
@@ -838,8 +826,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/H/DomeinE",
 		"id": "59f2def3-9d80-4f53-9e60-c26b831e2a71",
-		"prefix": "SK/H/Domein E: Innovatieve ontwikkelingen in de chemie",
 		"title": "Domein E: Innovatieve ontwikkelingen in de chemie",
 		"examenprogramma_subdomein_id": [
 			"8a850433-7693-4267-bd97-da26545f0fa9",
@@ -849,8 +837,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "SK/H/DomeinF",
 		"id": "e5ff8820-15f8-4569-9489-11d001b42734",
-		"prefix": "SK/H/Domein F: Processen in de chemische industrie",
 		"title": "Domein F: Processen in de chemische industrie",
 		"examenprogramma_subdomein_id": [
 			"e7a4918d-0a44-4158-a77d-63072687b1ca",
@@ -862,21 +850,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"id": "baa21fe3-bd82-4e21-9073-bf7acc8913a4",
-		"prefix": "SK/H/Domein G: Maatschappij en chemische technologie",
-		"title": "Domein G: Maatschappij en chemische technologie",
-		"examenprogramma_subdomein_id": [
-			"e92b6b4f-0818-4d22-a79a-e12d600edce0",
-			"0b61cf85-c903-4f44-99f1-938564f6afa9",
-			"d707bdac-d7e1-4b79-973b-847c4141ebd8",
-			"4d7af663-d5eb-42ff-878b-943be93c98a3",
-			"0ea56ec3-ac0c-4dfc-9a8d-4ba8998cb1bc"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
+		"prefix": "NLT/V/DomeinA",
 		"id": "a4018249-5959-42eb-93a3-c55227dba702",
-		"prefix": "NLT/V/Domein A",
 		"title": "Domein A: Vaardigheden",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
@@ -899,8 +874,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/V/DomeinB ",
 		"id": "437d1f15-bcb4-4d96-83d5-82fd7c0d6e2e",
-		"prefix": "NLT/V/Domein B ",
 		"title": "Domein B: Exacte wetenschappen en technologie",
 		"examenprogramma_subdomein_id": [
 			"22778ed9-6e90-4f9b-b678-9009e760fc69",
@@ -909,8 +884,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/V/DomeinC",
 		"id": "7fcbe041-5b44-4598-8540-77e473fd8588",
-		"prefix": "NLT/V/Domein C",
 		"title": "Domein C: Aarde, natuur en heelal",
 		"examenprogramma_subdomein_id": [
 			"3f020c7a-e882-4b9b-bde0-6529c6f80f1f",
@@ -919,8 +894,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/V/DomeinD ",
 		"id": "8185cf10-c6e7-4fb6-a67b-5ec8eb7c6d5f",
-		"prefix": "NLT/V/Domein D ",
 		"title": "Domein D: Gezondheid en veiligheid",
 		"examenprogramma_subdomein_id": [
 			"e61f574a-74b4-49bd-a9ed-dba9eda7ed9f",
@@ -929,8 +904,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/V/DomeinE ",
 		"id": "8e41d2e8-6efb-4f52-9e5d-e06fd58dbb0e",
-		"prefix": "NLT/V/Domein E ",
 		"title": "Domein E: Technologische ontwikkeling",
 		"examenprogramma_subdomein_id": [
 			"18556add-e957-4d6e-9bb3-ee1496798b0a",
@@ -939,8 +914,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/V/DomeinF ",
 		"id": "6cb812c0-0901-478d-917b-baf346f50c1c",
-		"prefix": "NLT/V/Domein F ",
 		"title": "Domein F: Fundamenten van natuurwetenschap en technologie",
 		"examenprogramma_subdomein_id": [
 			"c476305f-a604-47b4-a7d1-d1dfb6a6ca47",
@@ -949,8 +924,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/H/DomeinA ",
 		"id": "3ba08ff9-ddef-40b7-8f64-c2550918236b",
-		"prefix": "NLT/H/Domein A ",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"4b99c8cf-188a-4dd2-94a3-0fce3d17e730",
@@ -970,8 +945,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/H/DomeinB ",
 		"id": "5183d6a6-c836-4660-bf14-6a5e45d13a86",
-		"prefix": "NLT/H/Domein B ",
 		"title": "Domein B: Exacte wetenschappen en technologie",
 		"examenprogramma_subdomein_id": [
 			"aa9783f6-be75-4118-ae2c-0859b976d8fa",
@@ -980,8 +955,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/H/DomeinC ",
 		"id": "15567b55-ca61-4682-9b44-f8318024a823",
-		"prefix": "NLT/H/Domein C ",
 		"title": "Domein C: Aarde en natuur",
 		"examenprogramma_eindterm_id": [
 			"742cdc8e-f3ec-436a-a4e9-b9d870cc3643"
@@ -989,8 +964,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/H/DomeinD ",
 		"id": "420cc0c2-978a-4b27-bec7-62803d9b7128",
-		"prefix": "NLT/H/Domein D ",
 		"title": "Domein D: Gezondheid, bescherming en veiligheid",
 		"examenprogramma_eindterm_id": [
 			"2ae9b857-cd0f-4a20-83f3-f8ea2940a7d4"
@@ -998,8 +973,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NLT/H/DomeinE ",
 		"id": "7f2cd3b7-8a3d-4c07-9ce9-af5ed865a55c",
-		"prefix": "NLT/H/Domein E ",
 		"title": "Domein E: Materialen, processen en producten",
 		"examenprogramma_subdomein_id": [
 			"60a0e900-6c95-4be0-b948-cccc3d818a66",
@@ -1141,69 +1116,14 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "74a6a1ca-5ff8-4bc4-9a61-ba20aed48a8b",
-		"prefix": "NE/Domein A",
-		"title": "Domein A: Leesvaardigheid",
-		"examenprogramma_subdomein_id": [
-			"b2521853-310f-475e-ab1e-26f0fc3cbab7",
-			"5cfa5a96-acba-47c0-83dc-5ac3e6d1ef1e",
-			"1ab5dce6-2809-4317-9f7b-bf19345c3644"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "3b2b49d6-c966-46a3-800b-c21f4207814b",
-		"prefix": "NE/Domein B",
-		"title": "Domein B: Mondelinge taalvaardigheid",
-		"examenprogramma_eindterm_id": [
-			"fea8d08f-7644-41f5-9cdb-424323424e7a",
-			"4f249dab-cd96-4e2f-9fe4-3bf82567cb68",
-			"1331eb2d-5b55-41a4-9f34-6a13ce74c215"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "644fc66a-9e0d-433d-902a-5ea2ae365745",
-		"prefix": "NE/Domein C",
-		"title": "Domein C: Schrijfvaardigheid",
-		"examenprogramma_eindterm_id": [
-			"a51264e4-8e4a-4fb1-a06e-7d20d150edd8",
-			"f41ff1e9-bf86-4366-8e65-76f5fe3f976c",
-			"04d56a30-b97d-4946-9c61-27fd25936ac6"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "bc221327-d0a3-4848-92ef-0a6d8712c151",
-		"prefix": "NE/Domein D",
-		"title": "Domein D: Argumentatieve vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"f0e99a4a-e7cf-4589-9eda-e50c50e497b4",
-			"c82ab80b-35f7-4f63-9a11-c5aabd59a8fe",
-			"cb16f411-e401-4e8e-bccd-b3af08144915"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"id": "03d8d70b-7ef4-4996-957a-200b9fe1211a",
-		"prefix": "NE/Domein E",
-		"title": "Domein E: Literatuur",
-		"examenprogramma_subdomein_id": [
-			"ed0b3da6-fd7a-4e13-a7de-afb9615168ae",
-			"f108928b-12a7-44d5-918e-37f2d4cb4974",
-			"f483b93f-aa2b-4365-81a6-2b3c348fd3db"
-		],
-		"ce_se": "SE"
-	},
-	{
+		"prefix": "NE/H/DomeinF",
 		"id": "72c752f2-938a-4a13-96a5-97a0ce41dd7c",
-		"prefix": "NE/Domein F",
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NA/V/DomeinA",
 		"id": "352fb802-9d15-4508-bc18-af556cec336a",
-		"prefix": "NA/V/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"8858f025-8faa-42dd-a82a-250ca9b46b42",
@@ -1225,8 +1145,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/V/DomeinB",
 		"id": "a2524a86-beb9-4f60-9384-f50161cbee96",
-		"prefix": "NA/V/Domein B Golven",
 		"title": "Domein B: Golven",
 		"examenprogramma_subdomein_id": [
 			"a4353659-d35a-4340-827b-043a58eb2fcd",
@@ -1235,8 +1155,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "NA/V/DomeinC",
 		"id": "eb904edb-9f68-4875-9565-e664b53e3bf1",
-		"prefix": "NA/V/Domein C Beweging en wisselwerking",
 		"title": "Domein C: Beweging en wisselwerking",
 		"examenprogramma_subdomein_id": [
 			"a164f225-6002-41ad-b1fb-bee2719b6445",
@@ -1246,8 +1166,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "NA/V/DomeinD",
 		"id": "aafb597c-fec0-4c0a-99e6-d265e029b781",
-		"prefix": "NA/V/Domein D Lading en veld",
 		"title": "Domein D: Lading en veld",
 		"examenprogramma_subdomein_id": [
 			"ec4d9764-d159-40ed-8266-f3d46d5e21b5",
@@ -1256,8 +1176,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "NA/V/DomeinE ",
 		"id": "0b6780cb-e18f-4888-8194-99c6cfe7df77",
-		"prefix": "NA/V/Domein E Straling en materie",
 		"title": "Domein E: Straling en materie",
 		"examenprogramma_subdomein_id": [
 			"7394859e-54d0-4e91-ae60-e9ff2ab0c943",
@@ -1267,8 +1187,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/V/DomeinF",
 		"id": "a6442789-79ac-408c-bcc1-4b225af38cfe",
-		"prefix": "NA/V/Domein F Quantumwereld en relativiteit",
 		"title": "Domein F: Quantumwereld en relativiteit",
 		"examenprogramma_subdomein_id": [
 			"be071f52-86a8-4636-8979-91a8d0e51b72",
@@ -1277,8 +1197,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/V/DomeinG",
 		"id": "0e0f724b-27c1-43d7-b5fb-b0a402ef2c37",
-		"prefix": "NA/V/Domein G Leven en aarde",
 		"title": "Domein G: Leven en aarde",
 		"examenprogramma_subdomein_id": [
 			"512e7398-40e3-4379-8e84-76066caa5fd7",
@@ -1287,8 +1207,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NA/V/DomeinH",
 		"id": "70153f99-3fbc-48e5-96d2-b78c5137d336",
-		"prefix": "NA/V/Domein H Natuurwetten en modellen",
 		"title": "Domein H: Natuurwetten en modellen",
 		"examenprogramma_eindterm_id": [
 			"20f9a476-f242-4b40-8372-8d88dae038f9"
@@ -1296,8 +1216,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "NA/V/DomeinI",
 		"id": "567aabfc-71dd-4358-9783-de8c169b0894",
-		"prefix": "NA/V/Domein I Onderzoek en ontwerp",
 		"title": "Domein I: Onderzoek en ontwerp",
 		"examenprogramma_subdomein_id": [
 			"7a283b00-c335-4ce2-80b7-36936ed5997b",
@@ -1307,8 +1227,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NA/H/DomeinA",
 		"id": "e59bf9fd-46c6-45a3-aedd-743c3f037116",
-		"prefix": "NA/H/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"bc97cfea-e2b4-4df5-8169-c939a314ec66",
@@ -1330,8 +1250,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/H/DomeinB",
 		"id": "e0ce1bfd-2243-4c4f-9da3-2512ae42bbcf",
-		"prefix": "NA/H/Domein B Beeld- en geluidstechniek",
 		"title": "Domein B: Beeld- en geluidstechniek",
 		"examenprogramma_subdomein_id": [
 			"6c51ee1c-fd73-407e-93b8-78995228058d",
@@ -1341,8 +1261,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/H/DomeinC",
 		"id": "4a0edaa6-bf85-460c-9c51-501ffcd116e5",
-		"prefix": "NA/H/Domein C Beweging en energie",
 		"title": "Domein C: Beweging en energie",
 		"examenprogramma_subdomein_id": [
 			"4d9c2bbd-65c0-42ce-b89d-0114d8b54ba6",
@@ -1351,8 +1271,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "NA/H/DomeinD",
 		"id": "4657006c-dc93-4167-827d-579187fe8269",
-		"prefix": "NA/H/Domein D Materialen",
 		"title": "Domein D: Materialen",
 		"examenprogramma_subdomein_id": [
 			"c3c9b6ab-a0f3-40a8-89d2-6a0464cb5030",
@@ -1361,8 +1281,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/H/DomeinE",
 		"id": "9f9938b2-eef2-4652-9c74-f7f36fa312cc",
-		"prefix": "NA/H/Domein E Aarde en heelal",
 		"title": "Domein E: Aarde en heelal",
 		"examenprogramma_subdomein_id": [
 			"7508584e-e1a1-486a-8557-bf9946448f31",
@@ -1371,8 +1291,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/H/DomeinF",
 		"id": "19826a04-f2f1-4af5-bf02-e23d4cd7d7d6",
-		"prefix": "NA/H/Domein F Menselijk lichaam",
 		"title": "Domein F: Menselijk lichaam*",
 		"examenprogramma_eindterm_id": [
 			"ade0b040-9cef-4d72-a07a-cd37ac0ff9ed"
@@ -1380,8 +1300,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "NA/H/DomeinG",
 		"id": "fde66085-c7fe-4013-b49f-bffbd19a2dfc",
-		"prefix": "NA/H/Domein G Meten en regelen",
 		"title": "Domein G: Meten en regelen",
 		"examenprogramma_subdomein_id": [
 			"b69eb934-a998-4c55-9b7a-0034c085bae9",
@@ -1390,8 +1310,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "NA/H/DomeinH",
 		"id": "62cdc8b9-8b38-4a97-9d8b-de6a0ebd8298",
-		"prefix": "NA/H/Domein H Natuurkunde en technologie",
 		"title": "Domein H: Natuurkunde en technologie",
 		"examenprogramma_eindterm_id": [
 			"9d99bebf-ad0c-4bcb-a242-7e6e6ae8499c"
@@ -1399,8 +1319,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "NA/H/DomeinI",
 		"id": "a3beeab4-db02-4871-a145-80af43eb1423",
-		"prefix": "NA/H/Domein I Onderzoek en ontwerp",
 		"title": "Domein I: Onderzoek en ontwerp",
 		"examenprogramma_subdomein_id": [
 			"dd6c0477-56da-4775-b6c9-c239af43eafd",
@@ -1751,8 +1671,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/EN/H/DomeinA",
 		"id": "4c9a41ef-1c73-42e8-bc06-08c06e4505aa",
-		"prefix": "MVT/Domein A",
 		"title": "Domein A: Leesvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"98e79da3-255c-4310-8844-96f81d28aa3a",
@@ -1764,8 +1684,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/EN/H/DomeinB ",
 		"id": "ad934e12-3b81-4157-8ccc-58f2a8be6a10",
-		"prefix": "MVT/Domein B ",
 		"title": "Domein B: Kijk- en luistervaardigheid",
 		"examenprogramma_eindterm_id": [
 			"32f12a79-cac0-43ef-af61-fb8b951d8f95",
@@ -1778,8 +1698,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/H/DomeinC ",
 		"id": "f6d0da70-f3f4-4165-b700-3cc5bc1bb1cd",
-		"prefix": "MVT/Domein C ",
 		"title": "Domein C: Gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [
 			"fc9fc2d9-320a-4621-98cc-73a8f58c4824",
@@ -1788,8 +1708,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/H/DomeinD ",
 		"id": "7c4c3a29-6c9c-451e-98c3-a78e397a2ac0",
-		"prefix": "MVT/Domein D ",
 		"title": "Domein D: Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [
 			"cd4d6337-e4c2-4e62-8e30-74a3e73cc980",
@@ -1798,25 +1718,23 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/H/DomeinE ",
 		"id": "512b82ad-475d-48ad-898c-e0a8dd095e69",
-		"prefix": "MVT/Domein E ",
 		"title": "Domein E: Literatuur",
 		"examenprogramma_subdomein_id": [
-			"fca9e161-1895-40d9-8aa7-a304ec98e3d4",
-			"abc570d6-b766-46e0-a684-c99c0f8e4cbf",
-			"caa27268-6b85-4c93-a9c0-7c0490ecb981"
+			"fca9e161-1895-40d9-8aa7-a304ec98e3d4"
 		],
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/H/DomeinF",
 		"id": "99387359-1d29-4541-9895-4a905f81f896",
-		"prefix": "MVT/Domein F",
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MU/V/DomeinA",
 		"id": "942afd18-8dc0-4b99-be3a-bdff22f99ec2",
-		"prefix": "MUZ/V/A",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"aac7cedb-2861-4549-a159-e769027f8eb5",
@@ -1825,8 +1743,8 @@
 		]
 	},
 	{
+		"prefix": "MU/V/DomeinB",
 		"id": "0ab9fc8e-9580-4c08-bb6a-84b1249e03e2",
-		"prefix": "MU/V/Domein B Praktijk",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_subdomein_id": [
 			"f60f52db-1b94-447b-b0a8-8a614553b5ec",
@@ -1834,8 +1752,8 @@
 		]
 	},
 	{
+		"prefix": "MU/V/DomeinC ",
 		"id": "e5911a6f-59e7-4d31-8343-d1f6e656405f",
-		"prefix": "MU/V/Domein C Oriëntatie op studie en beroep",
 		"title": "Domein C: Oriëntatie op studie en beroep"
 	},
 	{
@@ -1953,32 +1871,13 @@
 		"ce_se": "CE"
 	},
 	{
-		"id": "1671208d-7b3b-48a1-97b1-5c962763da38",
-		"prefix": "MUZ/H/A",
-		"title": "Domein A: Vaktheorie",
-		"examenprogramma_subdomein_id": [
-			"1c3d18d1-424f-4227-bc47-9300fb89172d",
-			"421a2f95-efde-459a-bdfd-a9fae3b0c7cf",
-			"d2215331-a390-4a9a-8375-20d73f700ca1"
-		]
-	},
-	{
-		"id": "5ef5d754-e93e-47d8-8ed0-dc2fac706f62",
-		"prefix": "MU/H/B",
-		"title": "Domein B: Praktijk",
-		"examenprogramma_subdomein_id": [
-			"1970edf5-e99e-4f56-a30c-0de908836b6c",
-			"f439f4ce-e854-4eda-8183-d701ece2aab5"
-		]
-	},
-	{
+		"prefix": "MU/H/DomeinC",
 		"id": "c46efd08-0cca-4222-af81-013c14750d40",
-		"prefix": "MU/H/C",
 		"title": "Domein C: Oriëntatie op studie en beroep"
 	},
 	{
+		"prefix": "MO/V/DomeinA",
 		"id": "3523a6d9-e47e-4938-9693-56915d422114",
-		"prefix": "MO/V/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
@@ -1994,8 +1893,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "MO/V/DomeinB",
 		"id": "a52cd4b0-0366-4339-8ec3-719edafb1c2b",
-		"prefix": "MO/V/Domein B Interne organisatie en personeelsbeleid",
 		"title": "Domein B: Interne organisatie en personeelsbeleid",
 		"examenprogramma_subdomein_id": [
 			"119b8040-86c4-44cc-93fe-2bca3dd93660",
@@ -2004,8 +1903,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MO/V/DomeinC",
 		"id": "1b641a37-ce5b-4263-af96-617c6d862c8a",
-		"prefix": "MO/V/Domein C Financiering van activiteiten",
 		"title": "Domein C: Financiering van activiteiten",
 		"examenprogramma_subdomein_id": [
 			"f9fd5ecf-e626-4254-8e9c-df9e3a5e9ca0",
@@ -2014,8 +1913,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MO/V/DomeinD",
 		"id": "8acb1033-c7be-4e39-bc43-11ef74e50760",
-		"prefix": "MO/V/Domein D Marketingbeleid",
 		"title": "Domein D: Marketingbeleid",
 		"examenprogramma_subdomein_id": [
 			"36d124bb-c871-4a43-8d38-b8f8fbe4a8a5",
@@ -2024,8 +1923,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MO/V/DomeinE",
 		"id": "aa24609a-91a7-4338-a5e7-b65f92d45824",
-		"prefix": "MO/V/Domein E Financieel beleid",
 		"title": "Domein E: Financieel beleid",
 		"examenprogramma_subdomein_id": [
 			"0625595f-0483-493a-bb13-c1e90368a557",
@@ -2035,8 +1934,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MO/V/DomeinF",
 		"id": "b5b5ae9c-ae28-47de-b482-413e257abab0",
-		"prefix": "MO/V/Domein F Informatievoorziening met behulp van ICT",
 		"title": "Domein F: Informatievoorziening met behulp van ICT",
 		"examenprogramma_subdomein_id": [
 			"17103337-7718-4cd3-8e56-761fc4e9f5a2",
@@ -2045,8 +1944,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MO/V/DomeinG",
 		"id": "939006cd-0e21-441d-849e-f56ccfbee0c5",
-		"prefix": "MO/V/Domein G Externe financiële verslaggeving",
 		"title": "Domein G: Externe financiële verslaggeving",
 		"examenprogramma_eindterm_id": [
 			"9cacc8e3-5a13-4334-b2ce-fa4af461721e",
@@ -2055,8 +1954,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MO/H/DomeinA",
 		"id": "64a61086-b2a2-4db1-8754-4d4159ae0579",
-		"prefix": "MO/H/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"4b7bd783-ebf3-47df-b2d6-9faf8817ec45",
@@ -2069,8 +1968,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "MO/H/DomeinB",
 		"id": "a216dbf4-6cc9-43ff-ba51-2c651d9e6451",
-		"prefix": "MO/H/Domein B Interne organisatie en personeelsbeleid",
 		"title": "Domein B: Interne organisatie en personeelsbeleid",
 		"examenprogramma_subdomein_id": [
 			"54abd4cc-1356-443a-a9bc-7a5732f25fb1",
@@ -2079,8 +1978,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MO/H/DomeinF",
 		"id": "32681378-c339-47bf-ad9f-f3504b103476",
-		"prefix": "MO/H/Domein F Financiering van activiteiten",
 		"title": "Domein C: Financiering van activiteiten",
 		"examenprogramma_subdomein_id": [
 			"5d65c4b6-6419-415e-90a5-808756f42bbc",
@@ -2089,8 +1988,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MO/H/DomeinD",
 		"id": "615924a2-9c79-4b32-a265-d7d67f2687c0",
-		"prefix": "MO/H/Domein D Marketingbeleid",
 		"title": "Domein D: Marketingbeleid",
 		"examenprogramma_subdomein_id": [
 			"a86b038d-1dc5-4124-b203-e5e6dcb3c395",
@@ -2099,8 +1998,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MO/H/DomeinE",
 		"id": "7d731e15-8fe3-486d-8a0b-86167a3d73fa",
-		"prefix": "MO/H/Domein E Financieel beleid",
 		"title": "Domein E: Financieel beleid",
 		"examenprogramma_subdomein_id": [
 			"c62435f2-6e21-4ea3-991b-b7984d2e60bc",
@@ -2109,8 +2008,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MO/H/DomeinF",
 		"id": "d9c72ed1-fe18-4037-b5ae-97bdab5acee9",
-		"prefix": "MO/H/Domein F Informatievoorziening met behulp van ICT",
 		"title": "Domein F: Informatievoorziening met behulp van ICT",
 		"examenprogramma_subdomein_id": [
 			"d15362b4-2195-4235-947e-46ad18e595ea",
@@ -2119,93 +2018,13 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MO/H/DomeinG",
 		"id": "b8039fb1-c50b-49f7-8384-2d09a484b244",
-		"prefix": "MO/H/Domein G Externe financiële verslaggeving",
 		"title": "Domein G: Externe financiële verslaggeving",
 		"ce_se": "CE"
 	},
 	{
-		"id": "c36f2622-2003-422c-8fb3-ac5b88eb2211",
-		"title": "Domein A: Vaardigheden",
-		"examenprogramma_subdomein_id": [
-			"925f09fa-fed5-4fc1-9e53-ace39ecb999c",
-			"8589f4d6-6257-4bec-9ce8-fb80ef3cc186",
-			"c8ed89fa-6adf-40af-9634-5a1d1e046400"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"id": "f3d25f6e-8239-4575-9e3f-ed7a8d7a8cae",
-		"title": "Domein B: Politieke besluitvorming",
-		"examenprogramma_subdomein_id": [
-			"ab7c8e53-1963-42a5-a2b3-4fb1b9b38858",
-			"41f1624e-f04a-4b65-a3a6-06d60ca42f33",
-			"43124154-3cb2-4821-a8a1-f2e03fa1814d",
-			"56e69f31-21d9-441f-9d11-2895c90b8a0f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "a16d38c3-c5f9-457d-9786-7bcbafabcb1f",
-		"title": "Domein C:  Massamedia",
-		"examenprogramma_subdomein_id": [
-			"7a9bd011-97e0-44c1-88cd-5689d894e0a3",
-			"ea50f734-eae6-45da-ae3c-182fcf33f767",
-			"804537eb-c8b3-4fca-9f97-f8520501feba",
-			"0aaa5efa-a81b-47e0-9f0d-fe2ee7f56f1b",
-			"982685ed-ae23-44f1-b6d8-c7de8bf18665"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "8591a1e2-0c91-4b0c-8e07-35d10c652b3f",
-		"title": "Domein D: Multiculturele samenleving",
-		"examenprogramma_subdomein_id": [
-			"3b4bcc6b-8bed-4eaa-979c-3935e1b55302",
-			"958b8c8d-a368-49c9-91b7-82cedde6c101",
-			"89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3",
-			"d718e7e1-2cb0-4e52-9e44-967ec9db7eb4"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "6760aaf1-7609-40a4-91be-a63bac9779bb",
-		"title": "Domein E: Mens en werk",
-		"examenprogramma_subdomein_id": [
-			"98e55553-55ed-485f-9724-5d0ce30b42e1",
-			"c250a4d1-73c7-49cb-9d1b-5ff458c6eae1",
-			"1d37b9ba-ae5a-48d5-a668-eb32e89916b5",
-			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b",
-			"57c0a818-acfa-484e-baef-b42dedfb357f",
-			"1c1445f8-b15e-41d1-bdc9-1175e1246d86"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "eda307f3-d4e2-444c-b0e4-783eb3214409",
-		"title": "Domein F: Criminaliteit en rechtsstaat",
-		"examenprogramma_subdomein_id": [
-			"76ad6d16-aee9-4894-8363-85d191a3f15f",
-			"cfff0210-7843-46d5-8278-967559cd89e3",
-			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
-			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
-			"b5df6539-8ad3-4efd-9d2a-8147b26ca86a"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "0791bcec-963e-43d7-b342-c8067b0e702f",
-		"title": "Domein G: Milieu en beleid",
-		"examenprogramma_subdomein_id": [
-			"c640655b-68e9-4ae7-816f-fee79967bf78",
-			"9c23257e-e6e5-4c1e-a668-02e56b926776",
-			"bfbb0ab9-cedf-406f-90d6-89b6259def94",
-			"f727d685-96f3-49df-8b4b-4cd011138ea7",
-			"b52d219f-d26f-40fe-8559-e93ebfbbf312"
-		],
-		"ce_se": "SE"
-	},
-	{
+		"prefix": "MAW/V/DomeinH",
 		"id": "fb0a5b74-a559-4ed0-adf0-87388e64223c",
 		"title": "Domein H: Ontwikkelingssamenwerking",
 		"examenprogramma_subdomein_id": [
@@ -2217,6 +2036,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MAW/H/DomeinA",
 		"id": "42eb2d4e-ec92-4a54-9c33-1fe22728ddac",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -2227,6 +2047,7 @@
 		"ce_se": "SE; CE"
 	},
 	{
+		"prefix": "MAW/H/DomeinB",
 		"id": "040819fb-d634-49db-97a6-417d54e21d82",
 		"title": "Domein B: Vorming (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
@@ -2238,6 +2059,7 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MAW/H/DomeinC",
 		"id": "b0226c22-2a22-4468-abe7-98c5a97b66ad",
 		"title": "Domein C:  Verhouding (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
@@ -2251,6 +2073,7 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MAW/H/DomeinD",
 		"id": "a84c8c77-dd4d-43f2-8c4d-e10190fc15ad",
 		"title": "Domein D: Binding (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
@@ -2262,6 +2085,7 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MAW/H/DomeinE",
 		"id": "4be00808-c041-4ac8-9a0d-7b10f37a7a7b",
 		"title": "Domein E: Verandering (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
@@ -2273,6 +2097,7 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "MAW/H/DomeinF",
 		"id": "49a9cde9-2927-42fc-9608-318d4956c78e",
 		"title": "Domein F: Analyse van een sociale actualiteit",
 		"examenprogramma_subdomein_id": [
@@ -2282,6 +2107,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MAW/H/DomeinG",
 		"id": "7ad5ae2f-2316-4183-9f09-26e2b506af81",
 		"title": "Domein G:  Analyse van een politieke actualiteit (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
@@ -2293,18 +2119,8 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
-		"prefix": "ML/V/Domein A Vaardigheden",
-		"title": "Domein A: Vaardigheden",
-		"examenprogramma_subdomein_id": [
-			"fcf9a359-2d4d-499e-ac04-420e8f84499e",
-			"5b653a87-06f1-41a8-a92d-9596331ef396"
-		],
-		"ce_se": "SE"
-	},
-	{
+		"prefix": "ML/V/DomeinB",
 		"id": "8505ae81-c96f-49a0-8b21-8abd14a4c70e",
-		"prefix": "ML/V/Domein B Rechtsstaat",
 		"title": "Domein B: Rechtsstaat",
 		"examenprogramma_subdomein_id": [
 			"238fd35d-ecc7-45ad-ab49-fb8f62e1c3fc",
@@ -2314,8 +2130,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/V/DomeinC",
 		"id": "de76c704-e43d-4fae-af12-04809e053828",
-		"prefix": "ML/V/Domein C Parlementaire democratie",
 		"title": "Domein C: Parlementaire democratie",
 		"examenprogramma_subdomein_id": [
 			"2c9c1548-267a-402b-a0f9-73e58e9061c8",
@@ -2325,8 +2141,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/V/DomeinD",
 		"id": "cbb14582-ca64-4650-a179-4b8d0f2cb324",
-		"prefix": "ML/V/Domein D Verzorgingsstaat",
 		"title": "Domein D: Verzorgingsstaat",
 		"examenprogramma_subdomein_id": [
 			"4a47ccf2-7b5f-4450-9fd6-7e65aff70e4b",
@@ -2337,8 +2153,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/V/DomeinE",
 		"id": "493af023-4d6a-4d13-b7a8-f9448fc3ec4e",
-		"prefix": "ML/V/Domein E Pluriforme samenleving",
 		"title": "Domein E: Pluriforme samenleving",
 		"examenprogramma_subdomein_id": [
 			"f9c497e3-84b4-4d08-972c-5c0254e811d1",
@@ -2435,8 +2251,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/H/DomeinA",
 		"id": "1084fd95-07df-4a71-b85f-0a99e31ad59e",
-		"prefix": "ML/H/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"22d8c3a9-396f-4984-af4f-3616df87d7e7",
@@ -2445,8 +2261,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/H/DomeinB",
 		"id": "0f9f4e77-c360-4595-ae0f-f0e4758d64ff",
-		"prefix": "ML/H/Domein B Rechtsstaat",
 		"title": "Domein B: Rechtsstaat",
 		"examenprogramma_subdomein_id": [
 			"327a4cda-850f-41b3-886b-3ab2264bda18",
@@ -2456,8 +2272,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/H/DomeinC",
 		"id": "935113b9-0d51-4298-ad00-9884aecbac70",
-		"prefix": "ML/H/Domein C Parlementaire democratie",
 		"title": "Domein C: Parlementaire democratie",
 		"examenprogramma_subdomein_id": [
 			"6d37b306-11af-46c7-8b82-f9957a584446",
@@ -2467,8 +2283,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/H/DomeinD",
 		"id": "fe71ea1a-8596-43dd-88ec-a89214ca403d",
-		"prefix": "ML/H/Domein D Verzorgingsstaat",
 		"title": "Domein D: Verzorgingsstaat",
 		"examenprogramma_subdomein_id": [
 			"6ff86b0c-84e9-49f6-bda9-4ebcd1459bc4",
@@ -2479,8 +2295,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/H/DomeinE",
 		"id": "0b4c18e5-af30-43ef-9652-f6795ac1e590",
-		"prefix": "ML/H/Domein E Pluriforme samenleving",
 		"title": "Domein E: Pluriforme samenleving",
 		"examenprogramma_subdomein_id": [
 			"439b1fc1-7c98-4e16-bc3b-e077e8dfc2cf",
@@ -2635,8 +2451,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "LO/H/DomeinA",
 		"id": "37cec167-172d-4ca7-b5b5-d72d2e7ead96",
-		"prefix": "LO/Domein A: Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_eindterm_id": [
 			"e8fafe3b-88f6-412a-902f-665a2c7b8892"
@@ -2644,8 +2460,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "LO/H/DomeinB",
 		"id": "88cb2225-ed7d-4a4a-9939-d4ba5eb8ca26",
-		"prefix": "LO/Domein B: Bewegen",
 		"title": "Domein B: Bewegen",
 		"examenprogramma_eindterm_id": [
 			"adc7666a-29f7-4d4e-8629-42afa03105b3",
@@ -2656,8 +2472,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "LO/H/DomeinC",
 		"id": "addf3719-9924-48c2-ad0a-f7c9595bdcb7",
-		"prefix": "LO/Domein C: Bewegen en regelen",
 		"title": "Domein C: Bewegen en regelen",
 		"examenprogramma_eindterm_id": [
 			"bb257671-84a3-4438-9372-9d104771e267",
@@ -2666,8 +2482,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "LO/H/V/DomeinD",
 		"id": "95700647-e009-4582-996c-0a59871218df",
-		"prefix": "LO/Domein D: Bewegen en gezondheid",
 		"title": "Domein D: Bewegen en gezondheid",
 		"examenprogramma_eindterm_id": [
 			"baf313e7-cece-489f-b2af-a9f749829038"
@@ -2675,8 +2491,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "LO/H/DomeinE",
 		"id": "931078f6-9d20-44b9-874e-e489db3cf4f7",
-		"prefix": "LO/Domein E: Bewegen en samenleving",
 		"title": "Domein E: Bewegen en samenleving",
 		"examenprogramma_eindterm_id": [
 			"7af557b6-9047-4ff6-92c9-57456bdefd8f"
@@ -2887,8 +2703,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "LTC/V/DomeinA ",
 		"id": "ad2bd610-8202-4c79-a05a-a570afb5bd7e",
-		"prefix": "LA/V/Domein A ",
 		"title": "Domein A: Reflectie op klassieke teksten en antieke cultuur",
 		"examenprogramma_subdomein_id": [
 			"0b3d371e-1f15-4626-9495-39eda20657c5",
@@ -2897,8 +2713,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "LTC/V/DomeinB ",
 		"id": "c744695c-029c-4b3c-917c-008cc4da728f",
-		"prefix": "LA/V/Domein B ",
 		"title": "Domein B: Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur",
 		"examenprogramma_eindterm_id": [
 			"f4021ef9-3423-4da7-b907-bb3a0acbbf37",
@@ -2909,8 +2725,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "LTC/V/DomeinC ",
 		"id": "b33a9c85-6806-446d-abdd-1a352df0c4ef",
-		"prefix": "LA/V/Domein C ",
 		"title": "Domein C: Zelfstandige oordeelsvorming",
 		"examenprogramma_eindterm_id": [
 			"605d6297-c3e7-4e8e-840a-cb0687be013a",
@@ -2919,14 +2735,14 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "LTC/V/DomeinD ",
 		"id": "6885edcd-8b77-42e3-aa04-5be35acf4d8f",
-		"prefix": "LA/V/Domein D ",
 		"title": "Domein D: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "LTC/V/DomeinE",
 		"id": "e4a6646e-0840-4da1-ae99-bec417a0b37a",
-		"prefix": "LA/V/Domein E",
 		"title": "Domein E: Informatievaardigheden",
 		"examenprogramma_eindterm_id": [
 			"6517078b-0f64-4133-a3b1-2e276eb581d4",
@@ -2938,8 +2754,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/K/1",
 		"id": "f99831f7-f16b-471c-a1b0-c24015c9538d",
-		"prefix": "KV/K/1",
 		"title": "Oriëntatie op leren en werken",
 		"examenprogramma_eindterm_id": [
 			"8511ebea-5011-431f-81ff-5912439bd601"
@@ -2947,8 +2763,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/K/2",
 		"id": "1867605e-8398-452f-a4dd-c599b5b73671",
-		"prefix": "KV/K/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_eindterm_id": [
 			"ffe72d41-e112-4528-967f-35910a50e750"
@@ -2974,8 +2790,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUMU/V/DomeinA",
 		"id": "9cbbf01a-3cb5-46dd-9b72-5c4fc1421d2e",
-		"prefix": "MU/V/Domein A Vaktheorie",
 		"title": "Domein A: Vaktheorie",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
@@ -2987,8 +2803,8 @@
 		]
 	},
 	{
+		"prefix": "KUMU/V/DomeinB",
 		"id": "a34976df-1101-492b-8cfb-0123c25d749d",
-		"prefix": "MU/V/Domein B Praktijk",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_subdomein_id": [
 			"c4cbe2ae-3e21-43a2-9ba4-385c7a4aa753",
@@ -2996,13 +2812,13 @@
 		]
 	},
 	{
+		"prefix": "KUMU/V/DomeinC",
 		"id": "281e83d1-edd5-4e92-b912-a73a9aa51e5e",
-		"prefix": "MU/V/Domein C Oriëntatie op studie en beroep",
 		"title": "Domein C: Oriëntatie op studie en beroep"
 	},
 	{
+		"prefix": "KUMU/H/DomeinA",
 		"id": "efc5b46e-9b9d-441e-b5b5-5f0429387a14",
-		"prefix": "MU/H/Domein A Vaktheorie",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"fcbab1e6-bd07-41b8-9509-f9de7efe045a",
@@ -3012,8 +2828,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUMU/H/DomeinB",
 		"id": "a78e446f-fa61-48b9-af63-e11e52ef3caa",
-		"prefix": "MU/H/Domein B Praktijk",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_subdomein_id": [
 			"e3d8b71c-de52-4313-b125-e4a2f8521072",
@@ -3022,14 +2838,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUMU/H/DomeinC",
 		"id": "7d421cdf-40b3-477d-bc98-1e26d76d6a51",
-		"prefix": "MU/H/Domein C Oriëntatie op studie en beroep",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDR/V/DomeinA",
 		"id": "c204213a-3a69-4c77-aa6c-62ebd77f8ba6",
-		"prefix": "DR/V/Domein A Vaktheorie",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"de6752fd-6364-481d-8b65-1ca75179869c",
@@ -3040,8 +2856,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDR/V/DomeinB",
 		"id": "77254dcf-a411-4d54-a8bb-80932bc9f5c6",
-		"prefix": "DR/V/Domein B Praktijk",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_subdomein_id": [
 			"98f4c52c-b47a-482c-b21c-14ce03414c25",
@@ -3051,14 +2867,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDR/V/DomeinC",
 		"id": "fc25e03f-e5f4-451e-8a95-c4d6dcee5902",
-		"prefix": "DR/V/Domein C Oriëntatie op studie en beroep",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDR/H/DomeinA",
 		"id": "3af43409-6944-43e9-b7ff-894441d04e73",
-		"prefix": "DR/H/Domein A Vaktheorie",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"06e5ca18-98f4-457e-889f-32cb1ec7b5f5",
@@ -3068,8 +2884,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDR/H/DomeinB Praktijk",
 		"id": "ec607fdf-97d4-4abd-ae90-e653c152cfeb",
-		"prefix": "DR/H/Domein B Praktijk",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_subdomein_id": [
 			"7fdf0296-8240-47c7-ac7d-585596abb024",
@@ -3079,14 +2895,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDR/H/DomeinC",
 		"id": "e71bb596-58a0-4433-8a38-0cab05a1eadd",
-		"prefix": "DR/H/Domein C Oriëntatie op studie en beroep",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDA/V/DomeinA",
 		"id": "0d981433-2c5e-4dfc-a88d-8bc535968b28",
-		"prefix": "DA/V/Domein A Vaktheorie",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"ecda86ee-eba5-4e6a-8b1a-d2b1d5131a6a",
@@ -3096,8 +2912,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDA/V/DomeinB",
 		"id": "75df6ab8-5f7e-477f-a9fc-bf7d31ee48a2",
-		"prefix": "DA/V/Domein B Praktijk",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_subdomein_id": [
 			"7fe9a9f9-7eff-40de-aca1-98c97e7ab336",
@@ -3107,14 +2923,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDA/V/DomeinC",
 		"id": "ff22e6f7-2ac1-4c04-9346-478d16fdc941",
-		"prefix": "DA/V/Domein C Orieëntatie op studie en beroep",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "KUDA/H/DomeinA",
 		"id": "e7571bf0-fee6-4c6d-8928-3b29f147f721",
-		"prefix": "DA/H/Domein A Vaktheorie",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"45080902-b132-4384-a673-4979fffeb8ed",
@@ -3123,8 +2939,8 @@
 		]
 	},
 	{
+		"prefix": "KUDA/H/DomeinB",
 		"id": "9735a2ad-843a-4a88-b0fd-da42c03c84d0",
-		"prefix": "DA/H/Domein B Praktijk",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_subdomein_id": [
 			"0891d3d1-aa8e-46ef-b521-da09ef967dfa",
@@ -3133,11 +2949,12 @@
 		]
 	},
 	{
+		"prefix": "KUDA/H/DomeinC",
 		"id": "f0e5e465-14fe-4ed2-a37e-ffa3d4a351c0",
-		"prefix": "DA/H/Domein C Oriëntatie op studie en beroep",
 		"title": "Domein C: Oriëntatie op studie en beroep"
 	},
 	{
+		"prefix": "KUBV/V/DomeinA",
 		"id": "89769514-a6d6-4605-825d-8ea4ff3bb712",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
@@ -3147,6 +2964,7 @@
 		]
 	},
 	{
+		"prefix": "KUBV/V/DomeinB",
 		"id": "541af3a4-85b3-437f-becf-9756f9a07d56",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
@@ -3154,10 +2972,12 @@
 		]
 	},
 	{
+		"prefix": "KUBV/V/DomeinC",
 		"id": "2bd1d16a-a01a-4e25-88b6-60b1c75d8c7c",
 		"title": "Domein C: Oriëntatie op studie en beroep"
 	},
 	{
+		"prefix": "KUBV/H/DomeinA",
 		"id": "d36c7a47-92d0-4f1a-b7ce-28557bcf309a",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
@@ -3166,6 +2986,7 @@
 		]
 	},
 	{
+		"prefix": "KUBV/H/DomeinB",
 		"id": "145577b2-c759-4385-a977-5db870f77bfe",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
@@ -3173,12 +2994,13 @@
 		]
 	},
 	{
+		"prefix": "KUBV/H/DomeinC",
 		"id": "d2704a46-359f-496a-8132-6d3958aeb416",
 		"title": "Domein C: Oriëntatie op studie en beroep"
 	},
 	{
+		"prefix": "KUA/V/DomeinA",
 		"id": "bf818f4a-bde0-4dfd-96df-92c7e3cab0d6",
-		"prefix": "KA/V/A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_eindterm_id": [
 			"a8d8324f-e246-46fd-9ff0-5bc783cd6b92",
@@ -3189,8 +3011,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "KUA/V/DomeinB",
 		"id": "c62899f0-fdae-40a9-a83d-108cc3705b05",
-		"prefix": "KA/V/B",
 		"title": "Domein B: Invalshoeken voor reflectie",
 		"examenprogramma_subdomein_id": [
 			"f2c4a0c6-84b7-439a-9e28-e993816d7d55",
@@ -3202,6 +3024,7 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "KUA/V/DomeinC",
 		"id": "20ad73f2-45b8-41ce-b125-11a1c61cdcd6",
 		"title": "Domein C: Onderwerpen",
 		"examenprogramma_eindterm_id": [
@@ -3215,8 +3038,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "KUA/H/DomeinA",
 		"id": "a1923ed8-ac58-4c41-867e-a0fd722f90ef",
-		"prefix": "KA/H/A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_eindterm_id": [
 			"65ef86fc-5b40-468d-9c0e-42d7bdbfe23c",
@@ -3227,8 +3050,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "KUA/H/DomeinB",
 		"id": "deace129-4ee2-445f-9ac3-603eb02b901f",
-		"prefix": "KA/H/B",
 		"title": "Domein B: Invalshoeken voor reflectie",
 		"examenprogramma_subdomein_id": [
 			"7b6ad021-574a-450f-b7e4-f3162202b0f6",
@@ -3241,8 +3064,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "KUA/H/DomeinC",
 		"id": "d8a2560e-bf4e-4d1b-8fb1-e6c4c945206b",
-		"prefix": "KA/H/C",
 		"title": "Domein C: Onderwerpen",
 		"examenprogramma_eindterm_id": [
 			"3a43ced5-4b0c-4e50-9ead-484ee73e0524",
@@ -3343,6 +3166,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "INF/V/DomeinA",
 		"id": "167d9388-a21b-4365-bcc2-691fdf6270af",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -3362,6 +3186,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinB",
 		"id": "f10329d0-7f11-41cb-92d6-8f298a3d9148",
 		"title": "Domein B: Grondslagen",
 		"examenprogramma_subdomein_id": [
@@ -3372,6 +3197,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinC",
 		"id": "716340b8-0998-4b75-b6fe-ceb52fcc57d7",
 		"title": "Domein C: Informatie",
 		"examenprogramma_subdomein_id": [
@@ -3383,6 +3209,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinD",
 		"id": "4415a917-36cd-4e39-b8de-229029d1bd1f",
 		"title": "Domein D: Programmeren",
 		"examenprogramma_subdomein_id": [
@@ -3391,6 +3218,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinE",
 		"id": "db8f9ac2-fd61-45bc-84b0-cbcbc58e1d4d",
 		"title": "Domein E: Architectuur",
 		"examenprogramma_subdomein_id": [
@@ -3399,6 +3227,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinF",
 		"id": "408c8ff3-8988-4463-a51d-068ad1d6442e",
 		"title": "Domein F: Interactie",
 		"examenprogramma_subdomein_id": [
@@ -3409,6 +3238,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinG",
 		"id": "7738d401-12d7-4073-845b-8b1d347c7a54",
 		"title": "Domein G: Keuzethema Algoritmiek, berekenbaarheid en logica",
 		"examenprogramma_subdomein_id": [
@@ -3418,6 +3248,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinH",
 		"id": "b4fbae24-5049-4449-bfca-04bf4f1b81fd",
 		"title": "Domein H: Keuzethema Databases",
 		"examenprogramma_subdomein_id": [
@@ -3427,6 +3258,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinI",
 		"id": "270fd109-962b-44d7-bde4-f7bb185df7c1",
 		"title": "Domein I: Keuzethema Cognitive computing",
 		"examenprogramma_subdomein_id": [
@@ -3436,6 +3268,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinJ",
 		"id": "253c5ec8-dbf7-4cb0-9a30-c84414a9737e",
 		"title": "Domein J: Keuzethema Programmeerparadigma’s",
 		"examenprogramma_subdomein_id": [
@@ -3444,6 +3277,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinK",
 		"id": "f7f8aaef-7fb7-46d1-9d19-746bb7fffd9e",
 		"title": "Domein K: Keuzethema Computerarchitectuur",
 		"examenprogramma_subdomein_id": [
@@ -3454,6 +3288,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinL",
 		"id": "8222a7f3-c901-4ad7-ae6e-a6b81b591404",
 		"title": "Domein L: Keuzethema Netwerken",
 		"examenprogramma_subdomein_id": [
@@ -3464,6 +3299,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinM",
 		"id": "8f2a5702-9dc1-4b75-a80b-806b2c9639e8",
 		"title": "Domein M: Keuzethema Physical computing",
 		"examenprogramma_subdomein_id": [
@@ -3472,6 +3308,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinN",
 		"id": "45678f59-6f37-4450-a14e-c863cdedbace",
 		"title": "Domein N: Keuzethema Security",
 		"examenprogramma_subdomein_id": [
@@ -3480,6 +3317,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinO",
 		"id": "94f73258-1170-428a-bd45-46b780e342ca",
 		"title": "Domein O: Keuzethema Usability",
 		"examenprogramma_subdomein_id": [
@@ -3489,6 +3327,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinP",
 		"id": "6d68a9ab-08ac-4612-9b05-28e24c6daa4c",
 		"title": "Domein P: Keuzethema User Experience",
 		"examenprogramma_subdomein_id": [
@@ -3497,6 +3336,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinQ",
 		"id": "878b20fb-0ad3-4908-b3b6-ba58e38d632d",
 		"title": "Domein Q: Keuzethema Maatschappelijke en individuele invloed van informatica",
 		"examenprogramma_subdomein_id": [
@@ -3507,6 +3347,7 @@
 		]
 	},
 	{
+		"prefix": "INF/V/DomeinR",
 		"id": "5ebe26d7-44a5-4ffa-94fc-7290b4c011aa",
 		"title": "Domein R: Keuzethema Computational Science",
 		"examenprogramma_subdomein_id": [
@@ -3515,6 +3356,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinA",
 		"id": "54b16660-d706-43ae-857d-eb328928d379",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -3534,6 +3376,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinB",
 		"id": "5c7dd5c7-5b30-47c2-943e-526bfb669837",
 		"title": "Domein B: Grondslagen",
 		"examenprogramma_subdomein_id": [
@@ -3544,6 +3387,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinC",
 		"id": "f6188130-403a-4549-ace8-bac21e5a7f8c",
 		"title": "Domein C: Informatie",
 		"examenprogramma_subdomein_id": [
@@ -3555,6 +3399,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinD",
 		"id": "d81b5878-513d-474a-92f6-9323f6be80b3",
 		"title": "Domein D: Programmeren",
 		"examenprogramma_subdomein_id": [
@@ -3563,6 +3408,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinE",
 		"id": "0a3d4e09-287e-4598-9e81-c931977eb652",
 		"title": "Domein E: Architectuur",
 		"examenprogramma_subdomein_id": [
@@ -3571,6 +3417,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinF",
 		"id": "ee12c25e-6c71-4aea-a86f-f909643b18f0",
 		"title": "Domein F: Interactie",
 		"examenprogramma_subdomein_id": [
@@ -3581,6 +3428,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinG",
 		"id": "66190d39-b991-4221-856f-abadc83e277b",
 		"title": "Domein G: Keuzethema Algoritmiek, berekenbaarheid en logica",
 		"examenprogramma_subdomein_id": [
@@ -3590,6 +3438,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinH",
 		"id": "af3d73fb-dee7-4312-9df9-838c4e91cce9",
 		"title": "Domein H: Keuzethema Databases",
 		"examenprogramma_subdomein_id": [
@@ -3599,6 +3448,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinI",
 		"id": "93a08322-378b-42f8-a27d-cb1ddf5b3c6f",
 		"title": "Domein I: Keuzethema Cognitive computing",
 		"examenprogramma_subdomein_id": [
@@ -3608,6 +3458,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinJ",
 		"id": "747394b0-de94-4fac-89ee-76443de5bfd5",
 		"title": "Domein J: Keuzethema Programmeerparadigma’s",
 		"examenprogramma_subdomein_id": [
@@ -3616,6 +3467,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinK",
 		"id": "103f3ec6-80cd-45c3-a6e2-01a2580c94e3",
 		"title": "Domein K: Keuzethema Computerarchitectuur",
 		"examenprogramma_subdomein_id": [
@@ -3626,6 +3478,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinL",
 		"id": "fd6bc119-823d-487e-9f67-04035188d76c",
 		"title": "Domein L: Keuzethema Netwerken",
 		"examenprogramma_subdomein_id": [
@@ -3636,6 +3489,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinM",
 		"id": "1b2a9bcc-e0cf-47a2-8260-ab349345ac7b",
 		"title": "Domein M: Keuzethema Physical computing",
 		"examenprogramma_subdomein_id": [
@@ -3644,6 +3498,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinN",
 		"id": "8dfa584a-316d-4e6e-b5eb-eee810d91d87",
 		"title": "Domein N: Keuzethema Security",
 		"examenprogramma_subdomein_id": [
@@ -3652,6 +3507,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinO",
 		"id": "0b73b54e-7ce6-44b1-8298-588b001e0ff5",
 		"title": "Domein O: Keuzethema Usability",
 		"examenprogramma_subdomein_id": [
@@ -3661,6 +3517,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinP",
 		"id": "331ccae1-5ece-408e-8958-5e6e87bfd07c",
 		"title": "Domein P: Keuzethema User Experience",
 		"examenprogramma_subdomein_id": [
@@ -3669,6 +3526,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinQ",
 		"id": "2406802f-2b6e-435a-89aa-d0f5d61c45b8",
 		"title": "Domein Q: Keuzethema Maatschappelijke en individuele invloed van informatica",
 		"examenprogramma_subdomein_id": [
@@ -3679,6 +3537,7 @@
 		]
 	},
 	{
+		"prefix": "INF/H/DomeinR",
 		"id": "89d216ab-55dc-48c4-b4ee-f1e2c4474651",
 		"title": "Domein R: Keuzethema Computational Science",
 		"examenprogramma_subdomein_id": [
@@ -3687,8 +3546,8 @@
 		]
 	},
 	{
+		"prefix": "THT/H/V/DomeinA",
 		"id": "8311e93b-7817-47f0-8062-0853b35f4502",
-		"prefix": "THT/V/H/A",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"fec4f085-a150-4de2-8985-f798f0ff4ae8",
@@ -3697,8 +3556,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/H/V/DomeinB",
 		"id": "63c2168c-503e-40cf-979a-1661e1d3acd9",
-		"prefix": "THT/V/H/B",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
 			"a428e05e-950b-4fa2-b47b-01b5e522e599"
@@ -3706,14 +3565,14 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/H/V/DomeinC",
 		"id": "a2084e24-6371-4088-93a7-39b2893298b2",
-		"prefix": "THT/V/H/C",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "THT/H/H/DomeinA",
 		"id": "aedaa6a7-47b9-41db-b2a0-5b258f1fd34b",
-		"prefix": "THT/H/H/A",
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"427578d1-46a3-4514-84bc-345345632958",
@@ -3722,8 +3581,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "THT/H/H/DomeinB",
 		"id": "aeebf109-2f14-4342-a01c-f544d1622c17",
-		"prefix": "THT/H/H/B",
 		"title": "Domein B: Praktijk",
 		"examenprogramma_eindterm_id": [
 			"8a15e783-0b16-4364-95d9-2c162e2f68a7"
@@ -3731,14 +3590,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "THT/H/H/DomeinC",
 		"id": "9b432dff-ebab-467a-978a-142390f46b94",
-		"prefix": "THT/H/H/C",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "GTC/V/DomeinA ",
 		"id": "2e79294f-9788-4c7d-87d6-a7f0eddda00e",
-		"prefix": "GR/V/Domein A ",
 		"title": "Domein A: Reflectie op klassieke teksten en antieke cultuur",
 		"examenprogramma_subdomein_id": [
 			"f797a22f-89eb-4b77-bd1a-486ead7bd58c",
@@ -3747,8 +3606,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "GTC/V/DomeinB ",
 		"id": "d8004613-bbd5-4f55-907c-f7e5039a38da",
-		"prefix": "GR/V/Domein B ",
 		"title": "Domein B: Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur",
 		"examenprogramma_eindterm_id": [
 			"aef0d548-3f09-4b43-a00a-c1ded4df48c3",
@@ -3759,8 +3618,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "GTC/V/DomeinC ",
 		"id": "7e01afa1-28e5-48f5-9fa3-26ea5278db73",
-		"prefix": "GR/V/Domein C ",
 		"title": "Domein C: Zelfstandige oordeelsvorming",
 		"examenprogramma_eindterm_id": [
 			"be6aa7e3-5866-4047-8bcc-011e9fdbab23",
@@ -3769,14 +3628,14 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "GTC/V/DomeinD ",
 		"id": "6e6ae4fb-ef2d-46a7-a99c-2801900d545f",
-		"prefix": "GR/V/Domein D ",
 		"title": "Domein D: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "GTC/V/DomeinE ",
 		"id": "bc794bbc-ae84-48f7-a2f4-0170f104b2bb",
-		"prefix": "GR/V/Domein E ",
 		"title": "Domein E: Informatievaardigheden",
 		"examenprogramma_eindterm_id": [
 			"f7082e1b-b52a-4d7b-8e12-a580b199af30",
@@ -3788,8 +3647,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "GS/V/DomeinA",
 		"id": "8f9d8a47-21c1-4051-a35f-3afe64b88b69",
-		"prefix": "GS/Domein A Historisch besef",
 		"title": "Domein A: Historisch besef",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
@@ -3825,8 +3684,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "GS/V/DomeinB",
 		"id": "3ad586e0-73e2-4e98-82b3-da8c913ee92a",
-		"prefix": "GS/Domein B Oriëntatiekennis",
 		"title": "Domein B: Oriëntatiekennis",
 		"examenprogramma_eindterm_id": [
 			"d50a7fe2-9609-4f08-8a44-cb0c3a0d70d9",
@@ -3886,8 +3745,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "GS/V/DomeinC",
 		"id": "81ecaaa0-9b27-4115-aac8-5174456bef6b",
-		"prefix": "GS/Domein C Thema's",
 		"title": "Domein C: Thema's",
 		"examenprogramma_eindterm_id": [
 			"93105db2-b6d3-403e-83cc-c15fb9db671d",
@@ -3896,8 +3755,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "GS/V/DomeinD",
 		"id": "4eb9db49-2078-40ad-ab9a-4cb47824cd64",
-		"prefix": "GS/Domein D Geschiedenis van de rechtsstaat en van de parlementaire democratie",
 		"title": "Domein D: Geschiedenis van de rechtsstaat en van de parlementaire democratie",
 		"examenprogramma_eindterm_id": [
 			"838bca23-91d9-48da-9555-5952d9733008",
@@ -3909,8 +3768,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "GS/V/DomeinE",
 		"id": "493e5abc-d9b7-434b-9f6f-85dbe333baf2",
-		"prefix": "GS/Domein E Oriëntatie op studie en beroep",
 		"title": "Domein E: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
@@ -4105,6 +3964,7 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "GS/H/DomeinA",
 		"id": "a20f57f3-6fca-4a3e-abb1-e910b9ee339d",
 		"title": "Domein A: Historisch besef",
 		"examenprogramma_eindterm_id": [
@@ -4136,6 +3996,7 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "GS/H/DomeinB",
 		"id": "86969cc7-830a-4b8f-93d8-0238572b42c5",
 		"title": "Domein B: Oriëntatiekennis",
 		"examenprogramma_eindterm_id": [
@@ -4195,8 +4056,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "GS/H/DomeinC",
 		"id": "ff89811a-e5ef-407b-bc31-a8e7fe96363b",
-		"prefix": "",
 		"title": "Domein C: Thema's",
 		"examenprogramma_eindterm_id": [
 			"be10e5b3-8bb3-459e-a208-704ee720bedd",
@@ -4205,8 +4066,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "GS/H/DomeinD",
 		"id": "1bb062ad-6322-4379-819f-78d5dbb2eea1",
-		"prefix": "",
 		"title": "Domein D: Geschiedenis van de rechtsstaat en van de parlementaire democratie",
 		"examenprogramma_eindterm_id": [
 			"d4664ab0-af2c-439e-86ec-2329609b7262",
@@ -4217,13 +4078,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "GS/H/DomeinE",
 		"id": "46e6d7ec-64a6-4517-bcaf-0b27807afa64",
 		"title": "Domein E: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/FA/K/1",
 		"id": "fb138f99-786a-45a1-96d3-ef8d8a555b53",
-		"prefix": "MVT/K/1",
 		"title": "Oriëntatie op leren en werken",
 		"examenprogramma_eindterm_id": [
 			"7ef73a0f-b6bf-4584-bdc7-612b2e804c87"
@@ -4231,8 +4093,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/FA/K/2",
 		"id": "2e145a4b-4b48-4d74-884a-ccaffaa144f1",
-		"prefix": "MVT/K/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_eindterm_id": [
 			"bff302eb-2720-4ace-85b3-b41d00251b06"
@@ -4240,8 +4102,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/FA/K/3",
 		"id": "9827d61d-9881-4647-943c-aaf3ef656984",
-		"prefix": "MVT/K/3",
 		"title": "Leervaardigheden in de Moderne Vreemde Talen",
 		"examenprogramma_eindterm_id": [
 			"ac3d2f70-bdbc-4703-906b-c73de2bd0d3b",
@@ -4252,8 +4114,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/FA/K/4",
 		"id": "cb988a40-fa45-490d-98d0-a6570abdbad2",
-		"prefix": "MVT/K/4",
 		"title": "Leesvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"cebbd831-9a7e-4fea-b33d-1b5e435354ca",
@@ -4265,8 +4127,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/FA/K/5",
 		"id": "57d25632-0540-4f54-a042-b50de3dfdecf",
-		"prefix": "MVT/K/5",
 		"title": "Luister- en kijkvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"417492ce-e18e-4247-91a1-fb7a7c5e187a",
@@ -4277,8 +4139,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "MVT/FA/K/6",
 		"id": "771b122d-41f4-4187-a46c-028b83fb4e16",
-		"prefix": "MVT/K/6",
 		"title": "Gespreksvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"e6c8f977-001c-4134-b11b-a3ea6da88e06",
@@ -4290,8 +4152,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/FA/K/7",
 		"id": "4feb2ade-0c18-4770-9967-60c1c1aa54ed",
-		"prefix": "MVT/K/7",
 		"title": "Schrijfvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"e157bddc-9087-44d0-aacf-e85fba7baf16",
@@ -4302,8 +4164,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "MVT/FA/V/1",
 		"id": "4f18fdc5-4112-4f87-a807-8a5ef640bafd",
-		"prefix": "MVT/V/1",
 		"title": "Leesvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"457a195b-fb2f-42dd-ab9b-0c853aa33d37",
@@ -4312,8 +4174,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/FA/V/3",
 		"id": "51c14fc6-b37c-438a-aa82-b5749de0d350",
-		"prefix": "MVT/V/3",
 		"title": "Kennis van land en samenleving",
 		"examenprogramma_eindterm_id": [
 			"11711591-feff-46d9-a6ae-19b645b0cb72"
@@ -4321,8 +4183,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/FA/V/4",
 		"id": "fa244614-70a3-4e69-bc25-5a2917874c0a",
-		"prefix": "MVT/V/4",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_eindterm_id": [
 			"75e5e0fc-acdb-4703-be10-6d7cc6aec475"
@@ -4330,8 +4192,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/FA/V/5",
 		"id": "311b43bd-3f0b-48e8-ab27-209f8d15e704",
-		"prefix": "MVT/V/5",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_eindterm_id": [
 			"2b09ff88-9844-425f-9358-5d46cb7309d0"
@@ -4339,8 +4201,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "FI/V/DomeinA ",
 		"id": "05c65929-da64-4974-b769-244e65dd99ce",
-		"prefix": "FI/V/Domein A ",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"507bdfe5-3654-489f-bde2-51e586cbbf80",
@@ -4350,8 +4212,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "FI/V/DomeinB ",
 		"id": "4022a68e-526e-420f-9ddc-81d9b204f1e3",
-		"prefix": "FI/V/Domein B ",
 		"title": "Domein B: Wijsgerige antropologie",
 		"examenprogramma_subdomein_id": [
 			"9273b1c7-3571-43cf-acbb-e1dc01421297",
@@ -4361,8 +4223,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "FI/V/DomeinC",
 		"id": "1d093b1d-5a85-4a89-b229-f7f8562fd874",
-		"prefix": "FI/V/Domein C",
 		"title": "Domein C: Ethiek",
 		"examenprogramma_subdomein_id": [
 			"712cce56-9354-4052-a266-dac52ee9ceec",
@@ -4372,8 +4234,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "FI/V/DomeinD ",
 		"id": "afead706-774a-40b4-9abc-9be6d2793f0a",
-		"prefix": "FI/V/Domein D ",
 		"title": "Domein D: Kennisleer",
 		"examenprogramma_subdomein_id": [
 			"8f88405e-b4ab-4d4a-90d5-1ea0c8b3c7ab",
@@ -4383,8 +4245,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "FI/V/DomeinE ",
 		"id": "655953eb-223b-416d-b2f1-5f5a6fea8296",
-		"prefix": "FI/V/Domein E ",
 		"title": "Domein E: Wetenschapsfilosofie",
 		"examenprogramma_subdomein_id": [
 			"2f80e8ff-cec2-4323-9135-cb7e4a40ef16",
@@ -4394,8 +4256,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "FI/H/DomeinA ",
 		"id": "7032b1de-5150-4f8f-bc66-228601b15ce0",
-		"prefix": "FI/H/Domein A ",
 		"title": "Domein A: Vaardigheden",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
@@ -4408,8 +4270,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "FI/H/DomeinB ",
 		"id": "fcbaa79b-3dac-4f7e-9932-f1aae8cd1667",
-		"prefix": "FI/H/Domein B ",
 		"title": "Domein B: Wijsgerige antropologie",
 		"examenprogramma_subdomein_id": [
 			"e1ab49fb-91df-4b96-bc18-e28c269ca6a9",
@@ -4419,8 +4281,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "FI/H/DomeinC ",
 		"id": "f97d9ea8-ea6f-43fa-b0be-f5206123d00d",
-		"prefix": "FI/H/Domein C ",
 		"title": "Domein C: Ethiek",
 		"examenprogramma_subdomein_id": [
 			"be328fab-f922-46c9-a4dd-bf2858fdd52d",
@@ -4430,8 +4292,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "FI/H/DomeinD ",
 		"id": "57ae8740-026f-46d9-8528-f2bef1dc4023",
-		"prefix": "FI/H/Domein D ",
 		"title": "Domein D: Sociale filosofie",
 		"examenprogramma_subdomein_id": [
 			"5a26a310-954b-427b-b81f-b418bc3316db",
@@ -4441,8 +4303,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/EN/K/1",
 		"id": "955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
-		"prefix": "MVT/K/1",
 		"title": "Oriëntatie op leren en werken",
 		"examenprogramma_eindterm_id": [
 			"d5cd7fd1-5e94-429d-9751-8fa92e9c0212"
@@ -4450,8 +4312,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/K/2",
 		"id": "b32da233-4e5a-46e0-9f68-45ced41b7a3e",
-		"prefix": "MVT/K/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_eindterm_id": [
 			"c9fb02f5-d59c-4127-a2cb-6d73dbe7601f"
@@ -4459,8 +4321,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/K/3",
 		"id": "79a51e9c-30a6-4c87-8ea5-f66b8a17c76e",
-		"prefix": "MVT/K/3",
 		"title": "Leervaardigheden in de Moderne Vreemde Talen",
 		"examenprogramma_eindterm_id": [
 			"aa7b74ea-03f8-4616-b54c-fe7bc6b7b801",
@@ -4471,8 +4333,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/EN/K/4",
 		"id": "7ae80c81-f11d-4de3-9fc0-6422249cd691",
-		"prefix": "MVT/K/4",
 		"title": "Leesvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"45787fe7-ebf6-47df-92ae-838524e2cba5",
@@ -4484,8 +4346,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/EN/K/5",
 		"id": "88828519-f671-421c-83bb-01743cb36832",
-		"prefix": "MVT/K/5",
 		"title": "Luister- en kijkvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"39bbb7b9-d763-4aec-b515-418ceef16527",
@@ -4496,8 +4358,8 @@
 		"ce_se": "SE; CE"
 	},
 	{
+		"prefix": "MVT/EN/K/6",
 		"id": "8901a49b-730f-4158-8dc0-33813f4cd023",
-		"prefix": "MVT/K/6",
 		"title": "Gespreksvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"9b138cbf-f8e0-48fc-9287-40a9f31762e3",
@@ -4509,8 +4371,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/K/7",
 		"id": "bd98fda7-a534-4a64-942a-611146a4d3b0",
-		"prefix": "MVT/K/7",
 		"title": "Schrijfvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"eef6786e-2087-467b-9126-ad8f2d260b98",
@@ -4521,8 +4383,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "MVT/EN/V/1",
 		"id": "8fe1dc77-83e4-40e6-872e-89db5d62d3fa",
-		"prefix": "MVT/V/1",
 		"title": "Leesvaardigheid",
 		"examenprogramma_eindterm_id": [
 			"21e52bc6-ddc7-4f3a-963f-8c5eabb6bef2",
@@ -4531,8 +4393,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/V/3",
 		"id": "de039faa-9871-484c-a542-515f92aadd9d",
-		"prefix": "MVT/V/3",
 		"title": "Kennis van land en samenleving",
 		"examenprogramma_eindterm_id": [
 			"24f994b7-f1d3-4730-aba1-f5877dc6a249"
@@ -4540,8 +4402,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "MVT/EN/V/4",
 		"id": "35a649dd-0d0e-4df3-8237-a62bc622d5b6",
-		"prefix": "MVT/V/4",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_eindterm_id": [
 			"b3d636d4-94f8-456b-bb2b-3190dc3a0e74"
@@ -4549,8 +4411,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "MVT/EN/V/5",
 		"id": "f8fc7329-a2c9-4438-b42b-36cf5d6fb768",
-		"prefix": "MVT/V/5",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_eindterm_id": [
 			"76f4d005-c03b-40fd-bc2b-34cd94b50fa5"
@@ -4666,8 +4528,8 @@
 		]
 	},
 	{
+		"prefix": "EC/H/DomeinA",
 		"id": "19ce8c9a-317c-4f03-9091-01cfa6ad2908",
-		"prefix": "EC/Domein A Vaardigheden",
 		"title": "Domein A Vaardigheden",
 		"examenprogramma_eindterm_id": [
 			"78a7c0a6-5f25-4433-b394-0176e38fb338"
@@ -4675,8 +4537,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "EC/H/DomeinB",
 		"id": "6293da5f-8658-4bc6-80e2-8ce2de8cd64b",
-		"prefix": "EC/Domein B Concept Schaarste",
 		"title": "Domein B Concept schaarste",
 		"examenprogramma_eindterm_id": [
 			"e3df4d03-549c-46d2-9290-df0740b54185"
@@ -4684,8 +4546,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "EC/H/DomeinC",
 		"id": "1e99955b-beac-4bd8-9696-1294935ea023",
-		"prefix": "EC/Domein C Concept Ruil",
 		"title": "Domein C Concept ruil",
 		"examenprogramma_eindterm_id": [
 			"5cc6b63e-ff9d-4e4d-a6e1-a1bbd9161e8e",
@@ -4694,69 +4556,62 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "EC/H/DomeinD",
 		"id": "8dd98112-5fd8-4487-9e40-70cbce53578a",
-		"prefix": "EC/Domein D Concept Markt",
 		"title": "Domein D Concept markt",
 		"examenprogramma_eindterm_id": [
-			"1ce5ff0c-b132-4372-b474-6433ec44ce09",
-			"2ee9eb4d-f7b8-4c0b-a2db-3a7fb0a4d705",
-			"afb0bcd7-0d15-48dd-9f6d-99a00927527a"
+			"1ce5ff0c-b132-4372-b474-6433ec44ce09"
 		],
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "EC/H/DomeinE",
 		"id": "01f25970-4cee-4094-acf6-2e9e3a76cbee",
-		"prefix": "EC/Domein E Concept Ruilen Over De Tijd",
 		"title": "Domein E Concept ruilen over de tijd",
 		"examenprogramma_eindterm_id": [
-			"a710730a-bd76-4893-920d-c14183dbc32a",
-			"90817313-6c00-463d-bad7-71280b32573d"
+			"a710730a-bd76-4893-920d-c14183dbc32a"
 		],
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "EC/H/DomeinF",
 		"id": "343652ee-2e6e-412e-8e45-1f23b65db61a",
-		"prefix": "EC/Domein F Concept Samenwerken En Onderhandelen",
 		"title": "Domein F Concept samenwerken en onderhandelen",
 		"examenprogramma_eindterm_id": [
-			"3cc9e81c-46f1-4656-81e9-723311c8bd1c",
-			"06cd0d87-6124-4553-95a0-45f9d322d5dd"
+			"3cc9e81c-46f1-4656-81e9-723311c8bd1c"
 		],
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "EC/H/DomeinG",
 		"id": "3586b085-400d-41a0-be4b-358c0cb6aabe",
-		"prefix": "EC/Domein G Concept Risico En Informatie",
 		"title": "Domein G Concept risico en informatie",
 		"examenprogramma_eindterm_id": [
-			"2f4c3f37-f576-4b71-92e0-e29fb385ad95",
-			"778ef219-dc0a-42d5-86b6-1486c465b8e8"
+			"2f4c3f37-f576-4b71-92e0-e29fb385ad95"
 		],
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "EC/H/DomeinH",
 		"id": "3ac3ec8c-d76b-4636-8a26-9a6c0d2bcd36",
-		"prefix": "EC/Domein H Concept Welvaart En Groei",
 		"title": "Domein H Concept welvaart en groei",
 		"examenprogramma_eindterm_id": [
-			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2",
-			"35673be9-eb57-4dcb-aff7-23a4ae9af237"
+			"f167bc6a-eedf-4b39-b47e-c5ff09aeecd2"
 		],
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "EC/H/DomeinI",
 		"id": "c85825e8-04a5-48d0-8433-72f7f3b2ff16",
-		"prefix": "EC/Domein I Concept Goede Tijden, Slechte Tijden",
 		"title": "Domein I Concept goede tijden, slechte tijden",
 		"examenprogramma_eindterm_id": [
-			"f8f22c55-d82d-46ee-9950-43011e2979c7",
-			"f3d4dc1d-2bc8-4ee7-a45d-1942bd19f58d"
+			"f8f22c55-d82d-46ee-9950-43011e2979c7"
 		],
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "EC/H/DomeinJ",
 		"id": "1131592a-bc05-4c0b-9f53-7f98f7f5ad4f",
-		"prefix": "EC/Domein J Onderzoek En Experiment",
 		"title": "Domein J Onderzoek en experiment",
 		"examenprogramma_eindterm_id": [
 			"df52ca9c-d832-4e5e-a43e-3f85aca2aef2",
@@ -4765,8 +4620,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "EC/H/DomeinK",
 		"id": "4abdcdd9-dc4a-4580-9218-aecb04462d13",
-		"prefix": "EC/Domein K Keuzeonderwerpen",
 		"title": "Domein K Keuzeonderwerpen",
 		"examenprogramma_eindterm_id": [
 			"de76b438-7fe3-41b4-a58b-5ae22b791df9",
@@ -5045,8 +4900,7 @@
 		"examenprogramma_eindterm_id": [
 			"7fc4e54e-9de1-46f7-a1ce-419e3b9ce39b",
 			"ef274bb4-afff-4ba8-8551-f1fedc2a4b4b",
-			"098dda99-625d-4ab2-8c46-feb77535261d",
-			"43d0e8cc-2029-4f15-a723-8d6fc0fc85cc"
+			"098dda99-625d-4ab2-8c46-feb77535261d"
 		],
 		"ce_se": "SE"
 	},
@@ -5129,6 +4983,7 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "CKV/V/DomeinA",
 		"id": "0a720b65-2425-49bc-80ca-01a036eb0f53",
 		"title": "Domein A: Verkennen",
 		"examenprogramma_eindterm_id": [
@@ -5140,6 +4995,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/V/DomeinB",
 		"id": "4dab39e5-e832-4814-b8c2-fcc6c536b895",
 		"title": "Domein B: Verbreden",
 		"examenprogramma_eindterm_id": [
@@ -5159,12 +5015,12 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/V/DomeinC",
 		"id": "ade20844-52d8-4403-9c32-75dba1044ea8",
 		"title": "Domein C: Verdiepen",
 		"examenprogramma_eindterm_id": [
 			"b0d2a4bc-be73-4719-85f1-8f4f66857316",
 			"459af9ef-01b2-4eea-9b7f-a7e1ae322f3e",
-			"4e1eab3c-f9b7-445c-a117-960f15d25f39",
 			"495a0b57-2c83-49c4-ae5f-69e95d91307d",
 			"aaf73063-d003-4287-85a9-4e86a2216288",
 			"1f725f43-6cb9-48ba-8d1e-369921dced8f",
@@ -5174,6 +5030,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/V/DomeinD",
 		"id": "d8771d14-2c47-426d-a693-4b535b5ddab8",
 		"title": "Domein D: Verbinden",
 		"examenprogramma_eindterm_id": [
@@ -5184,6 +5041,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/H/DomeinA",
 		"id": "2cfb4119-c3f7-4ace-8cab-831170596719",
 		"title": "Domein A: Verkennen",
 		"examenprogramma_eindterm_id": [
@@ -5195,6 +5053,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/H/DomeinB",
 		"id": "4a238ca3-ce4a-4a69-9f73-fa230fc51172",
 		"title": "Domein B: Verbreden",
 		"examenprogramma_eindterm_id": [
@@ -5214,6 +5073,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/H/DomeinC",
 		"id": "864b6574-396c-4ea1-9e8d-882009348f58",
 		"title": "Domein C: Verdiepen",
 		"examenprogramma_eindterm_id": [
@@ -5228,6 +5088,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CKV/H/DomeinD",
 		"id": "2cc83fd4-2d12-4b01-a06f-017e7ff2bfaa",
 		"title": "Domein D: Verbinden",
 		"examenprogramma_eindterm_id": [
@@ -5238,6 +5099,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CTC/V/DomeinA",
 		"id": "d47bd2c0-a8cc-4276-b3f8-3c2a6b066219",
 		"title": "Domein A: Leesvaardigheid",
 		"examenprogramma_eindterm_id": [
@@ -5250,6 +5112,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CTC/V/DomeinB",
 		"id": "fdd337aa-674e-4d90-b782-62578cc413d8",
 		"title": "Domein B: Kijk- en luistervaardigheid",
 		"examenprogramma_eindterm_id": [
@@ -5263,6 +5126,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CTC/V/DomeinC",
 		"id": "e95834c7-79b9-4b5c-93a4-f0c0a66002c8",
 		"title": "Domein C: Gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [
@@ -5272,6 +5136,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CTC/V/DomeinD",
 		"id": "29890dc7-6724-4d59-8ae7-ef6ffe722464",
 		"title": "Domein D: Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [
@@ -5281,6 +5146,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CTC/V/DomeinE",
 		"id": "aa586f2c-bd6c-45f5-81b3-b458a3afc58b",
 		"title": "Domein E: Chinese cultuur",
 		"examenprogramma_subdomein_id": [
@@ -5290,13 +5156,14 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "CTC/V/DomeinF",
 		"id": "d8b3b93b-530d-443e-9e15-2e87576e4b80",
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/V/DomeinA",
 		"id": "ba6fff69-8cdf-47fb-b188-657177aca418",
-		"prefix": "BSM/V/Domein A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_eindterm_id": [
 			"b4baba6f-d57e-455f-a254-7ead8af05e26"
@@ -5304,8 +5171,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/V/DomeinB",
 		"id": "e7f460b8-ee44-4f47-b66a-857364d61e72",
-		"prefix": "BSM/V/Domein B",
 		"title": "Domein B: Bewegen",
 		"examenprogramma_subdomein_id": [
 			"8670ba33-ecd3-4b3f-9e10-519f7dcfc097",
@@ -5318,8 +5185,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/V/DomeinC",
 		"id": "04a70c0b-4425-4a24-ac46-6e1658e519ea",
-		"prefix": "BSM/V/Domein C",
 		"title": "Domein C: Bewegen en regelen",
 		"examenprogramma_subdomein_id": [
 			"0a603757-a0bd-4efd-9565-5c498341f1e0",
@@ -5330,8 +5197,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/V/DomeinD",
 		"id": "39450257-6a42-4e28-bcae-2f9235ea11a4",
-		"prefix": "BSM/V/Domein D",
 		"title": "Domein D: Bewegen en gezondheid",
 		"examenprogramma_subdomein_id": [
 			"333560b5-f873-4b6e-b2e8-c6f0450f35d6",
@@ -5341,8 +5208,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/V/DomeinE",
 		"id": "316dab9e-bc31-41a6-af04-6a924b58b261",
-		"prefix": "BSM/V/Domein E",
 		"title": "Domein E: Bewegen en samenleving",
 		"examenprogramma_subdomein_id": [
 			"003bcc46-6f9f-4f0a-830a-246e3e0bba93",
@@ -5354,8 +5221,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/H/DomeinA",
 		"id": "e5cb0992-d905-4f8b-9c65-e6cbbd41c8b4",
-		"prefix": "BSM/H/Domein A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_eindterm_id": [
 			"22d6747d-2168-4a62-8a25-5839ae96bd84"
@@ -5363,8 +5230,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/H/DomeinB",
 		"id": "c4b5b2e3-7213-4dd4-b4c4-c256bc4a87c9",
-		"prefix": "BSM/H/Domein B",
 		"title": "Domein B: Bewegen",
 		"examenprogramma_subdomein_id": [
 			"ac7501fc-732c-4cc2-a5fd-c334e3d4290f",
@@ -5377,8 +5244,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/H/DomeinC",
 		"id": "e7a8753f-cc60-4d67-818e-fd2447b45b94",
-		"prefix": "BSM/H/Domein C",
 		"title": "Domein C: Bewegen en regelen",
 		"examenprogramma_subdomein_id": [
 			"6f39cb65-28f4-4c40-a899-4a5c8a3703f7",
@@ -5388,8 +5255,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/H/DomeinD",
 		"id": "b1fa4f4b-4059-4f12-a593-931d94c25405",
-		"prefix": "BSM/H/Domein D",
 		"title": "Domein D: Bewegen en gezondheid",
 		"examenprogramma_subdomein_id": [
 			"10929ba4-f133-429a-93f0-2852ed27fabc",
@@ -5399,8 +5266,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BSM/H/DomeinE",
 		"id": "ebbe99d0-e3d2-4b39-a6db-b475a1a82c93",
-		"prefix": "BSM/H/Domein E",
 		"title": "Domein E: Bewegen en samenleving",
 		"examenprogramma_subdomein_id": [
 			"508e9341-4df1-4784-8849-b31913fa82d6",
@@ -5410,8 +5277,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BIO/V/DomeinA",
 		"id": "9ee0cec6-8b23-4cbc-ae3e-29697205e2cb",
-		"prefix": "BI/V/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"dec451ae-10f2-402e-b29d-1b0e342c3d39",
@@ -5434,8 +5301,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BIO/V/DomeinB",
 		"id": "c1d415d0-fe57-4437-b75e-18e89086aee4",
-		"prefix": "BI/V/Domein B Zelfregulatie",
 		"title": "Domein B: Zelfregulatie",
 		"examenprogramma_subdomein_id": [
 			"ce190ebe-2010-45fe-8713-bb5ef5ba81a7",
@@ -5450,8 +5317,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/V/DomeinC",
 		"id": "c626c900-3729-44fa-89ce-b76213a7a569",
-		"prefix": "BI/V/Domein C Zelforganisatie",
 		"title": "Domein C: Zelforganisatie",
 		"examenprogramma_subdomein_id": [
 			"85dd3f5d-9a62-4cc9-a5de-add7e4442b5b",
@@ -5461,8 +5328,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/V/DomeinD",
 		"id": "caa27d5d-f665-41a1-9d7b-78ff14547ee5",
-		"prefix": "BI/V/Domein D Interactie",
 		"title": "Domein D: Interactie",
 		"examenprogramma_subdomein_id": [
 			"f90f9217-a906-44f4-aafb-a690c50ff066",
@@ -5474,8 +5341,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/V/DomeinE",
 		"id": "6644c5ee-ae3a-43d3-acba-4d2ac184da85",
-		"prefix": "BI/V/Domein E Reproductie",
 		"title": "Domein E: Reproductie",
 		"examenprogramma_subdomein_id": [
 			"82c4561a-771f-4de9-b0a9-58d24e7e2f01",
@@ -5485,8 +5352,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/V/DomeinF",
 		"id": "c13313d8-1f1a-45d5-83cd-37e628f00206",
-		"prefix": "BI/V/Domein F Evolutie",
 		"title": "Domein F: Evolutie",
 		"examenprogramma_subdomein_id": [
 			"e944370f-5659-4c27-83cb-9849f0a248b4",
@@ -5497,8 +5364,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/K/1",
 		"id": "f80d6cd2-8a79-48a7-af22-37a741a85567",
-		"prefix": "BI/K/1",
 		"title": "Oriëntatie op leren en werken",
 		"tag_id": [
 			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
@@ -5509,8 +5376,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BIO/K/2",
 		"id": "a3778cff-e8e1-4092-b9d9-7c47bd6652d4",
-		"prefix": "BI/K/2",
 		"title": "Basisvaardigheden",
 		"examenprogramma_eindterm_id": [
 			"8256bc99-c48e-4e10-8c18-16e697debe1d"
@@ -5518,8 +5385,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BIO/K/3",
 		"id": "560c6c5b-3b85-48a3-ade6-dda678fd2a79",
-		"prefix": "BI/K/3",
 		"title": "Leervaardigheden in het vak biologie",
 		"examenprogramma_eindterm_id": [
 			"dc10b330-4fee-423c-a1f1-cd31aad53764",
@@ -5528,8 +5395,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/K/4",
 		"id": "8041a157-8783-4ac5-bf13-b00f9817a62b",
-		"prefix": "BI/K/4",
 		"title": "Cellen staan aan de basis",
 		"examenprogramma_eindterm_id": [
 			"1659d249-5043-4b8f-8f92-3dcc17ffde15",
@@ -5540,8 +5407,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/K/5",
 		"id": "3ef0959f-3650-43f2-94d0-9a1e8ac89bde",
-		"prefix": "BI/K/5",
 		"title": "Schimmels en bacteriën: nuttig en soms schadelijk",
 		"examenprogramma_eindterm_id": [
 			"63966db4-5644-4462-8285-a2751379c413",
@@ -5550,19 +5417,8 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "f8702473-e568-4fd0-a917-226f0439ce46",
-		"prefix": "BI/K/6",
-		"title": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
-		"examenprogramma_eindterm_id": [
-			"0027614b-9738-43d4-a484-c59c5a3ef3c1",
-			"16b1d959-efd7-4bff-8c62-112cd728ed04",
-			"425568d0-a039-4061-8bae-3265ccca0c8b"
-		],
-		"ce_se": "CE"
-	},
-	{
+		"prefix": "BIO/K/7",
 		"id": "d41cc0f9-9af9-40da-9a41-38215e702ac3",
-		"prefix": "BI/K/7",
 		"title": "Mensen beïnvloeden hun omgeving",
 		"examenprogramma_eindterm_id": [
 			"f0758e82-86fc-4c79-a090-a2f77cd8b343",
@@ -5572,8 +5428,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BIO/K/8",
 		"id": "d4555d58-cc9f-41fc-b6d2-03640e6d0573",
-		"prefix": "BI/K/8",
 		"title": "Houding, beweging en conditie",
 		"examenprogramma_eindterm_id": [
 			"a8d9573a-acb5-47cb-86e1-436491f2aa00",
@@ -5584,8 +5440,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BIO/K/9",
 		"id": "f7570df2-4e24-4ef0-8663-25087fe7e0bf",
-		"prefix": "BI/K/9",
 		"title": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
 		"examenprogramma_eindterm_id": [
 			"a2db60bd-447f-4bc7-be40-ea45666bd15b",
@@ -5594,8 +5450,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/K/10",
 		"id": "ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
-		"prefix": "BI/K/10",
 		"title": "Bescherming",
 		"examenprogramma_eindterm_id": [
 			"5353709e-073e-45d4-8902-3bc8bccbdd27"
@@ -5603,18 +5459,8 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "4a2d0fc6-022d-4d42-957a-11ce42df8443",
-		"prefix": "BI/K/11",
-		"title": "Reageren op prikkels",
-		"examenprogramma_eindterm_id": [
-			"98dd6f49-8dcd-47d1-b9e8-f0294943017d",
-			"08f63cfc-37b3-4609-90b6-75d4f83ac1e7"
-		],
-		"ce_se": "CE"
-	},
-	{
+		"prefix": "BIO/K/12",
 		"id": "f03a9344-f1d3-46e8-88ed-3ec02ca2c8d2",
-		"prefix": "BI/K/12",
 		"title": "Van generatie op generatie",
 		"examenprogramma_eindterm_id": [
 			"cc463fdb-3886-47f7-8023-5d071679fb00",
@@ -5623,8 +5469,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/K/13",
 		"id": "b2a14386-0e7c-4c03-b91a-9c5598ee24d0",
-		"prefix": "BI/K/13",
 		"title": "Erfelijkheid en evoluatie",
 		"examenprogramma_eindterm_id": [
 			"c7318dac-13d8-4da7-bd05-de7751d84085"
@@ -5632,8 +5478,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/V/1",
 		"id": "a3dd06f2-048b-46fa-986d-947de8496303",
-		"prefix": "BI/V/1",
 		"title": "Bescherming en antistoffen",
 		"examenprogramma_eindterm_id": [
 			"421a71c7-3a28-4b6a-93f2-9e07d483be14"
@@ -5641,8 +5487,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/V/2",
 		"id": "08f63cfc-37b3-4609-90b6-75d4f83ac1e6",
-		"prefix": "BI/V/2",
 		"title": "Gedrag bij mens en dier",
 		"examenprogramma_eindterm_id": [
 			"8c20cf2d-dafc-47c9-829b-8b8de455d9be"
@@ -5650,8 +5496,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/V/3",
 		"id": "bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa8",
-		"prefix": "BI/V/3",
 		"title": "Verwerven, verwerken en verstrekken van informatie",
 		"examenprogramma_eindterm_id": [
 			"b2a14386-0e7c-4c03-b91a-9c5598ee24d2"
@@ -5659,8 +5505,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/V/4",
 		"id": "c7318dac-13d8-4da7-bd05-de7751d84084",
-		"prefix": "BI/V/4",
 		"title": "Vaardigheden in samenhang",
 		"examenprogramma_eindterm_id": [
 			"1a30562d-d12c-4aef-a52f-a39364ccb3ab"
@@ -5668,8 +5514,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BIO/H/DomeinA ",
 		"id": "554f86e5-6cc9-4faa-85ec-2a0475452f08",
-		"prefix": "BI/H/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"5e4d3fd7-d399-4c22-944a-2f45ffe10e8d",
@@ -5692,8 +5538,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BIO/H/DomeinB",
 		"id": "cd589d1d-a2ec-42a6-a350-2ae291c16c7c",
-		"prefix": "BI/H/Domein B Zelfregulatie",
 		"title": "Domein B: Zelfregulatie",
 		"examenprogramma_subdomein_id": [
 			"a46794e9-eac1-4608-ab7f-77a8ecd4d954",
@@ -5708,8 +5554,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "BIO/H/DomeinC",
 		"id": "734c159c-4634-4977-ac5d-ef7cb30abf0b",
-		"prefix": "BI/H/Domein C Zelforganisatie",
 		"title": "Domein C: Zelforganisatie",
 		"examenprogramma_subdomein_id": [
 			"d933296f-60ae-4a83-93c8-7d293fd0e110",
@@ -5719,8 +5565,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/H/DomeinD",
 		"id": "6cefdb9a-fa5d-483f-94f9-abab806c8f50",
-		"prefix": "BI/H/Domein D Interactie",
 		"title": "Domein D: Interactie",
 		"examenprogramma_subdomein_id": [
 			"a6ffaf04-2410-42ad-9272-7af1f3ec4d3f",
@@ -5731,8 +5577,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/H/DomeinE",
 		"id": "11b7ba3f-bb5e-407d-96cf-0950fa9a996e",
-		"prefix": "BI/H/Domein E Reproductie",
 		"title": "Domein E: Reproductie",
 		"examenprogramma_subdomein_id": [
 			"f9a81fd6-f8f4-4db8-b7ab-ba75b3f5f5b6",
@@ -5743,8 +5589,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BIO/H/DomeinF ",
 		"id": "eed4cb84-c049-429a-ad9c-54b4f036bb02",
-		"prefix": "BI/H/Domein F Evoluatie",
 		"title": "Domein F: Evolutie",
 		"examenprogramma_subdomein_id": [
 			"93308eaa-c8f7-4bfd-8dd6-54d8668943af",
@@ -5754,8 +5600,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/V/DomeinA",
 		"id": "94e41891-e7dc-4728-92f6-abd7478f8165",
-		"prefix": "BE/V/Domein A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"7ac7b22b-c676-40c8-b136-d3c5816d0c61",
@@ -5768,8 +5614,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/V/DomeinB",
 		"id": "29153eb9-a441-4af3-989d-e25b1143d978",
-		"prefix": "BE/V/Domein B",
 		"title": "Domein B: Van persoon naar rechtspersoon",
 		"examenprogramma_subdomein_id": [
 			"29ebeb20-14d9-408d-819e-d6718f75cea4",
@@ -5780,8 +5626,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/V/DomeinC",
 		"id": "83eb22f9-e745-4a45-a659-50f6c626ad6c",
-		"prefix": "BE/V/Domein C",
 		"title": "Domein C: Interne organisatie en personeelsbeleid",
 		"examenprogramma_subdomein_id": [
 			"b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
@@ -5790,8 +5636,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/V/DomeinD",
 		"id": "fc85b25d-93ec-47bb-badb-20ed62db9f4e",
-		"prefix": "BE/V/Domein D",
 		"title": "Domein D: Investeren en financieren",
 		"examenprogramma_subdomein_id": [
 			"76b58b62-721a-4efa-adcb-4dfe2152ac46",
@@ -5800,8 +5646,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/V/DomeinE",
 		"id": "b4b47760-3f8e-45bc-8290-8b4ab5761cb5",
-		"prefix": "BE/V/Domein E",
 		"title": "Domein E: Marketing",
 		"examenprogramma_subdomein_id": [
 			"3aa938bb-f660-4850-8e88-24598dfd79f4",
@@ -5811,8 +5657,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/V/DomeinF",
 		"id": "d08a2077-a465-4939-9dc8-4212af3ef214",
-		"prefix": "BE/V/Domein F",
 		"title": "Domein F: Financieel beleid",
 		"examenprogramma_subdomein_id": [
 			"96e31fd2-accf-4a45-96df-1ecd2d2995f4",
@@ -5821,8 +5667,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BE/V/DomeinG",
 		"id": "6f2b7778-9d29-4deb-ab58-a304739459c6",
-		"prefix": "BE/V/Domein G",
 		"title": "Domein G: Verslaggeving",
 		"examenprogramma_eindterm_id": [
 			"f0e575aa-be53-44e7-95d1-89ea67af73f9"
@@ -5830,14 +5676,14 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BE/V/DomeinH",
 		"id": "cad1cb98-4e53-40f0-bf35-b23c6ae1dfef",
-		"prefix": "BE/V/Domein H",
 		"title": "Domein H: Keuze-onderwerpen",
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "BE/H/DomeinA",
 		"id": "0fdcaa1e-e1af-41dc-ab46-497198497ec9",
-		"prefix": "BE/H/Domein A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"6be8384e-29a3-4767-9278-f8a3a6f88651",
@@ -5850,8 +5696,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/H/DomeinB",
 		"id": "7b438d99-4804-4376-9e1d-b5c185cdf923",
-		"prefix": "BE/H/Domein B",
 		"title": "Domein B: Van persoon naar rechtspersoon",
 		"examenprogramma_subdomein_id": [
 			"39524397-521e-4c49-8c58-f5bfbf2206ac",
@@ -5862,8 +5708,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/H/DomeinC",
 		"id": "3ef8352d-0ec0-4e11-9ef9-cbaef008f36e",
-		"prefix": "BE/H/Domein C",
 		"title": "Domein C: Interne organisatie en personeelsbeleid",
 		"examenprogramma_subdomein_id": [
 			"463fb73a-1c12-4829-bf83-0db1a3990389",
@@ -5872,8 +5718,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/H/DomeinD",
 		"id": "4c298d97-a872-4c30-bb5e-0e5903173fc7",
-		"prefix": "BE/H/Domein D",
 		"title": "Domein D: Investeren en financieren",
 		"examenprogramma_subdomein_id": [
 			"46765d47-5e81-4cd7-b149-c971b503afb3",
@@ -5882,8 +5728,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/H/DomeinE",
 		"id": "9bf0dc19-0afb-4380-9182-09a1ab39c723",
-		"prefix": "BE/H/Domein E",
 		"title": "Domein E: Marketing",
 		"examenprogramma_subdomein_id": [
 			"31eba33d-aa22-4427-92e6-d0e87a6adec4",
@@ -5892,8 +5738,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "BE/H/DomeinF",
 		"id": "ce9477cc-2f1d-4324-b4e6-2474cd40e1d4",
-		"prefix": "BE/H/Domein F",
 		"title": "Domein F: Financieel beleid",
 		"examenprogramma_subdomein_id": [
 			"196ad69b-e06c-4872-8a94-b66b79a92364",
@@ -5902,8 +5748,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BE/H/DomeinG",
 		"id": "83476920-6d37-408a-b873-262388d29f11",
-		"prefix": "BE/H/Domein G",
 		"title": "Domein G: Verslaggeving",
 		"examenprogramma_eindterm_id": [
 			"13cd9721-b461-4e24-b227-5f40390f9f5a"
@@ -5911,8 +5757,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "BE/H/DomeinH",
 		"id": "b2d72e52-fd9f-4ebe-b981-f0112681b933",
-		"prefix": "BE/H/Domein H",
 		"title": "Domein H: Keuze-onderwerpen",
 		"ce_se": "SE"
 	},
@@ -6024,8 +5870,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "ANW/V/DomeinA",
 		"id": "ec6a6827-0b68-4c58-a035-3a6f583b2129",
-		"prefix": "ANW/Domein A Vaardigheden",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"8df4fe4f-6545-4966-86cd-20ead5fbc21b",
@@ -6039,8 +5885,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/V/DomeinB",
 		"id": "2544397c-eeeb-495c-9aa3-ebb27c83276e",
-		"prefix": "ANW/Domein B analyse van en reflectie op natuurwetenschap en techniek",
 		"title": "Domein B: Analyse van en reflectie op natuurwetenschap en techniek",
 		"examenprogramma_subdomein_id": [
 			"55191537-99ba-401b-9cb8-5ae9c9a01ed2",
@@ -6050,8 +5896,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/V/DomeinC",
 		"id": "a658c8f7-ea2c-4267-8be6-932428470b20",
-		"prefix": "ANW/Domein C Leven",
 		"title": "Domein C: Leven",
 		"examenprogramma_subdomein_id": [
 			"629daed7-d240-44ba-8a6d-056c129a6b01",
@@ -6061,8 +5907,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/V/DomeinD",
 		"id": "dd0cecf7-3e20-4aa0-9323-206eb8a77416",
-		"prefix": "ANW/Domein D Biosfeer",
 		"title": "Domein D: Biosfeer",
 		"examenprogramma_subdomein_id": [
 			"acfa5fbc-7f13-4ab9-bd83-ce0cd6ded6e3",
@@ -6071,8 +5917,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/V/DomeinE",
 		"id": "316d3390-5f88-41f3-82ac-3533cef533db",
-		"prefix": "ANW/Domein E Materie",
 		"title": "Domein E: Materie",
 		"examenprogramma_subdomein_id": [
 			"3cdef434-70b1-4ee8-9d03-3d1f3fa8c8fa",
@@ -6082,8 +5928,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/V/DomeinF",
 		"id": "b60ad051-e02a-447a-b85a-09bf05c1d2f7",
-		"prefix": "ANW/Domein F Zonnestelsel en heelal",
 		"title": "Domein F: Zonnestelsel en heelal",
 		"examenprogramma_subdomein_id": [
 			"979434b0-e9b3-4aaa-95db-11db78027e20",
@@ -6093,6 +5939,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/H/DomeinA",
 		"id": "3515175f-18fe-431b-9f73-af21c367708f",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -6107,6 +5954,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/H/DomeinB",
 		"id": "bfce85fd-88b4-4da4-892a-8a64158a9314",
 		"title": "Domein B: Analyse van en reflectie op natuurwetenschap en techniek",
 		"examenprogramma_subdomein_id": [
@@ -6117,6 +5965,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/H/DomeinC",
 		"id": "263fb25b-5aaf-430a-a91e-da11bb8103c3",
 		"title": "Domein C: Leven",
 		"examenprogramma_subdomein_id": [
@@ -6127,6 +5976,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/H/DomeinD",
 		"id": "d7105d69-5aba-4792-a4f2-7324bf16cc70",
 		"title": "Domein D: Biosfeer",
 		"examenprogramma_subdomein_id": [
@@ -6136,6 +5986,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/H/DomeinE",
 		"id": "78652e90-0eaf-4b91-a1c2-14f4504534ce",
 		"title": "Domein E: Materie",
 		"examenprogramma_subdomein_id": [
@@ -6146,6 +5997,7 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ANW/H/DomeinF",
 		"id": "4336bacd-c0f7-4c08-ad1a-98e3b8ef640e",
 		"title": "Domein F: Zonnestelsel en heelal",
 		"examenprogramma_subdomein_id": [
@@ -6156,8 +6008,8 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "AK/V/DomeinA",
 		"id": "99133512-0fc8-4de8-9fb9-f9235f75751b",
-		"prefix": "AK/V/Domein A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"606657d1-5ec5-4f98-9cdb-8ae2c2db1aff",
@@ -6165,8 +6017,8 @@
 		]
 	},
 	{
+		"prefix": "AK/V/DomeinB",
 		"id": "09e66e5b-06e9-4d39-b941-3b2a56c681eb",
-		"prefix": "AK/V/Domein B",
 		"title": "Domein B: Wereld",
 		"examenprogramma_subdomein_id": [
 			"f68f81cf-a3c3-4ea3-9ad1-68659d197f89",
@@ -6174,8 +6026,8 @@
 		]
 	},
 	{
+		"prefix": "AK/V/DomeinC",
 		"id": "fa7a11c9-d85d-4773-84f1-099586fee47e",
-		"prefix": "AK/V/Domein C",
 		"title": "Domein C: Aarde",
 		"examenprogramma_subdomein_id": [
 			"4bbd2464-07e8-4b68-b4a5-39c630dac25e",
@@ -6183,8 +6035,8 @@
 		]
 	},
 	{
+		"prefix": "AK/V/DomeinD",
 		"id": "3181cd3e-c59a-4012-b774-6c9f39168157",
-		"prefix": "AK/V/Domein D",
 		"title": "Domein D: Gebieden",
 		"examenprogramma_subdomein_id": [
 			"76e3ce7c-7356-40f9-8b30-c9a8f3c84ab6",
@@ -6192,8 +6044,8 @@
 		]
 	},
 	{
+		"prefix": "AK/V/DomeinE",
 		"id": "06dec5a4-683d-481e-9ff4-5a3cb01685e0",
-		"prefix": "AK/V/Domein E",
 		"title": "Domein E: Leefomgeving",
 		"examenprogramma_subdomein_id": [
 			"90176787-9a80-4148-8662-f1561f223596",
@@ -6201,13 +6053,13 @@
 		]
 	},
 	{
+		"prefix": "AK/V/DomeinF",
 		"id": "f72384f9-4893-43cd-83a7-27733bdfe282",
-		"prefix": "AK/V/Domein F",
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
+		"prefix": "PREAMBULE",
 		"id": "36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
-		"prefix": "1.",
 		"title": "Preambule:\r\nDe zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo",
 		"examenprogramma_subdomein_id": [
 			"e625807f-aae1-4c47-87bd-2ffb42292237",
@@ -6397,8 +6249,8 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "AK/H/DomeinA",
 		"id": "f8396db6-92cd-4cc5-9e9f-5de3fab6a171",
-		"prefix": "AK/H/Domein A",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"7a894a09-cfaa-49e2-9ea1-7e320e055d78",
@@ -6407,8 +6259,8 @@
 		"ce_se": "CE;SE"
 	},
 	{
+		"prefix": "AK/H/DomeinB",
 		"id": "d396a627-9202-40a9-844f-b5d8da88c714",
-		"prefix": "AK/H/Domein B",
 		"title": "Domein B: Wereld",
 		"examenprogramma_subdomein_id": [
 			"ddddadbf-6ca7-4086-bc0f-4c22518d4762",
@@ -6418,8 +6270,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "AK/H/DomeinC",
 		"id": "aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-		"prefix": "AK/H/Domein C",
 		"title": "Domein C: Aarde",
 		"examenprogramma_subdomein_id": [
 			"1ef1e15f-2b5f-4597-a318-2c8cbf285770",
@@ -6429,8 +6281,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "AK/H/DomeinD",
 		"id": "6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-		"prefix": "AK/H/Domein D",
 		"title": "Domein D: Ontwikkelingsland",
 		"examenprogramma_subdomein_id": [
 			"e348697b-75bb-4ac0-a742-975c4b97109b",
@@ -6439,8 +6291,8 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "AK/H/DomeinE",
 		"id": "7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-		"prefix": "AK/H/Domein E",
 		"title": "Domein E: Leefomgeving",
 		"examenprogramma_subdomein_id": [
 			"28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
@@ -6449,9 +6301,1578 @@
 		"ce_se": "CE; SE"
 	},
 	{
+		"prefix": "AK/H/DomeinF",
 		"id": "d070f49b-5929-41b3-b9c7-7d8d06b0de67",
-		"prefix": "AK/H/Domein F",
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"ce_se": "SE"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"92dca5d6-2612-4eed-9a02-38b3891e6f13"
+		],
+		"title": "Domein A Vaardigheden",
+		"id": "e5ada5c6-678e-4472-9bef-5dd92e998783",
+		"prefix": "EC/V/DomeinA"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"9ba33f47-c9b5-4eeb-8762-558274ea3bb3"
+		],
+		"title": "Domein B Concept schaarste",
+		"id": "60423bf4-423a-4da8-a405-57e7052b6bdd",
+		"prefix": "EC/V/DomeinB"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"38152c78-8d78-46ec-af54-3621abd4ddef",
+			"622d849b-7d36-42de-a872-8753da42902f"
+		],
+		"title": "Domein C Concept ruil",
+		"id": "6b0b176f-f0f9-498a-9181-70568cf456d6",
+		"prefix": "EC/V/DomeinC"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8",
+			"24b77886-45fa-41d0-982d-1e1ae9dfbdec",
+			"f641c15c-a416-49c2-84eb-b3f0c40c3efc"
+		],
+		"title": "Domein D Concept markt",
+		"id": "6a88db07-690c-4c47-83c1-fd760900fbe9",
+		"prefix": "EC/V/DomeinD"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"9844212a-ea9c-474f-beaa-f3783d902493",
+			"0b53e93b-a54b-4188-aa4b-0cd2fed6ef0d"
+		],
+		"title": "Domein E Concept ruilen over de tijd",
+		"id": "f3e4b98a-b6b9-492f-bc2c-902ad33bdcd5",
+		"prefix": "EC/V/DomeinE"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917",
+			"998da70f-f354-4fe8-b1ed-0a2dc90fc9bb"
+		],
+		"title": "Domein F Concept samenwerken en onderhandelen",
+		"id": "f4eeea68-5c56-4edb-bebb-06e5dfe8b3fc",
+		"prefix": "EC/V/DomeinF"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0",
+			"d3dd771d-faa0-4c0a-9550-5af3bf915975"
+		],
+		"title": "Domein G Concept risico en informatie",
+		"id": "87846547-0357-4076-bcfa-edd9567472c8",
+		"prefix": "EC/V/DomeinG"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2",
+			"41c8a69e-3d50-4417-a0c9-9a99a9a399a1"
+		],
+		"title": "Domein H Concept welvaart en groei",
+		"id": "6803f13b-88d0-4da6-8cb3-e24695ee81ea",
+		"prefix": "EC/V/DomeinH"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039",
+			"27da1419-7ee6-4e5e-ad78-15f07b790852"
+		],
+		"title": "Domein I Concept goede tijden, slechte tijden",
+		"id": "5075bbd7-4756-4d6f-b763-e3ecc5c70d59",
+		"prefix": "EC/V/DomeinI"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"02ae4d13-a7fd-4dd3-b750-a2c479a328a2",
+			"939f1c3a-bbd4-4553-8551-26de786508e9"
+		],
+		"title": "Domein J Onderzoek en experiment",
+		"id": "8732b8eb-2647-4558-aa32-f4bbea65383a",
+		"prefix": "EC/V/DomeinJ"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"e996e469-b360-4de4-abf6-43ef13127671",
+			"637892ce-63d8-4857-977d-1958ca7f5ece"
+		],
+		"title": "Domein K Keuzeonderwerpen",
+		"id": "16ed878f-47fc-46e7-9ecb-efa93db31ee6",
+		"prefix": "EC/V/DomeinK"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"f0e0ffed-9ee3-49f4-a515-528c803d0ac6",
+			"84da9db7-702c-49af-a220-3932834dfbdb",
+			"1117d8d6-9e4b-4eb6-9277-7f63a191269c",
+			"4e6baef0-8a7b-4d23-9416-2cc97ec1bfef",
+			"93ea0df9-c41b-4d46-a66a-e8953ba4776d"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "22aa5606-9f7a-489c-a761-c9c589514c57"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c57fec84-de88-4a31-8e4a-25ceafa46728",
+			"86ca9367-6377-4eba-8192-540e8ee112c4",
+			"cdda4ff8-4a05-4e5c-aa44-e3ec568059b7",
+			"3d96f81c-bcd9-4c53-bda5-72191e79c5a3",
+			"d15fd48b-5462-49f8-9fef-96527323b914",
+			"7121c372-b530-4a9f-8af8-3773233d9a32"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "b66ab7a1-085c-4554-ab57-020eb56cf8ab"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"93ba7a61-65d8-4727-9861-56af97876054",
+			"419be2ad-fd7e-4a80-9e57-2e331ae9a533"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "011868f8-9c73-4156-8b81-7b6181bafc79"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"3dac54a9-d8aa-4389-be50-26b8c1b114b9",
+			"d743a7e0-adc0-45aa-a946-d61b1eff3b4b"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "7b543eb0-e2e6-479f-bc06-97ae397852b8"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"40d7fd2c-aaf1-4863-a326-7cd6ef839560",
+			"d3aabdbc-e982-4077-9f1b-a060c52ccd35",
+			"8ac0f525-bb29-4ba3-877a-7441913585c9"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "c2a479d5-b18d-4423-9343-71ae519bda61"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"861fcf74-1ab2-4533-903e-3093f567276e"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "825dd3a5-beff-4d90-8c5f-e6aa55ec9ff7"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"52806700-dba2-445d-ac2b-fd70881f6ac1",
+			"68d968b6-1f70-46c1-9ca7-5dd712942327",
+			"2e1b67ed-5844-49d1-a669-746e62637cb9",
+			"a34242fe-2617-4996-a0b6-a42cc68d4eca",
+			"c3f2170f-4691-4f3f-87c9-354ca8428aad"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "78831e71-05dc-47fd-9c3f-39c88d6549d8"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c6d17e3e-b596-485b-a6d4-97802c0e33c9",
+			"b3bf3475-c815-44c4-9ba5-75ea572bcf18",
+			"497111fc-0c7c-442e-a754-71644decf75b",
+			"1b80fc1c-e77e-4ed9-a496-49c036747b71",
+			"307537a8-f8d7-4508-97ed-4df66f9d3bf4",
+			"3a56fdc7-f475-4489-92dd-f0e387007c56"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "2ad4a35c-98c2-4b06-9f26-fe9084aab61e"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"f7d3ef7b-74d4-4475-bc7f-33f4e54e7236",
+			"b39455be-4a6b-4129-8573-01d1fad20e7f"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "ab797438-1f02-481e-a922-23ce0e57a07e"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"8617cf18-13bf-4c3d-9ebf-c5e5fac1cf20",
+			"df7bb85e-8e92-41d5-98db-f66505eebb56"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "5a6b52af-49f6-4b9d-82ca-cdba3630bff2"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"f10fe533-1c89-43fd-9e20-a7d1abe27f5e"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "bb5250a9-7ddb-46df-9309-ea96a5e68878"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"8f9147d2-3454-4068-ba97-2abd1bb9bc41"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "14d79f53-a3cd-4deb-8be3-8002bc21d647"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"5d0167e6-18f3-4582-99cc-29ed8a29dcf6",
+			"5d26ada5-1aff-4672-b729-11cb30f7eec3",
+			"a0265e04-62b8-4baa-b3e7-2fd6079043db",
+			"5db4c60f-63ce-4430-9c61-29cd4fbf14ec",
+			"738b566f-b5ee-4fa7-aba0-ced21aa76205"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "304b5796-9fa6-48c0-adec-64147a277b23"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"de9e6f1c-7c71-4836-b42f-0eb65c5d062c",
+			"41cbfc0e-a86c-4396-990c-c125c2f268b9",
+			"c7cc60ad-ff8f-4312-89a4-dcb6870aeda1",
+			"71c4a98f-7935-4ba9-808c-7c501f2f8eeb",
+			"5082e559-b263-44dd-8daa-729a2de7de24",
+			"d5750b93-8579-44f5-898a-5bd00cd52ab9"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "7dd363e3-badd-414c-92e9-35286f4b53fa"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"f653fb7c-8ddd-441c-974f-af9e983c2ba7",
+			"ab7c51b4-f050-4cf0-9be1-45c98f7c8851"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "89adbef5-04bf-44d1-bf4a-1fb9e7fd7a76"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"d9dba198-8e53-4e52-bae5-03ed42d65b5e",
+			"0960cd07-6616-4d24-a156-b2219771060e"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "611d5a11-4735-47c3-b93d-05819924b21a"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"ad82aafa-ff66-4016-aaf1-7af1d6c0a55a",
+			"b10955f4-d0ee-49a9-b0cc-cfcc2828cc8a",
+			"c718b887-ad6c-41bd-8928-6a3a35e6a093"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "950ca93d-e46b-4b33-b31d-b94065a08917"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"16d59a94-ca5a-49a7-970b-31980769e598"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "437b4a6d-d22b-4214-b14b-0ecb6d4fe7a4"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"e58c134d-990a-466c-b41e-7f914294b678",
+			"0d0750a0-09aa-4fc5-910c-98ac64cd02e4",
+			"02494a8e-ff7e-495d-94cb-8555d244e079",
+			"b91396ec-2ffc-4cec-8cbb-01ddd3e76716",
+			"d7d08ac2-f140-4db9-9f8d-82abb246d347"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "fc8c86a6-6b50-4fce-a779-c9ab62e83810"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"4972b065-6df4-4a02-b20a-0b78c76fcb50",
+			"0f0afe20-9db4-432e-8f23-e627ad75fce9",
+			"4d11e748-c678-4e18-affe-667a5ed78dfb",
+			"9b048828-5f4b-4edd-9eeb-492316933914",
+			"95f1002c-b452-43a0-927e-6faafec26953",
+			"1f1e9972-91c1-4b9f-9bbb-9c3ca23d4fe6"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "a4d6924f-7e23-40ef-986c-662c3e1f53fe"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"2636921c-741b-464b-82d4-9d1269817102",
+			"1f2a7a1c-284d-4d49-9044-729bb59981a6"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "69c7b6c0-c0bf-4508-a472-c071753b198a"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"73462611-93ed-42fe-8427-0ec54431907f",
+			"af647557-18d5-458e-9f1b-95fe449fb3dd"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "49fec174-cdb8-4180-afa9-99e40eba860c"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"a2db5d7d-fbfe-4939-8c94-e5cce1fef020"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "8cb19cd4-9a48-49a7-9f73-e49f4d6d94ae"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"64b63358-8038-431f-93b5-08d9194e21f8"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "ec09b254-a8bc-437d-ae26-67308e6dc600"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"ec09fc12-c78d-492e-bede-2613bd64b15f",
+			"487ac2d1-2d71-4f0f-96cc-9a36d2ca3040",
+			"12b605bd-e6e2-4a12-a415-4021e8185199",
+			"3195e262-d0d5-4b3e-866b-a8446622479e",
+			"cd66a1fa-8aa4-4c30-9790-2a98e940e929"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "cb6ff718-7635-4db3-b8e1-4d8f5100fd9e"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"761cb0e6-32fe-42e1-9ff5-68bfd81891c9",
+			"641d6278-d2d7-4054-913d-5a8d44dad631",
+			"49e5205f-f304-4f4b-9730-565311484895",
+			"7090d95d-bc2b-49d0-9648-7db927298497",
+			"22eb3041-2006-4e13-9321-144211e4793d",
+			"6363d9b4-0f4d-456f-9b9b-faecf525f707"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "bcb804db-903a-4322-9f88-57b3c50bfce8"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"db8211be-d555-414e-bd78-a4ffe17acac6",
+			"f85557d1-baca-4052-a54a-5b7a0bbaf7c3"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "7be77171-9013-486b-ba8e-f9bbac974b17"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"b3ef2cb7-ca1c-447e-a9d2-4aee9ff13a0b",
+			"8753bcf2-5aab-4494-a65d-ba63a1295adf"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "916647b4-8fa8-4bee-b6f8-8681fa92474a"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"36e3b085-0988-4c05-948f-06ec40f5660e",
+			"66925c91-a627-40e2-bab3-04e518328334",
+			"1d8cd2f9-0646-42f8-9c3f-37f2fc3b5cfb"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "3ca73e3d-096e-45e1-8ed1-4045256e5270"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"e2d0f277-89dd-4a3b-a3d6-b953f9d2935a"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "6b0f7930-b74b-4974-a003-3d6c2ef01956"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"6b0fd50e-3533-4d56-9e1d-84d74df57127",
+			"b8e7abbe-bbec-4594-8ed1-69ad6d483d0f",
+			"5f941f76-c88b-4f6b-aed8-596a8facc946"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "7c79a13c-2ef3-4a6d-90e4-2479adb761c2",
+		"prefix": "NE/V/DomeinA"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"98f752a7-2ad3-4b19-bb69-302379472186",
+			"2e9c55b2-6e62-4503-b7ff-fd0a6b6950bc",
+			"25b067a4-b9f1-47c4-9421-c9eaa6fb01fd"
+		],
+		"title": "Domein B: Mondelinge taalvaardigheid",
+		"id": "d1e7530a-541a-4161-9778-f340144aec2b",
+		"prefix": "NE/V/DomeinB"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c9388399-f92c-455b-8484-43a0b027b023",
+			"8a04b5c6-0807-4d61-90d9-d16f4faa0b1e",
+			"adedf3c1-51de-45f7-a647-ac85b02380aa"
+		],
+		"title": "Domein C: Schrijfvaardigheid",
+		"id": "bb58304a-83a3-4376-bed6-fd43178394be",
+		"prefix": "NE/V/DomeinC"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"69ab8982-1ad6-4e1a-b54e-44e2637ebcc9",
+			"c3d90dca-ed29-4ef5-987b-3bb353f382ef",
+			"57253af7-5686-4433-ab52-5ef10663df41"
+		],
+		"title": "Domein D: Argumentatieve vaardigheden",
+		"id": "ad81b3f9-0b24-4a56-9968-c8a3c160f495",
+		"prefix": "NE/V/DomeinD"
+	},
+	{
+		"examenprogramma_subdomein_id": [
+			"1f1f6a1b-01ef-4dbf-bad3-6c79fe3246b9",
+			"6486eeb7-d7c0-4850-b5a6-8c9dada6839b",
+			"4b7a1c3c-797d-448d-9429-a21b5312efbf"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "4c8fdc16-8515-4895-a638-6cb00282bd24",
+		"prefix": "NE/V/DomeinE"
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"c0c55faf-2047-4c12-bfe2-d38239527f8c"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "35f3b379-3280-4f0b-a0cc-526289f2602d",
+		"prefix": "NE/V/DomeinF"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"6cbedc58-ac8f-44af-aa11-0c02d58830c7",
+			"6a554970-cd05-4051-b776-6a3a36f3e6f0",
+			"8f23030d-deae-4292-af77-032898efda76",
+			"7b1500e3-a0b6-47c5-bdc6-6c181db30153",
+			"dc4d27a5-bf22-4aa9-925c-de65fc9a0fb2"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "9ab753d9-be16-424e-b0d1-fc4f407a5421",
+		"prefix": "FR/V/DomeinA"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"c080e2e9-5d24-4e34-9c1b-6d7396b2df0c",
+			"a4736af6-78d2-45c2-b4a0-4e4ec3f09fed",
+			"6cceb60d-6376-46c7-841f-e868712c1f97"
+		],
+		"title": "Domein B: Mondelinge taalvaardigheid",
+		"id": "5b13307a-5d3a-4be6-8db1-757ade8e90f3",
+		"prefix": "FR/V/DomeinB"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"0f700295-cf68-42fd-85a7-8eaac31542b6",
+			"f90769e0-add6-4e00-83e0-75c113ca34c8",
+			"5c9a0d27-aaca-4fba-b922-b6c1d8b59397"
+		],
+		"title": "Domein C: Schrijfvaardigheid",
+		"id": "7ee1dcdf-3ba2-4aee-981b-029df8dc880f",
+		"prefix": "FR/V/DomeinC"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"c045f6f5-c9b4-49de-9e68-81040cbcc1dc",
+			"583f9798-f3d2-4990-adcd-839ef54cee74",
+			"36e937a1-6ea9-4ad3-b0b5-92aa0fcc8d7e"
+		],
+		"title": "Domein D: Literatuur",
+		"id": "ab03df83-98de-4d58-8269-d65a9bb43e4f",
+		"prefix": "FR/V/DomeinD"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"0c9352ed-13a0-456e-9c64-048d4918f0c7",
+			"28d1eca9-160c-48b6-b0ae-2d6755ec68fb"
+		],
+		"title": "Domein E: Friese taal en cultuur",
+		"id": "db786019-0499-4b75-9b65-aae13c56cf8a",
+		"prefix": "FR/V/DomeinE"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"fc9188e5-e462-4cda-9d8b-0cd1e58cab79"
+		],
+		"title": "Domein F Oriëntatie op studie en beroep",
+		"id": "0e1b17c4-3aad-4a3d-9f2d-39564c94b64d",
+		"prefix": "FR/V/DomeinF"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"85be34c5-67c0-4896-9f4c-9c1cd59224e0",
+			"4c79c15a-a8a4-4dee-a8c0-20a0d7b744a5",
+			"7e8932ba-1aa7-4392-96bc-7563b681582a",
+			"ee82193e-2c9d-4382-94ce-4df6f3ebaa8d",
+			"036517fa-4862-4f53-a23f-db587d4f98b5"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "0d0c027f-e2c2-4681-8c47-bd386208a760"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"b0b3e448-8265-4aeb-a011-7e334af8cbfd",
+			"eafcf1db-8618-44b0-9c45-69a579cc5729",
+			"ff4c2501-d301-4195-9c96-71ba8c035de9"
+		],
+		"title": "Domein B: Mondelinge taalvaardigheid",
+		"id": "18f03ee1-f4a9-45ae-ba49-c3f27c862262"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6bbc2355-4a79-4c8b-950f-7b7475b90145",
+			"3befc8ac-17ae-4ae2-87e9-6dad58c61263",
+			"e4d7363c-cb55-4dba-b740-20bde36d45f6"
+		],
+		"title": "Domein C: Schrijfvaardigheid",
+		"id": "e81d8def-a784-4e4c-b1e5-3e1b599cb87b"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"fbc7cccc-ea24-495d-8c13-cb374e88f64d",
+			"1414560e-afe4-4572-bcc8-e94228ae2424",
+			"e8fbc495-32b1-4cfd-8981-82cc2309f3a0"
+		],
+		"title": "Domein D: Literatuur",
+		"id": "d69954a0-16a3-4fdd-910b-86d5d893cde4"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"0c64a43a-f33d-4373-9492-93439f8543ff",
+			"cb1667a3-57fa-4a34-b32c-b38e2417d328"
+		],
+		"title": "Domein E: Friese taal en cultuur",
+		"id": "4d1c9890-54ff-413d-8268-f68c035678b0"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"ec808e0f-557a-4199-a6b4-88852a1ccc09"
+		],
+		"title": "Domein F Oriëntatie op studie en beroep",
+		"id": "670c0386-dd39-44b6-ab8d-dac59fa729bc"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"67da4c4b-5b7d-477c-9734-135c1633b6ab",
+			"e416c685-d78a-4945-9798-f1ab72494257",
+			"32d4ade5-876a-44f1-8219-c5d5851719e6",
+			"931a0d7a-6adb-4c29-baf6-242ec8793ce3",
+			"47ceeeee-da4f-4ce0-a6f5-6a9d941bd7b7"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "76c0179f-c137-48bb-8d3b-80e287fb3b9a"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"4095df9e-25e2-4d11-a397-c15ef308ec36",
+			"384520f4-91b4-458a-85e6-837caf197121",
+			"70fcbf65-3d0d-4dda-878e-4fbcc0287606",
+			"2f70e2ad-a253-457a-aa39-3242afe8196f",
+			"8c572feb-a019-4354-a7ab-e90cd21fedb1",
+			"a8342be9-a0f6-4408-b43e-b1dbc99223a7"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "e304725b-d485-4406-bdd5-00a370f4989d"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"f9ad4ed9-b0f2-453f-8935-b042ed21038b",
+			"f634f37a-6e49-499e-951a-108efe9d48ef"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "945db72b-1b62-4581-a262-a69b492941be"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"978a554b-802f-45f3-ad56-86cec6f5fbde",
+			"9be9b08c-2808-48a0-a49e-e65e00c3d37e"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "7c4cca33-6855-4a01-95bc-ce78026c4d78"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"a9ef5607-1cb3-428d-abd9-8e1f34fbcc08"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "ecd0fae6-088c-4079-91a2-f7d754435904"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"f940fe18-30c7-42ba-a1d6-6df2709513f0"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "1defef49-89a7-4c44-a692-b05e40e2a53a"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"82a57889-3b27-4768-b663-ab5a45eea210",
+			"0b5b9bcf-fcc9-4321-b71c-45d5b88d1e28",
+			"00bf697d-b19a-430d-a987-79a4c79871ca",
+			"0b46fd6b-98dd-4c6d-8f5e-c96133ac8015",
+			"2545e2e6-175b-4278-aadf-220b411c2253"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "7df1f753-a43d-4ec7-809f-47341f61447c",
+		"prefix": "AR/V/DomeinA"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6dbe38ca-768d-41cf-bb44-4258e429b765",
+			"23e728ac-6541-4c7b-b6c6-658cb8bb492b",
+			"e4b17055-acae-4528-b364-f72482efe0cd",
+			"b6e67bb2-af05-48a8-b846-6e264b2c9aab",
+			"72518b34-8aa2-4cda-9bdc-45e35950a115",
+			"adfa2ea0-6f96-4a82-987a-234ea52afd9e"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "a0dc2508-a91c-460f-8b76-7942e657d2be",
+		"prefix": "AR/V/DomeinB"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"f8105c62-6305-454d-a718-1b3c6034dc41",
+			"740b49c0-67c4-41d2-ac15-68a42f35bee1"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "1d37735e-228e-40d1-a26f-b33e062a709e",
+		"prefix": "AR/V/DomeinC"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"67adc94c-fe62-4df4-8943-f25c971b8963",
+			"14f29daf-491f-4aff-b244-9409a1560ea6"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "97fad6d8-3898-417b-b703-443808fd7dc7",
+		"prefix": "AR/V/DomeinD"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"8f1da728-1d6f-481f-b0e2-d96f6ecd97c7"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "37b2e7b5-c570-4093-a100-5456f80476b9",
+		"prefix": "AR/V/DomeinE"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"bfdca570-59a3-487c-905f-30c43d2a0ca6"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "1a8339dd-7d4f-44d6-8855-b28ff359efa0"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"3527d948-ded8-4d50-b557-e682231687c3",
+			"d4722d2b-4df7-444e-b7da-ed1ee046f320",
+			"3c013aa0-8ea2-44c7-a57c-30752d320aa4",
+			"5d16f0ff-dde2-4935-9b88-24e7224824c3",
+			"2e9b05b3-b296-4a29-89ca-cbfe1ad8cfda"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "9e7cca88-8283-4865-90c8-04a56fcd6a77"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"af17ad06-68a2-4be2-9dcb-806ac0fe18e8",
+			"fd5e3ffc-5e3c-4c3b-b7f9-eb1caacea672",
+			"00307b6e-ad89-40ca-acd7-2c1263d59369",
+			"926cd332-71da-4763-92a2-2d589c0581f5",
+			"c654c2ce-e831-46cf-af0a-3e565959ba35",
+			"bea69d3c-473b-4baa-a045-1206da7fc341"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "cbe7f1c1-b119-40c3-86aa-460125ca37d0"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"5b599f55-532b-4f0a-b42e-bb658d5b40a9",
+			"c3d3006a-402b-46b6-8561-af7ecb4077ad"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "61727f77-287a-4822-888e-dd31c3ab56f6"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"edc57b1d-104d-4984-8749-5e7ae7b3150d",
+			"d2c5a8c4-349f-485e-b642-548118968bd3"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "0f92a591-7682-45b5-bddd-11fabda4ef11"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"671b3c20-5e7e-474e-aaca-2e1b0a500e50"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "696a6a68-3f41-4759-873d-85d295935141"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"1a9685bf-669f-4ee3-8e71-45db1805f8b4"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "bbb21971-9154-4fe8-88fb-f85db46016ef"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"e01b80b7-ca34-4145-8076-d2d20e328f90",
+			"440919e0-057b-41f2-a998-802652ccd7fd",
+			"974d9410-a017-4b3d-838f-34ac0b6fb414",
+			"089ed8bc-32ad-4f31-b799-743638f9099b",
+			"69de9199-57f5-44a9-ae4d-8de7a476df1c"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"c3bde1eb-ce4f-4514-b25d-e626615f3982",
+			"78d89098-17d7-4891-9a27-ea84a73a3746",
+			"ee479d35-61b3-43c3-9247-b35fea7cf1e9",
+			"efa9c841-a759-417b-b9c9-d4a69f5e8092",
+			"afa88d63-b155-4929-92c7-61c3c42cc788",
+			"68b6b87f-b247-4f2e-a0af-cc814689f3cc"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "825648ba-7910-4f9a-a5fe-8712208fac18"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"b00f2cb9-32d7-47c4-be45-01c237758b9d",
+			"d2e0ec5b-e803-4417-8eb4-072bf66aec47"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "33048b47-a377-465a-b01d-2c85778269e4"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"f47197cc-b435-4183-a3d4-f51e372d9606",
+			"3617f9eb-e746-4506-8f6c-5cca8a832c09"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "d5dae5ba-37a3-438a-a663-c2a379c70e95"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"810e2bf4-5e9a-4bd9-be0a-d9722d72eabd"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "f3605d5b-48c2-4997-b5ca-58b646e09d02"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"f4508ad8-5cd5-4964-91b5-be744e267d37"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "5b7dabe3-0aef-4bb8-97db-89b034665512"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"94dbe125-ae6e-4dfc-bbcf-4f6481e880d8"
+		],
+		"title": "Oriëntatie op leren en werken",
+		"id": "0bbc6acd-284e-4714-b181-7861f6fbf28e"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"c9ed8ec9-e2cd-4a14-b3f5-ba04bb05a6cd"
+		],
+		"title": "Basisvaardigheden",
+		"id": "88dddd78-8e31-4867-bd6c-6801949c012c"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"97c5d286-f44b-4431-ba49-e02a449cbf39",
+			"4d17b8b5-d29e-4ae5-b5d9-718a5f129240",
+			"c454c6a8-0706-46eb-84ad-7ac158949206",
+			"2296e1d6-9ca3-4e1e-ab3d-6f7da7f5c1b0"
+		],
+		"title": "Leervaardigheden in de Moderne Vreemde Talen",
+		"id": "b2774710-be1b-4d02-a4ba-e3009f66e34d"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"29303427-daf0-42ac-a199-4a5bbce7a229",
+			"da2acd1f-203e-4426-bb4d-47c4383628fe",
+			"ef23fecd-467a-4110-bc63-72036b324d26",
+			"9f439aea-2694-4fdf-a2fd-77c4bfc319a4",
+			"6d602516-9fc6-4cfd-8dc8-36edb38955c9"
+		],
+		"title": "Leesvaardigheid",
+		"id": "106ba245-5df3-425b-9647-4fd5d074ade6"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"c933045f-626a-4dcf-bdb9-5b0ea9296715",
+			"31c99b83-67ad-4725-9e5c-d3894775440f",
+			"f609a97d-5223-4ddb-9e3a-60c961025222",
+			"04d70769-dd37-40a5-b1f7-2414add865e7"
+		],
+		"title": "Luister- en kijkvaardigheid",
+		"id": "9f59efeb-ca7d-4fc7-ac3e-481af84af3a1"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"4fac0fce-3a24-45bc-8007-b3d2d0b07b06",
+			"73c44eed-1ea4-4ce4-b9bd-95d5371170aa",
+			"df4d6e90-67f6-4709-82b7-ac187311c2a8",
+			"8e3f6077-ea93-4b2a-910f-2cd5f7b00b84",
+			"2d2a9c47-db50-4bae-b87d-cf75787ac7e7"
+		],
+		"title": "Gespreksvaardigheid",
+		"id": "e97dbf07-d11b-4b08-9391-6d86c3bbe56f"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f5203b31-82d3-4500-85a9-02d3179a20d8",
+			"b4730ad1-986f-44c5-a752-e8073a2a81df",
+			"0984b4dc-5cfe-4b2d-9c18-8c9f7d947ecd",
+			"21c78737-2ae9-446f-a610-5d4bdf82374b"
+		],
+		"title": "Schrijfvaardigheid",
+		"id": "20f77502-1b62-46e8-a2ca-48bb472ff5f0"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"2b0f115c-f9a8-44be-bdbe-8abc62dfcfb3",
+			"c6694aec-ec44-4729-8ac4-e3a098050345"
+		],
+		"title": "Leesvaardigheid",
+		"id": "a62e3053-f2ab-40e1-8aa1-605751b69b9e"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1534d53e-cb1c-4b1a-9867-b3c8284fac46"
+		],
+		"title": "Kennis van land en samenleving",
+		"id": "cab5fe00-4968-4f61-a92c-2275aa224f41"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"9b6cc0ea-f409-46ab-a786-3c32ac19294f"
+		],
+		"title": "Verwerven, verwerken en verstrekken van informatie",
+		"id": "8a5d774b-b6c7-40d6-8215-b91ce328ecbb"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"420c7412-2259-46ce-b5fb-dc46db5238e5"
+		],
+		"title": "Vaardigheden in samenhang",
+		"id": "3a2f40e0-b0f6-45f7-923a-547e88cf714d"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"9953f466-3068-42c0-86de-52c5de4196ea",
+			"67b34c9c-33ed-44ef-9ed1-209cf9e0b53d",
+			"1169523e-3288-471a-b056-cd1c9c0e1248",
+			"ce61cab3-90ba-45b3-bdc2-fa1e4682788e",
+			"15ab751a-9d8d-4d5a-8548-62420495e49a"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "810edac4-adff-4c9c-9886-69146dc02abe"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"f589e41c-d06d-4160-887e-9238cacfc6bd",
+			"ffcfa57a-1c30-4dc9-b624-c3c818e48d0d",
+			"853ed787-eab0-46ff-b79d-4ba3e6a0612f",
+			"8b90a1c9-9e76-43a9-bfef-f6fff148ad2e",
+			"27ff9242-76a2-4357-8017-da95203ea7d2",
+			"6ced44f1-ba32-4a7e-9586-7f85b4ceb7a1"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "e8a892ac-94c9-41fc-84c4-d97234388194"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"71023f12-d79b-4646-a231-d5e5665c5f90",
+			"c437db88-d330-4b6d-8e88-91c2d34010c6"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "a98174f0-659b-4ae3-8d73-809593451dbf"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"677f6197-eb4b-46e3-9a23-4af94d6fb8bc",
+			"cf4bac49-1c9c-42c7-9932-cbe2a9ccff71"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "61f3b60a-081b-485b-a89f-55a5fe2ea481"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"d92137de-3219-4a73-bd6b-6333ef9a2337"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "bfc8a7cc-7c5d-4772-b1f9-74068130de34"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"02d6eb1d-83c4-4e53-9e13-df8122faccc3"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "3a9e9bfb-dfda-49ca-b591-798bcb40240f"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"dde4f8bf-f302-465e-9023-7029920fe9be"
+		],
+		"title": "Oriëntatie op leren en werken",
+		"id": "a0400dbb-4886-406b-b227-b549757f9d98"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"2f13abd4-2e70-4fee-909c-e2325bab1771"
+		],
+		"title": "Basisvaardigheden",
+		"id": "4f9e33b0-f0ee-4276-90fb-a76e6b96962d"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fa736bef-da3e-4d99-84bc-d31418253601",
+			"1f775b9a-0451-4619-a1a7-dc73b9703b36",
+			"638131f4-ac1f-4a14-be61-3d5f0d62e14d",
+			"0253b593-5194-43f6-8fe3-d4c2dce6355a"
+		],
+		"title": "Leervaardigheden in de Moderne Vreemde Talen",
+		"id": "cc43f6a5-5a45-4d79-ab3b-e509d700b41b"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"459ff6ec-2db2-42c6-946b-0de0a490e574",
+			"895c11d0-9bda-4de9-98ad-2c95c4de541e",
+			"f20404f2-eac1-4319-8e34-008c1935af19",
+			"cfa22ff2-8dff-4d2d-9449-6d75d1aeae30",
+			"290517d1-f6cb-4f1a-864b-8608f9e3a758"
+		],
+		"title": "Leesvaardigheid",
+		"id": "0755191b-2efc-4f56-bfa2-b2723012ff3c"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"00d56695-69d5-49a5-81e4-0a10d3254f5c",
+			"b9589510-f881-4cb0-83e0-fbc1dffeb61e",
+			"ff4fe820-3c3f-4ca0-bc32-98beca12c47b",
+			"f713fd3e-7d6b-41fb-b620-11be5b680c68"
+		],
+		"title": "Luister- en kijkvaardigheid",
+		"id": "d6f14d12-e83d-43be-bb9e-0f9157df4684"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"a5e93517-b757-403c-a38b-ed9af35e52df",
+			"0d1314c3-fd8f-44e2-9139-60e90e68a00c",
+			"525fd34c-9c86-400e-9dae-460c53f1b6ab",
+			"759b041d-19f3-443a-864a-7c245b04ad33",
+			"e1887867-81ba-4414-a779-bfc0a448d686"
+		],
+		"title": "Gespreksvaardigheid",
+		"id": "257bf344-c937-44c8-b38d-1e351b2cb5f0"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"44f5af3e-11a0-4ce9-b473-fe2d60acfef4",
+			"693c91ed-dbc8-4d74-8390-ffb87311d175"
+		],
+		"title": "Leesvaardigheid",
+		"id": "c97d84a2-c97d-4fc0-8360-e043b8d61fdf"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"b5f8c4ea-a6ff-4dca-843d-7bc202087f4d"
+		],
+		"title": "Kennis van land en samenleving",
+		"id": "abeca698-5363-4844-beb5-3343e97331f3"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"ccfbdabf-70a2-4cb7-a153-bcb8d73dbce4"
+		],
+		"title": "Verwerven, verwerken en verstrekken van informatie",
+		"id": "c80a5ea6-17fb-4660-9e3d-f56972f87730"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"0d86269b-ea68-4d83-aa0c-be6d7e3627d1"
+		],
+		"title": "Vaardigheden in samenhang",
+		"id": "6ee150eb-8970-404b-a0bc-13f0ad19e36d"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"93c35d68-fe5b-4524-80a6-014c34ce6e72",
+			"9bf6ca73-b178-4c59-9a46-a847abc14103",
+			"8a3fd694-4b7a-4bb2-8191-78e6ffa7d4ab",
+			"f485ecb7-4f81-47bb-afe6-c85b2ef200f7",
+			"63ab341d-7761-4951-aa35-f4f9e6531b5b"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "015ecedb-b86a-4508-824b-aa1253296bb3"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"27ea7796-267f-4a9e-9d5a-726600f291f8",
+			"4f9d1b39-764c-4afa-8f75-7104d9090f12",
+			"2e875a81-c277-4072-9112-b6fb2487951b",
+			"3aa019fd-bdda-4db8-a6ec-5576766041f5",
+			"910dce4b-112e-4bb6-b9bd-7e01497dec13",
+			"8fac5d55-b375-419f-97b1-ca0197cb4355"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "1e2cdaad-eca5-4e00-a6a5-1d1e0ad3989b"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"6e6c52e3-cc87-4d9b-847a-211a2cf75f17",
+			"468eae02-7f7a-4c11-bc61-70add9b90050"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "26f0a147-1818-4a1e-a6e8-174a95f70d9e"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"6a4dac49-8d4a-4c5a-9ddf-5bdd1426228d",
+			"a44965cf-4cd1-450b-9b11-48498e87c085"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "d32e3d66-3665-41c7-9066-a1a976fc5a55"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"763a5a00-695d-42b7-ac0b-5e010c031d30"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "67b6582c-e039-4963-aedc-8538b1d2d103"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"4e0674c4-550e-4664-bb31-cc3dc7cc693a"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "86e4fb35-9b07-4d84-861f-a6520cb0ea8a"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"0aaf00df-771e-4da6-b657-69c2505c4e4c",
+			"d133c466-4453-4d88-8a41-534bc802fc44",
+			"943f9731-0e9a-4f72-b67e-c418f009da92",
+			"c94ae4ee-9f13-47b3-aaf7-0be8b69dd180",
+			"655d10da-3510-4440-8860-42dea04a17ce"
+		],
+		"title": "Domein A: Leesvaardigheid",
+		"id": "02232950-2959-4d7d-abbc-9f184ee4d942"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"3ea1026f-a157-468b-b821-1e18a5d9ea41",
+			"42a1cdf8-6c11-420f-b279-9e2eaf746d76",
+			"72effce1-2684-4284-80a7-0585fdba697f",
+			"88b57b3e-f969-45bd-8783-0120d0999775",
+			"50b08c7d-94e2-4242-bc1e-cb61a5e303f1",
+			"aa44eec5-5858-4e18-917e-fe956e111e3a"
+		],
+		"title": "Domein B: Kijk- en luistervaardigheid",
+		"id": "e8122264-36d8-40b1-a308-9ac482a2fd34"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"feea3894-3c3f-46b9-ae9e-9b3a1aa21b8e",
+			"ec805937-fa05-4d44-bb15-9dce2295da1b"
+		],
+		"title": "Domein C: Gespreksvaardigheid",
+		"id": "9d872d61-9359-4e92-9603-9058f302bab3"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"c94a65a7-90f9-40bd-86fe-9f39667b5d37",
+			"dd7013be-ee92-4c18-95a3-cc6c1f86767b"
+		],
+		"title": "Domein D: Schrijfvaardigheid",
+		"id": "f9b5a701-7813-4d60-a13e-081147bfd1d2"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_subdomein_id": [
+			"84d09e75-7c96-4506-9823-a2ff6239c348"
+		],
+		"title": "Domein E: Literatuur",
+		"id": "c141fd49-3a9a-4c19-95be-767a5ddcf44d"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"05871708-7fd1-419f-9100-1abf05d3caed"
+		],
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"id": "6fde8d81-7361-4e15-ad42-aea23e0f6c28"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"8fa3bbde-43af-448e-bd4e-566eff4e919f"
+		],
+		"title": "Oriëntatie op leren en werken",
+		"id": "1e1c230c-a8c9-417c-b169-30e8cbea17f1"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"1bb4ae27-db28-48a4-9ec2-56ac4e5f85af"
+		],
+		"title": "Basisvaardigheden",
+		"id": "2435d263-6129-484c-979f-dec4cdbce2ee"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"921f055d-f4ba-4b25-8933-07fcb3cf4f00",
+			"4f1cb9db-ab65-420e-8218-eaf45677e951",
+			"b48f447f-7451-4394-8b8c-06cefcebf1a4",
+			"1aaadd67-312c-45db-b2c5-0e056d0e5be8"
+		],
+		"title": "Leervaardigheden in de Moderne Vreemde Talen",
+		"id": "0eadc684-2502-4039-9786-ac965be3e902"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"5a0ccca9-6485-4385-a3e4-cc1db30a9cc1",
+			"702f4364-bd57-4e7b-8c2d-4bf9bd7db85c",
+			"977608ee-2a7c-4da7-8082-8c497e993851",
+			"0634921b-3cf7-44d4-9981-9e633e1d5128",
+			"adad489d-6bd5-4c00-ba4e-ece0221a7724"
+		],
+		"title": "Leesvaardigheid",
+		"id": "9a6a34a0-f728-4233-92d9-881a6e1b239e"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"805eef03-1dcb-4bda-8a6b-881c05ee7cc4",
+			"10baccd0-5fa9-44bb-ab3c-7e7e63a2d7f4",
+			"0de8698c-34a9-46e2-a092-961ef65a2387",
+			"6f6f4b2e-eab1-4f5c-9080-7a1a19f2dc4a"
+		],
+		"title": "Luister- en kijkvaardigheid",
+		"id": "31ab751a-13c5-4ab7-b233-d414e8b77f57"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"c8c835af-c5a2-4797-9417-ecd2bf1df59a",
+			"16b62f43-d076-48b1-a938-4b8661f40d07",
+			"de9861ee-d4d2-4283-ae52-597a2faca9ee",
+			"8c6f9652-e171-4d4c-8d1e-8a186e9521e3",
+			"4d3877dd-8e44-4f79-90cc-378cbd8d932b"
+		],
+		"title": "Gespreksvaardigheid",
+		"id": "99e1139c-ddaf-4838-aa74-3591e6dd2d5a"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"7fea46b8-3edf-41ee-aa36-f703761d1056",
+			"d4e6a03f-6bab-48dc-bf31-201cc0f844a0"
+		],
+		"title": "Leesvaardigheid",
+		"id": "a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f86393a3-65d4-452e-b82a-6a9116719ad6"
+		],
+		"title": "Kennis van land en samenleving",
+		"id": "bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf"
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"88a20931-dac4-4cbb-a3cb-a03b7b8e6cbd"
+		],
+		"title": "Verwerven, verwerken en verstrekken van informatie",
+		"id": "59e1f732-f0fa-449c-b976-5a92d2890ce7"
+	},
+	{
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"2ed3742f-a917-40eb-bec0-87bb8504a112"
+		],
+		"title": "Vaardigheden in samenhang",
+		"id": "7d2a47b8-11c1-408d-bbcf-22a86bee7710"
+	},
+	{
+		"prefix": "SK/V/DomeinG ",
+		"id": "16435040-6779-43a1-99db-f8a896af9837",
+		"title": "Domein G: Maatschappij, chemie en technologie",
+		"examenprogramma_subdomein_id": [
+			"3f606b05-18fd-4245-9bce-cf73e00c439c",
+			"336e0f2d-d2b9-4b56-bdd8-0c0ebd8da47f",
+			"facc0f52-0195-45ea-8c14-f0a19fe89a01",
+			"c51ead26-1e12-487e-9a3a-13a989f2c86e",
+			"fb68453a-6cea-468f-811e-e4b85aa55672"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"baa21fe3-bd82-4e21-9073-bf7acc8913a3"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinG ",
+		"id": "16435040-6779-43a1-99db-f8a896af9837",
+		"title": "Domein G: Maatschappij, chemie en technologie",
+		"examenprogramma_subdomein_id": [
+			"3f606b05-18fd-4245-9bce-cf73e00c439c",
+			"336e0f2d-d2b9-4b56-bdd8-0c0ebd8da47f",
+			"facc0f52-0195-45ea-8c14-f0a19fe89a01",
+			"c51ead26-1e12-487e-9a3a-13a989f2c86e",
+			"fb68453a-6cea-468f-811e-e4b85aa55672"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"baa21fe3-bd82-4e21-9073-bf7acc8913a3"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinB",
+		"id": "ac5e4115-7170-4bb1-9912-a220a18ee97f",
+		"title": "Domein B: Vorming (binnen een specifieke context)",
+		"examenprogramma_subdomein_id": [
+			"14b24fee-8194-4259-ac83-d214a2d17b08",
+			"1d7c1846-8bd6-489b-aead-f3c9adeb3d38",
+			"eba5c937-573f-4f04-9208-ce7a7b1f915a",
+			"164002c3-b903-4f64-ad75-3383ebf6d8fb",
+			"59c29633-b935-48ab-b840-b6a480aa8b4f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f3d25f6e-8239-4575-9e3f-ed7a8d7a8cae"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinC",
+		"id": "33cc0542-0dee-4dac-b29e-671c0468182b",
+		"title": "Domein C:  Massamedia",
+		"examenprogramma_subdomein_id": [
+			"ddb05787-75e1-4f3c-9c6f-e2256feaad57",
+			"2fac3170-22d3-4e7c-8b19-493b064e4cdd",
+			"0146296a-fb76-4b13-91f8-e5b825864fbb",
+			"3a2dd424-67fd-469a-a890-63d9946dac91",
+			"efce342c-6b3a-4f70-92fa-215020bd60e2"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"a16d38c3-c5f9-457d-9786-7bcbafabcb1f"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinD",
+		"id": "00e76bfd-83d1-4669-8d1b-b9e71f3f298e",
+		"title": "Domein D: Binding (binnen een specifieke context)",
+		"examenprogramma_subdomein_id": [
+			"05edfe4f-050f-498c-bd09-27613cffafea",
+			"c63933e2-9e18-4d1d-b8b4-1711d933fc16",
+			"b32e0ce2-c6be-4590-9bb5-a985c5d4f99f",
+			"e430d19a-c1d8-4da0-8544-ffda9b4f75cd"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"8591a1e2-0c91-4b0c-8e07-35d10c652b3f"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinE",
+		"id": "d7d401b2-9fc9-4a6b-ab36-5d72cbaafe73",
+		"title": "Domein E: Verandering (binnen een specifieke context)",
+		"examenprogramma_subdomein_id": [
+			"20eeeed2-4a67-4b86-8cd3-32ca83b7484b",
+			"c4271ec0-6138-4c34-b901-84e23712bd4e",
+			"28a9d5f6-19cc-41a2-91cd-f0725f0f4a1b",
+			"a75f6c10-9bf2-4427-a59d-ed8282f15b99"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"6760aaf1-7609-40a4-91be-a63bac9779bb"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinF",
+		"id": "b6671828-2258-4558-8765-d03171c39f22",
+		"title": "Domein F: Analyse van/onderzoek doen naar een sociale actualiteit",
+		"examenprogramma_subdomein_id": [
+			"d96aa21c-1abb-44c1-94ba-f1b2e25990a9",
+			"299b2cc2-91da-4bba-82c4-3d49bf42b8eb"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"eda307f3-d4e2-444c-b0e4-783eb3214409"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinG",
+		"id": "f94e1efb-1e6b-4300-898b-497cd40b82c9",
+		"title": "Domein G: Analyse van/onderzoek doen naar een politieke actualiteit (binnen een specifieke context) ",
+		"examenprogramma_subdomein_id": [
+			"e4e02540-8204-410e-9676-80558c370712",
+			"a6a5660b-fad4-4f3c-9fd3-51214b9d8212",
+			"1eed64b0-b72e-4856-8693-fa8d76c8982c",
+			"5699507d-34f2-4480-979d-502bdaabb658"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"0791bcec-963e-43d7-b342-c8067b0e702f"
+		]
+	},
+	{
+		"prefix": "BIO/K/6",
+		"id": "504d5282-f4ba-4803-99f2-1c7e194b2d84",
+		"title": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
+		"examenprogramma_eindterm_id": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33",
+			"16b1d959-efd7-4bff-8c62-112cd728ed04",
+			"425568d0-a039-4061-8bae-3265ccca0c8b",
+			"70ec03a6-916f-440e-9543-0622265389bf"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f8702473-e568-4fd0-a917-226f0439ce46"
+		]
+	},
+	{
+		"prefix": "BIO/K/11",
+		"id": "1334c01c-18bd-4934-8eab-f23bf7241d10",
+		"title": "Reageren op prikkels",
+		"examenprogramma_eindterm_id": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d",
+			"08f63cfc-37b3-4609-90b6-75d4f83ac1e7",
+			"abde0270-9d30-4fd6-b07c-2bfe90680060"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4a2d0fc6-022d-4d42-957a-11ce42df8443"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinG",
+		"id": "f92e958d-aaf4-489f-b57c-1ae0e0836f92",
+		"title": "Domein G: Maatschappij en chemische technologie",
+		"examenprogramma_subdomein_id": [
+			"c6f6acdd-cb84-4e98-8932-ab65136f426c",
+			"0b61cf85-c903-4f44-99f1-938564f6afa9",
+			"d707bdac-d7e1-4b79-973b-847c4141ebd8",
+			"4d7af663-d5eb-42ff-878b-943be93c98a3",
+			"0ea56ec3-ac0c-4dfc-9a8d-4ba8998cb1bc"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"baa21fe3-bd82-4e21-9073-bf7acc8913a4"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinB",
+		"id": "b0f86265-5296-496f-8f4c-119ebbd89534",
+		"title": "Domein B: Mondelinge taalvaardigheid",
+		"examenprogramma_eindterm_id": [
+			"8d2d8094-904d-4853-81da-d73bd61a18b2",
+			"9d1bab89-b352-4428-9b54-ee286d1e153b",
+			"3a2c790a-1d91-4a0d-9b26-24c01b582f1f"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"3b2b49d6-c966-46a3-800b-c21f4207814b"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinC",
+		"id": "b58b8e08-06cd-4787-bf6d-84128c60f907",
+		"title": "Domein C: Schrijfvaardigheid",
+		"examenprogramma_eindterm_id": [
+			"a7d7163d-0ee5-4ce0-a6cd-3a1cda0f818f",
+			"d2445055-631e-436a-a635-30c92903b36f",
+			"5327dd26-941e-4ebb-9ac9-693bd041ecee"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"644fc66a-9e0d-433d-902a-5ea2ae365745"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinD",
+		"id": "d35c0c93-c512-43f0-86ea-7bd67a2675b9",
+		"title": "Domein D: Argumentatieve vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"a752fc44-51d3-4e13-bbb4-7fafc161f012",
+			"f83853b3-c637-49de-83c5-11a301f97500",
+			"4163b918-433a-413e-a95f-a896fcad4e13"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"bc221327-d0a3-4848-92ef-0a6d8712c151"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinE",
+		"id": "4ce887b4-f8c5-4a19-b226-4582f3137c56",
+		"title": "Domein E: Literatuur",
+		"examenprogramma_subdomein_id": [
+			"5fb557d1-ff0b-4e65-8ad1-fa9aaa17b099",
+			"6de971ef-fc90-4c96-af7e-b26069074d21",
+			"c241c1b0-635a-45cf-9508-977c177164a2"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"03d8d70b-7ef4-4996-957a-200b9fe1211a"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinA",
+		"id": "107d14fa-de9e-46cd-a647-130c3905a771",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"9012fd63-22d7-4b82-872a-16b675e8f9cb",
+			"d8721452-6d7f-447b-8deb-08fca58caa1d",
+			"c9c33653-0d7d-4242-a79d-2fd4146408a6"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c36f2622-2003-422c-8fb3-ac5b88eb2211"
+		]
+	},
+	{
+		"prefix": "ML/V/DomeinA",
+		"id": "a2cf6058-799f-4d4f-9e8a-15f28c2f5957",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"fcf9a359-2d4d-499e-ac04-420e8f84499e",
+			"091c30e8-b041-43ba-afd1-4b9c5be182da"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinA",
+		"id": "d2f9a27d-54bc-405a-9c60-ccd7a3f734e5",
+		"title": "Domein A: Leesvaardigheid",
+		"examenprogramma_subdomein_id": [
+			"2ca69949-4c35-42b1-8ac5-ffbe6fa169d9",
+			"5c947890-96be-4c4f-b8d4-48b71f4db134",
+			"f0d3c6c5-ce5d-49a3-b858-677c53b0fd8d"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"74a6a1ca-5ff8-4bc4-9a61-ba20aed48a8b"
+		]
+	},
+	{
+		"prefix": "MU/H/DomeinA",
+		"id": "c5f7086a-3f06-4325-b19b-a962de9e0d8f",
+		"title": "Domein A: Vaktheorie",
+		"examenprogramma_subdomein_id": [
+			"e2013900-ad4e-4655-b3f5-50d97a920afc",
+			"fe710258-9341-4d54-b735-a0385d955cb8",
+			"5b3f4a65-4648-4ac7-ad66-20b0cd667737"
+		],
+		"replaces": [
+			"1671208d-7b3b-48a1-97b1-5c962763da38"
+		]
+	},
+	{
+		"prefix": "MU/H/DomeinB",
+		"id": "963ba464-dd66-405e-b5ae-c8a253aa3eeb",
+		"title": "Domein B: Praktijk",
+		"examenprogramma_subdomein_id": [
+			"694a72dc-5631-4ae3-8a9f-132f2c1ca426",
+			"a6152b2b-549a-4b83-816d-5a1b6c8dac9a"
+		],
+		"replaces": [
+			"5ef5d754-e93e-47d8-8ed0-dc2fac706f62"
+		]
 	}
 ]

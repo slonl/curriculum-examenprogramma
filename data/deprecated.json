@@ -1,1 +1,2313 @@
-[]
+[
+	{
+		"id": "abc570d6-b766-46e0-a684-c99c0f8e4cbf",
+		"title": "Subdomein E2: Literaire begrippen",
+		"ce_se": "SE",
+		"prefix": "MVT/EN/H/DomeinE/E2",
+		"types": [
+			"examenprogramma_subdomein"
+		],
+		"replacedBy": []
+	},
+	{
+		"id": "d8613b91-79a4-4d5b-ad10-fe811b80b991",
+		"title": "Het eindexamen",
+		"examenprogramma_body_id": [
+			"ab7ae899-06ac-480e-ae77-2910d2a777cf"
+		],
+		"replacedBy": [
+			"4bc17eac-3895-48b4-ac07-b78044ca1a54"
+		],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"id": "72e76e77-086d-43c1-a7a9-c512d5b8960c",
+		"prefix": "1.",
+		"title": "De kandidaat kan vaststellen tot welke tekstsoort een tekst of tekstgedeelte behoort;",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"4ceacc74-68ca-4d11-8e74-caae8ce91fff"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "da1a4fd6-b8f3-418d-bf78-a78464282786",
+		"prefix": "1.",
+		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven;",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"fab01c3b-7b49-4b04-a368-24992c50a247"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a02faeb5-828a-4ee8-aa98-c4e0de65af6b",
+		"prefix": "1.",
+		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven;",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"f4c9de16-76ba-43e9-b9e3-3ab8517d1b72"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "34ef4843-9a2a-42df-9e89-da68daa94d45",
+		"prefix": "1.",
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur;",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"cea109ba-1410-42b9-9676-fe9953e7bf7a"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "1eeca231-4628-4fcf-955c-333cf56fc699",
+		"prefix": "1.",
+		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden;",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"ec2b4b2d-a62c-4bf0-87fd-fcf07e354bc1"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "209e73d8-6f48-472c-a889-4ae7a23dbc0b",
+		"prefix": "1.",
+		"title": "De kandidaat kan argumentatieschema's herkennen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"e434a4f5-44ae-4842-8807-36d5e0e49cd2"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "2634770b-0cfb-422e-8dae-d5183b2d36a5",
+		"prefix": "2.",
+		"title": "De kandidaat kan een betogende tekst of betogend tekstgedeelte op aanvaardbaarheid beoordelen en in deze tekst drogredenen herkennen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"8222b1b5-2243-42b8-9e7c-271247a8da96"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "43550cf5-558b-4ce0-8ae3-f99bb238156c",
+		"prefix": "3.",
+		"title": "De kandidaat kan teksten en tekstgedeelten beknopt samenvatten.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"22f24979-ad33-4850-ab05-1a9ced428c6e"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "fea8d08f-7644-41f5-9cdb-424323424e7a",
+		"prefix": "4.",
+		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) relevante informatie verzamelen en verwerken;",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"8d2d8094-904d-4853-81da-d73bd61a18b2"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "4f249dab-cd96-4e2f-9fe4-3bf82567cb68",
+		"prefix": "4.",
+		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) deze informatie adequaat presenteren met het oog op doel, publiek en gespreksvorm;",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"9d1bab89-b352-4428-9b54-ee286d1e153b"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "1331eb2d-5b55-41a4-9f34-6a13ce74c215",
+		"prefix": "4.",
+		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) adequaat reageren op bijdragen van luisteraars of gespreksdeelnemers.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"3a2c790a-1d91-4a0d-9b26-24c01b582f1f"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a51264e4-8e4a-4fb1-a06e-7d20d150edd8",
+		"prefix": "5.",
+		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog relevante informatie verzamelen en verwerken.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"a7d7163d-0ee5-4ce0-a6cd-3a1cda0f818f"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "f41ff1e9-bf86-4366-8e65-76f5fe3f976c",
+		"prefix": "5.",
+		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog deze informatie adequaat presenteren met het oog op doel, publiek, tekstsoort en conventies voor geschreven taal",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"d2445055-631e-436a-a635-30c92903b36f"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "04d56a30-b97d-4946-9c61-27fd25936ac6",
+		"prefix": "5.",
+		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog concepten van de tekst reviseren op basis van geleverd commentaar.\"",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"5327dd26-941e-4ebb-9ac9-693bd041ecee"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "f0e99a4a-e7cf-4589-9eda-e50c50e497b4",
+		"prefix": "6.",
+		"title": "De kandidaat kan een betoog analyseren.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"a752fc44-51d3-4e13-bbb4-7fafc161f012"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c82ab80b-35f7-4f63-9a11-c5aabd59a8fe",
+		"prefix": "6.",
+		"title": "De kandidaat kan beoordelen.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"f83853b3-c637-49de-83c5-11a301f97500"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "cb16f411-e401-4e8e-bccd-b3af08144915",
+		"prefix": "6.",
+		"title": "De kandidaat kan zelf opzetten en presenteren, schriftelijk en mondeling.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"4163b918-433a-413e-a95f-a896fcad4e13"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "cbdf13a5-7994-4219-a72a-2a293702bf27",
+		"prefix": "8.",
+		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"9249c938-64f4-475b-9a47-943fc7d0cac6"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "87251bd2-4c54-45f3-a50e-b8b26b71bc66",
+		"prefix": "9.",
+		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis, en de gelezen literaire werken plaatsen in dit historisch perspectief.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"d0c12b09-4583-4a7e-96d9-f6dc337928b6"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "891d1087-84d7-4d0a-830e-d64bb3855327",
+		"prefix": "1.",
+		"title": "De kandidaat kan een muzieknotatie en een partituur volgen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"934b9287-2a6f-4188-9b24-963f4549e32d"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "63971e8c-33ae-4b9d-9cac-954090af4e60",
+		"prefix": "1.",
+		"title": "De kandidaat kan klinkende eenvoudige ritmes en melodiefragmenten noteren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"ae71574c-fa95-4419-add6-709e9969ad81"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "bf489c7a-3dac-4835-a69b-0007d75fb153",
+		"prefix": "1.",
+		"title": "De kandidaat kan muzikale aspecten onderscheiden, herkennen en benoemen naar aanleiding van klinkende voorbeelden.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"8ae8541e-8ccf-46be-93ab-fab55a77a032"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "4b157bb3-d431-4625-acda-777b4a15bf19",
+		"prefix": "2.",
+		"title": "De kandidaat kan muzikale structuren analyseren naar aanleiding van klinkende voorbeelden.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"0de3474c-39ce-4616-9f62-99c6848d162f"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "13bb925c-7f26-42ab-8f94-b8677afe2cc4",
+		"prefix": "2.",
+		"title": "De kandidaat kan muzikale processen interpreteren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"07e0d32d-df43-4c04-9335-3e9247c454e5"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "1d260ea8-d3ce-4ade-9278-cc3d9631e121",
+		"prefix": "2.",
+		"title": "De kandidaat kan zijn muzikale beleving in verband brengen met de muzikale aspecten, betekenissen en functies van muziek.",
+		"replacedBy": [
+			"e46ef52f-6438-4777-aea5-cffcb9c22c6f"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "cad7719c-fe42-404b-96a5-2e987e7ac5d2",
+		"prefix": "3.",
+		"title": "De kandidaat kan historische ordening aanbrengen in de ontwikkeling van muzikale vormen en genres.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"40a362cd-9576-44e3-ae11-9716529e76b2"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "e10f396e-da0f-41b9-873b-faf69bc99d54",
+		"prefix": "3.",
+		"title": "De kandidaat kan hem bekende werken plaatsen in de ontwikkelingslijn van muzieksoorten, in een geografische regio en een maatschappelijke context en kan daarbij verbanden leggen tussen cultuurhistorische perioden.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"b9a8b9cb-9dcd-40ed-9b26-600caf3d5a45"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a8562c25-9aea-4d86-acdd-44b37527c38f",
+		"prefix": "3.",
+		"title": "De kandidaat kan hem onbekende werken plaatsen op basis van culturele, stilistische, vormtechnische en muziekhistorische argumenten.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"df720fa9-fea1-4429-b08a-a9caa0df8869"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "7c0a5679-7903-46ed-9d78-4a2914ce014c",
+		"prefix": "3.",
+		"title": "De kandidaat kan op basis van een probleemstelling een onderwerp uit de muziekgeschiedenis/muziekcultuur uitwerken en daarover verslag doen",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"a98b35a1-ef41-479e-b316-01e02847548e"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "205807f6-46aa-4529-a67d-2e40b85660f5",
+		"prefix": "4.",
+		"title": "De kandidaat kan een gevarieerd repertoire uitvoeren van één- en meerstemmige vocale en/of instrumentale muziek.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"46dd8110-83a3-4d5e-b0ea-075d554221ca"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "75c4148a-ae26-47a6-ae5a-be428ef6d0ee",
+		"prefix": "4.",
+		"title": "De kandidaat kan onvoorbereid een melodie/muziekstuk spelen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"1865419f-3958-44b4-88c2-49b2e71441ab"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "ecc240b5-e314-43cc-ab3f-16fea575d861",
+		"prefix": "4.",
+		"title": "De kandidaat kan een melodie treffen",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"9563c709-d8db-4cd8-84c4-0a95fa69d528"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "898c8e73-da21-4c5d-88f4-8fef6f8e19cb",
+		"prefix": "6.",
+		"title": "De kandidaat kan muziek improviseren en componeren, vanuit een probleemstelling en met weloverwogen gebruik van muzikale materialen en middelen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replacedBy": [
+			"c3a9de80-6468-4ba9-8bef-91279b051914"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a18abb3d-3d4f-4c57-9f1a-499f94c99ea9",
+		"title": "De kandidaat kan uit bronnenmateriaal over een concreet maatschappelijk vraagstuk, op basis van gegeven of zelf geformuleerde vragen, bruikbare gegevens selecteren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"9ecd9277-327f-4ba9-8152-bbffa977256c"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c8eea64f-d819-4f7e-b4b6-e375c3da074a",
+		"title": "De kandidaat kan (verworven) informatie over een concreet maatschappelijk vraagstuk vanuit gegeven of zelf geformuleerde vragen mede met behulp van ICT verwerken en daaruit beredeneerde conclusies trekken.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"33b7ef1b-8902-4969-99fa-8ffea058aedf"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "57fb8ed4-c090-47b7-b6b4-e21a95be4f98",
+		"title": "De kandidaat kan de resultaten van een leeractiviteit overdragen naar anderen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"ff6a5fca-52ab-4087-8db1-8af68eefdfba"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "df6f70f0-08e8-4a3b-b065-e870acc517d1",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: de politiek-juridische benaderingswijze.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"474cb0a4-c020-486b-b714-4baf6793a58b"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "b9366940-b0a4-48d5-98ad-962bdf1b5656",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: de sociaal-economische benaderingswijze.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "89b85b56-90ab-4c3b-9d4d-c8a18dbb2baa",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer:  de sociaal-culturele benaderingswijze.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"07dcd0bf-1f59-45dc-bb4b-f797b0bffd49"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "1b6f275c-2b4c-47d7-a5a5-f0c475613b2c",
+		"title": "De kandidaat kan de structuur van het Nederlandse stelsel van politieke besluitvorming en die van andere stelsels typeren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "b13dc006-cda0-4d8f-b90e-1955c6888a30",
+		"title": "De kandidaat kan beleids- en besluitvormingsprocessen analyseren met behulp van diverse modellen van het politieke proces en de rol van diverse actoren in het politieke proces.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c60e54ee-ec15-4c4a-a0f7-d6fdeec6dfcd",
+		"title": "De kandidaat kan in discussies over het politieke systeem en over beleidsvraagstukken veranderingen in de politieke cultuur beschrijven, en de belangrijkste politieke stromingen en politieke partijen onderscheiden.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "5fdb7287-3487-4ebc-83ee-392809b8775d",
+		"title": "De kandidaat kan uitleggen hoe politieke beleids- en besluitvormingsprocessen in Nederland worden beÃ¯nvloed door de politieke, economische en culturele verwevenheid van de internationale samenleving.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"a8e4f0a9-4b3f-48d2-bcc0-99cf8004b47b"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "07bc1b3a-6c1b-4a95-a53a-7a6c632dbd5f",
+		"title": "De kandidaat kan het functioneren van massamedia in de samenleving analyseren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "8247a222-17fa-47d4-b616-538d1c0cd746",
+		"title": "De kandidaat kan analyseren welke relatie er bestaat tussen technologische ontwikkelingen en ontwikkelingen op het gebied van de massamedia.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"ebf2f359-ce82-4f4c-846f-595528de7d95"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "05c79b7a-2a0b-417f-be94-0956e3cd7d9b",
+		"title": "De kandidaat kan uitleggen op welke wijze de overheid in ons land betrokken is bij de massamedia en kan het mediabeleid becommentariÃ«ren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "36860af6-c26f-42a4-ac26-2249de46c5cb",
+		"title": "De kandidaat kan de invloed analyseren van economische overwegingen, belangen en ontwikkelingen op de organisatie en de werking van de media en op het media-aanbod.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "0517ce76-0a56-482c-ad87-0cc1e93b842b",
+		"title": "De kandidaat kan de invloed analyseren van sociaal-culturele ontwikkelingen en centrale waarden in de samenleving op de inhoud van het media-aanbod en op de organisatie van de media.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"92f1de91-dfa2-426e-ab55-1faab22eef33"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "8ab02e72-7c8c-4ce0-926f-29c06db71a65",
+		"title": "De kandidaat kan een beschrijving geven van de Nederlandse samenleving als een multiculturele samenleving en de aanwezigheid van de grootste allochtone groepen verklaren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"840278d4-6015-4790-b0ad-5daa18449aa8"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c347a974-7031-4bce-9cd8-8755d5fb53aa",
+		"title": "De kandidaat kan de uitgangspunten en hoofdlijnen van vreemdelingenbeleid en minderhedenbeleid verwoorden en de standpunten van politieke partijen met betrekking tot genoemd beleid vergelijken en becommentariÃ«ren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "d9bff332-30c0-449f-a125-bb61e19c0bc9",
+		"title": "De kandidaat kan verschillende visies onderscheiden die een verklaring geven voor de maatschappelijke positie van etnische minderheden voor wat betreft arbeid en inkomen, onderwijs en huisvesting en de gevolgen van deze maatschappelijke positie uitleggen. Â½ 145 16.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"f75577f0-855f-4029-93f7-f421e2f81bec"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a594f249-d961-43e9-ac32-1f3783baa24c",
+		"title": "De kandidaat kan de verhouding tussen allochtone groepen en autochtone groepen in Nederland beschrijven.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"5caf5d95-2395-49c0-817c-a307d3cc67b9"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "3789e3bc-3c3f-441d-aa32-8e703e2df793",
+		"title": "De kandidaat kan de mogelijke oorzaken en gevolgen van discriminatie aangeven.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "03ea9a87-b32c-4565-a816-91dcc9c4c546",
+		"title": "De kandidaat kan aangeven welke visies de belangrijkste politieke stromingen en politieke partijen in Nederland hebben op sociaal-economische vraagstukken en op de rol die de overheid op sociaal-economisch terrein dient te spelen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "11495862-76f6-415b-a16c-acab73470949",
+		"title": "De kandidaat kan de Nederlandse economische orde vergelijken met die van andere landen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"9b88280f-ad13-482a-94e4-5355a9754f87"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "9fbd4026-4d64-4401-ba38-4c3e9bb07b7f",
+		"title": "De kandidaat kan van de belangrijkste groeperingen die betrokken zijn bij arbeid aangeven wat hun belangen zijn, hoe ze georganiseerd zijn en wat hun onderlinge verhoudingen zijn.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "47ebb304-9dcb-4b30-a13e-789d5db566a6",
+		"title": "De kandidaat kan uitleggen welke gevolgen een voortschrijdende arbeidsverdeling heeft voor mens en samenleving.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "70e80507-819e-45ee-9e01-6d266aa9dd77",
+		"title": "De kandidaat kan een beschrijving geven van aard en omvang van het verschijnsel criminaliteit en daarmee samenhangende vraagstukken voor burger en samenleving.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"0506deab-1502-4352-b9ad-3bea34e765c5"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "5ca2242c-3433-434f-b554-2a143a631a6f",
+		"title": "De kandidaat kan strafbaarstelling en aanpak van criminaliteit door de staat in verband brengen met de uitgangspunten van de rechtsstaat en aangeven welke dilemma's kunnen ontstaan bij de uitvoering van taken ter voorkoming en bestrijding van criminaliteit door politie, Openbaar Ministerie en rechterlijke macht.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"a0f42da9-bf31-4dd8-b11b-aec95bb29d97"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a18b3f99-0b6f-4189-9364-bf064e432e9e",
+		"title": "De kandidaat kan sociale dilemma's herkennen in de oorzaken van de milieuproblematiek en de aanpak hiervan door de overheid, het bedrijfsleven en individuele burgers.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"9bb34433-5ed1-470c-9445-b55501513069"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "6a39d5df-d595-4fe6-8de1-66e682096ab1",
+		"title": "De kandidaat kan de effectiviteit van het milieubeleid analyseren aan de hand van taken, verantwoordelijkheden en beleidsinstrumenten van regionale, landelijke en internationale overheden en internationale instanties.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"f03c925d-6df9-487a-9cc4-22d6d39a4107"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "f42bc656-66e2-41cc-896a-4988249f01f3",
+		"title": "De kandidaat kan belangen(afwegingen) onderscheiden die een rol spelen bij de opositiebepaling van bedrijfsleven, werkgevers- en werknemersorganisaties en andere maatschappelijke organisaties ten aanzien van het milieu(beleid).",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"4bdb51d9-7dbf-45e9-96ee-4ccb19a00fb4"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "b061266c-5b62-4947-98a5-1bba9b5e6ea5",
+		"title": "De kandidaat kan de milieuproblematiek in verband brengen met de sociaal-economischverhoudingen op mondiaal niveau.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"e38d6129-b936-4019-b434-0d054281d742"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "0027614b-9738-43d4-a484-c59c5a3ef3c1",
+		"prefix": "8.",
+		"title": "De kandidaat kan de namen van organismen opzoeken en de delen waaruit ze zijn samengesteld",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"039f4695-fd14-44dd-be2f-35331c0f4c33"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "98dd6f49-8dcd-47d1-b9e8-f0294943017d",
+		"prefix": "15.",
+		"title": "De kandidaat kan de rol en de werking van zenuwstelsel, zintuigstelsel en hormoonstelsel toelichten.",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"87d68d53-53b0-4c20-b355-76d77aa9c33d"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "e92b6b4f-0818-4d22-a79a-e12d600edce0",
+		"title": "Subdomein G1: Chemie van het leven",
+		"examenprogramma_eindterm_id": [
+			"4198160b-0f19-4cbc-8897-c8075339333d",
+			"e879bb15-20a9-4281-b8ea-cfe156c88ab5"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"c6f6acdd-cb84-4e98-8932-ab65136f426c"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "ed0b3da6-fd7a-4e13-a7de-afb9615168ae",
+		"title": "Subdomein E1: Literaire ontwikkeling",
+		"examenprogramma_eindterm_id": [
+			"dc918dad-3c9e-4231-8662-11ce757a2892",
+			"d0d2feea-2b35-4a14-b242-f4ac3fbc51bc"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"5fb557d1-ff0b-4e65-8ad1-fa9aaa17b099"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "8589f4d6-6257-4bec-9ce8-fb80ef3cc186",
+		"title": "Subdomein A2: Onderzoeksvaardigheden",
+		"examenprogramma_eindterm_id": [
+			"82dbe5c4-0df9-4404-8b33-e0e915c68196"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"d8721452-6d7f-447b-8deb-08fca58caa1d"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "c8ed89fa-6adf-40af-9634-5a1d1e046400",
+		"title": "Subdomein A3: Benaderingswijzen",
+		"examenprogramma_eindterm_id": [
+			"df6f70f0-08e8-4a3b-b065-e870acc517d1",
+			"b9366940-b0a4-48d5-98ad-962bdf1b5656",
+			"89b85b56-90ab-4c3b-9d4d-c8a18dbb2baa",
+			"b034c19c-fd46-4dc3-9176-c3b5ab04c6b1"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"c9c33653-0d7d-4242-a79d-2fd4146408a6"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "ab7c8e53-1963-42a5-a2b3-4fb1b9b38858",
+		"title": "Subdomein B1: Politieke structuren",
+		"examenprogramma_eindterm_id": [
+			"1b6f275c-2b4c-47d7-a5a5-f0c475613b2c"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"14b24fee-8194-4259-ac83-d214a2d17b08"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "41f1624e-f04a-4b65-a3a6-06d60ca42f33",
+		"title": "Subdomein B2: Actoren in het proces van politieke besluitvorming",
+		"examenprogramma_eindterm_id": [
+			"b13dc006-cda0-4d8f-b90e-1955c6888a30"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"1d7c1846-8bd6-489b-aead-f3c9adeb3d38"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "43124154-3cb2-4821-a8a1-f2e03fa1814d",
+		"title": "Subdomein B3: Politieke cultuur en politieke stromingen",
+		"examenprogramma_eindterm_id": [
+			"c60e54ee-ec15-4c4a-a0f7-d6fdeec6dfcd"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"eba5c937-573f-4f04-9208-ce7a7b1f915a"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "56e69f31-21d9-441f-9d11-2895c90b8a0f",
+		"title": "Subdomein B4:  Internationale betrekkingen",
+		"examenprogramma_eindterm_id": [
+			"5fdb7287-3487-4ebc-83ee-392809b8775d"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"164002c3-b903-4f64-ad75-3383ebf6d8fb"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "7a9bd011-97e0-44c1-88cd-5689d894e0a3",
+		"title": "Subdomein C1: Communicatie en massamedia",
+		"examenprogramma_eindterm_id": [
+			"07bc1b3a-6c1b-4a95-a53a-7a6c632dbd5f"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"ddb05787-75e1-4f3c-9c6f-e2256feaad57"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "ea50f734-eae6-45da-ae3c-182fcf33f767",
+		"title": "Subdomein C2: Massamedia en technologische ontwikkelingen",
+		"examenprogramma_eindterm_id": [
+			"8247a222-17fa-47d4-b616-538d1c0cd746"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"2fac3170-22d3-4e7c-8b19-493b064e4cdd"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "804537eb-c8b3-4fca-9f97-f8520501feba",
+		"title": "Subdomein C3: Massamedia en de overheid",
+		"examenprogramma_eindterm_id": [
+			"05c79b7a-2a0b-417f-be94-0956e3cd7d9b"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"0146296a-fb76-4b13-91f8-e5b825864fbb"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "0aaa5efa-a81b-47e0-9f0d-fe2ee7f56f1b",
+		"title": "Subdomein C4: Massamedia en commercie",
+		"examenprogramma_eindterm_id": [
+			"36860af6-c26f-42a4-ac26-2249de46c5cb"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"3a2dd424-67fd-469a-a890-63d9946dac91"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "982685ed-ae23-44f1-b6d8-c7de8bf18665",
+		"title": "Subdomein C5: Massamedia en cultuur",
+		"examenprogramma_eindterm_id": [
+			"0517ce76-0a56-482c-ad87-0cc1e93b842b",
+			"84a3dfa0-1532-4f9b-8cfd-19e18c5e1185"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"efce342c-6b3a-4f70-92fa-215020bd60e2"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "3b4bcc6b-8bed-4eaa-979c-3935e1b55302",
+		"title": "Subdomein D1: Multiculutrele samenleving",
+		"examenprogramma_eindterm_id": [
+			"8ab02e72-7c8c-4ce0-926f-29c06db71a65"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"05edfe4f-050f-498c-bd09-27613cffafea"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "958b8c8d-a368-49c9-91b7-82cedde6c101",
+		"title": "Subdomein D2: Overheidsbeleid",
+		"examenprogramma_eindterm_id": [
+			"c347a974-7031-4bce-9cd8-8755d5fb53aa"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"c63933e2-9e18-4d1d-b8b4-1711d933fc16"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3",
+		"title": "Subdomein D3: Maatschappelijke positie",
+		"examenprogramma_eindterm_id": [
+			"d9bff332-30c0-449f-a125-bb61e19c0bc9"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"b32e0ce2-c6be-4590-9bb5-a985c5d4f99f"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "d718e7e1-2cb0-4e52-9e44-967ec9db7eb4",
+		"title": "Subdomein D4: Cultuur en discriminatie",
+		"examenprogramma_eindterm_id": [
+			"a594f249-d961-43e9-ac32-1f3783baa24c",
+			"3789e3bc-3c3f-441d-aa32-8e703e2df793",
+			"c6240118-7fd3-4624-9048-77a70e61375c"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"e430d19a-c1d8-4da0-8544-ffda9b4f75cd"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "98e55553-55ed-485f-9724-5d0ce30b42e1",
+		"title": "Subdomein E1: Politieke visies en verzorgingsstaat",
+		"examenprogramma_eindterm_id": [
+			"03ea9a87-b32c-4565-a816-91dcc9c4c546",
+			"06862645-7d9c-4b1a-ae52-bf0a8c4cca5c",
+			"c8075ba6-ba50-4c93-abfa-f98c52e04eac"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"20eeeed2-4a67-4b86-8cd3-32ca83b7484b"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "c250a4d1-73c7-49cb-9d1b-5ff458c6eae1",
+		"title": "Subdomein E2: Economische orde",
+		"examenprogramma_eindterm_id": [
+			"11495862-76f6-415b-a16c-acab73470949"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"c4271ec0-6138-4c34-b901-84e23712bd4e"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "1d37b9ba-ae5a-48d5-a668-eb32e89916b5",
+		"title": "Subdomein E3: Arbeidsverhoudingen",
+		"examenprogramma_eindterm_id": [
+			"9fbd4026-4d64-4401-ba38-4c3e9bb07b7f"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"28a9d5f6-19cc-41a2-91cd-f0725f0f4a1b"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b",
+		"title": "Subdomein E4: Arbeidsverdeling",
+		"examenprogramma_eindterm_id": [
+			"47ebb304-9dcb-4b30-a13e-789d5db566a6"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"a75f6c10-9bf2-4427-a59d-ed8282f15b99"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "76ad6d16-aee9-4894-8363-85d191a3f15f",
+		"title": "Subdomein F1: Criminaliteit en samenleving",
+		"examenprogramma_eindterm_id": [
+			"70e80507-819e-45ee-9e01-6d266aa9dd77"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"d96aa21c-1abb-44c1-94ba-f1b2e25990a9"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "cfff0210-7843-46d5-8278-967559cd89e3",
+		"title": "Subdomein F2:  De rechtsstaat",
+		"examenprogramma_eindterm_id": [
+			"5ca2242c-3433-434f-b554-2a143a631a6f"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"299b2cc2-91da-4bba-82c4-3d49bf42b8eb"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "c640655b-68e9-4ae7-816f-fee79967bf78",
+		"title": "Subdomein G1: Milieu als maatschappelijk probleem",
+		"examenprogramma_eindterm_id": [
+			"a18b3f99-0b6f-4189-9364-bf064e432e9e"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"e4e02540-8204-410e-9676-80558c370712"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "9c23257e-e6e5-4c1e-a668-02e56b926776",
+		"title": "Subdomein G2: Overheid",
+		"examenprogramma_eindterm_id": [
+			"6a39d5df-d595-4fe6-8de1-66e682096ab1"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"a6a5660b-fad4-4f3c-9fd3-51214b9d8212"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "bfbb0ab9-cedf-406f-90d6-89b6259def94",
+		"title": "Subdomein G3: Maatschappelijke organisaties",
+		"examenprogramma_eindterm_id": [
+			"f42bc656-66e2-41cc-896a-4988249f01f3"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"1eed64b0-b72e-4856-8693-fa8d76c8982c"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "f727d685-96f3-49df-8b4b-4cd011138ea7",
+		"title": "Subdomein G4: Mondiaal niveau",
+		"examenprogramma_eindterm_id": [
+			"b061266c-5b62-4947-98a5-1bba9b5e6ea5",
+			"a1d1e85a-66e2-4e2a-bd97-7ca2e2e6e974"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"5699507d-34f2-4480-979d-502bdaabb658"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "5b653a87-06f1-41a8-a92d-9596331ef396",
+		"title": "Subdomein A2: Benaderingswijzen",
+		"examenprogramma_eindterm_id": [
+			"2fafe6b7-5361-4212-b5c8-1a86920da821",
+			"8eb1de66-9d51-4608-b103-a16e86451081",
+			"e5c334c2-5428-4f9f-903e-4719c3ea74f5",
+			"38bb4955-ffdc-4473-8ec2-33539f458738"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"091c30e8-b041-43ba-afd1-4b9c5be182da"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "baa21fe3-bd82-4e21-9073-bf7acc8913a3",
+		"prefix": "SK/V/Domein G Maatschappij, chemie en technologie",
+		"title": "Domein G: Maatschappij, chemie en technologie",
+		"examenprogramma_subdomein_id": [
+			"e92b6b4f-0818-4d22-a79a-e12d600edce0",
+			"3f606b05-18fd-4245-9bce-cf73e00c439c",
+			"336e0f2d-d2b9-4b56-bdd8-0c0ebd8da47f",
+			"facc0f52-0195-45ea-8c14-f0a19fe89a01",
+			"c51ead26-1e12-487e-9a3a-13a989f2c86e"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"16435040-6779-43a1-99db-f8a896af9837"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "f3d25f6e-8239-4575-9e3f-ed7a8d7a8cae",
+		"title": "Domein B: Politieke besluitvorming",
+		"examenprogramma_subdomein_id": [
+			"ab7c8e53-1963-42a5-a2b3-4fb1b9b38858",
+			"41f1624e-f04a-4b65-a3a6-06d60ca42f33",
+			"43124154-3cb2-4821-a8a1-f2e03fa1814d",
+			"56e69f31-21d9-441f-9d11-2895c90b8a0f"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"ac5e4115-7170-4bb1-9912-a220a18ee97f"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "a16d38c3-c5f9-457d-9786-7bcbafabcb1f",
+		"title": "Domein C:  Massamedia",
+		"examenprogramma_subdomein_id": [
+			"7a9bd011-97e0-44c1-88cd-5689d894e0a3",
+			"ea50f734-eae6-45da-ae3c-182fcf33f767",
+			"804537eb-c8b3-4fca-9f97-f8520501feba",
+			"0aaa5efa-a81b-47e0-9f0d-fe2ee7f56f1b",
+			"982685ed-ae23-44f1-b6d8-c7de8bf18665"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"33cc0542-0dee-4dac-b29e-671c0468182b"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "8591a1e2-0c91-4b0c-8e07-35d10c652b3f",
+		"title": "Domein D: Multiculturele samenleving",
+		"examenprogramma_subdomein_id": [
+			"3b4bcc6b-8bed-4eaa-979c-3935e1b55302",
+			"958b8c8d-a368-49c9-91b7-82cedde6c101",
+			"89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3",
+			"d718e7e1-2cb0-4e52-9e44-967ec9db7eb4"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"00e76bfd-83d1-4669-8d1b-b9e71f3f298e"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "6760aaf1-7609-40a4-91be-a63bac9779bb",
+		"title": "Domein E: Mens en werk",
+		"examenprogramma_subdomein_id": [
+			"98e55553-55ed-485f-9724-5d0ce30b42e1",
+			"c250a4d1-73c7-49cb-9d1b-5ff458c6eae1",
+			"1d37b9ba-ae5a-48d5-a668-eb32e89916b5",
+			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b",
+			"57c0a818-acfa-484e-baef-b42dedfb357f",
+			"1c1445f8-b15e-41d1-bdc9-1175e1246d86"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"d7d401b2-9fc9-4a6b-ab36-5d72cbaafe73"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "eda307f3-d4e2-444c-b0e4-783eb3214409",
+		"title": "Domein F: Criminaliteit en rechtsstaat",
+		"examenprogramma_subdomein_id": [
+			"76ad6d16-aee9-4894-8363-85d191a3f15f",
+			"cfff0210-7843-46d5-8278-967559cd89e3",
+			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
+			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
+			"b5df6539-8ad3-4efd-9d2a-8147b26ca86a"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"b6671828-2258-4558-8765-d03171c39f22"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "0791bcec-963e-43d7-b342-c8067b0e702f",
+		"title": "Domein G: Milieu en beleid",
+		"examenprogramma_subdomein_id": [
+			"c640655b-68e9-4ae7-816f-fee79967bf78",
+			"9c23257e-e6e5-4c1e-a668-02e56b926776",
+			"bfbb0ab9-cedf-406f-90d6-89b6259def94",
+			"f727d685-96f3-49df-8b4b-4cd011138ea7",
+			"b52d219f-d26f-40fe-8559-e93ebfbbf312"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"f94e1efb-1e6b-4300-898b-497cd40b82c9"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "f8702473-e568-4fd0-a917-226f0439ce46",
+		"prefix": "BI/K/6",
+		"title": "Planten en dieren en hun samenhang: de eigen omgeving verkend",
+		"examenprogramma_eindterm_id": [
+			"0027614b-9738-43d4-a484-c59c5a3ef3c1",
+			"16b1d959-efd7-4bff-8c62-112cd728ed04",
+			"425568d0-a039-4061-8bae-3265ccca0c8b"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"504d5282-f4ba-4803-99f2-1c7e194b2d84"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "4a2d0fc6-022d-4d42-957a-11ce42df8443",
+		"prefix": "BI/K/11",
+		"title": "Reageren op prikkels",
+		"examenprogramma_eindterm_id": [
+			"98dd6f49-8dcd-47d1-b9e8-f0294943017d",
+			"08f63cfc-37b3-4609-90b6-75d4f83ac1e7"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"1334c01c-18bd-4934-8eab-f23bf7241d10"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "42bab708-73f3-4c4a-b2a6-3f2d911f2db1",
+		"title": "NASK 1 Natuur- en scheikunde",
+		"vakleergebied_id": [
+			"428c0a27-1cc2-41f0-9f24-36c1d1f1a461"
+		],
+		"replacedBy": [
+			"64ab97f4-9bd1-4a03-8045-3d84626a0ea8"
+		],
+		"types": [
+			"examenprogramma_vakleergebied"
+		]
+	},
+	{
+		"prefix": "MVT/havo/vwo",
+		"id": "c0d7fa3f-c989-459f-870c-4cd801226ab2",
+		"title": "Examenprogramma moderne vreemde talen en literatuur havo/vwo",
+		"examenprogramma_vakleergebied_id": [
+			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6",
+			"f0f07756-73fc-40d9-9f8e-eb450d337ea1",
+			"19755351-eab6-43fb-a2cc-7b0b909802b6"
+		],
+		"examenprogramma_domein_id": [
+			"4c9a41ef-1c73-42e8-bc06-08c06e4505aa",
+			"ad934e12-3b81-4157-8ccc-58f2a8be6a10",
+			"f6d0da70-f3f4-4165-b700-3cc5bc1bb1cd",
+			"7c4c3a29-6c9c-451e-98c3-a78e397a2ac0",
+			"512b82ad-475d-48ad-898c-e0a8dd095e69",
+			"99387359-1d29-4541-9895-4a905f81f896"
+		],
+		"examenprogramma_kop1_id": [
+			"05cd3e2d-346a-4fc0-a2a5-c8af21c35212",
+			"3b2a543e-e4e7-4564-a299-5c320c7ff8ef",
+			"5b4e2e4d-e421-488f-8478-a87df30613cb"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/moderne-vreemde-talen-havo/2020/f=/mvt_havovwo.pdf",
+		"versie": "2020",
+		"replacedBy": [
+			"1034551d-ce74-493e-8420-681c5bc95190"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "MAW/vwo",
+		"id": "a295b232-d65a-47b5-811b-194dd1d43422",
+		"title": "Examenprogramma maatschappijwetenschappen vwo",
+		"examenprogramma_vakleergebied_id": [
+			"851fb2e0-b42a-4291-9ff4-669987b35d8e"
+		],
+		"examenprogramma_domein_id": [
+			"c36f2622-2003-422c-8fb3-ac5b88eb2211",
+			"f3d25f6e-8239-4575-9e3f-ed7a8d7a8cae",
+			"a16d38c3-c5f9-457d-9786-7bcbafabcb1f",
+			"8591a1e2-0c91-4b0c-8e07-35d10c652b3f",
+			"6760aaf1-7609-40a4-91be-a63bac9779bb",
+			"eda307f3-d4e2-444c-b0e4-783eb3214409",
+			"0791bcec-963e-43d7-b342-c8067b0e702f",
+			"fb0a5b74-a559-4ed0-adf0-87388e64223c"
+		],
+		"examenprogramma_kop1_id": [
+			"d8613b91-79a4-4d5b-ad10-fe811b80b991",
+			"085ccc9d-0a4f-463a-aad2-eff11c3054d7",
+			"5d009611-1601-4104-a704-6030b35101b5"
+		],
+		"ingangsdatum": "Vanaf CE 2020",
+		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-vwo/2020/f=/mijwtschp_vwo.pdf",
+		"versie": "2020",
+		"replacedBy": [
+			"3c9904b3-a5ee-4b1f-8068-bdd79a48ffcc"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "EC/havo/vwo",
+		"id": "e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
+		"title": "Examenprogramma economie havo/vwo",
+		"examenprogramma_vakleergebied_id": [
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
+		],
+		"examenprogramma_domein_id": [
+			"19ce8c9a-317c-4f03-9091-01cfa6ad2908",
+			"6293da5f-8658-4bc6-80e2-8ce2de8cd64b",
+			"1e99955b-beac-4bd8-9696-1294935ea023",
+			"8dd98112-5fd8-4487-9e40-70cbce53578a",
+			"01f25970-4cee-4094-acf6-2e9e3a76cbee",
+			"343652ee-2e6e-412e-8e45-1f23b65db61a",
+			"3586b085-400d-41a0-be4b-358c0cb6aabe",
+			"3ac3ec8c-d76b-4636-8a26-9a6c0d2bcd36",
+			"c85825e8-04a5-48d0-8433-72f7f3b2ff16",
+			"1131592a-bc05-4c0b-9f53-7f98f7f5ad4f",
+			"4abdcdd9-dc4a-4580-9218-aecb04462d13"
+		],
+		"examenprogramma_kop1_id": [
+			"6dbeb4e2-951a-4052-934a-ef670689b0bc",
+			"feb6ef86-7340-44e9-9ebd-d82243ddb99c",
+			"96e8cf80-4df7-40d5-ac31-56fff2c7271a"
+		],
+		"ingangsdatum": "Vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/economie-vwo-en-havo/2020/f=/examenprogramma_economie_havo_vwo_2015.pdf",
+		"versie": "2020",
+		"replacedBy": [
+			"b8284953-724c-4ee1-b757-71f9b4b431e4"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"id": "b2521853-310f-475e-ab1e-26f0fc3cbab7",
+		"title": "Subdomein A1: Analyseren en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"72e76e77-086d-43c1-a7a9-c512d5b8960c",
+			"da1a4fd6-b8f3-418d-bf78-a78464282786",
+			"a02faeb5-828a-4ee8-aa98-c4e0de65af6b",
+			"34ef4843-9a2a-42df-9e89-da68daa94d45",
+			"1eeca231-4628-4fcf-955c-333cf56fc699",
+			"209e73d8-6f48-472c-a889-4ae7a23dbc0b"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"2ca69949-4c35-42b1-8ac5-ffbe6fa169d9"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "5cfa5a96-acba-47c0-83dc-5ac3e6d1ef1e",
+		"title": "Subdomein A2: Beoordelen",
+		"examenprogramma_eindterm_id": [
+			"2634770b-0cfb-422e-8dae-d5183b2d36a5"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"5c947890-96be-4c4f-b8d4-48b71f4db134"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "1ab5dce6-2809-4317-9f7b-bf19345c3644",
+		"title": "Subdomein A3: Samenvatten",
+		"examenprogramma_eindterm_id": [
+			"43550cf5-558b-4ce0-8ae3-f99bb238156c"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"f0d3c6c5-ce5d-49a3-b858-677c53b0fd8d"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "f108928b-12a7-44d5-918e-37f2d4cb4974",
+		"title": "Subdomein E2: Literaire begrippen",
+		"examenprogramma_eindterm_id": [
+			"cbdf13a5-7994-4219-a72a-2a293702bf27"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"6de971ef-fc90-4c96-af7e-b26069074d21"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "f483b93f-aa2b-4365-81a6-2b3c348fd3db",
+		"title": "Subdomein E3: Literatuurgeschiedenis",
+		"examenprogramma_eindterm_id": [
+			"87251bd2-4c54-45f3-a50e-b8b26b71bc66"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"c241c1b0-635a-45cf-9508-977c177164a2"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "1c3d18d1-424f-4227-bc47-9300fb89172d",
+		"title": "Subdomein A1: Waarnemen en weten",
+		"examenprogramma_eindterm_id": [
+			"891d1087-84d7-4d0a-830e-d64bb3855327",
+			"63971e8c-33ae-4b9d-9cac-954090af4e60",
+			"bf489c7a-3dac-4835-a69b-0007d75fb153"
+		],
+		"replacedBy": [
+			"e2013900-ad4e-4655-b3f5-50d97a920afc"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "421a2f95-efde-459a-bdfd-a9fae3b0c7cf",
+		"title": "Subdomein A2: Analyseren en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"4b157bb3-d431-4625-acda-777b4a15bf19",
+			"13bb925c-7f26-42ab-8f94-b8677afe2cc4",
+			"1d260ea8-d3ce-4ade-9278-cc3d9631e121"
+		],
+		"replacedBy": [
+			"fe710258-9341-4d54-b735-a0385d955cb8"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "d2215331-a390-4a9a-8375-20d73f700ca1",
+		"title": "Subdomein A3: Muziek en cultuur",
+		"examenprogramma_eindterm_id": [
+			"cad7719c-fe42-404b-96a5-2e987e7ac5d2",
+			"e10f396e-da0f-41b9-873b-faf69bc99d54",
+			"a8562c25-9aea-4d86-acdd-44b37527c38f",
+			"7c0a5679-7903-46ed-9d78-4a2914ce014c"
+		],
+		"replacedBy": [
+			"5b3f4a65-4648-4ac7-ad66-20b0cd667737"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "1970edf5-e99e-4f56-a30c-0de908836b6c",
+		"title": "Subdomein B1: Zingen en spelen",
+		"examenprogramma_eindterm_id": [
+			"205807f6-46aa-4529-a67d-2e40b85660f5",
+			"75c4148a-ae26-47a6-ae5a-be428ef6d0ee",
+			"ecc240b5-e314-43cc-ab3f-16fea575d861"
+		],
+		"replacedBy": [
+			"694a72dc-5631-4ae3-8a9f-132f2c1ca426"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "f439f4ce-e854-4eda-8183-d701ece2aab5",
+		"title": "Subdomein B2: Improviseren en componeren",
+		"examenprogramma_eindterm_id": [
+			"898c8e73-da21-4c5d-88f4-8fef6f8e19cb"
+		],
+		"replacedBy": [
+			"a6152b2b-549a-4b83-816d-5a1b6c8dac9a"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "925f09fa-fed5-4fc1-9e53-ace39ecb999c",
+		"title": "Subdomein A1: Informatievaardigheden",
+		"examenprogramma_eindterm_id": [
+			"e6a635bd-9606-4a44-81f7-7c98d6f2a6c0",
+			"a18abb3d-3d4f-4c57-9f1a-499f94c99ea9",
+			"c8eea64f-d819-4f7e-b4b6-e375c3da074a",
+			"57fb8ed4-c090-47b7-b6b4-e21a95be4f98",
+			"2c74b74e-9a54-4532-8da2-8125a99af100"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"9012fd63-22d7-4b82-872a-16b675e8f9cb"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "baa21fe3-bd82-4e21-9073-bf7acc8913a4",
+		"prefix": "SK/H/Domein G: Maatschappij en chemische technologie",
+		"title": "Domein G: Maatschappij en chemische technologie",
+		"examenprogramma_subdomein_id": [
+			"e92b6b4f-0818-4d22-a79a-e12d600edce0",
+			"0b61cf85-c903-4f44-99f1-938564f6afa9",
+			"d707bdac-d7e1-4b79-973b-847c4141ebd8",
+			"4d7af663-d5eb-42ff-878b-943be93c98a3",
+			"0ea56ec3-ac0c-4dfc-9a8d-4ba8998cb1bc"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"f92e958d-aaf4-489f-b57c-1ae0e0836f92"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "3b2b49d6-c966-46a3-800b-c21f4207814b",
+		"prefix": "NE/Domein B",
+		"title": "Domein B: Mondelinge taalvaardigheid",
+		"examenprogramma_eindterm_id": [
+			"fea8d08f-7644-41f5-9cdb-424323424e7a",
+			"4f249dab-cd96-4e2f-9fe4-3bf82567cb68",
+			"1331eb2d-5b55-41a4-9f34-6a13ce74c215"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"b0f86265-5296-496f-8f4c-119ebbd89534"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "644fc66a-9e0d-433d-902a-5ea2ae365745",
+		"prefix": "NE/Domein C",
+		"title": "Domein C: Schrijfvaardigheid",
+		"examenprogramma_eindterm_id": [
+			"a51264e4-8e4a-4fb1-a06e-7d20d150edd8",
+			"f41ff1e9-bf86-4366-8e65-76f5fe3f976c",
+			"04d56a30-b97d-4946-9c61-27fd25936ac6"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"b58b8e08-06cd-4787-bf6d-84128c60f907"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "bc221327-d0a3-4848-92ef-0a6d8712c151",
+		"prefix": "NE/Domein D",
+		"title": "Domein D: Argumentatieve vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"f0e99a4a-e7cf-4589-9eda-e50c50e497b4",
+			"c82ab80b-35f7-4f63-9a11-c5aabd59a8fe",
+			"cb16f411-e401-4e8e-bccd-b3af08144915"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"d35c0c93-c512-43f0-86ea-7bd67a2675b9"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "03d8d70b-7ef4-4996-957a-200b9fe1211a",
+		"prefix": "NE/Domein E",
+		"title": "Domein E: Literatuur",
+		"examenprogramma_subdomein_id": [
+			"ed0b3da6-fd7a-4e13-a7de-afb9615168ae",
+			"f108928b-12a7-44d5-918e-37f2d4cb4974",
+			"f483b93f-aa2b-4365-81a6-2b3c348fd3db"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"4ce887b4-f8c5-4a19-b226-4582f3137c56"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "c36f2622-2003-422c-8fb3-ac5b88eb2211",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"925f09fa-fed5-4fc1-9e53-ace39ecb999c",
+			"8589f4d6-6257-4bec-9ce8-fb80ef3cc186",
+			"c8ed89fa-6adf-40af-9634-5a1d1e046400"
+		],
+		"ce_se": "CE; SE",
+		"replacedBy": [
+			"107d14fa-de9e-46cd-a647-130c3905a771"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
+		"prefix": "ML/V/Domein A Vaardigheden",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"fcf9a359-2d4d-499e-ac04-420e8f84499e",
+			"5b653a87-06f1-41a8-a92d-9596331ef396"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"a2cf6058-799f-4d4f-9e8a-15f28c2f5957"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "8515ea0e-23b2-46d1-8fba-dac183f52b0f",
+		"title": "Nederlandse taal",
+		"vakleergebied_id": [
+			"96b622d6-264d-4f7a-9875-681ded824e21"
+		],
+		"replacedBy": [
+			"0f0e5c83-88c6-4ebc-90c0-31913e47db85"
+		],
+		"types": [
+			"examenprogramma_vakleergebied"
+		]
+	},
+	{
+		"id": "19755351-eab6-43fb-a2cc-7b0b909802b6",
+		"title": "Engels",
+		"vakleergebied_id": [
+			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
+		],
+		"replacedBy": [
+			"65701c83-286b-4865-91dc-db2848276c33"
+		],
+		"types": [
+			"examenprogramma_vakleergebied"
+		]
+	},
+	{
+		"prefix": "SK/vwo",
+		"id": "318c2a68-c57e-48a9-92af-76d402223133",
+		"title": "Examenprogramma scheikunde vwo",
+		"examenprogramma_vakleergebied_id": [
+			"e268ccb7-e6d7-4533-8783-d0e3c95459a2"
+		],
+		"examenprogramma_domein_id": [
+			"53d03698-2109-4b17-affc-b1872855b8b4",
+			"6ac7e146-d489-4067-a463-f421c8f73672",
+			"90134a61-c5d3-40ce-a700-83df0f4def6f",
+			"8ef3519c-1bd1-4c85-86e4-41cd0447c9e1",
+			"d51aa91d-07cb-4472-805a-17fd7bd672df",
+			"5c156aca-d18f-4ef9-ad50-42ce135578ad",
+			"baa21fe3-bd82-4e21-9073-bf7acc8913a3"
+		],
+		"examenprogramma_kop1_id": [
+			"971a739c-2676-4377-a56b-7b86b2c5e99a",
+			"85c72932-0a38-4e21-9ebc-9b18f6a26132",
+			"ae3ddd37-46bb-477a-93b7-6823cddebfd2"
+		],
+		"ingangsdatum": "Vanaf CE 2016",
+		"versie": "2020",
+		"jaargang": "nnb",
+		"status": "nnb",
+		"url": "https://www.examenblad.nl/examenstof/scheikunde-vwo-3/2020/f=/examenprogramma_scheikunde_vwo_2015_2016.pdf",
+		"replacedBy": [
+			"d9fc7ec7-c5e9-4246-b1bf-9877ba30ab24"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "NASK1/vmbo",
+		"id": "50f5db5e-f228-435e-abaa-cb987bdc8cf4",
+		"title": "Examenprogramma natuur- en scheikunde I vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"42bab708-73f3-4c4a-b2a6-3f2d911f2db1"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"60c4b942-0fac-450b-b7c7-14a363b4b990",
+			"82c10d57-2b3b-46dd-84e1-7e96c83e1348",
+			"53366f59-cad0-40ba-982b-eecaec14c07c",
+			"49e0cdd4-078c-4cea-9d81-630f6f827892",
+			"bd84300f-7753-40e7-ba9d-03b0bab8b465",
+			"ee32cf4a-c9d1-47a6-88d1-bfa626206588",
+			"3464de19-d3a3-4471-ab94-00de31cb58c5",
+			"20677711-768f-46b9-afcf-28a77fe75aa7",
+			"10e6319d-df1d-4051-9e31-3854c7b4ef98",
+			"3b34eff7-74ed-42bb-93e7-0d1028531d69",
+			"ff35d7ea-ed90-4e8c-bf1b-0ddcd7afbd11",
+			"c750a4bd-42e6-4914-a960-dceda4290759",
+			"1fec0e63-c104-4c3e-98de-1d90ea42e72c",
+			"2d7279c1-7fe8-4fa2-9ce4-9d20294cc706",
+			"3291f446-c199-46da-b647-bda5b30d34a0",
+			"1c109272-1683-4d3c-9668-a52f40ddf543"
+		],
+		"url": "https://www.examenblad.nl/examenstof/natuur-en-scheikunde-1-vmbo/2020/f=/nask1.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replacedBy": [
+			"5d903c60-d498-4cf1-9b12-29397ba79d56"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BIO/vmbo",
+		"id": "68defffd-aaa5-49c9-86c2-45c36b18c37c",
+		"title": "Examenprogramma biologie vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"f80d6cd2-8a79-48a7-af22-37a741a85567",
+			"a3778cff-e8e1-4092-b9d9-7c47bd6652d4",
+			"560c6c5b-3b85-48a3-ade6-dda678fd2a79",
+			"8041a157-8783-4ac5-bf13-b00f9817a62b",
+			"3ef0959f-3650-43f2-94d0-9a1e8ac89bde",
+			"f8702473-e568-4fd0-a917-226f0439ce46",
+			"d41cc0f9-9af9-40da-9a41-38215e702ac3",
+			"d4555d58-cc9f-41fc-b6d2-03640e6d0573",
+			"f7570df2-4e24-4ef0-8663-25087fe7e0bf",
+			"ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
+			"4a2d0fc6-022d-4d42-957a-11ce42df8443",
+			"f03a9344-f1d3-46e8-88ed-3ec02ca2c8d2",
+			"b2a14386-0e7c-4c03-b91a-9c5598ee24d0",
+			"a3dd06f2-048b-46fa-986d-947de8496303",
+			"08f63cfc-37b3-4609-90b6-75d4f83ac1e6",
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa8",
+			"c7318dac-13d8-4da7-bd05-de7751d84084"
+		],
+		"versie": "2020",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/biologie-vmbo-2/2020/f=/biologie.pdf",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replacedBy": [
+			"0f3f8286-43ab-4978-830d-9b169c84e991"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"id": "74a6a1ca-5ff8-4bc4-9a61-ba20aed48a8b",
+		"prefix": "NE/Domein A",
+		"title": "Domein A: Leesvaardigheid",
+		"examenprogramma_subdomein_id": [
+			"b2521853-310f-475e-ab1e-26f0fc3cbab7",
+			"5cfa5a96-acba-47c0-83dc-5ac3e6d1ef1e",
+			"1ab5dce6-2809-4317-9f7b-bf19345c3644"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"d2f9a27d-54bc-405a-9c60-ccd7a3f734e5"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "1671208d-7b3b-48a1-97b1-5c962763da38",
+		"prefix": "MUZ/H/A",
+		"title": "Domein A: Vaktheorie",
+		"examenprogramma_subdomein_id": [
+			"1c3d18d1-424f-4227-bc47-9300fb89172d",
+			"421a2f95-efde-459a-bdfd-a9fae3b0c7cf",
+			"d2215331-a390-4a9a-8375-20d73f700ca1"
+		],
+		"replacedBy": [
+			"c5f7086a-3f06-4325-b19b-a962de9e0d8f"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "5ef5d754-e93e-47d8-8ed0-dc2fac706f62",
+		"prefix": "MU/H/B",
+		"title": "Domein B: Praktijk",
+		"examenprogramma_subdomein_id": [
+			"1970edf5-e99e-4f56-a30c-0de908836b6c",
+			"f439f4ce-e854-4eda-8183-d701ece2aab5"
+		],
+		"replacedBy": [
+			"963ba464-dd66-405e-b5ae-c8a253aa3eeb"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "SK/havo",
+		"id": "37db1897-2916-4c11-8226-a719877d651e",
+		"title": "Examenprogramma scheikunde havo",
+		"examenprogramma_vakleergebied_id": [
+			"e268ccb7-e6d7-4533-8783-d0e3c95459a2"
+		],
+		"examenprogramma_domein_id": [
+			"1e350c67-ea8c-4518-ad5e-47c87cf562b8",
+			"55b65b9d-3da2-4074-bc0b-fcd00754ba51",
+			"0e8c9480-6446-4dbb-83ea-157d89453c6a",
+			"10594bfd-6634-4637-b3ad-dd4ca296c729",
+			"59f2def3-9d80-4f53-9e60-c26b831e2a71",
+			"e5ff8820-15f8-4569-9489-11d001b42734",
+			"baa21fe3-bd82-4e21-9073-bf7acc8913a4"
+		],
+		"examenprogramma_kop1_id": [
+			"454d24ab-5112-41b1-a44e-da2db7e09a24",
+			"a68b6725-405c-4a7e-a761-7d3f44f68432",
+			"710d49bf-7056-48fc-9fac-8469fe84d03d"
+		],
+		"ingangsdatum": "Vanaf CE 2015",
+		"versie": "2020",
+		"jaargang": "nnb",
+		"status": "nnb",
+		"url": "https://www.examenblad.nl/examenstof/scheikunde-havo-3/2020/f=/examenprogramma_scheikunde_havo_2014_2015.pdf",
+		"replacedBy": [
+			"05f78509-c2ef-4bd7-88b8-63beeac68b72"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "NE/vmbo",
+		"id": "3da5315b-0db1-4943-a946-aa09a46061c1",
+		"title": "Examenprogramma nederlandse taal vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"a0d712ff-2be3-4196-a33a-7d0d638cf327",
+			"19df9d0a-44c2-443f-967e-5041001d980a",
+			"db51e46c-2a16-41f8-a5c0-893ed3d207d8",
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20",
+			"8c92f991-7be8-4cc9-987e-98aa4058217d",
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8",
+			"37f27aaf-a7fb-439a-aa7d-559ff00a0315",
+			"7f96a983-edeb-4d1b-85b8-016b7349398b",
+			"5bdff35c-875a-4ce7-87d5-de77ab022cb7",
+			"7f29f2e1-b052-4f23-880b-67eddafff6fe",
+			"cda5d254-aa37-4851-8210-3b47ad11c23e"
+		],
+		"ingangsdatum": "Vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/nederlands-vmbo-3/2020/f=/examenprogramma_nederlands_vmbo_2014.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replacedBy": [
+			"59316717-c3c2-4b18-a219-1983d64dfeaf"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "NE/havo/vwo",
+		"id": "ddab8ccb-30e2-4075-b0e7-0b2eb526ef28",
+		"title": "Examenprogramma nederlandse taal en literatuur havo/vwo",
+		"examenprogramma_vakleergebied_id": [
+			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
+		],
+		"examenprogramma_domein_id": [
+			"74a6a1ca-5ff8-4bc4-9a61-ba20aed48a8b",
+			"3b2b49d6-c966-46a3-800b-c21f4207814b",
+			"644fc66a-9e0d-433d-902a-5ea2ae365745",
+			"bc221327-d0a3-4848-92ef-0a6d8712c151",
+			"03d8d70b-7ef4-4996-957a-200b9fe1211a",
+			"72c752f2-938a-4a13-96a5-97a0ce41dd7c"
+		],
+		"examenprogramma_kop1_id": [
+			"be7c54bc-1c4b-42dc-aa7c-1ffaf1692f78",
+			"7ce14c4f-b975-4ade-9648-0e600ae4a20f",
+			"5a661f59-d6da-4df2-83c8-9b2544399b03"
+		],
+		"ingangsdatum": "Vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/nederlandse-taal-en-literatuur-2/2020/f=/examenprogramma_nederlands_havo_vwo_2014.pdf",
+		"versie": "2020",
+		"replacedBy": [
+			"f514dd0f-c5ad-4ecf-9301-a62934316655"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "ML/vwo",
+		"id": "dd62ec2d-7037-4ff8-9539-c31da2028944",
+		"title": "Examenprogramma maatschappijleer vwo",
+		"examenprogramma_vakleergebied_id": [
+			"34f4face-9e78-4666-826d-37c5e3dcba3e"
+		],
+		"examenprogramma_domein_id": [
+			"4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8",
+			"8505ae81-c96f-49a0-8b21-8abd14a4c70e",
+			"de76c704-e43d-4fae-af12-04809e053828",
+			"cbb14582-ca64-4650-a179-4b8d0f2cb324",
+			"493af023-4d6a-4d13-b7a8-f9448fc3ec4e"
+		],
+		"examenprogramma_kop1_id": [
+			"3198ce7e-d591-4585-bde9-dece1d6a540b",
+			"fb14bca9-003c-427f-9a7e-afa7cfafee83"
+		],
+		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2020/f=/examenprogramma_management_en_organisatie_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"replacedBy": [
+			"eb346b1c-1553-4ffd-9f81-725db6522083"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "EN/vmbo",
+		"id": "983f6ca1-1bcb-4e09-bac2-a74c1905ffa3",
+		"title": "Examenprogramma engelse taal vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"19755351-eab6-43fb-a2cc-7b0b909802b6"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
+			"b32da233-4e5a-46e0-9f68-45ced41b7a3e",
+			"79a51e9c-30a6-4c87-8ea5-f66b8a17c76e",
+			"7ae80c81-f11d-4de3-9fc0-6422249cd691",
+			"88828519-f671-421c-83bb-01743cb36832",
+			"8901a49b-730f-4158-8dc0-33813f4cd023",
+			"bd98fda7-a534-4a64-942a-611146a4d3b0",
+			"8fe1dc77-83e4-40e6-872e-89db5d62d3fa",
+			"de039faa-9871-484c-a542-515f92aadd9d",
+			"35a649dd-0d0e-4df3-8237-a62bc622d5b6",
+			"f8fc7329-a2c9-4438-b42b-36cf5d6fb768"
+		],
+		"ingangsdatum": "Vanaf CE 2017",
+		"url": "https://www.examenblad.nl/examenstof/engels-vmbo-2/2020/f=/Examenprogramma_Engelse_taal_vanaf_CE_2017_def.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replacedBy": [
+			"51b44493-004b-4b9a-aa90-a83d6155561f"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "MU/havo",
+		"id": "dab2a174-419b-45e6-912f-974fb4db4f06",
+		"title": "Examenprogramma muziek  havo",
+		"examenprogramma_vakleergebied_id": [
+			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
+		],
+		"examenprogramma_domein_id": [
+			"1671208d-7b3b-48a1-97b1-5c962763da38",
+			"5ef5d754-e93e-47d8-8ed0-dc2fac706f62",
+			"c46efd08-0cca-4222-af81-013c14750d40"
+		],
+		"examenprogramma_kop1_id": [
+			"db97639f-ff1c-44a8-9fba-b527bc4bb926",
+			"0cdfbd08-d2f9-4392-a6c7-252a4935be9d",
+			"5e1d272d-ad3b-48c6-b258-1076683104c5"
+		],
+		"url": "https://www.examenblad.nl/examenstof/muziek-havo/2020/f=/muz_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"replacedBy": [
+			"8dc6a212-3df6-4a46-8c95-008890be0807"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	}
+]
