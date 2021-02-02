@@ -5,7 +5,8 @@
 			"properties": {
 				"description": { "type": "string" },
 				"prefix": { "type": "string" },
-				"ce_se": {"type":"string"},
+				"ce" : { "type" : "integer", "minimum": 0, "maximum": 1 },
+				"se" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 				"kern" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 				"keuze" : { "type" : "integer", "minimum": 0, "maximum": 1 },
 				"niveau_id" : {

@@ -682,12 +682,6 @@
 		]
 	},
 	{
-		"id": "d8613b91-79a4-4d5b-ad10-fe811b80b991",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
-		"prefix": "",
-		"dirty": "1"
-	},
-	{
 		"id": "085ccc9d-0a4f-463a-aad2-eff11c3054d7",
 		"title": "Het centraal examen",
 		"tag_id": [
@@ -1785,16 +1779,14 @@
 			"27f5f831-0553-476b-8bb4-fa86f6f09c9c"
 		],
 		"title": "Het eindexamen",
-		"id": "676a4168-512e-4fca-a6dd-02ad293b9f99",
-		"unreleased": true
+		"id": "676a4168-512e-4fca-a6dd-02ad293b9f99"
 	},
 	{
 		"examenprogramma_body_id": [
 			"d540e800-b6f6-4d15-9a4b-428162839910"
 		],
 		"title": "Het centraal examen:",
-		"id": "619afb92-7be3-47ba-887c-285b09f51e65",
-		"unreleased": true
+		"id": "619afb92-7be3-47ba-887c-285b09f51e65"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1803,16 +1795,14 @@
 			"00777f0e-f4f5-4755-8c2a-10c8bd807c76"
 		],
 		"title": "Het schoolexamen:",
-		"id": "3ec0b2e3-b784-4f25-9a6e-505ff660f3a0",
-		"unreleased": true
+		"id": "3ec0b2e3-b784-4f25-9a6e-505ff660f3a0"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"307a4a01-b40c-46bc-9946-f7a2ed88420e"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "94eb621b-74a3-4c61-9ae8-1f7310d0024c",
-		"unreleased": true
+		"id": "94eb621b-74a3-4c61-9ae8-1f7310d0024c"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1821,8 +1811,7 @@
 			"21ed3ced-d120-4466-bccd-35cae93f483a"
 		],
 		"title": "Het centraal examen",
-		"id": "17daf55b-089f-497e-8266-4b17008a0a13",
-		"unreleased": true
+		"id": "17daf55b-089f-497e-8266-4b17008a0a13"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1832,16 +1821,14 @@
 			"65e79343-3713-4320-a944-4169deb08add"
 		],
 		"title": "Het schoolexamen",
-		"id": "192588c9-6cd8-4f92-b7cf-5654931fcbb4",
-		"unreleased": true
+		"id": "192588c9-6cd8-4f92-b7cf-5654931fcbb4"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"8a6c2d45-b150-418b-bceb-25015b890021"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "e4197fdd-db94-4501-bbd4-e81b5209f5a4",
-		"unreleased": true
+		"id": "e4197fdd-db94-4501-bbd4-e81b5209f5a4"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1850,8 +1837,7 @@
 			"17763658-5c7c-417b-a09b-e6163cbfc6ce"
 		],
 		"title": "Het centraal examen",
-		"id": "54281513-d91e-4481-9623-cd420f68e854",
-		"unreleased": true
+		"id": "54281513-d91e-4481-9623-cd420f68e854"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1861,16 +1847,14 @@
 			"c6022888-bfc3-43cc-8170-5b22fec49bf4"
 		],
 		"title": "Het schoolexamen",
-		"id": "24f89f2a-2ace-4680-861d-a546890c5d11",
-		"unreleased": true
+		"id": "24f89f2a-2ace-4680-861d-a546890c5d11"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"53d810de-c001-4382-9251-678c22f5342a"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "b1ce5a5c-8a52-49df-821f-d5e99b52e245",
-		"unreleased": true
+		"id": "b1ce5a5c-8a52-49df-821f-d5e99b52e245"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1879,8 +1863,7 @@
 			"366fa95c-a0b9-4ae4-a2a8-a7e526bf4612"
 		],
 		"title": "Het centraal examen",
-		"id": "846be9cf-9877-49f5-82a7-126a5b64cfb7",
-		"unreleased": true
+		"id": "846be9cf-9877-49f5-82a7-126a5b64cfb7"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1890,16 +1873,14 @@
 			"ffa0e1a6-b2f9-49f0-a8fe-7cca370cb1b2"
 		],
 		"title": "Het schoolexamen",
-		"id": "5f414f5e-4f5b-4a5c-b279-75301fe9798b",
-		"unreleased": true
+		"id": "5f414f5e-4f5b-4a5c-b279-75301fe9798b"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"d6d4bab2-418e-4ea1-913d-c58427364bb8"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "41458445-81df-49dd-af1d-b53a1bbc1424",
-		"unreleased": true
+		"id": "41458445-81df-49dd-af1d-b53a1bbc1424"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1908,8 +1889,7 @@
 			"19ab472b-ca3a-4d4c-8aa1-d1ade85862c5"
 		],
 		"title": "Het centraal examen",
-		"id": "d83e21f0-ca9c-47eb-9cc0-238929f25747",
-		"unreleased": true
+		"id": "d83e21f0-ca9c-47eb-9cc0-238929f25747"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1919,8 +1899,7 @@
 			"781b23ec-c566-4564-8b65-e5b1c95121b1"
 		],
 		"title": "Het schoolexamen",
-		"id": "6ef0953d-8e97-472d-b099-e885fdfec1a3",
-		"unreleased": true
+		"id": "6ef0953d-8e97-472d-b099-e885fdfec1a3"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1932,24 +1911,21 @@
 			"87548f8c-c73c-4def-bbfb-9d1f569a328a"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.\r\nHet examenprogramma bestaat uit de volgende domeinen:",
-		"id": "bc4d5954-8069-494e-99f8-e81ad60e7217",
-		"unreleased": true
+		"id": "bc4d5954-8069-494e-99f8-e81ad60e7217"
 	},
 	{
 		"examenprogramma_body_id": [
 			"c51a021c-1997-4141-b6a3-9ec1f058400d"
 		],
 		"title": "Het centraal examen\r\nHet centraal examen heeft betrekking op domein A.",
-		"id": "3817258a-f30b-44ec-8730-54fc7d9f7615",
-		"unreleased": true
+		"id": "3817258a-f30b-44ec-8730-54fc7d9f7615"
 	},
 	{
 		"examenprogramma_body_id": [
 			"1116bb39-e9f2-4a77-911d-0024ecd14525"
 		],
 		"title": "Het schoolexamen",
-		"id": "cb790dce-ca2d-4967-a55d-77821a1f872f",
-		"unreleased": true
+		"id": "cb790dce-ca2d-4967-a55d-77821a1f872f"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1962,32 +1938,28 @@
 			"4ce4701b-b78d-428c-88f9-633389d5be7b"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen. Het examenprogramma bestaat uit de volgende domeinen:",
-		"id": "4da0e8c0-cd24-4d57-9cad-46794862bc0a",
-		"unreleased": true
+		"id": "4da0e8c0-cd24-4d57-9cad-46794862bc0a"
 	},
 	{
 		"examenprogramma_body_id": [
 			"eefe784c-f093-43ff-ae97-d004d0d71813"
 		],
 		"title": "Het centraal examen",
-		"id": "9edbcc87-4cc5-495a-9aa3-9370c234b34b",
-		"unreleased": true
+		"id": "9edbcc87-4cc5-495a-9aa3-9370c234b34b"
 	},
 	{
 		"examenprogramma_body_id": [
 			"9bbd8e8d-2685-47ab-85ea-e744528075c6"
 		],
 		"title": "Het schoolexamen",
-		"id": "780b8aab-889d-4a7c-8462-63f579de42b5",
-		"unreleased": true
+		"id": "780b8aab-889d-4a7c-8462-63f579de42b5"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"22112078-8bf5-4d8c-9413-905e90895b1a"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "e3dd88f5-422f-40e8-8aef-1ed803766a31",
-		"unreleased": true
+		"id": "e3dd88f5-422f-40e8-8aef-1ed803766a31"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -1995,24 +1967,21 @@
 			"215ac18c-f851-4025-8103-7669d974d920"
 		],
 		"title": "Het centraal examen",
-		"id": "ebd76550-99a2-4594-a3ec-0e95f641edfa",
-		"unreleased": true
+		"id": "ebd76550-99a2-4594-a3ec-0e95f641edfa"
 	},
 	{
 		"examenprogramma_body_id": [
 			"2b36806b-e7fc-4e3a-8880-73351ad59182"
 		],
 		"title": "Het schoolexamen",
-		"id": "c7003a2a-ecbb-4cfc-940d-cf5c05a3a322",
-		"unreleased": true
+		"id": "c7003a2a-ecbb-4cfc-940d-cf5c05a3a322"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"473bb98b-457b-44d4-940b-84d5c2dab360"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "0b30edc8-8dd9-45e0-ba0d-23d591157cfd",
-		"unreleased": true
+		"id": "0b30edc8-8dd9-45e0-ba0d-23d591157cfd"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2020,24 +1989,21 @@
 			"26142f06-4dc5-4595-8146-2dd3477958e5"
 		],
 		"title": "Het centraal examen",
-		"id": "1585f8c2-320c-4886-9792-ba0f1188a381",
-		"unreleased": true
+		"id": "1585f8c2-320c-4886-9792-ba0f1188a381"
 	},
 	{
 		"examenprogramma_body_id": [
 			"33a350bc-f7d6-463f-925b-832afa523268"
 		],
 		"title": "Het schoolexamen",
-		"id": "56dd759d-ee0b-4a8f-9f1b-b1dd55cd2ef8",
-		"unreleased": true
+		"id": "56dd759d-ee0b-4a8f-9f1b-b1dd55cd2ef8"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"2db7fbee-88da-4c97-a8f1-eaed2686b169"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "ea91640a-ecdd-4921-9d2e-ee45b214a43d",
-		"unreleased": true
+		"id": "ea91640a-ecdd-4921-9d2e-ee45b214a43d"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2045,24 +2011,21 @@
 			"ca8d2a09-284a-4f70-bd10-ab27a39c5a06"
 		],
 		"title": "Het centraal examen",
-		"id": "d97f2f8f-8ea9-41ec-bef1-cdfcc69e7c73",
-		"unreleased": true
+		"id": "d97f2f8f-8ea9-41ec-bef1-cdfcc69e7c73"
 	},
 	{
 		"examenprogramma_body_id": [
 			"00984a23-fb4f-430a-ba21-54b47192f786"
 		],
 		"title": "Het schoolexamen",
-		"id": "a1700271-8174-4637-a2b9-e5f729d8d9d4",
-		"unreleased": true
+		"id": "a1700271-8174-4637-a2b9-e5f729d8d9d4"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"e48a1c64-b639-434f-85e6-05692ccfc2b0"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "a23433cf-ff6d-471f-ac3e-91e6131ef6f0",
-		"unreleased": true
+		"id": "a23433cf-ff6d-471f-ac3e-91e6131ef6f0"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2071,8 +2034,7 @@
 			"ef2893ba-c3c6-4c6d-a382-c5c66390e39a"
 		],
 		"title": "Het centraal examen",
-		"id": "bc7acc7d-348a-4df1-803d-d02c3fc843c2",
-		"unreleased": true
+		"id": "bc7acc7d-348a-4df1-803d-d02c3fc843c2"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2082,16 +2044,14 @@
 			"547b5169-684e-42b1-b1f9-9c602a7894c4"
 		],
 		"title": "Het schoolexamen",
-		"id": "a515f58e-1ebe-4e1b-88ba-80d1e9211f3e",
-		"unreleased": true
+		"id": "a515f58e-1ebe-4e1b-88ba-80d1e9211f3e"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"62867d21-bfcc-43a9-9aab-79059b1284e1"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "5999ef3a-274e-492a-af5d-ebc77528bcd7",
-		"unreleased": true
+		"id": "5999ef3a-274e-492a-af5d-ebc77528bcd7"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2100,8 +2060,7 @@
 			"70bd71b2-b1b0-42b3-a763-7a92d98c084d"
 		],
 		"title": "Het centraal examen",
-		"id": "7f8c3870-cafe-4eec-8b6a-1cd9204be0a5",
-		"unreleased": true
+		"id": "7f8c3870-cafe-4eec-8b6a-1cd9204be0a5"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2111,16 +2070,14 @@
 			"3f721dbf-aa61-4d6f-b6ac-5aab04535646"
 		],
 		"title": "Het schoolexamen",
-		"id": "5725e974-90e3-46f1-9c30-6ceba432cd48",
-		"unreleased": true
+		"id": "5725e974-90e3-46f1-9c30-6ceba432cd48"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"36f724b1-06a3-4db0-b566-135b2f3878fc"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "1f60d1b4-0781-49ed-a21d-b7a88e07a682",
-		"unreleased": true
+		"id": "1f60d1b4-0781-49ed-a21d-b7a88e07a682"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2129,8 +2086,7 @@
 			"240b3699-6009-4b90-a53a-103be2c28ada"
 		],
 		"title": "Het centraal examen",
-		"id": "3a3fcf32-03e1-42db-873d-022abda4dcaf",
-		"unreleased": true
+		"id": "3a3fcf32-03e1-42db-873d-022abda4dcaf"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2140,16 +2096,14 @@
 			"1c735810-4392-49db-80c4-a7eb38826d2c"
 		],
 		"title": "Het schoolexamen",
-		"id": "f8d7c71d-3099-425f-8063-e2a2ace1c02b",
-		"unreleased": true
+		"id": "f8d7c71d-3099-425f-8063-e2a2ace1c02b"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"d34d7cee-ed0d-459b-964e-417e40977c45"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "8e6cb0eb-50a0-4000-9f0e-71840fd69a83",
-		"unreleased": true
+		"id": "8e6cb0eb-50a0-4000-9f0e-71840fd69a83"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2158,8 +2112,7 @@
 			"c32406ac-1760-42f1-afb4-740a547486d1"
 		],
 		"title": "Het centraal examen",
-		"id": "cdd2a931-79bb-4d5c-9f7a-b66280ef52fe",
-		"unreleased": true
+		"id": "cdd2a931-79bb-4d5c-9f7a-b66280ef52fe"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2169,16 +2122,14 @@
 			"10033158-9f42-42c8-b0b2-b8c8b7e0985b"
 		],
 		"title": "Het schoolexamen",
-		"id": "a16d510b-9863-4b16-a305-1eac2a85f52f",
-		"unreleased": true
+		"id": "a16d510b-9863-4b16-a305-1eac2a85f52f"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"c5954cc4-d473-4363-aafb-ad12fe282b0e"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "30402a95-edd6-416d-a7f3-6b6b968cf74d",
-		"unreleased": true
+		"id": "30402a95-edd6-416d-a7f3-6b6b968cf74d"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2187,8 +2138,7 @@
 			"7dd9430f-24d3-4657-9557-f5b259547ac9"
 		],
 		"title": "Het centraal examen",
-		"id": "aa81fbb3-aa1a-4d90-8ad7-a186ec7c8b60",
-		"unreleased": true
+		"id": "aa81fbb3-aa1a-4d90-8ad7-a186ec7c8b60"
 	},
 	{
 		"examenprogramma_body_id": [
@@ -2198,79 +2148,85 @@
 			"c600ae6c-6772-4750-843f-45bef7866295"
 		],
 		"title": "Het schoolexamen",
-		"id": "58f98fd7-b1ab-40c6-83cc-4b300f06b8f1",
-		"unreleased": true
+		"id": "58f98fd7-b1ab-40c6-83cc-4b300f06b8f1"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"9846da49-b96b-4b9d-9318-31fd3b159efd"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "297966bf-da00-4289-b768-ed0d195d0b08",
-		"unreleased": true
+		"id": "297966bf-da00-4289-b768-ed0d195d0b08"
 	},
 	{
 		"examenprogramma_body_id": [
 			"bcfb06ea-bed1-4b14-a6cd-670de0644769"
 		],
 		"title": "Het centraal examen",
-		"id": "f1a96fbc-db47-44f1-b08c-31158ae13621",
-		"unreleased": true
+		"id": "f1a96fbc-db47-44f1-b08c-31158ae13621"
 	},
 	{
 		"examenprogramma_body_id": [
 			"3915659b-06ef-4af4-8a94-8a0ae112a48e"
 		],
 		"title": "Het schoolexamen",
-		"id": "5dd8cc4a-875b-4fe0-83ac-63ebcfedf6ec",
-		"unreleased": true
+		"id": "5dd8cc4a-875b-4fe0-83ac-63ebcfedf6ec"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"f244a366-07dd-492f-a2c4-e81824faf625"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "d72f75f6-52a0-4e19-b508-f7d50d860eca",
-		"unreleased": true
+		"id": "d72f75f6-52a0-4e19-b508-f7d50d860eca"
 	},
 	{
 		"examenprogramma_body_id": [
 			"59213e89-36cd-4841-a04a-d1b86700b7ca"
 		],
 		"title": "Het centraal examen",
-		"id": "7bc81b7b-ff9a-4f74-b2e4-2676a380e153",
-		"unreleased": true
+		"id": "7bc81b7b-ff9a-4f74-b2e4-2676a380e153"
 	},
 	{
 		"examenprogramma_body_id": [
 			"f20f8c29-dd30-4ae9-a8c1-8254649edd8f"
 		],
 		"title": "Het schoolexamen",
-		"id": "dccb569c-e841-4aa2-8014-ca7ee40018ae",
-		"unreleased": true
+		"id": "dccb569c-e841-4aa2-8014-ca7ee40018ae"
 	},
 	{
 		"examenprogramma_kop2_id": [
 			"0642c5cd-410f-4c99-9c4d-fdfadbba310e"
 		],
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "c9918c29-b9b8-4603-a092-873a9ba152f4",
-		"unreleased": true
+		"id": "c9918c29-b9b8-4603-a092-873a9ba152f4"
 	},
 	{
 		"examenprogramma_body_id": [
 			"328ae52a-d319-49d5-828b-8e3ec7eb6908"
 		],
 		"title": "Het centraal examen",
-		"id": "6da4be09-0525-4313-bf56-a02540543e16",
-		"unreleased": true
+		"id": "6da4be09-0525-4313-bf56-a02540543e16"
 	},
 	{
 		"examenprogramma_body_id": [
 			"8b1190bb-f3fe-414b-b05f-9568343194b9"
 		],
 		"title": "Het schoolexamen",
-		"id": "9960247a-0070-4a72-be69-47f7189e5a89",
-		"unreleased": true
+		"id": "9960247a-0070-4a72-be69-47f7189e5a89"
+	},
+	{
+		"id": "4bc17eac-3895-48b4-ac07-b78044ca1a54",
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
+		"prefix": "",
+		"replaces": [
+			"d8613b91-79a4-4d5b-ad10-fe811b80b991"
+		]
+	},
+	{
+		"id": "4bc17eac-3895-48b4-ac07-b78044ca1a54",
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
+		"prefix": "",
+		"replaces": [
+			"d8613b91-79a4-4d5b-ad10-fe811b80b991"
+		]
 	}
 ]

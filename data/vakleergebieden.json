@@ -56,13 +56,6 @@
 		]
 	},
 	{
-		"id": "8515ea0e-23b2-46d1-8fba-dac183f52b0f",
-		"title": "Nederlandse taal",
-		"vakleergebied_id": [
-			"96b622d6-264d-4f7a-9875-681ded824e21"
-		]
-	},
-	{
 		"id": "297b3f19-c2f7-4d0a-9931-db0f8e88aa9f",
 		"title": "Natuurkunde",
 		"vakleergebied_id": [
@@ -77,14 +70,6 @@
 		]
 	},
 	{
-		"id": "42bab708-73f3-4c4a-b2a6-3f2d911f2db1",
-		"title": "Natuur- en scheikunde I",
-		"vakleergebied_id": [
-			"b362c478-90c9-45ac-855a-79421d23ed07"
-		],
-		"dirty": "1"
-	},
-	{
 		"id": "aa11f7d4-0bab-4960-9b45-ccf9a74836a6",
 		"title": "Duits",
 		"vakleergebied_id": [
@@ -96,13 +81,6 @@
 		"title": "Frans",
 		"vakleergebied_id": [
 			"f851676e-b541-42db-986a-5c468974f65e"
-		]
-	},
-	{
-		"id": "19755351-eab6-43fb-a2cc-7b0b909802b6",
-		"title": "Engels",
-		"vakleergebied_id": [
-			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		]
 	},
 	{
@@ -322,8 +300,7 @@
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
 		],
 		"title": "Friese taal",
-		"id": "180c82c1-6805-4bc3-811e-e102e8ed7835",
-		"unreleased": true
+		"id": "180c82c1-6805-4bc3-811e-e102e8ed7835"
 	},
 	{
 		"vakleergebied_id": [
@@ -332,7 +309,6 @@
 		"title": "Friese taal",
 		"id": "5b4b1f9c-a1ae-417b-89e6-04a30221c859",
 		"unreleased": true,
-		"deleted": 1,
 		"types": [
 			"examenprogramma_vakleergebied"
 		]
@@ -342,39 +318,74 @@
 			"6b89b236-42ae-429f-bc33-422e12b53cb1"
 		],
 		"title": "Russisch",
-		"id": "27c99045-94ce-4202-b354-203e1ba49531",
-		"unreleased": true
+		"id": "27c99045-94ce-4202-b354-203e1ba49531"
 	},
 	{
 		"vakleergebied_id": [
 			"782220bf-4155-4090-b218-c6957a14f963"
 		],
 		"title": "Arabisch",
-		"id": "28e0a161-cc77-42d7-8c3f-f41010d1af4f",
-		"unreleased": true
+		"id": "28e0a161-cc77-42d7-8c3f-f41010d1af4f"
 	},
 	{
 		"vakleergebied_id": [
 			"6b89b236-42ae-429f-bc33-422e12b53cb1"
 		],
 		"title": "Russisch",
-		"id": "f6b9efbb-1826-4a76-83fd-b16cf4906560",
-		"unreleased": true
+		"id": "f6b9efbb-1826-4a76-83fd-b16cf4906560"
 	},
 	{
 		"vakleergebied_id": [
 			"20d46f17-c61f-4677-a2c9-0f2fc7512ed4"
 		],
 		"title": "Turks",
-		"id": "df4f53f6-571b-44db-9167-27a5c4a7d59c",
-		"unreleased": true
+		"id": "df4f53f6-571b-44db-9167-27a5c4a7d59c"
 	},
 	{
 		"vakleergebied_id": [
 			"73abc618-988a-4409-b2ae-ff16febf68ee"
 		],
 		"title": "Arabisch",
-		"id": "605f1968-9065-42a4-9b2b-83214684aea6",
-		"unreleased": true
+		"id": "605f1968-9065-42a4-9b2b-83214684aea6"
+	},
+	{
+		"id": "64ab97f4-9bd1-4a03-8045-3d84626a0ea8",
+		"title": "Natuur- en scheikunde I",
+		"vakleergebied_id": [
+			"b362c478-90c9-45ac-855a-79421d23ed07"
+		],
+		"replaces": [
+			"42bab708-73f3-4c4a-b2a6-3f2d911f2db1"
+		]
+	},
+	{
+		"id": "64ab97f4-9bd1-4a03-8045-3d84626a0ea8",
+		"title": "Natuur- en scheikunde I",
+		"vakleergebied_id": [
+			"b362c478-90c9-45ac-855a-79421d23ed07"
+		],
+		"replaces": [
+			"42bab708-73f3-4c4a-b2a6-3f2d911f2db1"
+		]
+	},
+	{
+		"id": "0f0e5c83-88c6-4ebc-90c0-31913e47db85",
+		"title": "Nederlandse taal",
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"replaces": [
+			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
+		]
+	},
+	{
+		"id": "65701c83-286b-4865-91dc-db2848276c33",
+		"title": "Engels",
+		"vakleergebied_id": [
+			"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
+		],
+		"replaces": [
+			"19755351-eab6-43fb-a2cc-7b0b909802b6"
+		]
 	}
 ]
