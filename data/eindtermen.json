@@ -6150,7 +6150,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "c6240118-7fd3-4624-9048-77a70e61375c",
@@ -6198,7 +6205,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C3/11",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "12f73cec-e1d4-4e60-b5e5-a0bd99876dcb",
@@ -6206,7 +6220,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C4/12",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "f631c635-2573-4a58-a4ba-9366795c2812",
@@ -6214,7 +6235,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C5/13",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "950aac82-e0d3-4747-b783-bec9485f9f4b",
@@ -6230,7 +6258,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D1/14",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "d7149460-f600-4925-bbec-51c583d1ac62",
@@ -6238,7 +6273,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D2/15",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "114fdc26-8b68-4b38-a546-0077915929d6",
@@ -6246,7 +6288,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D3/16",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "f68fa780-b726-494a-9add-d975b134e304",
@@ -6254,7 +6303,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D4/17",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "69475f90-a1e2-412b-913d-158dae8501e1",
@@ -6262,7 +6318,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D5/18",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "39a4db5f-3149-496e-bdf0-6d2cb0e6a1fa",
@@ -6278,7 +6341,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E1/19",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"id": "a66ec364-385e-41ed-8678-8083d851f4a8",

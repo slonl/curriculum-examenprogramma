@@ -15,12 +15,14 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
 					]
 				}
-			}
+			},
+			"required": ["id","title","niveau_id"]
 		},
 		"examenprogramma_subdomein": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
-				"eindterm_id": {
+				"ce_se": {"type":"string"},
+				"examenprogramma_eindterm_id": {
 					"allOf": [
 						{
 							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
@@ -32,11 +34,13 @@
 						}
 					]
 				}
-			}
+			},
+			"required": ["id","title","examenprogramma_eindterm_id"]
 		},
 		"examenprogramma_domein": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
+				"ce_se": {"type":"string"},
 				"examenprogramma_subdomein_id": {
 					"allOf": [
 						{
@@ -49,7 +53,7 @@
 						}
 					]
 				},
-				"eindterm_id": {
+				"examenprogramma_eindterm_id": {
 					"allOf": [
 						{
 							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
@@ -61,8 +65,11 @@
 						}
 					]
 				}
-
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_subdomein_id"]},
+				{"required":["id","title","examenprogramma_eindterm_id"]}
+			]
 		},
 		"examenprogramma_vakleergebied": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -73,7 +80,8 @@
 						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied" } }
 					]
 				}
-			}
+			},
+			"required": [ "id", "title", "vakleergebied_id" ]			
 		},
 		"examenprogramma" : {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -96,8 +104,19 @@
 							}
 						}
 					]
+				},
+				"examenprogramma_kop1_id": {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/examenprogramma_kop1"
+							}
+						}
+					]
 				}
-			}
+			},
+			"required": ["id", "title", "examenprogramma_domein_id", "examenprogramma_vakleergebied_id"]
 		},
 		"examenprogramma_kop1": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -138,7 +157,11 @@
 						}
 					]
 				}
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_kop2_id"]},
+				{"required":["id","title","examenprogramma_body_id"]}
+			]				
 		},
 		"examenprogramma_kop2": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -179,7 +202,11 @@
 						}
 					]
 				}
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_kop3_id"]},
+				{"required":["id","title","examenprogramma_body_id"]}
+			]				
 		},
 		"examenprogramma_kop3": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -220,7 +247,11 @@
 						}
 					]
 				}
-			}
+			},
+			"anyOf": [
+				{"required":["id","title","examenprogramma_kop4_id"]},
+				{"required":["id","title","examenprogramma_body_id"]}
+			]				
 		},
 		"examenprogramma_kop4": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -249,7 +280,8 @@
 						}
 					]
 				}
-			}
+			},
+			"required":["id","title","examenprogramma_body_id"]
 		},
 		"examenprogramma_body": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
@@ -266,7 +298,8 @@
 						}
 					]
 				}
-			}
+			},
+			"required":["id","title"]
 		},
 		"allEntities" : {
 			"properties" : {
