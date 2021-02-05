@@ -332,7 +332,9 @@
 			"6b89b236-42ae-429f-bc33-422e12b53cb1"
 		],
 		"title": "Russisch",
-		"id": "f6b9efbb-1826-4a76-83fd-b16cf4906560"
+		"id": "f6b9efbb-1826-4a76-83fd-b16cf4906560",
+		"unreleased": true,
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
