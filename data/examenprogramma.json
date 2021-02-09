@@ -2168,33 +2168,6 @@
 		]
 	},
 	{
-		"prefix": "MVT/EN/H",
-		"id": "1034551d-ce74-493e-8420-681c5bc95190",
-		"title": "Examenprogramma moderne vreemde talen en literatuur Engels havo",
-		"examenprogramma_vakleergebied_id": [
-			"65701c83-286b-4865-91dc-db2848276c33"
-		],
-		"examenprogramma_domein_id": [
-			"4c9a41ef-1c73-42e8-bc06-08c06e4505aa",
-			"ad934e12-3b81-4157-8ccc-58f2a8be6a10",
-			"f6d0da70-f3f4-4165-b700-3cc5bc1bb1cd",
-			"7c4c3a29-6c9c-451e-98c3-a78e397a2ac0",
-			"512b82ad-475d-48ad-898c-e0a8dd095e69",
-			"99387359-1d29-4541-9895-4a905f81f896"
-		],
-		"examenprogramma_kop1_id": [
-			"05cd3e2d-346a-4fc0-a2a5-c8af21c35212",
-			"3b2a543e-e4e7-4564-a299-5c320c7ff8ef",
-			"5b4e2e4d-e421-488f-8478-a87df30613cb"
-		],
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/moderne-vreemde-talen-havo/2020/f=/mvt_havovwo.pdf",
-		"versie": "2020",
-		"replaces": [
-			"c0d7fa3f-c989-459f-870c-4cd801226ab2"
-		]
-	},
-	{
 		"prefix": "MAW/vwo",
 		"id": "3c9904b3-a5ee-4b1f-8068-bdd79a48ffcc",
 		"title": "Examenprogramma maatschappijwetenschappen vwo",

@@ -25837,23 +25837,6 @@
 		]
 	},
 	{
-		"id": "4ceacc74-68ca-4d11-8e74-caae8ce91fff",
-		"prefix": "NE/H/DomeinA/A1/1a",
-		"title": "De kandidaat kan vaststellen tot welke tekstsoort een tekst of tekstgedeelte behoort;",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"replaces": [
-			"72e76e77-086d-43c1-a7a9-c512d5b8960c"
-		]
-	},
-	{
 		"id": "fab01c3b-7b49-4b04-a368-24992c50a247",
 		"prefix": "NE/H/DomeinA/A1/1b",
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven;",

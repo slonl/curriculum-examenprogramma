@@ -2220,13 +2220,5 @@
 		"replaces": [
 			"d8613b91-79a4-4d5b-ad10-fe811b80b991"
 		]
-	},
-	{
-		"id": "4bc17eac-3895-48b4-ac07-b78044ca1a54",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
-		"prefix": "",
-		"replaces": [
-			"d8613b91-79a4-4d5b-ad10-fe811b80b991"
-		]
 	}
 ]
