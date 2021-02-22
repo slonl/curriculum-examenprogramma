@@ -19027,8 +19027,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19039,7 +19039,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A3/3",
@@ -19048,7 +19053,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A4/4",
@@ -19057,7 +19067,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A5/5",
@@ -19066,7 +19081,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/6",
@@ -19075,7 +19095,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/7",
@@ -19095,8 +19120,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19109,8 +19134,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19123,8 +19148,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19137,8 +19162,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19151,8 +19176,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19171,7 +19196,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10a",
@@ -19180,7 +19210,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10b",
@@ -19189,7 +19224,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10c",
@@ -19198,7 +19238,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10d",
@@ -19207,7 +19252,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "cc0d7162-ff46-4080-a5b2-f47b7ae1f41d",
@@ -19218,8 +19268,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19230,7 +19280,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinB/B3/13",
@@ -19239,7 +19294,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinB/B4/14",
@@ -19248,7 +19308,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "82227957-1337-4029-a60f-e2ed37b66983",
@@ -19260,7 +19325,7 @@
 		"ce_se": "SE",
 		"description": "",
 		"ce": 0,
-		"se": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19271,7 +19336,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "8e8e94cd-5302-4e54-a3be-3409c604e16f",
@@ -19283,7 +19353,7 @@
 		"ce_se": "SE",
 		"description": "",
 		"ce": 0,
-		"se": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19294,7 +19364,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinD/D2/19",
@@ -19303,7 +19378,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinD/D2/20",
@@ -19312,7 +19392,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "36dcb8ad-7946-4f9f-ab43-a8c750ff08f5",
@@ -19324,7 +19409,7 @@
 		"ce_se": "SE",
 		"description": "",
 		"ce": 0,
-		"se": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -19335,7 +19420,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "439b7592-f5e3-4941-a04f-341a73d6ae75",
@@ -19346,7 +19436,7 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -19358,7 +19448,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/H/DomeinF/F2/25",
@@ -19367,7 +19462,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "13cd9721-b461-4e24-b227-5f40390f9f5a",
@@ -19378,8 +19478,8 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
-		"se": 1,
+		"ce": 1,
+		"se": 0,
 		"kern": 0,
 		"keuze": 0
 	},
