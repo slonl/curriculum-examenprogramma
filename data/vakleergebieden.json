@@ -334,7 +334,10 @@
 		"title": "Russisch",
 		"id": "f6b9efbb-1826-4a76-83fd-b16cf4906560",
 		"unreleased": true,
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_vakleergebied"
+		]
 	},
 	{
 		"vakleergebied_id": [
@@ -378,6 +381,14 @@
 		],
 		"replaces": [
 			"19755351-eab6-43fb-a2cc-7b0b909802b6"
+		]
+	},
+	{
+		"id": "eff6a806-869a-46e5-8f32-e0e4db6e906c",
+		"title": "Spaans",
+		"description": "",
+		"vakleergebied_id": [
+			"73abc618-988a-4409-b2ae-ff16febf68ee"
 		]
 	}
 ]
