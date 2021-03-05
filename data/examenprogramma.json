@@ -28,6 +28,12 @@
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-vmbo-2/2020/f=/wiskunde.pdf",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -54,7 +60,10 @@
 		"versie": "2020",
 		"jaargang": "nnb",
 		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-d-vwo-gewijzigd/2020/f=/examenprogramma_wiskunde_dvwo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-d-vwo-gewijzigd/2020/f=/examenprogramma_wiskunde_dvwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "WI/D/havo",
@@ -78,7 +87,10 @@
 		"versie": "2020",
 		"jaargang": "nnb",
 		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-d-havo-gewijzigd/2020/f=/examenprogramma_wiskunde_d_havo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-d-havo-gewijzigd/2020/f=/examenprogramma_wiskunde_d_havo.pdf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "WI/C/vwo",
@@ -106,7 +118,10 @@
 		"versie": "2020",
 		"jaargang": "2018",
 		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-c-vwo-2/2020/f=/examenprogramma_wiskunde_c_vwo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-c-vwo-2/2020/f=/examenprogramma_wiskunde_c_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "WI/B/vwo",
@@ -132,7 +147,10 @@
 		"versie": "2020",
 		"jaargang": "nnb",
 		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-b-vwo-2/2020/f=/Examenprogramma_wiskunde_B_vwo%20_%20versie_van_OCW_CORRECTIE_DEC_2017.pdf"
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-b-vwo-2/2020/f=/Examenprogramma_wiskunde_B_vwo%20_%20versie_van_OCW_CORRECTIE_DEC_2017.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "WI/B/havo",
@@ -156,7 +174,10 @@
 		"versie": "2020",
 		"jaargang": "nnb",
 		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-b-havo-2/2020/f=/Examenprogramma_wiskunde_B_havo_versie_van_OCW_CORRECTIE_DEC_2017.pdf"
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-b-havo-2/2020/f=/Examenprogramma_wiskunde_B_havo_versie_van_OCW_CORRECTIE_DEC_2017.pdf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "WI/A/vwo",
@@ -182,7 +203,10 @@
 		"versie": "2020",
 		"jaargang": "nnb",
 		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-vwo-2/2020/f=/examenprogramma_wiskunde_a_vwo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-vwo-2/2020/f=/examenprogramma_wiskunde_a_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "WI/A/havo",
@@ -207,7 +231,10 @@
 		"versie": "2020",
 		"jaargang": "nnb",
 		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-havo-2/2020/f=/examenprogramma_wiskunde_a_havo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-havo-2/2020/f=/examenprogramma_wiskunde_a_havo.pdf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "THT/TV/vwo",
@@ -228,7 +255,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-vwo/2020/f=/tw_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "THT/TV/havo",
@@ -249,7 +279,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-havo/2020/f=/tw_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "THT/T/V",
@@ -270,7 +303,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/tekenen-vwo/2020/f=/tek_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "THT/T/havo",
@@ -291,7 +327,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/tekenen-havo/2020/f=/tek_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "NLT/vwo",
@@ -314,7 +353,10 @@
 		],
 		"ingangsdatum": "Vanaf schooljaar 2014-2015",
 		"url": "https://www.examenblad.nl/examenstof/natuur-leven-en-technologie-vwo-2/2020/f=/examenprogramma_nlt_vwo_2015.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "NLT/havo",
@@ -336,7 +378,10 @@
 		],
 		"ingangsdatum": "vanaf schooljaar 2013-2014",
 		"url": "https://www.examenblad.nl/examenstof/natuur-leven-en-technologie-havo-2/2020/f=/examenprogramma_nlt_hav0_2014.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "NA/vwo",
@@ -363,7 +408,10 @@
 		],
 		"ingangsdatum": "Vanaf CE 2016",
 		"url": "https://www.examenblad.nl/examenstof/natuurkunde-vwo-2/2020/f=/examenprogramma_natuurkunde_vwo_2015_2016.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "NA/havo",
@@ -390,7 +438,10 @@
 		],
 		"ingangsdatum": "Vanaf CE 2015",
 		"url": "https://www.examenblad.nl/examenstof/natuurkunde-havo-2/2020/f=/examenprogramma_natuurkunde_havo_2014_2015.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "NASK2/vmbo",
@@ -422,6 +473,10 @@
 		"versie": "",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -441,7 +496,12 @@
 			"a0b1727a-1f2c-4075-9907-6b0e67476823",
 			"f6c633de-dc84-45ff-8c5d-6f704cc11cf5"
 		],
-		"url": "https://www.examenblad.nl/examenstof/muziek-vwo/2020/f=/muz_vwo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/muziek-vwo/2020/f=/muz_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"versie": ""
 	},
 	{
 		"prefix": "MU/vmbo",
@@ -470,6 +530,10 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -541,7 +605,10 @@
 		],
 		"ingangsdatum": "vanaf CE 2019",
 		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-havo-2/2020/f=/examenprogramma_maatschappijwetenschappen_havo_vanaf_ce_2019.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "ML/vmbo",
@@ -562,7 +629,13 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/maatschappijleer-gemeenschappelijk/2020/f=/maatschappijleer1.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"prefix": "ML/havo",
@@ -584,7 +657,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/maatschappijleer-havo-2/2020/f=/mijleer_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "MK/vmbo",
@@ -612,6 +688,12 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -634,7 +716,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-vwo-3/2020/f=/lo_havovwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "LO2/vmbo",
@@ -664,6 +749,10 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -690,6 +779,12 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -713,7 +808,10 @@
 		],
 		"ingangsdatum": "Augustus 2014",
 		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "KV/vmbo",
@@ -733,6 +831,12 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -754,7 +858,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-vwo/2020/f=/kunstmuz_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "KUMU/havo",
@@ -775,7 +882,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-havo/2020/f=/kunstmuz_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "KUDR/vwo",
@@ -796,7 +906,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-drama-vwo/2020/f=/kunst_drama_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "KUDR/havo",
@@ -817,7 +930,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-drama-havo/2020/f=/kunstdrama_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "KUDA/vwo",
@@ -838,7 +954,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-dans-vwo/2020/f=/kunstdans_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "KUDA/havo",
@@ -859,7 +978,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-dans-havo/2020/f=/kunstdans_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "KUBV/vwo",
@@ -880,7 +1002,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "KUBV/havo",
@@ -901,7 +1026,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "KUA/vwo",
@@ -921,7 +1049,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-algemeen-havo/2020/f=/kunstalg_havovwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "KUA/havo",
@@ -941,7 +1072,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/kunst-algemeen-havo/2020/f=/kunstalg_havovwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "IT/vmbo",
@@ -965,6 +1099,10 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -998,7 +1136,10 @@
 		"versie": "2020",
 		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2020/f=/examenprogramma_Informatica_havo-vwo.pdf",
 		"jaargang": "2019",
-		"status": "Wettelijk"
+		"status": "Wettelijk",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "INF/havo",
@@ -1035,7 +1176,10 @@
 		"versie": "2020",
 		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2020/f=/examenprogramma_Informatica_havo-vwo.pdf",
 		"jaargang": "2019",
-		"status": "Wettelijk"
+		"status": "Wettelijk",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "THT/H/vwo",
@@ -1056,7 +1200,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/handvaardigheid-vwo/2020/f=/hv_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "THT/H/havo",
@@ -1077,7 +1224,10 @@
 		],
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/handvaardigheid-havo/2020/f=/hv_havo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "GTC/vwo",
@@ -1100,7 +1250,10 @@
 		],
 		"ingangsdatum": "Augustus 2014",
 		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "GS/vwo",
@@ -1123,7 +1276,10 @@
 		],
 		"ingangsdatum": "Vanaf CE 2015",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-vwo-2/2020/f=/Examenprogramma_geschiedenis_vwo_vanaf_2015_wijziging_2013.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "GS/vmbo",
@@ -1160,6 +1316,12 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -1183,7 +1345,10 @@
 		],
 		"ingangsdatum": "Vanaf CE 2018",
 		"url": "https://www.examenblad.nl/examenstof/geschiedenis-havo-vanaf-2018/2020/f=/Examenprogramma_geschiedenis_havo_2018.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "FA/vmbo",
@@ -1211,6 +1376,12 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -1234,7 +1405,10 @@
 		],
 		"ingangsdatum": "Vanaf CE 2020",
 		"url": "https://www.examenblad.nl/examenstof/filosofie-vwo-3/2020/f=/Examenprogramma_filosofie_vwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "FI/havo",
@@ -1256,7 +1430,10 @@
 		],
 		"ingangsdatum": "vanaf CE 2020",
 		"url": "https://www.examenblad.nl/examenstof/filosofie-havo-3/2020/f=/Examenprogramma_filosofie_havo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "EC/vmbo",
@@ -1286,6 +1463,9 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -1314,6 +1494,12 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -1343,6 +1529,10 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -1372,6 +1562,10 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -1393,7 +1587,10 @@
 		],
 		"ingangsdatum": "Vanaf ex.jaar 2020",
 		"url": "https://www.examenblad.nl/examenstof/culturele-en-kunstzinnige-vorming-7/2020/f=/examenprogramma_culturele_en_kunstzinnige_vorming_vwo_vanaf_2020.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "CKV/havo",
@@ -1414,7 +1611,10 @@
 		],
 		"ingangsdatum": "Vanaf ex.jaar 2019",
 		"url": "https://www.examenblad.nl/examenstof/culturele-en-kunstzinnige-vorming-6/2020/f=/examenprogramma_culturele_en_kunstzinnige_vorming_havo_vanaf_2019.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "CTC/vwo",
@@ -1438,7 +1638,10 @@
 		"jaargang": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2019/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2020/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "BSM/vwo",
@@ -1460,7 +1663,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-vwo/2020/vwo/f=/bsm_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "BSM/havo",
@@ -1482,7 +1688,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/bewegen-sport-en-maatschappij-havo/2020/f=/bsm_havo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "BIO/vwo",
@@ -1506,7 +1715,10 @@
 		],
 		"ingangsdatum": "vanaf CE 2016",
 		"url": "https://www.examenblad.nl/examenstof/biologie-vwo-3/2020/f=/examenprogramma_biologie_vwo_2015_2016.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "BIO/havo",
@@ -1530,7 +1742,10 @@
 		],
 		"ingangsdatum": "vanaf CE 2015",
 		"url": "https://www.examenblad.nl/examen/biologie-havo-3/2020",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "BE/vwo",
@@ -1556,7 +1771,10 @@
 		],
 		"ingangsdatum": "Vanaf CE 2021",
 		"versie": "2021",
-		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie-2/2021/f=/Examenprogramma_Bedrijfseconomie_vwo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie-2/2021/f=/Examenprogramma_Bedrijfseconomie_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "BE/havo",
@@ -1582,7 +1800,10 @@
 		],
 		"ingangsdatum": "vanaf CE 2020",
 		"versie": "2020",
-		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie/2020/f=/Examenprogramma_Bedrijfseconomie_havo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie/2020/f=/Examenprogramma_Bedrijfseconomie_havo.pdf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "BV/vmbo",
@@ -1610,6 +1831,10 @@
 		"versie": "2020",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -1633,7 +1858,10 @@
 		],
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/algemene-natuurwetenschappen-havo/2020/f=/anw_havovwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "ANW/havo",
@@ -1656,7 +1884,10 @@
 		],
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/algemene-natuurwetenschappen-havo/2020/f=/anw_havovwo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "AK/vwo",
@@ -1680,7 +1911,10 @@
 		],
 		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-vwo-2/2020/f=/aard_vwo.pdf",
 		"ingangsdatum": "",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "AK/vmbo",
@@ -1715,7 +1949,13 @@
 		],
 		"ingangsdatum": "2014-2015",
 		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-vmbo-3/2020/f=/examenprogramma_vmbo_aardrijkskunde_vanaf_2014_2015.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		]
 	},
 	{
 		"prefix": "AK/havo",
@@ -1739,7 +1979,10 @@
 		],
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-havo/2020/f=/aard_havo.pdf",
-		"versie": "2020"
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1788,7 +2031,14 @@
 			"192588c9-6cd8-4f92-b7cf-5654931fcbb4"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits vwo",
-		"id": "b318368e-baad-4b5c-b146-bdb589e44beb"
+		"id": "b318368e-baad-4b5c-b146-bdb589e44beb",
+		"prefix": "MVT/DUI/V",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1808,7 +2058,14 @@
 			"24f89f2a-2ace-4680-861d-a546890c5d11"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Frans havo",
-		"id": "a416c3ab-01cb-492d-8cbf-ba2f9154bc84"
+		"id": "a416c3ab-01cb-492d-8cbf-ba2f9154bc84",
+		"prefix": "MVT/FA/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1828,7 +2085,14 @@
 			"5f414f5e-4f5b-4a5c-b279-75301fe9798b"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Frans vwo",
-		"id": "11600baa-9848-4403-8fbd-a552a4b4fee8"
+		"id": "11600baa-9848-4403-8fbd-a552a4b4fee8",
+		"prefix": "MVT/FA/V",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1848,7 +2112,14 @@
 			"6ef0953d-8e97-472d-b099-e885fdfec1a3"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits havo",
-		"id": "e89be7de-fc4c-450c-9cda-5ca1b24ae813"
+		"id": "e89be7de-fc4c-450c-9cda-5ca1b24ae813",
+		"prefix": "MVT/DUI/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1868,7 +2139,14 @@
 			"cb790dce-ca2d-4967-a55d-77821a1f872f"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Engels vwo",
-		"id": "585c656d-6e1a-48ef-a165-0a38ce28ca80"
+		"id": "585c656d-6e1a-48ef-a165-0a38ce28ca80",
+		"prefix": "MVT/EN/V",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1892,7 +2170,10 @@
 		"prefix": "NE/vwo",
 		"ingangsdatum": "",
 		"url": "",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1916,7 +2197,10 @@
 		"prefix": "FR/vwo",
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1936,7 +2220,14 @@
 			"a1700271-8174-4637-a2b9-e5f729d8d9d4"
 		],
 		"title": "Examenprogramma Friese taal en cultuur havo",
-		"id": "c247ec44-bebe-42e3-8b65-5722389a3add"
+		"id": "c247ec44-bebe-42e3-8b65-5722389a3add",
+		"prefix": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1956,7 +2247,14 @@
 			"a515f58e-1ebe-4e1b-88ba-80d1e9211f3e"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch havo",
-		"id": "f35c7f76-33bb-4bde-b274-7ab180bc322f"
+		"id": "f35c7f76-33bb-4bde-b274-7ab180bc322f",
+		"prefix": "MVT/RU/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -1977,10 +2275,13 @@
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch vwo",
 		"id": "ddc10650-6c3d-4666-8727-e895e0a9bf03",
-		"prefix": "AR/V",
+		"prefix": "MVT/AR/V",
 		"ingangsdatum": "",
 		"url": "",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2000,7 +2301,14 @@
 			"f8d7c71d-3099-425f-8063-e2a2ace1c02b"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch havo",
-		"id": "074e7ee9-4763-4391-b3b6-716155964bda"
+		"id": "074e7ee9-4763-4391-b3b6-716155964bda",
+		"prefix": "MVT/AR/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2010,9 +2318,6 @@
 			"d5dae5ba-37a3-438a-a663-c2a379c70e95",
 			"f3605d5b-48c2-4997-b5ca-58b646e09d02",
 			"5b7dabe3-0aef-4bb8-97db-89b034665512"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"f6b9efbb-1826-4a76-83fd-b16cf4906560"
 		],
 		"examenprogramma_kop1_id": [
 			"8e6cb0eb-50a0-4000-9f0e-71840fd69a83",
@@ -2040,7 +2345,17 @@
 			"df4f53f6-571b-44db-9167-27a5c4a7d59c"
 		],
 		"title": "Examenprogramma Turkse taal vmbo",
-		"id": "986b8af5-7495-41d3-8764-43053750ebcd"
+		"id": "986b8af5-7495-41d3-8764-43053750ebcd",
+		"prefix": "TU/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2060,7 +2375,14 @@
 			"5dd8cc4a-875b-4fe0-83ac-63ebcfedf6ec"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks havo",
-		"id": "cb227107-e06f-40d7-8011-a770f8a9775b"
+		"id": "cb227107-e06f-40d7-8011-a770f8a9775b",
+		"prefix": "MVT/TU/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2079,7 +2401,17 @@
 			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
 		],
 		"title": "Examenprogramma Arabische taal vmbo",
-		"id": "c44ed430-460f-4103-98ee-bd1fd011d6f4"
+		"id": "c44ed430-460f-4103-98ee-bd1fd011d6f4",
+		"prefix": "AR/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2099,7 +2431,14 @@
 			"dccb569c-e841-4aa2-8014-ca7ee40018ae"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks vwo",
-		"id": "0c8516fd-e85c-4981-8f99-a3db39114cc6"
+		"id": "0c8516fd-e85c-4981-8f99-a3db39114cc6",
+		"prefix": "MVT/TU/V",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2119,7 +2458,14 @@
 			"9960247a-0070-4a72-be69-47f7189e5a89"
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans havo",
-		"id": "129ba6cd-7884-4fbb-9b4f-7abbec127976"
+		"id": "129ba6cd-7884-4fbb-9b4f-7abbec127976",
+		"prefix": "MVT/SP/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2134,11 +2480,18 @@
 			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
 			"7d2a47b8-11c1-408d-bbcf-22a86bee7710"
 		],
-		"examenprogramma_vakleergebied_id": [
-			"605f1968-9065-42a4-9b2b-83214684aea6"
-		],
 		"title": "Examenprogramma Spaanse taal vmbo",
-		"id": "787ab014-814b-436d-bd51-faa7ddf8eea4"
+		"id": "787ab014-814b-436d-bd51-faa7ddf8eea4",
+		"prefix": "SP/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"prefix": "MVT/EN/H",
@@ -2165,6 +2518,9 @@
 		"versie": "2020",
 		"replaces": [
 			"c0d7fa3f-c989-459f-870c-4cd801226ab2"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
 	},
 	{
@@ -2194,6 +2550,9 @@
 		"versie": "2021",
 		"replaces": [
 			"a295b232-d65a-47b5-811b-194dd1d43422"
+		],
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -2226,6 +2585,9 @@
 		"versie": "2020",
 		"replaces": [
 			"e214f460-6c3d-4ddd-8009-5a0fdaf06d0c"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
 	},
 	{
@@ -2256,6 +2618,9 @@
 		"url": "https://www.examenblad.nl/examenstof/scheikunde-vwo-3/2020/f=/examenprogramma_scheikunde_vwo_2015_2016.pdf",
 		"replaces": [
 			"318c2a68-c57e-48a9-92af-76d402223133"
+		],
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -2292,6 +2657,12 @@
 		],
 		"replaces": [
 			"50f5db5e-f228-435e-abaa-cb987bdc8cf4"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -2329,6 +2700,12 @@
 		],
 		"replaces": [
 			"68defffd-aaa5-49c9-86c2-45c36b18c37c"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -2359,6 +2736,9 @@
 		"url": "https://www.examenblad.nl/examenstof/scheikunde-havo-3/2020/f=/examenprogramma_scheikunde_havo_2014_2015.pdf",
 		"replaces": [
 			"37db1897-2916-4c11-8226-a719877d651e"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
 	},
 	{
@@ -2390,6 +2770,12 @@
 		],
 		"replaces": [
 			"3da5315b-0db1-4943-a946-aa09a46061c1"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -2417,6 +2803,9 @@
 		"versie": "2020",
 		"replaces": [
 			"ddab8ccb-30e2-4075-b0e7-0b2eb526ef28"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
 	},
 	{
@@ -2442,6 +2831,9 @@
 		"versie": "2020",
 		"replaces": [
 			"dd62ec2d-7037-4ff8-9539-c31da2028944"
+		],
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -2473,6 +2865,12 @@
 		],
 		"replaces": [
 			"983f6ca1-1bcb-4e09-bac2-a74c1905ffa3"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -2497,6 +2895,9 @@
 		"versie": "2020",
 		"replaces": [
 			"dab2a174-419b-45e6-912f-974fb4db4f06"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
 	}
 ]
