@@ -18646,7 +18646,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A2/2",
@@ -18655,7 +18660,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A3/3",
@@ -18664,7 +18674,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A4/4",
@@ -18673,7 +18688,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A5/5",
@@ -18682,7 +18702,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/6",
@@ -18691,7 +18716,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/7",
@@ -18700,7 +18730,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "9011a16d-e675-482b-bf14-ab281d72422a",
@@ -18711,8 +18746,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -18725,8 +18760,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -18739,8 +18774,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -18753,8 +18788,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -18767,8 +18802,8 @@
 		],
 		"ce_se": "CE; SE",
 		"description": "",
-		"ce": 0,
-		"se": 0,
+		"ce": 1,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -18787,7 +18822,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10a",
@@ -18796,7 +18836,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10b",
@@ -18805,7 +18850,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10c",
@@ -18814,7 +18864,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10d",
@@ -18823,7 +18878,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinB/B1/11",
@@ -18855,11 +18915,16 @@
 	{
 		"prefix": "BE/V/DomeinB/B4/14",
 		"id": "c9238336-d24e-47ba-8a3d-d68eb0ac165b",
-		"title": "De kandidaat kan de plaats van de organisatie in de maatschappij beschrijven.",
+		"title": "De kandidaat kan de rol en plaats van de organisatie in de maatschappij beschrijven.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinC/C1/15",
