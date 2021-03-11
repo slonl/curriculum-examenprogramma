@@ -6337,53 +6337,52 @@
 	{
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8",
-			"24b77886-45fa-41d0-982d-1e1ae9dfbdec",
-			"f641c15c-a416-49c2-84eb-b3f0c40c3efc"
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
 		],
 		"title": "Domein D Concept markt",
 		"id": "6a88db07-690c-4c47-83c1-fd760900fbe9",
-		"prefix": "EC/V/DomeinD"
+		"prefix": "EC/V/DomeinD",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"9844212a-ea9c-474f-beaa-f3783d902493",
-			"0b53e93b-a54b-4188-aa4b-0cd2fed6ef0d"
+			"9844212a-ea9c-474f-beaa-f3783d902493"
 		],
 		"title": "Domein E Concept ruilen over de tijd",
 		"id": "f3e4b98a-b6b9-492f-bc2c-902ad33bdcd5",
-		"prefix": "EC/V/DomeinE"
+		"prefix": "EC/V/DomeinE",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"280d0d3b-ed14-47ac-84d7-0c2660806917",
-			"998da70f-f354-4fe8-b1ed-0a2dc90fc9bb"
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
 		],
 		"title": "Domein F Concept samenwerken en onderhandelen",
 		"id": "f4eeea68-5c56-4edb-bebb-06e5dfe8b3fc",
-		"prefix": "EC/V/DomeinF"
+		"prefix": "EC/V/DomeinF",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"fd86ce4e-7391-4220-b918-43554cc459f0",
-			"d3dd771d-faa0-4c0a-9550-5af3bf915975"
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
 		],
 		"title": "Domein G Concept risico en informatie",
 		"id": "87846547-0357-4076-bcfa-edd9567472c8",
-		"prefix": "EC/V/DomeinG"
+		"prefix": "EC/V/DomeinG",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
-			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2",
-			"41c8a69e-3d50-4417-a0c9-9a99a9a399a1"
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
 		],
 		"title": "Domein H Concept welvaart en groei",
 		"id": "6803f13b-88d0-4da6-8cb3-e24695ee81ea",
-		"prefix": "EC/V/DomeinH"
+		"prefix": "EC/V/DomeinH",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
