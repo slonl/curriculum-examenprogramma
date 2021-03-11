@@ -21469,7 +21469,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "AK/H/DomeinE/E2/12",
+		"prefix": "EC/V/DomeinA/1",
 		"id": "92dca5d6-2612-4eed-9a02-38b3891e6f13",
 		"ce_se": "SE",
 		"niveau_id": [
@@ -21529,14 +21529,15 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt.",
+		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.\n",
 		"id": "43e728ef-8ce1-4d08-9416-4e7b0d1053b8",
-		"prefix": "EC/V/DomeinD/4a",
+		"prefix": "EC/V/DomeinD/4",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
@@ -21571,14 +21572,15 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd.",
+		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd. De prijs die deze intertemporele ruil coördineert is de rente.",
 		"id": "9844212a-ea9c-474f-beaa-f3783d902493",
-		"prefix": "EC/V/DomeinE/5a",
+		"prefix": "EC/V/DomeinE/5",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
@@ -21599,14 +21601,15 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties.",
+		"title": "De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties. Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
 		"id": "280d0d3b-ed14-47ac-84d7-0c2660806917",
-		"prefix": "EC/V/DomeinF/6a",
+		"prefix": "EC/V/DomeinF/6",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
@@ -21627,14 +21630,15 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen.",
+		"title": "De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen. Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
 		"id": "fd86ce4e-7391-4220-b918-43554cc459f0",
-		"prefix": "EC/V/DomeinG/7a",
+		"prefix": "EC/V/DomeinG/7",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
@@ -21655,14 +21659,15 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart.",
+		"title": "De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart. Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
 		"id": "3cd1c168-a60c-4fc2-95f0-90d7d9aedde2",
-		"prefix": "EC/V/DomeinH/8a",
+		"prefix": "EC/V/DomeinH/8",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
@@ -21683,14 +21688,15 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid.",
+		"title": "De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid. Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten",
 		"id": "0716b0d7-cff5-4e17-b29a-c739fe323039",
-		"prefix": "EC/V/DomeinI/9a",
+		"prefix": "EC/V/DomeinI/9",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
