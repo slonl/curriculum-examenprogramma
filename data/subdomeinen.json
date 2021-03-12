@@ -8175,7 +8175,11 @@
 		"id": "cbcfd73d-2be0-4536-afeb-02fc6a1d347f",
 		"title": "Subdomein D5: Overheidsbeleid en standpunten van politieke partijen",
 		"description": "",
-		"prefix": "MAW/V/DomeinD/D5"
+		"prefix": "MAW/V/DomeinD/D5",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"dirty": "1"
 	},
 	{
 		"ce_se": "SE",
@@ -8674,17 +8678,18 @@
 		"title": "Subdomein A2: Onderzoeksvaardigheden",
 		"id": "d8721452-6d7f-447b-8deb-08fca58caa1d",
 		"examenprogramma_eindterm_id": [
-			"edde833b-994d-4a2c-a935-386b509c3e31",
-			"f6321009-b1dc-4577-9553-12e1b2a42e2d",
-			"a995e725-d7b4-4256-8085-3ffb15c89f39",
-			"03ff7c0d-080e-48e5-8494-e8b050a37730",
-			"0fd61cad-6371-4f02-88b9-244c2941cdfa"
+			"0fd61cad-6371-4f02-88b9-244c2941cdfa",
+			"d0a88faa-0911-4678-8804-0f5679b71f63",
+			"eaf9bc40-2483-4104-8bd0-9fbcf454f3a4",
+			"913e5581-866c-4371-9cb1-12b6eca48f7f",
+			"ca9dd9a9-5054-41fd-9159-3477af764760"
 		],
 		"ce_se": "CE; SE",
 		"prefix": "MAW/V/DomeinA/A2",
 		"replaces": [
 			"8589f4d6-6257-4bec-9ce8-fb80ef3cc186"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"title": "Subdomein A3: Benaderingswijzen",
@@ -8713,7 +8718,7 @@
 		]
 	},
 	{
-		"title": "Subdomein B2: Actoren in het proces van politieke besluitvorming",
+		"title": "Subdomein B2: Politieke socialisatie",
 		"id": "1d7c1846-8bd6-489b-aead-f3c9adeb3d38",
 		"examenprogramma_eindterm_id": [
 			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
@@ -8725,7 +8730,7 @@
 		]
 	},
 	{
-		"title": "Subdomein B3: Politieke cultuur en politieke stromingen",
+		"title": "Subdomein B3: Visies vanuit paradigma's op socialisatie en politieke socialisatie",
 		"id": "eba5c937-573f-4f04-9208-ce7a7b1f915a",
 		"examenprogramma_eindterm_id": [
 			"27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f"
@@ -8737,7 +8742,7 @@
 		]
 	},
 	{
-		"title": "Subdomein B4:  Internationale betrekkingen",
+		"title": "Subdomein B4: Socialisatie binnen een specifieke context",
 		"id": "164002c3-b903-4f64-ad75-3383ebf6d8fb",
 		"examenprogramma_eindterm_id": [
 			"a8e4f0a9-4b3f-48d2-bcc0-99cf8004b47b"
@@ -8749,7 +8754,7 @@
 		]
 	},
 	{
-		"title": "Subdomein C1: Communicatie en massamedia",
+		"title": "Subdomein C1: Verhoudingen: nationaal en internationaal",
 		"id": "ddb05787-75e1-4f3c-9c6f-e2256feaad57",
 		"examenprogramma_eindterm_id": [
 			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
@@ -8761,7 +8766,7 @@
 		]
 	},
 	{
-		"title": "Subdomein C2: Massamedia en technologische ontwikkelingen",
+		"title": "Subdomein C2: Macht en gezag",
 		"id": "2fac3170-22d3-4e7c-8b19-493b064e4cdd",
 		"examenprogramma_eindterm_id": [
 			"ebf2f359-ce82-4f4c-846f-595528de7d95"
@@ -8773,7 +8778,7 @@
 		]
 	},
 	{
-		"title": "Subdomein C3: Massamedia en de overheid",
+		"title": "Subdomein C3: Internationale conflicten en internationale samenwerking",
 		"id": "0146296a-fb76-4b13-91f8-e5b825864fbb",
 		"examenprogramma_eindterm_id": [
 			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
@@ -8785,7 +8790,7 @@
 		]
 	},
 	{
-		"title": "Subdomein C4: Massamedia en commercie",
+		"title": "Subdomein C4: Machtsverhoudingen binnen een specifieke context",
 		"id": "3a2dd424-67fd-469a-a890-63d9946dac91",
 		"examenprogramma_eindterm_id": [
 			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
@@ -8797,7 +8802,7 @@
 		]
 	},
 	{
-		"title": "Subdomein C5: Massamedia en cultuur",
+		"title": "Subdomein C5: Overheidsbeleid ten aanzien van het buitenland",
 		"id": "efce342c-6b3a-4f70-92fa-215020bd60e2",
 		"examenprogramma_eindterm_id": [
 			"92f1de91-dfa2-426e-ab55-1faab22eef33"
@@ -8809,7 +8814,7 @@
 		]
 	},
 	{
-		"title": "Subdomein D1: Multiculutrele samenleving",
+		"title": "Subdomein D1: Sociale cohesie: mate van binding",
 		"id": "05edfe4f-050f-498c-bd09-27613cffafea",
 		"examenprogramma_eindterm_id": [
 			"840278d4-6015-4790-b0ad-5daa18449aa8"
@@ -8821,7 +8826,7 @@
 		]
 	},
 	{
-		"title": "Subdomein D2: Overheidsbeleid",
+		"title": "Subdomein D2: Politieke instituties en representatie/ representativiteit",
 		"id": "c63933e2-9e18-4d1d-b8b4-1711d933fc16",
 		"examenprogramma_eindterm_id": [
 			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
@@ -8833,7 +8838,7 @@
 		]
 	},
 	{
-		"title": "Subdomein D3: Maatschappelijke positie",
+		"title": "Subdomein D3: Voorbeeld binnen een specifieke context van effecten van ontwikkelingen op politieke bindingen in een samenleving",
 		"id": "b32e0ce2-c6be-4590-9bb5-a985c5d4f99f",
 		"examenprogramma_eindterm_id": [
 			"f75577f0-855f-4029-93f7-f421e2f81bec"
@@ -8845,7 +8850,7 @@
 		]
 	},
 	{
-		"title": "Subdomein D4: Cultuur en discriminatie",
+		"title": "Subdomein D4: Voorbeeld binnen een specifieke context van effecten van ontwikkelingen op affectieve bindingen in een samenleving",
 		"id": "e430d19a-c1d8-4da0-8544-ffda9b4f75cd",
 		"examenprogramma_eindterm_id": [
 			"5caf5d95-2395-49c0-817c-a307d3cc67b9"
@@ -8857,7 +8862,7 @@
 		]
 	},
 	{
-		"title": "Subdomein E1: Politieke visies en verzorgingsstaat",
+		"title": "Subdomein E1: Veranderingsprocessen rationalisering, individualisering en institutionalisering",
 		"id": "20eeeed2-4a67-4b86-8cd3-32ca83b7484b",
 		"examenprogramma_eindterm_id": [
 			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
@@ -8869,7 +8874,7 @@
 		]
 	},
 	{
-		"title": "Subdomein E2: Economische orde",
+		"title": "Subdomein E2: Veranderingsprocessen staatsvorming, democratisering en globalisering",
 		"id": "c4271ec0-6138-4c34-b901-84e23712bd4e",
 		"examenprogramma_eindterm_id": [
 			"9b88280f-ad13-482a-94e4-5355a9754f87"
@@ -8881,7 +8886,7 @@
 		]
 	},
 	{
-		"title": "Subdomein E3: Arbeidsverhoudingen",
+		"title": "Subdomein E3: Effecten van veranderingen binnen een specifieke context op andere maatschappelijke vraagstukken",
 		"id": "28a9d5f6-19cc-41a2-91cd-f0725f0f4a1b",
 		"examenprogramma_eindterm_id": [
 			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
@@ -8893,7 +8898,7 @@
 		]
 	},
 	{
-		"title": "Subdomein E4: Arbeidsverdeling",
+		"title": "Subdomein E4: Standpunten van aanhangers van politieke stromingen over vraagstukken die samenhangen met veranderingsprocessen ",
 		"id": "a75f6c10-9bf2-4427-a59d-ed8282f15b99",
 		"examenprogramma_eindterm_id": [
 			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
@@ -8905,7 +8910,7 @@
 		]
 	},
 	{
-		"title": "Subdomein F1: Criminaliteit en samenleving",
+		"title": "Subdomein F1: Informatie verwerven over een actualiteit/onderzoek doen naar een actualiteit",
 		"id": "d96aa21c-1abb-44c1-94ba-f1b2e25990a9",
 		"examenprogramma_eindterm_id": [
 			"0506deab-1502-4352-b9ad-3bea34e765c5"
@@ -8917,7 +8922,7 @@
 		]
 	},
 	{
-		"title": "Subdomein F2:  De rechtsstaat",
+		"title": "Subdomein F2:  Selectie van hoofd- en kernconcepten toepassen op een actualiteit",
 		"id": "299b2cc2-91da-4bba-82c4-3d49bf42b8eb",
 		"examenprogramma_eindterm_id": [
 			"a0f42da9-bf31-4dd8-b11b-aec95bb29d97"
@@ -8929,7 +8934,7 @@
 		]
 	},
 	{
-		"title": "Subdomein G1: Milieu als maatschappelijk probleem",
+		"title": "Subdomein G1: Politieke en sociale participatie",
 		"id": "e4e02540-8204-410e-9676-80558c370712",
 		"examenprogramma_eindterm_id": [
 			"9bb34433-5ed1-470c-9445-b55501513069"
@@ -8941,7 +8946,7 @@
 		]
 	},
 	{
-		"title": "Subdomein G2: Overheid",
+		"title": "Subdomein G2: Het belang van verkiezingen",
 		"id": "a6a5660b-fad4-4f3c-9fd3-51214b9d8212",
 		"examenprogramma_eindterm_id": [
 			"f03c925d-6df9-487a-9cc4-22d6d39a4107"
@@ -8953,7 +8958,7 @@
 		]
 	},
 	{
-		"title": "Subdomein G3: Maatschappelijke organisaties",
+		"title": "Subdomein G3: Verkiezingen in Nederland en een ander land",
 		"id": "1eed64b0-b72e-4856-8693-fa8d76c8982c",
 		"examenprogramma_eindterm_id": [
 			"4bdb51d9-7dbf-45e9-96ee-4ccb19a00fb4"
@@ -8965,7 +8970,7 @@
 		]
 	},
 	{
-		"title": "Subdomein G4: Mondiaal niveau",
+		"title": "Subdomein G4: Deelname aan de verkiezingen",
 		"id": "5699507d-34f2-4480-979d-502bdaabb658",
 		"examenprogramma_eindterm_id": [
 			"e38d6129-b936-4019-b434-0d054281d742"
