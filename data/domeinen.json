@@ -7620,7 +7620,7 @@
 	{
 		"prefix": "MAW/V/DomeinC",
 		"id": "33cc0542-0dee-4dac-b29e-671c0468182b",
-		"title": "Domein C:  Massamedia",
+		"title": "Domein C:  Verhoudingen (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
 			"ddb05787-75e1-4f3c-9c6f-e2256feaad57",
 			"2fac3170-22d3-4e7c-8b19-493b064e4cdd",
@@ -7641,12 +7641,14 @@
 			"05edfe4f-050f-498c-bd09-27613cffafea",
 			"c63933e2-9e18-4d1d-b8b4-1711d933fc16",
 			"b32e0ce2-c6be-4590-9bb5-a985c5d4f99f",
-			"e430d19a-c1d8-4da0-8544-ffda9b4f75cd"
+			"e430d19a-c1d8-4da0-8544-ffda9b4f75cd",
+			"cbcfd73d-2be0-4536-afeb-02fc6a1d347f"
 		],
 		"ce_se": "SE",
 		"replaces": [
 			"8591a1e2-0c91-4b0c-8e07-35d10c652b3f"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/V/DomeinE",
