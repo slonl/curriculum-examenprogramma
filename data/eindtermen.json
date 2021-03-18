@@ -3305,7 +3305,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A2/2",
@@ -3314,7 +3319,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A3/3",
@@ -3323,7 +3333,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A4/4",
@@ -3332,7 +3347,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A5/5",
@@ -3341,7 +3361,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A6/6",
@@ -3350,7 +3375,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A7/7",
@@ -3359,7 +3389,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A8/8",
@@ -3368,7 +3403,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A9/9",
@@ -3377,7 +3417,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A10/10",
@@ -3386,7 +3431,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A11/11",
@@ -3395,7 +3445,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A12/12",
@@ -3404,7 +3459,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A13/13",
@@ -3413,7 +3473,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A14/14",
@@ -3422,7 +3487,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinA/A15/15",
@@ -3431,7 +3501,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinB/B1/16",
@@ -3440,7 +3515,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinB/B2/17",
@@ -3449,7 +3529,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinC/C1/18",
@@ -3458,7 +3543,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinC/C2/19",
@@ -3467,7 +3557,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinC/C3/20",
@@ -3476,7 +3571,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinD/D1/21",
@@ -3485,7 +3585,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinD/D2/22",
@@ -3494,7 +3599,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinE/E1/23",
@@ -3503,7 +3613,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinE/E2/24",
@@ -3512,7 +3627,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinE/E3/25",
@@ -3521,7 +3641,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinF/F1/26",
@@ -3530,7 +3655,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinF/F2/27",
@@ -3539,7 +3669,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinG/G1/28",
@@ -3548,7 +3683,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinG/G2/29",
@@ -3557,7 +3697,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/Domein/H/30",
@@ -3566,7 +3711,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinI/I1/31",
@@ -3575,7 +3725,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinI/I2/32",
@@ -3584,7 +3739,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/V/DomeinI/I3/33",
@@ -3593,7 +3753,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NA/H/DomeinA/A1/1",
