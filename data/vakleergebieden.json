@@ -201,8 +201,9 @@
 		"id": "62678a6d-8133-407b-9338-e7d0fe0cfd00",
 		"title": "Informatietechnologie",
 		"vakleergebied_id": [
-			"2845473d-ce18-450a-9135-6738abbdc129"
-		]
+			"e2b27400-7f2e-4cd3-a4fb-933fd2bcd7a9"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "87a50ae0-4af8-483a-a9ea-7251cfc14618",
