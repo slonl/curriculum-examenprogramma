@@ -4782,7 +4782,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NASK1/K/4/6b",
@@ -4793,7 +4798,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NASK1/K/4/6c",
@@ -4804,7 +4814,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NASK1/K/5/7a",
@@ -4843,7 +4858,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NASK1/K/5/8b",
@@ -4854,7 +4874,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NASK1/K/5/8c",
@@ -4865,7 +4890,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NASK1/K/6/9a",
@@ -4906,13 +4936,13 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
-		"se": 1,
+		"ce": 1,
+		"se": 0,
 		"kern": 0,
 		"keuze": 0
 	},
 	{
-		"prefix": "NASK1/K/6/10a",
+		"prefix": "NASK1/K/6/10b",
 		"id": "56793c2c-0bfe-4dd7-8003-e926075ebf18",
 		"title": "De kandidaat kan de manieren van opwekking van elektrische energie en de gevolgen ervan beschrijven",
 		"niveau_id": [
@@ -4922,13 +4952,13 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
-		"se": 1,
+		"ce": 1,
+		"se": 0,
 		"kern": 0,
 		"keuze": 0
 	},
 	{
-		"prefix": "NASK1/K/6/10a",
+		"prefix": "NASK1/K/6/10c",
 		"id": "5c7d2111-de1d-443e-befe-feb2fe6ce33f",
 		"title": "De kandidaat kan het omzetten van energie van de ene vorm in de andere vorm beschrijven en hierover berekeningen uitvoeren",
 		"niveau_id": [
@@ -4938,8 +4968,8 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
-		"se": 1,
+		"ce": 1,
+		"se": 0,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -5387,8 +5417,8 @@
 		],
 		"ce_se": "SE",
 		"description": "",
-		"ce": 1,
-		"se": 0,
+		"ce": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
