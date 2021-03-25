@@ -24355,8 +24355,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan vaststellen tot welke tekstsoort een tekst of tekstgedeelte behoort;",
-		"id": "3030dae8-81bb-4b0f-a1e0-16b72cdfd44b"
+		"title": "De kandidaat kan vaststellen tot welke tekstsoort een tekst of tekstgedeelte behoort.",
+		"id": "3030dae8-81bb-4b0f-a1e0-16b72cdfd44b",
+		"prefix": "NE/V/DomeinA/A1/1a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24364,7 +24370,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven;",
-		"id": "adade8c3-3020-4f90-8589-2ed13f8fd9de"
+		"id": "adade8c3-3020-4f90-8589-2ed13f8fd9de",
+		"prefix": "NE/V/DomeinA/A1/1b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24372,23 +24384,41 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven;",
-		"id": "65e66b3d-5aa6-42ce-ac8c-d9c5ddb9e5e5"
+		"id": "65e66b3d-5aa6-42ce-ac8c-d9c5ddb9e5e5",
+		"prefix": "NE/V/DomeinA/A1/1c",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur;",
-		"id": "d3d4d049-3d47-4832-83fa-8d5ab986c234"
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
+		"id": "d3d4d049-3d47-4832-83fa-8d5ab986c234",
+		"prefix": "NE/V/DomeinA/A1/1d",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden;",
-		"id": "f534c214-5cc6-4b0e-ad67-62ccdb85b32f"
+		"title": "De kandidaat kan standpunten en soorten argumenten herkennen en onderscheiden.",
+		"id": "f534c214-5cc6-4b0e-ad67-62ccdb85b32f",
+		"prefix": "NE/V/DomeinA/A1/1e",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24396,7 +24426,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan argumentatieschema's herkennen.",
-		"id": "115b0e6b-c859-4ea0-bd07-7e158469f577"
+		"id": "115b0e6b-c859-4ea0-bd07-7e158469f577",
+		"prefix": "NE/V/DomeinA/A1/1f",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24404,7 +24440,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan een betogende tekst of betogend tekstgedeelte op aanvaardbaarheid beoordelen en in deze tekst drogredenen herkennen.",
-		"id": "dc15494c-1d6c-4f4d-829b-87a028321ff9"
+		"id": "dc15494c-1d6c-4f4d-829b-87a028321ff9",
+		"prefix": "NE/V/DomeinA/A2/2",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24412,7 +24454,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan teksten en tekstgedeelten beknopt samenvatten.",
-		"id": "51ef2584-410f-4362-8bd8-9ca3014d7041"
+		"id": "51ef2584-410f-4362-8bd8-9ca3014d7041",
+		"prefix": "NE/V/DomeinA/A3/3",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24420,15 +24468,27 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) relevante informatie verzamelen en verwerken;",
-		"id": "98f752a7-2ad3-4b19-bb69-302379472186"
+		"id": "98f752a7-2ad3-4b19-bb69-302379472186",
+		"prefix": "NE/V/DomeinB/4a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) deze informatie adequaat presenteren met het oog op doel, publiek en gespreksvorm;",
-		"id": "2e9c55b2-6e62-4503-b7ff-fd0a6b6950bc"
+		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) deze informatie adequaat presenteren met het oog op doel, publiek en gespreksvorm.",
+		"id": "2e9c55b2-6e62-4503-b7ff-fd0a6b6950bc",
+		"prefix": "NE/V/DomeinB/4b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24436,7 +24496,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan ten behoeve van een voordracht, discussie of debat (ter keuze van de school) adequaat reageren op bijdragen van luisteraars of gespreksdeelnemers.",
-		"id": "25b067a4-b9f1-47c4-9421-c9eaa6fb01fd"
+		"id": "25b067a4-b9f1-47c4-9421-c9eaa6fb01fd",
+		"prefix": "NE/V/DomeinB/4c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24444,23 +24510,41 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog relevante informatie verzamelen en verwerken.",
-		"id": "c9388399-f92c-455b-8484-43a0b027b023"
+		"id": "c9388399-f92c-455b-8484-43a0b027b023",
+		"prefix": "NE/V/DomeinC/5a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog deze informatie adequaat presenteren met het oog op doel, publiek, tekstsoort en conventies voor geschreven taal",
-		"id": "8a04b5c6-0807-4d61-90d9-d16f4faa0b1e"
+		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog deze informatie adequaat presenteren met het oog op doel, publiek, tekstsoort en conventies voor geschreven taal.",
+		"id": "8a04b5c6-0807-4d61-90d9-d16f4faa0b1e",
+		"prefix": "NE/V/DomeinC/5b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog concepten van de tekst reviseren op basis van geleverd commentaar.\"",
-		"id": "adedf3c1-51de-45f7-a647-ac85b02380aa"
+		"title": "De kandidaat kan ten behoeve van een gedocumenteerde uiteenzetting, beschouwing en betoog concepten van de tekst reviseren op basis van geleverd commentaar.",
+		"id": "adedf3c1-51de-45f7-a647-ac85b02380aa",
+		"prefix": "NE/V/DomeinC/5c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24468,7 +24552,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan een betoog analyseren.",
-		"id": "69ab8982-1ad6-4e1a-b54e-44e2637ebcc9"
+		"id": "69ab8982-1ad6-4e1a-b54e-44e2637ebcc9",
+		"prefix": "NE/V/DomeinD/6a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24476,7 +24566,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan beoordelen.",
-		"id": "c3d90dca-ed29-4ef5-987b-3bb353f382ef"
+		"id": "c3d90dca-ed29-4ef5-987b-3bb353f382ef",
+		"prefix": "NE/V/DomeinD/6b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "CE",
@@ -24484,7 +24580,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan zelf opzetten en presenteren, schriftelijk en mondeling.",
-		"id": "57253af7-5686-4433-ab52-5ef10663df41"
+		"id": "57253af7-5686-4433-ab52-5ef10663df41",
+		"prefix": "NE/V/DomeinD/6c",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24492,7 +24594,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. Minimaal 12 literarire werken waarvan minimaal 3 voor 1880. De werken zijn oorspronkelijk geschreven in de Nederlandse taal.",
-		"id": "2144d4d0-3a6a-4274-9adb-7509e211eb8c"
+		"id": "2144d4d0-3a6a-4274-9adb-7509e211eb8c",
+		"prefix": "NE/V/DomeinE/E1/7",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24500,7 +24608,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.",
-		"id": "09dcef02-5230-4ab0-8c67-cb1453af6b0d"
+		"id": "09dcef02-5230-4ab0-8c67-cb1453af6b0d",
+		"prefix": "NE/V/DomeinE/E2/8",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -24508,7 +24622,13 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis, en de gelezen literaire werken plaatsen in dit historisch perspectief.",
-		"id": "0c733722-4c38-41bb-a346-2688b1587b6b"
+		"id": "0c733722-4c38-41bb-a346-2688b1587b6b",
+		"prefix": "NE/V/DomeinE/E3/9",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
