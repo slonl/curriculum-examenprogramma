@@ -3214,7 +3214,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/2/2",
@@ -3226,31 +3231,46 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/3/3a",
 		"id": "29aca2ed-bd5e-486f-866b-ced4ea113240",
-		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek-en gespreksdoelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/3/3b",
 		"id": "e9b15a45-9e21-48c1-b53c-34b11b500c67",
-		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de bevordering van het eigen taalleerproces",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de bevordering van het eigen taalleerproces.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/3/3c",
@@ -3262,67 +3282,97 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/4/4a",
 		"id": "a525b770-9432-4c38-9584-55063a0de0e1",
-		"title": "De kandidaat kan luister- en kijkstrategieën hanteren",
+		"title": "De kandidaat kan luister- en kijkstrategieën hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/4/4b",
 		"id": "d2f38f78-41f2-473a-b91c-c08c34191e18",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/4/4c",
 		"id": "238b760d-90d8-46ac-b634-b02989d01c0d",
-		"title": "De kandidaat kan het doel van de makers van een programma aangeven",
+		"title": "De kandidaat kan het doel van de makers van een programma aangeven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/4/4d",
 		"id": "377d7705-a313-4c0d-a634-cdec22c80799",
-		"title": "De kandidaat kan de belangrijkste elementen van een programma weergeven",
+		"title": "De kandidaat kan de belangrijkste elementen van een programma weergeven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/4/4e",
 		"id": "72975a32-c44a-4124-85ed-0d538d035dc0",
-		"title": "De kandidaat kan een oordeel geven over een programma en dit toelichten",
+		"title": "De kandidaat kan een oordeel geven over een programma en dit toelichten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/4/4f",
@@ -3334,7 +3384,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/4/4g",
@@ -3345,177 +3400,257 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/5/5a",
 		"id": "8e03ffaa-a081-4fce-82fc-85f7c4c1b4dd",
-		"title": "De kandidaat kan relevante informatie verzamelen en verwerken ten behoeve van de spreek- en gesprekssituatie",
+		"title": "De kandidaat kan relevante informatie verzamelen en verwerken ten behoeve van de spreek- en gesprekssituatie.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/5/5b",
 		"id": "ad1c5a82-07e6-4b44-98cb-0fe15b61102f",
-		"title": "De kandidaat kan strategieën hanteren ten behoeve van de spreek- en gesprekssituatie",
+		"title": "De kandidaat kan strategieën hanteren ten behoeve van de spreek- en gesprekssituatie.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/5/5c",
 		"id": "9ad05279-d034-4de2-b18c-31d426acc9be",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/5/5d",
 		"id": "c5f7c517-3b76-4452-90a7-959b95f3218c",
-		"title": "De kandidaat kan het spreek-/luisterdoel in de situatie tot uitdrukking brengen",
+		"title": "De kandidaat kan het spreek-/luisterdoel in de situatie tot uitdrukking brengen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/5/5e",
 		"id": "5a3ebff4-d4d0-45c5-bbf4-11e5ece89677",
-		"title": "De kandidaat kan het spreek-/luisterdoel en taalgebruik richten op verschillende soorten publiek",
+		"title": "De kandidaat kan het spreek-/luisterdoel en taalgebruik richten op verschillende soorten publiek.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/5/5f",
 		"id": "8bc2b61e-b5f7-4676-b7dd-dd3f3a65bd99",
-		"title": "De kandidaat kan het spreekdoel van anderen herkennen en de reacties van anderen inschatten",
+		"title": "De kandidaat kan het spreekdoel van anderen herkennen en de reacties van anderen inschatten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/5/5g",
 		"id": "e864bbf3-b6dc-4c65-911a-5c42ee9ca4d4",
-		"title": "De kandidaat kan in spreek- en gesprekssituaties taalvarianten herkennen en daar adequaat op inspelen",
+		"title": "De kandidaat kan in spreek- en gesprekssituaties taalvarianten herkennen en daar adequaat op inspelen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6a",
 		"id": "58782908-23b1-45bf-8530-9f09642d2245",
-		"title": "De kandidaat kan leesstrategieën hanteren",
+		"title": "De kandidaat kan leesstrategieën hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6b",
 		"id": "b771a60a-e896-4073-aa37-472f0cad4cfe",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6c",
 		"id": "dbb971fe-6d9a-450d-b7fd-e228cb2b5680",
-		"title": "De kandidaat kan functie van beeld en opmaak in een tekst herkennen",
+		"title": "De kandidaat kan functie van beeld en opmaak in een tekst herkennen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6d",
 		"id": "d9e17a3a-b8d6-4534-8fe5-d4620f5c7e47",
-		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven",
+		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6e",
 		"id": "75489a75-bfdf-4d4e-98f2-b514eaeb99f0",
-		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven en de talige middelen die hij hanteert om dit doel te bereiken",
+		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven en de talige middelen die hij hanteert om dit doel te bereiken.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6f",
 		"id": "d9130865-866a-4de4-966f-0f00e96a5be5",
-		"title": "De kandidaat kan een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen",
+		"title": "De kandidaat kan een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6g",
 		"id": "a1a6c561-2e3a-4291-a0f7-2e628363ac54",
-		"title": "De kandidaat kan het hoofdonderwerp en de hoofdgedachte van een tekst aangeven",
+		"title": "De kandidaat kan het hoofdonderwerp en de hoofdgedachte van een tekst aangeven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6h",
 		"id": "35abc711-1046-48c6-a922-aee5c9348bac",
-		"title": "De kandidaat kan het hoofdonderwerp en de hoofdgedachte van een tekst aangeven en een samenvatting geven",
+		"title": "De kandidaat kan het hoofdonderwerp en de hoofdgedachte van een tekst aangeven en een samenvatting geven.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/6/6i",
@@ -3527,183 +3662,263 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7a",
 		"id": "41af6aa0-0fb6-4416-963a-d1aa67dca417",
-		"title": "De kandidaat kan relevante informatie verzamelen en verwerken ten behoeve van het schrijven",
+		"title": "De kandidaat kan relevante informatie verzamelen en verwerken ten behoeve van het schrijven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7b",
 		"id": "97ae3d0a-f79c-4989-96bd-0460b36ca8cc",
-		"title": "De kandidaat kan schrijfstrategieën hanteren",
+		"title": "De kandidaat kan schrijfstrategieën hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7c",
 		"id": "cecdd1a5-0803-4c85-a514-463a2dae844e",
-		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren",
+		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7d",
 		"id": "2b5429dc-8f35-4d70-ad0a-e7eacd191f79",
-		"title": "De kandidaat kan het schrijfdoel in teksten tot uitdrukking brengen",
+		"title": "De kandidaat kan het schrijfdoel in teksten tot uitdrukking brengen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7e",
 		"id": "d3f76492-160a-4964-9e8d-358dc59a92de",
-		"title": "De kandidaat kan het schrijfdoel en taalgebruik richten op verschillende soorten lezerspubliek",
+		"title": "De kandidaat kan het schrijfdoel en taalgebruik richten op verschillende soorten lezerspubliek.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7f",
 		"id": "3a52786b-7627-4615-ba5c-f4ea2d5829a4",
-		"title": "De kandidaat kan conventies hanteren met betrekking tot schriftelijk taalgebruik",
+		"title": "De kandidaat kan conventies hanteren met betrekking tot schriftelijk taalgebruik.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7g",
 		"id": "2f900ae8-039c-406d-a59e-9e374329d150",
-		"title": "De kandidaat kan elektronische hulpmiddelen gebruiken bij het schrijven",
+		"title": "De kandidaat kan elektronische hulpmiddelen gebruiken bij het schrijven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/7/7h",
 		"id": "f9ecda22-06bb-495d-9706-329d4759f17d",
-		"title": "De kandidaat kan concepten van de tekst herschrijven op basis van geleverd commentaar",
+		"title": "De kandidaat kan concepten van de tekst herschrijven op basis van geleverd commentaar.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/8/8a",
 		"id": "55e9fdb3-06b5-4ba0-8b52-3fcbed0de1f8",
-		"title": "De kandidaat kan verschillende soorten fictiewerken herkennen",
+		"title": "De kandidaat kan verschillende soorten fictiewerken herkennen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/8/8b",
 		"id": "83d01185-21e0-4306-a121-d2cde3a58845",
-		"title": "De kandidaat kan de situatie en het denken en handelen van de personages in het fictiewerk beschrijven",
+		"title": "De kandidaat kan de situatie en het denken en handelen van de personages in het fictiewerk beschrijven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/8/8c",
 		"id": "0b0ae0b5-d2ec-420c-8fd6-9882938c5220",
-		"title": "De kandidaat kan de relatie tussen het fictiewerk en de werkelijkheid toelichten",
+		"title": "De kandidaat kan de relatie tussen het fictiewerk en de werkelijkheid toelichten.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/8/8d",
 		"id": "76d7fd62-9e05-4617-be1a-6d14725adc5f",
-		"title": "De kandidaat kan kenmerken van fictie in het fictiewerk aanwijzen",
+		"title": "De kandidaat kan kenmerken van fictie in het fictiewerk aanwijzen.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/8/8e",
 		"id": "104d2bff-777e-4856-a23b-0d5794c70fd1",
-		"title": "De kandidaat kan relevante achtergrondinformatie verzamelen en selecteren",
+		"title": "De kandidaat kan relevante achtergrondinformatie verzamelen en selecteren.",
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/K/8/8f",
 		"id": "7aec3b34-6006-4d95-8ce1-3ac19e0e3771",
-		"title": "De kandidaat kan een persoonlijke reactie geven op een fictiewerk en deze toelichten met voorbeelden uit het werk",
+		"title": "De kandidaat kan een persoonlijke reactie geven op een fictiewerk en deze toelichten met voorbeelden uit het werk.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/V/1/1",
 		"id": "739dff7e-24f4-45c5-b4d2-fb25795d614d",
-		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk/",
+		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "NE/V/2/2",
@@ -3716,14 +3931,19 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "NE/V/3/3",
+		"prefix": "NE/V/3",
 		"id": "4ff9e848-e0a5-4892-8df9-65f31df442d2",
 		"title": "De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "dc918dad-3c9e-4231-8662-11ce757a2892",
