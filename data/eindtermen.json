@@ -24864,7 +24864,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven"
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven.",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinA/1b",
@@ -24873,7 +24878,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen relaties tussen delen van een tekst aangeven"
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen relaties tussen delen van een tekst aangeven.",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinA/1c",
@@ -24882,7 +24892,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur"
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinA/1d",
@@ -24891,7 +24906,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen standpunten en argumenten herkennen en onderscheiden"
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen standpunten en argumenten herkennen en onderscheiden.",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinA/1e",
@@ -24900,7 +24920,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven"
+		"title": "De kandidaat kan van in het Fries geschreven artikelen en verslagen de hoofd gedachte van een tekst(gedeelte) aangeven.",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinB/B1/2a",
@@ -24909,7 +24934,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: de hoofdgedachte van de tekst of tekstgedeelten verwoorden."
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: de hoofdgedachte van de tekst of tekstgedeelten verwoorden.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinB/B1/2b",
@@ -24918,7 +24948,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: opvattingen en gevoelens van de spreker benoemen"
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: opvattingen en gevoelens van de spreker benoemen.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinB/B1/2c",
@@ -24927,7 +24962,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: standpunten en argumenten herkennen en onderscheiden"
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: standpunten en argumenten herkennen en onderscheiden.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinB/B1/2d",
@@ -24936,7 +24976,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: het beoogde publiek en het spreekdoel benoemen"
+		"title": "De kandidaat kan van een in het Fries gesproken betoog of uiteenzetting: het beoogde publiek en het spreekdoel benoemen.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinB/B2/3",
@@ -24945,7 +24990,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan verworven informatie adequaat in het Fries presenteren met het oog op doel en publiek en daarbij standpunten en argumenten verwoorden."
+		"title": "De kandidaat kan verworven informatie adequaat in het Fries presenteren met het oog op doel en publiek en daarbij standpunten en argumenten verwoorden.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinB/B3/4a",
@@ -24954,7 +25004,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in een gesprek in het Fries adequaat: informatie vragen of verstrekken met het oog op doel, publiek en gespreksvorm"
+		"title": "De kandidaat kan in een gesprek in het Fries adequaat: informatie vragen of verstrekken met het oog op doel, publiek en gespreksvorm.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinB/B3/4b",
@@ -24963,7 +25018,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in een gesprek in het Fries adequaat: reageren op bijdragen van luisteraars of gespreksdeelnemers"
+		"title": "De kandidaat kan in een gesprek in het Fries adequaat: reageren op bijdragen van luisteraars of gespreksdeelnemers.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinC/5a",
@@ -24972,7 +25032,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan adequaat in het Fries schriftelijke informatie vragen en verstrekken"
+		"title": "De kandidaat kan adequaat in het Fries schriftelijke informatie vragen en verstrekken.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinC/5b",
@@ -24981,7 +25046,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan adequaat in het Fries verworven informatie schriftelijk presenteren, rekening houdend met doel en publiek en daarbij standpunten en argumenten verwoorden of uitdrukking geven aan gevoelens"
+		"title": "De kandidaat kan adequaat in het Fries verworven informatie schriftelijk presenteren, rekening houdend met doel en publiek en daarbij standpunten en argumenten verwoorden of uitdrukking geven aan gevoelens.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinC/5c",
@@ -24990,7 +25060,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan adequaat in het Fries een verslag schrijven"
+		"title": "De kandidaat kan adequaat in het Fries een verslag schrijven.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinD/D1/6",
@@ -24999,7 +25074,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. De werken zijn oorspronkelijk geschreven in de Friese taal."
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met een aantal door hem geselecteerde literaire werken. De werken zijn oorspronkelijk geschreven in de Friese taal. Minimumaantal 9 waarvan minimaal 3 voor 1945.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
@@ -25016,7 +25096,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren bij de interpretatie van literaire teksten."
+		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren bij de interpretatie van literaire teksten.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinD/D3/8",
@@ -25025,7 +25110,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de Friese literatuurgeschiedenis en de gelezen literaire werken plaatsen in historisch perspectief."
+		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de Friese literatuurgeschiedenis en de gelezen literaire werken plaatsen in historisch perspectief.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinE/E1/9a",
@@ -25034,13 +25124,23 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan hoofdlijnen aangeven van de historische ontwikkeling van de Friese taal;"
+		"title": "De kandidaat kan hoofdlijnen aangeven van de historische ontwikkeling van de Friese taal.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinE/E1/9b",
 		"id": "e1b69f4b-4247-4c27-b082-d31463452c82",
 		"ce_se": "SE",
-		"title": "De kandidaat kan voorbeelden geven van taalverandering en interferenties;"
+		"title": "De kandidaat kan voorbeelden geven van taalverandering en interferenties.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinE/E1/9c",
@@ -25049,13 +25149,23 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan de hedendaagse positie van de Friese taal als minderheidstaal binnen de regionale, de Nederlandse en de Europese samenleving verwoorden"
+		"title": "De kandidaat kan de hedendaagse positie van de Friese taal als minderheidstaal binnen de regionale, de Nederlandse en de Europese samenleving verwoorden.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinE/E1/9d",
 		"id": "b08921a3-0c01-405a-8db8-bdfff8b6eed9",
 		"ce_se": "SE",
-		"title": "De kandidaat kan de rol en de maatschappelijke betekenis van de Friese taal in het openbare leven beschrijven;"
+		"title": "De kandidaat kan de rol en de maatschappelijke betekenis van de Friese taal in het openbare leven beschrijven.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinE/E1/9e",
@@ -25064,7 +25174,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn studie naar of ervaringen met een taalkundig verschijnsel in Friesland."
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn studie naar of ervaringen met een taalkundig verschijnsel in Friesland.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinE/E2/10a",
@@ -25073,7 +25188,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan (door middel van voorbeelden) een overzicht geven van uiteenlopende Friese cultuuruitingen"
+		"title": "De kandidaat kan (door middel van voorbeelden) een overzicht geven van uiteenlopende Friese cultuuruitingen.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FR/V/DomeinE/E2/10b",
@@ -25082,7 +25202,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn ervaringen met enkele Friese cultuuruitingen."
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn ervaringen met enkele Friese cultuuruitingen.",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"ce_se": "SE",
