@@ -6822,7 +6822,8 @@
 			"036517fa-4862-4f53-a23f-db587d4f98b5"
 		],
 		"title": "Domein A: Leesvaardigheid",
-		"id": "0d0c027f-e2c2-4681-8c47-bd386208a760"
+		"id": "0d0c027f-e2c2-4681-8c47-bd386208a760",
+		"prefix": "FR/H/DomeinA"
 	},
 	{
 		"ce_se": "SE",
@@ -6832,7 +6833,8 @@
 			"ff4c2501-d301-4195-9c96-71ba8c035de9"
 		],
 		"title": "Domein B: Mondelinge taalvaardigheid",
-		"id": "18f03ee1-f4a9-45ae-ba49-c3f27c862262"
+		"id": "18f03ee1-f4a9-45ae-ba49-c3f27c862262",
+		"prefix": "FR/H/DomeinB"
 	},
 	{
 		"ce_se": "SE",
@@ -6842,7 +6844,8 @@
 			"e4d7363c-cb55-4dba-b740-20bde36d45f6"
 		],
 		"title": "Domein C: Schrijfvaardigheid",
-		"id": "e81d8def-a784-4e4c-b1e5-3e1b599cb87b"
+		"id": "e81d8def-a784-4e4c-b1e5-3e1b599cb87b",
+		"prefix": "FR/H/DomeinC"
 	},
 	{
 		"ce_se": "SE",
@@ -6852,7 +6855,8 @@
 			"e8fbc495-32b1-4cfd-8981-82cc2309f3a0"
 		],
 		"title": "Domein D: Literatuur",
-		"id": "d69954a0-16a3-4fdd-910b-86d5d893cde4"
+		"id": "d69954a0-16a3-4fdd-910b-86d5d893cde4",
+		"prefix": "FR/H/DomeinD"
 	},
 	{
 		"ce_se": "SE",
@@ -6861,7 +6865,8 @@
 			"cb1667a3-57fa-4a34-b32c-b38e2417d328"
 		],
 		"title": "Domein E: Friese taal en cultuur",
-		"id": "4d1c9890-54ff-413d-8268-f68c035678b0"
+		"id": "4d1c9890-54ff-413d-8268-f68c035678b0",
+		"prefix": "FR/H/DomeinE"
 	},
 	{
 		"ce_se": "SE",
@@ -6869,7 +6874,8 @@
 			"ec808e0f-557a-4199-a6b4-88852a1ccc09"
 		],
 		"title": "Domein F Oriëntatie op studie en beroep",
-		"id": "670c0386-dd39-44b6-ab8d-dac59fa729bc"
+		"id": "670c0386-dd39-44b6-ab8d-dac59fa729bc",
+		"prefix": "FR/H/DomeinF"
 	},
 	{
 		"ce_se": "CE",
