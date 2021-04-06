@@ -8147,7 +8147,8 @@
 			"05318a68-00d2-4f1c-969d-e9ff4c54f6c5"
 		],
 		"title": "Subdomein D2: Literaire begrippen",
-		"id": "583f9798-f3d2-4990-adcd-839ef54cee74"
+		"id": "583f9798-f3d2-4990-adcd-839ef54cee74",
+		"prefix": "FR/V/DomeinD/D2"
 	},
 	{
 		"ce_se": "SE",
@@ -8200,7 +8201,8 @@
 			"3009e209-7a92-446f-8017-ad8683832b28"
 		],
 		"title": "Subdomein B1: Luistervaardigheid",
-		"id": "b0b3e448-8265-4aeb-a011-7e334af8cbfd"
+		"id": "b0b3e448-8265-4aeb-a011-7e334af8cbfd",
+		"prefix": "FR/H/DomeinB/B1"
 	},
 	{
 		"ce_se": "SE",
@@ -8208,7 +8210,8 @@
 			"ba854551-2523-48ea-b173-08032811f77d"
 		],
 		"title": "Subdomein B2: Spreekvaardigheid",
-		"id": "eafcf1db-8618-44b0-9c45-69a579cc5729"
+		"id": "eafcf1db-8618-44b0-9c45-69a579cc5729",
+		"prefix": "FR/H/DomeinB/B2"
 	},
 	{
 		"ce_se": "SE",
@@ -8217,16 +8220,18 @@
 			"708970c4-d35e-40ef-ad44-135dc4a552f0"
 		],
 		"title": "Subdomein B3: Gespreksvaardigheid",
-		"id": "ff4c2501-d301-4195-9c96-71ba8c035de9"
+		"id": "ff4c2501-d301-4195-9c96-71ba8c035de9",
+		"prefix": "FR/H/DomeinB/B3"
 	},
 	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
-			"dc865f14-05e8-465b-8d6e-ef49241ccf00",
-			"572faee2-e3b3-4213-bc77-3c2f2f307e2b"
+			"dc865f14-05e8-465b-8d6e-ef49241ccf00"
 		],
 		"title": "Subdomein D1: Literaire ontwikkeling",
-		"id": "fbc7cccc-ea24-495d-8c13-cb374e88f64d"
+		"id": "fbc7cccc-ea24-495d-8c13-cb374e88f64d",
+		"prefix": "FR/H/DomeinD/D1",
+		"dirty": "1"
 	},
 	{
 		"ce_se": "SE",
@@ -8234,7 +8239,8 @@
 			"4012c946-1af1-4cef-b3e0-b5901c8f0df1"
 		],
 		"title": "Subdomein D2: Literaire begrippen",
-		"id": "1414560e-afe4-4572-bcc8-e94228ae2424"
+		"id": "1414560e-afe4-4572-bcc8-e94228ae2424",
+		"prefix": "FR/H/DomeinD/D2"
 	},
 	{
 		"ce_se": "SE",
@@ -8242,7 +8248,8 @@
 			"999fe5a0-0d03-4b86-afb7-a7b161dedd07"
 		],
 		"title": "Subdomein D3: Literatuurgeschiedenis",
-		"id": "e8fbc495-32b1-4cfd-8981-82cc2309f3a0"
+		"id": "e8fbc495-32b1-4cfd-8981-82cc2309f3a0",
+		"prefix": "FR/H/DomeinD/D3"
 	},
 	{
 		"ce_se": "SE",
@@ -8254,7 +8261,8 @@
 			"861cfc8c-b8f4-4e52-8981-247a299dbebc"
 		],
 		"title": "Subdomein E1: Friese taal",
-		"id": "0c64a43a-f33d-4373-9492-93439f8543ff"
+		"id": "0c64a43a-f33d-4373-9492-93439f8543ff",
+		"prefix": "FR/H/DomeinE/E1"
 	},
 	{
 		"ce_se": "SE",
@@ -8263,7 +8271,8 @@
 			"a4b3df7f-d977-4392-8c07-756b4e72aede"
 		],
 		"title": "Subdomein E2: Friese cultuur",
-		"id": "cb1667a3-57fa-4a34-b32c-b38e2417d328"
+		"id": "cb1667a3-57fa-4a34-b32c-b38e2417d328",
+		"prefix": "FR/H/DomeinE/E2"
 	},
 	{
 		"ce_se": "SE",
