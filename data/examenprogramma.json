@@ -2329,7 +2329,11 @@
 		"prefix": "MVT/RU/V",
 		"ingangsdatum": "",
 		"url": "",
-		"versie": ""
+		"versie": "",
+		"examenprogramma_vakleergebied_id": [
+			"27c99045-94ce-4202-b354-203e1ba49531"
+		],
+		"dirty": "1"
 	},
 	{
 		"examenprogramma_domein_id": [
