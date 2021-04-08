@@ -2324,8 +2324,12 @@
 			"cdd2a931-79bb-4d5c-9f7a-b66280ef52fe",
 			"a16d510b-9863-4b16-a305-1eac2a85f52f"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch havo",
-		"id": "3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3"
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch vwo",
+		"id": "3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3",
+		"prefix": "MVT/RU/V",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
