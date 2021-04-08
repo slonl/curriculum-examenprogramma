@@ -2769,6 +2769,7 @@
 		"prefix": "MVT/EN/H/DomeinE/E1"
 	},
 	{
+		"prefix": "vervalt",
 		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
 		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"ce_se": "SE"
@@ -7775,6 +7776,8 @@
 		]
 	},
 	{
+		"prefix": "MVT/DUI/V/DomeinC/C1",
+		"id": "93ba7a61-65d8-4727-9861-56af97876054",
 		"examenprogramma_eindterm_id": [
 			"2da931d1-894c-4550-9927-d1e7e0a26454",
 			"bed02296-8cf4-43b4-b13f-bd3e8337f9cf",
@@ -7782,56 +7785,63 @@
 			"8560eda3-c18d-4be1-a156-ab81f64351c1",
 			"334bf6d0-69f0-47f8-bd49-4e9d7f73e86d"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "93ba7a61-65d8-4727-9861-56af97876054"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/DUI/V/DomeinC/C2",
+		"id": "419be2ad-fd7e-4a80-9e57-2e331ae9a533",
 		"examenprogramma_eindterm_id": [
 			"1fa81e91-fd2e-44f1-bc7b-e830624acabf"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "419be2ad-fd7e-4a80-9e57-2e331ae9a533"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/DUI/V/DomeinD/D1",
+		"id": "3dac54a9-d8aa-4389-be50-26b8c1b114b9",
 		"examenprogramma_eindterm_id": [
 			"f1bb281e-7ff4-4c44-b92d-d72da9cf92a8",
 			"62e6e5c0-2c75-4347-a6e0-dfc89e3cf1dc",
 			"92d9330b-f62a-43de-8cf5-9c9ca8501c7b",
 			"c68cf189-9daa-47ca-9172-36ee4d006a54"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "3dac54a9-d8aa-4389-be50-26b8c1b114b9"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/DUI/V/DomeinD/D2",
+		"id": "d743a7e0-adc0-45aa-a946-d61b1eff3b4b",
 		"examenprogramma_eindterm_id": [
 			"b3b39e65-d2bb-468a-82ce-9109f9d96a74",
 			"c04f3400-9c1d-408d-8f88-a8ae6ff9126c"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "d743a7e0-adc0-45aa-a946-d61b1eff3b4b"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/DUI/V/DomeinE/E1",
+		"id": "40d7fd2c-aaf1-4863-a326-7cd6ef839560",
 		"examenprogramma_eindterm_id": [
 			"a8084119-229e-45b1-b6fd-a4e3fa6b9341"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "40d7fd2c-aaf1-4863-a326-7cd6ef839560"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/DUI/V/DomeinE/E2",
+		"id": "d3aabdbc-e982-4077-9f1b-a060c52ccd35",
 		"examenprogramma_eindterm_id": [
 			"de10d946-b469-4bfa-a44b-374328bbd7f5"
 		],
-		"title": "Subdomein E2: Literaire begrippen",
-		"id": "d3aabdbc-e982-4077-9f1b-a060c52ccd35"
+		"title": "Subdomein E2: Literaire begrippen"
 	},
 	{
+		"prefix": "MVT/DUI/V/DomeinE/E3",
+		"id": "8ac0f525-bb29-4ba3-877a-7441913585c9",
 		"examenprogramma_eindterm_id": [
 			"d109212b-bb93-44a8-a1bb-8be31e30a619"
 		],
-		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"id": "8ac0f525-bb29-4ba3-877a-7441913585c9"
+		"title": "Subdomein E3: Literatuurgeschiedenis"
 	},
 	{
+		"prefix": "MVT/FA/H/DomeinC/C1",
+		"id": "f7d3ef7b-74d4-4475-bc7f-33f4e54e7236",
 		"examenprogramma_eindterm_id": [
 			"f0e7b8f7-56c4-4a51-ba82-7b4272e13947",
 			"4274fa60-52d9-43a5-b6e0-b7641ce3c095",
@@ -7839,41 +7849,46 @@
 			"5de67080-df53-4613-9c79-8d3f78e6c33c",
 			"55ed4d2d-8f13-47ac-a3b5-6f2d8881ccba"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "f7d3ef7b-74d4-4475-bc7f-33f4e54e7236"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/FA/H/DomeinC/C2",
+		"id": "b39455be-4a6b-4129-8573-01d1fad20e7f",
 		"examenprogramma_eindterm_id": [
 			"f7b668e9-376a-45f8-8468-d180b806556d"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "b39455be-4a6b-4129-8573-01d1fad20e7f"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/FA/H/DomeinD/D1",
+		"id": "8617cf18-13bf-4c3d-9ebf-c5e5fac1cf20",
 		"examenprogramma_eindterm_id": [
 			"2765becd-5899-40ad-8395-bba2b2aed2a3",
 			"bff026e5-bb60-44dd-837b-54583dabe211",
 			"77e651fb-44b6-4b4c-a08e-350ed6981ddd"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "8617cf18-13bf-4c3d-9ebf-c5e5fac1cf20"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/FA/H/DomeinD/D2",
+		"id": "df7bb85e-8e92-41d5-98db-f66505eebb56",
 		"examenprogramma_eindterm_id": [
 			"9c361fb5-594c-4460-901f-401f5a90b28a",
 			"0ad99bb4-9e9a-4e78-9f28-34409e3ee3f7"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "df7bb85e-8e92-41d5-98db-f66505eebb56"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/FA/H/DomeinE/E1",
+		"id": "f10fe533-1c89-43fd-9e20-a7d1abe27f5e",
 		"examenprogramma_eindterm_id": [
 			"abd9f5a0-f13d-4aed-a199-34a116d8877e"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "f10fe533-1c89-43fd-9e20-a7d1abe27f5e"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/FA/V/DomeinC/C1",
+		"id": "f653fb7c-8ddd-441c-974f-af9e983c2ba7",
 		"examenprogramma_eindterm_id": [
 			"598ab3dc-ded0-4aea-894d-a89a1f9ed81f",
 			"63dee322-b40c-42f0-90c7-d3c001052cfb",
@@ -7881,56 +7896,63 @@
 			"21be3ca5-998c-4ebf-ab4f-2c86eec5408c",
 			"4df9615a-3064-41f8-a308-4a3ccf694cac"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "f653fb7c-8ddd-441c-974f-af9e983c2ba7"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/FA/V/DomeinC/C2",
+		"id": "ab7c51b4-f050-4cf0-9be1-45c98f7c8851",
 		"examenprogramma_eindterm_id": [
 			"0a3d4d1c-3fd7-428d-82ae-1a0d22acec1e"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "ab7c51b4-f050-4cf0-9be1-45c98f7c8851"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/FA/V/DomeinD/D1",
+		"id": "d9dba198-8e53-4e52-bae5-03ed42d65b5e",
 		"examenprogramma_eindterm_id": [
 			"0e7fba38-9a14-4a46-9dda-6785553ef9fa",
 			"b5080a26-f426-4cc0-841b-113b83eb41f5",
 			"bece86c7-e188-421c-b1b7-44b5c035e209",
 			"392d388b-c1e2-4161-a7c3-3e34e530c271"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "d9dba198-8e53-4e52-bae5-03ed42d65b5e"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/FA/V/DomeinD/D2",
+		"id": "0960cd07-6616-4d24-a156-b2219771060e",
 		"examenprogramma_eindterm_id": [
 			"aff0923d-b8d3-4cdc-8824-5af92399bd41",
 			"4f8be445-f05b-4f76-8950-0bd609ecdc07"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "0960cd07-6616-4d24-a156-b2219771060e"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/FA/V/DomeinE/E1",
+		"id": "ad82aafa-ff66-4016-aaf1-7af1d6c0a55a",
 		"examenprogramma_eindterm_id": [
 			"4aa0ac6d-8532-48bd-ad23-cca729c196a5"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "ad82aafa-ff66-4016-aaf1-7af1d6c0a55a"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/FA/V/DomeinE/E2",
+		"id": "b10955f4-d0ee-49a9-b0cc-cfcc2828cc8a",
 		"examenprogramma_eindterm_id": [
 			"c9850bd7-f78f-4d42-a486-1b89def0783b"
 		],
-		"title": "Subdomein E2: Literaire begrippen",
-		"id": "b10955f4-d0ee-49a9-b0cc-cfcc2828cc8a"
+		"title": "Subdomein E2: Literaire begrippen"
 	},
 	{
+		"prefix": "MVT/FA/V/DomeinE/E3",
+		"id": "c718b887-ad6c-41bd-8928-6a3a35e6a093",
 		"examenprogramma_eindterm_id": [
 			"1ed0a37d-1337-4dcd-98cc-6e5dde4ece06"
 		],
-		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"id": "c718b887-ad6c-41bd-8928-6a3a35e6a093"
+		"title": "Subdomein E3: Literatuurgeschiedenis"
 	},
 	{
+		"prefix": "MVT/DUI/H/DomeinC/C1",
+		"id": "2636921c-741b-464b-82d4-9d1269817102",
 		"examenprogramma_eindterm_id": [
 			"4cb9c3d1-31eb-4786-be07-841cb057b0ea",
 			"950c826d-84d4-43a9-8252-25d1ccc23868",
@@ -7938,41 +7960,46 @@
 			"f5bf589a-b3f3-41ec-bc3f-cb68af577375",
 			"2007f6a8-4303-48ad-8f08-2eb56838b0a6"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "2636921c-741b-464b-82d4-9d1269817102"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/DUI/H/DomeinC/C2",
+		"id": "1f2a7a1c-284d-4d49-9044-729bb59981a6",
 		"examenprogramma_eindterm_id": [
 			"65c93313-3df2-43c7-aab1-9a7d68895f97"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "1f2a7a1c-284d-4d49-9044-729bb59981a6"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/DUI/H/DomeinD/D1",
+		"id": "73462611-93ed-42fe-8427-0ec54431907f",
 		"examenprogramma_eindterm_id": [
 			"a41aba39-e7de-42a5-ab50-d4d184af1499",
 			"d5112644-3b82-4e6c-88dc-2cef1e555067",
 			"d280a525-dbe1-472d-a2c5-ddcfe58f4498"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "73462611-93ed-42fe-8427-0ec54431907f"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/DUI/H/DomeinD/D2",
+		"id": "af647557-18d5-458e-9f1b-95fe449fb3dd",
 		"examenprogramma_eindterm_id": [
 			"0a70290f-e2f0-4acf-8c01-3f5a74fc4afd",
 			"07b862c6-3909-4010-809b-242621001d3a"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "af647557-18d5-458e-9f1b-95fe449fb3dd"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/DUI/H/DomeinE/E1",
+		"id": "a2db5d7d-fbfe-4939-8c94-e5cce1fef020",
 		"examenprogramma_eindterm_id": [
 			"937ebb50-e2f3-43a0-9bc7-31c45cd02a26"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "a2db5d7d-fbfe-4939-8c94-e5cce1fef020"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/EN/V/DomeinC/C1",
+		"id": "db8211be-d555-414e-bd78-a4ffe17acac6",
 		"examenprogramma_eindterm_id": [
 			"fecc5205-3592-40cd-a5b9-c54946780588",
 			"b9e67ec9-defd-495e-8854-49c13405bc73",
@@ -7980,54 +8007,59 @@
 			"55f720a7-8da5-407b-9bc8-9a19ae0e97e2",
 			"1a308904-fee1-41c9-bb5c-fed31819a909"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "db8211be-d555-414e-bd78-a4ffe17acac6"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/EN/V/DomeinC/C2",
+		"id": "f85557d1-baca-4052-a54a-5b7a0bbaf7c3",
 		"examenprogramma_eindterm_id": [
 			"af2c8418-d5d0-4750-9bf9-dc3f93da4382"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "f85557d1-baca-4052-a54a-5b7a0bbaf7c3"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/EN/V/DomeinD/D1",
+		"id": "b3ef2cb7-ca1c-447e-a9d2-4aee9ff13a0b",
 		"examenprogramma_eindterm_id": [
 			"13ce4f8e-f881-48d4-8b16-825132caae7f",
 			"6cc2e42a-9d5b-45b3-aa15-fcda0b157812",
 			"0152858c-ce5b-420f-9aec-d97d3a43b485",
 			"b227dcba-0c69-4f0e-85bb-0f5ae652e9cd"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "b3ef2cb7-ca1c-447e-a9d2-4aee9ff13a0b"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/EN/V/DomeinD/D2",
+		"id": "8753bcf2-5aab-4494-a65d-ba63a1295adf",
 		"examenprogramma_eindterm_id": [
 			"c226eaa5-5121-41b6-813e-977035333eef",
 			"3fd6ad7f-b747-41f7-a59d-0657d70281c6"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "8753bcf2-5aab-4494-a65d-ba63a1295adf"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/EN/V/DomeinE/E1",
+		"id": "36e3b085-0988-4c05-948f-06ec40f5660e",
 		"examenprogramma_eindterm_id": [
 			"b52d3637-8ebc-4d87-a3ac-1c281888ebab"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "36e3b085-0988-4c05-948f-06ec40f5660e"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/EN/V/DomeinE/E2",
+		"id": "66925c91-a627-40e2-bab3-04e518328334",
 		"examenprogramma_eindterm_id": [
 			"9bdf22fd-c418-4bd5-be31-dae6c2f4029f"
 		],
-		"title": "Subdomein E2: Literaire begrippen",
-		"id": "66925c91-a627-40e2-bab3-04e518328334"
+		"title": "Subdomein E2: Literaire begrippen"
 	},
 	{
+		"prefix": "MVT/EN/V/DomeinE/E3",
+		"id": "1d8cd2f9-0646-42f8-9c3f-37f2fc3b5cfb",
 		"examenprogramma_eindterm_id": [
 			"aaebfc92-2dad-4ca3-88e5-ad0527dc57c7"
 		],
-		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"id": "1d8cd2f9-0646-42f8-9c3f-37f2fc3b5cfb"
+		"title": "Subdomein E3: Literatuurgeschiedenis"
 	},
 	{
 		"id": "ad10d1ee-d312-4698-b4ed-b33f957a413c",
@@ -8275,6 +8307,8 @@
 		"prefix": "FR/H/DomeinE/E2"
 	},
 	{
+		"prefix": "MVT/RU/H/DomeinC/C1",
+		"id": "f9ad4ed9-b0f2-453f-8935-b042ed21038b",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"6e4294fe-1f26-407a-8264-dbe54e5c92b8",
@@ -8283,45 +8317,50 @@
 			"d75f87c8-c8ab-490b-999d-fb2fdbaece49",
 			"f255509f-b415-4f0c-8393-0f521a5eec53"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "f9ad4ed9-b0f2-453f-8935-b042ed21038b"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/RU/H/DomeinC/C2",
+		"id": "f634f37a-6e49-499e-951a-108efe9d48ef",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"41588141-bae2-4df3-b3f6-db8bfc850e86"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "f634f37a-6e49-499e-951a-108efe9d48ef"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/RU/H/DomeinD/D1",
+		"id": "978a554b-802f-45f3-ad56-86cec6f5fbde",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"a0e01240-6cdf-4828-86b8-f14b3fb2887c",
 			"4c260311-f779-4496-8b7c-e5c243b06c75",
 			"a3ba33e6-7fdb-452c-a625-d279db8ef238"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "978a554b-802f-45f3-ad56-86cec6f5fbde"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/RU/H/DomeinD/D2",
+		"id": "9be9b08c-2808-48a0-a49e-e65e00c3d37e",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"7b4ecf1d-a380-4232-89e0-cd2bb73520dd",
 			"74366f4f-89de-43d6-a4cd-d70b8cfe399b"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "9be9b08c-2808-48a0-a49e-e65e00c3d37e"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/RU/H/DomeinE/E1",
+		"id": "a9ef5607-1cb3-428d-abd9-8e1f34fbcc08",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"0b419e92-5f43-4d35-9211-760ee5c52cc9"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "a9ef5607-1cb3-428d-abd9-8e1f34fbcc08"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/AR/V/DomeinC/C1",
+		"id": "f8105c62-6305-454d-a718-1b3c6034dc41",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"a0f2ce2d-c1af-4f8c-aebf-7d764b354f5f",
@@ -8330,20 +8369,20 @@
 			"0e144867-b409-4ba7-892b-2b24c06ad0e3",
 			"de43c328-d12b-4d23-a1e0-cd5bb376eb21"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "f8105c62-6305-454d-a718-1b3c6034dc41",
-		"prefix": "AR/V/DomeinC/C1"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/AR/V/DomeinC/C2",
+		"id": "740b49c0-67c4-41d2-ac15-68a42f35bee1",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"436c5964-6ea6-40b2-b4b3-9c2c430ae0bf"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "740b49c0-67c4-41d2-ac15-68a42f35bee1",
-		"prefix": "AR/V/DomeinC/C2"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/AR/V/DomeinD/D1",
+		"id": "67adc94c-fe62-4df4-8943-f25c971b8963",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"be243d60-6ded-4cb5-9419-491fbad278f7",
@@ -8351,30 +8390,30 @@
 			"9264ea32-2abd-4d11-96ee-0b4813e66b50",
 			"82bf63d9-6cc0-45bf-af2a-9551359040f4"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "67adc94c-fe62-4df4-8943-f25c971b8963",
-		"prefix": "AR/V/DomeinD/D1"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/AR/V/DomeinD/D2",
+		"id": "14f29daf-491f-4aff-b244-9409a1560ea6",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"4ec5f908-1f6f-4221-99b5-5685542b95e8",
 			"7c345b26-1b2d-4c43-9eed-79eada1f1f44"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "14f29daf-491f-4aff-b244-9409a1560ea6",
-		"prefix": "AR/V/DomeinD/D2"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/AR/V/DomeinE/E1",
+		"id": "8f1da728-1d6f-481f-b0e2-d96f6ecd97c7",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"09439a2c-4549-4349-8063-73e5337445b5"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "8f1da728-1d6f-481f-b0e2-d96f6ecd97c7",
-		"prefix": "AR/V/DomeinE/E1"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/AR/H/DomeinC/C1",
+		"id": "5b599f55-532b-4f0a-b42e-bb658d5b40a9",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"99691b00-b376-4cf0-8d1c-669693f2152f",
@@ -8383,45 +8422,50 @@
 			"2e285e97-b862-4712-a75c-0eb615c80cae",
 			"fa271be5-c5e2-4229-b6f8-adf744d1217c"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "5b599f55-532b-4f0a-b42e-bb658d5b40a9"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/AR/H/DomeinC/C2",
+		"id": "c3d3006a-402b-46b6-8561-af7ecb4077ad",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"58ebf97f-ec00-4ea4-a5ee-d68965fe981f"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "c3d3006a-402b-46b6-8561-af7ecb4077ad"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/AR/H/DomeinD/D1",
+		"id": "edc57b1d-104d-4984-8749-5e7ae7b3150d",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"c393a996-50b2-41b3-bc4e-4e1b361ca0b3",
 			"c5c87eca-1c00-4777-b490-d0c7ae861fe7",
 			"60bf9e90-5b28-495a-8e15-ab2deff22200"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "edc57b1d-104d-4984-8749-5e7ae7b3150d"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/AR/H/DomeinD/D2",
+		"id": "d2c5a8c4-349f-485e-b642-548118968bd3",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"e3230ba3-4d77-4bd6-bde8-c64b530b2b34",
 			"2754356c-93d3-4491-bb55-31604508bcae"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "d2c5a8c4-349f-485e-b642-548118968bd3"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/AR/H/DomeinE/E1",
+		"id": "671b3c20-5e7e-474e-aaca-2e1b0a500e50",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"9a7a5006-b1ea-410e-aa97-fefd444820d1"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "671b3c20-5e7e-474e-aaca-2e1b0a500e50"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/RU/V/DomeinC/C1",
+		"id": "b00f2cb9-32d7-47c4-be45-01c237758b9d",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"d5dc4335-ce03-444f-aacf-df8fb1c69c98",
@@ -8430,45 +8474,50 @@
 			"8894a65a-cc89-4657-bdf9-7ef3b87c25f8",
 			"0726fa08-dfea-419f-ba54-a98a5b0162b8"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "b00f2cb9-32d7-47c4-be45-01c237758b9d"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/RU/V/DomeinC/C2",
+		"id": "d2e0ec5b-e803-4417-8eb4-072bf66aec47",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"5f002843-a135-4cd4-9817-1d7b085476ab"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "d2e0ec5b-e803-4417-8eb4-072bf66aec47"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/RU/V/DomeinD/D1",
+		"id": "f47197cc-b435-4183-a3d4-f51e372d9606",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"c0ac6378-3234-4467-ae0a-f428c9fa872b",
 			"28f53e97-228e-46ad-963b-809166f20f0f",
 			"3ee1b101-9d17-46c0-9eaa-ffee61095a9e"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "f47197cc-b435-4183-a3d4-f51e372d9606"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/RU/V/DomeinD/D2",
+		"id": "3617f9eb-e746-4506-8f6c-5cca8a832c09",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"bac5271e-661d-4fa4-a683-6f2936c514aa",
 			"eb86df3d-6291-4d26-a209-12ca088299e8"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "3617f9eb-e746-4506-8f6c-5cca8a832c09"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/RU/V/DOmeinE/E1",
+		"id": "810e2bf4-5e9a-4bd9-be0a-d9722d72eabd",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"c2e73c2e-8bcc-46d6-9072-5090303f43de"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "810e2bf4-5e9a-4bd9-be0a-d9722d72eabd"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "vervalt",
+		"id": "d4b3b462-fdbf-4eb3-ba79-de6cc92b223b",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"d3f312be-8627-4046-9d4a-e2d625160982",
@@ -8477,45 +8526,50 @@
 			"0ba4c401-3c90-430b-b2ba-f973a45385aa",
 			"81519119-8aca-45f6-8ae7-a90ace78f19b"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "d4b3b462-fdbf-4eb3-ba79-de6cc92b223b"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "vervalt",
+		"id": "ee3b2966-61a8-4fcd-ad43-b03dc64ed893",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"3535e734-8c24-44e1-a504-47a7de0c0829"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "ee3b2966-61a8-4fcd-ad43-b03dc64ed893"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "vervalt",
+		"id": "4dd7eb1a-c49b-4ebf-9acb-7248b0efe72f",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"0bd170e2-b812-4491-94eb-bff9aacc083d",
 			"a7f63997-8cef-486c-9ce6-77b55d7da877",
 			"3e43d75d-a970-4a7e-af05-c6d4bccb7e74"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "4dd7eb1a-c49b-4ebf-9acb-7248b0efe72f"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "vervalt",
+		"id": "c54f3842-253e-4124-897e-2d22f38b1cff",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"ce49573a-0776-47c6-a60d-bf0f8c39620f",
 			"7818953c-a551-4fe1-8eca-fcbabb5a7b95"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "c54f3842-253e-4124-897e-2d22f38b1cff"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "vervalt",
+		"id": "1a0d3311-183b-49a1-b4ae-808a1ac13da6",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"a2c6cd7d-13bb-4b52-bee8-82102fbd59d5"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "1a0d3311-183b-49a1-b4ae-808a1ac13da6"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/TU/H/DomeinC/C1",
+		"id": "71023f12-d79b-4646-a231-d5e5665c5f90",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"dce0ce1b-32e8-4892-9ba5-bc241decb7b8",
@@ -8524,18 +8578,20 @@
 			"61db4a53-4f7e-4399-90e3-1f425e48808e",
 			"97c3081f-823f-4a50-9269-9ce67472408c"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "71023f12-d79b-4646-a231-d5e5665c5f90"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/TU/H/DomeinC/C2",
+		"id": "c437db88-d330-4b6d-8e88-91c2d34010c6",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"d26b8bed-ffa0-4054-ad85-7c6fdc9f60d5"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "c437db88-d330-4b6d-8e88-91c2d34010c6"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/TU/H/DomeinD/D1",
+		"id": "677f6197-eb4b-46e3-9a23-4af94d6fb8bc",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"3b642c58-2b7f-4e71-b423-5cf350d9572a",
@@ -8543,38 +8599,41 @@
 			"c549f925-ea6a-4539-9f36-bf5360ce785a",
 			"c21bcce8-d7ff-4d59-bf25-5c2eeed76380"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "677f6197-eb4b-46e3-9a23-4af94d6fb8bc"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/TU/H/DomeinD/D2",
+		"id": "cf4bac49-1c9c-42c7-9932-cbe2a9ccff71",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"1fa1e11c-b006-4635-a5a6-357b1af57ac3",
 			"ec1c22ce-d517-4ee7-b4cf-a893e9fa8b00"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "cf4bac49-1c9c-42c7-9932-cbe2a9ccff71"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/TU/H/DomeinE/E1",
+		"id": "d92137de-3219-4a73-bd6b-6333ef9a2337",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"c8b22060-ff33-4ea8-a002-bcb89ce6055e"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "d92137de-3219-4a73-bd6b-6333ef9a2337"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "vervalt",
 		"id": "1f868ee4-355e-4726-afa9-5c157381cf8a",
 		"title": "Literaire begrippen",
-		"description": "",
-		"prefix": "AR/V/DomeinE/E2"
+		"description": ""
 	},
 	{
+		"prefix": "vervalt",
 		"id": "d4c8f735-bf5e-4e4f-8868-061e4889e8f5",
-		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"prefix": "AR/V/DomeinE/E3"
+		"title": "Subdomein E3: Literatuurgeschiedenis"
 	},
 	{
+		"prefix": "MVT/TU/V/DomeinC/C1",
+		"id": "6e6c52e3-cc87-4d9b-847a-211a2cf75f17",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"ce06636a-1f71-4cf2-82ae-d6f93579ea91",
@@ -8583,18 +8642,20 @@
 			"ebf3c907-fd8e-4460-a930-7573237beb72",
 			"de835fcd-c5fd-405d-ba8b-4c0df9d4bb2c"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "6e6c52e3-cc87-4d9b-847a-211a2cf75f17"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/TU/V/DomeinC/C2",
+		"id": "468eae02-7f7a-4c11-bc61-70add9b90050",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"2e13716a-77e9-4681-bd95-65351cf1ca3a"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "468eae02-7f7a-4c11-bc61-70add9b90050"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/TU/V/DomeinD/D1",
+		"id": "6a4dac49-8d4a-4c5a-9ddf-5bdd1426228d",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"dfd1b7bf-dfcf-48dd-b345-14bb6d61acd0",
@@ -8602,27 +8663,30 @@
 			"6b587c67-1ac2-40ca-b599-dd77946ed7f7",
 			"3522b49a-0acd-40e8-9afa-b67feacdc762"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "6a4dac49-8d4a-4c5a-9ddf-5bdd1426228d"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/TU/V/DomeinD/D2",
+		"id": "a44965cf-4cd1-450b-9b11-48498e87c085",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"3dd10652-2571-4445-a228-0d06e4f00f31",
 			"57a4de1c-a4ee-407f-86b5-60a0c0f6f4bf"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "a44965cf-4cd1-450b-9b11-48498e87c085"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/TU/V/DomeinE/E1",
+		"id": "763a5a00-695d-42b7-ac0b-5e010c031d30",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"39fa992d-62d3-4fac-972d-f80ab4550f7c"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "763a5a00-695d-42b7-ac0b-5e010c031d30"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
+		"prefix": "MVT/SP/H/DomeinC/C1",
+		"id": "feea3894-3c3f-46b9-ae9e-9b3a1aa21b8e",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"7d58798a-de72-4d6b-aa84-3ef470ad4927",
@@ -8631,43 +8695,46 @@
 			"1a659b2a-f16f-4a69-9a74-410e47c8c877",
 			"9f017c32-b2f2-4c1c-835d-65cfbbea2d8e"
 		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"id": "feea3894-3c3f-46b9-ae9e-9b3a1aa21b8e"
+		"title": "Subdomein C1: Gesprekken voeren"
 	},
 	{
+		"prefix": "MVT/SP/H/DomeinC/C2",
+		"id": "ec805937-fa05-4d44-bb15-9dce2295da1b",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"57aecefe-7d68-42db-8bd8-b2204d4889dd"
 		],
-		"title": "Subdomein C2: Spreken",
-		"id": "ec805937-fa05-4d44-bb15-9dce2295da1b"
+		"title": "Subdomein C2: Spreken"
 	},
 	{
+		"prefix": "MVT/SP/H/DomeinD/D1",
+		"id": "c94a65a7-90f9-40bd-86fe-9f39667b5d37",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"ea80da7b-b045-4194-95ba-e0e5f0c54f89",
 			"02df96ed-7c8e-415a-9a3b-137a39f150bc",
 			"28b93b52-01c0-42ee-ba4b-b2017cd618d1"
 		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"id": "c94a65a7-90f9-40bd-86fe-9f39667b5d37"
+		"title": "Subdomein D1: Taalvaardigheden"
 	},
 	{
+		"prefix": "MVT/SP/H/DomeinD/D2",
+		"id": "dd7013be-ee92-4c18-95a3-cc6c1f86767b",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"7af3c2aa-9e76-419e-b1f5-89ecde0b299d",
 			"419a6d51-88c3-4f08-bb71-c5e4423b8e4d"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"id": "dd7013be-ee92-4c18-95a3-cc6c1f86767b"
+		"title": "Subdomein D2: Strategische vaardigheden"
 	},
 	{
+		"prefix": "MVT/SP/H/DomeinE/E1",
+		"id": "84d09e75-7c96-4506-9823-a2ff6239c348",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"383c36ab-831c-4ba2-a593-ba9b288aad2d"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "84d09e75-7c96-4506-9823-a2ff6239c348"
+		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
 		"prefix": "SK/V/DomeinG/G1",
