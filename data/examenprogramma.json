@@ -2458,7 +2458,7 @@
 			"6fde8d81-7361-4e15-ad42-aea23e0f6c28"
 		],
 		"examenprogramma_vakleergebied_id": [
-			"605f1968-9065-42a4-9b2b-83214684aea6"
+			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
 		],
 		"examenprogramma_kop1_id": [
 			"c9918c29-b9b8-4603-a092-873a9ba152f4",
@@ -2473,7 +2473,8 @@
 		],
 		"ingangsdatum": "",
 		"url": "",
-		"versie": ""
+		"versie": "",
+		"dirty": "1"
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2499,7 +2500,11 @@
 		],
 		"ingangsdatum": "",
 		"url": "",
-		"versie": ""
+		"versie": "",
+		"examenprogramma_vakleergebied_id": [
+			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "MVT/EN/H",
