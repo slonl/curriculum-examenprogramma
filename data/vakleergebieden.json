@@ -312,7 +312,9 @@
 		"unreleased": true,
 		"types": [
 			"examenprogramma_vakleergebied"
-		]
+		],
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"vakleergebied_id": [
@@ -353,7 +355,8 @@
 		],
 		"title": "Arabisch",
 		"id": "605f1968-9065-42a4-9b2b-83214684aea6",
-		"dirty": "1"
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "64ab97f4-9bd1-4a03-8045-3d84626a0ea8",
