@@ -650,16 +650,20 @@
 		"id": "d7f94ae5-fe8a-4e3c-b326-bd7264ad3b62",
 		"title": "Subdomein C1: Standaardfuncties",
 		"examenprogramma_eindterm_id": [
-			"92320da5-5b01-43cd-b686-ff6dee9c5a51",
-			"f1218c2e-e96a-41b4-ba1f-c9baf2dbaf9d"
+			"92320da5-5b01-43cd-b686-ff6dee9c5a51"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": "1"
 	},
 	{
 		"prefix": "WI/A/V/DomeinC/C2",
 		"id": "bead96c3-a4e5-480c-8881-091dac8cbdb1",
 		"title": "Subdomein C2: Functies, grafieken, vergelijkingen en ongelijkheden",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f1218c2e-e96a-41b4-ba1f-c9baf2dbaf9d"
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "WI/A/V/DomeinD/D1",
