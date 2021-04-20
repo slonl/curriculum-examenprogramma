@@ -902,7 +902,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinA/A2/2",
@@ -911,7 +916,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinA/A3/3",
@@ -920,7 +930,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B1/4",
@@ -929,7 +944,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B2/5",
@@ -938,7 +958,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B3/6",
@@ -947,7 +972,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B4/7",
@@ -956,7 +986,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinC/C1/8",
@@ -964,7 +999,7 @@
 		"title": "De kandidaat kan afstanden en hoeken berekenen met behulp van goniometrische verhoudingen, de stelling van Pythagoras en de sinus- en cosinusregel.",
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0,
@@ -979,7 +1014,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinD/D1/10",
@@ -988,7 +1028,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinD/D2/11",
@@ -997,7 +1042,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinD/D3/12",
@@ -1006,7 +1056,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/B/H/DomeinD/D4/13",
@@ -1015,7 +1070,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/A/V/DomeinA/A1/1",
