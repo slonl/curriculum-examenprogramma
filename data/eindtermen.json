@@ -20187,7 +20187,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A5/5b",
@@ -20196,7 +20201,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A6/6",
@@ -20205,7 +20215,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A7/7a",
@@ -20214,7 +20229,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A7/7b",
@@ -20223,7 +20243,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A8/8",
@@ -20232,7 +20257,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A9/9",
