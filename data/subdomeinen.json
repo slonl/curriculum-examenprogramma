@@ -9227,5 +9227,15 @@
 		"replaces": [
 			"925f09fa-fed5-4fc1-9e53-ace39ecb999c"
 		]
+	},
+	{
+		"id": "8223d9e5-ad60-4fb2-849c-8875503287ef",
+		"dirty": "1",
+		"prefix": "WI/C/V/DomeinA/A3",
+		"title": "Subdomein A3: Wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"eeeec97d-18b4-41c0-a4cb-5b5346c45e8d"
+		],
+		"description": ""
 	}
 ]
