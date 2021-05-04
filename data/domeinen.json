@@ -251,18 +251,21 @@
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
 			"4670fd2c-dfc8-441d-a671-86770c83f8f3",
-			"d69365ea-c7cc-44ee-b214-84a6f06c8852"
+			"d69365ea-c7cc-44ee-b214-84a6f06c8852",
+			"8223d9e5-ad60-4fb2-849c-8875503287ef"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"dirty": "1"
 	},
 	{
-		"prefix": "Vervalt",
+		"prefix": "WI/C/V/DomeinA/A3",
 		"id": "3f35c49d-47bf-4f69-90a5-10da5bc61485",
 		"title": "Subdomein A3: Wiskundige vaardigheden",
 		"examenprogramma_eindterm_id": [
 			"eeeec97d-18b4-41c0-a4cb-5b5346c45e8d"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"deleted": 1
 	},
 	{
 		"prefix": "WI/C/V/DomeinB",
