@@ -108,7 +108,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/4/4b",
@@ -117,7 +122,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/4/5a",
@@ -126,7 +136,12 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/4/5b",
@@ -135,7 +150,12 @@
 		"niveau_id": [
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/4/6a",
@@ -145,7 +165,12 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/4/6b",
@@ -155,7 +180,12 @@
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/5/7a",
@@ -167,7 +197,12 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/5/7b",
@@ -179,7 +214,12 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/6/8a",
@@ -188,7 +228,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/6/8b",
@@ -197,7 +242,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/6/8c",
@@ -206,7 +256,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/6/9a",
@@ -217,7 +272,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/6/9b",
@@ -228,7 +288,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/6/9c",
@@ -239,7 +304,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/7/10a",
@@ -251,7 +321,12 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/7/10b",
@@ -263,7 +338,12 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/8/11a",
@@ -275,7 +355,12 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/K/8/11b",
@@ -287,70 +372,117 @@
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/V/1/12a",
 		"id": "844cf891-b8d0-4a6a-9442-2cdf6dc15293",
-		"title": "De kandidaat kan op de verschillende verbanden toegespitste technieken toepassen",
+		"title": "De kandidaat kan op de verschillende verbanden toegespitste technieken toepassen.\n",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/V/1/12b",
 		"id": "649b200b-c6af-4c96-a914-87943161c5f0",
-		"title": "De kandidaat kan formules en verbanden op een meer formele manier hanteren",
+		"title": "De kandidaat kan formules en verbanden op een meer formele manier hanteren.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/V/1/12c",
 		"id": "6e76475c-015e-4b2f-aa3c-c629d0ef586a",
-		"title": "De kandidaat kan complexe rekentechnieken verrichten met behulp van de rekenmachine",
+		"title": "De kandidaat kan complexe rekentechnieken verrichten met behulp van de rekenmachine.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/V/1/12d",
 		"id": "b2b0a312-a177-4f77-8fe9-114956ed0c84",
 		"title": "De kandidaat kan complexe meetkundige technieken gebruiken.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/V/2/13",
 		"id": "019714ce-93f6-41ed-a1ae-c567a877cc10",
 		"title": "De leerling verricht complexe opdrachten, waarbij het proces van het probleemgebied kiezen, de probleemsituatie identificeren en mathematiseren, het probleem oplossen, de oplossing terugplaatsen in de oorspronkelijke situatie en reflecteren op het proces wordt doorlopen.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/V/3/14",
 		"id": "e446b967-a19a-4d4c-a816-a3483b2769a3",
 		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/V/4/15",
 		"id": "a1ae9741-7055-4e9c-b5e9-2ffd01e0a149",
 		"title": "De kandidaten kan de vaardigheden uit het kerndeel in samenhang toepassen.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinA/A1/1",
