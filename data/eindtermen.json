@@ -22434,7 +22434,12 @@
 		"title": "De kandidaat kan de geografische benadering adequaat hanteren geografische informatie selecteren, verwerken en weergeven.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinA/A1/1b",
@@ -22442,7 +22447,12 @@
 		"title": "De kandidaat kan de geografische benadering adequaat hanteren geografische vragen herkennen en zelf formuleren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinA/A1/1c",
@@ -22450,7 +22460,12 @@
 		"title": "De kandidaat kan de geografische benadering adequaat hanteren de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinA/A2/2a",
@@ -22458,7 +22473,12 @@
 		"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren op basis van een geografische onderzoeksvraag en een gestructureerd plan van aanpak.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinA/A2/2b",
@@ -22466,7 +22486,12 @@
 		"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren met gebruikmaking van de geografische werkwijzen en primaire data.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinA/A2/2c",
@@ -22474,7 +22499,12 @@
 		"title": "De kandidaat kan een geografisch onderzoek opzetten, uitvoeren, presenteren en evalueren zo mogelijk aansluitend op onderdelen van het examenprogramma, met name de domeinen B, C en E.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinB/B1/3a",
@@ -22482,15 +22512,25 @@
 		"title": "De kandidaat kan ten aanzien van samenhang en verscheidenheid in de wereld de begrippen 'mondialisering' en 'tijdruimtecompressie' in onderling verband en vanuit een geografisch perspectief analyseren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinB/B1/3b",
 		"id": "0cc2c6d7-94d6-45c7-852d-9c405701703f",
-		"title": "mondiale spreidingspatronen van economische, culturele, demografische, sociale en politieke verschijnselen beschrijven, in hoofdlijnen verklaren en aan elkaar relateren;",
+		"title": "De kandidaat kan ten aanzien van samenhang en verscheidenheid in de wereld mondiale spreidingspatronen van economische, culturele, demografische, sociale en politieke verschijnselen beschrijven, in hoofdlijnen verklaren en aan elkaar relateren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinB/B1/3c",
@@ -22498,7 +22538,12 @@
 		"title": "De kandidaat kan ten aanzien van samenhang en verscheidenheid in de wereld grootstedelijke gebieden in een nader aan te wijzen postindustrieel land analyseren in het licht van processen van mondialisering.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinB/B2/4a",
@@ -22506,7 +22551,12 @@
 		"title": "De kandidaat kan met betrekking tot een nader door de school te kiezen verdelingsvraagstuk vanuit het perspectief van het subdomein 'Samenhang en verscheidenheid in de wereld' (B1) het vraagstuk beschrijven en analyseren als een maatschappelijk verdelingsvraagstuk.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinB/B2/4b",
@@ -22514,7 +22564,12 @@
 		"title": "De kandidaat kan met betrekking tot een nader door de school te kiezen verdelingsvraagstuk vanuit het perspectief van het subdomein 'Samenhang en verscheidenheid in de wereld' (B1) actuele discussies over het vraagstuk kritisch beoordelen en relaties leggen met relevante natuurlijke factoren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinB/B2/4c",
@@ -22522,7 +22577,12 @@
 		"title": "De kandidaat kan met betrekking tot een nader door de school te kiezen verdelingsvraagstuk vanuit het perspectief van het subdomein 'Samenhang en verscheidenheid in de wereld' (B1) beleid beoordelen dat is gericht op het oplossen van het vraagstuk op macroregionale schaal.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinC/C1/5a",
@@ -22530,7 +22590,12 @@
 		"title": "De kandidaat kan met betrekking tot de aarde als natuurlijk systeem de aarde als een uniek natuurlijk systeem beschrijven en deze kennis toepassen bij het analyseren van veranderingen aan het aardoppervlak op verschillende ruimte- en tijdschalen;de aarde als een uniek natuurlijk systeem beschrijven en deze kennis toepassen bij het analyseren van veranderingen aan het aardoppervlak op verschillende ruimte- en tijdschalen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinC/C1/5b",
@@ -22538,15 +22603,25 @@
 		"title": "De kandidaat kan met betrekking tot de aarde als natuurlijk systeem de kenmerken van landschapszones op aarde en de veranderingen hierin beschrijven, analyseren en aan elkaar relateren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinC/C1/5c",
 		"id": "31190e79-a7c2-4792-b385-aac415392dd3",
-		"title": "de natuurlijke en landschappelijke kenmerken van een nader aan te wijzen fysisch-geografische macroregio in onderlinge samenhang en in relatie tot de samenlevingen in de betreffende macroregio analyseren.",
+		"title": "De kandidaat kan met betrekking tot de aarde als natuurlijk systeem de natuurlijke en landschappelijke kenmerken van een nader aan te wijzen fysisch-geografische macroregio in onderlinge samenhang en in relatie tot de samenlevingen in de betreffende macroregio analyseren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinC/C2/6a",
@@ -22554,7 +22629,12 @@
 		"title": "De kandidaat kan met betrekking tot een nader door de school te kiezen mondiaal milieuvraagstuk, vanuit het perspectief van subdomein 'De aarde als natuurlijk systeem' (C1): het vraagstuk beschrijven en analyseren als natuurlijk vraagstuk.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinC/C2/6b",
@@ -22562,7 +22642,12 @@
 		"title": "De kandidaat kan met betrekking tot een nader door de school te kiezen mondiaal milieuvraagstuk, vanuit het perspectief van subdomein 'De aarde als natuurlijk systeem' (C1): actuele discussies over het vraagstuk kritisch beoordelen, daarbij onderscheid maken tussen oorzaken en gevolgen en relaties leggen met relevante maatschappelijke factoren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinC/C2/6c",
@@ -22570,7 +22655,12 @@
 		"title": "De kandidaat kan met betrekking tot een nader door de school te kiezen mondiaal milieuvraagstuk, vanuit het perspectief van subdomein 'De aarde als natuurlijk systeem' (C1): beleid beoordelen dat is gericht op het oplossen van het vraagstuk op macroregionale schaal.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinD/D1/7a",
@@ -22578,7 +22668,12 @@
 		"title": "De kandidaat kan ten aanzien van een nader aan te wijzen macroregio de afbakening van de betreffende macroregio analyseren, gebruikmakend van combinaties van relevante kenmerken.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinD/D1/7b",
@@ -22586,7 +22681,12 @@
 		"title": "De kandidaat kan ten aanzien van een nader aan te wijzen macroregio een geografische vergelijking maken tussen de betreffende macroregio en een andere ontwikkelingsregio in de wereld op grond van relevante kenmerken.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinD/D1/7c",
@@ -22594,15 +22694,25 @@
 		"title": "De kandidaat kan ten aanzien van een nader aan te wijzen macroregio de ontwikkelingsprocessen in de betreffende macroregio in hoofdlijnen aangeven en verklaren met gebruikmaking van economische, politieke, sociaal-culturele, fysisch-geografische, historische, interne en externe factoren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinD/D2/8a",
 		"id": "5b2cf5e3-de22-47e9-8c23-131d2bd5ee06",
-		"title": "De kandidaat kan actuele vraagstukken in de in subdomein D1 bedoelde macroregio vanuit een geografisch perspectief beschrijven, analyseren en verklaren. Het betreft milieuvraagstukken samenhangend met het gebruik van natuurlijke hulpbronnen en natuurlijke gevaren samenhangend met natuurrampen;",
+		"title": "De kandidaat kan actuele vraagstukken in de in subdomein D1 bedoelde macroregio vanuit een geografisch perspectief beschrijven, analyseren en verklaren. Het betreft milieuvraagstukken samenhangend met het gebruik van natuurlijke hulpbronnen en natuurlijke gevaren samenhangend met natuurrampen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinD/D2/8b",
@@ -22610,7 +22720,12 @@
 		"title": "De kandidaat kan actuele vraagstukken in de in subdomein D1 bedoelde macroregio vanuit een geografisch perspectief beschrijven, analyseren en verklaren. Het betreft kenmerken van de hedendaagse ontwikkeling in de steden en op het platteland van de betreffende macroregio, samenhangend met het proces van mondialisering.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/V/DomeinD/D2/8c",
@@ -22618,7 +22733,12 @@
 		"title": "De kandidaat kan actuele vraagstukken in de in subdomein D1 bedoelde macroregio vanuit een geografisch perspectief beschrijven, analyseren en verklaren. Het betreft conflicten in de betreffende macroregio, voor zover ze verband houden met de etnische en culturele diversiteit in de regio.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "887d1c30-7eda-4976-81c4-3c3ac7541855",
@@ -22628,7 +22748,7 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"description": "",
-		"ce": 0,
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -22641,7 +22761,7 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"description": "",
-		"ce": 0,
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -22660,7 +22780,12 @@
 		"title": "De kandidaat kan lokale en regionale ruimtelijke vraagstukken beschrijven en analyseren en zich daarover een beargumenteerde mening vormen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "PREAMBULE/1/1.1",
@@ -23694,7 +23819,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "AK/H/DomeinD/D2/10b",
+		"prefix": "AK/H/DomeinE/E1/11a",
 		"id": "75ecb67d-4fa6-456e-920d-caf6006f143c",
 		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele vraagstukken van overstromingen en wateroverlast in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
 		"niveau_id": [
@@ -23702,19 +23827,24 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": 0,
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
 	},
 	{
-		"prefix": "AK/H/DomeinE/E1/11a",
+		"prefix": "AK/H/DomeinE/E1/11b",
 		"id": "c0a6d118-9998-40bb-883a-4ae007397235",
 		"title": "De kandidaat kan zich een beargumenteerde mening vormen over actuele ruimtelijke en sociaal-economische vraagstukken van stedelijke gebieden in Nederland. Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/H/DomeinE/E1/11b",
