@@ -265,7 +265,10 @@
 			"eeeec97d-18b4-41c0-a4cb-5b5346c45e8d"
 		],
 		"ce_se": "CE;SE",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_domein"
+		]
 	},
 	{
 		"prefix": "WI/C/V/DomeinB",
@@ -4509,7 +4512,7 @@
 	{
 		"id": "bad8ead1-f566-4201-87d7-5e4166b20c4a",
 		"prefix": "EC/V/1",
-		"title": "Verrijkingsstor",
+		"title": "Verrijkingsstof",
 		"examenprogramma_eindterm_id": [
 			"bfef5bc0-7b86-4a15-b4b0-5a5fe85436fc",
 			"f2f25d00-4b6a-432e-918c-4a7d0c500cd8",
