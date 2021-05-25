@@ -1915,13 +1915,18 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "THT/TV/H/DomeinA/A1/1",
+		"prefix": "THT/TV/H/DomeinA/A1/1a",
 		"id": "c2036838-a729-4ec3-81d3-9af42dee3434",
-		"title": "De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.",
+		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, met gebruikmaking van kennis van en inzicht in de geschiedenis van de beeldende kunst van de 19e, 20e en 21e eeuw.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/TV/H/DomeinA/A2/2",
@@ -1930,7 +1935,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/TV/H/DomeinB/3",
@@ -1939,7 +1949,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/T/V/DomeinA/A1/1",
@@ -1975,7 +1990,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/T/H/DomeinA/A1/1b",
@@ -1984,7 +2004,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/T/H/DomeinA/A2/2",
@@ -1993,7 +2018,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/T/H/DomeinB/3",
@@ -2002,7 +2032,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "SK/V/DomeinA/A1/1",
@@ -11245,7 +11280,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A1/1b",
@@ -11254,7 +11294,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A1/1c",
@@ -11263,7 +11308,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A2/2a",
@@ -11272,7 +11322,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A2/2b",
@@ -11281,7 +11336,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A2/2c",
@@ -11290,7 +11350,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A3/3a",
@@ -11299,7 +11364,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A3/3a",
@@ -11308,7 +11378,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinA/A3/3a",
@@ -11317,7 +11392,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinB/B1/4a",
@@ -11326,7 +11406,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinB/B1/4b",
@@ -11335,7 +11420,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUMU/H/DomeinB/B2/5",
@@ -11344,7 +11434,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/V/DomeinA/A1/1a",
@@ -11497,7 +11592,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinA/A1/1b",
@@ -11506,7 +11606,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinA/A1/1c",
@@ -11515,7 +11620,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinA/A2/2",
@@ -11524,7 +11634,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinA/A3/3a",
@@ -11551,7 +11666,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinB/B1/4a",
@@ -11560,7 +11680,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinB/B1/4b",
@@ -11587,7 +11712,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinB/B2/5b",
@@ -11596,7 +11726,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinB/B3/6a",
@@ -11605,7 +11740,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDR/H/DomeinB/B3/6b",
@@ -11614,7 +11754,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDA/V/DomeinA/A1/1",
@@ -11712,7 +11857,12 @@
 		"title": "De kandidaat kan zelfstandig onderzoek verrichten naar een onderwerp dat direct of indirect verband houdt met dans.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDA/H/DomeinA/A2/2",
@@ -11736,7 +11886,12 @@
 		"title": "De kandidaat kan op een dansvaardige en expressieve wijze gevoelens, ervaringen en ideeën in dans vertalen en vertolken en daarbij doelgericht samenwerken met anderen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDA/H/DomeinB/B1/4b",
@@ -11744,7 +11899,12 @@
 		"title": "De kandidaat kan op een dansvaardige en expressieve wijze gevoelens, ervaringen en ideeën in dans vertalen en vertolken en daarbij doelgericht muzikale, beeldende en dramatische elementen in dans hanteren.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDA/H/DomeinB/B2/5a",
@@ -11752,7 +11912,12 @@
 		"title": "De kandidaat kan alleen of samen met anderen improviseren vanuit opdrachten.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDA/H/DomeinB/B2/5b",
@@ -11760,7 +11925,12 @@
 		"title": "De kandidaat kan de resultaten structureren tot een herhaalbare compositie met gebruik van dansante aspecten en vormgevingsmiddelen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUDA/H/DomeinB/B3/6",
@@ -11768,7 +11938,12 @@
 		"title": "De kandidaat kan een danspresentatie maken voor publiek waarin dans- en vormgevingsvaardigheden functioneel zijn toegepast.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUBV/V/DomeinA/A1/1",
@@ -11808,7 +11983,12 @@
 		"title": "De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met visies, doelen, tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUBV/H/DomeinA/A3/3",
@@ -11824,7 +12004,12 @@
 		"title": "De kandidaat kan beeldend werk van kunstenaars en vormgevers onderzoeken in relatie tot het eigen beeldend werk.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUBV/H/DomeinB/4",
@@ -11832,7 +12017,12 @@
 		"title": "De kandidaat kan gestructureerde probleemstellingen met betrekking tot zowel autonome als toegepaste beeldende kunst en vormgeving onderzoeken en de daaruit ontwikkelde ideeën in een beeldende verwerking uitvoeren, daarbij beeldende middelen aanwenden in een doelgericht werkproces en het werk zo presenteren dat de beschouwer inzicht krijgt in het werkproces.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinA/1a",
@@ -13847,7 +14037,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/H/H/DomeinA/A1/1b",
@@ -13856,7 +14051,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/H/H/DomeinA/A2/2",
@@ -13865,7 +14065,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "THT/H/H/DomeinB/3",
@@ -13874,7 +14079,12 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinA/A1/1a",
@@ -29924,8 +30134,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"description": "",
-		"ce": 1,
-		"se": 0,
+		"ce": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0,
 		"replaces": [
@@ -29940,8 +30150,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"description": "",
-		"ce": 1,
-		"se": 0,
+		"ce": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0,
 		"replaces": [
@@ -29956,8 +30166,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"description": "",
-		"ce": 1,
-		"se": 0,
+		"ce": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0,
 		"replaces": [
@@ -29972,8 +30182,8 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"description": "",
-		"ce": 1,
-		"se": 0,
+		"ce": 0,
+		"se": 1,
 		"kern": 0,
 		"keuze": 0,
 		"replaces": [
@@ -30587,5 +30797,18 @@
 		"replaces": [
 			"98dd6f49-8dcd-47d1-b9e8-f0294943017d"
 		]
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "3ce8f6c9-0650-4675-9240-bef5cebdbb67",
+		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, met gebruikmaking van kennis van en inzicht in de geschiedenis van de beeldende kunst vanaf het Romaans, voor zover relevant voor de kunst van de 19e, 20e en 21e eeuw. ",
+		"description": "",
+		"prefix": "THT/TV/H/DomeinA/A1/1b",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	}
 ]
