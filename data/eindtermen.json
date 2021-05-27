@@ -12031,7 +12031,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinA/1b",
@@ -12040,7 +12045,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinA/1c",
@@ -12049,7 +12059,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinA/1d",
@@ -12058,7 +12073,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinB/B1/2",
@@ -12067,7 +12087,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinB/B2/3",
@@ -12076,7 +12101,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinB/B3/4",
@@ -12085,7 +12115,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinB/B4/5",
@@ -12094,7 +12129,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinB/B5/6",
@@ -12103,7 +12143,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinB/B6/7",
@@ -12112,7 +12157,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8a",
@@ -12121,43 +12171,68 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8b",
 		"id": "1bc47227-09c8-4443-8b2b-9b724a028dc7",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de hofcultuur in de zestiende en zeventiende eeuw;",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de hofcultuur in de zestiende en zeventiende eeuw.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8c",
 		"id": "b35b5d55-2c50-4b73-97ca-8856336afb60",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de burgerlijke cultuur van Nederland in de zeventiende eeuw;",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de burgerlijke cultuur van Nederland in de zeventiende eeuw.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8d",
 		"id": "f5fcbe9e-6be6-4576-ba46-dc45393208e4",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van Romantiek en realisme in de negentiende eeuw;",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van Romantiek en realisme in de negentiende eeuw.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8e",
 		"id": "50cafcdc-3a75-4b10-86e9-c3f0bdd7202b",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van het moderne in de eerste helft van de twintigste eeuw;",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van het moderne in de eerste helft van de twintigste eeuw.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8f",
@@ -12166,7 +12241,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "KUA/H/DomeinA/1a",
@@ -30806,6 +30886,19 @@
 		"title": "De kandidaat kan het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, met gebruikmaking van kennis van en inzicht in de geschiedenis van de beeldende kunst vanaf het Romaans, voor zover relevant voor de kunst van de 19e, 20e en 21e eeuw. ",
 		"description": "",
 		"prefix": "THT/TV/H/DomeinA/A1/1b",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "aecb0c67-0def-4b81-897a-3b829d5109cd",
+		"prefix": "KUA/V/DomeinB/B3/4",
+		"title": "De kandidaat kan aangeven welke invloed opdrachtgevers en politieke ideeën hebben op de rol en de inhoud van kunst en op de positie van de kunstenaar. \n",
+		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
