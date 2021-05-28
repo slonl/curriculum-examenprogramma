@@ -4268,7 +4268,10 @@
 		"prefix": "KUA/V/DomeinB/B3",
 		"id": "a58ad31f-37fc-405a-afee-3f0b57eb4c13",
 		"title": "Subdomein B3: Kunstenaar en opdrachtgever; politieke en economische macht",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"aecb0c67-0def-4b81-897a-3b829d5109cd"
+		]
 	},
 	{
 		"prefix": "KUA/V/DomeinB/B4",
