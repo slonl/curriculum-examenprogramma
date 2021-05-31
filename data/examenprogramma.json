@@ -557,7 +557,12 @@
 			"2a72f2d4-11b7-4ecd-8b42-d2c73e210dd7",
 			"4ac5a650-7de1-493b-9dfa-b07250b383ae"
 		],
-		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2019/f=/examenprogramma_management_en_organisatie_vwo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2019/f=/examenprogramma_management_en_organisatie_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "MO/havo",
@@ -580,7 +585,12 @@
 			"6553e67a-39a1-4460-8d40-9ce90c279f5b",
 			"ebe3c114-2831-4174-a6fb-784a3e5c70ab"
 		],
-		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-havo-2/2019/f=/meno_havo.pdf"
+		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-havo-2/2019/f=/meno_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"prefix": "MAW/havo",
