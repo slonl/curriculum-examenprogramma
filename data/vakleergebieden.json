@@ -87,8 +87,9 @@
 		"id": "999510a3-f8ee-445b-a1e2-807ee9b2ccac",
 		"title": "Muziek",
 		"vakleergebied_id": [
-			"aa9da88c-189f-4857-b067-7cbdc929c905"
-		]
+			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "851fb2e0-b42a-4291-9ff4-669987b35d8e",
@@ -356,7 +357,10 @@
 		"title": "Arabisch",
 		"id": "605f1968-9065-42a4-9b2b-83214684aea6",
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_vakleergebied"
+		]
 	},
 	{
 		"id": "64ab97f4-9bd1-4a03-8045-3d84626a0ea8",
