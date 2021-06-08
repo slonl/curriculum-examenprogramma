@@ -880,7 +880,7 @@
 		"id": "fd4b7c27-0ca8-4e46-a613-90f24509a4a3",
 		"title": "Examenprogramma kunst (muziek) havo",
 		"examenprogramma_vakleergebied_id": [
-			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
+			"b89256f2-ccb0-4a0f-a870-dea8d63d40d4"
 		],
 		"examenprogramma_domein_id": [
 			"efc5b46e-9b9d-441e-b5b5-5f0429387a14",
@@ -897,7 +897,8 @@
 		"versie": "2020",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "KUDR/vwo",
