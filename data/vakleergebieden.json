@@ -153,8 +153,9 @@
 		"id": "0be557c4-ea18-43a4-800b-a2fb7e6e0f49",
 		"title": "Kunstvakken: Culturele Kunstzinnige Vorming",
 		"vakleergebied_id": [
-			"a70b035e-2c79-4b7d-81de-03678354cdc1"
-		]
+			"29a8bd9f-2963-4070-84d8-c06075ca0ae1"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "b89256f2-ccb0-4a0f-a870-dea8d63d40d4",
