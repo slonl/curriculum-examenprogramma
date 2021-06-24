@@ -30908,26 +30908,324 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "43d18a0c-46e1-4394-a0d5-1428a6f8b4ef",
-		"prefix": "MVT/TU/V/DomeinE/E2/8",
-		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.",
-		"description": "",
-		"ce": 0,
-		"se": 1,
-		"kern": 0,
-		"keuze": 0
+		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
+		"id": "9f261803-ef94-45c5-a6b5-1f75618eeb80",
+		"unreleased": true
 	},
 	{
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"id": "d1e1542f-1a1b-4c4d-b624-a579820938f5",
-		"prefix": "MVT/IT/V/DomeinE/E3/9",
-		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief.",
-		"description": "",
-		"ce": 0,
-		"se": 1,
-		"kern": 0,
-		"keuze": 0
+		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
+		"id": "bfd424aa-4513-4b88-a502-8e50c38427b9",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
+		"id": "7658b4d2-d063-4e83-adf1-ec873f35de9b",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
+		"id": "bf60e143-36f9-4643-9014-9b683492f5b2",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
+		"id": "de5807df-559e-4647-9293-4231b35587af",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
+		"id": "4533353c-20d8-4c83-9d8c-70b18d005774",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
+		"id": "f60b95e1-61a5-4290-a3a8-cf60255bad62",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan informatie vragen en verstrekken.",
+		"id": "e182f872-9163-46d8-9da6-bdc4464520bf",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
+		"id": "f5543e01-8def-4878-b514-272383f56d9a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
+		"id": "315e8ba1-0007-49bb-b6a1-08c1a03a8a2a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
+		"id": "328ae8f2-956f-4012-bfa8-dedf1ce44cc3",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
+		"id": "2a57166d-c5b1-4cdb-a542-7ea45dd87451",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
+		"id": "fc028ba9-044d-4777-bc6c-cca0cbf10332",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan informatie vragen en verstrekken.",
+		"id": "dacaf3ff-7bb4-4df0-aae6-a93a5c68d2e4",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandiaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
+		"id": "81e0bb9e-faa4-4e07-bca8-9dc7110cc8c7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan een verslag schrijven.",
+		"id": "be3864be-a801-4aad-bf75-40ecb770611a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
+		"id": "778112a9-b015-4175-b29e-1e859b7abebd",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
+		"id": "410f4098-a398-4a74-ab84-91994ca0d7cb",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
+		"id": "d92da543-c158-420d-bfe7-54b155b6a996",
+		"unreleased": true
+	},
+	{
+		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippenhanteren in de interpretatie van literaire teksten.",
+		"id": "6f003244-ab2b-4a85-a681-f372e21e7e86",
+		"unreleased": true
+	},
+	{
+		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief",
+		"id": "5d0b1875-f2f1-4ce4-a9af-030503e71b60",
+		"unreleased": true
+	},
+	{
+		"title": "n.v.t.",
+		"id": "1c9896ac-0b71-41c4-b7f7-09b351ac845f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
+		"id": "26736366-44e3-4b60-b913-53fa2f006e8d",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
+		"id": "ac4f1ca1-f1ae-4854-8ab6-8fd0fdddac7a",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
+		"id": "ab61c17f-47b5-48a6-bbe8-fac4b83d62be",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
+		"id": "eb56090f-a98f-4c65-b237-ac93f337cd0f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
+		"id": "0c0b301a-1fc7-459a-ae49-5117c4c185d5",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
+		"id": "d1de2a06-702f-4c6b-8d90-0d6b33404e19",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
+		"id": "b64b9682-aa62-435d-b86a-97c3df857371",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan informatie vragen en verstrekken.",
+		"id": "8f4a75f5-b3c1-4d5d-b5c0-259242c2c0ee",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
+		"id": "f1807704-5025-4b42-bc3f-9e98f56bc720",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
+		"id": "209b0328-fbe7-4cf5-a918-9ea9cd1967ba",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
+		"id": "4e54f734-f8c5-4a72-bb58-c41b5c7b61c7",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
+		"id": "63195b56-8267-4469-adad-5289d3ce1189",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
+		"id": "eb76fc30-1e13-48c5-8d49-0c33c2843897",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan informatie vragen en verstrekken.",
+		"id": "06202aa7-f99b-49cc-b62a-d750a9fcdac8",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandiaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
+		"id": "ced84dff-4321-4996-8035-34c95e327770",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan een verslag schrijven.",
+		"id": "a26477e8-1971-4014-824a-d1ddb2828fc6",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
+		"id": "9d640c14-4dee-4e32-aa67-3dd3dd4bdf0f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
+		"id": "8236d89d-6b6a-4aa7-985c-5d36bc33e74f",
+		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
+		"id": "0d0a113f-3c41-41c3-a647-3b4f48c33328",
+		"unreleased": true
+	},
+	{
+		"title": "n.v.t.",
+		"id": "23c5cd78-444f-4b12-be00-8615bcf7c8d9",
+		"unreleased": true
 	}
 ]
