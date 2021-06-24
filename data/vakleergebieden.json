@@ -400,5 +400,13 @@
 		"vakleergebied_id": [
 			"73abc618-988a-4409-b2ae-ff16febf68ee"
 		]
+	},
+	{
+		"vakleergebied_id": [
+			"d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7"
+		],
+		"title": "Italiaans",
+		"id": "a83f740a-5cf6-4d3d-b19b-65af5cb79c3c",
+		"unreleased": true
 	}
 ]
