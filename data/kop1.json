@@ -2233,5 +2233,21 @@
 		"title": "Het schoolexamen",
 		"id": "0a64d2a1-1fec-460e-93d3-d646ef9b80bf",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_kop2_id": [
+			"90eaeab2-8ad7-4713-95bd-e32bfb51c2c5"
+		],
+		"title": "Het eindexamen bestaat uit het schoolexamen.",
+		"id": "ba5ae86d-da66-401a-92c5-ea9ec17b0d64",
+		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"65d271bd-1d0c-45ee-92a5-feba5f28f07b"
+		],
+		"title": "Het schoolexamen",
+		"id": "3c679f73-85c2-4481-8024-a9d21d36395d",
+		"unreleased": true
 	}
 ]
