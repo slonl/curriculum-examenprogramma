@@ -1066,5 +1066,17 @@
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"id": "90eaeab2-8ad7-4713-95bd-e32bfb51c2c5",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_body_id": [
+			"9dc75ae4-a698-4f6a-8153-996e2293cd95",
+			"d7859010-a731-4156-887f-6ce2c17617d4",
+			"7c961708-3675-4a47-ba8c-3872083f7fb1",
+			"2b5ea0d6-7ef7-49d8-afe2-9319e110bab1",
+			"2bb0eebd-d5b0-4a66-a228-03aaab582399"
+		],
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"id": "63d8db8a-ebd0-41d0-9ba3-f4f7f43d43dd",
+		"unreleased": true
 	}
 ]
