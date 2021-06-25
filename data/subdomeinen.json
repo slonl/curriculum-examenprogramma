@@ -9311,5 +9311,76 @@
 		"id": "a4bf74be-ce8f-467d-bb27-977e8ad6ec46",
 		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinE/E1"
+	},
+	{
+		"prefix": "MVT/IT/V/DomeinC/C1",
+		"examenprogramma_eindterm_id": [
+			"812d9586-01be-4b7d-9382-e2b2d39f8526",
+			"505223bc-80d4-46da-9fd7-6dc964c4db21",
+			"5ea9af47-156f-44ec-bcd6-219553a21e50",
+			"8149db05-a31c-4d04-b30e-3e78d6760817",
+			"0baecf6a-e5e1-448f-ad89-5253c6cd0b3f"
+		],
+		"title": "Subdomein C1: Gesprekken voeren",
+		"id": "4e074a8b-bdb5-434a-8edc-07869711f4fb",
+		"unreleased": true
+	},
+	{
+		"prefix": "MVT/IT/V/DomeinC/C2",
+		"examenprogramma_eindterm_id": [
+			"cb9cea3a-868e-4298-94a8-f5881ed3e79f"
+		],
+		"title": "Subdomein C2: Spreken",
+		"id": "38566270-d24c-4926-917d-95bef2b2eee1",
+		"unreleased": true
+	},
+	{
+		"prefix": "MVT/IT/V/DomeinD/D1",
+		"examenprogramma_eindterm_id": [
+			"da03788b-2753-4343-b07b-d7302b6df6e6",
+			"ea3f2a23-7800-4df9-ad75-0e6c741fef2f",
+			"9097dd8b-2a23-4a31-9535-1b10fff3a5de",
+			"bbc63493-0433-48cf-8d6e-5d3a3ad4afe8"
+		],
+		"title": "Subdomein D1: Taalvaardigheden",
+		"id": "6fe5cca0-712e-4107-b4c9-3a3dc378135b",
+		"unreleased": true
+	},
+	{
+		"prefix": "MVT/IT/V/DomeinD/D2",
+		"examenprogramma_eindterm_id": [
+			"fdb73d14-cc7d-40ef-8c03-535df0e5284a",
+			"eec37fe0-9524-49e0-b776-067bf67bc160"
+		],
+		"title": "Subdomein D2: Strategische vaardigheden",
+		"id": "2682c6c1-4a16-420c-b454-a0f7cdf1531d",
+		"unreleased": true
+	},
+	{
+		"prefix": "MVT/IT/V/DomeinE/E1",
+		"examenprogramma_eindterm_id": [
+			"4f9efe98-1258-434b-bfb4-16ecb0a45fff"
+		],
+		"title": "Subdomein E1: Literaire ontwikkeling",
+		"id": "b5a42441-48f3-4e85-9e95-bf4b540e96da",
+		"unreleased": true
+	},
+	{
+		"prefix": "MVT/IT/V/DomeinE/E2",
+		"examenprogramma_eindterm_id": [
+			"2bc95a36-5481-4396-8328-dcc143ec6576"
+		],
+		"title": "Subdomein E2: Literaire begrippen",
+		"id": "66f87a20-0305-4c5e-aed9-d2a9fa95040a",
+		"unreleased": true
+	},
+	{
+		"prefix": "MVT/IT/V/DomeinE/E3",
+		"examenprogramma_eindterm_id": [
+			"1d33a3f2-1ed0-486b-a106-fee9dd44f1ec"
+		],
+		"title": "Subdomein E3: Literatuurgeschiedenis",
+		"id": "3dec2da9-0873-445b-b00e-17ea4e964296",
+		"unreleased": true
 	}
 ]
