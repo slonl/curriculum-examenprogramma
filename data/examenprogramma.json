@@ -2953,5 +2953,24 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": ""
+	},
+	{
+		"examenprogramma_domein_id": [
+			"829f7bcc-a082-4121-9b63-4b0041056181",
+			"cf6551bb-6605-421e-aeff-f6520f74f04b",
+			"16aa1581-0b24-4d91-9374-4179e7f4479b",
+			"282aff49-57d1-4e40-83ac-5d4858c44324",
+			"2296b252-410c-4344-8484-ec543b46570d"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
+		],
+		"examenprogramma_kop1_id": [
+			"7da9dfd2-68d4-41fd-b643-9e948c9c862f",
+			"565e3318-3520-499b-8bac-5ea6895d0df9"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans havo",
+		"id": "4271e75e-53f5-4a60-932e-9f7719b0971b",
+		"unreleased": true
 	}
 ]
