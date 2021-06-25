@@ -2948,25 +2948,10 @@
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans vwo",
 		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
-		"unreleased": true
-	},
-	{
-		"examenprogramma_domein_id": [
-			"d514bdab-d385-4139-87c3-bb5199519aa4",
-			"354feee8-035c-4ef0-be0d-e2c747266e14",
-			"33cd8299-282b-4784-ae67-5aea31761b76",
-			"6e3f8fce-f6df-497a-8641-bb5760b9b09d",
-			"be964538-fbbd-4eed-a8f1-fb21094cc0c8"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
-		],
-		"examenprogramma_kop1_id": [
-			"ba5ae86d-da66-401a-92c5-ea9ec17b0d64",
-			"3c679f73-85c2-4481-8024-a9d21d36395d"
-		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans havo",
-		"id": "c97be608-3a19-48a4-8d65-562a29dba21a",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/V",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	}
 ]
