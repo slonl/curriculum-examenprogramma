@@ -2933,7 +2933,11 @@
 	},
 	{
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans vwo",
-		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd"
+		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
+		"url": "",
+		"ingangsdatum": "",
+		"versie": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_domein_id": [
