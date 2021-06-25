@@ -15334,7 +15334,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/2/2",
@@ -15346,7 +15351,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/3/3a",
@@ -15358,7 +15368,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/3/3b",
@@ -15370,7 +15385,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/4/4",
@@ -15379,7 +15399,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/4/5",
@@ -15390,7 +15415,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/5/6",
@@ -15399,7 +15429,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/5/7",
@@ -15410,7 +15445,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/6/8",
@@ -15419,7 +15459,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/6/9",
@@ -15430,7 +15475,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; Se"
+		"ce_se": "CE; Se",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/7/10",
@@ -15439,7 +15489,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/7/11",
@@ -15450,7 +15505,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; Se"
+		"ce_se": "CE; Se",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/8/12",
@@ -15459,7 +15519,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/8/13",
@@ -15470,7 +15535,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; Se"
+		"ce_se": "CE; Se",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/9/14",
@@ -15479,7 +15549,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/9/15",
@@ -15490,7 +15565,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; Se"
+		"ce_se": "CE; Se",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/10/16",
@@ -15499,7 +15579,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/10/17",
@@ -15510,7 +15595,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/11/18",
@@ -15519,7 +15609,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/K/11/19",
@@ -15530,7 +15625,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/1/20",
@@ -15540,7 +15640,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/2/21",
@@ -15550,7 +15655,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/3/22",
@@ -15560,7 +15670,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/4/23",
@@ -15570,7 +15685,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/5/24",
@@ -15590,7 +15710,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/7/26",
@@ -15600,7 +15725,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/8/27",
@@ -15610,7 +15740,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/9/28a",
@@ -15620,7 +15755,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/9/28b",
@@ -15630,7 +15770,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/1a",
@@ -16613,7 +16758,7 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "MVT/FA/K/1/1",
+		"prefix": "FA/K/1/1",
 		"id": "7ef73a0f-b6bf-4584-bdc7-612b2e804c87",
 		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
 		"niveau_id": [
@@ -16622,22 +16767,32 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/2/2",
+		"prefix": "FA/K/2/2",
 		"id": "bff302eb-2720-4ace-85b3-b41d00251b06",
-		"title": "De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken en informatie verwerven, verwerken en presenteren",
+		"title": "De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken en informatie verwerven, verwerken en presenteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/3/3a",
+		"prefix": "FA/K/3/3a",
 		"id": "ac3d2f70-bdbc-4703-906b-c73de2bd0d3b",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek- en gespreksdoelen.",
 		"niveau_id": [
@@ -16646,10 +16801,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/3/3b",
+		"prefix": "FA/K/3/3b",
 		"id": "6608b314-0d2b-402f-b266-96b50d614abf",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de bevordering van het eigen taalleerproces.",
 		"niveau_id": [
@@ -16658,10 +16818,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/3/3c",
+		"prefix": "FA/K/3/3c",
 		"id": "79f5f7fc-5bd9-47de-9566-50e067f098a3",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.",
 		"niveau_id": [
@@ -16670,10 +16835,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/3/3d",
+		"prefix": "FA/K/3/3d",
 		"id": "d1302bc0-6ea0-454b-9f5b-4125a48e717f",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen.",
 		"niveau_id": [
@@ -16682,10 +16852,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/4/4a",
+		"prefix": "FA/K/4/4a",
 		"id": "cebbd831-9a7e-4fea-b33d-1b5e435354ca",
 		"title": "De kandidaat kan aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte.",
 		"niveau_id": [
@@ -16694,10 +16869,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/4/4b",
+		"prefix": "FA/K/4/4b",
 		"id": "daec5f17-e3f9-483d-b106-dfcf2590299d",
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
 		"niveau_id": [
@@ -16706,10 +16886,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/4/4a",
+		"prefix": "FA/K/4/4c",
 		"id": "3f63c22e-b3a5-4872-9f44-c180ccdeb1d6",
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"niveau_id": [
@@ -16718,10 +16903,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/4/4a",
+		"prefix": "FA/K/4/4d",
 		"id": "312775aa-06d7-4798-a907-5adcd3a77dc6",
 		"title": "De kandidaat kan gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
 		"niveau_id": [
@@ -16730,10 +16920,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/4/4a",
+		"prefix": "FA/K/4/4e",
 		"id": "e72ea436-50c7-4cec-87fa-576be10543bc",
 		"title": "De kandidaat kan verbanden tussen delen van een tekst aangeven.",
 		"niveau_id": [
@@ -16742,10 +16937,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/5/5a",
+		"prefix": "FA/K/5/5a",
 		"id": "417492ce-e18e-4247-91a1-fb7a7c5e187a",
 		"title": "De kandidaat kan aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte.",
 		"niveau_id": [
@@ -16754,10 +16954,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/5/5b",
+		"prefix": "FA/K/5/5b",
 		"id": "25cc3c0b-53ad-4b51-96f4-b152e71e4dea",
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
 		"niveau_id": [
@@ -16766,10 +16971,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/5/5c",
+		"prefix": "FA/K/5/5c",
 		"id": "d0c13f23-eb7b-4cdb-b8c5-e000c7e8a316",
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"niveau_id": [
@@ -16778,10 +16988,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/5/5d",
+		"prefix": "FA/K/5/5d",
 		"id": "ebe20653-8ce8-4195-ba8e-bade6cc2fa4b",
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
 		"niveau_id": [
@@ -16790,10 +17005,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/6/6a",
+		"prefix": "FA/K/6/6a",
 		"id": "e6c8f977-001c-4134-b11b-a3ea6da88e06",
 		"title": "De kandidaat kan adequaat reageren in veel voorkomende sociale contacten, zoals begroeten.",
 		"niveau_id": [
@@ -16802,10 +17022,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/6/6b",
+		"prefix": "FA/K/6/6b",
 		"id": "c53be656-fd13-4918-b63c-303f321d1b79",
 		"title": "De kandidaat kan informatie geven en vragen.",
 		"niveau_id": [
@@ -16814,10 +17039,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/6/6c",
+		"prefix": "FA/K/6/6c",
 		"id": "d03db5f9-f3c8-488e-90f7-17d4593f41b5",
 		"title": "De kandidaat kan naar een mening/oordeel vragen en een mening/oordeel geven.",
 		"niveau_id": [
@@ -16826,10 +17056,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/6/6d",
+		"prefix": "FA/K/6/6d",
 		"id": "7bcc4827-01a5-4a7e-85f5-8d9a0520b73a",
 		"title": "De kandidaat kan uitdrukking geven aan en vragen naar (persoonlijke) gevoelens.",
 		"niveau_id": [
@@ -16838,22 +17073,32 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/6/6e",
+		"prefix": "FA/K/6/6e",
 		"id": "d861634b-82fb-404c-b9ad-a1d85b208555",
-		"title": "een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven",
+		"title": "De kandidaat kan een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/7/7a",
+		"prefix": "FA/K/7/7a",
 		"id": "e157bddc-9087-44d0-aacf-e85fba7baf16",
 		"title": "De kandidaat kan (persoonlijke) gegevens verstrekken.",
 		"niveau_id": [
@@ -16862,10 +17107,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/7/7b",
+		"prefix": "FA/K/7/7b",
 		"id": "e51be92d-10dc-4a31-a8d9-0e806d39887b",
 		"title": "De kandidaat kan een kort bedankje, groet of goede wensen schriftelijk overbrengen.",
 		"niveau_id": [
@@ -16874,10 +17124,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/7/7c",
+		"prefix": "FA/K/7/7c",
 		"id": "0dd59c96-6444-4582-8ce5-1c417d75dfc6",
 		"title": "De kandidaat kan een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen.",
 		"niveau_id": [
@@ -16886,10 +17141,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/K/7/7d",
+		"prefix": "FA/K/7/7d",
 		"id": "69324764-bad1-48ba-b490-1aaf5acf64f7",
 		"title": "De kandidaat kan op eenvoudig niveau briefconventies gebruiken.",
 		"niveau_id": [
@@ -16898,57 +17158,87 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/V/1/8a",
+		"prefix": "FA/V/1/8a",
 		"id": "457a195b-fb2f-42dd-ab9b-0c853aa33d37",
 		"title": "De kandidaat kan het gebruik van speciale stijlmiddelen herkennen.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/V/1/8b",
+		"prefix": "FA/V/1/8b",
 		"id": "72bb7bac-817e-431d-847c-f66b1ef7161b",
 		"title": "De kandidaat kan conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/V/3/10",
+		"prefix": "FA/V/3/10",
 		"id": "11711591-feff-46d9-a6ae-19b645b0cb72",
 		"title": "De kandidaat kan kennis van land en samenleving rond bepaalde onderwerpen toepassen bij het herkennen en interpreteren van cultuuruitingen die specifiek zijn voor het taalgebied of daarmee in directe relatie staan.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/V/4/11",
+		"prefix": "FA/V/4/11",
 		"id": "75e5e0fc-acdb-4703-be10-6d7cc6aec475",
 		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/FA/V/5/12",
+		"prefix": "FA/V/5/12",
 		"id": "2b09ff88-9844-425f-9358-5d46cb7309d0",
 		"title": "De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "FI/V/DomeinA/A1/1a",
@@ -17440,31 +17730,41 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "MVT/EN/K/1/1",
+		"prefix": "EN/K/1/1",
 		"id": "d5cd7fd1-5e94-429d-9751-8fa92e9c0212",
-		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij",
+		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van de Moderne Vreemde talen in de maatschappij.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/2/2",
+		"prefix": "EN/K/2/2",
 		"id": "c9fb02f5-d59c-4127-a2cb-6d73dbe7601f",
-		"title": "De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken en informatie verwerven, verwerken en presenteren",
+		"title": "De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken en informatie verwerven, verwerken en presenteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/3/3a",
+		"prefix": "EN/K/3/3a",
 		"id": "aa7b74ea-03f8-4616-b54c-fe7bc6b7b801",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek- en gespreksdoelen.",
 		"niveau_id": [
@@ -17473,10 +17773,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/3/3b",
+		"prefix": "EN/K/3/3b",
 		"id": "7ab396e4-21ff-405d-a6ef-36700cc51362",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de bevordering van het eigen taalleerproces.",
 		"niveau_id": [
@@ -17485,10 +17790,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/3/3c",
+		"prefix": "EN/K/3/3c",
 		"id": "a0848885-f145-4e8b-9484-eacd26eaa35b",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.",
 		"niveau_id": [
@@ -17497,10 +17807,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/3/3d",
+		"prefix": "EN/K/3/3d",
 		"id": "166cd37d-2717-434b-98eb-4c7904a1d2e6",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot kennis van land en samenleving toepassen bij het herkennen van cultuuruitingen.",
 		"niveau_id": [
@@ -17509,10 +17824,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/4/4a",
+		"prefix": "EN/K/4/4a",
 		"id": "45787fe7-ebf6-47df-92ae-838524e2cba5",
 		"title": "De kandidaat kan aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte.",
 		"niveau_id": [
@@ -17521,10 +17841,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/4/4b",
+		"prefix": "EN/K/4/4b",
 		"id": "4224fdd9-669b-4c1a-9e4a-d6d0998e1294",
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
 		"niveau_id": [
@@ -17533,10 +17858,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/4/4c",
+		"prefix": "EN/K/4/4c",
 		"id": "7e3dff9c-6051-49a4-95c2-003aa4babddd",
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"niveau_id": [
@@ -17545,10 +17875,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/4/4d",
+		"prefix": "EN/K/4/4d",
 		"id": "e92b0f13-d937-4be1-855b-6e45007b690c",
 		"title": "De kandidaat kan gegevens uit één of meer teksten met elkaar vergelijken en daaruit conclusies trekken.",
 		"niveau_id": [
@@ -17557,10 +17892,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/4/4e",
+		"prefix": "EN/K/4/4e",
 		"id": "2df4054f-871e-4c70-8995-f65e3d00039d",
 		"title": "De kandidaat kan verbanden tussen delen van een tekst aangeven.",
 		"niveau_id": [
@@ -17569,10 +17909,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/5/5a",
+		"prefix": "EN/K/5/5a",
 		"id": "39bbb7b9-d763-4aec-b515-418ceef16527",
 		"title": "De kandidaat kan aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte.",
 		"niveau_id": [
@@ -17581,10 +17926,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE; CE"
+		"ce_se": "SE; CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/5/5b",
+		"prefix": "EN/K/5/5b",
 		"id": "4c978a7e-72d5-43a5-82ac-ef8a1f1eaec3",
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
 		"niveau_id": [
@@ -17593,10 +17943,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE; CE"
+		"ce_se": "SE; CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/5/5c",
+		"prefix": "EN/K/5/5c",
 		"id": "f906417b-960d-44e8-b2be-033f3f379681",
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"niveau_id": [
@@ -17605,10 +17960,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE; CE"
+		"ce_se": "SE; CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/5/5d",
+		"prefix": "EN/K/5/5d",
 		"id": "a54a5267-f511-4118-ba4f-c6b0f16c22ec",
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
 		"niveau_id": [
@@ -17617,10 +17977,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE; CE"
+		"ce_se": "SE; CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/6/6a",
+		"prefix": "EN/K/6/6a",
 		"id": "9b138cbf-f8e0-48fc-9287-40a9f31762e3",
 		"title": "De kandidaat kan adequaat reageren in veel voorkomende sociale contacten, zoals begroeten.",
 		"niveau_id": [
@@ -17629,10 +17994,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/6/6b",
+		"prefix": "EN/K/6/6b",
 		"id": "afd64d33-5d50-4e27-94be-abd81b734701",
 		"title": "De kandidaat kan informatie geven en vragen.",
 		"niveau_id": [
@@ -17641,10 +18011,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/6/6c",
+		"prefix": "EN/K/6/6c",
 		"id": "71e39302-3e2d-4c96-9258-11b984296dcc",
 		"title": "De kandidaat kan naar een mening/oordeel vragen en een mening/oordeel geven.",
 		"niveau_id": [
@@ -17653,10 +18028,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/6/6d",
+		"prefix": "EN/K/6/6d",
 		"id": "a15caa0d-8652-4361-b6a7-55c36e933e22",
 		"title": "De kandidaat kan uitdrukking geven aan en vragen naar (persoonlijke) gevoelens.",
 		"niveau_id": [
@@ -17665,10 +18045,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/6/6e",
+		"prefix": "EN/K/6/6e",
 		"id": "a8fe4c8e-b582-46f8-8225-9c3c5330f0ed",
 		"title": "De kandidaat kan een persoon, object of gebeurtenis, ook uit het verleden en in de toekomst, beschrijven.",
 		"niveau_id": [
@@ -17677,10 +18062,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/7/7a",
+		"prefix": "EN/K/7/7a",
 		"id": "eef6786e-2087-467b-9126-ad8f2d260b98",
 		"title": "De kandidaat kan (persoonlijke) gegevens verstrekken.",
 		"niveau_id": [
@@ -17689,10 +18079,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/7/7b",
+		"prefix": "EN/K/7/7b",
 		"id": "9ba8e776-b888-4d8a-a651-8f8cbbd0edb0",
 		"title": "De kandidaat kan een kort bedankje, groet of goede wensen schriftelijk overbrengen.",
 		"niveau_id": [
@@ -17701,10 +18096,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/7/7c",
+		"prefix": "EN/K/7/7c",
 		"id": "694b5bc5-d50d-4b54-bc93-1cec693d8263",
 		"title": "De kandidaat kan een briefje schrijven om informatie te vragen of te geven, om verzoeken of voorstellen te doen of daarop te reageren, om gevoelens te uiten en ernaar te vragen.",
 		"niveau_id": [
@@ -17713,10 +18113,15 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/K/7/7d",
+		"prefix": "EN/K/7/7d",
 		"id": "cc1b374b-7442-4c82-b039-ccd966bbd7e4",
 		"title": "De kandidaat kan op eenvoudig niveau briefconventies gebruiken.",
 		"niveau_id": [
@@ -17725,57 +18130,87 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/V/1/8a",
+		"prefix": "EN/V/1/8a",
 		"id": "21e52bc6-ddc7-4f3a-963f-8c5eabb6bef2",
 		"title": "De kandidaat kan het gebruik van speciale stijlmiddelen herkennen.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/V/1/8b",
+		"prefix": "EN/V/1/8b",
 		"id": "5638ee1b-1055-402a-b137-3a35344acac7",
 		"title": "De kandidaat kan conclusies trekken met betrekking tot het schrijfdoel, de opvattingen, de gevoelens van de auteur en tot het beoogde publiek.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/V/3/9",
+		"prefix": "EN/V/3/9",
 		"id": "24f994b7-f1d3-4730-aba1-f5877dc6a249",
 		"title": "De kandidaat kan kennis van land en samenleving rond bepaalde onderwerpen toepassen bij het herkennen en interpreteren van cultuuruitingen die specifiek zijn voor het taalgebied of daarmee in directe relatie staan.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/V/4/10",
+		"prefix": "EN/V/4/10",
 		"id": "b3d636d4-94f8-456b-bb2b-3190dc3a0e74",
 		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
-		"prefix": "MVT/EN/V/5/11",
+		"prefix": "EN/V/5/11",
 		"id": "76f4d005-c03b-40fd-bc2b-34cd94b50fa5",
 		"title": "De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "EC/K/1/1",
@@ -30936,7 +31371,13 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "8b71cb44-ef98-47b2-a7b9-0e05d161865f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinB/2a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -30944,7 +31385,13 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
 		"id": "8a90951f-bd88-401e-a69b-1592a7013b5f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinB/2b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -30952,7 +31399,13 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "808b320d-bd99-488c-a5fe-4e932374180e",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinB/2c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -30960,7 +31413,13 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
 		"id": "1cd13413-3853-4c81-b626-1ca946670f8b",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinB/2d",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -30968,7 +31427,13 @@
 		],
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
 		"id": "70514b9a-5d7f-48bf-9d83-148bbc9b059e",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinB/2e",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -30976,7 +31441,13 @@
 		],
 		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
 		"id": "65b60a0e-847c-40d2-ac27-724a1d63bf16",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinB/2f",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -30984,7 +31455,13 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
 		"id": "48700c3e-4b8e-46c8-865e-6795206f02cd",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinC/C1/3a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -30992,7 +31469,13 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "3da39bc6-7b2a-4136-8384-1db157d1bd2c",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinC/C1/3b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31000,7 +31483,13 @@
 		],
 		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
 		"id": "762bf426-3cf5-4094-a762-06e1ee026002",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinC/C1/3c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31008,7 +31497,13 @@
 		],
 		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "7525e359-ad26-4a0d-a61c-ef27189ba4a6",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinC/C1/3d",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31016,7 +31511,13 @@
 		],
 		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
 		"id": "c1099b61-523d-426e-a3a3-5abef1b699a8",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinC/C1/3e",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31024,7 +31525,13 @@
 		],
 		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "3d56ce0f-cff6-46b4-8968-2b9f7ca82a15",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinC/C2/4",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31032,7 +31539,13 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
 		"id": "6ab8ede5-f4ed-4eaa-a67d-fb9c0c7ce930",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinD/D1/5a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31040,15 +31553,27 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "08ab4728-e7b3-41eb-9280-788a6cbe7d57",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinD/D1/5b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"title": "De kandiaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
+		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
 		"id": "87b9ae1e-0561-44cb-b0ca-a1ad40becd46",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinD/D1/5c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31056,7 +31581,13 @@
 		],
 		"title": "De kandidaat kan een verslag schrijven.",
 		"id": "5b6d9d46-b6fc-465b-ab08-2768c4011c34",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinD/D1/5d",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31064,7 +31595,13 @@
 		],
 		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
 		"id": "c4715590-7768-428c-9468-ae76ca32489f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinD/D2/6a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31072,7 +31609,13 @@
 		],
 		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
 		"id": "61ea09d9-5222-4d6f-9368-ddff65a06aa2",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinD/D2/6b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -31080,7 +31623,13 @@
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
 		"id": "0c0928be-328b-4b61-94a1-8e7544422436",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/IT/H/DomeinE/E1/7",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"title": "n.v.t.",
