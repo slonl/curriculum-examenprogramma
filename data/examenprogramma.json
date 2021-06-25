@@ -2932,20 +2932,6 @@
 		]
 	},
 	{
-		"examenprogramma_domein_id": [
-			"2b0431f1-542d-4844-916a-27fd10ac92b1",
-			"e03c1fb5-775d-427a-b201-b076da123161",
-			"446a2fd7-d482-43ec-bf33-c58455ec0242",
-			"d6bb51b9-fed4-420d-827d-9b355d199296",
-			"ba7d76b8-481f-4a7c-9751-c24fbd0717ed"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
-		],
-		"examenprogramma_kop1_id": [
-			"698af32f-a2cb-4923-8832-95480b62666e",
-			"0a64d2a1-1fec-460e-93d3-d646ef9b80bf"
-		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans vwo",
 		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
 		"unreleased": true,
