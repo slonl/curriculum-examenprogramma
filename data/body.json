@@ -5020,5 +5020,35 @@
 		"title": "Het schoolexamen heeft betrekking op:\r\nde domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "65d271bd-1d0c-45ee-92a5-feba5f28f07b",
 		"unreleased": true
+	},
+	{
+		"title": "Domein B Kijk-en luistervaardigheid",
+		"id": "9dc75ae4-a698-4f6a-8153-996e2293cd95",
+		"unreleased": true
+	},
+	{
+		"title": "Domein C Gespreksvaardigheid",
+		"id": "d7859010-a731-4156-887f-6ce2c17617d4",
+		"unreleased": true
+	},
+	{
+		"title": "Domein D Schrijfvaardigheid",
+		"id": "7c961708-3675-4a47-ba8c-3872083f7fb1",
+		"unreleased": true
+	},
+	{
+		"title": "Domein E Literatuur",
+		"id": "2b5ea0d6-7ef7-49d8-afe2-9319e110bab1",
+		"unreleased": true
+	},
+	{
+		"title": "Domein F Oriëntatie op studie en beroep.",
+		"id": "2bb0eebd-d5b0-4a66-a228-03aaab582399",
+		"unreleased": true
+	},
+	{
+		"title": "Het schoolexamen heeft betrekking op:\r\nde domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"id": "763c2064-dbd9-4b70-88b9-9eb0fb9a8fbd",
+		"unreleased": true
 	}
 ]
