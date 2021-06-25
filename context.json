@@ -22,6 +22,7 @@
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
 				"ce_se": {"type":"string"},
+				"prefix": { "type": "string" },
 				"examenprogramma_eindterm_id": {
 					"allOf": [
 						{
@@ -41,6 +42,7 @@
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
 				"ce_se": {"type":"string"},
+				"prefix": { "type": "string" },
 				"examenprogramma_subdomein_id": {
 					"allOf": [
 						{
@@ -89,6 +91,7 @@
 				"ingangsdatum" : { "type" : "string" },
 				"url" : { "type" : "string" },
 				"versie" : { "type" : "string" },
+				"prefix": { "type": "string" },
 				"examenprogramma_domein_id": {
 					"allOf": [
 						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
