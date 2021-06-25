@@ -1488,7 +1488,7 @@
 	{
 		"prefix": "DU/vmbo",
 		"id": "2e58a2e2-3332-4cd4-a39d-9205f36a50db",
-		"title": "Examenprogramma duitse taal vmbo",
+		"title": "Examenprogramma Duitse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
 		],
@@ -2943,8 +2943,6 @@
 			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
 		],
 		"examenprogramma_kop1_id": [
-			"a4ae0a85-962d-4bd2-a16f-48c7ee649762",
-			"2ec9f331-4b77-4794-92bb-ae2cbfc93c67",
 			"698af32f-a2cb-4923-8832-95480b62666e",
 			"0a64d2a1-1fec-460e-93d3-d646ef9b80bf"
 		],
