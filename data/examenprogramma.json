@@ -1244,7 +1244,7 @@
 	},
 	{
 		"prefix": "GTC/vwo",
-		"title": "Examenprogramma griekse taal en cultuur ",
+		"title": "Examenprogramma Griekse taal en cultuur ",
 		"id": "aa932a9b-5996-449d-82bc-c0942bed68d2",
 		"examenprogramma_vakleergebied_id": [
 			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
@@ -3020,6 +3020,10 @@
 		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans vwo",
 		"id": "cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	}
 ]
