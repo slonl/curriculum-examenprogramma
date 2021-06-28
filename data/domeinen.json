@@ -8295,5 +8295,17 @@
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "0122ef1b-7674-4d0a-8a06-e934170f6e9a",
 		"unreleased": true
+	},
+	{
+		"id": "77043c42-2941-4ecf-9e83-b66258f36301",
+		"prefix": "MVT/IT/V/DomeinA",
+		"title": "Domein A: Leesvaardigheid",
+		"ce_se": "ce"
+	},
+	{
+		"id": "570352c8-86d8-4d8a-9270-052b71ee8f99",
+		"prefix": "MVT/IT/H/DomeinA",
+		"title": "Domein A: Leesvaardigheid",
+		"ce_se": "ce"
 	}
 ]
