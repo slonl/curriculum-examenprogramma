@@ -9394,7 +9394,8 @@
 		],
 		"title": "Subdomein C1: Gesprekken voeren",
 		"id": "c4145836-2382-43eb-842d-651f116890fc",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C1"
 	},
 	{
 		"ce_se": "SE",
@@ -9403,7 +9404,8 @@
 		],
 		"title": "Subdomein C2: Spreken",
 		"id": "b7b54562-cdf1-4ceb-8f16-25ae58c8b869",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C2"
 	},
 	{
 		"ce_se": "SE",
@@ -9415,7 +9417,8 @@
 		],
 		"title": "Subdomein D1: Taalvaardigheden",
 		"id": "2dd14125-3545-402c-81fb-6f89dc7697cb",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D1"
 	},
 	{
 		"ce_se": "SE",
@@ -9425,7 +9428,8 @@
 		],
 		"title": "Subdomein D2: Strategische vaardigheden",
 		"id": "154539f9-f130-4931-a460-faba69098c3f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D2"
 	},
 	{
 		"ce_se": "SE",
@@ -9434,6 +9438,7 @@
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling",
 		"id": "1eaa7521-eaad-4b2c-aa1a-5238ae620243",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinE/E1"
 	}
 ]
