@@ -2364,7 +2364,8 @@
 			"a62e3053-f2ab-40e1-8aa1-605751b69b9e",
 			"cab5fe00-4968-4f61-a92c-2275aa224f41",
 			"8a5d774b-b6c7-40d6-8215-b91ce328ecbb",
-			"3a2f40e0-b0f6-45f7-923a-547e88cf714d"
+			"3a2f40e0-b0f6-45f7-923a-547e88cf714d",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
 		"examenprogramma_vakleergebied_id": [
 			"df4f53f6-571b-44db-9167-27a5c4a7d59c"
@@ -2420,7 +2421,8 @@
 			"c97d84a2-c97d-4fc0-8360-e043b8d61fdf",
 			"abeca698-5363-4844-beb5-3343e97331f3",
 			"c80a5ea6-17fb-4660-9e3d-f56972f87730",
-			"6ee150eb-8970-404b-a0bc-13f0ad19e36d"
+			"6ee150eb-8970-404b-a0bc-13f0ad19e36d",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
 		"examenprogramma_vakleergebied_id": [
 			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
@@ -2504,7 +2506,8 @@
 			"a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9",
 			"bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf",
 			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
-			"7d2a47b8-11c1-408d-bbcf-22a86bee7710"
+			"7d2a47b8-11c1-408d-bbcf-22a86bee7710",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
 		"title": "Examenprogramma Spaanse taal vmbo",
 		"id": "787ab014-814b-436d-bd51-faa7ddf8eea4",
@@ -2526,7 +2529,7 @@
 	{
 		"prefix": "MVT/EN/H",
 		"id": "1034551d-ce74-493e-8420-681c5bc95190",
-		"title": "Examenprogramma moderne vreemde talen en literatuur Engels havo",
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Engels havo",
 		"examenprogramma_vakleergebied_id": [
 			"65701c83-286b-4865-91dc-db2848276c33"
 		],
@@ -2775,7 +2778,7 @@
 	{
 		"prefix": "NE/vmbo",
 		"id": "59316717-c3c2-4b18-a219-1983d64dfeaf",
-		"title": "Examenprogramma nederlandse taal vmbo",
+		"title": "Examenprogramma Nederlandse taal vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"0f0e5c83-88c6-4ebc-90c0-31913e47db85"
 		],
@@ -2812,7 +2815,7 @@
 	{
 		"prefix": "NE/H",
 		"id": "f514dd0f-c5ad-4ecf-9301-a62934316655",
-		"title": "Examenprogramma nederlandse taal en literatuur havo",
+		"title": "Examenprogramma Nederlandse taal en literatuur havo",
 		"examenprogramma_vakleergebied_id": [
 			"0f0e5c83-88c6-4ebc-90c0-31913e47db85"
 		],
@@ -2984,14 +2987,19 @@
 			"a1fc7fd5-3582-4ca0-ac98-eb4336a62bf8",
 			"23c0855d-3dd0-4c78-9cb5-06ab9bf4429e",
 			"c7e025ea-99ca-46e8-bf95-4add49f50c91",
-			"9453f0c2-8599-4a81-a073-8d9325d19049"
+			"9453f0c2-8599-4a81-a073-8d9325d19049",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
 		"examenprogramma_vakleergebied_id": [
 			"180c82c1-6805-4bc3-811e-e102e8ed7835"
 		],
 		"title": "Examenprogramma Friese taal en cultuur vmbo",
 		"id": "b15aa61b-37e4-4454-b510-fe358565faa3",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "FR/vmbo",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": ""
 	},
 	{
 		"examenprogramma_domein_id": [
