@@ -2992,5 +2992,26 @@
 		"title": "Examenprogramma Friese taal en cultuur vmbo",
 		"id": "b15aa61b-37e4-4454-b510-fe358565faa3",
 		"unreleased": true
+	},
+	{
+		"examenprogramma_domein_id": [
+			"0e930303-4c90-4334-a27a-5d06698add06",
+			"253c8f58-e895-449c-8977-f9408b0dcb19",
+			"05c4afe7-e4d6-4f1b-88a2-ef989e8c95cc",
+			"cbbce95b-5c83-4652-9312-e820c2732e93",
+			"bd36ecdb-ca71-4475-b162-1bd6b6ce5bf8",
+			"0122ef1b-7674-4d0a-8a06-e934170f6e9a"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
+		],
+		"examenprogramma_kop1_id": [
+			"e128745d-d05e-403a-a191-12f716298846",
+			"bb6fdfa4-7c7e-4bd1-8f09-eeb26f4afd54",
+			"3ca78aca-6857-49bf-b401-85ef494d74f4"
+		],
+		"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans vwo",
+		"id": "cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f",
+		"unreleased": true
 	}
 ]
