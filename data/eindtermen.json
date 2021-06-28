@@ -14173,7 +14173,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinA/A1/1b",
@@ -14182,7 +14187,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinA/A1/1c",
@@ -14191,7 +14201,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinA/A2/2a",
@@ -14200,7 +14215,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinA/A2/2b",
@@ -14209,7 +14229,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinB/3a",
@@ -14218,7 +14243,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinB/3b",
@@ -14227,7 +14257,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinB/4a",
@@ -14236,7 +14271,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinB/4b",
@@ -14245,7 +14285,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinC/5",
@@ -14254,7 +14299,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinC/6",
@@ -14263,16 +14313,26 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinE/7a",
 		"id": "f7082e1b-b52a-4d7b-8e12-a580b199af30",
-		"title": "De kandidaat kan doelgericht informatie en bronnenmateriaal zoeken, beoordelen, selecteren en verwerken, o.a. met\r\nbehulp van het woordenboek.",
+		"title": "De kandidaat kan doelgericht informatie en bronnenmateriaal zoeken, beoordelen, selecteren en verwerken, o.a. met behulp van het woordenboek.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinE/7b",
@@ -14281,7 +14341,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinE/7c",
@@ -14290,16 +14355,26 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinE/7d",
 		"id": "d9857877-885f-4347-8d19-eaf504e9ee5d",
-		"title": "De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen\r\nuit het desbetreffende vakgebied.",
+		"title": "De kandidaat kan adequaat schriftelijk, mondeling en digitaal in het publieke domein communiceren over onderwerpen uit het desbetreffende vakgebied.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GTC/V/DomeinE/7e",
@@ -14308,7 +14383,12 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/V/DomeinA/1a",
@@ -32650,7 +32730,13 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "5f48682f-6967-4c9d-a7f3-b46146aaa0df",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinA/1a",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32658,7 +32744,13 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
 		"id": "c261135f-aff2-45d7-8da7-eb4efba126c3",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinA/1b",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32666,7 +32758,13 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "8205ca36-faeb-4b08-be76-1221e1f52ad9",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinA/1c",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32674,7 +32772,13 @@
 		],
 		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven.",
 		"id": "b167d920-ab8e-49ac-9b72-5ac166d16ede",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinA/1d",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32682,7 +32786,13 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
 		"id": "59a4ff33-525a-49c4-9a5f-2b7a1d737a30",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinA/1e",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32690,7 +32800,13 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "7a4d5ce4-41ad-4d5d-9028-4db1c0ce5f8c",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinB/2a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32698,7 +32814,13 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
 		"id": "30365e25-2107-4739-9de2-2432ff265774",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinB/2b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32706,7 +32828,13 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "94792b8c-98c9-4d34-936b-e8118f1107e2",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinB/2c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32714,7 +32842,13 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
 		"id": "07c31e70-6504-47a0-ac1b-d626ec5435f0",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinB/2d",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32722,7 +32856,13 @@
 		],
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
 		"id": "0ce1f950-1a70-44ad-8617-0d3ef3b26bea",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinB/2e",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32730,7 +32870,13 @@
 		],
 		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
 		"id": "b5028c8e-b156-403c-b20d-e66bb21fe78e",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinB/2e",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32738,7 +32884,13 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
 		"id": "2fc54374-8b8f-404d-96db-2ad2bb9a86c2",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C1/3a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32746,7 +32898,13 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "1854a51c-0e7a-46d9-b037-a47decfb9e52",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C1/3b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32754,7 +32912,13 @@
 		],
 		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
 		"id": "5ade0702-2369-4bc1-a665-0a1063f3d560",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C1/3c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32762,7 +32926,13 @@
 		],
 		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "4498ce52-02cf-4cb3-9657-b74ab53d4136",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C1/3d",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32770,7 +32940,13 @@
 		],
 		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
 		"id": "173acf1a-a5c1-4ffe-a442-d2d68fac276f",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C1/3e",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32778,7 +32954,13 @@
 		],
 		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "d40f832d-f15d-4dbc-9098-6c99057315a7",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinC/C2/4",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32786,7 +32968,13 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
 		"id": "40d7fbe2-902a-4161-817e-2ea358d25cee",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D1/5a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32794,7 +32982,13 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "f59393b7-1cf8-4057-aef7-6237b5a949ba",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D1/5b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32802,7 +32996,13 @@
 		],
 		"title": "De kandiaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
 		"id": "9c3f7d43-c314-4c98-927d-d552fa5c26b7",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D1/5c",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32810,7 +33010,13 @@
 		],
 		"title": "De kandidaat kan een verslag schrijven",
 		"id": "16fc9cee-016e-4159-a890-85c355d644b0",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D1/5d",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32818,7 +33024,13 @@
 		],
 		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
 		"id": "cc093763-ce49-4dbb-9310-54b1991e4746",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D2/6a",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32826,7 +33038,13 @@
 		],
 		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
 		"id": "d55ca79d-0809-405f-990e-d8ceb533ec4b",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinD/D2/6b",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"niveau_id": [
@@ -32834,7 +33052,13 @@
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
 		"id": "0cd2527d-c4d8-465c-a134-fd318e28e12a",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "MVT/SP/V/DomeinE/E1/7",
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"title": "n.v.t.",
