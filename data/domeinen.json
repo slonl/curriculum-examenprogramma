@@ -8081,5 +8081,149 @@
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "2296b252-410c-4344-8484-ec543b46570d",
 		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/K/1",
+		"examenprogramma_eindterm_id": [
+			"ebf022ac-d06e-45b2-abe4-444b3f236366"
+		],
+		"title": "Oriëntatie op leren en werken",
+		"id": "7ccc6da8-4180-4e2b-9862-5aafe529bf76",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/K/2",
+		"examenprogramma_eindterm_id": [
+			"03bff271-9507-4962-b632-9808adb0013c"
+		],
+		"title": "Basisvaardigheden",
+		"id": "9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE; CE",
+		"prefix": "FR/K/3",
+		"examenprogramma_eindterm_id": [
+			"941f5d7c-9b8d-48fe-9be1-1e2f8082a791",
+			"b210b5e7-35e1-44ec-9a4f-2086843cdb28",
+			"c125344e-3700-497d-acaa-3a65d4e945f2",
+			"a89205c3-9f7f-44fe-9600-a63662190279",
+			"a9e24b1b-3012-407a-a2c4-1f7029fdfb9e",
+			"6d4c28d8-6971-45f2-8bae-d94fedc471cb"
+		],
+		"title": "Leervaardigheden in het vak Fries",
+		"id": "c66bc5d7-91ef-4523-9bb6-0ff92a2f144f",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/K/4",
+		"examenprogramma_eindterm_id": [
+			"d0de1ddc-f561-4b73-b3a7-ff36f8049f39",
+			"ee364a78-eb9e-4e34-8d0b-e8aa264fc20d",
+			"7d51cd19-b3bb-4dcd-bd63-b34ad793f58e",
+			"474e7cbd-78bc-4c0f-8ba1-1b173cc2ae06",
+			"8b8177d4-2618-4dc1-8c3c-bc538c5226d4",
+			"40898327-66cd-4540-8ea0-2220031530e1",
+			"07c7a442-1f36-4cac-9b7a-41a3c12bb9ef"
+		],
+		"title": "Luister- en kijkvaardigheid",
+		"id": "94039a4e-5d4c-49ab-88fc-c1e13e20c155",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/K/5",
+		"examenprogramma_eindterm_id": [
+			"10d49fd0-8f2d-4ed0-a5ab-06f2896db6e6",
+			"076a7317-9e94-48be-bf67-5a56e26a9e99",
+			"ac31e119-01d6-4080-abe2-91cc48040f68",
+			"d1663ccc-2c54-4eb2-9947-b0b24d007226",
+			"6efb9b23-2714-4a16-ac87-b6a308f38c31",
+			"5d26b2bc-f68f-4376-adcb-573cf706af31",
+			"73f101b4-9709-404e-8cfb-2f5c1d34eb1c"
+		],
+		"title": "Spreek- en gespreksvaardigheid",
+		"id": "298936d8-aa70-4062-8a65-ab1f741b11c7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/K/6",
+		"examenprogramma_eindterm_id": [
+			"abadafa5-9057-406d-bdfb-cb165b86bf56",
+			"36ed26db-dc32-4de3-8beb-1bfdcc549878",
+			"cbfb6a60-02a1-4a99-9cf1-9217c19551f2",
+			"0b666264-b500-41cc-85e5-282a645ec8d4",
+			"9ad98a33-b7ae-4ebc-90c0-598748f8851f",
+			"fc7c84e6-2837-436d-9fe8-5b8430156071",
+			"05b6fbf7-db88-48eb-8ad3-e2f97fd953ad",
+			"3ec2984b-3014-48fe-8eb8-64f2fccefc72",
+			"59b7612c-603d-46ee-80de-e5e20e0e240b",
+			"5f906dc6-3724-4cd6-8657-adf3efa7fbd2",
+			"aa540474-ec91-4450-bb0e-7d1963636df8",
+			"149b426b-8d42-49d5-8223-d73f9107d022",
+			"1e1a3b12-1ffa-423f-960a-7066f2dc0e20",
+			"d606602d-2009-439d-b9ae-b5cc089cb255",
+			"1bde9e94-2522-41d3-a13a-99771d5df92a",
+			"5c2122f3-680f-446d-a80a-d6ead0752d6f"
+		],
+		"title": "Leesvaardigheid",
+		"id": "ec7591b6-2197-403a-b8d5-5170950c3000",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/K/7",
+		"examenprogramma_eindterm_id": [
+			"83677e7a-d465-4c68-acff-73c49cfb7662",
+			"e2014b57-80dc-4c75-a4ac-3e1064627586",
+			"e5202584-7070-473a-b7c4-dcc5b0f1b627",
+			"21b5ba72-e6f1-49a6-9353-433d9f40b2d4",
+			"95dd2623-575a-4ddc-bb09-de228047943e",
+			"4f96e83b-33e3-419c-9d8d-b909ac3831c3",
+			"3b613257-8e92-4ed3-847c-39c63d27e28b",
+			"aeeaeb1a-6da8-4da7-950d-ee77d70dc73b"
+		],
+		"title": "Schrijfvaardigheid",
+		"id": "a1fc7fd5-3582-4ca0-ac98-eb4336a62bf8",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/K/8",
+		"examenprogramma_eindterm_id": [
+			"d00a665d-a384-4692-be14-a9f046563d41",
+			"fe02ddce-4a82-4eaa-9f04-e06beebd1536",
+			"b20cc904-fd45-44cc-8895-b86cc8bbd044",
+			"f0870bd0-9b18-47d9-bfd5-dcd6c70721ec",
+			"f4a3f2c0-651d-439e-9d4a-2350e63a4cbd",
+			"9dc8e8a3-22e0-4d0f-9732-e2c70c1d0d4e"
+		],
+		"title": "Fictie",
+		"id": "23c0855d-3dd0-4c78-9cb5-06ab9bf4429e",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/V/1",
+		"examenprogramma_eindterm_id": [
+			"206a445c-4b5e-41e8-ba82-f189c07d1381"
+		],
+		"title": "Verwerven, verwerken en verstrekken van informatie",
+		"id": "c7e025ea-99ca-46e8-bf95-4add49f50c91",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "FR/V/2",
+		"examenprogramma_eindterm_id": [
+			"1d345d28-a7de-4c32-b8a0-4506ca327251"
+		],
+		"title": "Vaardigheden in samenhang",
+		"id": "9453f0c2-8599-4a81-a073-8d9325d19049",
+		"unreleased": true
 	}
 ]
