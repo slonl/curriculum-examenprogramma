@@ -2942,10 +2942,6 @@
 		"examenprogramma_vakleergebied_id": [
 			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
 		],
-		"examenprogramma_kop1_id": [
-			"698af32f-a2cb-4923-8832-95480b62666e",
-			"0a64d2a1-1fec-460e-93d3-d646ef9b80bf"
-		],
 		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans vwo",
 		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
 		"unreleased": true,
@@ -2976,5 +2972,25 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": ""
+	},
+	{
+		"examenprogramma_domein_id": [
+			"7ccc6da8-4180-4e2b-9862-5aafe529bf76",
+			"9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+			"c66bc5d7-91ef-4523-9bb6-0ff92a2f144f",
+			"94039a4e-5d4c-49ab-88fc-c1e13e20c155",
+			"298936d8-aa70-4062-8a65-ab1f741b11c7",
+			"ec7591b6-2197-403a-b8d5-5170950c3000",
+			"a1fc7fd5-3582-4ca0-ac98-eb4336a62bf8",
+			"23c0855d-3dd0-4c78-9cb5-06ab9bf4429e",
+			"c7e025ea-99ca-46e8-bf95-4add49f50c91",
+			"9453f0c2-8599-4a81-a073-8d9325d19049"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"180c82c1-6805-4bc3-811e-e102e8ed7835"
+		],
+		"title": "Examenprogramma Friese taal en cultuur vmbo",
+		"id": "b15aa61b-37e4-4454-b510-fe358565faa3",
+		"unreleased": true
 	}
 ]
