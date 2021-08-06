@@ -2028,7 +2028,10 @@
 		"prefix": "EC/vwo",
 		"ingangsdatum": "vanaf CE 2014",
 		"url": "https://www.examenblad.nl/examenstof/syllabus-economie-vwo-2021/2021/f=/economie_vwo_2021_versie_2.pdf",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"examenprogramma_domein_id": [
