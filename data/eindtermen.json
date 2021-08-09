@@ -25184,14 +25184,16 @@
 		"id": "dbc378e5-07e8-4aac-9959-764335da89ff",
 		"title": "De kandidaat kan de geografische benadering adequaat hanteren, geografische vragen herkennen en zelf formuleren.",
 		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"ce_se": "CE",
 		"description": "",
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": "1"
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1c",
