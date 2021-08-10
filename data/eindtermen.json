@@ -24549,9 +24549,26 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "AK/K/3/3b",
+		"prefix": "AK/K/3/3.1",
 		"id": "cfd8c78e-8aa1-475d-b431-f0e62858391f",
-		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: verschillende typen aardrijkskundige vragen herkennen en formuleren.",
+		"title": "De kandidaat kan een aantal vakvaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen. Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: verschillende typen aardrijkskundige vragen herkennen en formuleren. ",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
+	},
+	{
+		"prefix": "AK/K/3/3.1.1b",
+		"id": "fe34d70e-cc59-478c-bf5d-188b6cd9b94d",
+		"title": "De kandidaat kan een aantal vakvaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen. Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: aardrijkskundige werkwijzen toepassen.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -24567,8 +24584,8 @@
 	},
 	{
 		"prefix": "AK/K/3/3c",
-		"id": "fe34d70e-cc59-478c-bf5d-188b6cd9b94d",
-		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: aardrijkskundige werkwijzen toepassen.",
+		"id": "251cb2fc-f647-4bc1-82df-1b5eae6a9856",
+		"title": "De kandidaat kan een aantal vakvaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen. Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: gebruik maken van verschillende soorten kaarten en kaartvaardigheden, luchtfoto's en satellietbeelden.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -24584,8 +24601,8 @@
 	},
 	{
 		"prefix": "AK/K/3/3d",
-		"id": "251cb2fc-f647-4bc1-82df-1b5eae6a9856",
-		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: gebruik maken van verschillende soorten kaarten en kaartvaardigheden, luchtfoto's en satellietbeelden.",
+		"id": "b762a819-386a-49aa-9665-ad4e0ee964bc",
+		"title": "De kandidaat kan een aantal vakvaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen. Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: informatie ordenen, analyseren en daarover conclusies trekken.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -24601,25 +24618,8 @@
 	},
 	{
 		"prefix": "AK/K/3/3e",
-		"id": "b762a819-386a-49aa-9665-ad4e0ee964bc",
-		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: informatie ordenen, analyseren en daarover conclusies trekken.",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"ce_se": "CE; SE",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
-		"prefix": "AK/K/3/3f",
 		"id": "49e5add2-2dee-45d4-8df0-be0a55b9eb01",
-		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: eenvoudig aardrijkskundig onderzoek van beperkte omvang in de eigen omgeving uitvoeren over thematieken die aansluiten bij 'de inhouden van de exameneenheden K/4 tot en met K/9.",
+		"title": "De kandidaat kan een aantal vakvaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen. Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: eenvoudig aardrijkskundig onderzoek van beperkte omvang in de eigen omgeving uitvoeren over thematieken die aansluiten bij 'de inhouden van de exameneenheden K/4 tot en met K/9.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
@@ -24634,9 +24634,9 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "AK/K/3/3g",
+		"prefix": "AK/K/3/3f",
 		"id": "cb059788-8056-4245-99e6-6b3ebb5ab038",
-		"title": "Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: een standpunt innemen en beargumenteren.",
+		"title": "De kandidaat kan een aantal vakvaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen. Bij het bestuderen van gebieden, aardrijkskundige verschijnselen en vraagstukken kan de kandidaat in dat verband: een standpunt innemen en beargumenteren.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"8574855d-0670-42bf-9f73-dc6706278b8b",
