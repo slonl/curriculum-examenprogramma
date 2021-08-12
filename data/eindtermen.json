@@ -17916,8 +17916,6 @@
 		"id": "45787fe7-ebf6-47df-92ae-838524e2cba5",
 		"title": "De kandidaat kan aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
@@ -33067,5 +33065,15 @@
 		"title": "n.v.t.",
 		"id": "debe20f2-6770-405b-b5ba-03d371532830",
 		"unreleased": true
+	},
+	{
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"id": "18b99a4c-eb33-4f82-8d06-3cc8948b7b80",
+		"prefix": "EN/K/4/4a",
+		"title": "De kandidaat kan aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte.",
+		"description": ""
 	}
 ]
