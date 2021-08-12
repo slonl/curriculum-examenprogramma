@@ -33074,6 +33074,10 @@
 		"id": "18b99a4c-eb33-4f82-8d06-3cc8948b7b80",
 		"prefix": "EN/K/4/4a",
 		"title": "De kandidaat kan aangeven welke relevante informatie een tekst bevat, gegeven een bepaalde informatiebehoefte.",
-		"description": ""
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	}
 ]
