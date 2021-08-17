@@ -151,7 +151,7 @@
 	},
 	{
 		"id": "0be557c4-ea18-43a4-800b-a2fb7e6e0f49",
-		"title": "Kunstvakken: Culturele Kunstzinnige Vorming",
+		"title": "Kunstvakken incl. CKV",
 		"vakleergebied_id": [
 			"29a8bd9f-2963-4070-84d8-c06075ca0ae1"
 		],
@@ -272,7 +272,7 @@
 	},
 	{
 		"id": "cda3e026-b19d-404a-ba01-d6fa3a5cfeb3",
-		"title": "Beeldende vorming",
+		"title": "Kunst (beeldende vorming)",
 		"vakleergebied_id": [
 			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
 		]
