@@ -828,7 +828,7 @@
 	{
 		"prefix": "KV/vmbo",
 		"id": "cdd3e66f-17df-4a0c-9496-89efae7dffef",
-		"title": "Examenprogramma kunstvakken incl. CKV",
+		"title": "Examenprogramma kunstvakken incl. CKV vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"0be557c4-ea18-43a4-800b-a2fb7e6e0f49"
 		],
@@ -977,7 +977,7 @@
 		"id": "6cbb98e3-a020-4623-816d-89673d10793b",
 		"title": "Examenprogramma kunst (dans) havo",
 		"examenprogramma_vakleergebied_id": [
-			"fbf18b56-2d01-4fc0-975d-af7122af4052"
+			"56edbfd4-ef52-49d4-852f-74ea54b9c290"
 		],
 		"examenprogramma_domein_id": [
 			"e7571bf0-fee6-4c6d-8928-3b29f147f721",
@@ -994,7 +994,8 @@
 		"versie": "2020",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "KUBV/vwo",
@@ -1557,7 +1558,7 @@
 		"id": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
 		"title": "Examenprogramma dans vmbo",
 		"examenprogramma_vakleergebied_id": [
-			"fbf18b56-2d01-4fc0-975d-af7122af4052"
+			"56edbfd4-ef52-49d4-852f-74ea54b9c290"
 		],
 		"examenprogramma_domein_id": [
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
@@ -1583,7 +1584,8 @@
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "CKV/vwo",
