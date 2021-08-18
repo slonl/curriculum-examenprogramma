@@ -801,7 +801,7 @@
 	},
 	{
 		"prefix": "LTC/vwo",
-		"title": "Examenprogramma Latijnse taal en cultuur",
+		"title": "Examenprogramma Latijnse taal en cultuur vwo",
 		"id": "2e8e7a6b-b40e-4ead-92db-8dd90f0b7b36",
 		"examenprogramma_vakleergebied_id": [
 			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
@@ -1048,7 +1048,7 @@
 	{
 		"prefix": "KUA/vwo",
 		"id": "0d872678-c7ed-4cf2-b8eb-96580d330dfa",
-		"title": "Examenprogramma kunst(algemeen) vwo",
+		"title": "Examenprogramma kunst (algemeen) vwo",
 		"examenprogramma_vakleergebied_id": [
 			"002d65dd-5302-4f02-9a62-25bf8ef8eaa4"
 		],
@@ -1245,7 +1245,7 @@
 	},
 	{
 		"prefix": "GTC/vwo",
-		"title": "Examenprogramma Griekse taal en cultuur ",
+		"title": "Examenprogramma Griekse taal en cultuur vwo",
 		"id": "aa932a9b-5996-449d-82bc-c0942bed68d2",
 		"examenprogramma_vakleergebied_id": [
 			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
