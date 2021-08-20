@@ -36,7 +36,7 @@
 	},
 	{
 		"id": "82680d86-c679-4a7d-826d-6d5ccaf82de9",
-		"title": "Tekenen, handvaardigheid en textiele vormgeving",
+		"title": "Tekenen",
 		"vakleergebied_id": [
 			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
 		]
@@ -408,5 +408,19 @@
 		"title": "Italiaans",
 		"id": "a83f740a-5cf6-4d3d-b19b-65af5cb79c3c",
 		"unreleased": true
+	},
+	{
+		"id": "d75646bc-043d-4c70-ab45-f51999a23525",
+		"title": "Handvaardigheid",
+		"vakleergebied_id": [
+			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
+		]
+	},
+	{
+		"id": "707dd684-21e4-4eb1-9852-a819be9fd377",
+		"title": "Textiele vormgeving",
+		"vakleergebied_id": [
+			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
+		]
 	}
 ]
