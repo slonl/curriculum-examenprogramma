@@ -241,7 +241,7 @@
 		"id": "ec850fae-47a6-4dbc-939c-bf7190546ddc",
 		"title": "Examenprogramma textiele vormgeving vwo",
 		"examenprogramma_vakleergebied_id": [
-			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
+			"707dd684-21e4-4eb1-9852-a819be9fd377"
 		],
 		"examenprogramma_domein_id": [
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf",
@@ -258,7 +258,8 @@
 		"versie": "2020",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "THT/TV/havo",
@@ -285,9 +286,9 @@
 		]
 	},
 	{
-		"prefix": "THT/T/V",
+		"prefix": "THTEX",
 		"id": "548449b1-86d3-4134-88a4-3ad3d70578dc",
-		"title": "Examenprogramma tekenen vwo",
+		"title": "Examenprogramma Tekenen vwo",
 		"examenprogramma_vakleergebied_id": [
 			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
@@ -1200,7 +1201,7 @@
 		"id": "4d379dd8-d4ce-4725-97e3-9f6a890cc071",
 		"title": "Examenprogramma handvaardigheid vwo",
 		"examenprogramma_vakleergebied_id": [
-			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
+			"d75646bc-043d-4c70-ab45-f51999a23525"
 		],
 		"examenprogramma_domein_id": [
 			"8311e93b-7817-47f0-8062-0853b35f4502",
@@ -1217,7 +1218,8 @@
 		"versie": "2020",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "THT/H/havo",
