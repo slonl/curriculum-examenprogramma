@@ -182,7 +182,7 @@
 		"id": "69aaf8f5-d607-4823-9e1c-64c6038c1054",
 		"title": "Dans",
 		"vakleergebied_id": [
-			"fbf18b56-2d01-4fc0-975d-af7122af4052"
+			"39ae089f-d9e4-47c5-bd78-f40432efb958"
 		]
 	},
 	{
@@ -239,7 +239,7 @@
 		"id": "561769d0-9c63-40e8-b2e7-54bde96f7e9f",
 		"title": "Drama",
 		"vakleergebied_id": [
-			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
+			"926f1084-fb32-47ee-be2b-13b5dbb6ee36"
 		]
 	},
 	{
@@ -272,9 +272,9 @@
 	},
 	{
 		"id": "cda3e026-b19d-404a-ba01-d6fa3a5cfeb3",
-		"title": "Kunst (beeldende vorming)",
+		"title": "Beeldende vorming",
 		"vakleergebied_id": [
-			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			"b608d97d-2846-4216-a3ea-925ab70cff17"
 		]
 	},
 	{
