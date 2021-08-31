@@ -143,9 +143,8 @@
 	},
 	{
 		"id": "3cf8b312-3681-4d6c-add8-fd7e3c9b2078",
-		"title": "Klassieke Talen",
+		"title": "Latijn",
 		"vakleergebied_id": [
-			"797f5fdf-8e35-43e9-b290-772c84f1761e",
 			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
 		]
 	},
@@ -194,7 +193,7 @@
 	},
 	{
 		"id": "002d65dd-5302-4f02-9a62-25bf8ef8eaa4",
-		"title": "Kunst  algemeen",
+		"title": "Kunst (algemeen)",
 		"vakleergebied_id": [
 			"26ef692c-72ce-481e-ba7a-43d0bef1fc0c"
 		]
@@ -421,6 +420,13 @@
 		"title": "Textiele vormgeving",
 		"vakleergebied_id": [
 			"99fa52fd-5d20-446a-a34c-61a6be77b413"
+		]
+	},
+	{
+		"id": "341672a5-f515-4825-8b21-4f65df027e2f",
+		"title": "Grieks",
+		"vakleergebied_id": [
+			"797f5fdf-8e35-43e9-b290-772c84f1761e"
 		]
 	}
 ]
