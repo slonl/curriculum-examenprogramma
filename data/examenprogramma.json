@@ -1252,7 +1252,7 @@
 		"title": "Examenprogramma Griekse taal en cultuur vwo",
 		"id": "aa932a9b-5996-449d-82bc-c0942bed68d2",
 		"examenprogramma_vakleergebied_id": [
-			"3cf8b312-3681-4d6c-add8-fd7e3c9b2078"
+			"341672a5-f515-4825-8b21-4f65df027e2f"
 		],
 		"examenprogramma_domein_id": [
 			"2e79294f-9788-4c7d-87d6-a7f0eddda00e",
@@ -1271,7 +1271,8 @@
 		"versie": "2020",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "GS/vwo",
