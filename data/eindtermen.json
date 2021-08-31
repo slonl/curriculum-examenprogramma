@@ -490,7 +490,12 @@
 		"title": "De kandidaat heeft kennis van de rol van wiskunde in de maatschappij, kan hierover gericht informatie verzamelen en de resultaten communiceren met anderen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinA/A2/2",
@@ -498,7 +503,12 @@
 		"title": "De kandidaat kan profielspecifieke probleemsituaties in wiskundige termen analyseren, oplossen en het resultaat naar het oorspronkelijke probleem terugvertalen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinA/A3/3",
@@ -506,7 +516,12 @@
 		"title": "De kandidaat beheerst de bij het examenprogramma passende wiskundige denkactiviteiten − te weten modelleren en algebraïseren, ordenen en structureren, analytisch denken en probleemoplossen, formules manipuleren, abstraheren, en logisch redeneren en bewijzen − en kan daarbij ICT functioneel gebruiken.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinB/B1/4",
@@ -514,7 +529,12 @@
 		"title": "De kandidaat kan permutaties en combinaties herkennen en toepassen op combinatorische problemen en de bijbehorende formules interpreteren en verklaren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinB/B2/5",
@@ -522,7 +542,12 @@
 		"title": "De kandidaat kan een toevalsexperiment verklaren in een kansmodel, de begrippen onafhankelijke gebeurtenis en voorwaardelijke kans hanteren, kansen berekenen met behulp van som-, complement- en productregel, en van een discrete toevalsvariabele de verwachtingswaarde berekenen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinB/B3/6",
@@ -530,7 +555,12 @@
 		"title": "De kandidaat kan bij eindige kansmodellen uitgaande van een kansverdeling de verwachtingswaarde en de variantie berekenen en de rekenregels voor verwachtingswaarde en variantie voor zowel afhankelijke als onafhankelijke toevalsvariabelen toepassen op herhaaldelijk uitgevoerde kansexperimenten.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinB/B4/7",
@@ -538,7 +568,12 @@
 		"title": "De kandidaat kan in het binomiale en het (standaard-)normale verdelingsmodel de formules voor de kansverdeling, het gemiddelde en de variantie verklaren en gebruiken voor het berekenen van kansen, relatieve frequenties, grenswaarden, gemiddelden en standaardafwijkingen van discrete en continue verdelingen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinB/B5/8",
@@ -546,7 +581,12 @@
 		"title": "De kandidaat kan nul- en alternatieve hypothesen formuleren, hierop kritisch reflecteren, en bijbehorende een- of tweezijdige toetsen uitvoeren bij binomiaal- of normaalverdeelde toevalsvariabelen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinB/B6/9",
@@ -554,7 +594,12 @@
 		"title": "De kandidaat kan samenhang tussen variabelen onderzoeken met correlatie- regressierekening, waarbij het rekenwerk aan ICT wordt uitbesteed, en kan de resultaten interpreteren en beoordelen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinB/B7/10",
@@ -562,7 +607,12 @@
 		"title": "De kandidaat kan de stof van wiskunde B gebruiken voor een profielspecifieke verdieping.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinC/C1/11",
@@ -570,7 +620,12 @@
 		"title": "De kandidaat kan rijen relateren aan recurrente betrekkingen, iteraties, webgrafieken en contexten en kan het gedrag ervan beschrijven in termen van stationair, convergent of divergent.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinC/C2/12",
@@ -578,7 +633,12 @@
 		"title": "De kandidaat kan in differentiaalvergelijkingen van de vorm y’ = f (y,t) eigenschappen van f relateren aan eigenschappen van oplossingen, zoals het al dan niet stationair zijn, monotonie en asymptotisch gedrag en in eenvoudige gevallen een oplossing expliciet bepalen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinC/C3/13",
@@ -586,7 +646,12 @@
 		"title": "De kandidaat kan de stof uit de subdomeinen C1 en C2 toepassen in profielspecifieke probleemsituaties.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinD/D1/14",
@@ -594,7 +659,12 @@
 		"title": "De kandidaat kan analytische en synthetische methoden en redeneringen toepassen op meetkundige probleemsituaties en daarmee eigenschappen bewijzen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinD/D2/15",
@@ -602,7 +672,12 @@
 		"title": "De kandidaat kan kegelsneden zowel synthetisch als algebraïsch beschrijven, en op grond van een synthetische of algebraïsche beschrijving ligging en eigenschappen bij de bijbehorende figuren onderzoeken en bewijzen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinD/D3/16",
@@ -610,7 +685,12 @@
 		"title": "De kandidaat kan de beschrijving van ruimtelijke figuren met drie coördinaten gebruiken, en daarbij de begrippen afstand, hoeken, in- en uitproduct, vector en normaalvector hanteren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinD/D4/17",
@@ -618,7 +698,12 @@
 		"title": "De kandidaat kan meetkundige toepassingen onderzoeken, ook met behulp van ICT.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinE/E1/18",
@@ -626,7 +711,12 @@
 		"title": "De kandidaat kan rekenen met complexe getallen, de geconjugeerde, het argument en de absolute waarde, kan de stelling van De Moivre gebruiken, kan rekenen met de formule van Euler als representatie van poolcoördinaten, en kan in redeneringen de relatie gebruiken tussen de complexe getallen en de meetkunde van het platte vlak.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinE/E2/19",
@@ -634,7 +724,12 @@
 		"title": "De kandidaat kan de stof van subdomein E1 gebruiken voor een profielspecifieke verdieping.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/V/DomeinF/20",
@@ -642,7 +737,12 @@
 		"title": "De kandidaat heeft kennis van een profielspecifiek onderwerp dat aansluit bij de wijze waarop wiskunde wordt gebruikt in het hoger onderwijs.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "WI/D/H/DomeinA/A1/1",
