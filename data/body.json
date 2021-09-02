@@ -5119,5 +5119,40 @@
 		"title": "Het schoolexamen heeft betrekking op:\r\nde domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;\r\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "e75e4868-ee50-42eb-ac3e-3d95def85311",
 		"unreleased": true
+	},
+	{
+		"title": "Het eindexamen bestaat uit praktische bewegingsactiviteiten",
+		"id": "21ea342b-2082-4b18-8f16-6f347407df96",
+		"unreleased": true
+	},
+	{
+		"title": "Domein A  Vaardigheden",
+		"id": "e600d9e8-aa5b-41b8-af88-9d67cca34139",
+		"unreleased": true
+	},
+	{
+		"title": "Domein B  Bewegen",
+		"id": "dda46330-a02b-45d9-bcea-37b7017aa86e",
+		"unreleased": true
+	},
+	{
+		"title": "Domein C  Bewegen en regelen",
+		"id": "3434ffc3-fd51-4c53-951f-fc7a98816ce5",
+		"unreleased": true
+	},
+	{
+		"title": "Domein D  Bewegen en gezondheid",
+		"id": "ad071349-ce7b-444b-a417-5eb0d19ec193",
+		"unreleased": true
+	},
+	{
+		"title": "Domein E  Bewegen en samenleving",
+		"id": "c659e8c0-2c47-4ac5-b7ba-1f3eecc3710d",
+		"unreleased": true
+	},
+	{
+		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"id": "a8de0acb-d02d-4bca-8b86-fc6482edeb6f",
+		"unreleased": true
 	}
 ]
