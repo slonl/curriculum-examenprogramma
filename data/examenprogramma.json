@@ -2361,7 +2361,10 @@
 		"examenprogramma_vakleergebied_id": [
 			"27c99045-94ce-4202-b354-203e1ba49531"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2990,7 +2993,10 @@
 		"prefix": "MVT/IT/H",
 		"ingangsdatum": "",
 		"url": "",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
 	},
 	{
 		"examenprogramma_domein_id": [
