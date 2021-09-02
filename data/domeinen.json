@@ -8307,5 +8307,59 @@
 		"prefix": "MVT/IT/H/DomeinA",
 		"title": "Domein A: Leesvaardigheid",
 		"ce_se": "ce"
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "LO/V/DomeinA",
+		"examenprogramma_eindterm_id": [
+			"d4fdb477-615a-4b5a-8de3-54ebfa2f6e4c"
+		],
+		"title": "Domein A: Vaardigheden",
+		"id": "f00164f3-90de-43d4-8e85-eb80920e201d",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "LO/V/DomeinB",
+		"examenprogramma_eindterm_id": [
+			"c39cf45c-91eb-498f-9833-ce3fa07ec8e0",
+			"130efcd6-13df-4ebf-aec1-19bead5f6790",
+			"28d16e27-6743-4304-a3af-5d92fb75316b",
+			"ecbb490f-374e-4e7f-8f40-1457fee7f6d7"
+		],
+		"title": "Domein B: Bewegen",
+		"id": "0cf824a1-dd09-4903-89e7-5e267d4a071b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "LO/V/DomeinC",
+		"examenprogramma_eindterm_id": [
+			"9b6c5661-cea7-47b1-b9f8-d48c8520437f",
+			"2205ba62-c53e-4e7f-a983-0e89888e13b2"
+		],
+		"title": "Domein C: Bewegen en regelen",
+		"id": "4036dca0-59c0-4f5b-816f-861bee241137",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "LO/V/DomeinD",
+		"examenprogramma_eindterm_id": [
+			"864cb033-e6b3-4927-a4d1-23e6572852ea"
+		],
+		"title": "Domein D: Bewegen en gezondheid",
+		"id": "481f519f-28f2-4f39-a3e0-b59793144fe7",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "LO/V/DomeinE",
+		"examenprogramma_eindterm_id": [
+			"181e8b74-d66f-47a6-870b-43316f88baa0"
+		],
+		"title": "Domein E: Bewegen en samenleving",
+		"id": "f8983a70-ad82-49cc-bbed-794168e3df39",
+		"unreleased": true
 	}
 ]
