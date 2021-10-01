@@ -2128,6 +2128,19 @@
 		"ce_se": "SE"
 	},
 	{
+		"prefix": "ML/V/DomeinA",
+		"id": "a2cf6058-799f-4d4f-9e8a-15f28c2f5957",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"fcf9a359-2d4d-499e-ac04-420e8f84499e",
+			"091c30e8-b041-43ba-afd1-4b9c5be182da"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8"
+		]
+	},
+	{
 		"prefix": "ML/V/DomeinB",
 		"id": "8505ae81-c96f-49a0-8b21-8abd14a4c70e",
 		"title": "Domein B: Rechtsstaat",
@@ -7923,19 +7936,6 @@
 		"ce_se": "CE; SE",
 		"replaces": [
 			"c36f2622-2003-422c-8fb3-ac5b88eb2211"
-		]
-	},
-	{
-		"prefix": "ML/V/DomeinA",
-		"id": "a2cf6058-799f-4d4f-9e8a-15f28c2f5957",
-		"title": "Domein A: Vaardigheden",
-		"examenprogramma_subdomein_id": [
-			"fcf9a359-2d4d-499e-ac04-420e8f84499e",
-			"091c30e8-b041-43ba-afd1-4b9c5be182da"
-		],
-		"ce_se": "SE",
-		"replaces": [
-			"4bd5d05c-5cd7-486c-8b5a-986f60ec0bf8"
 		]
 	},
 	{
