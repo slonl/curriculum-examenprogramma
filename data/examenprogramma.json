@@ -1372,7 +1372,7 @@
 	{
 		"prefix": "FA/vmbo",
 		"id": "803fe798-4884-4e69-94b9-fc0364989e95",
-		"title": "Examenprogramma Franse taal vmbo",
+		"title": "Examenprogramma Moderne vreemde talen Frans vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
 		],
@@ -1494,7 +1494,7 @@
 	{
 		"prefix": "DU/vmbo",
 		"id": "2e58a2e2-3332-4cd4-a39d-9205f36a50db",
-		"title": "Examenprogramma Duitse taal vmbo",
+		"title": "Examenprogramma Moderne vreemde talen Duits vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
 		],
@@ -1644,7 +1644,7 @@
 	{
 		"prefix": "CTC/vwo",
 		"id": "da9fe3a7-c53f-4e2e-a867-6928720a2528",
-		"title": "Examenprogramma Chinese taal en cultuur vwo",
+		"title": "Examenprogramma Moderne vreemde talen Chinese taal en cultuur vwo",
 		"examenprogramma_vakleergebied_id": [
 			"9117aa6e-7810-442d-978f-5361e5b8e85d"
 		],
@@ -2058,7 +2058,7 @@
 			"17daf55b-089f-497e-8266-4b17008a0a13",
 			"192588c9-6cd8-4f92-b7cf-5654931fcbb4"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits vwo",
+		"title": "Examenprogramma Moderne vreemde talen Duits vwo",
 		"id": "b318368e-baad-4b5c-b146-bdb589e44beb",
 		"prefix": "MVT/DUI/V",
 		"niveau_id": [
@@ -2085,7 +2085,7 @@
 			"54281513-d91e-4481-9623-cd420f68e854",
 			"24f89f2a-2ace-4680-861d-a546890c5d11"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Frans havo",
+		"title": "Examenprogramma Moderne vreemde talen Frans havo",
 		"id": "a416c3ab-01cb-492d-8cbf-ba2f9154bc84",
 		"prefix": "MVT/FA/H",
 		"niveau_id": [
@@ -2112,7 +2112,7 @@
 			"846be9cf-9877-49f5-82a7-126a5b64cfb7",
 			"5f414f5e-4f5b-4a5c-b279-75301fe9798b"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Frans vwo",
+		"title": "Examenprogramma Moderne vreemde talen Frans vwo",
 		"id": "11600baa-9848-4403-8fbd-a552a4b4fee8",
 		"prefix": "MVT/FA/V",
 		"niveau_id": [
@@ -2139,7 +2139,7 @@
 			"d83e21f0-ca9c-47eb-9cc0-238929f25747",
 			"6ef0953d-8e97-472d-b099-e885fdfec1a3"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Duits havo",
+		"title": "Examenprogramma Moderne vreemde talen Duits havo",
 		"id": "e89be7de-fc4c-450c-9cda-5ca1b24ae813",
 		"prefix": "MVT/DUI/H",
 		"niveau_id": [
@@ -2166,7 +2166,7 @@
 			"3817258a-f30b-44ec-8730-54fc7d9f7615",
 			"cb790dce-ca2d-4967-a55d-77821a1f872f"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Engels vwo",
+		"title": "Examenprogramma Moderne vreemde talen Engels vwo",
 		"id": "585c656d-6e1a-48ef-a165-0a38ce28ca80",
 		"prefix": "MVT/EN/V",
 		"niveau_id": [
@@ -2274,7 +2274,7 @@
 			"bc7acc7d-348a-4df1-803d-d02c3fc843c2",
 			"a515f58e-1ebe-4e1b-88ba-80d1e9211f3e"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch havo",
+		"title": "Examenprogramma Moderne vreemde talen Russisch havo",
 		"id": "f35c7f76-33bb-4bde-b274-7ab180bc322f",
 		"prefix": "MVT/RU/H",
 		"niveau_id": [
@@ -2301,7 +2301,7 @@
 			"7f8c3870-cafe-4eec-8b6a-1cd9204be0a5",
 			"5725e974-90e3-46f1-9c30-6ceba432cd48"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch vwo",
+		"title": "Examenprogramma Moderne vreemde talen Arabisch vwo",
 		"id": "ddc10650-6c3d-4666-8727-e895e0a9bf03",
 		"prefix": "MVT/AR/V",
 		"ingangsdatum": "",
@@ -2328,7 +2328,7 @@
 			"3a3fcf32-03e1-42db-873d-022abda4dcaf",
 			"f8d7c71d-3099-425f-8063-e2a2ace1c02b"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Arabisch havo",
+		"title": "Examenprogramma Moderne vreemde talen Arabisch havo",
 		"id": "074e7ee9-4763-4391-b3b6-716155964bda",
 		"prefix": "MVT/AR/H",
 		"niveau_id": [
@@ -2352,7 +2352,7 @@
 			"cdd2a931-79bb-4d5c-9f7a-b66280ef52fe",
 			"a16d510b-9863-4b16-a305-1eac2a85f52f"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Russisch vwo",
+		"title": "Examenprogramma Moderne vreemde talen Russisch vwo",
 		"id": "3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3",
 		"prefix": "MVT/RU/V",
 		"ingangsdatum": "",
@@ -2384,7 +2384,7 @@
 		"examenprogramma_vakleergebied_id": [
 			"df4f53f6-571b-44db-9167-27a5c4a7d59c"
 		],
-		"title": "Examenprogramma Turkse taal vmbo",
+		"title": "Examenprogramma Moderne vreemde talen Turks vmbo",
 		"id": "986b8af5-7495-41d3-8764-43053750ebcd",
 		"prefix": "TU/vmbo",
 		"niveau_id": [
@@ -2414,7 +2414,7 @@
 			"f1a96fbc-db47-44f1-b08c-31158ae13621",
 			"5dd8cc4a-875b-4fe0-83ac-63ebcfedf6ec"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks havo",
+		"title": "Examenprogramma Moderne vreemde talen Turks havo",
 		"id": "cb227107-e06f-40d7-8011-a770f8a9775b",
 		"prefix": "MVT/TU/H",
 		"niveau_id": [
@@ -2441,7 +2441,7 @@
 		"examenprogramma_vakleergebied_id": [
 			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
 		],
-		"title": "Examenprogramma Arabische taal vmbo",
+		"title": "Examenprogramma Moderne vreemde talen Arabisch vmbo",
 		"id": "c44ed430-460f-4103-98ee-bd1fd011d6f4",
 		"prefix": "AR/vmbo",
 		"niveau_id": [
@@ -2471,7 +2471,7 @@
 			"7bc81b7b-ff9a-4f74-b2e4-2676a380e153",
 			"dccb569c-e841-4aa2-8014-ca7ee40018ae"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Turks vwo",
+		"title": "Examenprogramma Moderne vreemde talen Turks vwo",
 		"id": "0c8516fd-e85c-4981-8f99-a3db39114cc6",
 		"prefix": "MVT/TU/V",
 		"niveau_id": [
@@ -2498,7 +2498,7 @@
 			"6da4be09-0525-4313-bf56-a02540543e16",
 			"9960247a-0070-4a72-be69-47f7189e5a89"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans havo",
+		"title": "Examenprogramma Moderne vreemde talen Spaans havo",
 		"id": "129ba6cd-7884-4fbb-9b4f-7abbec127976",
 		"prefix": "MVT/SP/H",
 		"niveau_id": [
@@ -2523,7 +2523,7 @@
 			"7d2a47b8-11c1-408d-bbcf-22a86bee7710",
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
-		"title": "Examenprogramma Spaanse taal vmbo",
+		"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
 		"id": "787ab014-814b-436d-bd51-faa7ddf8eea4",
 		"prefix": "SP/vmbo",
 		"niveau_id": [
@@ -2543,7 +2543,7 @@
 	{
 		"prefix": "MVT/EN/H",
 		"id": "1034551d-ce74-493e-8420-681c5bc95190",
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Engels havo",
+		"title": "Examenprogramma Moderne vreemde talen Engels havo",
 		"examenprogramma_vakleergebied_id": [
 			"65701c83-286b-4865-91dc-db2848276c33"
 		],
@@ -2887,7 +2887,7 @@
 	{
 		"prefix": "EN/vmbo",
 		"id": "51b44493-004b-4b9a-aa90-a83d6155561f",
-		"title": "Examenprogramma Engelse taal vmbo",
+		"title": "Examenprogramma Moderne vreemde talen Engels vmbo",
 		"examenprogramma_vakleergebied_id": [
 			"65701c83-286b-4865-91dc-db2848276c33"
 		],
@@ -2960,7 +2960,7 @@
 		"examenprogramma_vakleergebied_id": [
 			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans vwo",
+		"title": "Examenprogramma Moderne vreemde talen Italiaans vwo",
 		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
 		"unreleased": true,
 		"prefix": "MVT/IT/V",
@@ -2987,7 +2987,7 @@
 			"7da9dfd2-68d4-41fd-b643-9e948c9c862f",
 			"565e3318-3520-499b-8bac-5ea6895d0df9"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Italiaans havo",
+		"title": "Examenprogramma Moderne vreemde talen Italiaans havo",
 		"id": "4271e75e-53f5-4a60-932e-9f7719b0971b",
 		"unreleased": true,
 		"prefix": "MVT/IT/H",
@@ -3040,7 +3040,7 @@
 			"bb6fdfa4-7c7e-4bd1-8f09-eeb26f4afd54",
 			"3ca78aca-6857-49bf-b401-85ef494d74f4"
 		],
-		"title": "Examenprogramma Moderne vreemde talen en literatuur Spaans vwo",
+		"title": "Examenprogramma Moderne vreemde talen Spaans vwo",
 		"id": "cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f",
 		"unreleased": true,
 		"prefix": "MVT/SP/V",
