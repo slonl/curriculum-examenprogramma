@@ -8280,7 +8280,9 @@
 	{
 		"ce_se": "SE",
 		"examenprogramma_subdomein_id": [
-			"1eaa7521-eaad-4b2c-aa1a-5238ae620243"
+			"1eaa7521-eaad-4b2c-aa1a-5238ae620243",
+			"ed3b2d0f-5c29-4219-afe7-36a159c01594",
+			"a4c93ee7-109b-46fb-b7fb-c1879e3ade33"
 		],
 		"title": "Domein E: Literatuur",
 		"id": "bd36ecdb-ca71-4475-b162-1bd6b6ce5bf8",
