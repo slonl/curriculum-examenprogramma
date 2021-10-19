@@ -33304,5 +33304,23 @@
 		"se": 1,
 		"kern": 0,
 		"keuze": 0
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "1d35d63a-a2c5-4cd8-b906-4fde60dc5b36",
+		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten.",
+		"description": "",
+		"prefix": "MVT/SP/V/DomeinE/E2/8"
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "14895a62-c88e-4530-8bf0-cc77fff45c38",
+		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief.",
+		"description": "",
+		"prefix": "MVT/SP/V/DomeinE/E3/9"
 	}
 ]
