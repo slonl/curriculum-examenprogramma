@@ -9440,5 +9440,18 @@
 		"id": "1eaa7521-eaad-4b2c-aa1a-5238ae620243",
 		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinE/E1"
+	},
+	{
+		"id": "ed3b2d0f-5c29-4219-afe7-36a159c01594",
+		"title": "Literaire begrippen",
+		"description": "",
+		"prefix": "MVT/SP/V/DomeinE/E2",
+		"ce_se": "CE"
+	},
+	{
+		"id": "a4c93ee7-109b-46fb-b7fb-c1879e3ade33",
+		"title": "Literatuurgeschiedenis",
+		"prefix": "MVT/SP/V/DomeinE/E3",
+		"ce_se": "CE"
 	}
 ]
