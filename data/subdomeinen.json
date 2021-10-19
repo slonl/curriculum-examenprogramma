@@ -9443,15 +9443,21 @@
 	},
 	{
 		"id": "ed3b2d0f-5c29-4219-afe7-36a159c01594",
-		"title": "Literaire begrippen",
+		"title": "Subdomein E2:Literaire begrippen",
 		"description": "",
 		"prefix": "MVT/SP/V/DomeinE/E2",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"1d35d63a-a2c5-4cd8-b906-4fde60dc5b36"
+		]
 	},
 	{
 		"id": "a4c93ee7-109b-46fb-b7fb-c1879e3ade33",
-		"title": "Literatuurgeschiedenis",
+		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"prefix": "MVT/SP/V/DomeinE/E3",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"14895a62-c88e-4530-8bf0-cc77fff45c38"
+		]
 	}
 ]
