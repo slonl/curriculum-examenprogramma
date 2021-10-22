@@ -2777,7 +2777,8 @@
 		"prefix": "vervalt",
 		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
 		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"deleted": 1
 	},
 	{
 		"prefix": "MU/V/DomeinA/A1",
@@ -2886,7 +2887,8 @@
 		"prefix": "MO/V/DomeinA/A6",
 		"id": "2aba04db-def9-4038-9f3e-0140871960a2",
 		"title": "Subdomein A6: Oriëntatie op studie en beroep",
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"deleted": 1
 	},
 	{
 		"prefix": "MO/V/DomeinB/B1",
@@ -3055,7 +3057,8 @@
 		"prefix": "MO/H/DomeinA/A6",
 		"id": "f2797574-20dc-4459-a2e7-e886c70e76ce",
 		"title": "Subdomein A6: Oriëntatie op studie en beroep",
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"deleted": 1
 	},
 	{
 		"prefix": "MO/H/DomeinB/B1",
@@ -8072,12 +8075,18 @@
 	{
 		"id": "ad10d1ee-d312-4698-b4ed-b33f957a413c",
 		"title": "Overheidsbeleid en standpunten van politieke partijen",
-		"prefix": "MAW/V/DomeinB/B5"
+		"prefix": "MAW/V/DomeinB/B5",
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6b2793c4-9473-41a9-9881-75aa4236698b"
+		]
 	},
 	{
 		"id": "7089b515-b87b-489f-b441-af10bb20712c",
 		"prefix": "MAW/V/DomeinB/B5",
-		"title": "Overheidsbeleid en standpunten van politieke partijen"
+		"title": "Overheidsbeleid en standpunten van politieke partijen",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"id": "59c29633-b935-48ab-b840-b6a480aa8b4f",
@@ -8534,7 +8543,8 @@
 			"0ba4c401-3c90-430b-b2ba-f973a45385aa",
 			"81519119-8aca-45f6-8ae7-a90ace78f19b"
 		],
-		"title": "Subdomein C1: Gesprekken voeren"
+		"title": "Subdomein C1: Gesprekken voeren",
+		"deleted": 1
 	},
 	{
 		"prefix": "vervalt",
@@ -8543,7 +8553,8 @@
 		"examenprogramma_eindterm_id": [
 			"3535e734-8c24-44e1-a504-47a7de0c0829"
 		],
-		"title": "Subdomein C2: Spreken"
+		"title": "Subdomein C2: Spreken",
+		"deleted": 1
 	},
 	{
 		"prefix": "vervalt",
@@ -8554,7 +8565,8 @@
 			"a7f63997-8cef-486c-9ce6-77b55d7da877",
 			"3e43d75d-a970-4a7e-af05-c6d4bccb7e74"
 		],
-		"title": "Subdomein D1: Taalvaardigheden"
+		"title": "Subdomein D1: Taalvaardigheden",
+		"deleted": 1
 	},
 	{
 		"prefix": "vervalt",
@@ -8564,7 +8576,8 @@
 			"ce49573a-0776-47c6-a60d-bf0f8c39620f",
 			"7818953c-a551-4fe1-8eca-fcbabb5a7b95"
 		],
-		"title": "Subdomein D2: Strategische vaardigheden"
+		"title": "Subdomein D2: Strategische vaardigheden",
+		"deleted": 1
 	},
 	{
 		"prefix": "vervalt",
@@ -8573,7 +8586,8 @@
 		"examenprogramma_eindterm_id": [
 			"a2c6cd7d-13bb-4b52-bee8-82102fbd59d5"
 		],
-		"title": "Subdomein E1: Literaire ontwikkeling"
+		"title": "Subdomein E1: Literaire ontwikkeling",
+		"deleted": 1
 	},
 	{
 		"prefix": "MVT/TU/H/DomeinC/C1",
@@ -8632,12 +8646,16 @@
 		"prefix": "vervalt",
 		"id": "1f868ee4-355e-4726-afa9-5c157381cf8a",
 		"title": "Literaire begrippen",
-		"description": ""
+		"description": "",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "vervalt",
 		"id": "d4c8f735-bf5e-4e4f-8868-061e4889e8f5",
-		"title": "Subdomein E3: Literatuurgeschiedenis"
+		"title": "Subdomein E3: Literatuurgeschiedenis",
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "MVT/TU/V/DomeinC/C1",
@@ -9314,37 +9332,24 @@
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinC/C1",
-		"examenprogramma_eindterm_id": [
-			"812d9586-01be-4b7d-9382-e2b2d39f8526",
-			"505223bc-80d4-46da-9fd7-6dc964c4db21",
-			"5ea9af47-156f-44ec-bcd6-219553a21e50",
-			"8149db05-a31c-4d04-b30e-3e78d6760817",
-			"0baecf6a-e5e1-448f-ad89-5253c6cd0b3f"
-		],
 		"title": "Subdomein C1: Gesprekken voeren",
 		"id": "4e074a8b-bdb5-434a-8edc-07869711f4fb",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "SE"
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinC/C2",
-		"examenprogramma_eindterm_id": [
-			"cb9cea3a-868e-4298-94a8-f5881ed3e79f"
-		],
 		"title": "Subdomein C2: Spreken",
 		"id": "38566270-d24c-4926-917d-95bef2b2eee1",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "SE"
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinD/D1",
-		"examenprogramma_eindterm_id": [
-			"da03788b-2753-4343-b07b-d7302b6df6e6",
-			"ea3f2a23-7800-4df9-ad75-0e6c741fef2f",
-			"9097dd8b-2a23-4a31-9535-1b10fff3a5de",
-			"bbc63493-0433-48cf-8d6e-5d3a3ad4afe8"
-		],
 		"title": "Subdomein D1: Taalvaardigheden",
 		"id": "6fe5cca0-712e-4107-b4c9-3a3dc378135b",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": ""
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinD/D2",
