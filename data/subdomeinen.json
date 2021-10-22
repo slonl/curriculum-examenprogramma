@@ -9402,6 +9402,10 @@
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinD/D2",
+		"examenprogramma_eindterm_id": [
+			"37b07136-6e81-4e62-8eba-7373c04e0a71",
+			"38c3bb00-9745-4012-b8d7-dece7fd45ee3"
+		],
 		"title": "Subdomein D2: Strategische vaardigheden",
 		"id": "2682c6c1-4a16-420c-b454-a0f7cdf1531d",
 		"unreleased": true,
@@ -9410,7 +9414,7 @@
 	{
 		"prefix": "MVT/IT/V/DomeinE/E1",
 		"examenprogramma_eindterm_id": [
-			"4f9efe98-1258-434b-bfb4-16ecb0a45fff"
+			"970bacc9-b7d6-44e3-b132-663240b37f71"
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling",
 		"id": "b5a42441-48f3-4e85-9e95-bf4b540e96da",
@@ -9419,7 +9423,7 @@
 	{
 		"prefix": "MVT/IT/V/DomeinE/E2",
 		"examenprogramma_eindterm_id": [
-			"2bc95a36-5481-4396-8328-dcc143ec6576"
+			"c56be9a1-7f50-46ef-a08e-c63e05871753"
 		],
 		"title": "Subdomein E2: Literaire begrippen",
 		"id": "66f87a20-0305-4c5e-aed9-d2a9fa95040a",
@@ -9428,7 +9432,7 @@
 	{
 		"prefix": "MVT/IT/V/DomeinE/E3",
 		"examenprogramma_eindterm_id": [
-			"1d33a3f2-1ed0-486b-a106-fee9dd44f1ec"
+			"f36a3814-80fe-4507-9434-3c19ae710cc9"
 		],
 		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"id": "3dec2da9-0873-445b-b00e-17ea4e964296",
