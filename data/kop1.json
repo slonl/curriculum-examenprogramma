@@ -457,6 +457,9 @@
 		"title": "Het schoolexamen",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"examenprogramma_body_id": [
+			"b7f37ee2-5871-4348-8cab-a965ebf19861"
 		]
 	},
 	{
@@ -2216,7 +2219,8 @@
 		"prefix": "",
 		"replaces": [
 			"d8613b91-79a4-4d5b-ad10-fe811b80b991"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"title": "Het eindexamen bestaat uit het schoolexamen.",
