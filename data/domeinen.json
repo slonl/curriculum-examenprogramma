@@ -1896,8 +1896,7 @@
 			"1c1d724c-bddd-4882-b476-e3cb3e21bb79",
 			"e3d04750-7328-4140-851b-b123e5ae3dba",
 			"5481f4e2-4957-4834-b892-bd645059d43c",
-			"9db188ef-e079-460f-8a8e-b85bb811892b",
-			"2aba04db-def9-4038-9f3e-0140871960a2"
+			"9db188ef-e079-460f-8a8e-b85bb811892b"
 		],
 		"ce_se": "CE; SE"
 	},
@@ -1971,8 +1970,7 @@
 			"56cb8f51-829d-4464-954c-b905ba63ba8f",
 			"04779721-46b5-48aa-a418-ca47c2b0284f",
 			"18edc847-ec43-44bb-8482-77c9d7d02768",
-			"2ff90771-6387-4eb5-b51c-33d8d840184f",
-			"f2797574-20dc-4459-a2e7-e886c70e76ce"
+			"2ff90771-6387-4eb5-b51c-33d8d840184f"
 		],
 		"ce_se": "CE; SE"
 	},
@@ -2031,7 +2029,10 @@
 		"id": "b8039fb1-c50b-49f7-8384-2d09a484b244",
 		"title": "Domein G: Externe financiële verslaggeving",
 		"ce_se": "CE",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_domein"
+		]
 	},
 	{
 		"prefix": "MAW/V/DomeinH",
@@ -6555,9 +6556,6 @@
 	{
 		"prefix": "MVT/FA/H/DomeinF",
 		"id": "14d79f53-a3cd-4deb-8be3-8002bc21d647",
-		"examenprogramma_eindterm_id": [
-			"8f9147d2-3454-4068-ba97-2abd1bb9bc41"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -6617,9 +6615,6 @@
 	{
 		"prefix": "MVT/FA/V/DomeinF",
 		"id": "437b4a6d-d22b-4214-b14b-0ecb6d4fe7a4",
-		"examenprogramma_eindterm_id": [
-			"16d59a94-ca5a-49a7-970b-31980769e598"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -6860,9 +6855,6 @@
 	},
 	{
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"fc9188e5-e462-4cda-9d8b-0cd1e58cab79"
-		],
 		"title": "Domein F Oriëntatie op studie en beroep",
 		"id": "0e1b17c4-3aad-4a3d-9f2d-39564c94b64d",
 		"prefix": "FR/V/DomeinF"
@@ -6992,9 +6984,6 @@
 		"prefix": "MVT/RU/H/DomeinF",
 		"id": "1defef49-89a7-4c44-a692-b05e40e2a53a",
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"f940fe18-30c7-42ba-a1d6-6df2709513f0"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -7057,9 +7046,6 @@
 		"prefix": "MVT/AR/V/DomeinF",
 		"id": "1a8339dd-7d4f-44d6-8855-b28ff359efa0",
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"bfdca570-59a3-487c-905f-30c43d2a0ca6"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -7122,9 +7108,6 @@
 		"prefix": "MVT/AR/H/DomeinF",
 		"id": "bbb21971-9154-4fe8-88fb-f85db46016ef",
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"1a9685bf-669f-4ee3-8e71-45db1805f8b4"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -7187,9 +7170,6 @@
 		"prefix": "MVT/RU/V/DomeinF",
 		"id": "5b7dabe3-0aef-4bb8-97db-89b034665512",
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"f4508ad8-5cd5-4964-91b5-be744e267d37"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -7369,9 +7349,6 @@
 		"prefix": "MVT/TU/H/DomeinF",
 		"id": "3a9e9bfb-dfda-49ca-b591-798bcb40240f",
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"02d6eb1d-83c4-4e53-9e13-df8122faccc3"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -7541,9 +7518,6 @@
 		"prefix": "MVT/TU/V/DomeinF",
 		"id": "86e4fb35-9b07-4d84-861f-a6520cb0ea8a",
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"4e0674c4-550e-4664-bb31-cc3dc7cc693a"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -7606,9 +7580,6 @@
 		"prefix": "MVT/SP/H/DomeinF",
 		"id": "6fde8d81-7361-4e15-ad42-aea23e0f6c28",
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"05871708-7fd1-419f-9100-1abf05d3caed"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep"
 	},
 	{
@@ -7982,14 +7953,30 @@
 		"title": "Domein A: Leesvaardigheid",
 		"id": "77043c42-2941-4ecf-9e83-b66258f36301",
 		"prefix": "MVT/IT/V/DomeinA",
-		"ce_se": "ce"
+		"ce_se": "ce",
+		"examenprogramma_eindterm_id": [
+			"fa71bc0c-5af4-4e52-a81e-a20a596f2af4",
+			"d1fc1996-96ab-48a9-815d-fcff2bdc4443",
+			"ff291b43-721d-43b9-a255-094b2fe4b0e5",
+			"7a79ab13-1b14-4dfb-a64f-461b252b2272",
+			"74185c53-cf96-4a46-af31-1ee255ed6b0e"
+		],
+		"dirty": "1"
 	},
 	{
 		"title": "Domein B: Kijk- en luistervaardigheid",
 		"id": "2b0431f1-542d-4844-916a-27fd10ac92b1",
 		"unreleased": true,
 		"prefix": "MVT/IT/V/DomeinB",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"489a3fc8-dbce-4bab-9460-91494cc607c4",
+			"407ca8ad-3cb8-4c77-bd80-e4a434c10f49",
+			"4bfd4448-6bcb-44b4-b1bb-3324bb255b4d",
+			"ba4b2ab4-f0c2-4681-8a43-43d0ba2c350c",
+			"f363cd25-5dff-4a87-b22b-9f1bad616a4a",
+			"8bbe4c14-aa8c-460b-8ae5-26da25d0e8c3"
+		]
 	},
 	{
 		"examenprogramma_subdomein_id": [
@@ -8076,9 +8063,6 @@
 		"prefix": "MVT/IT/H/DomeinE"
 	},
 	{
-		"examenprogramma_eindterm_id": [
-			"ce8da9be-c2cf-4b52-a635-4f1f1652b446"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "2296b252-410c-4344-8484-ec543b46570d",
 		"unreleased": true
@@ -8292,9 +8276,6 @@
 	},
 	{
 		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"debe20f2-6770-405b-b5ba-03d371532830"
-		],
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "0122ef1b-7674-4d0a-8a06-e934170f6e9a",
 		"unreleased": true
@@ -8303,7 +8284,14 @@
 		"id": "570352c8-86d8-4d8a-9270-052b71ee8f99",
 		"prefix": "MVT/IT/H/DomeinA",
 		"title": "Domein A: Leesvaardigheid",
-		"ce_se": "ce"
+		"ce_se": "ce",
+		"examenprogramma_eindterm_id": [
+			"f8348965-6130-4b96-979a-dcd878700b72",
+			"781dd516-3ff9-4afb-ae6a-f1dad890e44d",
+			"7e432d28-197a-4069-a4cb-6df3089f321e",
+			"dd31f203-3a1b-4780-98f7-352f5606d984",
+			"9cd3d165-6540-43d3-a387-8e677c804fd0"
+		]
 	},
 	{
 		"ce_se": "SE",
