@@ -7979,6 +7979,12 @@
 		]
 	},
 	{
+		"title": "Domein A: Leesvaardigheid",
+		"id": "77043c42-2941-4ecf-9e83-b66258f36301",
+		"prefix": "MVT/IT/V/DomeinA",
+		"ce_se": "ce"
+	},
+	{
 		"title": "Domein B: Kijk- en luistervaardigheid",
 		"id": "2b0431f1-542d-4844-916a-27fd10ac92b1",
 		"unreleased": true,
@@ -7987,7 +7993,8 @@
 	},
 	{
 		"examenprogramma_subdomein_id": [
-			"4e074a8b-bdb5-434a-8edc-07869711f4fb"
+			"4e074a8b-bdb5-434a-8edc-07869711f4fb",
+			"38566270-d24c-4926-917d-95bef2b2eee1"
 		],
 		"title": "Domein C: Gespreksvaardigheid",
 		"id": "e03c1fb5-775d-427a-b201-b076da123161",
@@ -8291,12 +8298,6 @@
 		"title": "Domein F: Oriëntatie op studie en beroep",
 		"id": "0122ef1b-7674-4d0a-8a06-e934170f6e9a",
 		"unreleased": true
-	},
-	{
-		"id": "77043c42-2941-4ecf-9e83-b66258f36301",
-		"prefix": "MVT/IT/V/DomeinA",
-		"title": "Domein A: Leesvaardigheid",
-		"ce_se": "ce"
 	},
 	{
 		"id": "570352c8-86d8-4d8a-9270-052b71ee8f99",
