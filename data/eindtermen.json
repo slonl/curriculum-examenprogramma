@@ -26583,7 +26583,10 @@
 		"id": "8f9147d2-3454-4068-ba97-2abd1bb9bc41",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"prefix": "MVT/FA/V/DomeinA/1a",
@@ -26824,7 +26827,10 @@
 		"id": "16d59a94-ca5a-49a7-970b-31980769e598",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"prefix": "MVT/DU/H/DomeinA/1a",
@@ -28024,7 +28030,10 @@
 		"id": "fc9188e5-e462-4cda-9d8b-0cd1e58cab79",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"prefix": "FR/H/DomeinA/1a",
@@ -28634,7 +28643,10 @@
 		"id": "f940fe18-30c7-42ba-a1d6-6df2709513f0",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"prefix": "MVT/AR/V/DomeinA/1a",
@@ -28977,7 +28989,10 @@
 		"id": "bfdca570-59a3-487c-905f-30c43d2a0ca6",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"prefix": "MVT/AR/H/DomeinA/1a",
@@ -29191,7 +29206,10 @@
 		"id": "1a9685bf-669f-4ee3-8e71-45db1805f8b4",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -29384,7 +29402,10 @@
 		"id": "f4508ad8-5cd5-4964-91b5-be744e267d37",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"ce_se": "SE",
@@ -29894,7 +29915,10 @@
 		"id": "02d6eb1d-83c4-4e53-9e13-df8122faccc3",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"niveau_id": [
@@ -30386,7 +30410,10 @@
 		"id": "4e0674c4-550e-4664-bb31-cc3dc7cc693a",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"ce_se": "CE",
@@ -30579,7 +30606,10 @@
 		"id": "05871708-7fd1-419f-9100-1abf05d3caed",
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"prefix": "MVT/SP/K/1/1",
@@ -32286,7 +32316,10 @@
 		"unreleased": true,
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"niveau_id": [
@@ -33493,7 +33526,10 @@
 		"unreleased": true,
 		"prefix": "",
 		"description": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_eindterm"
+		]
 	},
 	{
 		"niveau_id": [
@@ -33741,6 +33777,51 @@
 		"id": "f855b2eb-3cb1-41bf-bfb7-87ab48503a30",
 		"title": "De kandidaat kan een verslag schrijven.",
 		"prefix": "MVT/IT/V/DomeinD/D1/5d",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "38c3bb00-9745-4012-b8d7-dece7fd45ee3",
+		"prefix": "MVT/IT/V/DomeinD/D2/6a",
+		"title": "De kandidaat kan een tekstverwerkingsprogramma een tekst schrijven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "37b07136-6e81-4e62-8eba-7373c04e0a71",
+		"prefix": "MVT/IT/V/DomeinD/D2/6b",
+		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "970bacc9-b7d6-44e3-b132-663240b37f71",
+		"prefix": "MVT/IT/V/DomeinE/E1/7",
+		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met ten minste drie literaire werken.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "c56be9a1-7f50-46ef-a08e-c63e05871753",
+		"prefix": "MVT/IT/V/DomeinE/E2/8",
+		"title": "De kandidaat kan literaire tekstsoorten herkennen en onderscheiden, en literaire begrippen hanteren in de interpretatie van literaire teksten. ",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "f36a3814-80fe-4507-9434-3c19ae710cc9",
+		"prefix": "MVT/IT/V/DomeinE/E3/9",
+		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief. ",
 		"description": ""
 	}
 ]
