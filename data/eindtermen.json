@@ -33823,5 +33823,149 @@
 		"prefix": "MVT/IT/V/DomeinE/E3/9",
 		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief. ",
 		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "fa71bc0c-5af4-4e52-a81e-a20a596f2af4",
+		"prefix": "MVT/IT/V/DomeinA/1a",
+		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "d1fc1996-96ab-48a9-815d-fcff2bdc4443",
+		"prefix": "MVT/IT/V/DomeinA/1b",
+		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "ff291b43-721d-43b9-a255-094b2fe4b0e5",
+		"prefix": "MVT/IT/V/DomeinA/1c",
+		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "7a79ab13-1b14-4dfb-a64f-461b252b2272",
+		"prefix": "MVT/IT/V/DomeinA/1d",
+		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "74185c53-cf96-4a46-af31-1ee255ed6b0e",
+		"prefix": "MVT/IT/V/DomeinA/1e",
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "489a3fc8-dbce-4bab-9460-91494cc607c4",
+		"prefix": "MVT/IT/V/DomeinB/2a",
+		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "407ca8ad-3cb8-4c77-bd80-e4a434c10f49",
+		"prefix": "MVT/IT/V/DomeinB/2b",
+		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "4bfd4448-6bcb-44b4-b1bb-3324bb255b4d",
+		"prefix": "MVT/IT/V/DomeinB/2c",
+		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "ba4b2ab4-f0c2-4681-8a43-43d0ba2c350c",
+		"prefix": "MVT/IT/V/DomeinB/2d",
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "f363cd25-5dff-4a87-b22b-9f1bad616a4a",
+		"prefix": "MVT/IT/V/DomeinB/2e",
+		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "8bbe4c14-aa8c-460b-8ae5-26da25d0e8c3",
+		"prefix": "MVT/IT/V/DomeinB/2f",
+		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "f8348965-6130-4b96-979a-dcd878700b72",
+		"prefix": "MVT/IT/H/DomeinA/1a",
+		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "781dd516-3ff9-4afb-ae6a-f1dad890e44d",
+		"prefix": "MVT/IT/H/DomeinA/1b",
+		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "7e432d28-197a-4069-a4cb-6df3089f321e",
+		"prefix": "MVT/IT/H/DomeinA/1c",
+		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "dd31f203-3a1b-4780-98f7-352f5606d984",
+		"prefix": "MVT/IT/H/DomeinA/1d",
+		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven.",
+		"description": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "9cd3d165-6540-43d3-a387-8e677c804fd0",
+		"prefix": "MVT/IT/H/DomeinA/1e",
+		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
+		"description": ""
 	}
 ]
