@@ -2778,7 +2778,10 @@
 		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
 		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"ce_se": "SE",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "MU/V/DomeinA/A1",
@@ -2888,7 +2891,10 @@
 		"id": "2aba04db-def9-4038-9f3e-0140871960a2",
 		"title": "Subdomein A6: Oriëntatie op studie en beroep",
 		"ce_se": "CE; SE",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "MO/V/DomeinB/B1",
@@ -3058,7 +3064,10 @@
 		"id": "f2797574-20dc-4459-a2e7-e886c70e76ce",
 		"title": "Subdomein A6: Oriëntatie op studie en beroep",
 		"ce_se": "CE; SE",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "MO/H/DomeinB/B1",
@@ -8086,7 +8095,10 @@
 		"prefix": "MAW/V/DomeinB/B5",
 		"title": "Overheidsbeleid en standpunten van politieke partijen",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"id": "59c29633-b935-48ab-b840-b6a480aa8b4f",
@@ -8544,7 +8556,10 @@
 			"81519119-8aca-45f6-8ae7-a90ace78f19b"
 		],
 		"title": "Subdomein C1: Gesprekken voeren",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "vervalt",
@@ -8554,7 +8569,10 @@
 			"3535e734-8c24-44e1-a504-47a7de0c0829"
 		],
 		"title": "Subdomein C2: Spreken",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "vervalt",
@@ -8566,7 +8584,10 @@
 			"3e43d75d-a970-4a7e-af05-c6d4bccb7e74"
 		],
 		"title": "Subdomein D1: Taalvaardigheden",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "vervalt",
@@ -8577,7 +8598,10 @@
 			"7818953c-a551-4fe1-8eca-fcbabb5a7b95"
 		],
 		"title": "Subdomein D2: Strategische vaardigheden",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "vervalt",
@@ -8587,7 +8611,10 @@
 			"a2c6cd7d-13bb-4b52-bee8-82102fbd59d5"
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "MVT/TU/H/DomeinC/C1",
@@ -8648,14 +8675,20 @@
 		"title": "Literaire begrippen",
 		"description": "",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "vervalt",
 		"id": "d4c8f735-bf5e-4e4f-8868-061e4889e8f5",
 		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"ce_se": "",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"examenprogramma_subdomein"
+		]
 	},
 	{
 		"prefix": "MVT/TU/V/DomeinC/C1",
@@ -9335,31 +9368,44 @@
 		"title": "Subdomein C1: Gesprekken voeren",
 		"id": "4e074a8b-bdb5-434a-8edc-07869711f4fb",
 		"unreleased": true,
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"0e32b66f-77fd-48a8-9afa-8d8a17de1729",
+			"8b8277e6-4031-4e6f-991b-d265cfbd4ced",
+			"da13ea65-4c1c-4cae-a5ab-b119e5b4bac5",
+			"ca234139-0010-45fc-a817-9a51d64a0ac6",
+			"c0c3f477-337a-4aa8-b1a8-0fa72fe99f98"
+		]
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinC/C2",
 		"title": "Subdomein C2: Spreken",
 		"id": "38566270-d24c-4926-917d-95bef2b2eee1",
 		"unreleased": true,
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"b36d2ee6-c946-4c1a-a9ca-e6c874e58f68"
+		]
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinD/D1",
 		"title": "Subdomein D1: Taalvaardigheden",
 		"id": "6fe5cca0-712e-4107-b4c9-3a3dc378135b",
 		"unreleased": true,
-		"ce_se": ""
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"fdd09bde-d996-4fda-b2eb-6cbd525582ce",
+			"37006668-8dd9-4a60-9bf1-a0e5c8a3fb61",
+			"d14880ec-f892-4ef1-8095-f3ddcdd103ca",
+			"f855b2eb-3cb1-41bf-bfb7-87ab48503a30"
+		]
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinD/D2",
-		"examenprogramma_eindterm_id": [
-			"fdb73d14-cc7d-40ef-8c03-535df0e5284a",
-			"eec37fe0-9524-49e0-b776-067bf67bc160"
-		],
 		"title": "Subdomein D2: Strategische vaardigheden",
 		"id": "2682c6c1-4a16-420c-b454-a0f7cdf1531d",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "SE"
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinE/E1",
