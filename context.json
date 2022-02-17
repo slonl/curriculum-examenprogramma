@@ -451,7 +451,7 @@
 				"$ref": "#/definitions/examenprogramma"
 			}
 		},
-		"examenprogramma_deprecated": {
+		"deprecated": {
 			"#file": "data/deprecated.json",
 			"type" : "array"
 		}
