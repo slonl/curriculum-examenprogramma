@@ -36,7 +36,7 @@
 	},
 	{
 		"id": "82680d86-c679-4a7d-826d-6d5ccaf82de9",
-		"title": "Tekenen, handvaardigheid en textiele vormgeving",
+		"title": "Tekenen",
 		"vakleergebied_id": [
 			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
 		]
@@ -81,13 +81,6 @@
 		"title": "Frans",
 		"vakleergebied_id": [
 			"f851676e-b541-42db-986a-5c468974f65e"
-		]
-	},
-	{
-		"id": "999510a3-f8ee-445b-a1e2-807ee9b2ccac",
-		"title": "Muziek",
-		"vakleergebied_id": [
-			"aa9da88c-189f-4857-b067-7cbdc929c905"
 		]
 	},
 	{
@@ -142,66 +135,23 @@
 	},
 	{
 		"id": "3cf8b312-3681-4d6c-add8-fd7e3c9b2078",
-		"title": "Klassieke Talen",
+		"title": "Latijn",
 		"vakleergebied_id": [
-			"797f5fdf-8e35-43e9-b290-772c84f1761e",
 			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
-		]
-	},
-	{
-		"id": "0be557c4-ea18-43a4-800b-a2fb7e6e0f49",
-		"title": "Kunstvakken: Culturele Kunstzinnige Vorming",
-		"vakleergebied_id": [
-			"a70b035e-2c79-4b7d-81de-03678354cdc1"
-		]
-	},
-	{
-		"id": "b89256f2-ccb0-4a0f-a870-dea8d63d40d4",
-		"title": "Kunst (muziek)",
-		"vakleergebied_id": [
-			"aa9da88c-189f-4857-b067-7cbdc929c905"
-		]
-	},
-	{
-		"id": "b4d10624-199f-4ffc-8a25-58df0bfb5002",
-		"title": "Kunst (drama)",
-		"vakleergebied_id": [
-			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
-		]
-	},
-	{
-		"id": "56edbfd4-ef52-49d4-852f-74ea54b9c290",
-		"title": "Kunst (dans)",
-		"vakleergebied_id": [
-			"fbf18b56-2d01-4fc0-975d-af7122af4052"
 		]
 	},
 	{
 		"id": "69aaf8f5-d607-4823-9e1c-64c6038c1054",
 		"title": "Dans",
 		"vakleergebied_id": [
-			"fbf18b56-2d01-4fc0-975d-af7122af4052"
-		]
-	},
-	{
-		"id": "9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93",
-		"title": "Kunst (beeldende vormgeving)",
-		"vakleergebied_id": [
-			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			"39ae089f-d9e4-47c5-bd78-f40432efb958"
 		]
 	},
 	{
 		"id": "002d65dd-5302-4f02-9a62-25bf8ef8eaa4",
-		"title": "Kunst  algemeen",
+		"title": "Kunst (algemeen)",
 		"vakleergebied_id": [
 			"26ef692c-72ce-481e-ba7a-43d0bef1fc0c"
-		]
-	},
-	{
-		"id": "62678a6d-8133-407b-9338-e7d0fe0cfd00",
-		"title": "Informatietechnologie",
-		"vakleergebied_id": [
-			"2845473d-ce18-450a-9135-6738abbdc129"
 		]
 	},
 	{
@@ -236,7 +186,7 @@
 		"id": "561769d0-9c63-40e8-b2e7-54bde96f7e9f",
 		"title": "Drama",
 		"vakleergebied_id": [
-			"b63165ce-21a3-45d5-8b89-83d48f980cfb"
+			"926f1084-fb32-47ee-be2b-13b5dbb6ee36"
 		]
 	},
 	{
@@ -271,7 +221,7 @@
 		"id": "cda3e026-b19d-404a-ba01-d6fa3a5cfeb3",
 		"title": "Beeldende vorming",
 		"vakleergebied_id": [
-			"3e408d9d-d9dc-4eb7-8841-13f3dabe27fd"
+			"b608d97d-2846-4216-a3ea-925ab70cff17"
 		]
 	},
 	{
@@ -297,24 +247,6 @@
 	},
 	{
 		"vakleergebied_id": [
-			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
-		],
-		"title": "Friese taal",
-		"id": "180c82c1-6805-4bc3-811e-e102e8ed7835"
-	},
-	{
-		"vakleergebied_id": [
-			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
-		],
-		"title": "Friese taal",
-		"id": "5b4b1f9c-a1ae-417b-89e6-04a30221c859",
-		"unreleased": true,
-		"types": [
-			"examenprogramma_vakleergebied"
-		]
-	},
-	{
-		"vakleergebied_id": [
 			"6b89b236-42ae-429f-bc33-422e12b53cb1"
 		],
 		"title": "Russisch",
@@ -329,34 +261,10 @@
 	},
 	{
 		"vakleergebied_id": [
-			"6b89b236-42ae-429f-bc33-422e12b53cb1"
-		],
-		"title": "Russisch",
-		"id": "f6b9efbb-1826-4a76-83fd-b16cf4906560"
-	},
-	{
-		"vakleergebied_id": [
 			"20d46f17-c61f-4677-a2c9-0f2fc7512ed4"
 		],
 		"title": "Turks",
 		"id": "df4f53f6-571b-44db-9167-27a5c4a7d59c"
-	},
-	{
-		"vakleergebied_id": [
-			"73abc618-988a-4409-b2ae-ff16febf68ee"
-		],
-		"title": "Arabisch",
-		"id": "605f1968-9065-42a4-9b2b-83214684aea6"
-	},
-	{
-		"id": "64ab97f4-9bd1-4a03-8045-3d84626a0ea8",
-		"title": "Natuur- en scheikunde I",
-		"vakleergebied_id": [
-			"b362c478-90c9-45ac-855a-79421d23ed07"
-		],
-		"replaces": [
-			"42bab708-73f3-4c4a-b2a6-3f2d911f2db1"
-		]
 	},
 	{
 		"id": "64ab97f4-9bd1-4a03-8045-3d84626a0ea8",
@@ -386,6 +294,122 @@
 		],
 		"replaces": [
 			"19755351-eab6-43fb-a2cc-7b0b909802b6"
+		]
+	},
+	{
+		"id": "eff6a806-869a-46e5-8f32-e0e4db6e906c",
+		"title": "Spaans",
+		"description": "",
+		"vakleergebied_id": [
+			"73abc618-988a-4409-b2ae-ff16febf68ee"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7"
+		],
+		"title": "Italiaans",
+		"id": "a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
+	},
+	{
+		"id": "d75646bc-043d-4c70-ab45-f51999a23525",
+		"title": "Handvaardigheid",
+		"vakleergebied_id": [
+			"953167a9-cb14-47e3-8446-a708a4e077b9"
+		]
+	},
+	{
+		"id": "707dd684-21e4-4eb1-9852-a819be9fd377",
+		"title": "Textiele vormgeving",
+		"vakleergebied_id": [
+			"99fa52fd-5d20-446a-a34c-61a6be77b413"
+		]
+	},
+	{
+		"id": "341672a5-f515-4825-8b21-4f65df027e2f",
+		"title": "Grieks",
+		"vakleergebied_id": [
+			"797f5fdf-8e35-43e9-b290-772c84f1761e"
+		]
+	},
+	{
+		"id": "98572b3b-052f-4df0-ba49-e14aee04f944",
+		"title": "Muziek",
+		"vakleergebied_id": [
+			"fec0f646-78c9-47ec-ad2e-ebbc0c2345d6"
+		],
+		"replaces": [
+			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
+		]
+	},
+	{
+		"id": "8eee2b1a-adb5-42fa-b7d4-bda46b783bcb",
+		"title": "Kunstvakken incl. CKV",
+		"vakleergebied_id": [
+			"29a8bd9f-2963-4070-84d8-c06075ca0ae1"
+		],
+		"replaces": [
+			"0be557c4-ea18-43a4-800b-a2fb7e6e0f49"
+		]
+	},
+	{
+		"id": "bda8e86a-3282-48bb-ab64-d654dbbca14a",
+		"title": "Informatietechnologie",
+		"vakleergebied_id": [
+			"e2b27400-7f2e-4cd3-a4fb-933fd2bcd7a9"
+		],
+		"replaces": [
+			"62678a6d-8133-407b-9338-e7d0fe0cfd00"
+		]
+	},
+	{
+		"id": "fe12f70f-d4b5-4a7f-b689-8bb6faa3ee8e",
+		"title": "Kunst (muziek)",
+		"vakleergebied_id": [
+			"dce3bb1f-6e36-42d1-85b3-a9aa44c2daa8"
+		],
+		"replaces": [
+			"b89256f2-ccb0-4a0f-a870-dea8d63d40d4"
+		]
+	},
+	{
+		"id": "58c41c9b-375d-47b3-bbdf-7790d4bd2916",
+		"title": "Kunst (drama)",
+		"vakleergebied_id": [
+			"ebf6d8b4-e6ab-4238-83c1-2fd2e119d45b"
+		],
+		"replaces": [
+			"b4d10624-199f-4ffc-8a25-58df0bfb5002"
+		]
+	},
+	{
+		"id": "34033c01-03ea-49cd-b868-59cd32bd3ec8",
+		"title": "Kunst (dans)",
+		"vakleergebied_id": [
+			"3bcb4015-b9af-4009-8a50-3295c07dabc9"
+		],
+		"replaces": [
+			"56edbfd4-ef52-49d4-852f-74ea54b9c290"
+		]
+	},
+	{
+		"id": "7f7e12dc-2203-4fe0-ab12-ba68bccfb9c8",
+		"title": "Kunst (beeldende vormgeving)",
+		"vakleergebied_id": [
+			"b83130c3-fa75-4559-8f97-4d14e8771b87"
+		],
+		"replaces": [
+			"9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"6e29642b-d99d-4085-8dc5-971cabb6b693"
+		],
+		"title": "Friese taal",
+		"id": "57ffd396-6bee-4868-b2be-f0304c29ef89",
+		"replaces": [
+			"180c82c1-6805-4bc3-811e-e102e8ed7835"
 		]
 	}
 ]

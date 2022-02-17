@@ -1,16 +1,14 @@
 [
 	{
-		"id": "872fc39c-d20d-4245-8192-749fdac881c7",
+		"id": "1578c74b-1708-4030-b2e5-1d261a50d6eb",
 		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
 		"tag_id": [
 			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
 		"examenprogramma_kop4_id": [],
-		"examenprogramma_body_id": [
-			"ef6a3a67-ebc5-4413-a69c-260536b56822",
-			"4f051d86-dcb7-449b-80bf-cef348001a6e",
-			"d7a6100d-221d-4370-aeb7-481f35af0337",
-			"54c121b3-20f1-4c9d-bb41-1f80d6aceeb7"
+		"examenprogramma_body_id": [],
+		"replaces": [
+			"872fc39c-d20d-4245-8192-749fdac881c7"
 		]
 	}
 ]
