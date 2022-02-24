@@ -93,37 +93,6 @@
 		]
 	},
 	{
-		"prefix": "WI/C/vwo",
-		"id": "4758779f-48a8-4876-a491-262ee888cd62",
-		"title": "Examenprogramma Wiskunde C vwo",
-		"examenprogramma_vakleergebied_id": [
-			"26b1891a-3390-4163-a91e-699955b1fca4"
-		],
-		"examenprogramma_domein_id": [
-			"2b245422-42b9-45d9-9ba0-ddc1834e4689",
-			"d7b55fc8-5a33-46df-93ca-66fc2c09a49c",
-			"0ad1c1fe-ab04-4055-9a27-772fc07f7847",
-			"5c6d73db-9b6c-4162-9591-be3d6d9b35ac",
-			"5f9e15ce-9953-4911-bc9b-d32dbd84777b",
-			"0a7d168d-189c-4d00-b4cb-bc9b939811ca",
-			"e58d8733-771b-4234-b2d0-76a3b5778d11",
-			"941b0c0d-de6d-428d-aa1e-657e663c7786"
-		],
-		"examenprogramma_kop1_id": [
-			"63217a9d-1d7a-4300-908e-8bf6300b828d",
-			"4ee95fd5-82c3-4b38-9c34-bdbdd1ade82b",
-			"07ee0bf7-aac3-4f80-8f50-1aa3f78139b8"
-		],
-		"ingangsdatum": "Vanaf CE 2018",
-		"versie": "2020",
-		"jaargang": "2018",
-		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-c-vwo-2/2020/f=/examenprogramma_wiskunde_c_vwo.pdf",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"prefix": "WI/B/vwo",
 		"id": "ec6f8a9d-e05f-40c4-9078-bf4b7b3cf401",
 		"title": "Examenprogramma Wiskunde B vwo",
@@ -180,35 +149,6 @@
 		]
 	},
 	{
-		"prefix": "WI/A/vwo",
-		"id": "6f5d3c16-1274-4f69-9601-cb96188e1b54",
-		"title": "Examenprogramma Wiskunde A vwo",
-		"examenprogramma_vakleergebied_id": [
-			"52d18b6c-0478-46b6-87fe-1bc81711ad3f"
-		],
-		"examenprogramma_domein_id": [
-			"5e587a7a-1d72-474b-a757-579185f925af",
-			"c32a021a-5672-44d0-ac52-4fddd091cd52",
-			"9e34c7fc-3e72-4ec2-9e65-1884f09fb38a",
-			"ca60f778-3b28-4123-ac02-9d606b58ce05",
-			"56fa83d1-94a7-4713-8c56-60876a1e67ef",
-			"aec70e35-7fb5-466e-bfed-929a31d2b975"
-		],
-		"examenprogramma_kop1_id": [
-			"e10cf851-ba83-4c74-a88f-51ac3c3dbf9b",
-			"29e21108-ec4b-403d-813b-021d597e2c26",
-			"903fce21-6625-47d7-b4ee-328da6748b97"
-		],
-		"ingangsdatum": "Vanaf CE 2018",
-		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
-		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-vwo-2/2020/f=/examenprogramma_wiskunde_a_vwo.pdf",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"prefix": "WI/A/havo",
 		"id": "0b58d535-ca20-47e4-9f40-3033e291ec6e",
 		"title": "Examenprogramma Wiskunde A havo",
@@ -235,56 +175,6 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
-	},
-	{
-		"prefix": "THT/TV/vwo",
-		"id": "ec850fae-47a6-4dbc-939c-bf7190546ddc",
-		"title": "Examenprogramma Textiele vormgeving vwo",
-		"examenprogramma_vakleergebied_id": [
-			"707dd684-21e4-4eb1-9852-a819be9fd377"
-		],
-		"examenprogramma_domein_id": [
-			"8c78af02-238d-4048-b965-ab81b8fa7bdf",
-			"2673561a-76e5-4492-8bdc-4975ec3bda92",
-			"25deb580-a7ae-452d-a678-717c270b0035"
-		],
-		"examenprogramma_kop1_id": [
-			"7f3bee9b-e864-4aaa-af84-5ed9df1aa5aa",
-			"9ee0e504-fe4a-4608-9904-f1d1f4c66f46",
-			"d4b4097d-84a1-4b37-b38f-68ad441ced5d"
-		],
-		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-vwo/2020/f=/tw_vwo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "THT/TV/havo",
-		"id": "6def654f-0bf6-45b3-8afe-f86bf41eb89e",
-		"title": "Examenprogramma Textiele vormgeving havo",
-		"examenprogramma_vakleergebied_id": [
-			"707dd684-21e4-4eb1-9852-a819be9fd377"
-		],
-		"examenprogramma_domein_id": [
-			"36a961a1-c152-44bc-96cb-338e8ef8c713",
-			"66dbceec-16e0-41e8-8068-dbca5773ecf8",
-			"0e8ac3a1-d919-46a9-b9c3-891a1e6e04ad"
-		],
-		"examenprogramma_kop1_id": [
-			"0f1c2433-4064-439f-89ba-eb79e5068c72",
-			"c43f18cb-f517-4a1b-ab1c-995f9c588de1",
-			"9dc40047-527e-4de6-a03e-40321c8f9f2a"
-		],
-		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-havo/2020/f=/tw_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": "1"
 	},
 	{
 		"prefix": "THTEX",
@@ -480,120 +370,6 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
-	},
-	{
-		"prefix": "MU/vwo",
-		"id": "9c7ce10d-f8bb-4726-9387-078466916b43",
-		"title": "Examenprogramma Muziek  vwo",
-		"examenprogramma_vakleergebied_id": [
-			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
-		],
-		"examenprogramma_domein_id": [
-			"942afd18-8dc0-4b99-be3a-bdff22f99ec2",
-			"0ab9fc8e-9580-4c08-bb6a-84b1249e03e2",
-			"e5911a6f-59e7-4d31-8343-d1f6e656405f"
-		],
-		"examenprogramma_kop1_id": [
-			"7f93f245-403f-4988-bc75-ae0a97ef9197",
-			"a0b1727a-1f2c-4075-9907-6b0e67476823",
-			"f6c633de-dc84-45ff-8c5d-6f704cc11cf5"
-		],
-		"url": "https://www.examenblad.nl/examenstof/muziek-vwo/2020/f=/muz_vwo.pdf",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ingangsdatum": "",
-		"versie": ""
-	},
-	{
-		"prefix": "MU/vmbo",
-		"id": "340236bd-8944-4768-8361-7f0c5d349eb4",
-		"title": "Examenprogramma Muziek vmbo gl/tl",
-		"examenprogramma_vakleergebied_id": [
-			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
-		],
-		"examenprogramma_domein_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
-			"2368b511-e11d-4804-8027-6226a8bd3cee",
-			"b1353329-9e18-4caf-ac1e-fa1539095496",
-			"ca29ac70-a519-46e9-8771-c0993aa42585",
-			"44d985d2-c0b4-4ae4-b31e-f87cec8222be",
-			"fdf5225d-2ae1-44dd-8b79-9d5e13d3bdc4",
-			"d4914e81-ffbf-419b-8305-9ec11065c9ba",
-			"9e3ed90c-7c18-4930-8d7f-8c636933b346",
-			"55f1c30c-e084-472f-b378-ef9b28d3822a",
-			"04a3a43c-54ec-4f14-834d-bd475caf7e38",
-			"ffd42937-762a-4894-bb06-59b5b3966a48",
-			"18a3cdb9-9263-4dab-a935-7f04e9b3f3c1",
-			"68204e7e-e986-4f94-a979-f127133dee8c"
-		],
-		"url": "https://www.examenblad.nl/examenstof/muziek-vmbo-2/2020/f=/muziek.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
-	},
-	{
-		"prefix": "MO/vwo",
-		"id": "b44cba12-6a0c-4579-a818-d781b53a618d",
-		"title": "Examenprogramma Management en organisatie vwo",
-		"examenprogramma_vakleergebied_id": [
-			"ea6ba3d7-9bb6-4465-a424-02bf9a8eb1b5"
-		],
-		"examenprogramma_domein_id": [
-			"3523a6d9-e47e-4938-9693-56915d422114",
-			"a52cd4b0-0366-4339-8ec3-719edafb1c2b",
-			"1b641a37-ce5b-4263-af96-617c6d862c8a",
-			"8acb1033-c7be-4e39-bc43-11ef74e50760",
-			"aa24609a-91a7-4338-a5e7-b65f92d45824",
-			"b5b5ae9c-ae28-47de-b482-413e257abab0",
-			"939006cd-0e21-441d-849e-f56ccfbee0c5"
-		],
-		"examenprogramma_kop1_id": [
-			"93eee83f-9fd8-4f9c-97ca-ade3b449d206",
-			"2a72f2d4-11b7-4ecd-8b42-d2c73e210dd7",
-			"4ac5a650-7de1-493b-9dfa-b07250b383ae"
-		],
-		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2019/f=/examenprogramma_management_en_organisatie_vwo.pdf",
-		"ingangsdatum": "",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "MO/havo",
-		"id": "0685a60b-5833-4da0-8643-a54c206686ae",
-		"title": "Examenprogramma Management en organisatie havo",
-		"examenprogramma_vakleergebied_id": [
-			"ea6ba3d7-9bb6-4465-a424-02bf9a8eb1b5"
-		],
-		"examenprogramma_domein_id": [
-			"64a61086-b2a2-4db1-8754-4d4159ae0579",
-			"a216dbf4-6cc9-43ff-ba51-2c651d9e6451",
-			"32681378-c339-47bf-ad9f-f3504b103476",
-			"615924a2-9c79-4b32-a265-d7d67f2687c0",
-			"7d731e15-8fe3-486d-8a0b-86167a3d73fa",
-			"d9c72ed1-fe18-4037-b5ae-97bdab5acee9"
-		],
-		"examenprogramma_kop1_id": [
-			"3060b72c-6a9c-4732-b320-63d72e5dfb87",
-			"6553e67a-39a1-4460-8d40-9ce90c279f5b",
-			"ebe3c114-2831-4174-a6fb-784a3e5c70ab"
-		],
-		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-havo-2/2019/f=/meno_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": "1"
 	},
 	{
 		"prefix": "MAW/havo",
@@ -827,249 +603,6 @@
 		]
 	},
 	{
-		"prefix": "KV/vmbo",
-		"id": "cdd3e66f-17df-4a0c-9496-89efae7dffef",
-		"title": "Examenprogramma Kunstvakken incl. CKV vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"0be557c4-ea18-43a4-800b-a2fb7e6e0f49"
-		],
-		"examenprogramma_domein_id": [
-			"f99831f7-f16b-471c-a1b0-c24015c9538d",
-			"1867605e-8398-452f-a4dd-c599b5b73671",
-			"085d26de-1ca2-4ade-b6bf-1e4c1bae331f",
-			"c1f7035f-5bc5-485e-be1d-8090821c4d66"
-		],
-		"ingangsdatum": "vanaf schooljaar 2018-2019",
-		"url": "https://www.examenblad.nl/examenstof/examenprogramma-kunstvakken/2020/f=/Examenprogramma_kunstvakken_inclusief_ckv.pdf",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		]
-	},
-	{
-		"prefix": "KUMU/vwo",
-		"id": "78cd103c-54e3-4d1b-b392-5b93c880582a",
-		"title": "Examenprogramma Kunst (muziek) vwo",
-		"examenprogramma_vakleergebied_id": [
-			"b89256f2-ccb0-4a0f-a870-dea8d63d40d4"
-		],
-		"examenprogramma_domein_id": [
-			"9cbbf01a-3cb5-46dd-9b72-5c4fc1421d2e",
-			"a34976df-1101-492b-8cfb-0123c25d749d",
-			"281e83d1-edd5-4e92-b912-a73a9aa51e5e"
-		],
-		"examenprogramma_kop1_id": [
-			"3a06d6a6-0218-4cc4-9d2d-71a7ead5f655",
-			"f4e8293e-c830-4ed5-b4c3-b2faa22c1425",
-			"9b3416e1-6f0c-4013-939b-f2234c80ebae"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-vwo/2020/f=/kunstmuz_vwo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"prefix": "KUMU/havo",
-		"id": "fd4b7c27-0ca8-4e46-a613-90f24509a4a3",
-		"title": "Examenprogramma Kunst (muziek) havo",
-		"examenprogramma_vakleergebied_id": [
-			"b89256f2-ccb0-4a0f-a870-dea8d63d40d4"
-		],
-		"examenprogramma_domein_id": [
-			"efc5b46e-9b9d-441e-b5b5-5f0429387a14",
-			"a78e446f-fa61-48b9-af63-e11e52ef3caa",
-			"7d421cdf-40b3-477d-bc98-1e26d76d6a51"
-		],
-		"examenprogramma_kop1_id": [
-			"4b5de09f-b4d3-4885-bab2-4a364d920994",
-			"a4708546-5138-4ba6-bc3e-b4d65ed056ba",
-			"fcf6d9c5-4856-400a-832e-ae90dff9eb00"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-havo/2020/f=/kunstmuz_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "KUDR/vwo",
-		"id": "530811b4-b704-429a-9ff2-2f2f0f472d50",
-		"title": "Examenprogramma Kunst (drama) vwo",
-		"examenprogramma_vakleergebied_id": [
-			"b4d10624-199f-4ffc-8a25-58df0bfb5002"
-		],
-		"examenprogramma_domein_id": [
-			"c204213a-3a69-4c77-aa6c-62ebd77f8ba6",
-			"77254dcf-a411-4d54-a8bb-80932bc9f5c6",
-			"fc25e03f-e5f4-451e-8a95-c4d6dcee5902"
-		],
-		"examenprogramma_kop1_id": [
-			"4a998a8f-4e03-470e-81d3-e8fd02c0cdab",
-			"54c5782d-6503-4eba-92dd-b56eb6ea7cb2",
-			"9ee6277b-2515-4e24-b778-d38794f36495"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-drama-vwo/2020/f=/kunst_drama_vwo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"prefix": "KUDR/havo",
-		"id": "18ff572d-ac19-42b5-a558-9a7659339889",
-		"title": "Examenprogramma Kunst (drama) havo",
-		"examenprogramma_vakleergebied_id": [
-			"b4d10624-199f-4ffc-8a25-58df0bfb5002"
-		],
-		"examenprogramma_domein_id": [
-			"3af43409-6944-43e9-b7ff-894441d04e73",
-			"ec607fdf-97d4-4abd-ae90-e653c152cfeb",
-			"e71bb596-58a0-4433-8a38-0cab05a1eadd"
-		],
-		"examenprogramma_kop1_id": [
-			"7ad59c38-68a1-4185-951a-92ee40c37aaf",
-			"06cd44e4-afff-4593-8589-778071d5f600",
-			"58674a0e-e1e3-4a8d-aa54-5e3ed2195005"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-drama-havo/2020/f=/kunstdrama_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"prefix": "KUDA/vwo",
-		"id": "0e62e61e-23e5-40e8-a12f-b4dbdc591812",
-		"title": "Examenprogramma Kunst (dans) vwo",
-		"examenprogramma_vakleergebied_id": [
-			"56edbfd4-ef52-49d4-852f-74ea54b9c290"
-		],
-		"examenprogramma_domein_id": [
-			"0d981433-2c5e-4dfc-a88d-8bc535968b28",
-			"75df6ab8-5f7e-477f-a9fc-bf7d31ee48a2",
-			"ff22e6f7-2ac1-4c04-9346-478d16fdc941"
-		],
-		"examenprogramma_kop1_id": [
-			"753c9b35-67fc-44a0-b0d9-10b5726c1a1b",
-			"d6e21568-d38f-44d5-8d28-d2d51017be62",
-			"a7c65df1-8909-4c65-ab5a-0a6946632c9c"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-dans-vwo/2020/f=/kunstdans_vwo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"prefix": "KUDA/havo",
-		"id": "6cbb98e3-a020-4623-816d-89673d10793b",
-		"title": "Examenprogramma Kunst (dans) havo",
-		"examenprogramma_vakleergebied_id": [
-			"56edbfd4-ef52-49d4-852f-74ea54b9c290"
-		],
-		"examenprogramma_domein_id": [
-			"e7571bf0-fee6-4c6d-8928-3b29f147f721",
-			"9735a2ad-843a-4a88-b0fd-da42c03c84d0",
-			"f0e5e465-14fe-4ed2-a37e-ffa3d4a351c0"
-		],
-		"examenprogramma_kop1_id": [
-			"f7b63b36-2da8-4fea-818a-12648be86e71",
-			"6156f34b-25ed-463a-9aaa-c47c14d52b06",
-			"304f7ad9-7aa3-4180-b00f-eb223ec0fd77"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-dans-havo/2020/f=/kunstdans_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "KUBV/vwo",
-		"id": "90f32bf1-0834-4288-93ba-2ceb6bc40e49",
-		"title": "Examenprogramma Kunst (beeldende vormgeving) vwo",
-		"examenprogramma_vakleergebied_id": [
-			"9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93"
-		],
-		"examenprogramma_domein_id": [
-			"89769514-a6d6-4605-825d-8ea4ff3bb712",
-			"541af3a4-85b3-437f-becf-9756f9a07d56",
-			"2bd1d16a-a01a-4e25-88b6-60b1c75d8c7c"
-		],
-		"examenprogramma_kop1_id": [
-			"1c703789-335e-4de0-aa94-212b60c8ba49",
-			"5493efc8-f1d4-4401-a4a4-0e89b53c0d24",
-			"04608c70-b0e7-4a5b-9969-e6845843a1b5"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"prefix": "KUBV/havo",
-		"id": "d343fb75-ba02-4969-960c-3ff5e009e946",
-		"title": "Examenprogramma Kunst (beeldende vormgeving) havo",
-		"examenprogramma_vakleergebied_id": [
-			"9e72e5c6-89a1-4c65-b18d-f53b3e0d7a93"
-		],
-		"examenprogramma_domein_id": [
-			"d36c7a47-92d0-4f1a-b7ce-28557bcf309a",
-			"145577b2-c759-4385-a977-5db870f77bfe",
-			"d2704a46-359f-496a-8132-6d3958aeb416"
-		],
-		"examenprogramma_kop1_id": [
-			"e65a0a78-9d7c-488a-874f-5ab48b4a830b",
-			"f4cdb99b-d696-4e10-b0ff-1f5d8fbe1797",
-			"6fb0f96f-6e28-471e-868a-4474a72efae1"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"prefix": "KUA/vwo",
-		"id": "0d872678-c7ed-4cf2-b8eb-96580d330dfa",
-		"title": "Examenprogramma Kunst (algemeen) vwo",
-		"examenprogramma_vakleergebied_id": [
-			"002d65dd-5302-4f02-9a62-25bf8ef8eaa4"
-		],
-		"examenprogramma_domein_id": [
-			"bf818f4a-bde0-4dfd-96df-92c7e3cab0d6",
-			"c62899f0-fdae-40a9-a83d-108cc3705b05",
-			"20ad73f2-45b8-41ce-b125-11a1c61cdcd6"
-		],
-		"examenprogramma_kop1_id": [
-			"a830e9f3-a7f1-4811-aaed-cf17748a75e8",
-			"a68b73ae-4ffe-4b1a-8f7c-8df172e4b48b"
-		],
-		"url": "https://www.examenblad.nl/examenstof/kunst-algemeen-havo/2020/f=/kunstalg_havovwo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"prefix": "KUA/havo",
 		"id": "a9a3ba23-bf44-43f1-a40d-1bf368d39470",
 		"title": "Examenprogramma Kunst (algemeen) havo",
@@ -1090,34 +623,6 @@
 		"versie": "2020",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"prefix": "IT/vmbo",
-		"id": "ab7b3996-f658-4981-a4cb-0689f00aa24c",
-		"title": "Examenprogramma Informatietechnologie vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"62678a6d-8133-407b-9338-e7d0fe0cfd00"
-		],
-		"examenprogramma_domein_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
-			"caf3334d-6355-4f07-a24f-478bf1599754",
-			"0524c584-227d-4a15-a8cf-1c3c9b250e5f",
-			"4df0cea1-2acb-45b0-a69a-f749873247b8",
-			"7cfb4545-f090-4688-8c66-dd8ba65a19a0",
-			"8771ec61-1fde-4dfe-806c-aa86e93888bc",
-			"8207b6fd-3554-44b7-91d6-583f68eee1e1",
-			"10c0718e-9b60-4d86-8181-d4fcf747c4c7"
-		],
-		"ingangsdatum": "Vanaf schooljaar 2016-2017",
-		"url": "https://www.examenblad.nl/examenstof/informatietechnologie-vmbo/2020/f=/Examenprogramma_informatietechnologie_vmbo_vanaf2016-2017.pdf",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
 	},
 	{
@@ -1197,83 +702,6 @@
 		]
 	},
 	{
-		"prefix": "THT/H/vwo",
-		"id": "4d379dd8-d4ce-4725-97e3-9f6a890cc071",
-		"title": "Examenprogramma Handvaardigheid vwo",
-		"examenprogramma_vakleergebied_id": [
-			"d75646bc-043d-4c70-ab45-f51999a23525"
-		],
-		"examenprogramma_domein_id": [
-			"8311e93b-7817-47f0-8062-0853b35f4502",
-			"63c2168c-503e-40cf-979a-1661e1d3acd9",
-			"a2084e24-6371-4088-93a7-39b2893298b2"
-		],
-		"examenprogramma_kop1_id": [
-			"bf886594-21b0-4217-90c2-07143959f3fc",
-			"3fe30ca0-674a-4d4a-a7c5-2edda77086fd",
-			"38f7c84e-769f-4a40-8f96-8ca75a6a109d"
-		],
-		"url": "https://www.examenblad.nl/examenstof/handvaardigheid-vwo/2020/f=/hv_vwo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "THT/H/havo",
-		"id": "74f5153b-7b26-4b3a-88a9-380c0a6d7a96",
-		"title": "Examenprogramma Handvaardigheid havo",
-		"examenprogramma_vakleergebied_id": [
-			"d75646bc-043d-4c70-ab45-f51999a23525"
-		],
-		"examenprogramma_domein_id": [
-			"aedaa6a7-47b9-41db-b2a0-5b258f1fd34b",
-			"aeebf109-2f14-4342-a01c-f544d1622c17",
-			"9b432dff-ebab-467a-978a-142390f46b94"
-		],
-		"examenprogramma_kop1_id": [
-			"ac037970-6ef5-4bba-919c-e7294b1dfeeb",
-			"ebcd1b2d-efa6-4867-9bb6-1f667a626ada",
-			"2db473a7-60da-4c51-9c8f-0209f5e8fadd"
-		],
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/handvaardigheid-havo/2020/f=/hv_havo.pdf",
-		"versie": "2020",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "GTC/vwo",
-		"title": "Examenprogramma Griekse taal en cultuur vwo",
-		"id": "aa932a9b-5996-449d-82bc-c0942bed68d2",
-		"examenprogramma_vakleergebied_id": [
-			"341672a5-f515-4825-8b21-4f65df027e2f"
-		],
-		"examenprogramma_domein_id": [
-			"2e79294f-9788-4c7d-87d6-a7f0eddda00e",
-			"d8004613-bbd5-4f55-907c-f7e5039a38da",
-			"7e01afa1-28e5-48f5-9fa3-26ea5278db73",
-			"6e6ae4fb-ef2d-46a7-a99c-2801900d545f",
-			"bc794bbc-ae84-48f7-a2f4-0170f104b2bb"
-		],
-		"examenprogramma_kop1_id": [
-			"82d279f6-30c8-4f3f-830f-4e71b3fec4e6",
-			"bca3b4d7-f33f-453b-8cde-373831319366",
-			"6a7a2228-db9d-4094-83d2-249040b0fc50"
-		],
-		"ingangsdatum": "Augustus 2014",
-		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf",
-		"versie": "2020",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "GS/vwo",
 		"id": "f12bad65-4404-4800-be79-a1f274513cf1",
 		"title": "Examenprogramma Geschiedenis vwo",
@@ -1298,50 +726,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
-	},
-	{
-		"prefix": "GS/vmbo",
-		"id": "0af05781-3b4e-4137-9f16-cb700db72b88",
-		"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
-		],
-		"examenprogramma_domein_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
-			"0b767adb-ab60-4799-8857-9ab32ccd335a",
-			"2321a6fc-8da2-4117-8ec3-204cae78d76e",
-			"2eaedb42-60b9-47f3-bbe0-57f0a4b4d2b1",
-			"714f8ac9-9d18-4128-a296-8ddd65949131",
-			"3d4ca6c1-3d9f-4b10-a149-f65a7e42c064",
-			"88ffb1cf-9f70-4996-a3e0-592ea001ca03",
-			"a9cdbee9-1de8-416d-8a8c-b5b3396c9f40",
-			"ab531ebe-be2e-4392-a10b-7142f2606dd7",
-			"cb156201-8593-419a-bffb-f6ce3186111f",
-			"d90c26ab-6d86-419d-a25f-999467aab580",
-			"e4a85a10-70ac-4fee-9238-fb2e27437bdf",
-			"2f6610e3-640b-4afd-b750-1b120f36279a",
-			"eada8280-5976-44ed-8446-26a2b7c0bf90",
-			"2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
-			"d789aa5d-3ee5-4dc1-8936-6b92ecc37392",
-			"39b3b6cc-05a0-41a3-81df-17206f9fca4f",
-			"0356b2f1-9e27-4c0f-a844-dff65a3e64a4",
-			"0cece58c-383e-4a70-8c6d-1f610ff5e917",
-			"defb5ee8-6ef6-4318-b287-674a8e9c1c85",
-			"b61472de-71ca-4d3b-ae7f-040dcf8d0df8"
-		],
-		"ingangsdatum": "Vanaf CE 2018",
-		"url": "https://www.examenblad.nl/examenstof/geschiedenis-en-staatsinrichting-2/2020/f=/examenprogramma_geschiedenis_vmbo_vanaf_ce_2018.pdf",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": true
 	},
 	{
 		"prefix": "GS/havo",
@@ -1455,43 +839,6 @@
 		]
 	},
 	{
-		"prefix": "EC/vmbo",
-		"id": "c2f884f2-c673-4af7-a5c2-8832390f5f49",
-		"title": "Examenprogramma Economie vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
-		],
-		"examenprogramma_domein_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
-			"192b908f-53ef-47d2-83b7-30fcee62846a",
-			"ea7cacc2-2251-47c1-8ecd-34878f3ef8a4",
-			"e3349af8-3e12-4965-b332-7f5b454dbee6",
-			"71991e0d-6a4e-4b60-a5dd-59c089e5d0c9",
-			"4f5243e8-f001-4620-86b8-cb8cd5b6ccdd",
-			"d2453620-4a7e-4f6a-bd7f-42e02ad291d1",
-			"7232c85e-ad9b-4122-8f8d-d9488e2a909c",
-			"97ef46b6-0ba0-440a-a14a-1d939e917b46",
-			"433a608e-3bec-444d-ac60-3031db3c0946",
-			"d39abf9a-449e-4a68-b4e7-f9b8a2290fa4",
-			"bad8ead1-f566-4201-87d7-5e4166b20c4a",
-			"97d9a316-1c50-4075-9022-7bf23644eb92",
-			"fc430196-76ae-4ac0-a55c-af24db05f5d1"
-		],
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/economie-vmbo-2/2020/f=/economie.pdf",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "DU/vmbo",
 		"id": "2e58a2e2-3332-4cd4-a39d-9205f36a50db",
 		"title": "Examenprogramma Moderne vreemde talen Duits vmbo",
@@ -1524,74 +871,6 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		]
-	},
-	{
-		"prefix": "DR/vmbo",
-		"id": "d10201e5-a936-45cb-b8a8-36f576d78b77",
-		"title": "Examenprogramma Drama vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"561769d0-9c63-40e8-b2e7-54bde96f7e9f"
-		],
-		"examenprogramma_domein_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
-			"962affa6-0b4c-4d64-be91-9aeadec094ac",
-			"3adf1a30-893c-4b64-9446-9383d0d5d6bf",
-			"d34f6307-e646-48a4-83b2-2b2bfef88860",
-			"d0cb2337-c707-48bd-98f2-2cc3c5191471",
-			"b4462f4f-3acc-4ee1-bd6f-802461543730",
-			"c72ac87b-ad3d-4a1f-8cb7-1192498b2db7",
-			"d3f8aca8-780d-42d1-ba84-42c0f77c8321",
-			"9cd52803-25fd-4a12-b300-9a2c7b5918fe",
-			"6873e23c-318d-4433-b28e-215e87420bfe",
-			"bd3416ac-a943-4aef-965a-48615e6bacfe",
-			"3a064206-f73b-4156-bb92-3604ea503c22",
-			"5fa31045-21c7-4a7d-9019-b6b3fda65604"
-		],
-		"url": "https://www.examenblad.nl/examenstof/drama-vmbo-2/2020/f=/drama.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "DA/vmbo",
-		"id": "6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
-		"title": "Examenprogramma Dans vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
-		],
-		"examenprogramma_domein_id": [
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
-			"3d891184-3c95-46fc-8afc-e62e8c179d36",
-			"da4d44a7-aee6-45ca-8578-5c6b4a30aa44",
-			"ef0d707e-175b-42db-a607-9ce9db443a5b",
-			"bbbcf319-e29c-42d1-9a44-cb6a99cf1fea",
-			"a09d5327-a857-4559-8961-8c5ef1bb7a3c",
-			"6f6d2cbd-9a88-4311-8de7-1decfc61bf0e",
-			"a328a2dd-d849-4d5a-8d0f-7945e8dab3fc",
-			"a9fb3700-38c6-445a-be4f-08008a05e66f",
-			"7c80da1b-cbfe-49c9-951b-4c7179318d5a",
-			"2597c72f-e876-4e74-a232-6fb29fb9ee9b",
-			"91574c73-d930-4f1d-85bd-2b9a09d557c4",
-			"739cd39c-899e-4caa-9249-3b19ed5c0cdd"
-		],
-		"url": "https://www.examenblad.nl/examenstof/dans-vmbo-2/2020/f=/dans.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"dirty": "1"
 	},
 	{
 		"prefix": "CKV/vwo",
@@ -1983,65 +1262,6 @@
 		]
 	},
 	{
-		"prefix": "AK/havo",
-		"id": "5effad33-ae66-4a1b-b610-d6a4f5542e0a",
-		"title": "Examenprogramma Aardrijkskunde havo",
-		"examenprogramma_vakleergebied_id": [
-			"1f237289-4039-4122-a709-58c065bacda0"
-		],
-		"examenprogramma_domein_id": [
-			"f8396db6-92cd-4cc5-9e9f-5de3fab6a171",
-			"d396a627-9202-40a9-844f-b5d8da88c714",
-			"aee8adb9-0858-43c2-adf8-fe8642d40d5f",
-			"6d8890df-c35b-4ed2-9920-6bed6d7425b4",
-			"7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
-			"d070f49b-5929-41b3-b9c7-7d8d06b0de67"
-		],
-		"examenprogramma_kop1_id": [
-			"15290d0a-8002-4773-ae3f-4b45f3e04de4",
-			"c897aa12-544f-409d-b0f6-8138748bbb61",
-			"a9234709-b275-4179-a40b-2c376f6f2f67"
-		],
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-havo/2020/f=/aard_havo.pdf",
-		"versie": "2020",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"e5ada5c6-678e-4472-9bef-5dd92e998783",
-			"60423bf4-423a-4da8-a405-57e7052b6bdd",
-			"6b0b176f-f0f9-498a-9181-70568cf456d6",
-			"6a88db07-690c-4c47-83c1-fd760900fbe9",
-			"f3e4b98a-b6b9-492f-bc2c-902ad33bdcd5",
-			"f4eeea68-5c56-4edb-bebb-06e5dfe8b3fc",
-			"87846547-0357-4076-bcfa-edd9567472c8",
-			"6803f13b-88d0-4da6-8cb3-e24695ee81ea",
-			"5075bbd7-4756-4d6f-b763-e3ecc5c70d59",
-			"8732b8eb-2647-4558-aa32-f4bbea65383a",
-			"16ed878f-47fc-46e7-9ecb-efa93db31ee6"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
-		],
-		"examenprogramma_kop1_id": [
-			"676a4168-512e-4fca-a6dd-02ad293b9f99",
-			"619afb92-7be3-47ba-887c-285b09f51e65",
-			"3ec0b2e3-b784-4f25-9a6e-505ff660f3a0"
-		],
-		"title": "Examenprogramma Economie vwo",
-		"id": "266a32b4-aed8-495f-9e78-da585f8cc370",
-		"prefix": "EC/vwo",
-		"ingangsdatum": "vanaf CE 2014",
-		"url": "https://www.examenblad.nl/examenstof/syllabus-economie-vwo-2021/2021/f=/economie_vwo_2021_versie_2.pdf",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"examenprogramma_domein_id": [
 			"22aa5606-9f7a-489c-a761-c9c589514c57",
 			"b66ab7a1-085c-4554-ab57-020eb56cf8ab",
@@ -2205,60 +1425,6 @@
 	},
 	{
 		"examenprogramma_domein_id": [
-			"9ab753d9-be16-424e-b0d1-fc4f407a5421",
-			"5b13307a-5d3a-4be6-8db1-757ade8e90f3",
-			"7ee1dcdf-3ba2-4aee-981b-029df8dc880f",
-			"ab03df83-98de-4d58-8269-d65a9bb43e4f",
-			"db786019-0499-4b75-9b65-aae13c56cf8a",
-			"0e1b17c4-3aad-4a3d-9f2d-39564c94b64d"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"180c82c1-6805-4bc3-811e-e102e8ed7835"
-		],
-		"examenprogramma_kop1_id": [
-			"e3dd88f5-422f-40e8-8aef-1ed803766a31",
-			"ebd76550-99a2-4594-a3ec-0e95f641edfa",
-			"c7003a2a-ecbb-4cfc-940d-cf5c05a3a322"
-		],
-		"title": "Examenprogramma Friese taal en cultuur vwo",
-		"id": "f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc",
-		"prefix": "FR/vwo",
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"0d0c027f-e2c2-4681-8c47-bd386208a760",
-			"18f03ee1-f4a9-45ae-ba49-c3f27c862262",
-			"e81d8def-a784-4e4c-b1e5-3e1b599cb87b",
-			"d69954a0-16a3-4fdd-910b-86d5d893cde4",
-			"4d1c9890-54ff-413d-8268-f68c035678b0",
-			"670c0386-dd39-44b6-ab8d-dac59fa729bc"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"180c82c1-6805-4bc3-811e-e102e8ed7835"
-		],
-		"examenprogramma_kop1_id": [
-			"ea91640a-ecdd-4921-9d2e-ee45b214a43d",
-			"d97f2f8f-8ea9-41ec-bef1-cdfcc69e7c73",
-			"a1700271-8174-4637-a2b9-e5f729d8d9d4"
-		],
-		"title": "Examenprogramma Friese taal en cultuur havo",
-		"id": "c247ec44-bebe-42e3-8b65-5722389a3add",
-		"prefix": "FR/havo",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
-		"versie": ""
-	},
-	{
-		"examenprogramma_domein_id": [
 			"76c0179f-c137-48bb-8d3b-80e287fb3b9a",
 			"e304725b-d485-4406-bdd5-00a370f4989d",
 			"945db72b-1b62-4581-a262-a69b492941be",
@@ -2337,34 +1503,6 @@
 		"ingangsdatum": "",
 		"url": "",
 		"versie": ""
-	},
-	{
-		"examenprogramma_domein_id": [
-			"1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97",
-			"825648ba-7910-4f9a-a5fe-8712208fac18",
-			"33048b47-a377-465a-b01d-2c85778269e4",
-			"d5dae5ba-37a3-438a-a663-c2a379c70e95",
-			"f3605d5b-48c2-4997-b5ca-58b646e09d02",
-			"5b7dabe3-0aef-4bb8-97db-89b034665512"
-		],
-		"examenprogramma_kop1_id": [
-			"8e6cb0eb-50a0-4000-9f0e-71840fd69a83",
-			"cdd2a931-79bb-4d5c-9f7a-b66280ef52fe",
-			"a16d510b-9863-4b16-a305-1eac2a85f52f"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Russisch vwo",
-		"id": "3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3",
-		"prefix": "MVT/RU/V",
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"examenprogramma_vakleergebied_id": [
-			"27c99045-94ce-4202-b354-203e1ba49531"
-		],
-		"dirty": "1",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
 	},
 	{
 		"examenprogramma_domein_id": [
@@ -2482,65 +1620,6 @@
 		"versie": ""
 	},
 	{
-		"examenprogramma_domein_id": [
-			"02232950-2959-4d7d-abbc-9f184ee4d942",
-			"e8122264-36d8-40b1-a308-9ac482a2fd34",
-			"9d872d61-9359-4e92-9603-9058f302bab3",
-			"f9b5a701-7813-4d60-a13e-081147bfd1d2",
-			"c141fd49-3a9a-4c19-95be-767a5ddcf44d",
-			"6fde8d81-7361-4e15-ad42-aea23e0f6c28"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
-		],
-		"examenprogramma_kop1_id": [
-			"c9918c29-b9b8-4603-a092-873a9ba152f4",
-			"6da4be09-0525-4313-bf56-a02540543e16",
-			"9960247a-0070-4a72-be69-47f7189e5a89"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Spaans havo",
-		"id": "129ba6cd-7884-4fbb-9b4f-7abbec127976",
-		"prefix": "MVT/SP/H",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"dirty": "1"
-	},
-	{
-		"examenprogramma_domein_id": [
-			"1e1c230c-a8c9-417c-b169-30e8cbea17f1",
-			"2435d263-6129-484c-979f-dec4cdbce2ee",
-			"0eadc684-2502-4039-9786-ac965be3e902",
-			"9a6a34a0-f728-4233-92d9-881a6e1b239e",
-			"31ab751a-13c5-4ab7-b233-d414e8b77f57",
-			"99e1139c-ddaf-4838-aa74-3591e6dd2d5a",
-			"a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9",
-			"bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf",
-			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
-			"7d2a47b8-11c1-408d-bbcf-22a86bee7710",
-			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
-		"id": "787ab014-814b-436d-bd51-faa7ddf8eea4",
-		"prefix": "SP/vmbo",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"examenprogramma_vakleergebied_id": [
-			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "MVT/EN/H",
 		"id": "1034551d-ce74-493e-8420-681c5bc95190",
 		"title": "Examenprogramma Moderne vreemde talen Engels havo",
@@ -2569,38 +1648,6 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
-	},
-	{
-		"prefix": "MAW/vwo",
-		"id": "3c9904b3-a5ee-4b1f-8068-bdd79a48ffcc",
-		"title": "Examenprogramma Maatschappijwetenschappen vwo",
-		"examenprogramma_vakleergebied_id": [
-			"851fb2e0-b42a-4291-9ff4-669987b35d8e"
-		],
-		"examenprogramma_domein_id": [
-			"107d14fa-de9e-46cd-a647-130c3905a771",
-			"ac5e4115-7170-4bb1-9912-a220a18ee97f",
-			"33cc0542-0dee-4dac-b29e-671c0468182b",
-			"00e76bfd-83d1-4669-8d1b-b9e71f3f298e",
-			"d7d401b2-9fc9-4a6b-ab36-5d72cbaafe73",
-			"b6671828-2258-4558-8765-d03171c39f22",
-			"f94e1efb-1e6b-4300-898b-497cd40b82c9",
-			"fb0a5b74-a559-4ed0-adf0-87388e64223c"
-		],
-		"examenprogramma_kop1_id": [
-			"085ccc9d-0a4f-463a-aad2-eff11c3054d7",
-			"5d009611-1601-4104-a704-6030b35101b5"
-		],
-		"ingangsdatum": "Vanaf CE 2020",
-		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-vwo-2/2021/f=/examenprogramma_maatschappijwetenschappen_vwo_vanaf_ce_2020.pdf",
-		"versie": "2021",
-		"replaces": [
-			"a295b232-d65a-47b5-811b-194dd1d43422"
-		],
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"dirty": "1"
 	},
 	{
 		"prefix": "EC/havo",
@@ -2921,33 +1968,6 @@
 		]
 	},
 	{
-		"prefix": "MU/havo",
-		"id": "8dc6a212-3df6-4a46-8c95-008890be0807",
-		"title": "Examenprogramma Muziek  havo",
-		"examenprogramma_vakleergebied_id": [
-			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
-		],
-		"examenprogramma_domein_id": [
-			"c5f7086a-3f06-4325-b19b-a962de9e0d8f",
-			"963ba464-dd66-405e-b5ae-c8a253aa3eeb",
-			"c46efd08-0cca-4222-af81-013c14750d40"
-		],
-		"examenprogramma_kop1_id": [
-			"db97639f-ff1c-44a8-9fba-b527bc4bb926",
-			"0cdfbd08-d2f9-4392-a6c7-252a4935be9d",
-			"5e1d272d-ad3b-48c6-b258-1076683104c5"
-		],
-		"url": "https://www.examenblad.nl/examenstof/muziek-havo/2020/f=/muz_havo.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"replaces": [
-			"dab2a174-419b-45e6-912f-974fb4db4f06"
-		],
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
 		"examenprogramma_domein_id": [
 			"2b0431f1-542d-4844-916a-27fd10ac92b1",
 			"e03c1fb5-775d-427a-b201-b076da123161",
@@ -2961,7 +1981,6 @@
 		],
 		"title": "Examenprogramma Moderne vreemde talen Italiaans vwo",
 		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
-		"unreleased": true,
 		"prefix": "MVT/IT/V",
 		"ingangsdatum": "",
 		"url": "",
@@ -2988,7 +2007,6 @@
 		],
 		"title": "Examenprogramma Moderne vreemde talen Italiaans havo",
 		"id": "4271e75e-53f5-4a60-932e-9f7719b0971b",
-		"unreleased": true,
 		"prefix": "MVT/IT/H",
 		"ingangsdatum": "",
 		"url": "",
@@ -3012,11 +2030,10 @@
 			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
 		],
 		"examenprogramma_vakleergebied_id": [
-			"180c82c1-6805-4bc3-811e-e102e8ed7835"
+			"57ffd396-6bee-4868-b2be-f0304c29ef89"
 		],
 		"title": "Examenprogramma Friese taal en cultuur vmbo",
 		"id": "b15aa61b-37e4-4454-b510-fe358565faa3",
-		"unreleased": true,
 		"prefix": "FR/vmbo",
 		"ingangsdatum": "",
 		"url": "",
@@ -3041,7 +2058,6 @@
 		],
 		"title": "Examenprogramma Moderne vreemde talen Spaans vwo",
 		"id": "cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f",
-		"unreleased": true,
 		"prefix": "MVT/SP/V",
 		"ingangsdatum": "",
 		"url": "",
@@ -3070,7 +2086,1070 @@
 			"eab60e46-8af9-4e8e-bc93-6576228a42e9"
 		],
 		"title": "Examenprogramma Lichamelijke opvoeding vwo",
-		"id": "7620c9ac-b4da-43bd-ad82-3907ee31194d",
-		"unreleased": true
+		"id": "7620c9ac-b4da-43bd-ad82-3907ee31194d"
+	},
+	{
+		"prefix": "THT/TV/vwo",
+		"id": "672f3357-9ce4-4667-b625-3c7ed402230c",
+		"title": "Examenprogramma Textiele vormgeving vwo",
+		"examenprogramma_vakleergebied_id": [
+			"707dd684-21e4-4eb1-9852-a819be9fd377"
+		],
+		"examenprogramma_domein_id": [
+			"8c78af02-238d-4048-b965-ab81b8fa7bdf",
+			"2673561a-76e5-4492-8bdc-4975ec3bda92",
+			"25deb580-a7ae-452d-a678-717c270b0035"
+		],
+		"examenprogramma_kop1_id": [
+			"7f3bee9b-e864-4aaa-af84-5ed9df1aa5aa",
+			"9ee0e504-fe4a-4608-9904-f1d1f4c66f46",
+			"d4b4097d-84a1-4b37-b38f-68ad441ced5d"
+		],
+		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-vwo/2020/f=/tw_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"ec850fae-47a6-4dbc-939c-bf7190546ddc"
+		]
+	},
+	{
+		"prefix": "THT/TV/havo",
+		"id": "46fe59a1-c8de-4e0c-9ecf-6f03fb326e66",
+		"title": "Examenprogramma Textiele vormgeving havo",
+		"examenprogramma_vakleergebied_id": [
+			"707dd684-21e4-4eb1-9852-a819be9fd377"
+		],
+		"examenprogramma_domein_id": [
+			"36a961a1-c152-44bc-96cb-338e8ef8c713",
+			"66dbceec-16e0-41e8-8068-dbca5773ecf8",
+			"0e8ac3a1-d919-46a9-b9c3-891a1e6e04ad"
+		],
+		"examenprogramma_kop1_id": [
+			"0f1c2433-4064-439f-89ba-eb79e5068c72",
+			"c43f18cb-f517-4a1b-ab1c-995f9c588de1",
+			"9dc40047-527e-4de6-a03e-40321c8f9f2a"
+		],
+		"url": "https://www.examenblad.nl/examenstof/textiele-vormgeving-havo/2020/f=/tw_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"6def654f-0bf6-45b3-8afe-f86bf41eb89e"
+		]
+	},
+	{
+		"prefix": "MO/vwo",
+		"id": "a8bb2659-7bfd-4806-83a1-7fa774ba2ff7",
+		"title": "Examenprogramma Management en organisatie vwo",
+		"examenprogramma_vakleergebied_id": [
+			"ea6ba3d7-9bb6-4465-a424-02bf9a8eb1b5"
+		],
+		"examenprogramma_domein_id": [
+			"3523a6d9-e47e-4938-9693-56915d422114",
+			"a52cd4b0-0366-4339-8ec3-719edafb1c2b",
+			"1b641a37-ce5b-4263-af96-617c6d862c8a",
+			"8acb1033-c7be-4e39-bc43-11ef74e50760",
+			"aa24609a-91a7-4338-a5e7-b65f92d45824",
+			"b5b5ae9c-ae28-47de-b482-413e257abab0",
+			"939006cd-0e21-441d-849e-f56ccfbee0c5"
+		],
+		"examenprogramma_kop1_id": [
+			"93eee83f-9fd8-4f9c-97ca-ade3b449d206",
+			"2a72f2d4-11b7-4ecd-8b42-d2c73e210dd7",
+			"4ac5a650-7de1-493b-9dfa-b07250b383ae"
+		],
+		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-vwo-2/2019/f=/examenprogramma_management_en_organisatie_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"b44cba12-6a0c-4579-a818-d781b53a618d"
+		]
+	},
+	{
+		"prefix": "MO/havo",
+		"id": "d530a659-8e56-4a8a-8d9c-81eaa7727ca4",
+		"title": "Examenprogramma Management en organisatie havo",
+		"examenprogramma_vakleergebied_id": [
+			"ea6ba3d7-9bb6-4465-a424-02bf9a8eb1b5"
+		],
+		"examenprogramma_domein_id": [
+			"64a61086-b2a2-4db1-8754-4d4159ae0579",
+			"a216dbf4-6cc9-43ff-ba51-2c651d9e6451",
+			"32681378-c339-47bf-ad9f-f3504b103476",
+			"615924a2-9c79-4b32-a265-d7d67f2687c0",
+			"7d731e15-8fe3-486d-8a0b-86167a3d73fa",
+			"d9c72ed1-fe18-4037-b5ae-97bdab5acee9"
+		],
+		"examenprogramma_kop1_id": [
+			"3060b72c-6a9c-4732-b320-63d72e5dfb87",
+			"6553e67a-39a1-4460-8d40-9ce90c279f5b",
+			"ebe3c114-2831-4174-a6fb-784a3e5c70ab"
+		],
+		"url": "https://www.examenblad.nl/examenstof/management-en-organisatie-havo-2/2019/f=/meno_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"0685a60b-5833-4da0-8643-a54c206686ae"
+		]
+	},
+	{
+		"prefix": "KUMU/havo",
+		"id": "10db770c-3ad1-40f8-86b2-e5a58c9ff944",
+		"title": "Examenprogramma Kunst (muziek) havo",
+		"examenprogramma_vakleergebied_id": [
+			"fe12f70f-d4b5-4a7f-b689-8bb6faa3ee8e"
+		],
+		"examenprogramma_domein_id": [
+			"efc5b46e-9b9d-441e-b5b5-5f0429387a14",
+			"a78e446f-fa61-48b9-af63-e11e52ef3caa",
+			"7d421cdf-40b3-477d-bc98-1e26d76d6a51"
+		],
+		"examenprogramma_kop1_id": [
+			"4b5de09f-b4d3-4885-bab2-4a364d920994",
+			"a4708546-5138-4ba6-bc3e-b4d65ed056ba",
+			"fcf6d9c5-4856-400a-832e-ae90dff9eb00"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-havo/2020/f=/kunstmuz_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"fd4b7c27-0ca8-4e46-a613-90f24509a4a3"
+		]
+	},
+	{
+		"prefix": "KUDA/havo",
+		"id": "afeaa1a6-9ea8-4771-8f9d-fcaf9d933e5c",
+		"title": "Examenprogramma Kunst (dans) havo",
+		"examenprogramma_vakleergebied_id": [
+			"34033c01-03ea-49cd-b868-59cd32bd3ec8"
+		],
+		"examenprogramma_domein_id": [
+			"e7571bf0-fee6-4c6d-8928-3b29f147f721",
+			"9735a2ad-843a-4a88-b0fd-da42c03c84d0",
+			"f0e5e465-14fe-4ed2-a37e-ffa3d4a351c0"
+		],
+		"examenprogramma_kop1_id": [
+			"f7b63b36-2da8-4fea-818a-12648be86e71",
+			"6156f34b-25ed-463a-9aaa-c47c14d52b06",
+			"304f7ad9-7aa3-4180-b00f-eb223ec0fd77"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-dans-havo/2020/f=/kunstdans_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"6cbb98e3-a020-4623-816d-89673d10793b"
+		]
+	},
+	{
+		"prefix": "THT/H/vwo",
+		"id": "a0cf6253-dc2f-4b76-a5b4-0aeef2a70a3a",
+		"title": "Examenprogramma Handvaardigheid vwo",
+		"examenprogramma_vakleergebied_id": [
+			"d75646bc-043d-4c70-ab45-f51999a23525"
+		],
+		"examenprogramma_domein_id": [
+			"8311e93b-7817-47f0-8062-0853b35f4502",
+			"63c2168c-503e-40cf-979a-1661e1d3acd9",
+			"a2084e24-6371-4088-93a7-39b2893298b2"
+		],
+		"examenprogramma_kop1_id": [
+			"bf886594-21b0-4217-90c2-07143959f3fc",
+			"3fe30ca0-674a-4d4a-a7c5-2edda77086fd",
+			"38f7c84e-769f-4a40-8f96-8ca75a6a109d"
+		],
+		"url": "https://www.examenblad.nl/examenstof/handvaardigheid-vwo/2020/f=/hv_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"4d379dd8-d4ce-4725-97e3-9f6a890cc071"
+		]
+	},
+	{
+		"prefix": "THT/H/havo",
+		"id": "0af199be-802e-4374-9c1b-37baad1b798f",
+		"title": "Examenprogramma Handvaardigheid havo",
+		"examenprogramma_vakleergebied_id": [
+			"d75646bc-043d-4c70-ab45-f51999a23525"
+		],
+		"examenprogramma_domein_id": [
+			"aedaa6a7-47b9-41db-b2a0-5b258f1fd34b",
+			"aeebf109-2f14-4342-a01c-f544d1622c17",
+			"9b432dff-ebab-467a-978a-142390f46b94"
+		],
+		"examenprogramma_kop1_id": [
+			"ac037970-6ef5-4bba-919c-e7294b1dfeeb",
+			"ebcd1b2d-efa6-4867-9bb6-1f667a626ada",
+			"2db473a7-60da-4c51-9c8f-0209f5e8fadd"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/handvaardigheid-havo/2020/f=/hv_havo.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"74f5153b-7b26-4b3a-88a9-380c0a6d7a96"
+		]
+	},
+	{
+		"prefix": "GTC/vwo",
+		"title": "Examenprogramma Griekse taal en cultuur vwo",
+		"id": "1abce396-eafa-49e6-8f4e-251aed90f56a",
+		"examenprogramma_vakleergebied_id": [
+			"341672a5-f515-4825-8b21-4f65df027e2f"
+		],
+		"examenprogramma_domein_id": [
+			"2e79294f-9788-4c7d-87d6-a7f0eddda00e",
+			"d8004613-bbd5-4f55-907c-f7e5039a38da",
+			"7e01afa1-28e5-48f5-9fa3-26ea5278db73",
+			"6e6ae4fb-ef2d-46a7-a99c-2801900d545f",
+			"bc794bbc-ae84-48f7-a2f4-0170f104b2bb"
+		],
+		"examenprogramma_kop1_id": [
+			"82d279f6-30c8-4f3f-830f-4e71b3fec4e6",
+			"bca3b4d7-f33f-453b-8cde-373831319366",
+			"6a7a2228-db9d-4094-83d2-249040b0fc50"
+		],
+		"ingangsdatum": "Augustus 2014",
+		"url": "https://www.examenblad.nl/examenstof/griekse-taal-en-cultuur-en/2020/f=/examenprogramma_gtc_en_ltc_vwo.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"aa932a9b-5996-449d-82bc-c0942bed68d2"
+		]
+	},
+	{
+		"prefix": "GS/vmbo",
+		"id": "5fbc4877-8077-4404-988b-f623203730a2",
+		"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"0b767adb-ab60-4799-8857-9ab32ccd335a",
+			"2321a6fc-8da2-4117-8ec3-204cae78d76e",
+			"2eaedb42-60b9-47f3-bbe0-57f0a4b4d2b1",
+			"714f8ac9-9d18-4128-a296-8ddd65949131",
+			"3d4ca6c1-3d9f-4b10-a149-f65a7e42c064",
+			"88ffb1cf-9f70-4996-a3e0-592ea001ca03",
+			"a9cdbee9-1de8-416d-8a8c-b5b3396c9f40",
+			"ab531ebe-be2e-4392-a10b-7142f2606dd7",
+			"cb156201-8593-419a-bffb-f6ce3186111f",
+			"d90c26ab-6d86-419d-a25f-999467aab580",
+			"e4a85a10-70ac-4fee-9238-fb2e27437bdf",
+			"2f6610e3-640b-4afd-b750-1b120f36279a",
+			"eada8280-5976-44ed-8446-26a2b7c0bf90",
+			"2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
+			"d789aa5d-3ee5-4dc1-8936-6b92ecc37392",
+			"39b3b6cc-05a0-41a3-81df-17206f9fca4f",
+			"0356b2f1-9e27-4c0f-a844-dff65a3e64a4",
+			"0cece58c-383e-4a70-8c6d-1f610ff5e917",
+			"defb5ee8-6ef6-4318-b287-674a8e9c1c85",
+			"b61472de-71ca-4d3b-ae7f-040dcf8d0df8"
+		],
+		"ingangsdatum": "Vanaf CE 2018",
+		"url": "https://www.examenblad.nl/examenstof/geschiedenis-en-staatsinrichting-2/2020/f=/examenprogramma_geschiedenis_vmbo_vanaf_ce_2018.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"0af05781-3b4e-4137-9f16-cb700db72b88"
+		]
+	},
+	{
+		"prefix": "EC/vmbo",
+		"id": "adf337ad-8430-4c4c-b999-c855b2b5ff40",
+		"title": "Examenprogramma Economie vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"192b908f-53ef-47d2-83b7-30fcee62846a",
+			"ea7cacc2-2251-47c1-8ecd-34878f3ef8a4",
+			"e3349af8-3e12-4965-b332-7f5b454dbee6",
+			"71991e0d-6a4e-4b60-a5dd-59c089e5d0c9",
+			"4f5243e8-f001-4620-86b8-cb8cd5b6ccdd",
+			"d2453620-4a7e-4f6a-bd7f-42e02ad291d1",
+			"7232c85e-ad9b-4122-8f8d-d9488e2a909c",
+			"97ef46b6-0ba0-440a-a14a-1d939e917b46",
+			"433a608e-3bec-444d-ac60-3031db3c0946",
+			"d39abf9a-449e-4a68-b4e7-f9b8a2290fa4",
+			"bad8ead1-f566-4201-87d7-5e4166b20c4a",
+			"97d9a316-1c50-4075-9022-7bf23644eb92",
+			"fc430196-76ae-4ac0-a55c-af24db05f5d1"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/economie-vmbo-2/2020/f=/economie.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"c2f884f2-c673-4af7-a5c2-8832390f5f49"
+		]
+	},
+	{
+		"prefix": "DR/vmbo",
+		"id": "57f3047b-dd0a-4f36-9877-d050aef50835",
+		"title": "Examenprogramma Drama vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"561769d0-9c63-40e8-b2e7-54bde96f7e9f"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"962affa6-0b4c-4d64-be91-9aeadec094ac",
+			"3adf1a30-893c-4b64-9446-9383d0d5d6bf",
+			"d34f6307-e646-48a4-83b2-2b2bfef88860",
+			"d0cb2337-c707-48bd-98f2-2cc3c5191471",
+			"b4462f4f-3acc-4ee1-bd6f-802461543730",
+			"c72ac87b-ad3d-4a1f-8cb7-1192498b2db7",
+			"d3f8aca8-780d-42d1-ba84-42c0f77c8321",
+			"9cd52803-25fd-4a12-b300-9a2c7b5918fe",
+			"6873e23c-318d-4433-b28e-215e87420bfe",
+			"bd3416ac-a943-4aef-965a-48615e6bacfe",
+			"3a064206-f73b-4156-bb92-3604ea503c22",
+			"5fa31045-21c7-4a7d-9019-b6b3fda65604"
+		],
+		"url": "https://www.examenblad.nl/examenstof/drama-vmbo-2/2020/f=/drama.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"d10201e5-a936-45cb-b8a8-36f576d78b77"
+		]
+	},
+	{
+		"prefix": "DA/vmbo",
+		"id": "6fc64ff5-e3c5-4d1f-827b-99f266dbfb13",
+		"title": "Examenprogramma Dans vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"3d891184-3c95-46fc-8afc-e62e8c179d36",
+			"da4d44a7-aee6-45ca-8578-5c6b4a30aa44",
+			"ef0d707e-175b-42db-a607-9ce9db443a5b",
+			"bbbcf319-e29c-42d1-9a44-cb6a99cf1fea",
+			"a09d5327-a857-4559-8961-8c5ef1bb7a3c",
+			"6f6d2cbd-9a88-4311-8de7-1decfc61bf0e",
+			"a328a2dd-d849-4d5a-8d0f-7945e8dab3fc",
+			"a9fb3700-38c6-445a-be4f-08008a05e66f",
+			"7c80da1b-cbfe-49c9-951b-4c7179318d5a",
+			"2597c72f-e876-4e74-a232-6fb29fb9ee9b",
+			"91574c73-d930-4f1d-85bd-2b9a09d557c4",
+			"739cd39c-899e-4caa-9249-3b19ed5c0cdd"
+		],
+		"url": "https://www.examenblad.nl/examenstof/dans-vmbo-2/2020/f=/dans.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"6e4551e4-a5a1-4266-b4c4-c75f49ce19e0"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"1a8c589e-4cc2-44e3-9b5d-3dd048bd9f97",
+			"825648ba-7910-4f9a-a5fe-8712208fac18",
+			"33048b47-a377-465a-b01d-2c85778269e4",
+			"d5dae5ba-37a3-438a-a663-c2a379c70e95",
+			"f3605d5b-48c2-4997-b5ca-58b646e09d02",
+			"5b7dabe3-0aef-4bb8-97db-89b034665512"
+		],
+		"examenprogramma_kop1_id": [
+			"8e6cb0eb-50a0-4000-9f0e-71840fd69a83",
+			"cdd2a931-79bb-4d5c-9f7a-b66280ef52fe",
+			"a16d510b-9863-4b16-a305-1eac2a85f52f"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Russisch vwo",
+		"id": "17fd3fa2-df89-4296-a34f-fc9302284659",
+		"prefix": "MVT/RU/V",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"examenprogramma_vakleergebied_id": [
+			"27c99045-94ce-4202-b354-203e1ba49531"
+		],
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"3eeaf313-5b38-4d5e-85c6-666fe5d7d6c3"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"02232950-2959-4d7d-abbc-9f184ee4d942",
+			"e8122264-36d8-40b1-a308-9ac482a2fd34",
+			"9d872d61-9359-4e92-9603-9058f302bab3",
+			"f9b5a701-7813-4d60-a13e-081147bfd1d2",
+			"c141fd49-3a9a-4c19-95be-767a5ddcf44d",
+			"6fde8d81-7361-4e15-ad42-aea23e0f6c28"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
+		],
+		"examenprogramma_kop1_id": [
+			"c9918c29-b9b8-4603-a092-873a9ba152f4",
+			"6da4be09-0525-4313-bf56-a02540543e16",
+			"9960247a-0070-4a72-be69-47f7189e5a89"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Spaans havo",
+		"id": "02370357-c94e-4b52-a261-b659a82f5700",
+		"prefix": "MVT/SP/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"129ba6cd-7884-4fbb-9b4f-7abbec127976"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"1e1c230c-a8c9-417c-b169-30e8cbea17f1",
+			"2435d263-6129-484c-979f-dec4cdbce2ee",
+			"0eadc684-2502-4039-9786-ac965be3e902",
+			"9a6a34a0-f728-4233-92d9-881a6e1b239e",
+			"31ab751a-13c5-4ab7-b233-d414e8b77f57",
+			"99e1139c-ddaf-4838-aa74-3591e6dd2d5a",
+			"a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9",
+			"bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf",
+			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
+			"7d2a47b8-11c1-408d-bbcf-22a86bee7710",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
+		"id": "053d8c12-a648-4c32-a941-f4626c57f624",
+		"prefix": "SP/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"examenprogramma_vakleergebied_id": [
+			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
+		],
+		"replaces": [
+			"787ab014-814b-436d-bd51-faa7ddf8eea4"
+		]
+	},
+	{
+		"prefix": "MAW/vwo",
+		"id": "0194202a-4dd4-4240-9bee-c17bd67695e5",
+		"title": "Examenprogramma Maatschappijwetenschappen vwo",
+		"examenprogramma_vakleergebied_id": [
+			"851fb2e0-b42a-4291-9ff4-669987b35d8e"
+		],
+		"examenprogramma_domein_id": [
+			"9d6ea44b-853d-42b9-b75f-c0e1b9094e88",
+			"ac5e4115-7170-4bb1-9912-a220a18ee97f",
+			"33cc0542-0dee-4dac-b29e-671c0468182b",
+			"bc467d95-0405-43cc-9858-52b32c9d34e5",
+			"d7d401b2-9fc9-4a6b-ab36-5d72cbaafe73",
+			"b6671828-2258-4558-8765-d03171c39f22",
+			"f94e1efb-1e6b-4300-898b-497cd40b82c9",
+			"4d72ae4f-91f4-4f7c-89ff-c544a03327de"
+		],
+		"examenprogramma_kop1_id": [
+			"5679809e-22cb-4536-a114-58890e0fe5c3",
+			"5d009611-1601-4104-a704-6030b35101b5"
+		],
+		"ingangsdatum": "Vanaf CE 2020",
+		"url": "https://www.examenblad.nl/examenstof/maatschappijwetenschappen-vwo-2/2021/f=/examenprogramma_maatschappijwetenschappen_vwo_vanaf_ce_2020.pdf",
+		"versie": "2021",
+		"replaces": [
+			"a295b232-d65a-47b5-811b-194dd1d43422",
+			"3c9904b3-a5ee-4b1f-8068-bdd79a48ffcc"
+		],
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
+	},
+	{
+		"prefix": "WI/C/vwo",
+		"id": "94b8d9a4-3eca-477a-aa36-7f1839aa37df",
+		"title": "Examenprogramma Wiskunde C vwo",
+		"examenprogramma_vakleergebied_id": [
+			"26b1891a-3390-4163-a91e-699955b1fca4"
+		],
+		"examenprogramma_domein_id": [
+			"cee94aa6-7acc-4687-ab69-d33d3ba7b0b8",
+			"d7b55fc8-5a33-46df-93ca-66fc2c09a49c",
+			"0ad1c1fe-ab04-4055-9a27-772fc07f7847",
+			"5c6d73db-9b6c-4162-9591-be3d6d9b35ac",
+			"5f9e15ce-9953-4911-bc9b-d32dbd84777b",
+			"0a7d168d-189c-4d00-b4cb-bc9b939811ca",
+			"e58d8733-771b-4234-b2d0-76a3b5778d11",
+			"941b0c0d-de6d-428d-aa1e-657e663c7786"
+		],
+		"examenprogramma_kop1_id": [
+			"63217a9d-1d7a-4300-908e-8bf6300b828d",
+			"4ee95fd5-82c3-4b38-9c34-bdbdd1ade82b",
+			"07ee0bf7-aac3-4f80-8f50-1aa3f78139b8"
+		],
+		"ingangsdatum": "Vanaf CE 2018",
+		"versie": "2020",
+		"jaargang": "2018",
+		"status": "nnb",
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-c-vwo-2/2020/f=/examenprogramma_wiskunde_c_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"4758779f-48a8-4876-a491-262ee888cd62"
+		]
+	},
+	{
+		"prefix": "MU/vwo",
+		"id": "39557c3d-328c-4bf3-913e-b5e17edc5249",
+		"title": "Examenprogramma Muziek  vwo",
+		"examenprogramma_vakleergebied_id": [
+			"98572b3b-052f-4df0-ba49-e14aee04f944"
+		],
+		"examenprogramma_domein_id": [
+			"942afd18-8dc0-4b99-be3a-bdff22f99ec2",
+			"0ab9fc8e-9580-4c08-bb6a-84b1249e03e2",
+			"e5911a6f-59e7-4d31-8343-d1f6e656405f"
+		],
+		"examenprogramma_kop1_id": [
+			"7f93f245-403f-4988-bc75-ae0a97ef9197",
+			"a0b1727a-1f2c-4075-9907-6b0e67476823",
+			"f6c633de-dc84-45ff-8c5d-6f704cc11cf5"
+		],
+		"url": "https://www.examenblad.nl/examenstof/muziek-vwo/2020/f=/muz_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"versie": "",
+		"replaces": [
+			"9c7ce10d-f8bb-4726-9387-078466916b43"
+		]
+	},
+	{
+		"prefix": "MU/vmbo",
+		"id": "8ee23adb-1f87-4fe7-8ca4-7bb464205859",
+		"title": "Examenprogramma Muziek vmbo gl/tl",
+		"examenprogramma_vakleergebied_id": [
+			"98572b3b-052f-4df0-ba49-e14aee04f944"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"2368b511-e11d-4804-8027-6226a8bd3cee",
+			"b1353329-9e18-4caf-ac1e-fa1539095496",
+			"ca29ac70-a519-46e9-8771-c0993aa42585",
+			"44d985d2-c0b4-4ae4-b31e-f87cec8222be",
+			"fdf5225d-2ae1-44dd-8b79-9d5e13d3bdc4",
+			"d4914e81-ffbf-419b-8305-9ec11065c9ba",
+			"9e3ed90c-7c18-4930-8d7f-8c636933b346",
+			"55f1c30c-e084-472f-b378-ef9b28d3822a",
+			"04a3a43c-54ec-4f14-834d-bd475caf7e38",
+			"ffd42937-762a-4894-bb06-59b5b3966a48",
+			"18a3cdb9-9263-4dab-a935-7f04e9b3f3c1",
+			"68204e7e-e986-4f94-a979-f127133dee8c"
+		],
+		"url": "https://www.examenblad.nl/examenstof/muziek-vmbo-2/2020/f=/muziek.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"340236bd-8944-4768-8361-7f0c5d349eb4"
+		]
+	},
+	{
+		"prefix": "KV/vmbo",
+		"id": "e21918e9-207a-48d6-b3c5-490426ee7675",
+		"title": "Examenprogramma Kunstvakken incl. CKV vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"8eee2b1a-adb5-42fa-b7d4-bda46b783bcb"
+		],
+		"examenprogramma_domein_id": [
+			"f99831f7-f16b-471c-a1b0-c24015c9538d",
+			"1867605e-8398-452f-a4dd-c599b5b73671",
+			"085d26de-1ca2-4ade-b6bf-1e4c1bae331f",
+			"c1f7035f-5bc5-485e-be1d-8090821c4d66"
+		],
+		"ingangsdatum": "vanaf schooljaar 2018-2019",
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-kunstvakken/2020/f=/Examenprogramma_kunstvakken_inclusief_ckv.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"cdd3e66f-17df-4a0c-9496-89efae7dffef"
+		]
+	},
+	{
+		"prefix": "KUA/vwo",
+		"id": "afbb154b-87f6-43f6-83a7-f77e527b9ede",
+		"title": "Examenprogramma Kunst (algemeen) vwo",
+		"examenprogramma_vakleergebied_id": [
+			"002d65dd-5302-4f02-9a62-25bf8ef8eaa4"
+		],
+		"examenprogramma_domein_id": [
+			"bf818f4a-bde0-4dfd-96df-92c7e3cab0d6",
+			"ecd92613-1e72-46d0-9b16-510eadbe5960",
+			"20ad73f2-45b8-41ce-b125-11a1c61cdcd6"
+		],
+		"examenprogramma_kop1_id": [
+			"a830e9f3-a7f1-4811-aaed-cf17748a75e8",
+			"a68b73ae-4ffe-4b1a-8f7c-8df172e4b48b"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-algemeen-havo/2020/f=/kunstalg_havovwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"0d872678-c7ed-4cf2-b8eb-96580d330dfa"
+		]
+	},
+	{
+		"prefix": "IT/vmbo",
+		"id": "1109a569-3b50-4e18-918e-ec1a4c922c4d",
+		"title": "Examenprogramma Informatietechnologie vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"bda8e86a-3282-48bb-ab64-d654dbbca14a"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"caf3334d-6355-4f07-a24f-478bf1599754",
+			"0524c584-227d-4a15-a8cf-1c3c9b250e5f",
+			"4df0cea1-2acb-45b0-a69a-f749873247b8",
+			"7cfb4545-f090-4688-8c66-dd8ba65a19a0",
+			"8771ec61-1fde-4dfe-806c-aa86e93888bc",
+			"8207b6fd-3554-44b7-91d6-583f68eee1e1",
+			"10c0718e-9b60-4d86-8181-d4fcf747c4c7"
+		],
+		"ingangsdatum": "Vanaf schooljaar 2016-2017",
+		"url": "https://www.examenblad.nl/examenstof/informatietechnologie-vmbo/2020/f=/Examenprogramma_informatietechnologie_vmbo_vanaf2016-2017.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"ab7b3996-f658-4981-a4cb-0689f00aa24c"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"e5ada5c6-678e-4472-9bef-5dd92e998783",
+			"60423bf4-423a-4da8-a405-57e7052b6bdd",
+			"6b0b176f-f0f9-498a-9181-70568cf456d6",
+			"6dbd821d-447a-45bd-99b8-29dc7b43bff8",
+			"96b813ad-bed6-47c0-9ddb-3d660bb0b502",
+			"828290b3-2e3b-427b-a29e-e5d3ad283bf6",
+			"ea31f604-0b1b-4f7f-a5b0-cff9c24a4e7c",
+			"b3210f8c-576e-4cfa-b878-53899a664cc6",
+			"6c6bc115-d633-4da3-a0c5-a435437985c8",
+			"8732b8eb-2647-4558-aa32-f4bbea65383a",
+			"16ed878f-47fc-46e7-9ecb-efa93db31ee6"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
+		],
+		"examenprogramma_kop1_id": [
+			"676a4168-512e-4fca-a6dd-02ad293b9f99",
+			"619afb92-7be3-47ba-887c-285b09f51e65",
+			"3ec0b2e3-b784-4f25-9a6e-505ff660f3a0"
+		],
+		"title": "Examenprogramma Economie vwo",
+		"id": "a5b11d00-618b-4d82-be22-72bd9b9ab03f",
+		"prefix": "EC/vwo",
+		"ingangsdatum": "vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-economie-vwo-2021/2021/f=/economie_vwo_2021_versie_2.pdf",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"266a32b4-aed8-495f-9e78-da585f8cc370"
+		]
+	},
+	{
+		"prefix": "MU/havo",
+		"id": "ebb3d82f-5f70-4d80-9a66-561f154458de",
+		"title": "Examenprogramma Muziek  havo",
+		"examenprogramma_vakleergebied_id": [
+			"98572b3b-052f-4df0-ba49-e14aee04f944"
+		],
+		"examenprogramma_domein_id": [
+			"c5f7086a-3f06-4325-b19b-a962de9e0d8f",
+			"963ba464-dd66-405e-b5ae-c8a253aa3eeb",
+			"c46efd08-0cca-4222-af81-013c14750d40"
+		],
+		"examenprogramma_kop1_id": [
+			"db97639f-ff1c-44a8-9fba-b527bc4bb926",
+			"0cdfbd08-d2f9-4392-a6c7-252a4935be9d",
+			"5e1d272d-ad3b-48c6-b258-1076683104c5"
+		],
+		"url": "https://www.examenblad.nl/examenstof/muziek-havo/2020/f=/muz_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"replaces": [
+			"dab2a174-419b-45e6-912f-974fb4db4f06",
+			"8dc6a212-3df6-4a46-8c95-008890be0807"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		]
+	},
+	{
+		"prefix": "WI/A/vwo",
+		"id": "bf9ca021-894a-47e9-a14a-15bebeb94247",
+		"title": "Examenprogramma Wiskunde A vwo",
+		"examenprogramma_vakleergebied_id": [
+			"52d18b6c-0478-46b6-87fe-1bc81711ad3f"
+		],
+		"examenprogramma_domein_id": [
+			"5e587a7a-1d72-474b-a757-579185f925af",
+			"c32a021a-5672-44d0-ac52-4fddd091cd52",
+			"5476c1b8-698e-42c9-83b4-013f77770b49",
+			"ca60f778-3b28-4123-ac02-9d606b58ce05",
+			"56fa83d1-94a7-4713-8c56-60876a1e67ef",
+			"aec70e35-7fb5-466e-bfed-929a31d2b975"
+		],
+		"examenprogramma_kop1_id": [
+			"e10cf851-ba83-4c74-a88f-51ac3c3dbf9b",
+			"29e21108-ec4b-403d-813b-021d597e2c26",
+			"903fce21-6625-47d7-b4ee-328da6748b97"
+		],
+		"ingangsdatum": "Vanaf CE 2018",
+		"versie": "2020",
+		"jaargang": "nnb",
+		"status": "nnb",
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-vwo-2/2020/f=/examenprogramma_wiskunde_a_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"6f5d3c16-1274-4f69-9601-cb96188e1b54"
+		]
+	},
+	{
+		"prefix": "KUMU/vwo",
+		"id": "a3682854-71af-4d4b-9543-be7b8bd62f75",
+		"title": "Examenprogramma Kunst (muziek) vwo",
+		"examenprogramma_vakleergebied_id": [
+			"fe12f70f-d4b5-4a7f-b689-8bb6faa3ee8e"
+		],
+		"examenprogramma_domein_id": [
+			"9cbbf01a-3cb5-46dd-9b72-5c4fc1421d2e",
+			"a34976df-1101-492b-8cfb-0123c25d749d",
+			"281e83d1-edd5-4e92-b912-a73a9aa51e5e"
+		],
+		"examenprogramma_kop1_id": [
+			"3a06d6a6-0218-4cc4-9d2d-71a7ead5f655",
+			"f4e8293e-c830-4ed5-b4c3-b2faa22c1425",
+			"9b3416e1-6f0c-4013-939b-f2234c80ebae"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-muziek-vwo/2020/f=/kunstmuz_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"78cd103c-54e3-4d1b-b392-5b93c880582a"
+		]
+	},
+	{
+		"prefix": "KUDR/vwo",
+		"id": "ebfb3974-666a-443a-9251-a4cf628b5228",
+		"title": "Examenprogramma Kunst (drama) vwo",
+		"examenprogramma_vakleergebied_id": [
+			"58c41c9b-375d-47b3-bbdf-7790d4bd2916"
+		],
+		"examenprogramma_domein_id": [
+			"c204213a-3a69-4c77-aa6c-62ebd77f8ba6",
+			"77254dcf-a411-4d54-a8bb-80932bc9f5c6",
+			"fc25e03f-e5f4-451e-8a95-c4d6dcee5902"
+		],
+		"examenprogramma_kop1_id": [
+			"4a998a8f-4e03-470e-81d3-e8fd02c0cdab",
+			"54c5782d-6503-4eba-92dd-b56eb6ea7cb2",
+			"9ee6277b-2515-4e24-b778-d38794f36495"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-drama-vwo/2020/f=/kunst_drama_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"530811b4-b704-429a-9ff2-2f2f0f472d50"
+		]
+	},
+	{
+		"prefix": "KUDR/havo",
+		"id": "66c3d671-8fc1-4c34-89ba-00fa48bde6d3",
+		"title": "Examenprogramma Kunst (drama) havo",
+		"examenprogramma_vakleergebied_id": [
+			"58c41c9b-375d-47b3-bbdf-7790d4bd2916"
+		],
+		"examenprogramma_domein_id": [
+			"3af43409-6944-43e9-b7ff-894441d04e73",
+			"ec607fdf-97d4-4abd-ae90-e653c152cfeb",
+			"e71bb596-58a0-4433-8a38-0cab05a1eadd"
+		],
+		"examenprogramma_kop1_id": [
+			"7ad59c38-68a1-4185-951a-92ee40c37aaf",
+			"06cd44e4-afff-4593-8589-778071d5f600",
+			"58674a0e-e1e3-4a8d-aa54-5e3ed2195005"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-drama-havo/2020/f=/kunstdrama_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"18ff572d-ac19-42b5-a558-9a7659339889"
+		]
+	},
+	{
+		"prefix": "KUDA/vwo",
+		"id": "f3f55389-ff66-4cb9-a0ec-68ee3348945f",
+		"title": "Examenprogramma Kunst (dans) vwo",
+		"examenprogramma_vakleergebied_id": [
+			"34033c01-03ea-49cd-b868-59cd32bd3ec8"
+		],
+		"examenprogramma_domein_id": [
+			"0d981433-2c5e-4dfc-a88d-8bc535968b28",
+			"75df6ab8-5f7e-477f-a9fc-bf7d31ee48a2",
+			"ff22e6f7-2ac1-4c04-9346-478d16fdc941"
+		],
+		"examenprogramma_kop1_id": [
+			"753c9b35-67fc-44a0-b0d9-10b5726c1a1b",
+			"d6e21568-d38f-44d5-8d28-d2d51017be62",
+			"a7c65df1-8909-4c65-ab5a-0a6946632c9c"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-dans-vwo/2020/f=/kunstdans_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"0e62e61e-23e5-40e8-a12f-b4dbdc591812"
+		]
+	},
+	{
+		"prefix": "KUBV/vwo",
+		"id": "dde74cc0-810e-4e92-a4b9-99c0e12d0786",
+		"title": "Examenprogramma Kunst (beeldende vormgeving) vwo",
+		"examenprogramma_vakleergebied_id": [
+			"7f7e12dc-2203-4fe0-ab12-ba68bccfb9c8"
+		],
+		"examenprogramma_domein_id": [
+			"89769514-a6d6-4605-825d-8ea4ff3bb712",
+			"541af3a4-85b3-437f-becf-9756f9a07d56",
+			"2bd1d16a-a01a-4e25-88b6-60b1c75d8c7c"
+		],
+		"examenprogramma_kop1_id": [
+			"1c703789-335e-4de0-aa94-212b60c8ba49",
+			"5493efc8-f1d4-4401-a4a4-0e89b53c0d24",
+			"04608c70-b0e7-4a5b-9969-e6845843a1b5"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"90f32bf1-0834-4288-93ba-2ceb6bc40e49"
+		]
+	},
+	{
+		"prefix": "KUBV/havo",
+		"id": "71434822-51a6-4500-93b6-b4620e1d488e",
+		"title": "Examenprogramma Kunst (beeldende vormgeving) havo",
+		"examenprogramma_vakleergebied_id": [
+			"7f7e12dc-2203-4fe0-ab12-ba68bccfb9c8"
+		],
+		"examenprogramma_domein_id": [
+			"d36c7a47-92d0-4f1a-b7ce-28557bcf309a",
+			"145577b2-c759-4385-a977-5db870f77bfe",
+			"d2704a46-359f-496a-8132-6d3958aeb416"
+		],
+		"examenprogramma_kop1_id": [
+			"e65a0a78-9d7c-488a-874f-5ab48b4a830b",
+			"f4cdb99b-d696-4e10-b0ff-1f5d8fbe1797",
+			"6fb0f96f-6e28-471e-868a-4474a72efae1"
+		],
+		"url": "https://www.examenblad.nl/examenstof/kunst-beeldende-vormgeving-havo/2020/f=/kunstbv_havo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"d343fb75-ba02-4969-960c-3ff5e009e946"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"9ab753d9-be16-424e-b0d1-fc4f407a5421",
+			"5b13307a-5d3a-4be6-8db1-757ade8e90f3",
+			"7ee1dcdf-3ba2-4aee-981b-029df8dc880f",
+			"ab03df83-98de-4d58-8269-d65a9bb43e4f",
+			"db786019-0499-4b75-9b65-aae13c56cf8a",
+			"0e1b17c4-3aad-4a3d-9f2d-39564c94b64d"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"57ffd396-6bee-4868-b2be-f0304c29ef89"
+		],
+		"examenprogramma_kop1_id": [
+			"e3dd88f5-422f-40e8-8aef-1ed803766a31",
+			"ebd76550-99a2-4594-a3ec-0e95f641edfa",
+			"c7003a2a-ecbb-4cfc-940d-cf5c05a3a322"
+		],
+		"title": "Examenprogramma Friese taal en cultuur vwo",
+		"id": "0f445c0f-6897-4c07-a8be-4af4d4743a40",
+		"prefix": "FR/vwo",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"0d0c027f-e2c2-4681-8c47-bd386208a760",
+			"18f03ee1-f4a9-45ae-ba49-c3f27c862262",
+			"e81d8def-a784-4e4c-b1e5-3e1b599cb87b",
+			"a91788a1-186c-4afb-8e79-78e3e263d531",
+			"4d1c9890-54ff-413d-8268-f68c035678b0",
+			"670c0386-dd39-44b6-ab8d-dac59fa729bc"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"57ffd396-6bee-4868-b2be-f0304c29ef89"
+		],
+		"examenprogramma_kop1_id": [
+			"ea91640a-ecdd-4921-9d2e-ee45b214a43d",
+			"d97f2f8f-8ea9-41ec-bef1-cdfcc69e7c73",
+			"a1700271-8174-4637-a2b9-e5f729d8d9d4"
+		],
+		"title": "Examenprogramma Friese taal en cultuur havo",
+		"id": "43c690b5-2667-4bd8-a77f-c0cafba01af9",
+		"prefix": "FR/havo",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
+		"versie": "",
+		"replaces": [
+			"c247ec44-bebe-42e3-8b65-5722389a3add"
+		]
+	},
+	{
+		"prefix": "AK/havo",
+		"id": "e6aa2e0a-709e-4b43-a5a2-8a941ca31c5e",
+		"title": "Examenprogramma Aardrijkskunde havo",
+		"examenprogramma_vakleergebied_id": [
+			"1f237289-4039-4122-a709-58c065bacda0"
+		],
+		"examenprogramma_domein_id": [
+			"ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
+			"d396a627-9202-40a9-844f-b5d8da88c714",
+			"aee8adb9-0858-43c2-adf8-fe8642d40d5f",
+			"6d8890df-c35b-4ed2-9920-6bed6d7425b4",
+			"7bd2bbfa-ca70-46db-86a1-f2cb19bcbe27",
+			"d070f49b-5929-41b3-b9c7-7d8d06b0de67"
+		],
+		"examenprogramma_kop1_id": [
+			"15290d0a-8002-4773-ae3f-4b45f3e04de4",
+			"c897aa12-544f-409d-b0f6-8138748bbb61",
+			"a9234709-b275-4179-a40b-2c376f6f2f67"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-havo/2020/f=/aard_havo.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"5effad33-ae66-4a1b-b610-d6a4f5542e0a"
+		]
 	}
 ]

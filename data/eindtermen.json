@@ -8262,21 +8262,6 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"id": "84a3dfa0-1532-4f9b-8cfd-19e18c5e1185",
-		"title": "De kandidaat kan de invloed en macht van de media analyseren aan de hand van cultuuroverdracht, beeldvorming en beïnvloedingstheorieën.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinB/B1/4",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
 		"id": "c6240118-7fd3-4624-9048-77a70e61375c",
 		"title": "De kandidaat kan mogelijke modellen beschrijven van samenlevingen met verschillende groepen en hun (sub)culturen.",
 		"niveau_id": [
@@ -8317,51 +8302,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "9d5165b9-e8fe-43c5-b391-b12040d804ad",
-		"title": "De kandidaat kan een onderscheid maken tussen repressief en preventief beleid bij de bestrijding van criminaliteit.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"prefix": "MAW/V/DomeinC/C3/11",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"id": "12f73cec-e1d4-4e60-b5e5-a0bd99876dcb",
-		"title": "De kandidaat kan typerende standpunten van politieke partijen over criminaliteitsbestrijding onderscheiden en in verband brengen met de ideologische stromingen waartoe die partijen behoren.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"prefix": "MAW/V/DomeinC/C4/12",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"id": "f631c635-2573-4a58-a4ba-9366795c2812",
-		"title": "De kandidaat kan een visie geven op de zin en de mogelijke effecten van (bepaalde) straffen.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"prefix": "MAW/V/DomeinC/C5/13",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
 		"id": "950aac82-e0d3-4747-b783-bec9485f9f4b",
 		"title": "De kandidaat kan verschillende theorieën/visies toepassen bij het geven van verklaringen voor het ontstaan of de toename van een gegeven vorm van criminaliteit.",
 		"niveau_id": [
@@ -8370,102 +8310,12 @@
 		"ce_se": "CE"
 	},
 	{
-		"id": "a1d1e85a-66e2-4e2a-bd97-7ca2e2e6e974",
-		"title": "De kandidaat kan uitleggen wat het belang is van duurzame ontwikkeling voor het mondiale milieuvraagstuk.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"prefix": "MAW/V/DomeinD/D1/14",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"id": "d7149460-f600-4925-bbec-51c583d1ac62",
-		"title": "De kandidaat kan waarden, normen, attitude en gedrag onderscheiden met betrekking tot milieuproblemen.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"prefix": "MAW/V/DomeinD/D2/15",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"id": "114fdc26-8b68-4b38-a546-0077915929d6",
-		"title": "De kandidaat kan uitleggen welke invloed individueel gedrag heeft op de milieuproblematiek.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"prefix": "MAW/V/DomeinD/D3/16",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"id": "f68fa780-b726-494a-9add-d975b134e304",
-		"title": "De kandidaat kan op basis van verschillende motieven, visies en belangen een oordeel geven over de betekenis en effectiviteit van ontwikkelingssamenwerking en ontwikkelingsbeleid.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"prefix": "MAW/V/DomeinD/D4/17",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"id": "69475f90-a1e2-412b-913d-158dae8501e1",
-		"title": "De kandidaat kan de rol van medefinancieringsorganisaties en de rol van internationale organisaties analyseren bij het terugdringen van onderontwikkeling tegen de achtergrond van het Nederlandse ontwikkelingsbeleid, internationale verhoudingen en internationalisering/globalisering.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"prefix": "MAW/V/DomeinD/D5/18",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
 		"id": "39a4db5f-3149-496e-bdf0-6d2cb0e6a1fa",
 		"title": "De kandidaat kan aangeven in welke mate het ontwikkelingsbeleid van Nederland en van andere westerse landen of internationale organisaties rekening houdt met de economische belangen van de Derde Wereld.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"id": "46c06629-5513-44d5-859f-a3bfe8fff101",
-		"title": "De kandidaat kan in ontwikkelingsbeleid en ontwikkelingssamenwerking het belang van de culturele dimensie aangeven.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"prefix": "MAW/V/DomeinE/E1/19",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
 	},
 	{
 		"id": "a66ec364-385e-41ed-8678-8083d851f4a8",
@@ -25558,21 +25408,6 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "AK/H/DomeinA/A1/1b",
-		"id": "dbc378e5-07e8-4aac-9959-764335da89ff",
-		"title": "De kandidaat kan de geografische benadering adequaat hanteren, geografische vragen herkennen en zelf formuleren.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 1,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
 		"prefix": "AK/H/DomeinA/A1/1c",
 		"id": "2adb6958-435d-4a60-828a-5814adac4f4f",
 		"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
@@ -25891,21 +25726,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.\n",
-		"id": "43e728ef-8ce1-4d08-9416-4e7b0d1053b8",
-		"prefix": "EC/V/DomeinD/4",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"ce_se": "CE",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"title": "Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd.",
 		"id": "24b77886-45fa-41d0-982d-1e1ae9dfbdec",
 		"prefix": "EC/V/DomeinD/4b",
@@ -25934,21 +25754,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd. De prijs die deze intertemporele ruil coördineert is de rente.",
-		"id": "9844212a-ea9c-474f-beaa-f3783d902493",
-		"prefix": "EC/V/DomeinE/5",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"ce_se": "CE",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"title": "De prijs die deze intertemporele ruil coördineert is de rente.",
 		"id": "0b53e93b-a54b-4188-aa4b-0cd2fed6ef0d",
 		"prefix": "EC/V/DomeinE/5b",
@@ -25957,21 +25762,6 @@
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
-	},
-	{
-		"ce_se": "CE",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties. Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
-		"id": "280d0d3b-ed14-47ac-84d7-0c2660806917",
-		"prefix": "EC/V/DomeinF/6",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
@@ -25992,21 +25782,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen. Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
-		"id": "fd86ce4e-7391-4220-b918-43554cc459f0",
-		"prefix": "EC/V/DomeinG/7",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"ce_se": "CE",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"title": "Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
 		"id": "d3dd771d-faa0-4c0a-9550-5af3bf915975",
 		"prefix": "EC/V/DomeinG/7b",
@@ -26021,21 +25796,6 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart. Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
-		"id": "3cd1c168-a60c-4fc2-95f0-90d7d9aedde2",
-		"prefix": "EC/V/DomeinH/8",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
-	},
-	{
-		"ce_se": "CE",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
 		"title": "Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
 		"id": "41c8a69e-3d50-4417-a0c9-9a99a9a399a1",
 		"prefix": "EC/V/DomeinH/8b",
@@ -26044,21 +25804,6 @@
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
-	},
-	{
-		"ce_se": "CE",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"title": "De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid. Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten",
-		"id": "0716b0d7-cff5-4e17-b29a-c739fe323039",
-		"prefix": "EC/V/DomeinI/9",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"dirty": "1"
 	},
 	{
 		"ce_se": "CE",
@@ -26579,16 +26324,6 @@
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken."
 	},
 	{
-		"title": "n.v.t.",
-		"id": "8f9147d2-3454-4068-ba97-2abd1bb9bc41",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
-	},
-	{
 		"prefix": "MVT/FA/V/DomeinA/1a",
 		"id": "5d0167e6-18f3-4582-99cc-29ed8a29dcf6",
 		"ce_se": "CE",
@@ -26821,16 +26556,6 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "De kandidaat kan een overzicht geven van de hoofdlijnen van de literatuurgeschiedenis en de gelezen literaire werken plaatsen in dit historisch perspectief."
-	},
-	{
-		"title": "n.v.t.",
-		"id": "16d59a94-ca5a-49a7-970b-31980769e598",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
 	},
 	{
 		"prefix": "MVT/DU/H/DomeinA/1a",
@@ -28025,17 +27750,6 @@
 		"keuze": 0
 	},
 	{
-		"ce_se": "SE",
-		"title": "niet van toepassing",
-		"id": "fc9188e5-e462-4cda-9d8b-0cd1e58cab79",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
-	},
-	{
 		"prefix": "FR/H/DomeinA/1a",
 		"id": "85be34c5-67c0-4896-9f4c-9c1cd59224e0",
 		"ce_se": "CE",
@@ -28639,16 +28353,6 @@
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken."
 	},
 	{
-		"title": "n.v.t.",
-		"id": "f940fe18-30c7-42ba-a1d6-6df2709513f0",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
-	},
-	{
 		"prefix": "MVT/AR/V/DomeinA/1a",
 		"id": "82a57889-3b27-4768-b663-ab5a45eea210",
 		"ce_se": "CE",
@@ -28985,16 +28689,6 @@
 		"keuze": 0
 	},
 	{
-		"title": "n.v.t.",
-		"id": "bfdca570-59a3-487c-905f-30c43d2a0ca6",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
-	},
-	{
 		"prefix": "MVT/AR/H/DomeinA/1a",
 		"id": "3527d948-ded8-4d50-b557-e682231687c3",
 		"ce_se": "CE",
@@ -29202,16 +28896,6 @@
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken."
 	},
 	{
-		"title": "n.v.t.",
-		"id": "1a9685bf-669f-4ee3-8e71-45db1805f8b4",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
-	},
-	{
 		"ce_se": "CE",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -29396,16 +29080,6 @@
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
 		"id": "c2e73c2e-8bcc-46d6-9072-5090303f43de"
-	},
-	{
-		"title": "n.v.t.",
-		"id": "f4508ad8-5cd5-4964-91b5-be744e267d37",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
 	},
 	{
 		"ce_se": "SE",
@@ -29911,16 +29585,6 @@
 		"id": "c8b22060-ff33-4ea8-a002-bcb89ce6055e"
 	},
 	{
-		"title": "n.v.t.",
-		"id": "02d6eb1d-83c4-4e53-9e13-df8122faccc3",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
-	},
-	{
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -30406,16 +30070,6 @@
 		"id": "39fa992d-62d3-4fac-972d-f80ab4550f7c"
 	},
 	{
-		"title": "n.v.t.",
-		"id": "4e0674c4-550e-4664-bb31-cc3dc7cc693a",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
-	},
-	{
 		"ce_se": "CE",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -30600,16 +30254,6 @@
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
 		"id": "383c36ab-831c-4ba2-a593-ba9b288aad2d"
-	},
-	{
-		"title": "n.v.t.",
-		"id": "05871708-7fd1-419f-9100-1abf05d3caed",
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
 	},
 	{
 		"prefix": "MVT/SP/K/1/1",
@@ -32050,7 +31694,6 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "8b71cb44-ef98-47b2-a7b9-0e05d161865f",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinB/2a",
 		"description": "",
 		"ce": 0,
@@ -32064,7 +31707,6 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
 		"id": "8a90951f-bd88-401e-a69b-1592a7013b5f",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinB/2b",
 		"description": "",
 		"ce": 0,
@@ -32078,7 +31720,6 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "808b320d-bd99-488c-a5fe-4e932374180e",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinB/2c",
 		"description": "",
 		"ce": 0,
@@ -32092,7 +31733,6 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
 		"id": "1cd13413-3853-4c81-b626-1ca946670f8b",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinB/2d",
 		"description": "",
 		"ce": 0,
@@ -32106,7 +31746,6 @@
 		],
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
 		"id": "70514b9a-5d7f-48bf-9d83-148bbc9b059e",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinB/2e",
 		"description": "",
 		"ce": 0,
@@ -32120,7 +31759,6 @@
 		],
 		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
 		"id": "65b60a0e-847c-40d2-ac27-724a1d63bf16",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinB/2f",
 		"description": "",
 		"ce": 0,
@@ -32134,7 +31772,6 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
 		"id": "48700c3e-4b8e-46c8-865e-6795206f02cd",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C1/3a",
 		"description": "",
 		"ce": 0,
@@ -32148,7 +31785,6 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "3da39bc6-7b2a-4136-8384-1db157d1bd2c",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C1/3b",
 		"description": "",
 		"ce": 0,
@@ -32162,7 +31798,6 @@
 		],
 		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
 		"id": "762bf426-3cf5-4094-a762-06e1ee026002",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C1/3c",
 		"description": "",
 		"ce": 0,
@@ -32176,7 +31811,6 @@
 		],
 		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "7525e359-ad26-4a0d-a61c-ef27189ba4a6",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C1/3d",
 		"description": "",
 		"ce": 0,
@@ -32190,7 +31824,6 @@
 		],
 		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
 		"id": "c1099b61-523d-426e-a3a3-5abef1b699a8",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C1/3e",
 		"description": "",
 		"ce": 0,
@@ -32204,7 +31837,6 @@
 		],
 		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "3d56ce0f-cff6-46b4-8968-2b9f7ca82a15",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C2/4",
 		"description": "",
 		"ce": 0,
@@ -32218,7 +31850,6 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
 		"id": "6ab8ede5-f4ed-4eaa-a67d-fb9c0c7ce930",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D1/5a",
 		"description": "",
 		"ce": 0,
@@ -32232,7 +31863,6 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "08ab4728-e7b3-41eb-9280-788a6cbe7d57",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D1/5b",
 		"description": "",
 		"ce": 0,
@@ -32246,7 +31876,6 @@
 		],
 		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
 		"id": "87b9ae1e-0561-44cb-b0ca-a1ad40becd46",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D1/5c",
 		"description": "",
 		"ce": 0,
@@ -32260,7 +31889,6 @@
 		],
 		"title": "De kandidaat kan een verslag schrijven.",
 		"id": "5b6d9d46-b6fc-465b-ab08-2768c4011c34",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D1/5d",
 		"description": "",
 		"ce": 0,
@@ -32274,7 +31902,6 @@
 		],
 		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
 		"id": "c4715590-7768-428c-9468-ae76ca32489f",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D2/6a",
 		"description": "",
 		"ce": 0,
@@ -32288,7 +31915,6 @@
 		],
 		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
 		"id": "61ea09d9-5222-4d6f-9368-ddff65a06aa2",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D2/6b",
 		"description": "",
 		"ce": 0,
@@ -32302,24 +31928,12 @@
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
 		"id": "0c0928be-328b-4b61-94a1-8e7544422436",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinE/E1/7",
 		"description": "",
 		"ce": 0,
 		"se": 1,
 		"kern": 0,
 		"keuze": 0
-	},
-	{
-		"title": "n.v.t.",
-		"id": "ce8da9be-c2cf-4b52-a635-4f1f1652b446",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
 	},
 	{
 		"niveau_id": [
@@ -32330,7 +31944,6 @@
 		],
 		"title": "De kandidaat kan zich oriënteren op de eigen loopbaan en het belang van Fries in cultuur en maatschappij.",
 		"id": "ebf022ac-d06e-45b2-abe4-444b3f236366",
-		"unreleased": true,
 		"prefix": "FR/K/1/1",
 		"description": "",
 		"ce": 0,
@@ -32347,7 +31960,6 @@
 		],
 		"title": "De kandidaat kan basisvaardigheden toepassen die betrekking hebben op communiceren, samenwerken en informatie verwerven, verwerken en presenteren.",
 		"id": "03bff271-9507-4962-b632-9808adb0013c",
-		"unreleased": true,
 		"prefix": "FR/K/2/2",
 		"description": "",
 		"ce": 0,
@@ -32362,7 +31974,6 @@
 		],
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek- en gespreksdoelen.",
 		"id": "941f5d7c-9b8d-48fe-9be1-1e2f8082a791",
-		"unreleased": true,
 		"prefix": "FR/K/3/3a",
 		"description": "",
 		"ce": 0,
@@ -32377,7 +31988,6 @@
 		],
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het bereiken van verschillende lees-, schrijf-, luister- en kijk-, en spreek- en gespreksdoelen.",
 		"id": "b210b5e7-35e1-44ec-9a4f-2086843cdb28",
-		"unreleased": true,
 		"prefix": "FR/K/3/3a",
 		"description": "",
 		"ce": 1,
@@ -32392,7 +32002,6 @@
 		],
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de bevordering van het eigen taalleerproces.",
 		"id": "c125344e-3700-497d-acaa-3a65d4e945f2",
-		"unreleased": true,
 		"prefix": "FR/K/3/3b",
 		"description": "",
 		"ce": 0,
@@ -32407,7 +32016,6 @@
 		],
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de bevordering van het eigen taalleerproces.",
 		"id": "a89205c3-9f7f-44fe-9600-a63662190279",
-		"unreleased": true,
 		"prefix": "FR/K/3/3b",
 		"description": "",
 		"ce": 1,
@@ -32422,7 +32030,6 @@
 		],
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.",
 		"id": "a9e24b1b-3012-407a-a2c4-1f7029fdfb9e",
-		"unreleased": true,
 		"prefix": "FR/K/3/3c",
 		"description": "",
 		"ce": 0,
@@ -32437,7 +32044,6 @@
 		],
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het compenseren van eigen tekortschietende taalkennis of communicatieve kennis.",
 		"id": "6d4c28d8-6971-45f2-8bae-d94fedc471cb",
-		"unreleased": true,
 		"prefix": "FR/K/3/3c",
 		"description": "",
 		"ce": 1,
@@ -32454,7 +32060,6 @@
 		],
 		"title": "De kandidaat kan luister- en kijkstrategieën hanteren.",
 		"id": "d0de1ddc-f561-4b73-b3a7-ff36f8049f39",
-		"unreleased": true,
 		"prefix": "FR/K/4/4a",
 		"description": "",
 		"ce": 0,
@@ -32471,7 +32076,6 @@
 		],
 		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"id": "ee364a78-eb9e-4e34-8d0b-e8aa264fc20d",
-		"unreleased": true,
 		"prefix": "FR/K/4/4b",
 		"description": "",
 		"ce": 0,
@@ -32488,7 +32092,6 @@
 		],
 		"title": "De kandidaat kan het doel van de makers van een programma aangeven.",
 		"id": "7d51cd19-b3bb-4dcd-bd63-b34ad793f58e",
-		"unreleased": true,
 		"prefix": "FR/K/4/4c",
 		"description": "",
 		"ce": 0,
@@ -32505,7 +32108,6 @@
 		],
 		"title": "De kandidaat kan de belangrijkste elementen van een programma weergeven.",
 		"id": "474e7cbd-78bc-4c0f-8ba1-1b173cc2ae06",
-		"unreleased": true,
 		"prefix": "FR/K/4/4d",
 		"description": "",
 		"ce": 0,
@@ -32522,7 +32124,6 @@
 		],
 		"title": "De kandidaat kan een oordeel geven over een programma en dit toelichten.",
 		"id": "8b8177d4-2618-4dc1-8c3c-bc538c5226d4",
-		"unreleased": true,
 		"prefix": "FR/K/4/4e",
 		"description": "",
 		"ce": 0,
@@ -32539,7 +32140,6 @@
 		],
 		"title": "De kandidaat kan een instructie uitvoeren.",
 		"id": "40898327-66cd-4540-8ea0-2220031530e1",
-		"unreleased": true,
 		"prefix": "FR/K/4/4f",
 		"description": "",
 		"ce": 0,
@@ -32555,7 +32155,6 @@
 		],
 		"title": "De kandidaat kan de waarde en betrouwbaarheid aangeven van de informatie die door de massamedia verspreid wordt.",
 		"id": "07c7a442-1f36-4cac-9b7a-41a3c12bb9ef",
-		"unreleased": true,
 		"prefix": "FR/K/4/5a",
 		"description": "",
 		"ce": 0,
@@ -32573,7 +32172,6 @@
 		],
 		"title": "De kandidaat kan relevante informatie verzamelen en verwerken ten behoeve van de spreek- en gesprekssituatie.",
 		"id": "10d49fd0-8f2d-4ed0-a5ab-06f2896db6e6",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32590,7 +32188,6 @@
 		],
 		"title": "De kandidaat kan strategieën hanteren ten behoeve van de spreek- en gesprekssituatie.",
 		"id": "076a7317-9e94-48be-bf67-5a56e26a9e99",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32607,7 +32204,6 @@
 		],
 		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"id": "ac31e119-01d6-4080-abe2-91cc48040f68",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32624,7 +32220,6 @@
 		],
 		"title": "De kandidaat kan het spreek-/luisterdoel in de situatie tot uitdrukking brengen.",
 		"id": "d1663ccc-2c54-4eb2-9947-b0b24d007226",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32641,7 +32236,6 @@
 		],
 		"title": "De kandidaat kan het spreek-/luisterdoel en taalgebruik richten op verschillende soorten publiek.",
 		"id": "6efb9b23-2714-4a16-ac87-b6a308f38c31",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32658,7 +32252,6 @@
 		],
 		"title": "De kandidaat kan het spreekdoel van anderen herkennen en de reacties van anderen inschatten.",
 		"id": "5d26b2bc-f68f-4376-adcb-573cf706af31",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32675,7 +32268,6 @@
 		],
 		"title": "De kandidaat kan in spreek- en gesprekssituaties in Friesland voorkomende taalvarianten herkennen en daar adequaat op inspelen.",
 		"id": "73f101b4-9709-404e-8cfb-2f5c1d34eb1c",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32690,7 +32282,6 @@
 		],
 		"title": "De kandidaat kan leesstrategieën hanteren.",
 		"id": "abadafa5-9057-406d-bdfb-cb165b86bf56",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32705,7 +32296,6 @@
 		],
 		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"id": "36ed26db-dc32-4de3-8beb-1bfdcc549878",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32720,7 +32310,6 @@
 		],
 		"title": "De kandidaat kan functie van beeld en opmaak in een tekst herkennen.",
 		"id": "cbfb6a60-02a1-4a99-9cf1-9217c19551f2",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32734,7 +32323,6 @@
 		],
 		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven.",
 		"id": "0b666264-b500-41cc-85e5-282a645ec8d4",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32747,7 +32335,6 @@
 		],
 		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven en de talige middelen die hij hanteert om dit doel te bereiken.",
 		"id": "9ad98a33-b7ae-4ebc-90c0-598748f8851f",
-		"unreleased": true,
 		"prefix": "FR/K/6/7d",
 		"description": "",
 		"ce": 0,
@@ -32763,7 +32350,6 @@
 		],
 		"title": "De kandidaat kan een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen.",
 		"id": "fc7c84e6-2837-436d-9fe8-5b8430156071",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32777,7 +32363,6 @@
 		],
 		"title": "De kandidaat kan het hoofdonderwerp en de hoofdgedachte van een tekst aangeven.",
 		"id": "05b6fbf7-db88-48eb-8ad3-e2f97fd953ad",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32790,7 +32375,6 @@
 		],
 		"title": "De kandidaat kan het hoofdonderwerp en de hoofdgedachte van een tekst aangeven en een samenvatting geven.",
 		"id": "3ec2984b-3014-48fe-8eb8-64f2fccefc72",
-		"unreleased": true,
 		"prefix": "FR/K/6/7f",
 		"description": "",
 		"ce": 0,
@@ -32806,7 +32390,6 @@
 		],
 		"title": "De kandidaat kan een oordeel geven over de tekst en dit oordeel toelichten.",
 		"id": "59b7612c-603d-46ee-80de-e5e20e0e240b",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -32821,7 +32404,6 @@
 		],
 		"title": "De kandidaat kan leesstrategieën hanteren.",
 		"id": "5f906dc6-3724-4cd6-8657-adf3efa7fbd2",
-		"unreleased": true,
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -32836,7 +32418,6 @@
 		],
 		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"id": "aa540474-ec91-4450-bb0e-7d1963636df8",
-		"unreleased": true,
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -32851,7 +32432,6 @@
 		],
 		"title": "De kandidaat kan functie van beeld en opmaak in een tekst herkennen.",
 		"id": "149b426b-8d42-49d5-8223-d73f9107d022",
-		"unreleased": true,
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -32866,7 +32446,6 @@
 		],
 		"title": "De kandidaat kan het schrijfdoel van de auteur aangeven en de talige middelen die hij hanteert om dit doel te bereiken.",
 		"id": "1e1a3b12-1ffa-423f-960a-7066f2dc0e20",
-		"unreleased": true,
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -32881,7 +32460,6 @@
 		],
 		"title": "De kandidaat kan een tekst indelen in betekenisvolle eenheden en de relaties tussen die eenheden benoemen.",
 		"id": "d606602d-2009-439d-b9ae-b5cc089cb255",
-		"unreleased": true,
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -32896,7 +32474,6 @@
 		],
 		"title": "De kandidaat kan het hoofdonderwerp en de hoofdgedachte van een tekst aangeven en een samenvatting geven.",
 		"id": "1bde9e94-2522-41d3-a13a-99771d5df92a",
-		"unreleased": true,
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -32911,7 +32488,6 @@
 		],
 		"title": "De kandidaat kan een oordeel geven over de tekst en dit oordeel toelichten.",
 		"id": "5c2122f3-680f-446d-a80a-d6ead0752d6f",
-		"unreleased": true,
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -32927,7 +32503,6 @@
 		],
 		"title": "De kandidaat kan relevante informatie verzamelen en verwerken ten behoeve van het schrijven.",
 		"id": "83677e7a-d465-4c68-acff-73c49cfb7662",
-		"unreleased": true,
 		"prefix": "FR/K/7/9a",
 		"description": "",
 		"ce": 0,
@@ -32944,7 +32519,6 @@
 		],
 		"title": "De kandidaat kan schrijfstrategieën hanteren.",
 		"id": "e2014b57-80dc-4c75-a4ac-3e1064627586",
-		"unreleased": true,
 		"prefix": "FR/K/7/9b",
 		"description": "",
 		"ce": 0,
@@ -32961,7 +32535,6 @@
 		],
 		"title": "De kandidaat kan compenserende strategieën kiezen en hanteren.",
 		"id": "e5202584-7070-473a-b7c4-dcc5b0f1b627",
-		"unreleased": true,
 		"prefix": "FR/K/7/9c",
 		"description": "",
 		"ce": 0,
@@ -32978,7 +32551,6 @@
 		],
 		"title": "De kandidaat kan het schrijfdoel in teksten tot uitdrukking brengen.",
 		"id": "21b5ba72-e6f1-49a6-9353-433d9f40b2d4",
-		"unreleased": true,
 		"prefix": "FR/K/7/9d",
 		"description": "",
 		"ce": 0,
@@ -32995,7 +32567,6 @@
 		],
 		"title": "De kandidaat kan het schrijfdoel en taalgebruik richten op verschillende soorten lezerspubliek.",
 		"id": "95dd2623-575a-4ddc-bb09-de228047943e",
-		"unreleased": true,
 		"prefix": "FR/K/7/9e",
 		"description": "",
 		"ce": 0,
@@ -33012,7 +32583,6 @@
 		],
 		"title": "De kandidaat kan conventies hanteren met betrekking tot schriftelijk taalgebruik.",
 		"id": "4f96e83b-33e3-419c-9d8d-b909ac3831c3",
-		"unreleased": true,
 		"prefix": "FR/K/7/9f",
 		"description": "",
 		"ce": 0,
@@ -33029,7 +32599,6 @@
 		],
 		"title": "De kandidaat kan elektronische hulpmiddelen gebruiken bij het schrijven.",
 		"id": "3b613257-8e92-4ed3-847c-39c63d27e28b",
-		"unreleased": true,
 		"prefix": "FR/K/7/9g",
 		"description": "",
 		"ce": 0,
@@ -33046,7 +32615,6 @@
 		],
 		"title": "De kandidaat kan concepten van de tekst herschrijven op basis van geleverd commentaar.",
 		"id": "aeeaeb1a-6da8-4da7-950d-ee77d70dc73b",
-		"unreleased": true,
 		"prefix": "FR/K/7/9h",
 		"description": "",
 		"ce": 0,
@@ -33064,7 +32632,6 @@
 		],
 		"title": "De kandidaat kan verschillende soorten fictiewerken herkennen.",
 		"id": "d00a665d-a384-4692-be14-a9f046563d41",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33080,7 +32647,6 @@
 		],
 		"title": "De kandidaat kan de situatie en het denken en handelen van de personages in het fictiewerk beschrijven.",
 		"id": "fe02ddce-4a82-4eaa-9f04-e06beebd1536",
-		"unreleased": true,
 		"prefix": "FR/K/8/10b",
 		"description": "",
 		"ce": 0,
@@ -33097,7 +32663,6 @@
 		],
 		"title": "De kandidaat kan de relatie tussen het fictiewerk en de werkelijkheid toelichten.",
 		"id": "b20cc904-fd45-44cc-8895-b86cc8bbd044",
-		"unreleased": true,
 		"prefix": "FR/K/8/10c",
 		"description": "",
 		"ce": 0,
@@ -33114,7 +32679,6 @@
 		],
 		"title": "De kandidaat kan een persoonlijke reactie geven op een fictiewerk en deze toelichten met voorbeelden uit het werk.",
 		"id": "f0870bd0-9b18-47d9-bfd5-dcd6c70721ec",
-		"unreleased": true,
 		"prefix": "FR/K/8/10d",
 		"description": "",
 		"ce": 0,
@@ -33131,7 +32695,6 @@
 		],
 		"title": "De kandidaat kan kenmerken van fictie in het fictiewerk aanwijzen.",
 		"id": "f4a3f2c0-651d-439e-9d4a-2350e63a4cbd",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33146,7 +32709,6 @@
 		],
 		"title": "De kandidaat kan relevante achtergrondinformatie verzamelen en selecteren.",
 		"id": "9dc8e8a3-22e0-4d0f-9732-e2c70c1d0d4e",
-		"unreleased": true,
 		"prefix": "FR/K/8/11b",
 		"description": "",
 		"ce": 0,
@@ -33161,7 +32723,6 @@
 		],
 		"title": "De kandidaat kan zelfstandig informatie verwerven, verwerken en verstrekken in het kader van het sectorwerkstuk.",
 		"id": "206a445c-4b5e-41e8-ba82-f189c07d1381",
-		"unreleased": true,
 		"prefix": "FR/V/1/12",
 		"description": "",
 		"ce": 0,
@@ -33176,7 +32737,6 @@
 		],
 		"title": "De kandidaat kan de vaardigheden uit het kerndeel in samenhang toepassen.",
 		"id": "1d345d28-a7de-4c32-b8a0-4506ca327251",
-		"unreleased": true,
 		"prefix": "FR/V/2/13",
 		"description": "",
 		"ce": 0,
@@ -33190,7 +32750,6 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "5f48682f-6967-4c9d-a7f3-b46146aaa0df",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinA/1a",
 		"description": "",
 		"ce": 1,
@@ -33204,7 +32763,6 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst(gedeelte) aangeven.",
 		"id": "c261135f-aff2-45d7-8da7-eb4efba126c3",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinA/1b",
 		"description": "",
 		"ce": 1,
@@ -33218,7 +32776,6 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "8205ca36-faeb-4b08-be76-1221e1f52ad9",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinA/1c",
 		"description": "",
 		"ce": 1,
@@ -33232,7 +32789,6 @@
 		],
 		"title": "De kandidaat kan relaties tussen delen van een tekst aangeven.",
 		"id": "b167d920-ab8e-49ac-9b72-5ac166d16ede",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinA/1d",
 		"description": "",
 		"ce": 1,
@@ -33246,7 +32802,6 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
 		"id": "59a4ff33-525a-49c4-9a5f-2b7a1d737a30",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinA/1e",
 		"description": "",
 		"ce": 1,
@@ -33260,7 +32815,6 @@
 		],
 		"title": "De kandidaat kan aangeven welke informatie relevant is, gegeven een vaststaande behoefte.",
 		"id": "7a4d5ce4-41ad-4d5d-9028-4db1c0ce5f8c",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinB/2a",
 		"description": "",
 		"ce": 0,
@@ -33274,7 +32828,6 @@
 		],
 		"title": "De kandidaat kan de hoofdgedachte van een tekst aangeven.",
 		"id": "30365e25-2107-4739-9de2-2432ff265774",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinB/2b",
 		"description": "",
 		"ce": 0,
@@ -33288,7 +32841,6 @@
 		],
 		"title": "De kandidaat kan de betekenis van belangrijke elementen van een tekst aangeven.",
 		"id": "94792b8c-98c9-4d34-936b-e8118f1107e2",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinB/2c",
 		"description": "",
 		"ce": 0,
@@ -33302,7 +32854,6 @@
 		],
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de spreker(s).",
 		"id": "07c31e70-6504-47a0-ac1b-d626ec5435f0",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinB/2d",
 		"description": "",
 		"ce": 0,
@@ -33316,7 +32867,6 @@
 		],
 		"title": "De kandidaat kan anticiperen op het meest waarschijnlijke vervolg van een gesprek.",
 		"id": "0ce1f950-1a70-44ad-8617-0d3ef3b26bea",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinB/2e",
 		"description": "",
 		"ce": 0,
@@ -33330,7 +32880,6 @@
 		],
 		"title": "De kandidaat kan aantekeningen maken als strategie om een tekst aan te pakken.",
 		"id": "b5028c8e-b156-403c-b20d-e66bb21fe78e",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinB/2e",
 		"description": "",
 		"ce": 0,
@@ -33344,7 +32893,6 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in sociale contacten met doeltaalgebruikers.",
 		"id": "2fc54374-8b8f-404d-96db-2ad2bb9a86c2",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C1/3a",
 		"description": "",
 		"ce": 0,
@@ -33358,7 +32906,6 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "1854a51c-0e7a-46d9-b037-a47decfb9e52",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C1/3b",
 		"description": "",
 		"ce": 0,
@@ -33372,7 +32919,6 @@
 		],
 		"title": "De kandidaat kan uitdrukking geven aan gevoelens.",
 		"id": "5ade0702-2369-4bc1-a665-0a1063f3d560",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C1/3c",
 		"description": "",
 		"ce": 0,
@@ -33386,7 +32932,6 @@
 		],
 		"title": "De kandidaat kan zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "4498ce52-02cf-4cb3-9657-b74ab53d4136",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C1/3d",
 		"description": "",
 		"ce": 0,
@@ -33400,7 +32945,6 @@
 		],
 		"title": "De kandidaat kan strategieën toepassen om een gesprek voortgang te doen vinden.",
 		"id": "173acf1a-a5c1-4ffe-a442-d2d68fac276f",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C1/3e",
 		"description": "",
 		"ce": 0,
@@ -33414,7 +32958,6 @@
 		],
 		"title": "De kandidaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en standpunten en argumenten verwoorden.",
 		"id": "d40f832d-f15d-4dbc-9098-6c99057315a7",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C2/4",
 		"description": "",
 		"ce": 0,
@@ -33428,7 +32971,6 @@
 		],
 		"title": "De kandidaat kan adequaat reageren in schriftelijke contacten met doeltaalgebruikers.",
 		"id": "40d7fbe2-902a-4161-817e-2ea358d25cee",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D1/5a",
 		"description": "",
 		"ce": 0,
@@ -33442,7 +32984,6 @@
 		],
 		"title": "De kandidaat kan informatie vragen en verstrekken.",
 		"id": "f59393b7-1cf8-4057-aef7-6237b5a949ba",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D1/5b",
 		"description": "",
 		"ce": 0,
@@ -33456,7 +32997,6 @@
 		],
 		"title": "De kandiaat kan verworven informatie adequaat presenteren met het oog op doel en publiek, en daarbij zaken of personen beschrijven en uitdrukking geven aan gevoelens en standpunten verwoorden.",
 		"id": "9c3f7d43-c314-4c98-927d-d552fa5c26b7",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D1/5c",
 		"description": "",
 		"ce": 0,
@@ -33470,7 +33010,6 @@
 		],
 		"title": "De kandidaat kan een verslag schrijven",
 		"id": "16fc9cee-016e-4159-a890-85c355d644b0",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D1/5d",
 		"description": "",
 		"ce": 0,
@@ -33484,7 +33023,6 @@
 		],
 		"title": "De kandidaat kan met behulp van een tekstverwerkingsprogramma een tekst schrijven.",
 		"id": "cc093763-ce49-4dbb-9310-54b1991e4746",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D2/6a",
 		"description": "",
 		"ce": 0,
@@ -33498,7 +33036,6 @@
 		],
 		"title": "De kandidaat kan met behulp van (elektronisch) naslagmateriaal teksten opstellen.",
 		"id": "d55ca79d-0809-405f-990e-d8ceb533ec4b",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D2/6b",
 		"description": "",
 		"ce": 0,
@@ -33512,24 +33049,12 @@
 		],
 		"title": "De kandidaat kan beargumenteerd verslag uitbrengen van zijn leeservaringen met tenminste drie literaire werken.",
 		"id": "0cd2527d-c4d8-465c-a134-fd318e28e12a",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinE/E1/7",
 		"description": "",
 		"ce": 0,
 		"se": 1,
 		"kern": 0,
 		"keuze": 0
-	},
-	{
-		"title": "n.v.t.",
-		"id": "debe20f2-6770-405b-b5ba-03d371532830",
-		"unreleased": true,
-		"prefix": "",
-		"description": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_eindterm"
-		]
 	},
 	{
 		"niveau_id": [
@@ -33552,7 +33077,6 @@
 		],
 		"title": "De kandidaat kan op verantwoorde en perspectiefrijke wijze en met plezier in bewegende en regelende rollen deelnemen aan de bewegingscultuur, en kan aangeven in hoeverre hij daaraan - ook in de toekomst - kan en wil deelnemen.",
 		"id": "d4fdb477-615a-4b5a-8de3-54ebfa2f6e4c",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33566,7 +33090,6 @@
 		],
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om verbreding (leren van nieuwe activiteiten) en verdieping (qua niveau, taken en contexten) van bewegingsactiviteiten die in de onderbouw zijn aangeboden.",
 		"id": "c39cf45c-91eb-498f-9833-ce3fa07ec8e0",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33580,7 +33103,6 @@
 		],
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om in elk geval uit het activiteitengebied spelen een slag- en loopspel, twee doelspelen en een terugslagspel, bij voorkeur door de kandidaat te kiezen.",
 		"id": "130efcd6-13df-4ebf-aec1-19bead5f6790",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33594,7 +33116,6 @@
 		],
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om minimaal twee door de kandidaat te kiezen bewegingsactiviteiten uit een door de school gedaan aanbod voor de activiteitengebieden turnen, atletiek, bewegen op muziek e zelfverdediging.",
 		"id": "28d16e27-6743-4304-a3af-5d92fb75316b",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33608,7 +33129,6 @@
 		],
 		"title": "De kandidaat kan deelnemen aan een variëteit aan bewegingsactiviteiten, waarbij het gaat om minimaal drie door de kandidaat te kiezen en voor de kandidaat nieuwe bewegingsactiviteiten die bij voorkeur niet tot één van de hierboven genoemde activiteitengebieden behoren.",
 		"id": "ecbb490f-374e-4e7f-8f40-1457fee7f6d7",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33622,7 +33142,6 @@
 		],
 		"title": "De kandidaat kan (samen met anderen) ondersteunende en leidinggevende rollen in bewegingssituaties vervullen, waarbij het gaat om bewegingssituaties inrichten, op gang brengen en op gang houden.",
 		"id": "9b6c5661-cea7-47b1-b9f8-d48c8520437f",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33636,7 +33155,6 @@
 		],
 		"title": "De kanidaat kan (samen met anderen) ondersteunende en leidinggevende rollen in bewegingssituaties vervullen, waarbij het gaat om minimaal twee door de leerling te kiezen rollen van instructeur, coach/begeleider, scheidsrechter/jurylid en organisator.",
 		"id": "2205ba62-c53e-4e7f-a983-0e89888e13b2",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33650,7 +33168,6 @@
 		],
 		"title": "De kandidaat kan op basis van eigen ervaring met en inzicht in de betekenis\nvan sport en bewegen voor de (beleving van) gezondheid in brede zin\nverantwoord omgaan met belasting en risico's in bewegingssituaties, en een\ntrainingsprogramma opstellen dat past bij de eigen mogelijkheden.",
 		"id": "864cb033-e6b3-4927-a4d1-23e6572852ea",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33664,7 +33181,6 @@
 		],
 		"title": "De kandidaat kan op grond van inzicht in de kenmerken van het aanbod en in\r\nde eigen wensen en mogelijkheden ten aanzien van sportdeelname een\r\nbewuste keuze maken uit het aanbod aan sport en bewegen in de\r\nsamenleving.",
 		"id": "181e8b74-d66f-47a6-870b-43316f88baa0",
-		"unreleased": true,
 		"description": "",
 		"ce": 0,
 		"se": 1,
@@ -33967,5 +33483,294 @@
 		"prefix": "MVT/IT/H/DomeinA/1e",
 		"title": "De kandidaat kan conclusies trekken met betrekking tot intenties, opvattingen en gevoelens van de auteur.",
 		"description": ""
+	},
+	{
+		"id": "27d6b2a9-90c6-4ed8-a1a4-82110be52cd5",
+		"title": "De kandidaat kan de invloed en macht van de media analyseren aan de hand van cultuuroverdracht, beeldvorming en beïnvloedingstheorieën.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1/4",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"84a3dfa0-1532-4f9b-8cfd-19e18c5e1185"
+		]
+	},
+	{
+		"id": "1b6377f9-018f-4575-a7df-7e533b94c3e1",
+		"title": "De kandidaat kan een onderscheid maken tussen repressief en preventief beleid bij de bestrijding van criminaliteit.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C3/11",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"9d5165b9-e8fe-43c5-b391-b12040d804ad"
+		]
+	},
+	{
+		"id": "74c811c4-ed88-47a2-99df-b8f07455df88",
+		"title": "De kandidaat kan typerende standpunten van politieke partijen over criminaliteitsbestrijding onderscheiden en in verband brengen met de ideologische stromingen waartoe die partijen behoren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C4/12",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"12f73cec-e1d4-4e60-b5e5-a0bd99876dcb"
+		]
+	},
+	{
+		"id": "90863ea4-be2b-4019-92d4-14e888634e89",
+		"title": "De kandidaat kan een visie geven op de zin en de mogelijke effecten van (bepaalde) straffen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"prefix": "MAW/V/DomeinC/C5/13",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"f631c635-2573-4a58-a4ba-9366795c2812"
+		]
+	},
+	{
+		"id": "88422b7d-941a-4de0-b1ce-0ff35986e9c6",
+		"title": "De kandidaat kan uitleggen wat het belang is van duurzame ontwikkeling voor het mondiale milieuvraagstuk.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D1/14",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"a1d1e85a-66e2-4e2a-bd97-7ca2e2e6e974"
+		]
+	},
+	{
+		"id": "25d166e8-83a9-4995-8950-d9442c467b9a",
+		"title": "De kandidaat kan waarden, normen, attitude en gedrag onderscheiden met betrekking tot milieuproblemen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D2/15",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"d7149460-f600-4925-bbec-51c583d1ac62"
+		]
+	},
+	{
+		"id": "4e5a2417-f25c-41c7-831f-9517156c58ad",
+		"title": "De kandidaat kan uitleggen welke invloed individueel gedrag heeft op de milieuproblematiek.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D3/16",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"114fdc26-8b68-4b38-a546-0077915929d6"
+		]
+	},
+	{
+		"id": "ad677819-e21f-4714-ad46-4fa097f1d483",
+		"title": "De kandidaat kan op basis van verschillende motieven, visies en belangen een oordeel geven over de betekenis en effectiviteit van ontwikkelingssamenwerking en ontwikkelingsbeleid.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D4/17",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"f68fa780-b726-494a-9add-d975b134e304"
+		]
+	},
+	{
+		"id": "ed57d817-82c6-4d1b-ae0c-f2716b565c1e",
+		"title": "De kandidaat kan de rol van medefinancieringsorganisaties en de rol van internationale organisaties analyseren bij het terugdringen van onderontwikkeling tegen de achtergrond van het Nederlandse ontwikkelingsbeleid, internationale verhoudingen en internationalisering/globalisering.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D5/18",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"69475f90-a1e2-412b-913d-158dae8501e1"
+		]
+	},
+	{
+		"id": "a21031ef-4952-4f7c-a759-cf29f1b46264",
+		"title": "De kandidaat kan in ontwikkelingsbeleid en ontwikkelingssamenwerking het belang van de culturele dimensie aangeven.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"prefix": "MAW/V/DomeinE/E1/19",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"46c06629-5513-44d5-859f-a3bfe8fff101"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1/1b",
+		"id": "f30785d5-8cc4-48d2-ad6b-0026ff65e77b",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren, geografische vragen herkennen en zelf formuleren.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"dbc378e5-07e8-4aac-9959-764335da89ff"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.\n",
+		"id": "cee45644-2f21-4475-9fbb-b2511a43516e",
+		"prefix": "EC/V/DomeinD/4",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan, binnen de contexten van gezinshuishoudingen, bedrijfshuishoudingen en overheidshuishoudingen, analyseren dat ruil niet alleen op één moment in de tijd plaatsvindt, maar ook over de tijd. De prijs die deze intertemporele ruil coördineert is de rente.",
+		"id": "ca5d40d1-862b-404a-b966-ba4d55d77cf9",
+		"prefix": "EC/V/DomeinE/5",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"9844212a-ea9c-474f-beaa-f3783d902493"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan in contexten analyseren dat, wanneer belangen van individuele actoren conflicteren, samenwerken en onderhandelen meer oplevert voor (markt)partijen dan vertrouwen op individuele acties. Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
+		"id": "564d6843-83f0-45fc-88da-8158cd4968a3",
+		"prefix": "EC/V/DomeinF/6",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"280d0d3b-ed14-47ac-84d7-0c2660806917"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan in contexten analyseren dat gezinnen en bedrijven bij het maken van keuzes informatie verzamelen ten einde onzekerheid te verkleinen. Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
+		"id": "f091adac-e684-49a1-967a-9fb59bad288b",
+		"prefix": "EC/V/DomeinG/7",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"fd86ce4e-7391-4220-b918-43554cc459f0"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan in contexten analyseren wat op nationaal en op mondiaal niveau de oorzaken zijn van economische groei en van de verdeling van inkomen en welvaart. Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
+		"id": "34f295b0-a99e-412c-a39c-58f86dc4d884",
+		"prefix": "EC/V/DomeinH/8",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
+		]
+	},
+	{
+		"ce_se": "CE",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan in contexten analyseren waarom er sprake is van korte termijn schommelingen in economische activiteiten en welke mogelijkheden en grenzen er zijn voor conjunctuurbeleid. Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten",
+		"id": "5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09",
+		"prefix": "EC/V/DomeinI/9",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"0716b0d7-cff5-4e17-b29a-c739fe323039"
+		]
 	}
 ]

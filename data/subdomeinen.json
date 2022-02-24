@@ -646,26 +646,6 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "WI/A/V/DomeinC/C1",
-		"id": "d7f94ae5-fe8a-4e3c-b326-bd7264ad3b62",
-		"title": "Subdomein C1: Standaardfuncties",
-		"examenprogramma_eindterm_id": [
-			"92320da5-5b01-43cd-b686-ff6dee9c5a51"
-		],
-		"ce_se": "CE",
-		"dirty": "1"
-	},
-	{
-		"prefix": "WI/A/V/DomeinC/C2",
-		"id": "bead96c3-a4e5-480c-8881-091dac8cbdb1",
-		"title": "Subdomein C2: Functies, grafieken, vergelijkingen en ongelijkheden",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"f1218c2e-e96a-41b4-ba1f-c9baf2dbaf9d"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "WI/A/V/DomeinD/D1",
 		"id": "4a37a1ef-24f5-402e-92bc-4c31404202b4",
 		"title": "Subdomein D1: Rijen",
@@ -2774,16 +2754,6 @@
 		"prefix": "MVT/EN/H/DomeinE/E1"
 	},
 	{
-		"prefix": "vervalt",
-		"id": "caa27268-6b85-4c93-a9c0-7c0490ecb981",
-		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"ce_se": "SE",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
 		"prefix": "MU/V/DomeinA/A1",
 		"id": "aac7cedb-2861-4549-a159-e769027f8eb5",
 		"title": "Subdomein A1: Waarnemen en weten",
@@ -2885,16 +2855,6 @@
 			"337a660f-0c30-47f4-aff5-404a32fef5ec"
 		],
 		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "MO/V/DomeinA/A6",
-		"id": "2aba04db-def9-4038-9f3e-0140871960a2",
-		"title": "Subdomein A6: Oriëntatie op studie en beroep",
-		"ce_se": "CE; SE",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
 	},
 	{
 		"prefix": "MO/V/DomeinB/B1",
@@ -3060,16 +3020,6 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "MO/H/DomeinA/A6",
-		"id": "f2797574-20dc-4459-a2e7-e886c70e76ce",
-		"title": "Subdomein A6: Oriëntatie op studie en beroep",
-		"ce_se": "CE; SE",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
 		"prefix": "MO/H/DomeinB/B1",
 		"id": "54abd4cc-1356-443a-a9bc-7a5732f25fb1",
 		"title": "Subdomein B1: Interne organisatie",
@@ -3188,25 +3138,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "MAW/V/DomeinF/F3",
-		"id": "581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
-		"title": "Subdomein F3: Overheidsbeleid",
-		"examenprogramma_eindterm_id": [
-			"9d5165b9-e8fe-43c5-b391-b12040d804ad",
-			"12f73cec-e1d4-4e60-b5e5-a0bd99876dcb"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F4",
-		"id": "54dc4b60-d876-4007-80f0-ec0f6cd32e60",
-		"title": "Subdomein F4: Functies van straffen",
-		"examenprogramma_eindterm_id": [
-			"f631c635-2573-4a58-a4ba-9366795c2812"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "MAW/V/DomeinF/F5",
 		"id": "b5df6539-8ad3-4efd-9d2a-8147b26ca86a",
 		"title": "Subdomein F5: Oorzaken van criminaliteit",
@@ -3216,48 +3147,11 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "MAW/V/DomeinG/G5",
-		"id": "b52d219f-d26f-40fe-8559-e93ebfbbf312",
-		"title": "Subdomein G5: Milieu en cultuur",
-		"examenprogramma_eindterm_id": [
-			"d7149460-f600-4925-bbec-51c583d1ac62",
-			"114fdc26-8b68-4b38-a546-0077915929d6"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/V/DomeinH/H1",
-		"id": "c536dc38-4c1c-4988-9c82-3ce456418863",
-		"title": "Subdomein H1: Ontwikkelingssamenwerking en beleid",
-		"examenprogramma_eindterm_id": [
-			"f68fa780-b726-494a-9add-d975b134e304"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/V/DomeinH/H2",
-		"id": "e9b8b688-6e77-48e1-b638-a65d5167b1a4",
-		"title": "Subdomein H2: Nationale en internationale organisaties",
-		"examenprogramma_eindterm_id": [
-			"69475f90-a1e2-412b-913d-158dae8501e1"
-		],
-		"ce_se": "SE"
-	},
-	{
 		"prefix": "MAW/V/DomeinH/H3",
 		"id": "df16b1d8-61f2-4eeb-b932-a3bfbf29b913",
 		"title": "Subdomein H3: Economische betrekkingen",
 		"examenprogramma_eindterm_id": [
 			"39a4db5f-3149-496e-bdf0-6d2cb0e6a1fa"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/V/DomeinH/H4",
-		"id": "68e6cdc8-eb5d-406a-91a2-b40d094b1184",
-		"title": "Subdomein H4: Ontwikkelingssamenwerking en cultuur",
-		"examenprogramma_eindterm_id": [
-			"46c06629-5513-44d5-859f-a3bfe8fff101"
 		],
 		"ce_se": "SE"
 	},
@@ -7666,17 +7560,6 @@
 		]
 	},
 	{
-		"prefix": "AK/H/DomeinA/A1",
-		"id": "7a894a09-cfaa-49e2-9ea1-7e320e055d78",
-		"title": "Subdomein A1: Geografische benadering",
-		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"dbc378e5-07e8-4aac-9959-764335da89ff",
-			"2adb6958-435d-4a60-828a-5814adac4f4f"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "AK/H/DomeinA/A2",
 		"id": "6f5c67c9-414a-4cca-a0f4-61b4c6e4ea3f",
 		"title": "Subdomein A2: Geografisch onderzoek",
@@ -8091,16 +7974,6 @@
 		]
 	},
 	{
-		"id": "7089b515-b87b-489f-b441-af10bb20712c",
-		"prefix": "MAW/V/DomeinB/B5",
-		"title": "Overheidsbeleid en standpunten van politieke partijen",
-		"ce_se": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
 		"id": "59c29633-b935-48ab-b840-b6a480aa8b4f",
 		"prefix": "MAW/V/DomeinB/B5",
 		"title": "Subdomein B5: Overheidsbeleid en standpunten van politieke partijen",
@@ -8244,16 +8117,6 @@
 		"prefix": "FR/V/DomeinE/E2"
 	},
 	{
-		"id": "cbcfd73d-2be0-4536-afeb-02fc6a1d347f",
-		"title": "Subdomein D5: Overheidsbeleid en standpunten van politieke partijen",
-		"description": "",
-		"prefix": "MAW/V/DomeinD/D5",
-		"examenprogramma_eindterm_id": [
-			"d1d93e74-826e-4043-80a5-a056e85e46db"
-		],
-		"dirty": "1"
-	},
-	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"fdc426b0-e9f3-47b9-abc4-861cc7a206c6",
@@ -8283,16 +8146,6 @@
 		"title": "Subdomein B3: Gespreksvaardigheid",
 		"id": "ff4c2501-d301-4195-9c96-71ba8c035de9",
 		"prefix": "FR/H/DomeinB/B3"
-	},
-	{
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"dc865f14-05e8-465b-8d6e-ef49241ccf00"
-		],
-		"title": "Subdomein D1: Literaire ontwikkeling",
-		"id": "fbc7cccc-ea24-495d-8c13-cb374e88f64d",
-		"prefix": "FR/H/DomeinD/D1",
-		"dirty": "1"
 	},
 	{
 		"ce_se": "SE",
@@ -8545,78 +8398,6 @@
 		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
-		"prefix": "vervalt",
-		"id": "d4b3b462-fdbf-4eb3-ba79-de6cc92b223b",
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"d3f312be-8627-4046-9d4a-e2d625160982",
-			"00cec554-b9d4-468a-924c-efd75419cff7",
-			"66aa1813-6403-4756-aafe-e510a5a6cf14",
-			"0ba4c401-3c90-430b-b2ba-f973a45385aa",
-			"81519119-8aca-45f6-8ae7-a90ace78f19b"
-		],
-		"title": "Subdomein C1: Gesprekken voeren",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
-		"prefix": "vervalt",
-		"id": "ee3b2966-61a8-4fcd-ad43-b03dc64ed893",
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"3535e734-8c24-44e1-a504-47a7de0c0829"
-		],
-		"title": "Subdomein C2: Spreken",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
-		"prefix": "vervalt",
-		"id": "4dd7eb1a-c49b-4ebf-9acb-7248b0efe72f",
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"0bd170e2-b812-4491-94eb-bff9aacc083d",
-			"a7f63997-8cef-486c-9ce6-77b55d7da877",
-			"3e43d75d-a970-4a7e-af05-c6d4bccb7e74"
-		],
-		"title": "Subdomein D1: Taalvaardigheden",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
-		"prefix": "vervalt",
-		"id": "c54f3842-253e-4124-897e-2d22f38b1cff",
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"ce49573a-0776-47c6-a60d-bf0f8c39620f",
-			"7818953c-a551-4fe1-8eca-fcbabb5a7b95"
-		],
-		"title": "Subdomein D2: Strategische vaardigheden",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
-		"prefix": "vervalt",
-		"id": "1a0d3311-183b-49a1-b4ae-808a1ac13da6",
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"a2c6cd7d-13bb-4b52-bee8-82102fbd59d5"
-		],
-		"title": "Subdomein E1: Literaire ontwikkeling",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
 		"prefix": "MVT/TU/H/DomeinC/C1",
 		"id": "71023f12-d79b-4646-a231-d5e5665c5f90",
 		"ce_se": "SE",
@@ -8668,27 +8449,6 @@
 			"c8b22060-ff33-4ea8-a002-bcb89ce6055e"
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling"
-	},
-	{
-		"prefix": "vervalt",
-		"id": "1f868ee4-355e-4726-afa9-5c157381cf8a",
-		"title": "Literaire begrippen",
-		"description": "",
-		"ce_se": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
-	},
-	{
-		"prefix": "vervalt",
-		"id": "d4c8f735-bf5e-4e4f-8868-061e4889e8f5",
-		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"ce_se": "",
-		"deleted": 1,
-		"types": [
-			"examenprogramma_subdomein"
-		]
 	},
 	{
 		"prefix": "MVT/TU/V/DomeinC/C1",
@@ -8818,23 +8578,6 @@
 		"replaces": [
 			"ed0b3da6-fd7a-4e13-a7de-afb9615168ae"
 		]
-	},
-	{
-		"title": "Subdomein A2: Concept-contextbenadering",
-		"id": "d8721452-6d7f-447b-8deb-08fca58caa1d",
-		"examenprogramma_eindterm_id": [
-			"0fd61cad-6371-4f02-88b9-244c2941cdfa",
-			"d0a88faa-0911-4678-8804-0f5679b71f63",
-			"eaf9bc40-2483-4104-8bd0-9fbcf454f3a4",
-			"913e5581-866c-4371-9cb1-12b6eca48f7f",
-			"ca9dd9a9-5054-41fd-9159-3477af764760"
-		],
-		"ce_se": "CE; SE",
-		"prefix": "MAW/V/DomeinA/A2",
-		"replaces": [
-			"8589f4d6-6257-4bec-9ce8-fb80ef3cc186"
-		],
-		"dirty": "1"
 	},
 	{
 		"title": "Subdomein A3: Benaderingswijzen",
@@ -9285,7 +9028,6 @@
 	},
 	{
 		"id": "8223d9e5-ad60-4fb2-849c-8875503287ef",
-		"dirty": "1",
 		"prefix": "WI/C/V/DomeinA/A3",
 		"title": "Subdomein A3: Wiskundige vaardigheden",
 		"examenprogramma_eindterm_id": [
@@ -9320,7 +9062,6 @@
 		],
 		"title": "Subdomein C1: Gesprekken voeren",
 		"id": "cef0787e-9dd9-40fb-99bc-fac9c2a1d3d3",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C1"
 	},
 	{
@@ -9329,7 +9070,6 @@
 		],
 		"title": "Subdomein C2: Spreken",
 		"id": "888ed252-2656-48e9-adde-49cdf01307dc",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinC/C2"
 	},
 	{
@@ -9341,7 +9081,6 @@
 		],
 		"title": "Subdomein D1: Taalvaardigheden",
 		"id": "2fe9b975-7af5-4f53-86a6-2f650621ebb5",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D1"
 	},
 	{
@@ -9351,7 +9090,6 @@
 		],
 		"title": "Subdomein D2: Strategische vaardigheden",
 		"id": "73483594-fcb0-47de-be4e-7055589d4327",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinD/D2"
 	},
 	{
@@ -9360,14 +9098,12 @@
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling",
 		"id": "a4bf74be-ce8f-467d-bb27-977e8ad6ec46",
-		"unreleased": true,
 		"prefix": "MVT/IT/H/DomeinE/E1"
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinC/C1",
 		"title": "Subdomein C1: Gesprekken voeren",
 		"id": "4e074a8b-bdb5-434a-8edc-07869711f4fb",
-		"unreleased": true,
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"0e32b66f-77fd-48a8-9afa-8d8a17de1729",
@@ -9381,7 +9117,6 @@
 		"prefix": "MVT/IT/V/DomeinC/C2",
 		"title": "Subdomein C2: Spreken",
 		"id": "38566270-d24c-4926-917d-95bef2b2eee1",
-		"unreleased": true,
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"b36d2ee6-c946-4c1a-a9ca-e6c874e58f68"
@@ -9391,7 +9126,6 @@
 		"prefix": "MVT/IT/V/DomeinD/D1",
 		"title": "Subdomein D1: Taalvaardigheden",
 		"id": "6fe5cca0-712e-4107-b4c9-3a3dc378135b",
-		"unreleased": true,
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"fdd09bde-d996-4fda-b2eb-6cbd525582ce",
@@ -9408,7 +9142,6 @@
 		],
 		"title": "Subdomein D2: Strategische vaardigheden",
 		"id": "2682c6c1-4a16-420c-b454-a0f7cdf1531d",
-		"unreleased": true,
 		"ce_se": "SE"
 	},
 	{
@@ -9417,8 +9150,7 @@
 			"970bacc9-b7d6-44e3-b132-663240b37f71"
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling",
-		"id": "b5a42441-48f3-4e85-9e95-bf4b540e96da",
-		"unreleased": true
+		"id": "b5a42441-48f3-4e85-9e95-bf4b540e96da"
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinE/E2",
@@ -9426,8 +9158,7 @@
 			"c56be9a1-7f50-46ef-a08e-c63e05871753"
 		],
 		"title": "Subdomein E2: Literaire begrippen",
-		"id": "66f87a20-0305-4c5e-aed9-d2a9fa95040a",
-		"unreleased": true
+		"id": "66f87a20-0305-4c5e-aed9-d2a9fa95040a"
 	},
 	{
 		"prefix": "MVT/IT/V/DomeinE/E3",
@@ -9435,8 +9166,7 @@
 			"f36a3814-80fe-4507-9434-3c19ae710cc9"
 		],
 		"title": "Subdomein E3: Literatuurgeschiedenis",
-		"id": "3dec2da9-0873-445b-b00e-17ea4e964296",
-		"unreleased": true
+		"id": "3dec2da9-0873-445b-b00e-17ea4e964296"
 	},
 	{
 		"ce_se": "SE",
@@ -9449,7 +9179,6 @@
 		],
 		"title": "Subdomein C1: Gesprekken voeren",
 		"id": "c4145836-2382-43eb-842d-651f116890fc",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C1"
 	},
 	{
@@ -9459,7 +9188,6 @@
 		],
 		"title": "Subdomein C2: Spreken",
 		"id": "b7b54562-cdf1-4ceb-8f16-25ae58c8b869",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinC/C2"
 	},
 	{
@@ -9472,7 +9200,6 @@
 		],
 		"title": "Subdomein D1: Taalvaardigheden",
 		"id": "2dd14125-3545-402c-81fb-6f89dc7697cb",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D1"
 	},
 	{
@@ -9483,7 +9210,6 @@
 		],
 		"title": "Subdomein D2: Strategische vaardigheden",
 		"id": "154539f9-f130-4931-a460-faba69098c3f",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinD/D2"
 	},
 	{
@@ -9493,7 +9219,6 @@
 		],
 		"title": "Subdomein E1: Literaire ontwikkeling",
 		"id": "1eaa7521-eaad-4b2c-aa1a-5238ae620243",
-		"unreleased": true,
 		"prefix": "MVT/SP/V/DomeinE/E1"
 	},
 	{
@@ -9513,6 +9238,159 @@
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"14895a62-c88e-4530-8bf0-cc77fff45c38"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinC/C1",
+		"id": "eb3922b7-0f42-4c57-86c0-a14bedafd7d5",
+		"title": "Subdomein C1: Standaardfuncties",
+		"examenprogramma_eindterm_id": [
+			"92320da5-5b01-43cd-b686-ff6dee9c5a51"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d7f94ae5-fe8a-4e3c-b326-bd7264ad3b62"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinC/C2",
+		"id": "c33c7c2b-6c9e-491d-b1cf-aac9ac9c5b7d",
+		"title": "Subdomein C2: Functies, grafieken, vergelijkingen en ongelijkheden",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"f1218c2e-e96a-41b4-ba1f-c9baf2dbaf9d"
+		],
+		"replaces": [
+			"bead96c3-a4e5-480c-8881-091dac8cbdb1"
+		]
+	},
+	{
+		"id": "5ae1d13e-dfbb-4845-8e20-cd9ec1cf1853",
+		"title": "Subdomein D5: Overheidsbeleid en standpunten van politieke partijen",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D5",
+		"examenprogramma_eindterm_id": [
+			"d1d93e74-826e-4043-80a5-a056e85e46db"
+		],
+		"replaces": [
+			"cbcfd73d-2be0-4536-afeb-02fc6a1d347f"
+		]
+	},
+	{
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"dc865f14-05e8-465b-8d6e-ef49241ccf00"
+		],
+		"title": "Subdomein D1: Literaire ontwikkeling",
+		"id": "be3e92ed-9b94-4071-8252-d3814ea2c841",
+		"prefix": "FR/H/DomeinD/D1",
+		"replaces": [
+			"fbc7cccc-ea24-495d-8c13-cb374e88f64d"
+		]
+	},
+	{
+		"title": "Subdomein A2: Concept-contextbenadering",
+		"id": "86c04da1-14f5-4ae3-a2e3-e54588670f8a",
+		"examenprogramma_eindterm_id": [
+			"0fd61cad-6371-4f02-88b9-244c2941cdfa",
+			"d0a88faa-0911-4678-8804-0f5679b71f63",
+			"eaf9bc40-2483-4104-8bd0-9fbcf454f3a4",
+			"913e5581-866c-4371-9cb1-12b6eca48f7f",
+			"ca9dd9a9-5054-41fd-9159-3477af764760"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A2",
+		"replaces": [
+			"8589f4d6-6257-4bec-9ce8-fb80ef3cc186",
+			"d8721452-6d7f-447b-8deb-08fca58caa1d"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinF/F3",
+		"id": "ca87f930-bc07-4488-b677-cffae4e3eb25",
+		"title": "Subdomein F3: Overheidsbeleid",
+		"examenprogramma_eindterm_id": [
+			"1b6377f9-018f-4575-a7df-7e533b94c3e1",
+			"74c811c4-ed88-47a2-99df-b8f07455df88"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinF/F4",
+		"id": "ab9c1f4c-6cee-4d4e-9007-256e57905fe1",
+		"title": "Subdomein F4: Functies van straffen",
+		"examenprogramma_eindterm_id": [
+			"90863ea4-be2b-4019-92d4-14e888634e89"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"54dc4b60-d876-4007-80f0-ec0f6cd32e60"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinG/G5",
+		"id": "3ec12fe7-86ee-46e5-a2b2-9c8b4326281a",
+		"title": "Subdomein G5: Milieu en cultuur",
+		"examenprogramma_eindterm_id": [
+			"25d166e8-83a9-4995-8950-d9442c467b9a",
+			"4e5a2417-f25c-41c7-831f-9517156c58ad"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"b52d219f-d26f-40fe-8559-e93ebfbbf312"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinH/H1",
+		"id": "e67e1236-69ef-40bb-88c3-8fd2e5f69724",
+		"title": "Subdomein H1: Ontwikkelingssamenwerking en beleid",
+		"examenprogramma_eindterm_id": [
+			"ad677819-e21f-4714-ad46-4fa097f1d483"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"c536dc38-4c1c-4988-9c82-3ce456418863"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinH/H2",
+		"id": "39a9d532-49ee-4547-86ce-086be2f4f849",
+		"title": "Subdomein H2: Nationale en internationale organisaties",
+		"examenprogramma_eindterm_id": [
+			"ed57d817-82c6-4d1b-ae0c-f2716b565c1e"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"e9b8b688-6e77-48e1-b638-a65d5167b1a4"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinH/H4",
+		"id": "38295789-9e43-4ab0-9115-705f45d9f72f",
+		"title": "Subdomein H4: Ontwikkelingssamenwerking en cultuur",
+		"examenprogramma_eindterm_id": [
+			"a21031ef-4952-4f7c-a759-cf29f1b46264"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"68e6cdc8-eb5d-406a-91a2-b40d094b1184"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1",
+		"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
+		"title": "Subdomein A1: Geografische benadering",
+		"examenprogramma_eindterm_id": [
+			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
+			"f30785d5-8cc4-48d2-ad6b-0026ff65e77b",
+			"2adb6958-435d-4a60-828a-5814adac4f4f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7a894a09-cfaa-49e2-9ea1-7e320e055d78"
 		]
 	}
 ]
