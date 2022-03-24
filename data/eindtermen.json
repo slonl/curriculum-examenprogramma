@@ -25405,7 +25405,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1/1c",
@@ -25419,7 +25420,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinA/A2/2a",
@@ -25493,7 +25495,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinB/B2/4b",
@@ -25507,7 +25510,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinB/B3/5a",
@@ -25562,7 +25566,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/H/DomeinC/C2/7b",
@@ -25571,7 +25581,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/H/DomeinC/C3/8a",
@@ -25598,17 +25614,28 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "f714d17b-45ef-4b64-9a59-9416f1f301c7",
-		"prefix": "9b.",
+		"prefix": "AK/H/DomeinD/D1/9b",
 		"title": "De kandidaat kan gebiedskenmerken van een nader aan te wijzen ontwikkelingsland beschrijven en analyseren. Het betreft de sociaal-economische positie van het betreffende ontwikkelingsland in de macroregio én in de wereld.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"ce_se": "CE",
-		"description": ""
+		"description": "",
+		"dirty": true,
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "AK/H/DomeinD/D1/9b",
@@ -25640,7 +25667,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinE/E1/11b",
@@ -25654,7 +25682,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/H/DomeinE/E1/11b",
@@ -33669,7 +33698,8 @@
 		"keuze": 0,
 		"replaces": [
 			"dbc378e5-07e8-4aac-9959-764335da89ff"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
