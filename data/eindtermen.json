@@ -22745,7 +22745,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinA/A2/2",
@@ -22801,7 +22802,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/6",
@@ -22815,7 +22817,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/7",
@@ -22824,7 +22827,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "b165ebea-1d7d-45f9-91f5-6263e086fda5",
@@ -22838,7 +22847,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "e4d95546-2397-402d-9b7f-2f3bd0aa0606",
@@ -22852,7 +22862,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "7aadae3d-7e29-4264-8463-b17e776c5ba7",
@@ -22866,7 +22877,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "e7601ad4-0078-457c-8bda-f55b8b6d5886",
@@ -22880,7 +22892,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "079c2ef0-9d78-4176-acc8-84a768ad5e8d",
@@ -22894,7 +22907,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "c2170fe0-db97-4b47-bfec-fa3b54a5a616",
@@ -22916,7 +22930,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10a",
@@ -22930,7 +22945,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10b",
@@ -22944,7 +22960,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10c",
@@ -22958,7 +22975,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinA/A6/10d",
@@ -22972,7 +22990,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "cc0d7162-ff46-4080-a5b2-f47b7ae1f41d",
@@ -22986,7 +23005,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinB/B2/12",
@@ -23000,7 +23020,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinB/B3/13",
@@ -23014,7 +23035,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinB/B4/14",
@@ -23028,7 +23050,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "82227957-1337-4029-a60f-e2ed37b66983",
@@ -23056,7 +23079,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "8e8e94cd-5302-4e54-a3be-3409c604e16f",
@@ -23084,7 +23108,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinD/D2/19",
@@ -23098,7 +23123,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinD/D2/20",
@@ -23112,7 +23138,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "36dcb8ad-7946-4f9f-ab43-a8c750ff08f5",
@@ -23140,7 +23167,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "439b7592-f5e3-4941-a04f-341a73d6ae75",
@@ -23154,7 +23182,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinF/F1/24",
@@ -23168,7 +23197,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/H/DomeinF/F2/25",
@@ -23182,7 +23212,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "13cd9721-b461-4e24-b227-5f40390f9f5a",
@@ -23196,7 +23227,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BV/K/1/1",
