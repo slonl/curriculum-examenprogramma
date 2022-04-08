@@ -25745,7 +25745,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"ce_se": "SE",
@@ -33745,7 +33746,7 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.\n",
+		"title": "De kandidaat kan in contexten analyseren dat keuzes en ruil die plaatsvinden worden gecoördineerd via de markt. Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd. De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.",
 		"id": "cee45644-2f21-4475-9fbb-b2511a43516e",
 		"prefix": "EC/V/DomeinD/4",
 		"description": "",
@@ -33755,7 +33756,8 @@
 		"keuze": 0,
 		"replaces": [
 			"43e728ef-8ce1-4d08-9416-4e7b0d1053b8"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -33772,7 +33774,8 @@
 		"keuze": 0,
 		"replaces": [
 			"9844212a-ea9c-474f-beaa-f3783d902493"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -33789,7 +33792,8 @@
 		"keuze": 0,
 		"replaces": [
 			"280d0d3b-ed14-47ac-84d7-0c2660806917"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -33806,7 +33810,8 @@
 		"keuze": 0,
 		"replaces": [
 			"fd86ce4e-7391-4220-b918-43554cc459f0"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -33823,7 +33828,8 @@
 		"keuze": 0,
 		"replaces": [
 			"3cd1c168-a60c-4fc2-95f0-90d7d9aedde2"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"ce_se": "CE",
@@ -33840,6 +33846,7 @@
 		"keuze": 0,
 		"replaces": [
 			"0716b0d7-cff5-4e17-b29a-c739fe323039"
-		]
+		],
+		"dirty": true
 	}
 ]
