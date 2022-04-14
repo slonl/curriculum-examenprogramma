@@ -31350,7 +31350,8 @@
 		"keuze": 0,
 		"replaces": [
 			"a18abb3d-3d4f-4c57-9f1a-499f94c99ea9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "33b7ef1b-8902-4969-99fa-8ffea058aedf",
@@ -31367,7 +31368,8 @@
 		"keuze": 0,
 		"replaces": [
 			"c8eea64f-d819-4f7e-b4b6-e375c3da074a"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "ff6a5fca-52ab-4087-8db1-8af68eefdfba",
@@ -31401,7 +31403,8 @@
 		"keuze": 0,
 		"replaces": [
 			"df6f70f0-08e8-4a3b-b065-e870acc517d1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "2c573b22-c5bb-4f9b-81dc-a227dbbd36eb",
@@ -31418,7 +31421,8 @@
 		"keuze": 0,
 		"replaces": [
 			"b9366940-b0a4-48d5-98ad-962bdf1b5656"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "07dcd0bf-1f59-45dc-bb4b-f797b0bffd49",
@@ -31435,7 +31439,8 @@
 		"keuze": 0,
 		"replaces": [
 			"89b85b56-90ab-4c3b-9d4d-c8a18dbb2baa"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "99f8baac-a2b3-41f2-ba86-2069e4f42040",
@@ -31452,7 +31457,8 @@
 		"keuze": 0,
 		"replaces": [
 			"1b6f275c-2b4c-47d7-a5a5-f0c475613b2c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "ba62876d-881e-4ad8-8e2d-1b57b1a5fb96",
@@ -31469,7 +31475,8 @@
 		"keuze": 0,
 		"replaces": [
 			"b13dc006-cda0-4d8f-b90e-1955c6888a30"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "27535f9d-2e2b-42bc-b6b6-bb3aa0f3da7f",
@@ -31520,7 +31527,8 @@
 		"keuze": 0,
 		"replaces": [
 			"07bc1b3a-6c1b-4a95-a53a-7a6c632dbd5f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "ebf2f359-ce82-4f4c-846f-595528de7d95",
@@ -31537,11 +31545,12 @@
 		"keuze": 0,
 		"replaces": [
 			"8247a222-17fa-47d4-b616-538d1c0cd746"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "60571d9d-a216-4e1b-9729-f31cd0b5e385",
-		"title": "De kandidaat kan vanuit wetenschappelijke paradigma’s maatschappelijke en politieke conflicten en samenwerking benoemen, ontleden welke oorzaken eraan ten grondslag liggen op de verschillende niveaus en wat de gevolgen ervan zijn. ",
+		"title": "De kandidaat kan vanuit wetenschappelijke paradigma’s maatschappelijke en politieke conflicten en samenwerking benoemen, ontleden welke oorzaken eraan ten grondslag liggen op de verschillende niveaus en wat de gevolgen ervan zijn.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31554,7 +31563,8 @@
 		"keuze": 0,
 		"replaces": [
 			"05c79b7a-2a0b-417f-be94-0956e3cd7d9b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "96cb989b-f43d-4006-8dc5-7f74f0d1b5a8",
@@ -31571,11 +31581,12 @@
 		"keuze": 0,
 		"replaces": [
 			"36860af6-c26f-42a4-ac26-2249de46c5cb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "92f1de91-dfa2-426e-ab55-1faab22eef33",
-		"title": "De kandidaat kan weergeven wat de positie van Nederland is in het internationale krachtenveld en hoe de Nederlandse overheid hierop invloed tracht uit te oefenen. ",
+		"title": "De kandidaat kan weergeven wat de positie van Nederland is in het internationale krachtenveld en hoe de Nederlandse overheid hierop invloed tracht uit te oefenen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31588,11 +31599,12 @@
 		"keuze": 0,
 		"replaces": [
 			"0517ce76-0a56-482c-ad87-0cc1e93b842b"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "840278d4-6015-4790-b0ad-5daa18449aa8",
-		"title": "De kandidaat kan onderscheiden welke indicatoren van sociale cohesie wetenschappers vanuit verschillende paradigma’s onderzoeken. ",
+		"title": "De kandidaat kan onderscheiden welke indicatoren van sociale cohesie wetenschappers vanuit verschillende paradigma’s onderzoeken.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31605,11 +31617,12 @@
 		"keuze": 0,
 		"replaces": [
 			"8ab02e72-7c8c-4ce0-926f-29c06db71a65"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7",
-		"title": "De kandidaat kan bindingen in de samenleving illustreren aan de hand van politieke instituties en beschrijven wat het belang is van representativiteit/representatie voor een democratische rechtsstaat. Tevens kan de kandidaat uitleggen hoe representatie en representativiteit bijdragen aan politieke binding. ",
+		"title": "De kandidaat kan bindingen in de samenleving illustreren aan de hand van politieke instituties en beschrijven wat het belang is van representativiteit/representatie voor een democratische rechtsstaat. Tevens kan de kandidaat uitleggen hoe representatie en representativiteit bijdragen aan politieke binding.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31622,11 +31635,12 @@
 		"keuze": 0,
 		"replaces": [
 			"c347a974-7031-4bce-9cd8-8755d5fb53aa"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "f75577f0-855f-4029-93f7-f421e2f81bec",
-		"title": "De kandidaat kan binnen een specifieke context beredeneren wat de effecten zijn van bepaalde maatschappelijke ontwikkelingen op politieke bindingen in een samenleving. ",
+		"title": "De kandidaat kan binnen een specifieke context beredeneren wat de effecten zijn van bepaalde maatschappelijke ontwikkelingen op politieke bindingen in een samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31639,11 +31653,12 @@
 		"keuze": 0,
 		"replaces": [
 			"d9bff332-30c0-449f-a125-bb61e19c0bc9"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "5caf5d95-2395-49c0-817c-a307d3cc67b9",
-		"title": "De kandidaat kan binnen een specifieke context beredeneren wat de effecten zijn van bepaalde maatschappelijke ontwikkelingen op affectieve bindingen in een samenleving. ",
+		"title": "De kandidaat kan binnen een specifieke context beredeneren wat de effecten zijn van bepaalde maatschappelijke ontwikkelingen op affectieve bindingen in een samenleving.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31656,11 +31671,12 @@
 		"keuze": 0,
 		"replaces": [
 			"a594f249-d961-43e9-ac32-1f3783baa24c"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "d1d93e74-826e-4043-80a5-a056e85e46db",
-		"title": "De kandidaat kan overheidsbeleid en standpunten van politieke partijen ten aanzien van een bindingsvraagstuk onderscheiden. ",
+		"title": "De kandidaat kan overheidsbeleid en standpunten van politieke partijen ten aanzien van een bindingsvraagstuk onderscheiden.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31673,11 +31689,12 @@
 		"keuze": 0,
 		"replaces": [
 			"3789e3bc-3c3f-441d-aa32-8e703e2df793"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "7c38aad4-27e5-4296-a0ff-2bd425ffcf0c",
-		"title": "De kandidaat kan beschrijven hoe rationalisering, individualisering en institutionalisering worden beschouwd als typerend voor de ontwikkeling van westerse samenlevingen van traditioneel naar modern. ",
+		"title": "De kandidaat kan beschrijven hoe rationalisering, individualisering en institutionalisering worden beschouwd als typerend voor de ontwikkeling van westerse samenlevingen van traditioneel naar modern.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -31690,7 +31707,8 @@
 		"keuze": 0,
 		"replaces": [
 			"03ea9a87-b32c-4565-a816-91dcc9c4c546"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "9b88280f-ad13-482a-94e4-5355a9754f87",
@@ -31707,7 +31725,8 @@
 		"keuze": 0,
 		"replaces": [
 			"11495862-76f6-415b-a16c-acab73470949"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "17c03980-2112-4e87-ae3b-f4dad5a986b7",
@@ -31724,7 +31743,8 @@
 		"keuze": 0,
 		"replaces": [
 			"9fbd4026-4d64-4401-ba38-4c3e9bb07b7f"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf",
@@ -31741,7 +31761,8 @@
 		"keuze": 0,
 		"replaces": [
 			"47ebb304-9dcb-4b30-a13e-789d5db566a6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "0506deab-1502-4352-b9ad-3bea34e765c5",
