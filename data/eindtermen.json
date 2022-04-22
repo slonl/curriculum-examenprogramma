@@ -22433,7 +22433,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA/A2/2",
@@ -22489,7 +22490,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/6",
@@ -22503,7 +22505,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/7",
@@ -22517,7 +22520,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "9011a16d-e675-482b-bf14-ab281d72422a",
@@ -22531,7 +22535,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "e2da6114-f223-4988-987e-e30d96f65a69",
@@ -22545,7 +22550,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "67ca8457-400e-4b7b-aa23-bde580aed9d2",
@@ -22559,7 +22565,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "8d4d6de1-608d-477f-b2d7-dcae2f2f664b",
@@ -22573,12 +22580,13 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "3b96caa8-0426-4d20-861f-4212f01d2b6f",
 		"prefix": "BE/V/DomeinA/A6/8e",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de verslaggeving, bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren. ",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de verslaggeving, bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -22587,7 +22595,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "a78e3011-a6ac-4c06-b627-f4ac48e5fbe6",
@@ -22609,7 +22618,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10a",
@@ -22623,7 +22633,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10b",
@@ -22637,7 +22648,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10c",
@@ -22651,7 +22663,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA/A6/10d",
@@ -22665,7 +22678,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinB/B1/11",
@@ -22679,7 +22693,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinB/B2/12",
@@ -22693,7 +22708,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinB/B3/13",
@@ -22707,7 +22723,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinB/B4/14",
@@ -22721,7 +22738,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinC/C1/15",
@@ -22763,7 +22781,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinD/D1/18",
@@ -22805,7 +22824,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinD/D2/21",
@@ -22819,7 +22839,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinD/D2/22",
@@ -22833,7 +22854,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinE/E1/23",
@@ -22875,7 +22897,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinE/E3/26",
@@ -22917,7 +22940,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinF/F1/29",
@@ -22931,7 +22955,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinF/F2/30",
@@ -22945,7 +22970,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinF/F2/31",
@@ -22954,7 +22980,13 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BE/V/DomeinG/32",
@@ -22968,7 +23000,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "581e037a-56f8-455d-b57b-f8712efdc6da",
