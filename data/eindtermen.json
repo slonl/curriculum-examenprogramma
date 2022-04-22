@@ -24038,7 +24038,7 @@
 	{
 		"prefix": "AK/V/DomeinA/A1/1a",
 		"id": "e8dfc8d1-9f65-486e-8c68-e955d10dacbd",
-		"title": "De kandidaat kan de geografische benadering adequaat hanteren geografische informatie selecteren, verwerken en weergeven.",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -24046,12 +24046,13 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/V/DomeinA/A1/1b",
 		"id": "ac0507a6-ac25-44b0-8355-11ae2f37bbd6",
-		"title": "De kandidaat kan de geografische benadering adequaat hanteren geografische vragen herkennen en zelf formuleren.",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren, geografische vragen herkennen en zelf formuleren.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -24059,12 +24060,13 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/V/DomeinA/A1/1c",
 		"id": "99f84e49-ece7-45ff-8385-b02acb7ad481",
-		"title": "De kandidaat kan de geografische benadering adequaat hanteren de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren, de geografische werkwijzen toepassen bij het formuleren en beantwoorden van geografische vragen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -24072,7 +24074,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "AK/V/DomeinA/A2/2a",
