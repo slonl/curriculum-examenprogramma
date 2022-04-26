@@ -3550,17 +3550,18 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "GTC/V/DomeinA ",
+		"prefix": "GTC/V/DomeinA",
 		"id": "2e79294f-9788-4c7d-87d6-a7f0eddda00e",
 		"title": "Domein A: Reflectie op klassieke teksten en antieke cultuur",
 		"examenprogramma_subdomein_id": [
 			"f797a22f-89eb-4b77-bd1a-486ead7bd58c",
 			"826581e7-267a-4242-9a79-709dc8421c5c"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true
 	},
 	{
-		"prefix": "GTC/V/DomeinB ",
+		"prefix": "GTC/V/DomeinB",
 		"id": "d8004613-bbd5-4f55-907c-f7e5039a38da",
 		"title": "Domein B: Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur",
 		"examenprogramma_eindterm_id": [
@@ -3569,7 +3570,8 @@
 			"6d50b3f5-e3d0-4596-b5d5-9a53765916e1",
 			"0e51ed37-3399-47bc-90c0-3b077b212923"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true
 	},
 	{
 		"prefix": "GTC/V/DomeinC ",
