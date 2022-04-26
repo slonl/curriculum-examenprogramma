@@ -174,7 +174,8 @@
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-havo-2/2020/f=/examenprogramma_wiskunde_a_havo.pdf",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "THTEX",
