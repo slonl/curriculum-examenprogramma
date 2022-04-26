@@ -1319,7 +1319,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinA/A2/2",
@@ -1333,7 +1334,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinA/A3/3",
@@ -1347,7 +1349,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B1/4",
@@ -1361,7 +1364,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B2/5",
@@ -1375,7 +1379,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B3/6",
@@ -1389,7 +1394,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinB/B4/7",
@@ -1403,7 +1409,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinC/C1/8",
@@ -1417,7 +1424,8 @@
 		"keuze": 0,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinC/C2/9",
@@ -1431,7 +1439,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinD/D1/10",
@@ -1445,7 +1454,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinD/D2/11",
@@ -1473,7 +1483,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/H/DomeinD/D4/13",
@@ -1487,7 +1498,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/V/DomeinA/A1/1",
