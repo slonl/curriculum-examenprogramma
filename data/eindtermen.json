@@ -1739,7 +1739,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinA/A2/2",
@@ -1753,7 +1754,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinA/A3/3",
@@ -1767,7 +1769,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinB/B1/4",
@@ -1781,7 +1784,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinB/B2/5",
@@ -1795,7 +1799,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinB/B3/6",
@@ -1822,7 +1827,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "939b284f-fcc3-4632-83da-d046d4ac6d6f",
@@ -1836,7 +1842,8 @@
 		"keuze": 0,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinC/C3/9",
@@ -1850,7 +1857,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinC/C4/10",
@@ -1864,7 +1872,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "7813ce75-a5f2-48d3-8d1a-c48571219980",
@@ -1878,7 +1887,8 @@
 		"keuze": 0,
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinD/12",
@@ -1906,7 +1916,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinE/E2/14",
@@ -1920,7 +1931,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinE/E3/15",
@@ -1934,7 +1946,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinE/E4/16a",
@@ -1948,7 +1961,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/H/DomeinE/E4/16b",
