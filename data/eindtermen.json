@@ -882,7 +882,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/C/V/DomeinA/A2/2",
@@ -896,7 +897,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/C/V/DomeinA/A3/3",
@@ -910,7 +912,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/C/V/DomeinB/B1/4",
@@ -924,7 +927,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/C/V/DomeinB/B2/5",
@@ -938,7 +942,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/C/V/DomeinC/6",
@@ -952,7 +957,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/C/V/DomeinD/7",
@@ -966,7 +972,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/C/V/DomeinE/E1/8",
@@ -1067,7 +1074,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/B/V/DomeinA/A1/1",
