@@ -5511,7 +5511,8 @@
 			"6dd80bd2-ffd1-4a5d-9550-b4f1ca37af31",
 			"31254f62-c885-416a-bdb3-3ccd62775d2b"
 		],
-		"ce_se": "CE;SE"
+		"ce_se": "CE;SE",
+		"dirty": true
 	},
 	{
 		"prefix": "BIO/H/DomeinC",
@@ -5522,7 +5523,8 @@
 			"ccd49201-c908-4780-8fc8-516795e1f5a7",
 			"ab5d68ff-b7c0-47d9-a2ae-3b4f8f35a9bf"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true
 	},
 	{
 		"prefix": "BIO/H/DomeinD",
@@ -5534,7 +5536,8 @@
 			"06313d30-075f-4f88-9d86-5044e64d9023",
 			"f24b85bc-7439-405a-8af9-34a8d2e6d49c"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true
 	},
 	{
 		"prefix": "BIO/H/DomeinE",
@@ -5546,10 +5549,11 @@
 			"15758c1a-a579-457d-a42a-0b139144e0dd",
 			"87959da5-bcdb-48b8-a181-0c8c03c69fff"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true
 	},
 	{
-		"prefix": "BIO/H/DomeinF ",
+		"prefix": "BIO/H/DomeinF",
 		"id": "eed4cb84-c049-429a-ad9c-54b4f036bb02",
 		"title": "Domein F: Evolutie",
 		"examenprogramma_subdomein_id": [
@@ -5557,7 +5561,8 @@
 			"05c1bf43-0376-4487-bcb2-d300c731cec2",
 			"c7ddb7c0-69d0-4409-9e33-80fdb29d0a4b"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true
 	},
 	{
 		"prefix": "BE/V/DomeinA",
