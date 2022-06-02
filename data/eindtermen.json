@@ -8023,19 +8023,43 @@
 		"prefix": "MO/V/DomeinE/E3/14a",
 		"id": "7d756cf4-8e6d-4e7b-9f6c-38e1422670d1",
 		"title": "De kandidaat kan op basis van algemene modellen voor een bedrijf met stukproductie of voor een bedrijf met homogene massaproductie de fabricagekostprijs, de commerciële kostprijs en de verkoopprijs vaststellen, en daarbij onderscheid maken tussen werkelijke kosten en toegestane kosten.",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "MO/V/DomeinE/E3/14b",
 		"id": "9eec9cd8-9126-4c57-85ba-bf3dbaad40be",
 		"title": "De kandidaat kan de ontwikkeling in de resultaten analyseren, zowel met behulp van gegevens uit interne als uit externe verslaggeving.",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "MO/V/DomeinE/E3/14c",
 		"id": "7407cee5-3e2c-4fd0-aec0-01cb9ba0f0ea",
 		"title": "De kandidaat kan op grond van geformuleerde doelstellingen geplande investeringen selecteren.",
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "MO/V/DomeinE/E3/14d",
