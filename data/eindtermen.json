@@ -34243,5 +34243,96 @@
 			"0716b0d7-cff5-4e17-b29a-c739fe323039"
 		],
 		"dirty": true
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "19d03ae8-8ae4-4a10-81f6-d2f8256245fa",
+		"prefix": "WI/D/V/DomeinG",
+		"title": "Indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein G: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "0e17cd85-3a5d-4ee2-8e80-6c004cbfda44",
+		"prefix": "WI/D/H/DomeinE",
+		"title": "Indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein E: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "8e92a203-0d9f-4dc1-b66e-7bf9cb5a555d",
+		"prefix": "WI/C/V/DomeinH",
+		"title": "Indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen. ",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "a1578b74-8d13-4eef-828d-f87ab3292b4c",
+		"prefix": "WI/B/V/DomeinF",
+		"title": "Indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "d621e4dd-08ca-4a95-92ff-34a1ad6f3ee2",
+		"prefix": "WI/A/V/DomeinF",
+		"title": "Indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
+	},
+	{
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"id": "b13cf01b-5fda-4ad6-9526-04c79c90555f",
+		"prefix": "BE/V/DomeinH",
+		"title": "Indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
+	},
+	{
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"id": "6e27212f-6022-4040-9ce7-7be1596da00d",
+		"prefix": "BE/H/DomeinH",
+		"title": "Indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	}
 ]
