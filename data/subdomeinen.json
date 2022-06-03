@@ -5368,7 +5368,10 @@
 		"prefix": "FI/V/DomeinA/A3",
 		"id": "535c011d-50d1-4e61-b118-c6627e885841",
 		"title": "Subdomein A3: Oriëntatie op studie en beroep",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6d014cae-bc48-4680-841c-942ccc49714a"
+		]
 	},
 	{
 		"prefix": "FI/V/DomeinB/B1",
@@ -5508,7 +5511,10 @@
 		"prefix": "FI/H/DomeinA/A3",
 		"id": "fac09801-ca98-4eab-a4fe-6a8bf11a0461",
 		"title": "Subdomein A3: Oriëntatie op studie en beroep",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6d014cae-bc48-4680-841c-942ccc49714a"
+		]
 	},
 	{
 		"prefix": "FI/H/DomeinB/B1",
