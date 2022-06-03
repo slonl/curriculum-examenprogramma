@@ -191,7 +191,11 @@
 	{
 		"prefix": "WI/D/V/DomeinG",
 		"id": "ddf07b07-9629-4bbe-9a6f-ae2943825095",
-		"title": "Domein G: Keuzeonderwerpen"
+		"title": "Domein G: Keuzeonderwerpen",
+		"ce_se": "",
+		"examenprogramma_eindterm_id": [
+			"19d03ae8-8ae4-4a10-81f6-d2f8256245fa"
+		]
 	},
 	{
 		"prefix": "WI/D/H/DomeinA",
@@ -243,7 +247,10 @@
 		"prefix": "WI/D/H/DomeinE",
 		"id": "f9ae7f15-3c95-4655-82f7-571852241f7a",
 		"title": "Domein E: Keuzeonderwerpen",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"0e17cd85-3a5d-4ee2-8e80-6c004cbfda44"
+		]
 	},
 	{
 		"prefix": "WI/C/V/DomeinB",
@@ -324,7 +331,10 @@
 		"prefix": "WI/C/V/DomeinH",
 		"id": "941b0c0d-de6d-428d-aa1e-657e663c7786",
 		"title": "Domein H: Keuzeonderwerpen",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"8e92a203-0d9f-4dc1-b66e-7bf9cb5a555d"
+		]
 	},
 	{
 		"prefix": "WI/B/V/DomeinA",
@@ -387,7 +397,10 @@
 		"prefix": "WI/B/V/DomeinF",
 		"id": "65362343-e7ab-45a3-8015-f2364ce66be3",
 		"title": "Domein F: Keuzeonderwerpen",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"a1578b74-8d13-4eef-828d-f87ab3292b4c"
+		]
 	},
 	{
 		"prefix": "WI/B/H/DomeinA",
@@ -485,7 +498,10 @@
 		"prefix": "WI/A/V/DomeinF",
 		"id": "aec70e35-7fb5-466e-bfed-929a31d2b975",
 		"title": "Domein F: Keuzeonderwerpen",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"d621e4dd-08ca-4a95-92ff-34a1ad6f3ee2"
+		]
 	},
 	{
 		"prefix": "WI/A/H/DomeinA",
@@ -5648,7 +5664,10 @@
 		"prefix": "BE/V/DomeinH",
 		"id": "cad1cb98-4e53-40f0-bf35-b23c6ae1dfef",
 		"title": "Domein H: Keuze-onderwerpen",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"b13cf01b-5fda-4ad6-9526-04c79c90555f"
+		]
 	},
 	{
 		"prefix": "BE/H/DomeinA",
@@ -5729,7 +5748,10 @@
 		"prefix": "BE/H/DomeinH",
 		"id": "b2d72e52-fd9f-4ebe-b981-f0112681b933",
 		"title": "Domein H: Keuze-onderwerpen",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6e27212f-6022-4040-9ce7-7be1596da00d"
+		]
 	},
 	{
 		"id": "ae25280b-382b-4097-8fb2-ee89c4e99f90",
