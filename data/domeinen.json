@@ -3811,7 +3811,10 @@
 		"prefix": "GS/V/DomeinE",
 		"id": "493e5abc-d9b7-434b-9f6f-85dbe333baf2",
 		"title": "Domein E: Oriëntatie op studie en beroep",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6d014cae-bc48-4680-841c-942ccc49714a"
+		]
 	},
 	{
 		"id": "0b767adb-ab60-4799-8857-9ab32ccd335a",
@@ -7040,7 +7043,10 @@
 		"prefix": "MVT/AR/V/DomeinF",
 		"id": "1a8339dd-7d4f-44d6-8855-b28ff359efa0",
 		"ce_se": "SE",
-		"title": "Domein F: Oriëntatie op studie en beroep"
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"examenprogramma_eindterm_id": [
+			"6d014cae-bc48-4680-841c-942ccc49714a"
+		]
 	},
 	{
 		"prefix": "MVT/AR/H/DomeinA",
@@ -7522,7 +7528,10 @@
 		"prefix": "MVT/TU/V/DomeinF",
 		"id": "86e4fb35-9b07-4d84-861f-a6520cb0ea8a",
 		"ce_se": "SE",
-		"title": "Domein F: Oriëntatie op studie en beroep"
+		"title": "Domein F: Oriëntatie op studie en beroep",
+		"examenprogramma_eindterm_id": [
+			"6d014cae-bc48-4680-841c-942ccc49714a"
+		]
 	},
 	{
 		"prefix": "MVT/SP/H/DomeinA",
