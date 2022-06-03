@@ -6217,6 +6217,19 @@
 		"ce_se": "CE"
 	},
 	{
+		"prefix": "AK/H/DomeinA",
+		"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
+			"6f5c67c9-414a-4cca-a0f4-61b4c6e4ea3f"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"f8396db6-92cd-4cc5-9e9f-5de3fab6a171"
+		]
+	},
+	{
 		"prefix": "AK/H/DomeinB",
 		"id": "d396a627-9202-40a9-844f-b5d8da88c714",
 		"title": "Domein B: Wereld",
@@ -8327,19 +8340,6 @@
 		"ce_se": "SE",
 		"replaces": [
 			"fb0a5b74-a559-4ed0-adf0-87388e64223c"
-		]
-	},
-	{
-		"prefix": "AK/H/DomeinA",
-		"id": "ddb71670-fe2a-46cf-99d7-4c7b45e612e6",
-		"title": "Domein A: Vaardigheden",
-		"examenprogramma_subdomein_id": [
-			"32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-			"6f5c67c9-414a-4cca-a0f4-61b4c6e4ea3f"
-		],
-		"ce_se": "CE;SE",
-		"replaces": [
-			"f8396db6-92cd-4cc5-9e9f-5de3fab6a171"
 		]
 	}
 ]
