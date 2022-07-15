@@ -21680,12 +21680,15 @@
 		"id": "dc10b330-4fee-423c-a1f1-cd31aad53764",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/K/3/3b",
@@ -21706,7 +21709,13 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/K/4/4b",
@@ -21873,17 +21882,15 @@
 		"id": "a2db60bd-447f-4bc7-be40-ea45666bd15b",
 		"title": "De kandidaat kan vorm, werking en functie van het verteringsstelsel, bloedvatenstelsel, ademhalingsstelsel en uitscheidingsstelsel beschrijven.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"ce_se": "CE",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"id": "63029ffc-3389-4c68-86c0-7a5571970ab1",
@@ -21937,7 +21944,13 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/K/12/18",
@@ -32129,7 +32142,8 @@
 		"keuze": 0,
 		"replaces": [
 			"0027614b-9738-43d4-a484-c59c5a3ef3c1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "BIO/K/11/15",
@@ -32146,7 +32160,8 @@
 		"keuze": 0,
 		"replaces": [
 			"98dd6f49-8dcd-47d1-b9e8-f0294943017d"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"niveau_id": [
