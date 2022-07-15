@@ -16117,7 +16117,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/1b",
@@ -16225,7 +16231,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/3b",
@@ -16243,7 +16255,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/4b",
@@ -16252,7 +16270,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/5a",
@@ -16261,7 +16285,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/5b",
@@ -16270,7 +16300,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/6a",
@@ -16279,7 +16315,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/6b",
@@ -16288,7 +16330,13 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"dirty": true,
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "GS/H/DomeinA/7a",
