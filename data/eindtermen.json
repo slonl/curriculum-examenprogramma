@@ -21712,7 +21712,7 @@
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": 0,
+		"ce": "1",
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -21724,19 +21724,26 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": "1",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "BIO/K/4/5a",
 		"id": "4df5d02c-779c-485b-aded-f22483097653",
 		"title": "De kandidaat kan kenmerkende eigenschappen van cellen noemen, de samenstellende delen daarvan beschrijven, en de meest voorkomende organisatieniveaus binnen organismen noemen en beschrijven",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": 0,
+		"ce": "1",
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -21750,7 +21757,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": "1",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "BIO/K/5/6",
@@ -21759,7 +21771,12 @@
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "1",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "BIO/K/5/7",
@@ -21770,7 +21787,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "1",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"id": "16b1d959-efd7-4bff-8c62-112cd728ed04",
@@ -21976,12 +21998,13 @@
 		"id": "c7318dac-13d8-4da7-bd05-de7751d84085",
 		"title": "De kandidaat kan beschrijven hoe erfelijke eigenschappen van generatie op generatie worden doorgegeven en toelichten hoe die erfelijke eigenschappen in de tijd kunnen veranderen.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": 0,
+		"ce": "1",
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -21991,12 +22014,13 @@
 		"id": "421a71c7-3a28-4b6a-93f2-9e07d483be14",
 		"title": "De kandidaat kan de manier waarop het lichaam zich beschermt tegen antigenen door middel van antistoffen beschrijven en toelichten hoe deze bescherming kunstmatig kan worden verhoogd",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": 0,
+		"ce": "1",
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -22006,12 +22030,13 @@
 		"id": "8c20cf2d-dafc-47c9-829b-8b8de455d9be",
 		"title": "De kandidaat kan gedrag van mens en dier op een gestandaardiseerde wijze beschrijven en dat beschreven gedrag verklaren.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": 0,
+		"ce": "1",
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -22024,7 +22049,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": "1",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "BIO/V/4/23",
@@ -22034,7 +22064,12 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"description": "",
+		"ce": "1",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A1/1",
