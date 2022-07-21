@@ -2086,7 +2086,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "THT/TV/H/DomeinA/A2/2",
@@ -2100,7 +2101,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "THT/TV/H/DomeinB/3",
