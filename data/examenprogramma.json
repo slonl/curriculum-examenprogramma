@@ -211,9 +211,9 @@
 			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
+			"664b6147-42ce-45b3-83d8-5df1303a7d35",
 			"52f42938-fb77-497b-abc2-b75ae200ed73",
-			"973840c7-6db0-4aa3-98ba-ba9c176225ba",
-			"664b6147-42ce-45b3-83d8-5df1303a7d35"
+			"973840c7-6db0-4aa3-98ba-ba9c176225ba"
 		],
 		"examenprogramma_kop1_id": [
 			"77c57531-6508-443a-a78a-424933f95793",
@@ -225,7 +225,8 @@
 		"versie": "2020",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "NLT/vwo",
