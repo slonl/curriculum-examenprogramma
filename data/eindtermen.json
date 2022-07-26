@@ -12454,7 +12454,7 @@
 	{
 		"prefix": "KUA/V/DomeinC/8c",
 		"id": "b35b5d55-2c50-4b73-97ca-8856336afb60",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de burgerlijke cultuur van Nederland in de zeventiende eeuw.",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de burgerlijke cultuur van Nederland in de zeventiende eeuw",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -12463,7 +12463,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8d",
