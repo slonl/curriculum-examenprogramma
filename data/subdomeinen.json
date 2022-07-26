@@ -5291,7 +5291,8 @@
 		"examenprogramma_eindterm_id": [
 			"4ae7430d-c23a-4fe2-9cf0-dc0c818f6afb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true
 	},
 	{
 		"prefix": "THT/H/V/DomeinA/A2",
@@ -5300,7 +5301,8 @@
 		"examenprogramma_eindterm_id": [
 			"5bd571a7-6243-4bea-af94-c9276f41a501"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true
 	},
 	{
 		"prefix": "THT/H/H/DomeinA/A1",
