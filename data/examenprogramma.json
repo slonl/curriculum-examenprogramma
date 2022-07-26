@@ -187,9 +187,9 @@
 			"82680d86-c679-4a7d-826d-6d5ccaf82de9"
 		],
 		"examenprogramma_domein_id": [
+			"86e2cc4f-c418-4e16-88d9-d69cc65f2785",
 			"325ee593-67f6-4910-b495-98e310ca5af8",
-			"edc20e03-72b8-4670-b991-b27e3a39818e",
-			"86e2cc4f-c418-4e16-88d9-d69cc65f2785"
+			"edc20e03-72b8-4670-b991-b27e3a39818e"
 		],
 		"examenprogramma_kop1_id": [
 			"097cecaf-3722-474f-9f78-4c41641bb348",
@@ -201,7 +201,8 @@
 		"versie": "2020",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "THT/T/havo",
@@ -2115,9 +2116,9 @@
 			"707dd684-21e4-4eb1-9852-a819be9fd377"
 		],
 		"examenprogramma_domein_id": [
+			"25deb580-a7ae-452d-a678-717c270b0035",
 			"8c78af02-238d-4048-b965-ab81b8fa7bdf",
-			"2673561a-76e5-4492-8bdc-4975ec3bda92",
-			"25deb580-a7ae-452d-a678-717c270b0035"
+			"2673561a-76e5-4492-8bdc-4975ec3bda92"
 		],
 		"examenprogramma_kop1_id": [
 			"7f3bee9b-e864-4aaa-af84-5ed9df1aa5aa",
@@ -2132,7 +2133,8 @@
 		],
 		"replaces": [
 			"ec850fae-47a6-4dbc-939c-bf7190546ddc"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "THT/TV/havo",
@@ -2285,9 +2287,9 @@
 			"d75646bc-043d-4c70-ab45-f51999a23525"
 		],
 		"examenprogramma_domein_id": [
+			"a2084e24-6371-4088-93a7-39b2893298b2",
 			"8311e93b-7817-47f0-8062-0853b35f4502",
-			"63c2168c-503e-40cf-979a-1661e1d3acd9",
-			"a2084e24-6371-4088-93a7-39b2893298b2"
+			"63c2168c-503e-40cf-979a-1661e1d3acd9"
 		],
 		"examenprogramma_kop1_id": [
 			"bf886594-21b0-4217-90c2-07143959f3fc",
@@ -2302,7 +2304,8 @@
 		],
 		"replaces": [
 			"4d379dd8-d4ce-4725-97e3-9f6a890cc071"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "THT/H/havo",
