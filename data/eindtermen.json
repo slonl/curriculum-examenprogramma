@@ -12439,7 +12439,7 @@
 	{
 		"prefix": "KUA/V/DomeinC/8b",
 		"id": "1bc47227-09c8-4443-8b2b-9b724a028dc7",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de hofcultuur in de zestiende en zeventiende eeuw.",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de hofcultuur in de zestiende en zeventiende eeuw",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -12448,7 +12448,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8c",
@@ -12481,7 +12482,7 @@
 	{
 		"prefix": "KUA/V/DomeinC/8e",
 		"id": "50cafcdc-3a75-4b10-86e9-c3f0bdd7202b",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van het moderne in de eerste helft van de twintigste eeuw.",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van het moderne in de eerste helft van de twintigste eeuw",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -12490,12 +12491,13 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "KUA/V/DomeinC/8f",
 		"id": "1b614450-ac87-4a86-ad00-2fe571567da7",
-		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de massacultuur vanaf 1950.",
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de massacultuur vanaf 1950",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -12504,7 +12506,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "KUA/H/DomeinA/1a",
@@ -34490,5 +34493,19 @@
 		"prefix": "",
 		"title": "Bij dit (sub)domein is geen wettelijke eindterm gedefinieerd, de invulling van het (sub)domein \"Oriëntatie op studie en beroep\" wordt door leerling en bevoegd gezag samen vastgesteld.",
 		"description": ""
+	},
+	{
+		"description": "",
+		"prefix": "KUA/V/DomeinC/8d",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van Romantiek en realisme in de negentiende eeuw",
+		"id": "f9b8bb0b-ab0d-43e1-ab14-42dfcf92d359",
+		"unreleased": true
 	}
 ]
