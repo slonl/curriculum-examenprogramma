@@ -20018,12 +20018,17 @@
 	{
 		"prefix": "DA/K/7/7b",
 		"id": "f41b13d0-93a4-48ad-8ae9-c1a749a184ab",
-		"title": "De kandidaat kan van een dans de volgende elementen benoemen:\r\n- danser\r\n- dans (danselementen, lichaam, structuur)\r\n- geluid\r\n- ruimte/locatie\r\n- theatrale middelen\r\n- dansinhoud/betekenis\r\nen de samenhang ervan beargumenteren",
+		"title": "De kandidaat kan van een dans de volgende elementen benoemen:\r\r\n- danser\r\r\n- dans (danselementen, lichaam, structuur)\r\r\n- geluid\r\r\n- ruimte/locatie\r\r\n- theatrale middelen\r\r\n- dansinhoud/betekenis\r\r\nen de samenhang ervan beargumenteren",
 		"niveau_id": [
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true,
+		"description": "",
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "DA/K/8/8a",
