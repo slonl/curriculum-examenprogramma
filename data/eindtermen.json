@@ -21772,7 +21772,7 @@
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": "1",
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -21786,10 +21786,10 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": "1",
-		"se": "",
-		"kern": "",
-		"keuze": ""
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/K/4/5a",
@@ -21803,7 +21803,7 @@
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": "1",
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -21819,10 +21819,10 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": "1",
-		"se": "",
-		"kern": "",
-		"keuze": ""
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/K/5/6",
@@ -21833,10 +21833,10 @@
 		],
 		"ce_se": "SE",
 		"description": "",
-		"ce": "",
-		"se": "1",
-		"kern": "",
-		"keuze": ""
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/K/5/7",
@@ -21849,10 +21849,10 @@
 		],
 		"ce_se": "SE",
 		"description": "",
-		"ce": "",
-		"se": "1",
-		"kern": "",
-		"keuze": ""
+		"ce": 0,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"id": "16b1d959-efd7-4bff-8c62-112cd728ed04",
@@ -22064,7 +22064,7 @@
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": "1",
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -22080,7 +22080,7 @@
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": "1",
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -22096,7 +22096,7 @@
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": "1",
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0
@@ -22111,10 +22111,10 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": "1",
-		"se": "",
-		"kern": "",
-		"keuze": ""
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/V/4/23",
@@ -22126,10 +22126,10 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": "1",
-		"se": "",
-		"kern": "",
-		"keuze": ""
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	},
 	{
 		"prefix": "BIO/H/DomeinA/A1/1",
