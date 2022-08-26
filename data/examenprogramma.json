@@ -23,8 +23,6 @@
 		],
 		"ingangsdatum": "Vanaf CE 2017",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-vmbo-2/2020/f=/wiskunde.pdf",
 		"examenprogramma_kop1_id": [
 			"177dee42-5a35-436c-8060-70084aba4958"
@@ -58,8 +56,6 @@
 		],
 		"ingangsdatum": "vanaf schooljaar 2017-2018",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-d-vwo-gewijzigd/2020/f=/examenprogramma_wiskunde_dvwo.pdf",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
@@ -85,8 +81,6 @@
 		],
 		"ingangsdatum": "vanaf schooljaar 2016-2017",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-d-havo-gewijzigd/2020/f=/examenprogramma_wiskunde_d_havo.pdf",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -114,8 +108,6 @@
 		],
 		"ingangsdatum": "Vanaf CE 2018",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-b-vwo-2/2020/f=/Examenprogramma_wiskunde_B_vwo%20_%20versie_van_OCW_CORRECTIE_DEC_2017.pdf",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
@@ -142,8 +134,6 @@
 		],
 		"ingangsdatum": "Vanaf CE 2017",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-b-havo-2/2020/f=/Examenprogramma_wiskunde_B_havo_versie_van_OCW_CORRECTIE_DEC_2017.pdf",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -171,8 +161,6 @@
 		],
 		"ingangsdatum": "vanaf CE 2017",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-havo-2/2020/f=/examenprogramma_wiskunde_a_havo.pdf",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
@@ -540,7 +528,6 @@
 			"31e5c6f1-9c81-496f-baa9-cc330a97da2e",
 			"b5f80488-0e13-4a8f-9fb3-7715151efb5a"
 		],
-		"jaargang": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf",
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf",
 		"versie": "2020",
@@ -664,8 +651,6 @@
 		"ingangsdatum": "Vanaf schooljaar 2019",
 		"versie": "2020",
 		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2020/f=/examenprogramma_Informatica_havo-vwo.pdf",
-		"jaargang": "2019",
-		"status": "Wettelijk",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
@@ -704,8 +689,6 @@
 		"ingangsdatum": "Vanaf schooljaar 2019",
 		"versie": "2020",
 		"url": "https://www.examenblad.nl/examenstof/informatica-havo-en-vwo-3/2020/f=/examenprogramma_Informatica_havo-vwo.pdf",
-		"jaargang": "2019",
-		"status": "Wettelijk",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		]
@@ -950,7 +933,6 @@
 			"0fb1f16b-eb39-4980-8e1d-0632bddc015e",
 			"720ff63e-4552-4fd4-bcaf-527a9ffc29aa"
 		],
-		"jaargang": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2019/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
 		"ingangsdatum": "",
 		"url": "https://www.examenblad.nl/examenstof/examenprogramma-chinese-taal-en/2020/f=/Examenprogramma_Chinese_Taal_en_Cultuur_vwo.pdf",
 		"versie": "2020",
@@ -1724,8 +1706,6 @@
 		],
 		"ingangsdatum": "Vanaf CE 2016",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/scheikunde-vwo-3/2020/f=/examenprogramma_scheikunde_vwo_2015_2016.pdf",
 		"replaces": [
 			"318c2a68-c57e-48a9-92af-76d402223133"
@@ -1844,8 +1824,6 @@
 		],
 		"ingangsdatum": "Vanaf CE 2015",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/scheikunde-havo-3/2020/f=/examenprogramma_scheikunde_havo_2014_2015.pdf",
 		"replaces": [
 			"37db1897-2916-4c11-8226-a719877d651e"
@@ -2672,8 +2650,6 @@
 		],
 		"ingangsdatum": "Vanaf CE 2018",
 		"versie": "2020",
-		"jaargang": "2018",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-c-vwo-2/2020/f=/examenprogramma_wiskunde_c_vwo.pdf",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
@@ -2920,8 +2896,6 @@
 		],
 		"ingangsdatum": "Vanaf CE 2018",
 		"versie": "2020",
-		"jaargang": "nnb",
-		"status": "nnb",
 		"url": "https://www.examenblad.nl/examenstof/wiskunde-a-vwo-2/2020/f=/examenprogramma_wiskunde_a_vwo.pdf",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
