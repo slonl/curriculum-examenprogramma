@@ -14352,22 +14352,18 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "THT/H/V/DomeinA/A1/1",
+		"prefix": "THT/H/V/DomeinA1/1",
 		"id": "4ae7430d-c23a-4fe2-9cf0-dc0c818f6afb",
-		"title": "De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van\r\nkunstenaars en vormgevers beschrijven, onderzoeken en interpreteren,\r\nrekening houdend met tijd, plaats, functie, kunstopvattingen, normen en\r\nwaarden en de historische ontwikkeling.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
+		"title": "De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.",
+		"ce_se": "CE",
+		"dirty": true
 	},
 	{
 		"prefix": "THT/H/V/DomeinA/A2/2",
 		"id": "5bd571a7-6243-4bea-af94-c9276f41a501",
 		"title": "De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true
 	},
 	{
 		"prefix": "THT/H/V/DomeinB/3",
