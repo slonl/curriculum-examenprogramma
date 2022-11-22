@@ -14363,7 +14363,15 @@
 		"id": "5bd571a7-6243-4bea-af94-c9276f41a501",
 		"title": "De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.",
 		"ce_se": "CE",
-		"dirty": true
+		"dirty": true,
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "THT/H/V/DomeinB/3",
