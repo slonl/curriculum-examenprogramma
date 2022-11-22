@@ -14363,7 +14363,7 @@
 		"id": "5bd571a7-6243-4bea-af94-c9276f41a501",
 		"title": "De kandidaat kan twee- en driedimensionale beelden en vormen beschouwen en kan deze beschouwing verwoorden en/of verbeelden.",
 		"ce_se": "CE",
-		"dirty": true,
+		"dirty": "1",
 		"description": "",
 		"ce": "",
 		"se": "",
@@ -34536,5 +34536,9 @@
 		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van Romantiek en realisme in de negentiende eeuw",
 		"id": "f9b8bb0b-ab0d-43e1-ab14-42dfcf92d359",
 		"unreleased": true
+	},
+	{
+		"title": "",
+		"id": ""
 	}
 ]
