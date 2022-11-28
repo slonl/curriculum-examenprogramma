@@ -14356,7 +14356,12 @@
 		"id": "4ae7430d-c23a-4fe2-9cf0-dc0c818f6afb",
 		"title": "De kandidaat kan mede op basis van bronnenmateriaal het beeldend werk van kunstenaars en vormgevers beschrijven, onderzoeken en interpreteren, rekening houdend met tijd, plaats, functie, kunstopvattingen, normen en waarden en de historische ontwikkeling.",
 		"ce_se": "CE",
-		"dirty": true
+		"dirty": true,
+		"description": "",
+		"ce": "1",
+		"se": "",
+		"kern": "",
+		"keuze": ""
 	},
 	{
 		"prefix": "THT/H/V/DomeinA/A2/2",
@@ -14365,7 +14370,7 @@
 		"ce_se": "CE",
 		"dirty": "1",
 		"description": "",
-		"ce": "",
+		"ce": "1",
 		"se": "",
 		"kern": "",
 		"keuze": "",
