@@ -14358,10 +14358,13 @@
 		"ce_se": "CE",
 		"dirty": true,
 		"description": "",
-		"ce": "1",
-		"se": "",
-		"kern": "",
-		"keuze": ""
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		]
 	},
 	{
 		"prefix": "THT/H/V/DomeinA/A2/2",
@@ -14370,10 +14373,10 @@
 		"ce_se": "CE",
 		"dirty": "1",
 		"description": "",
-		"ce": "1",
-		"se": "",
-		"kern": "",
-		"keuze": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
