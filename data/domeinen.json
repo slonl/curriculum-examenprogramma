@@ -6019,10 +6019,7 @@
 			"da9fc532-6cef-442a-bdca-56067fc4c613",
 			"578abb9e-d18a-4f72-aa98-11d9283ca2bf",
 			"e8b74995-62b7-441b-adcb-abcd2a048d21",
-			"c3523b19-94f2-434b-b04f-a8201286326d",
-			"38f87f6b-78cf-40b4-9dc6-4867928c3df1",
-			"22f34c07-0616-47d6-b1db-45e0c81a120e",
-			"be8303e3-c665-4562-b086-d42bae5b118f"
+			"c3523b19-94f2-434b-b04f-a8201286326d"
 		],
 		"ce_se": "SE",
 		"dirty": true
@@ -6045,8 +6042,7 @@
 		"examenprogramma_subdomein_id": [
 			"3823011f-8084-483a-a758-290719e41385",
 			"e3ea79b4-dbfa-450c-8275-553201b780f7",
-			"7bef3070-b41d-49a7-9846-51db8a322039",
-			"233908ec-a1e5-4dca-93c0-0259bedd2dfc"
+			"7bef3070-b41d-49a7-9846-51db8a322039"
 		],
 		"ce_se": "SE",
 		"dirty": true
