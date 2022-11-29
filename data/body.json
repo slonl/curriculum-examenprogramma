@@ -3346,7 +3346,8 @@
 		"title": "Domein A Vaardigheden",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "42864135-d1e7-4d89-9b35-9c7486c120a5",
@@ -3354,7 +3355,8 @@
 		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "182bf0d4-02ec-4d46-b8d0-c0408b33aa02",
@@ -3362,7 +3364,8 @@
 		"title": "Domein C Leven",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "39c794d4-164a-4a6c-9a60-06b539fb98d4",
@@ -3370,7 +3373,8 @@
 		"title": "Domein D Biosfeer",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "ee5aa3b8-3cd4-4e11-a888-4200a1561236",
@@ -3378,7 +3382,8 @@
 		"title": "Domein E Materie",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "e8f364df-6a3d-4a67-89da-485cae44d2d5",
@@ -3386,7 +3391,8 @@
 		"title": "Domein F Zonnestelsel en heelal.",
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "f682746d-d8c5-4853-909f-fd982d3984e1",
@@ -3415,7 +3421,8 @@
 		"title": "de domeinen A en B;",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "6eb1bc75-2611-4aee-a3d3-0e3a38d4554b",
@@ -3423,7 +3430,8 @@
 		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "da6ee1fd-9bcf-404d-bb74-26fc8eb3b16e",
@@ -3431,7 +3439,8 @@
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"id": "4c6a9ff7-b2a9-433e-a0c4-5636527bff27",
