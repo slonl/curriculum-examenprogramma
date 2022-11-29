@@ -34548,5 +34548,65 @@
 	{
 		"title": "",
 		"id": ""
+	},
+	{
+		"description": "",
+		"prefix": "ANW/H/DomeinA/A2/2",
+		"ce": 0,
+		"se": 0,
+		"ce_se": "SE",
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan een aantal voor het vak relevante reken-/wiskundige vaardigheden toepassen om natuurwetenschappelijke problemen op te lossen.",
+		"id": "07806cc2-7d64-4ee7-a910-5f7170bac9ae",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "ANW/H/DomeinA/A4/4",
+		"ce": 0,
+		"se": 0,
+		"ce_se": "SE",
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan op een verantwoorde manier omgaan met voor het vak relevante organismen en stoffen, instrumenten, apparaten en ICT-toepassingen.",
+		"id": "5bbe3838-9dc0-4f65-9926-bb31a0bfd184",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "ANW/H/DomeinA/A5/5",
+		"ce": 0,
+		"se": 0,
+		"ce_se": "SE",
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan een technisch ontwerp voorbereiden, uitvoeren, testen en evalueren.",
+		"id": "3548097c-5bad-4d6e-a52d-e0c0478b3b0d",
+		"unreleased": true
+	},
+	{
+		"description": "",
+		"prefix": "ANW/H/DomeinC/C3/13",
+		"ce": 0,
+		"se": 0,
+		"ce_se": "SE",
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"title": "De kandidaat kan de ontwikkeling van het denken over de oorsprong van het leven beschrijven en in verband brengen met kennistheoretische, levensbeschouwelijke en sociologische opvattingen.",
+		"id": "9162e5aa-7371-4b2a-a217-a0714ab1f3fe",
+		"unreleased": true
 	}
 ]
