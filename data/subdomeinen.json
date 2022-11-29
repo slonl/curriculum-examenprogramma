@@ -9410,5 +9410,45 @@
 		"replaces": [
 			"7a894a09-cfaa-49e2-9ea1-7e320e055d78"
 		]
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "ANW/H/DomeinA/A2",
+		"examenprogramma_eindterm_id": [
+			"07806cc2-7d64-4ee7-a910-5f7170bac9ae"
+		],
+		"title": "Subdomein A2: Reken-/wiskundige vaardigheden",
+		"id": "4c23a080-0538-4a5e-882e-e0da3fe1671b",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "ANW/H/DomeinA/A4",
+		"examenprogramma_eindterm_id": [
+			"5bbe3838-9dc0-4f65-9926-bb31a0bfd184"
+		],
+		"title": "Subdomein A4: Technisch-instrumentele vaardigheden",
+		"id": "da9fc532-6cef-442a-bdca-56067fc4c613",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "ANW/H/DomeinA/A5",
+		"examenprogramma_eindterm_id": [
+			"3548097c-5bad-4d6e-a52d-e0c0478b3b0d"
+		],
+		"title": "Subdomein A5: Ontwerpvaardigheden",
+		"id": "578abb9e-d18a-4f72-aa98-11d9283ca2bf",
+		"unreleased": true
+	},
+	{
+		"ce_se": "SE",
+		"prefix": "ANW/H/DomeinC/C3",
+		"examenprogramma_eindterm_id": [
+			"9162e5aa-7371-4b2a-a217-a0714ab1f3fe"
+		],
+		"title": "Subdomein C3: Evolutie van het leven",
+		"id": "7bef3070-b41d-49a7-9846-51db8a322039",
+		"unreleased": true
 	}
 ]
