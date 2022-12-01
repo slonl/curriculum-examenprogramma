@@ -9450,5 +9450,14 @@
 		"title": "Subdomein C3: Evolutie van het leven",
 		"id": "7bef3070-b41d-49a7-9846-51db8a322039",
 		"unreleased": true
+	},
+	{
+		"id": "86e3f784-a935-468b-8de5-4fc9e37cd433",
+		"prefix": "",
+		"title": "Subdomein E6: Statistiek met ICT",
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"0726fa08-dfea-419f-ba54-a98a5b0162b8"
+		]
 	}
 ]
