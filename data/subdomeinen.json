@@ -9453,11 +9453,21 @@
 	},
 	{
 		"id": "86e3f784-a935-468b-8de5-4fc9e37cd433",
-		"prefix": "",
+		"prefix": "WI/C/V/DomeinE/E6",
 		"title": "Subdomein E6: Statistiek met ICT",
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"0726fa08-dfea-419f-ba54-a98a5b0162b8"
+		]
+	},
+	{
+		"id": "57e83bb5-0b29-4c9c-9744-a3020bde609b",
+		"dirty": "1",
+		"prefix": "WI/C/V/DomeinE/E5",
+		"title": "Kansverdelingen",
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"fa659e32-67e2-4c86-b9da-7a6c2c887205"
 		]
 	}
 ]
