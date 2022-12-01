@@ -9469,5 +9469,25 @@
 		"examenprogramma_eindterm_id": [
 			"fa659e32-67e2-4c86-b9da-7a6c2c887205"
 		]
+	},
+	{
+		"id": "52409590-064c-402c-a679-b36f81034f83",
+		"dirty": "1",
+		"prefix": "MVT/AR/V/DomeinE/E3",
+		"title": "Subdomein E3: Literatuurgeschiedenis",
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"9043ec23-1d9d-4758-ab3e-f46e0dd5a5b0"
+		]
+	},
+	{
+		"id": "d439f4bc-10d5-45b6-982c-1a061e5cb5bf",
+		"dirty": "1",
+		"prefix": "MVT/AR/V/DomeinE/E2",
+		"title": "Subdomein E2: Literaire begrippen",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"70a59d27-f103-4355-90a2-087a14e88f25"
+		]
 	}
 ]
