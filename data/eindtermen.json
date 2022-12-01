@@ -4759,7 +4759,13 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "NA/V/DomeinA/A1/1",
@@ -7405,7 +7411,8 @@
 		"ce": 0,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"id": "a9918872-3ffc-47ed-85e3-7b8e6fd5b3fb",
@@ -7413,7 +7420,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "faaa804e-e966-4470-b57c-8bfa976e5b8e",
@@ -25377,7 +25391,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"prefix": "AK/K/3/3.1",
@@ -26366,7 +26381,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -26380,7 +26396,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -26394,7 +26411,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -26408,7 +26426,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -26422,7 +26441,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -26436,7 +26456,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"deleted": 1
 	},
 	{
 		"ce_se": "CE",
@@ -27709,7 +27730,9 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"niveau_id": [
@@ -28266,7 +28289,14 @@
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
 		"title": "Minimumaantal: havo 6; vwo 9 waarvan minimaal 3 voor 1945",
-		"id": "5ebe7a96-a3f0-48a2-a206-43452debae71"
+		"id": "5ebe7a96-a3f0-48a2-a206-43452debae71",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "FR/V/DomeinD/D2/7",
@@ -28627,7 +28657,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
 		"title": "Minimumaantal: havo 6; vwo 9 waarvan minimaal 3 voor 1945",
-		"id": "572faee2-e3b3-4213-bc77-3c2f2f307e2b"
+		"id": "572faee2-e3b3-4213-bc77-3c2f2f307e2b",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "FR/H/DomeinD/D2/7",
