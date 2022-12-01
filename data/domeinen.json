@@ -3021,8 +3021,10 @@
 		"title": "Domein A: Vaktheorie",
 		"examenprogramma_subdomein_id": [
 			"8efc0dd0-448b-464b-810e-46913fd8fec2",
-			"2fe28c24-e49e-4ab8-baee-63cecdbf8bdd"
-		]
+			"2fe28c24-e49e-4ab8-baee-63cecdbf8bdd",
+			"4d0c566a-912e-4d49-937d-005098f4e2be"
+		],
+		"ce_se": ""
 	},
 	{
 		"prefix": "KUBV/H/DomeinB",
