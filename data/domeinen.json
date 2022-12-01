@@ -7055,9 +7055,12 @@
 		"id": "37b2e7b5-c570-4093-a100-5456f80476b9",
 		"ce_se": "SE",
 		"examenprogramma_subdomein_id": [
-			"8f1da728-1d6f-481f-b0e2-d96f6ecd97c7"
+			"8f1da728-1d6f-481f-b0e2-d96f6ecd97c7",
+			"d439f4bc-10d5-45b6-982c-1a061e5cb5bf",
+			"52409590-064c-402c-a679-b36f81034f83"
 		],
-		"title": "Domein E: Literatuur"
+		"title": "Domein E: Literatuur",
+		"dirty": "1"
 	},
 	{
 		"prefix": "MVT/AR/V/DomeinF",
