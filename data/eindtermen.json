@@ -34214,7 +34214,8 @@
 		"keuze": 0,
 		"replaces": [
 			"84a3dfa0-1532-4f9b-8cfd-19e18c5e1185"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1b6377f9-018f-4575-a7df-7e533b94c3e1",
@@ -34231,7 +34232,8 @@
 		"keuze": 0,
 		"replaces": [
 			"9d5165b9-e8fe-43c5-b391-b12040d804ad"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "74c811c4-ed88-47a2-99df-b8f07455df88",
@@ -34248,7 +34250,8 @@
 		"keuze": 0,
 		"replaces": [
 			"12f73cec-e1d4-4e60-b5e5-a0bd99876dcb"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "90863ea4-be2b-4019-92d4-14e888634e89",
@@ -34265,7 +34268,8 @@
 		"keuze": 0,
 		"replaces": [
 			"f631c635-2573-4a58-a4ba-9366795c2812"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "88422b7d-941a-4de0-b1ce-0ff35986e9c6",
@@ -34282,7 +34286,8 @@
 		"keuze": 0,
 		"replaces": [
 			"a1d1e85a-66e2-4e2a-bd97-7ca2e2e6e974"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "25d166e8-83a9-4995-8950-d9442c467b9a",
@@ -34299,7 +34304,8 @@
 		"keuze": 0,
 		"replaces": [
 			"d7149460-f600-4925-bbec-51c583d1ac62"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4e5a2417-f25c-41c7-831f-9517156c58ad",
@@ -34316,7 +34322,8 @@
 		"keuze": 0,
 		"replaces": [
 			"114fdc26-8b68-4b38-a546-0077915929d6"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "ad677819-e21f-4714-ad46-4fa097f1d483",
@@ -34580,7 +34587,9 @@
 		],
 		"title": "De kandidaat kan de eindtermen van domein A en B toepassen op voorbeelden uit de volgende onderwerpen de cultuur van Romantiek en realisme in de negentiende eeuw",
 		"id": "f9b8bb0b-ab0d-43e1-ab14-42dfcf92d359",
-		"unreleased": true
+		"unreleased": true,
+		"ce_se": "",
+		"deleted": 1
 	},
 	{
 		"title": "",
