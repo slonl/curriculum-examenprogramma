@@ -307,7 +307,9 @@
 		"examenprogramma_eindterm_id": [
 			"72bf06ae-ba56-41cd-bd60-6a550f308a33"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"prefix": "WI/C/V/DomeinF",
