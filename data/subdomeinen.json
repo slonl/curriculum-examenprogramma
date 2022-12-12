@@ -269,41 +269,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "WI/C/V/DomeinA/A1",
-		"id": "4670fd2c-dfc8-441d-a671-86770c83f8f3",
-		"title": "Subdomein A1: Algemene vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"ac31aeb0-118e-4782-b048-471da419412e"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/C/V/DomeinA/A2",
-		"id": "d69365ea-c7cc-44ee-b214-84a6f06c8852",
-		"title": "Subdomein A2: Profielspecifieke vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"c642c751-537e-4b38-b2c7-7ce19f47521d"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/C/V/DomeinB/B1",
-		"id": "fe7822b9-2c78-4ce3-b0e4-bbc0d9c3649e",
-		"title": "Subdomein B1: Rekenen en algebra",
-		"examenprogramma_eindterm_id": [
-			"38ba01c8-dd02-4398-859a-0c3b171106c9"
-		]
-	},
-	{
-		"prefix": "WI/C/V/DomeinB/B2",
-		"id": "9e9f6abb-2c8b-406d-a361-23606335fc88",
-		"title": "Subdomein B2: Telproblemen",
-		"examenprogramma_eindterm_id": [
-			"ed55efa2-86a3-408c-9da1-f1bf7d81c877"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "WI/C/V/DomeinE/E1",
 		"id": "06527ec3-7ba8-406e-bdf2-285e9ef64f5a",
 		"title": "Subdomein E1: Probleemstelling en onderzoeksontwerp",
@@ -340,141 +305,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "WI/B/V/DomeinA/A1",
-		"id": "5f695c47-20fe-452a-9818-7c3fcfe3e62e",
-		"title": "Subdomein A1: Algemene vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"4ce6a196-b00d-4b92-84fa-9445a95a4ca0"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinA/A2",
-		"id": "f8a30c11-d37f-4f3c-a165-4e4cc47f0cc9",
-		"title": "Subdomein A2: Profielspecifieke vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"02ecb9f4-4b46-4fe4-b687-b1cad75611fb"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinA/A3",
-		"id": "7fe2d5ab-9a16-4893-bdf4-cb47ac5815de",
-		"title": "Subdomein A3: Wiskundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"6e9a518d-4a04-432b-b58b-8d088a296cff"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinB/B1",
-		"id": "1eb6a8d9-8f65-4839-9727-0c693f98fc58",
-		"title": "Subdomein B1: Formules en functies",
-		"examenprogramma_eindterm_id": [
-			"861b69a6-86af-4b38-a84c-dbb65abdf4b9"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinB/B2",
-		"id": "56f5c1db-71f5-4631-87da-b73e0db9799c",
-		"title": "Subdomein B2: Standaardfuncties",
-		"examenprogramma_eindterm_id": [
-			"ac2700d8-d1ff-437b-ba12-5a49f5a6179e"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinB/B3",
-		"id": "498627c7-107e-4d02-aeae-4d03d104128a",
-		"title": "Subdomein B3: Functies en grafieken",
-		"examenprogramma_eindterm_id": [
-			"000606a4-a735-44fd-9962-1664fb6a629f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinB/B4",
-		"id": "274e2100-5fe1-44b5-ba0d-f9d75c15aa87",
-		"title": "Subdomein B4: Inverse functies",
-		"examenprogramma_eindterm_id": [
-			"e1912b27-ed37-4e2f-98da-bf40f611ee4c"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinB/B5",
-		"id": "87e78510-f858-47f7-82b1-0c0dc8fccb67",
-		"title": "Subdomein B5: Vergelijkingen en ongelijkheden",
-		"examenprogramma_eindterm_id": [
-			"29ca6b71-9b22-46e1-9c72-5480a9523d2b"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinB/B6",
-		"id": "2d0d1ee8-74a5-4fe4-9012-11a602db816b",
-		"title": "Subdomein B6: Asymptoten en limietgedrag van functies",
-		"examenprogramma_eindterm_id": [
-			"74e90e3c-5f49-4698-acef-53dfefdf2923"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinC/C1",
-		"id": "771c1e81-1c1c-49af-9967-0f05770041da",
-		"title": "Subdomein C1: Afgeleide functies",
-		"examenprogramma_eindterm_id": [
-			"01dd67fa-2bc5-4713-899e-c525f5b9131c"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinC/C2",
-		"id": "e9d3332d-04ba-4b26-82e5-d10f2648232a",
-		"title": "Subdomein C2: Technieken voor differentiëren",
-		"examenprogramma_eindterm_id": [
-			"e244062d-5e69-4e1b-bc44-1c558d600c7f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinC/C3",
-		"id": "bb1736e8-ffc4-4f1c-a7ce-4a4ef4ef9a6b",
-		"title": "Subdomein C3: Integraalrekening",
-		"examenprogramma_eindterm_id": [
-			"f7cf1527-0798-43ab-9b16-75db2df2d7f2"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinE/E1",
-		"id": "77ef1cec-1237-48db-8b3b-d796577c2c38",
-		"title": "Subdomein E1: Meetkundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"a925804d-282e-49d1-9789-31263c68aab8"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinE/E2",
-		"id": "7585eaee-86cb-4625-88ba-086add41b781",
-		"title": "Subdomein E2: Algebraïsche methoden in de vlakke meetkunde",
-		"examenprogramma_eindterm_id": [
-			"81ea5fd1-d7c9-46eb-bd8a-79ce0475c09c"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/V/DomeinE/E3",
-		"id": "be43e435-96da-46ad-9303-6ffe18acb2e7",
-		"title": "Subdomein E3: Vectoren en inproduct",
-		"examenprogramma_eindterm_id": [
-			"114d71c5-a305-45b6-86cf-3c9e193f3042"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "WI/B/V/DomeinE/E4",
 		"id": "689dc82c-0162-4704-8c8b-d83193432d47",
 		"title": "Subdomein E4: Toepassingen",
@@ -484,96 +314,6 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "WI/B/H/DomeinA/A1",
-		"id": "31a4f05d-bf4b-42ca-9b6a-597a8de0007d",
-		"title": "Subdomein A1: Algemene vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"7a14bbe9-5e44-484d-b7c3-f10c477225ff"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinA/A2",
-		"id": "17cc279d-7963-477e-b59e-ee688a420625",
-		"title": "Subdomein A2: Profielspecifieke vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"4e562b22-f916-480d-8b18-0f2ac5e0b9c9"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinA/A3",
-		"id": "dcf406a9-4479-4d00-ad6c-979ac0df77d7",
-		"title": "Subdomein A3: Wiskundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"7e28bb06-286a-4a27-9087-6e45fbcf0659"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinB/B1",
-		"id": "26335c40-3567-4112-a438-41746ca96afd",
-		"title": "Subdomein B1: Standaardfuncties",
-		"examenprogramma_eindterm_id": [
-			"59931aa6-aafa-44f7-ab23-97e135d0fbc1"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinB/B2",
-		"id": "1d5c781d-4d4f-48be-aa94-be25e7f3b09a",
-		"title": "Subdomein B2: Vergelijkingen en ongelijkheden",
-		"examenprogramma_eindterm_id": [
-			"51e4c492-da95-46ff-9a79-aefc249f5f53"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinB/B3",
-		"id": "0cd0c82c-7b38-4820-839a-801433e19fd6",
-		"title": "Subdomein B3: Evenredigheidsverbanden",
-		"examenprogramma_eindterm_id": [
-			"b6a0be7f-b8ec-46b3-a398-a5b1527fed2f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinB/B4",
-		"id": "af59d326-b1f9-49d2-b946-2a788320eb64",
-		"title": "Subdomein B4: Periodieke functies",
-		"examenprogramma_eindterm_id": [
-			"cc50f45b-48fe-4001-8058-e99f328b853c"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinC/C1",
-		"id": "6f6323dd-3913-4b47-a13b-c34df05a9f62",
-		"title": "Subdomein C1: Afstanden en hoeken in concrete situaties",
-		"examenprogramma_eindterm_id": [
-			"6fefbf2d-b1bb-40b1-8252-d3a598bf6f53"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinC/C2",
-		"id": "7b98b805-855c-415a-ac4a-8b62647a767a",
-		"title": "Subdomein C2: Algebraïsche methoden",
-		"examenprogramma_eindterm_id": [
-			"1277d216-7ed1-4f69-b184-b7382e5f74fd"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinC/D1",
-		"id": "7de4fec7-bec6-4a90-a56a-b8c5a2514cc6",
-		"title": "Subdomein D1: Veranderingen",
-		"examenprogramma_eindterm_id": [
-			"a3e29a05-50b9-4ab8-b443-e25d899ce26a"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
 		"prefix": "WI/B/H/DomeinC/D2",
 		"id": "c6b37d39-8897-4ef9-9393-0c328b5d7568",
 		"title": "Subdomein D2: Afgeleide functies",
@@ -581,96 +321,6 @@
 			"82d98790-f50b-4eb8-9602-6090f490a1b0"
 		],
 		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinC/D3",
-		"id": "a46b6280-8139-4e9a-b62c-c7ec884168cd",
-		"title": "Subdomein D3: Bepaling afgeleide functies",
-		"examenprogramma_eindterm_id": [
-			"6f553c3d-e6fc-49b9-aa95-dc1b6c41b605"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/B/H/DomeinC/D4",
-		"id": "cb8c5e98-21ec-4b53-be71-5845fe764c96",
-		"title": "Subdomein D4: Toepassing afgeleide functies",
-		"examenprogramma_eindterm_id": [
-			"e04afcab-9701-48f7-b9ac-cbb2ddaf3c2a"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinA/A1",
-		"id": "c7b8bcad-4e65-473d-9491-27ee29475f32",
-		"title": "Subdomein A1: Algemene vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"9423e9d1-d91d-44b5-8dcb-29c549dd8063"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinA/A2",
-		"id": "d917f794-a04d-4d8c-850a-3e4da8ddccfe",
-		"title": "Subdomein A2: Profielspecifieke vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"970a1894-ea47-44d5-980a-7dcc063b6dcf"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinA/A3",
-		"id": "940ed336-6152-4542-9f82-d330ae2e29e5",
-		"title": "Subdomein A3: Wiskundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"c8c5b4d7-0efc-4545-a596-90e5267f577d"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinB/B1",
-		"id": "27b1dcc5-5849-46c9-ba5d-1e3a72639798",
-		"title": "Subdomein B1: Algebra",
-		"examenprogramma_eindterm_id": [
-			"b703beaf-dbd3-4906-861e-6fb51cb7f215"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinB/B2",
-		"id": "83ebd58e-b5f1-42a3-bbca-8a6fc52593bb",
-		"title": "Subdomein B2: Telproblemen",
-		"examenprogramma_eindterm_id": [
-			"773352d2-0826-45b7-8f18-a6c7020cb94b"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinD/D1",
-		"id": "4a37a1ef-24f5-402e-92bc-4c31404202b4",
-		"title": "Subdomein D1: Rijen",
-		"examenprogramma_eindterm_id": [
-			"3f54a095-386e-45e4-b4ab-d333a697d78f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinD/D2",
-		"id": "f638ba25-00b5-4c7b-a630-9ad5973b1eea",
-		"title": "Subdomein D2: Helling",
-		"examenprogramma_eindterm_id": [
-			"3990b52a-bad4-4bdd-9e8a-63bd0e7cf0a5"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/V/DomeinD/D3",
-		"id": "b9dabd81-0fd5-4b21-96f6-172822edc383",
-		"title": "Subdomein D3: Afgeleide",
-		"examenprogramma_eindterm_id": [
-			"7cadf24d-88e6-40ce-9d9e-4303d6781817"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "WI/A/V/DomeinE/E1",
@@ -736,51 +386,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "WI/A/H/DomeinA/A1",
-		"id": "c4077610-c010-4ac7-857c-07e761b75f5f",
-		"title": "Subdomein A1: Algemene vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"abd7ec15-0bdf-4c92-ad23-78e344178992"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinA/A2",
-		"id": "05423474-fb1e-4328-ae21-6482a31c15a4",
-		"title": "Subdomein A2: Profielspecifieke vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"5aad61f5-8356-482d-a2e5-d8a1ee255ae6"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinA/A3",
-		"id": "66f4729c-51ab-4b48-8f47-53c8f1751d6e",
-		"title": "Subdomein A3: Wiskundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"6c9d607a-023a-4f22-92f2-fd24071cd999"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinB/B1",
-		"id": "d7daef16-e62a-4848-b13a-8465889c4139",
-		"title": "Subdomein B1: Rekenen",
-		"examenprogramma_eindterm_id": [
-			"65b1f27d-c3d8-497d-b29c-0943881865a9"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinB/B2",
-		"id": "7c3563e0-eac0-4da8-8daa-8fb9bc360186",
-		"title": "Subdomein B2: Algebra",
-		"examenprogramma_eindterm_id": [
-			"a68e6911-11c5-4908-8ca3-d9aabdb7568c"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "WI/A/H/DomeinB/B3",
 		"id": "b0852c43-fba3-4c0a-a260-c9b235b76e3f",
 		"title": "Subdomein B3: Telproblemen",
@@ -788,89 +393,6 @@
 			"164f412e-1e87-4484-9b96-3c916c9efbab"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinC/C1",
-		"id": "1bf7f15d-6a16-4133-84df-7f0d0635f9f2",
-		"title": "Subdomein C1: Tabellen",
-		"examenprogramma_eindterm_id": [
-			"778df9ec-482e-4bf4-830d-db34327d7bbd"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinC/C2",
-		"id": "8f86b44f-94cf-4467-89b1-8fa03fc00901",
-		"title": "Subdomein C2: Grafieken, vergelijkingen en ongelijkheden",
-		"examenprogramma_eindterm_id": [
-			"939b284f-fcc3-4632-83da-d046d4ac6d6f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinC/C3",
-		"id": "9acce30e-edd9-40b6-9532-0dd0be860f34",
-		"title": "Subdomein C3: Formules met één of meer variabelen",
-		"examenprogramma_eindterm_id": [
-			"085f3b01-96a9-4d7a-ab92-8d6f52877dfd"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinC/C4",
-		"id": "bdde1732-993f-4296-b6d1-0132240b018a",
-		"title": "Subdomein C4: Lineaire verbanden",
-		"examenprogramma_eindterm_id": [
-			"ca2a2911-2632-4dbc-a6e9-277ff8729125"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinC/C5",
-		"id": "a432b088-ab57-491a-aacb-d92c835bcfe9",
-		"title": "Subdomein C5: Exponentiële verbanden",
-		"examenprogramma_eindterm_id": [
-			"7813ce75-a5f2-48d3-8d1a-c48571219980"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinE/E1",
-		"id": "e38f47b5-b041-4247-b5d8-375dca43b006",
-		"title": "Subdomein E1: Presentaties van data interpreteren en beoordelen",
-		"examenprogramma_eindterm_id": [
-			"72b08dc2-d1af-4f1b-9f78-a4c2b9b023dc"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinE/E2",
-		"id": "f88dcc0e-a195-4dfe-91d6-8dde9e2086c4",
-		"title": "Subdomein E2: Data verwerken",
-		"examenprogramma_eindterm_id": [
-			"f2381eb1-cc30-4817-a943-47689bb350e5"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinE/E3",
-		"id": "2a27401d-99ff-41c0-aa52-01f8e27fdbfe",
-		"title": "Subdomein E3: Data en verdelingen",
-		"examenprogramma_eindterm_id": [
-			"f998e5fc-6f9a-44b3-95ff-552b151fbea7"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "WI/A/H/DomeinE/E4",
-		"id": "bf6c5f70-190a-4cb8-ae46-d2ec0e5ad5b3",
-		"title": "Subdomein E4: Statistische uitspraken doen",
-		"examenprogramma_eindterm_id": [
-			"94d81374-dcf3-4f76-837f-7693faebf105",
-			"5aa3566e-965b-4b7d-9ef9-976db925a09f",
-			"dd0ab3f3-22c7-4851-912e-f7b8b361eba9"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "WI/A/H/DomeinE/E5",
@@ -900,25 +422,6 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "THT/TV/H/DomeinA/A1",
-		"id": "c0ad0d5f-2295-474e-ba64-81cf8dc6b18c",
-		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"c2036838-a729-4ec3-81d3-9af42dee3434",
-			"3ce8f6c9-0650-4675-9240-bef5cebdbb67"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "THT/TV/H/DomeinA/A2",
-		"id": "d136b697-259e-4940-be21-8efc58b1aa2a",
-		"title": "Subdomein A2: Beschouwen",
-		"examenprogramma_eindterm_id": [
-			"52cca931-9a79-4924-a8d5-f04d5f95cf88"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "THT/T/V/DomeinA/A1",
 		"id": "7618a33a-e6b0-4d27-86a7-53043341c0ff",
 		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
@@ -933,25 +436,6 @@
 		"title": "Subdomein A2: Beschouwen",
 		"examenprogramma_eindterm_id": [
 			"016ae77b-05af-4a12-bb1a-7f777be1daba"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "THT/T/H/DomeinA/A1",
-		"id": "13fc636f-53fb-458e-9159-bdd6174268f5",
-		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"8ff6b96f-16f0-45e7-8b79-7524240c8dfe",
-			"dc1e477f-2510-45d7-9442-9446a4b75915"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "THT/T/H/DomeinA/A2",
-		"id": "9db3f488-e573-4d94-a8a1-e5f832a8063c",
-		"title": "Subdomein A2: Beschouwen",
-		"examenprogramma_eindterm_id": [
-			"0b2b887d-94e4-4a98-8362-7bb0e457e2ef"
 		],
 		"ce_se": "CE"
 	},
@@ -992,74 +476,11 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "SK/V/DomeinA/A5",
-		"id": "403df5a3-5a73-43bf-89cc-58a175c30183",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"d4b55295-3f8e-46b6-a513-bb728d685f99"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A6",
-		"id": "f961f67a-0706-4d8e-9d1c-1a6a2ef82454",
-		"title": "Subdomein A6: Ontwerpen",
-		"examenprogramma_eindterm_id": [
-			"239c379c-867f-4cce-ab94-70022f088c99"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A7",
-		"id": "afee6cc8-27e8-4433-9618-bb1129c8f2dd",
-		"title": "Subdomein A7: Modelvorming",
-		"examenprogramma_eindterm_id": [
-			"afdb29e3-2749-4af5-afe3-dc139b40f35b"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A8",
-		"id": "3a6c997e-d017-41aa-b076-a9f1913a3d36",
-		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
-		"examenprogramma_eindterm_id": [
-			"b4ff69e2-499c-421f-9888-a21e37f330cf"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A9",
-		"id": "1cacab84-7c12-499f-ba6d-bb41b40b193b",
-		"title": "Subdomein A9: Waarderen en oordelen",
-		"examenprogramma_eindterm_id": [
-			"ff2b7839-db45-4074-906f-33563f69be2c"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A10",
-		"id": "74e6177a-4d7b-429e-92fb-21e14a1cd5dd",
-		"title": "Subdomein A10: Toepassen van chemische concepten",
-		"examenprogramma_eindterm_id": [
-			"50ab2108-2db0-41f2-a79d-faf6677d7dd3"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
 		"prefix": "SK/V/DomeinA/A11",
 		"id": "80002b32-854f-41da-ba0b-160f5ac9d57d",
 		"title": "Subdomein A11: Redeneren in termen van context-concept",
 		"examenprogramma_eindterm_id": [
 			"9deb5fb0-3870-4d08-90f6-b3bbf48e2d15"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A12",
-		"id": "008d6732-5bed-4274-9aed-db7bac6b078b",
-		"title": "Subdomein A12: Redeneren in termen van structuur-eigenschappen",
-		"examenprogramma_eindterm_id": [
-			"071d0521-343d-445a-8fe2-78a7864d4200"
 		],
 		"ce_se": "CE; SE"
 	},
@@ -1071,114 +492,6 @@
 			"338c3f1d-758a-47f3-9e2c-d262e79b6a95"
 		],
 		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A14",
-		"id": "c02810e0-97e1-4280-822f-259221728901",
-		"title": "Subdomein A14: Redeneren in termen van duurzaamheid",
-		"examenprogramma_eindterm_id": [
-			"6e76e35c-ffec-4c64-bd13-9ca5c17eb6e2"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinA/A15",
-		"id": "97526bb3-7833-46a0-b2a0-27a3b0381379",
-		"title": "Subdomein A15: Redeneren over ontwikkelen van chemische kennis",
-		"examenprogramma_eindterm_id": [
-			"2d0fbf32-7ef4-4274-b39e-ecd636248e16"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/V/DomeinB/B1",
-		"id": "c0102181-205d-4fd1-924f-256d748cc9f1",
-		"title": "Subdomein B1: Deeltjesmodellen",
-		"examenprogramma_eindterm_id": [
-			"e79a77ed-d025-4e07-b0bc-3f1dd4e12313"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinB/B2",
-		"id": "d23060a4-f3ab-4499-b19e-f94b00c6184c",
-		"title": "Subdomein B2: Eigenschappen en modellen",
-		"examenprogramma_eindterm_id": [
-			"e92a747c-ff37-4df0-b024-3888f843e355"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinB/B3",
-		"id": "4437d38a-3648-4ba6-b774-ebeabf1b26b6",
-		"title": "Subdomein B3: Bindingen en eigenschappen",
-		"examenprogramma_eindterm_id": [
-			"66cd324c-3a61-471c-9136-d82fc94a44d6"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinB/B4",
-		"id": "4708f07a-3f62-404f-ba47-64ed9a893024",
-		"title": "Subdomein B4: Bindingen, structuren en eigenschappen",
-		"examenprogramma_eindterm_id": [
-			"7836631d-2b76-4fd0-af4e-f2afc0233fe1"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinC/C1",
-		"id": "cfb6c284-dde9-4e07-b339-d2bced30f6bd",
-		"title": "Subdomein C1: Chemische processen",
-		"examenprogramma_eindterm_id": [
-			"979d6f1a-6d5e-4cea-b480-ea58bf1b7b1b"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinC/C2",
-		"id": "39233d81-a8fc-4b04-86b3-5c3d129ad6b5",
-		"title": "Subdomein C2: Chemisch rekenen",
-		"examenprogramma_eindterm_id": [
-			"54562663-b603-4dad-a52c-e5ae4718f5e7"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinC/C3",
-		"id": "6130c0d7-3c38-44eb-8137-f068b563f4d8",
-		"title": "Subdomein C3: Behoudswetten en kringlopen",
-		"examenprogramma_eindterm_id": [
-			"fd961d8d-b720-47ab-a866-bc3bce0d1e8e"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinC/C4",
-		"id": "67e7f7b6-bed3-4ed7-a9cb-06f8b98549cb",
-		"title": "Subdomein C4: Reactiekinetiek",
-		"examenprogramma_eindterm_id": [
-			"210329d1-139c-402b-8eb6-b4d2dba8853b"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinC/C5",
-		"id": "89c36d29-4090-45b3-a7c6-86fc0ecc19bc",
-		"title": "Subdomein C5: Chemisch evenwicht",
-		"examenprogramma_eindterm_id": [
-			"20cd3235-9fce-4cdd-a2f7-3b35813cae42"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinC/C6",
-		"id": "8323efa4-dee8-4ecc-b0b5-740925cf71bf",
-		"title": "Subdomein C6: Energieberekeningen",
-		"examenprogramma_eindterm_id": [
-			"2232ef7a-2c0d-4ef5-b133-9d350df0b719"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "SK/V/DomeinC/C7",
@@ -1217,15 +530,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "SK/V/DomeinD/D1",
-		"id": "916d2083-a501-4844-a87a-717facffd02b",
-		"title": "Subdomein D1: Chemische vakmethodes",
-		"examenprogramma_eindterm_id": [
-			"34755136-59bf-438d-a8e0-cab35ad52384"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "SK/V/DomeinD/D2",
 		"id": "136d088a-ab5c-4628-9b7f-bfd444636252",
 		"title": "Subdomein D2: Veiligheid",
@@ -1235,15 +539,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "SK/V/DomeinD/D3",
-		"id": "d9abb9fa-e2eb-45c2-a0c4-bfd94aee5190",
-		"title": "Subdomein D3: Chemische synthese",
-		"examenprogramma_eindterm_id": [
-			"63d22c59-449f-4cf6-b288-74306f7062aa"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "SK/V/DomeinD/D4",
 		"id": "82f97972-2eaf-403f-84da-9613a205d422",
 		"title": "Subdomein D4: Molecular modelling",
@@ -1251,24 +546,6 @@
 			"3bd9914b-8c28-4a75-986c-cb6bafe744e5"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "SK/V/DomeinE/E1",
-		"id": "ebbaf6f5-7e13-4dc1-9f1d-c6ee9c36769e",
-		"title": "Subdomein E1: Chemisch onderzoek",
-		"examenprogramma_eindterm_id": [
-			"e875a430-43e7-403f-853b-79a63a741cfc"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinE/E2",
-		"id": "f550074e-3f35-4dfd-af30-4e74e57edb40",
-		"title": "Subdomein E2: Selectiviteit en specificiteit",
-		"examenprogramma_eindterm_id": [
-			"fe5dafd1-bacf-4edf-9904-a538d49cf10c"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "SK/V/DomeinE/E3",
@@ -1298,33 +575,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "SK/V/DomeinF/F1",
-		"id": "c9bb5471-fce8-46e8-95f2-b64fa25e95d9",
-		"title": "Subdomein F1: Industriële processen",
-		"examenprogramma_eindterm_id": [
-			"79b4e8c7-ff01-458b-8ac3-636cd6f62038"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinF/F2",
-		"id": "cd7b52b5-fb15-41b9-ae88-625edc0ad200",
-		"title": "Subdomein F2: Groene chemie",
-		"examenprogramma_eindterm_id": [
-			"6caeaa90-6de0-4059-b87f-501fbcb3959f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinF/F3",
-		"id": "abb816a1-5272-497a-85ae-51d8b92cce76",
-		"title": "Subdomein F3: Energieomzettingen",
-		"examenprogramma_eindterm_id": [
-			"4674546b-60b2-4f44-bb94-c4838cfd0116"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "SK/V/DomeinF/F4",
 		"id": "3eaacf46-b631-49f2-a217-61a6cae88205",
 		"title": "Subdomein F4: Risico en veiligheid",
@@ -1341,24 +591,6 @@
 			"924db167-5439-40c0-96b6-6b3e15ba3eb6"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "SK/V/DomeinG/G2",
-		"id": "3f606b05-18fd-4245-9bce-cf73e00c439c",
-		"title": "Subdomein G2: Milieueffectrapportage",
-		"examenprogramma_eindterm_id": [
-			"5152af6c-3846-42cf-ade0-60a0fba2806f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/V/DomeinG/G3",
-		"id": "336e0f2d-d2b9-4b56-bdd8-0c0ebd8da47f",
-		"title": "Subdomein G3: Energie en industrie",
-		"examenprogramma_eindterm_id": [
-			"c6ba975d-0a55-404b-a9fd-d2302cd57228"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "SK/V/DomeinG/G4",
@@ -1415,74 +647,11 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "SK/H/DomeinA/A5",
-		"id": "bd42711d-d694-4a76-9009-99d80fb2dcfc",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"85ed101f-f00c-4004-9ed6-22820f7aad77"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A6",
-		"id": "c039c019-e641-45e5-b7e5-c9d3dcee4847",
-		"title": "Subdomein A6: Ontwerpen",
-		"examenprogramma_eindterm_id": [
-			"9b3d693f-1cfd-4758-aaad-debdfb094fc3"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A7",
-		"id": "27b32a06-8706-47cf-a09b-1521a1fc16b3",
-		"title": "Subdomein A7: Modelvorming",
-		"examenprogramma_eindterm_id": [
-			"6dcb9299-6195-4452-9ad5-0abde97a9f86"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A8",
-		"id": "a63a90f4-66d7-464f-b8a6-10645063560b",
-		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
-		"examenprogramma_eindterm_id": [
-			"12032841-7f36-41fe-96c0-528a98a6558f"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A9",
-		"id": "7cb00d7e-5286-4dd3-aa77-8cb16b68b1e5",
-		"title": "Subdomein A9: Waarderen en oordelen",
-		"examenprogramma_eindterm_id": [
-			"9c1e6fbd-1f04-4c67-9961-b0855f787495"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A10",
-		"id": "30e272ae-274c-49e6-ac65-504473bb8811",
-		"title": "Subdomein A10: Gebruiken van chemische concepten",
-		"examenprogramma_eindterm_id": [
-			"7a4641ba-55ac-42ba-8c63-eacdeb1d4b69"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
 		"prefix": "SK/H/DomeinA/A11",
 		"id": "28cbe210-1245-4ded-a0ee-ee366c910275",
 		"title": "Subdomein A11: Redeneren in termen van context-concept",
 		"examenprogramma_eindterm_id": [
 			"c3c1ae99-3982-420d-951f-c55d69f96d8d"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A12",
-		"id": "ab9ab1a7-bf6d-4435-838a-196c674a1602",
-		"title": "Subdomein A12: Redeneren in termen van structuur-eigenschappen",
-		"examenprogramma_eindterm_id": [
-			"887f6019-25e5-421c-9f6d-2c4d0532d505"
 		],
 		"ce_se": "CE; SE"
 	},
@@ -1494,96 +663,6 @@
 			"7ef17d00-61be-48d4-8d03-c7580ce5cdc5"
 		],
 		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A14",
-		"id": "0004ee64-0b8b-41df-98f1-a4971165008f",
-		"title": "Subdomein A14: Redeneren in termen van duurzaamheid",
-		"examenprogramma_eindterm_id": [
-			"6992bdac-5cb7-412b-b9db-229ccc16d35e"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinA/A15",
-		"id": "eaa225fc-5dbe-4cd9-b831-8eacf57a4d33",
-		"title": "Subdomein A15: Redeneren over ontwikkelen van chemische kennis",
-		"examenprogramma_eindterm_id": [
-			"c6748aac-51bf-4a3c-97f3-0f923777b3a6"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "SK/H/DomeinB/B1",
-		"id": "b096d42a-986b-481c-85f9-d83c93c72ee5",
-		"title": "Subdomein B1: Deeltjesmodellen",
-		"examenprogramma_eindterm_id": [
-			"0ecc2f37-9b50-43ef-8479-07b27490773b"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinB/B2",
-		"id": "01329758-c405-468e-8006-01b23327b728",
-		"title": "Subdomein B2: Eigenschappen en modellen",
-		"examenprogramma_eindterm_id": [
-			"f70905b9-79e3-40fd-a773-4e49218db23d"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinB/B3",
-		"id": "28a4aceb-4855-4ca5-b185-96b593c618cb",
-		"title": "Subdomein B3: Bindingen en eigenschappen",
-		"examenprogramma_eindterm_id": [
-			"11eac4d6-7045-4fce-92e2-ce8ff28c35c5"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinB/B4",
-		"id": "cc38be59-26a4-4468-bc57-bd7c89d44658",
-		"title": "Subdomein B4: Bindingen, structuren en eigenschappen",
-		"examenprogramma_eindterm_id": [
-			"43b4c411-0c91-48f0-93b1-0e275ac5f23f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinB/B5",
-		"id": "da9568be-4fb4-43cb-9b1f-644f27abd65c",
-		"title": "Subdomein B5: Macroscopische eigenschappen",
-		"examenprogramma_eindterm_id": [
-			"f4a207d8-3aaf-4c88-8c2e-7ea72cb96fa5"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinC/C1",
-		"id": "2875fce6-d83d-4ff1-88bb-0d68e2a7fb71",
-		"title": "Subdomein C1: Chemische processen",
-		"examenprogramma_eindterm_id": [
-			"1c92ec4f-9564-4176-a1f3-24551bd368d0"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinC/C2",
-		"id": "07265ff9-ff8d-4a6a-8891-771ae6bd04e6",
-		"title": "Subdomein C2: Chemisch rekenen",
-		"examenprogramma_eindterm_id": [
-			"3375252f-03e0-4658-8d1a-603aa23199f6"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinC/C3",
-		"id": "da804908-ca5c-44b3-b41c-b4528727c54c",
-		"title": "Subdomein C3: Energieberekeningen",
-		"examenprogramma_eindterm_id": [
-			"85f0d649-b8df-43f8-a0f4-d420708ad8b5"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "SK/H/DomeinC/C4",
@@ -1604,42 +683,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "SK/H/DomeinC/C6",
-		"id": "bb99ebcc-0d8c-46d2-9beb-abb931321a02",
-		"title": "Subdomein C6: Reactiekinetiek",
-		"examenprogramma_eindterm_id": [
-			"26b4b8e2-bdec-4d35-bbac-3aa7025d5bd1"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinC/C7",
-		"id": "83d537cb-9307-42cc-aad5-3397ad30c42c",
-		"title": "Subdomein C7: Behoudswetten en kringlopen",
-		"examenprogramma_eindterm_id": [
-			"a582dd3e-fc51-4c3c-addb-c32a3c498cd3"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinC/C8",
-		"id": "4067678f-0681-4d3d-848c-ede8c94317c8",
-		"title": "Subdomein C8: Classificatie van reacties",
-		"examenprogramma_eindterm_id": [
-			"38f3369d-8617-4684-a022-ad321d712d27"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "SK/H/DomeinD/D1",
-		"id": "dd3a3568-2d0b-4293-a543-6d58c7151881",
-		"title": "Subdomein D1: Chemische vakmethodes",
-		"examenprogramma_eindterm_id": [
-			"f9aa96ff-e775-4959-8cef-ee8ec6183926"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "SK/H/DomeinD/D2",
 		"id": "73555a95-43dd-4a4c-9853-da5ff7ea2d2f",
 		"title": "Subdomein D2: Veiligheid",
@@ -1649,15 +692,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "SK/H/DomeinD/D3",
-		"id": "9c2bee91-020a-4f0e-a1e5-d6f23e0baa92",
-		"title": "Subdomein D3: Chemische procesontwerpen",
-		"examenprogramma_eindterm_id": [
-			"6b1327da-b25d-4681-8508-3a822cc7644a"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "SK/H/DomeinD/D4",
 		"id": "0c9c9e82-2953-404e-b4e9-920f8bfaf1aa",
 		"title": "Subdomein D4: Molecular modelling",
@@ -1665,15 +699,6 @@
 			"97cfb15e-a264-4c0d-818c-70722ffa6bed"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "SK/H/DomeinE/E1",
-		"id": "8a850433-7693-4267-bd97-da26545f0fa9",
-		"title": "Subdomein E1: Kenmerken van innovatieve processen",
-		"examenprogramma_eindterm_id": [
-			"57667b52-5bc3-433f-817c-c69c2499f657"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "SK/H/DomeinE/E2",
@@ -1694,15 +719,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "SK/H/DomeinF/F1",
-		"id": "e7a4918d-0a44-4158-a77d-63072687b1ca",
-		"title": "Subdomein F1: Industriële processen",
-		"examenprogramma_eindterm_id": [
-			"440a75dd-5e16-4b5c-8f88-fcb44e56c16a"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "SK/H/DomeinF/F2",
 		"id": "47c9f2cb-9ba9-4777-83c2-53a081708952",
 		"title": "Subdomein F2: Procestechnologie en duurzaamheid",
@@ -1710,15 +726,6 @@
 			"ad101bdd-15fc-448d-89fe-cb97c54e01f6"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "SK/H/DomeinF/F3",
-		"id": "17df5cb3-f4d2-41b8-82fd-c2fe41bdf9a7",
-		"title": "Subdomein F3: Energieomzettingen",
-		"examenprogramma_eindterm_id": [
-			"f7a521df-cfdd-4cd8-b7b9-3200e78b4c27"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "SK/H/DomeinF/F4",
@@ -1737,15 +744,6 @@
 			"2fea21ae-ad35-4a98-b680-fbca0b5cb0c7"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "SK/H/DomeinG/G2",
-		"id": "0b61cf85-c903-4f44-99f1-938564f6afa9",
-		"title": "Subdomein G2: Milieueisen",
-		"examenprogramma_eindterm_id": [
-			"a06f9b13-1d0f-4da3-804a-63ebc3ac6d23"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "SK/H/DomeinG/G3",
@@ -2188,74 +1186,11 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "NA/V/DomeinA/A5",
-		"id": "404ab7b2-c9d6-4a99-b5d6-60e0593a0897",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"abaa746c-56a6-4de7-a534-ad875e9d1b72"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/V/DomeinA/A6",
-		"id": "87e6694c-6c39-43a7-8ade-cb5126c2ff33",
-		"title": "Subdomein A6: Ontwerpen",
-		"examenprogramma_eindterm_id": [
-			"9414732a-04d5-4afa-877d-2c8e6361fd76"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/V/DomeinA/A7",
-		"id": "f8076e88-b170-4e84-ab22-6adb2f5e5cf1",
-		"title": "Subdomein A7: Modelvorming",
-		"examenprogramma_eindterm_id": [
-			"728b9526-89b3-42ab-8d0d-8ca76e3dc704"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/V/DomeinA/A8",
-		"id": "2680ee87-88b8-4565-acb5-e8b3d03e4fd5",
-		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
-		"examenprogramma_eindterm_id": [
-			"c9524ca7-d797-4553-a848-f0776bc15400"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/V/DomeinA/A9",
-		"id": "0ea97244-7522-4a6b-8608-5daa41553e76",
-		"title": "Subdomein A9: Waarderen en oordelen",
-		"examenprogramma_eindterm_id": [
-			"9671ac6e-4685-4e90-b29c-a423a2e5b3a6"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
 		"prefix": "NA/V/DomeinA/A10",
 		"id": "61b4b54c-d354-4101-a25d-2919431bf212",
 		"title": "Subdomein A10: Kennisontwikkeling en -toepassing",
 		"examenprogramma_eindterm_id": [
 			"64e58fb1-615b-4041-b35b-99fd76c08719"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/V/DomeinA/A11",
-		"id": "5ea76914-64dc-4b7a-89b6-db1c42039ff2",
-		"title": "Subdomein A11: Technisch-instrumentele vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"317b21f1-fbe8-46b1-9437-8e9722c9cf7d"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/V/DomeinA/A12",
-		"id": "5fc94461-c778-4251-ab86-ccb6485d362a",
-		"title": "Subdomein A12: Rekenkundige en wiskundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"541371c3-ece3-4f98-8fe3-e634c7215589"
 		],
 		"ce_se": "CE; SE"
 	},
@@ -2278,78 +1213,6 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "NA/V/DomeinA/A15",
-		"id": "28b923fd-26e0-416f-b7a7-a3dfdb08f580",
-		"title": "Subdomein A15: Kwantificeren en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"de78e88a-8a91-401e-b069-85a398e77db2"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/V/DomeinB/B1",
-		"id": "a4353659-d35a-4340-827b-043a58eb2fcd",
-		"title": "Subdomein B1: Informatieoverdracht",
-		"examenprogramma_eindterm_id": [
-			"975e8f13-91db-4c7f-85ea-f294c6ed636b"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/V/DomeinB/B2",
-		"id": "d36edf07-f655-4806-8728-0606d7769a1a",
-		"title": "Subdomein B2: Medische beeldvorming",
-		"examenprogramma_eindterm_id": [
-			"de23f8f5-77ea-48a9-87ac-58ad37047005"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/V/DomeinC/C1",
-		"id": "a164f225-6002-41ad-b1fb-bee2719b6445",
-		"title": "Subdomein C1: Kracht en beweging",
-		"examenprogramma_eindterm_id": [
-			"d11aa1b6-2994-43cd-8908-37bd535bc5a2"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/V/DomeinC/C2",
-		"id": "2708d102-b6cf-41e7-bc98-a84e850d70f9",
-		"title": "Subdomein C2: Energie en wisselwerking",
-		"examenprogramma_eindterm_id": [
-			"d441e477-cfb9-48f0-9163-1585ce30184f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/V/DomeinC/C3",
-		"id": "b637834f-3037-4369-aed6-e1eb6d2968bc",
-		"title": "Subdomein C3. Gravitatie",
-		"examenprogramma_eindterm_id": [
-			"0f4fb8bf-987f-4a74-a3d7-ad4908bec68b"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/V/DomeinD/D1",
-		"id": "ec4d9764-d159-40ed-8266-f3d46d5e21b5",
-		"title": "Subdomein D1: Elektrische systemen",
-		"examenprogramma_eindterm_id": [
-			"7dd9e461-a738-4835-bdc6-62b754ed9789"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/V/DomeinD/D2",
-		"id": "356dc118-4358-4931-a280-a752bc085719",
-		"title": "Subdomein D2: Elektrische en magnetische velden",
-		"examenprogramma_eindterm_id": [
-			"be6953da-563b-44ec-a7fa-bf8c909ca73c"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "NA/V/DomeinE/E1",
 		"id": "7394859e-54d0-4e91-ae60-e9ff2ab0c943",
 		"title": "Subdomein E1: Eigenschappen van stoffen en materialen",
@@ -2359,15 +1222,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "NA/V/DomeinE/E2",
-		"id": "be59dc19-f7a2-4bd8-8d6e-8bf0f51f1ea8",
-		"title": "Subdomein E2: Elektromagnetische straling en materie",
-		"examenprogramma_eindterm_id": [
-			"0b63ceb3-984a-489f-86be-2e8816edcaf6"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "NA/V/DomeinE/E3",
 		"id": "47319b32-9061-4314-9207-0cdd58e57ccf",
 		"title": "Subdomein E3: Kern- en deeltjesprocessen*",
@@ -2375,15 +1229,6 @@
 			"90b1bbd6-eb94-4b0d-8d34-fdb71f24efab"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "NA/V/DomeinF/F1",
-		"id": "be071f52-86a8-4636-8979-91a8d0e51b72",
-		"title": "Subdomein F1: Quantumwereld",
-		"examenprogramma_eindterm_id": [
-			"efcc671d-f652-4945-8c98-f611f0f86304"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "NA/V/DomeinF/F2",
@@ -2476,74 +1321,11 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "NA/H/DomeinA/A5",
-		"id": "ebcd7629-22a3-47a6-af07-cc8b2d3d7283",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"08822e2d-b8f2-49df-b5c6-ec73266535bd"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/H/DomeinA/A6",
-		"id": "d0f5b78e-0ef3-477b-9c9a-b082a4ba1f4f",
-		"title": "Subdomein A6: Ontwerpen",
-		"examenprogramma_eindterm_id": [
-			"5ec04067-d8be-410f-a306-68b03921e76f"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/H/DomeinA/A7",
-		"id": "4ba07a9f-ed43-41d9-9fc2-f67690270391",
-		"title": "Subdomein A7: Modelvorming",
-		"examenprogramma_eindterm_id": [
-			"e9b56f2d-57df-4109-bde8-65c335f1d5f4"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/H/DomeinA/A8",
-		"id": "23be58f2-069f-4933-91d0-c1a510e74c17",
-		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
-		"examenprogramma_eindterm_id": [
-			"91154918-ca09-4b0e-8c85-d19f7bbb208a"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/H/DomeinA/A9",
-		"id": "d6e03327-92f2-4ef8-8ece-ac7eb71c7c4e",
-		"title": "Subdomein A9: Waarderen en oordelen",
-		"examenprogramma_eindterm_id": [
-			"630de87f-a02d-433b-9c67-d4d26cd49a99"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
 		"prefix": "NA/H/DomeinA/A10",
 		"id": "8ae9178c-d86e-4a2d-ab67-6a9aa39dd16e",
 		"title": "Subdomein A10: Kennisontwikkeling en -toepassing",
 		"examenprogramma_eindterm_id": [
 			"bb5a75f7-f54b-4454-81a9-c252807c8608"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/H/DomeinA/A11",
-		"id": "a97eb1d8-b1ff-4979-a0ea-38974a451971",
-		"title": "Subdomein A11: Technisch-instrumentele vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"c4ff8f0c-2385-47f3-819b-651202b9b88d"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/H/DomeinA/A12",
-		"id": "b71c8cd4-5d45-40c2-a60c-332b2df837d8",
-		"title": "Subdomein A12: Rekenkundige en wiskundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"f25dabc0-aa2f-40e9-8800-05acfb81e465"
 		],
 		"ce_se": "CE; SE"
 	},
@@ -2566,33 +1348,6 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "NA/H/DomeinA/A15",
-		"id": "5b51c44e-abc1-41cd-8b0b-b95086bde1cd",
-		"title": "Subdomein A15: Kwantificeren en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"8e6a420f-e84e-4370-95c6-0e74c720ad26"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "NA/H/DomeinB/B1",
-		"id": "6c51ee1c-fd73-407e-93b8-78995228058d",
-		"title": "Subdomein B1: Informatieoverdracht",
-		"examenprogramma_eindterm_id": [
-			"374e603c-dd57-4e07-b057-99378756cb01"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/H/DomeinB/B2",
-		"id": "4db94034-c83b-449a-9671-f46275027131",
-		"title": "Subdomein B2: Medische beeldvorming",
-		"examenprogramma_eindterm_id": [
-			"2501e97c-8029-48d7-8064-b142bef10646"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "NA/H/DomeinB/B3",
 		"id": "211b6b82-c121-438e-a7d9-9b0bab436183",
 		"title": "Subdomein B3: Optica*",
@@ -2600,33 +1355,6 @@
 			"d7fbe934-baae-437c-aa6a-440a7733d45d"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "NA/H/DomeinC/C1",
-		"id": "4d9c2bbd-65c0-42ce-b89d-0114d8b54ba6",
-		"title": "Subdomein C1: Kracht en beweging",
-		"examenprogramma_eindterm_id": [
-			"009237ba-6582-41ce-a2ad-d748c53184df"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/H/DomeinC/C2",
-		"id": "6982603f-ad2a-4ed4-bffe-0f35fa43193c",
-		"title": "Subdomein C2: Energieomzettingen",
-		"examenprogramma_eindterm_id": [
-			"88d5f97c-1c05-4401-814b-7e3fdca53a38"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "NA/H/DomeinD/D1",
-		"id": "c3c9b6ab-a0f3-40a8-89d2-6a0464cb5030",
-		"title": "Subdomein D1: Eigenschappen van stoffen en materialen",
-		"examenprogramma_eindterm_id": [
-			"54a52e50-a0d5-4f1b-90c2-915e9493c17e"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "NA/H/DomeinD/D2",
@@ -2638,15 +1366,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "NA/H/DomeinE/E1",
-		"id": "7508584e-e1a1-486a-8557-bf9946448f31",
-		"title": "Subdomein E1: Zonnestelsel en heelal",
-		"examenprogramma_eindterm_id": [
-			"26613491-6ebb-4d2f-9e79-db1e36eecbf0"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "NA/H/DomeinE/E2",
 		"id": "fb36c037-623f-443a-aa6a-25c8b468dafe",
 		"title": "Subdomein E2: Aarde en klimaat*",
@@ -2654,15 +1373,6 @@
 			"f2f469ea-5d34-4d1d-898a-4899d6085257"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "NA/H/DomeinG/G1",
-		"id": "b69eb934-a998-4c55-9b7a-0034c085bae9",
-		"title": "Subdomein G1: Gebruik van elektriciteit",
-		"examenprogramma_eindterm_id": [
-			"c7249681-88fe-40d6-b715-bef5413fcf90"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "NA/H/DomeinG/G2",
@@ -2752,43 +1462,6 @@
 		],
 		"ce_se": "SE",
 		"prefix": "MVT/EN/H/DomeinE/E1"
-	},
-	{
-		"prefix": "MU/V/DomeinA/A1",
-		"id": "aac7cedb-2861-4549-a159-e769027f8eb5",
-		"title": "Subdomein A1: Waarnemen en weten",
-		"examenprogramma_eindterm_id": [
-			"fc003bc0-9db9-4a15-a3d0-7f4b15e00779",
-			"b8ed391f-782f-4c24-925e-35564492b872",
-			"bfccb849-7191-4a92-bf7f-fc14490b7e4c"
-		],
-		"dirty": true,
-		"ce_se": ""
-	},
-	{
-		"prefix": "MU/V/DomeinA/A2",
-		"id": "0f86c886-a889-4912-b4d2-b82294a25992",
-		"title": "Subdomein A2: Analyseren en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"420dbe92-92f0-40cf-9626-ce73e8bea1d3",
-			"a4fa9078-5523-4fdb-8fe4-b2db75e3f7ee",
-			"93c9a579-1e6f-46e8-8e9d-8826d47f90ed"
-		],
-		"dirty": true,
-		"ce_se": ""
-	},
-	{
-		"prefix": "MU/V/DomeinA/A3",
-		"id": "0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2",
-		"title": "Subdomein A3: Muziek en cultuur",
-		"examenprogramma_eindterm_id": [
-			"a3cd32db-98cf-4435-a655-5a0ba6611b8c",
-			"2250e2e7-094e-4153-94a4-9d8f1b8a0200",
-			"f79f12cd-44f8-4750-beb1-f740fd737c41",
-			"9b751973-4956-4ae2-9f59-200b993ca785"
-		],
-		"dirty": true,
-		"ce_se": ""
 	},
 	{
 		"prefix": "MU/V/DomeinB/B1",
@@ -3160,192 +1833,6 @@
 			"39a4db5f-3149-496e-bdf0-6d2cb0e6a1fa"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/H/DomeinA/A1",
-		"id": "ea237727-d455-4cca-9694-c7702b01faae",
-		"title": "Subdomein A1: Informatievaardigheden",
-		"examenprogramma_eindterm_id": [
-			"a66ec364-385e-41ed-8678-8083d851f4a8",
-			"777c65d8-78ad-4df5-9a3f-b57b6d5075d1",
-			"5dcf44be-1a22-4600-881c-0624490ef9f5"
-		],
-		"ce_se": "SE; CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinA/A2",
-		"id": "54162a44-3dd6-4cef-97e5-8e80e5bfc506",
-		"title": "Subdomein A2: Concept-contextbenadering",
-		"examenprogramma_eindterm_id": [
-			"edde833b-994d-4a2c-a935-386b509c3e31",
-			"f6321009-b1dc-4577-9553-12e1b2a42e2d",
-			"a995e725-d7b4-4256-8085-3ffb15c89f39",
-			"03ff7c0d-080e-48e5-8494-e8b050a37730"
-		],
-		"ce_se": "SE; CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinA/A3",
-		"id": "281247f7-caac-4eac-8de0-44faff96d2ad",
-		"title": "Subdomein A3: Onderzoeksvaardigheden",
-		"examenprogramma_eindterm_id": [
-			"c958d10e-ef93-44d1-999c-24086a7466d6",
-			"2b66de54-f9ca-4190-8b01-c71401258842"
-		],
-		"ce_se": "SE; CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinB/B1",
-		"id": "77fbd901-79fa-445e-adf4-b1df6211ede9",
-		"title": "Subdomein B1: Socialisatie",
-		"examenprogramma_eindterm_id": [
-			"56f2d4fe-acb6-4773-91f0-bfd17425a419",
-			"83700e85-3639-4a68-8d97-fce2360fa237"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinB/B2",
-		"id": "87a71a62-1abb-4158-bbe4-b19a9d03687f",
-		"title": "Subdomein B2: Politieke socialisatie",
-		"examenprogramma_eindterm_id": [
-			"d8ccd376-d8a5-4787-a37f-76f8d650de5a",
-			"5bf67519-c986-487f-aed6-b194e8a94910"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinB/B3",
-		"id": "72ae40b4-ab5b-4391-a91b-92dcc0779405",
-		"title": "Subdomein B3: Socialisatie binnen een specifieke context",
-		"examenprogramma_eindterm_id": [
-			"047efcdd-ea1c-4645-8522-f685e2c9afde",
-			"4f612852-00be-4458-8519-ffcfb9ec3ec6"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinB/B4",
-		"id": "ee20a5b3-5afd-430a-9c44-c7504ab93038",
-		"title": "Subdomein B4:  Overheidsbeleid en standpunten van politieke partijen",
-		"examenprogramma_eindterm_id": [
-			"f8b9b6cf-16a3-4a6b-af8e-49ad1f7a318b",
-			"2a67a2e7-b806-4f44-bb1a-96ae6ef7fe7a"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinC/C1",
-		"id": "3551ed9a-97d6-4846-9713-237ebb7d294f",
-		"title": "Subdomein C1: Sociale ongelijkheid",
-		"examenprogramma_eindterm_id": [
-			"05a342be-5b00-4c52-97ce-d6c9a2af8f9f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinC/C2",
-		"id": "9ec9311c-a64a-4be9-a8d0-e323b35ab9ec",
-		"title": "Subdomein C2: Macht en gezag",
-		"examenprogramma_eindterm_id": [
-			"c5fb17c9-859b-4805-8c03-18f47c30e1ea",
-			"57bff776-4f95-4554-9cd6-d338847fc1c3"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinC/C3",
-		"id": "762b6a59-7259-4bef-9662-4988b8098c88",
-		"title": "Subdomein C3: Maatschappelijke en politieke conflecten en samenwerking",
-		"examenprogramma_eindterm_id": [
-			"e3571daa-e654-469c-a99e-58c1f47e1cf1",
-			"0b314c2e-4886-457a-bb52-6d6506d09d47"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinC/C4",
-		"id": "3f94bcd1-f933-486c-ad54-1053fe544e8b",
-		"title": "Subdomein C4: Sociale ongelijkheid binnen een specifieke context",
-		"examenprogramma_eindterm_id": [
-			"d946dab6-f95f-45e3-91de-946b8111d2bd",
-			"143c1330-38d2-4d18-9250-9be038b272e0"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinC/C5",
-		"id": "a249ec62-3077-4f26-8326-759f4cd57473",
-		"title": "Subdomein C5: Maatschappelijke ontwikkelingen die van invloed zijn op sociale ongelijkheid binnen een specifieke context",
-		"examenprogramma_eindterm_id": [
-			"93a6e64b-f601-42ce-a78d-dbf8d686594f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinC/C6",
-		"id": "f43ca5d5-6182-47fd-9bc3-587d040284c6",
-		"title": "Subdomein C6:  Overheidsbeleid en standpunten van de politieke partijen",
-		"examenprogramma_eindterm_id": [
-			"765b2b2c-217d-409a-9899-4d73ffefbe64"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinD/D1",
-		"id": "1020bfee-e3ac-487c-875c-321aacb5c1d6",
-		"title": "Subdomein D1: Sociale cohesie: mate van binding",
-		"examenprogramma_eindterm_id": [
-			"bacc7f2b-e378-4888-badc-d54cc30b02fe",
-			"0d7134ef-9750-407f-b610-b93160bde722"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinD/D2",
-		"id": "93e65fbb-cd11-43f6-b4c8-093de02f4a5a",
-		"title": "Subdomein D2: Politieke instituties en representatie/representativiteit",
-		"examenprogramma_eindterm_id": [
-			"9c4ba972-6213-427f-a9d8-efc2947f71f3",
-			"b927677e-5b41-4f97-9fd0-2147c809e610"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinD/D3",
-		"id": "f1fbb357-d3b9-4eaf-832a-6351a38bf010",
-		"title": "Subdomein D3: Bedreigingen voor de bindingen in de samenleving binnen een specifieke context",
-		"examenprogramma_eindterm_id": [
-			"81a68fd8-1473-49bb-b980-8a0780cb3f7d"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinD/D4",
-		"id": "4bad25a7-8f30-472d-a2bc-1bade620ef30",
-		"title": "Subdomein D4: Overheidsbeleid en standpunten van politieke partijen",
-		"examenprogramma_eindterm_id": [
-			"884f7a40-dfa1-4657-a55f-d0bf65211541"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinE/E1",
-		"id": "19dc19e8-a627-44eb-8070-e0be220cd62c",
-		"title": "Subdomein E1: Veranderingsprocessen rationalisering, individualisering en institutionalisering",
-		"examenprogramma_eindterm_id": [
-			"c4a8084f-d2da-49ac-b095-96f1bee84728"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "MAW/H/DomeinE/E2",
-		"id": "b603399a-185b-467d-a3b8-47095c4a5e2e",
-		"title": "Subdomein E2: Veranderingsprocessen staatsvorming, democratisering en globalisering",
-		"examenprogramma_eindterm_id": [
-			"0efe9a9e-463c-4a55-8ad7-b1a24c42296a"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "MAW/H/DomeinE/E3",
@@ -5291,45 +3778,6 @@
 		]
 	},
 	{
-		"prefix": "THT/H/V/DomeinA/A1",
-		"id": "fec4f085-a150-4de2-8985-f798f0ff4ae8",
-		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"4ae7430d-c23a-4fe2-9cf0-dc0c818f6afb"
-		],
-		"ce_se": "CE",
-		"dirty": true
-	},
-	{
-		"prefix": "THT/H/V/DomeinA/A2",
-		"id": "e13d8f16-62d9-4608-95b3-23100c1bc7b9",
-		"title": "Subdomein A2: Beschouwen",
-		"examenprogramma_eindterm_id": [
-			"5bd571a7-6243-4bea-af94-c9276f41a501"
-		],
-		"ce_se": "CE",
-		"dirty": true
-	},
-	{
-		"prefix": "THT/H/H/DomeinA/A1",
-		"id": "427578d1-46a3-4514-84bc-345345632958",
-		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"75ae4c8a-a19f-49a2-968c-10fb14d7bdc1",
-			"2df5b95c-a324-409e-a139-7a715ad2727a"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "THT/H/H/DomeinA/A2",
-		"id": "1fa96651-0e96-47e3-8cb5-cb4966d48e3b",
-		"title": "Subdomein A2: Beschouwen",
-		"examenprogramma_eindterm_id": [
-			"bff26e6e-beaa-4f01-bd20-b75ae05b2714"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "GTC/V/DomeinA/A1",
 		"title": "Subdomein A1: Reflectie op klassieke teksten",
 		"id": "f797a22f-89eb-4b77-bd1a-486ead7bd58c",
@@ -6006,51 +4454,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/V/DomeinA/A5",
-		"id": "cc460084-0d1b-4b00-aa8b-46ccd1339d62",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"714e7e4e-108f-4f6a-92b7-6251c18153f6"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/V/DomeinA/A6",
-		"id": "ad7df1de-e486-4026-a3c3-18a966a0fd0b",
-		"title": "Subdomein A6: Ontwerpen",
-		"examenprogramma_eindterm_id": [
-			"10ab0c6b-54b7-4d1c-b365-2e327d900f48"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/V/DomeinA/A7",
-		"id": "6f3c1468-0838-4b84-8cde-e018da503ba6",
-		"title": "Subdomein A7: Modelvorming",
-		"examenprogramma_eindterm_id": [
-			"c11366dc-bec8-4dec-8419-0dfdfcaa97f5"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/V/DomeinA/A8",
-		"id": "c92cdada-88ab-4b9c-a2ba-a7705c911665",
-		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
-		"examenprogramma_eindterm_id": [
-			"4972c191-1d64-4590-aa9c-f377fec194b0"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/V/DomeinA/A9",
-		"id": "481ab8b5-7a75-4831-9fdb-994dd94725ed",
-		"title": "Subdomein A9: Waarderen en oordelen",
-		"examenprogramma_eindterm_id": [
-			"5ee131b3-947c-4dcd-81ee-ef04a4a5fbda"
-		],
-		"ce_se": "SE"
-	},
-	{
 		"prefix": "BIO/V/DomeinA/A10",
 		"id": "e7751084-bf2f-4f19-b395-3f293c921f3f",
 		"title": "Subdomein A10: Beleven",
@@ -6114,51 +4517,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/V/DomeinB/B1",
-		"id": "ce190ebe-2010-45fe-8713-bb5ef5ba81a7",
-		"title": "Subdomein B1: Eiwitsynthese",
-		"examenprogramma_eindterm_id": [
-			"25d34c29-2d42-4f27-b903-b6c28928c016"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinB/B2",
-		"id": "b548ec00-389e-4094-9a4f-818b3df4f49f",
-		"title": "Subdomein B2: Stofwisseling van de cel",
-		"examenprogramma_eindterm_id": [
-			"b9eacde1-9cf0-4e9c-b130-b361b9764fae"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinB/B3",
-		"id": "c89e8e15-a482-4c37-a793-efe95a49ca94",
-		"title": "Subdomein B3: Stofwisseling van het organisme",
-		"examenprogramma_eindterm_id": [
-			"a403d5eb-fb6c-4622-9dbf-7d4775b15bc9"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinB/B4",
-		"id": "a0c155ca-4780-4b54-abcf-f9eb94761f20",
-		"title": "Subdomein B4: Zelfregulatie van het organisme",
-		"examenprogramma_eindterm_id": [
-			"c4fba48a-8e57-4298-8935-3fa2cd2a508c"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinB/B5",
-		"id": "abd3a30e-54b0-4a65-bad1-7e519f002627",
-		"title": "Subdomein B5: Afweer van het organisme",
-		"examenprogramma_eindterm_id": [
-			"cea5ad1f-312a-4255-a1f4-c796532152b4"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BIO/V/DomeinB/B6",
 		"id": "136d9c56-7bce-4fa7-95b5-479521ffce6e",
 		"title": "Subdomein B6: Beweging van het organisme",
@@ -6177,24 +4535,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/V/DomeinB/B8",
-		"id": "7c8edcd5-c9e8-4c88-a633-a24e9090aa9b",
-		"title": "Subdomein B8: Regulatie van ecosystemen",
-		"examenprogramma_eindterm_id": [
-			"e8a581b3-c05c-42db-9c0b-d935da62334f"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinC/C1",
-		"id": "85dd3f5d-9a62-4cc9-a5de-add7e4442b5b",
-		"title": "Subdomein C1: Zelforganisatie van cellen",
-		"examenprogramma_eindterm_id": [
-			"a429bb50-fe34-4c63-966f-0729283f6914"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BIO/V/DomeinC/C2",
 		"id": "e6266c11-665f-412a-948b-9c13032c557d",
 		"title": "Subdomein C2: Zelforganisatie van het organisme",
@@ -6202,33 +4542,6 @@
 			"83d1595d-b5ac-4b42-af78-a46a026c3abb"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/V/DomeinC/C3",
-		"id": "bc9cc003-c551-40bd-8664-42c12af5242d",
-		"title": "Subdomein C3: Zelforganisatie van ecosystemen",
-		"examenprogramma_eindterm_id": [
-			"e0e724ef-d1d0-4664-81ec-36e61fff5a5e"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinD/D1",
-		"id": "f90f9217-a906-44f4-aafb-a690c50ff066",
-		"title": "Subdomein D1: Moleculaire interactie",
-		"examenprogramma_eindterm_id": [
-			"e0761a0d-566b-480e-a2bb-6c8a94a3b519"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinD/D2",
-		"id": "e287aec4-dc07-46ef-b1a7-b86514acbec6",
-		"title": "Subdomein D2: Cellulaire interactie",
-		"examenprogramma_eindterm_id": [
-			"002574b6-a3d3-4f1c-927d-8d8390a52068"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "BIO/V/DomeinD/D3",
@@ -6249,15 +4562,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/V/DomeinD/D5",
-		"id": "32da7f42-9352-4a9f-b91a-edcbc83bec32",
-		"title": "Subdomein D5: Interactie in ecosystemen",
-		"examenprogramma_eindterm_id": [
-			"b737b775-4f95-4517-9966-c8971a34c8e4"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BIO/V/DomeinE/E1",
 		"id": "82c4561a-771f-4de9-b0a9-58d24e7e2f01",
 		"title": "Subdomein E1: DNA-replicatie",
@@ -6274,33 +4578,6 @@
 			"13566776-40fe-41e9-81cc-6de020322e77"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/V/DomeinE/E3",
-		"id": "fe872250-91af-4958-99a6-006eeed22da2",
-		"title": "Subdomein E3: Reproductie van het organisme",
-		"examenprogramma_eindterm_id": [
-			"7548ae2f-2150-4b52-96c6-893a81b2f709"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinF/F1",
-		"id": "e944370f-5659-4c27-83cb-9849f0a248b4",
-		"title": "Subdomein F1: Selectie",
-		"examenprogramma_eindterm_id": [
-			"c19ccd1b-ce3c-463d-bfa6-914c1f4417a4"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/V/DomeinF/F2",
-		"id": "3387d24a-17fb-41ab-acf6-71e8bb660ff4",
-		"title": "Subdomein F2: Soortvorming",
-		"examenprogramma_eindterm_id": [
-			"b525aa75-bdef-467d-990b-8efd1068da36"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "BIO/V/DomeinF/F3",
@@ -6353,53 +4630,6 @@
 		"title": "Subdomein A4: Studie en beroep",
 		"examenprogramma_eindterm_id": [
 			"48accfe0-9502-411e-9aca-e2d5195812a3"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/H/DomeinA/A5",
-		"id": "3c59fbbb-b1dd-4f8f-956e-9f1ccb7bb57f",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"e3abbbcd-fe65-45dc-90b6-d2109fd202de",
-			"17cc37d9-5b06-4cf0-8258-e18886434a67"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/H/DomeinA/A6",
-		"id": "b6ad3ce6-5340-43bf-906a-100266f8077f",
-		"title": "Subdomein A6: Ontwerpen",
-		"examenprogramma_eindterm_id": [
-			"fa474649-98d9-4ccf-8079-605b1a364858"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/H/DomeinA/A7",
-		"id": "a1900183-7d9f-4002-a46c-12f72364ccc0",
-		"title": "Subdomein A7: Modelvorming",
-		"examenprogramma_eindterm_id": [
-			"a70b9394-c42b-4ed9-bf0e-b03585154a0c",
-			"3abdfb46-50e0-44be-acf5-c13e419d4259"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/H/DomeinA/A8",
-		"id": "d6567712-8db6-4e48-97d1-b2e4c591d57c",
-		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
-		"examenprogramma_eindterm_id": [
-			"f8b4fe11-3941-4b47-aa16-8514acbb880a"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/H/DomeinA/A9",
-		"id": "8620a719-cd47-41f4-bef1-e8c17971441e",
-		"title": "Subdomein A9: Waarderen en oordelen",
-		"examenprogramma_eindterm_id": [
-			"28fe4ea1-8b9b-41df-b30c-94c0167149e7"
 		],
 		"ce_se": "SE"
 	},
@@ -6476,42 +4706,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/H/DomeinB/B2",
-		"id": "0c65bc2f-709a-4c79-adbc-5f3ff3150667",
-		"title": "Subdomein B2: Stofwisseling van de cel",
-		"examenprogramma_eindterm_id": [
-			"f28944bf-307e-4c4a-a315-061b6ca4cfa2"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/H/DomeinB/B3",
-		"id": "6e1d64e7-7517-4694-be2e-a4315ab2c9e1",
-		"title": "Subdomein B3: Stofwisseling van het organisme",
-		"examenprogramma_eindterm_id": [
-			"106e2e52-a220-49a9-b440-4c0233c81c58"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/H/DomeinB/B4",
-		"id": "9d581f88-fa74-4177-a952-4984efd7a1a9",
-		"title": "Subdomein B4: Zelfregulatie van het organisme",
-		"examenprogramma_eindterm_id": [
-			"23bb1875-62af-4fff-9890-1edbe6b0442e"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/H/DomeinB/B5",
-		"id": "f133f33e-3610-42ed-bcfe-664993472ad7",
-		"title": "Subdomein B5: Afweer van het organisme",
-		"examenprogramma_eindterm_id": [
-			"6ca20d4c-ac8c-4944-90d7-9bbdecaabe82"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BIO/H/DomeinB/B6",
 		"id": "9d8ba5a9-f418-4033-ae15-32b23a51650b",
 		"title": "Subdomein B6: Beweging van het organisme",
@@ -6519,33 +4713,6 @@
 			"e487b117-5509-449b-b65a-dc3849060bca"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BIO/H/DomeinB/B7",
-		"id": "6dd80bd2-ffd1-4a5d-9550-b4f1ca37af31",
-		"title": "Subdomein B7: Waarneming door het organisme",
-		"examenprogramma_eindterm_id": [
-			"2a2cd20b-e33f-4450-8142-e166b449bf01"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/H/DomeinB/B8",
-		"id": "31254f62-c885-416a-bdb3-3ccd62775d2b",
-		"title": "Subdomein B8: Regulatie van ecosystemen",
-		"examenprogramma_eindterm_id": [
-			"78c16470-2136-4d88-9d95-def5238043a8"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/H/DomeinC/C1",
-		"id": "d933296f-60ae-4a83-93c8-7d293fd0e110",
-		"title": "Subdomein C1: Zelforganisatie van cellen",
-		"examenprogramma_eindterm_id": [
-			"88b554f7-bd1c-4318-8c93-b6ffbbb94ddb"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "BIO/H/DomeinC/C2",
@@ -6593,15 +4760,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/H/DomeinD/D4",
-		"id": "f24b85bc-7439-405a-8af9-34a8d2e6d49c",
-		"title": "Subdomein D4: Interactie in ecosystemen",
-		"examenprogramma_eindterm_id": [
-			"f9deb3f0-1f6d-459a-bb45-97a562d5a3ef"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BIO/H/DomeinE/E1",
 		"id": "f9a81fd6-f8f4-4db8-b7ab-ba75b3f5f5b6",
 		"title": "Subdomein E1: DNA-replicatie",
@@ -6629,33 +4787,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/H/DomeinE/E4",
-		"id": "87959da5-bcdb-48b8-a181-0c8c03c69fff",
-		"title": "Subdomein E4: Erfelijke eigenschap",
-		"examenprogramma_eindterm_id": [
-			"1dd09ee9-164f-4e55-bcb7-ef0bdcd91b9a"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/H/DomeinF/F1",
-		"id": "93308eaa-c8f7-4bfd-8dd6-54d8668943af",
-		"title": "Subdomein F1: Selectie",
-		"examenprogramma_eindterm_id": [
-			"d4ac182f-f956-423a-9edc-f693e55d6dee"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BIO/H/DomeinF/F2",
-		"id": "05c1bf43-0376-4487-bcb2-d300c731cec2",
-		"title": "Subdomein F2: Soortvorming",
-		"examenprogramma_eindterm_id": [
-			"9a041bd9-7e08-45c7-a428-407559a5e338"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BIO/H/DomeinF/F3",
 		"id": "c7ddb7c0-69d0-4409-9e33-80fdb29d0a4b",
 		"title": "Subdomein F3: Biodiversiteit",
@@ -6663,15 +4794,6 @@
 			"416bc70d-4539-4540-aaec-42db694c721b"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BE/V/DomeinA/A1",
-		"id": "7ac7b22b-c676-40c8-b136-d3c5816d0c61",
-		"title": "Subdomein A1: Informatievaardigheden gebruiken",
-		"examenprogramma_eindterm_id": [
-			"dad9c0f0-d9e6-48f6-98a8-b1d0d3e15f07"
-		],
-		"ce_se": "CE; SE"
 	},
 	{
 		"prefix": "BE/V/DomeinA/A2",
@@ -6701,71 +4823,6 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "BE/V/DomeinA/A5",
-		"id": "c79501e9-dd04-4a08-8a31-955239b4ea3d",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"2d1421fb-48a7-4e99-b45c-46766272609b"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/V/DomeinA/A6",
-		"id": "201e4e3a-893b-4573-b949-d9e8145ef178",
-		"title": "Subdomein A6: Benaderingswijzen",
-		"examenprogramma_eindterm_id": [
-			"ff7585b9-b5fc-4d7a-a4e3-ba1445363348",
-			"cf126395-d3c7-4bee-9692-08f08c51fa98",
-			"9011a16d-e675-482b-bf14-ab281d72422a",
-			"e2da6114-f223-4988-987e-e30d96f65a69",
-			"67ca8457-400e-4b7b-aa23-bde580aed9d2",
-			"8d4d6de1-608d-477f-b2d7-dcae2f2f664b",
-			"3b96caa8-0426-4d20-861f-4212f01d2b6f",
-			"eedcc74e-5168-4515-8e16-7453c543e80e",
-			"73f5aac8-636f-492e-9cec-caf53075606c",
-			"61f2120c-bd0f-4b0b-89c3-b5afc042cf1b",
-			"4efcace8-7339-47c9-a3de-b4fb78219c90",
-			"44375210-826e-4ed0-a516-69c6acbc22fc"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/V/DomeinB/B1",
-		"id": "29ebeb20-14d9-408d-819e-d6718f75cea4",
-		"title": "Subdomein B1: Persoonlijke financiële redzaamheid",
-		"examenprogramma_eindterm_id": [
-			"f54a0a2f-d5c0-46fb-933e-144890a1ce18"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/V/DomeinB/B2",
-		"id": "2c56d990-18c8-41b1-ba4a-2ec1ce59c94c",
-		"title": "Subdomein B2: De oprichting van een eenmanszaak",
-		"examenprogramma_eindterm_id": [
-			"36d62437-add2-4dbd-9141-2d799e83a3c7"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/V/DomeinB/B3",
-		"id": "22da9062-3e65-4b07-9a28-b76cd47fd9f6",
-		"title": "Subdomein B3: Van eenmanszaak naar rechtspersoon",
-		"examenprogramma_eindterm_id": [
-			"cc5a5987-5723-4040-8100-ca8185179a78"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/V/DomeinB/B4",
-		"id": "ca1c0d3f-88d1-4a57-a99a-805d3e46c9fb",
-		"title": "Subdomein B4: Perspectief op de organisatie",
-		"examenprogramma_eindterm_id": [
-			"c9238336-d24e-47ba-8a3d-d68eb0ac165b"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
 		"prefix": "BE/V/DomeinC/C1",
 		"id": "b44d8a7b-49ab-41ea-8b9c-72ed948a7e27",
 		"title": "Subdomein C1: Interne organisatie",
@@ -6774,15 +4831,6 @@
 			"df40e33f-985b-4087-a406-e3d5b44000d7"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BE/V/DomeinC/C2",
-		"id": "7a4bdffc-1ab6-40ff-926e-132e071e8322",
-		"title": "Subdomein C2: Personeelsbeleid",
-		"examenprogramma_eindterm_id": [
-			"766fae65-5a7e-453e-b1f6-873944238c1b"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "BE/V/DomeinD/D1",
@@ -6795,17 +4843,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BE/V/DomeinD/D2",
-		"id": "7b807c3f-d26e-4f9c-ad37-1ceec18b5a5c",
-		"title": "Subdomein D2: Financieren",
-		"examenprogramma_eindterm_id": [
-			"5c72e164-f8d6-4d0c-99e3-6c1752d59896",
-			"f15aa5a8-61c5-4720-81a5-14d08b98a570",
-			"0891eb25-13fa-4986-ab75-9b35a791d158"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BE/V/DomeinE/E1",
 		"id": "3aa938bb-f660-4850-8e88-24598dfd79f4",
 		"title": "Subdomein E1: Doel en organisatie van marketingactiviteiten",
@@ -6816,15 +4853,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BE/V/DomeinE/E2",
-		"id": "bfa5f5df-748b-4594-8e3b-01354e11ef82",
-		"title": "Subdomein E2: Marketingbeleid",
-		"examenprogramma_eindterm_id": [
-			"22124844-67bc-4c3b-b216-2d9476777d16"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BE/V/DomeinE/E3",
 		"id": "abd11fe9-9265-4a0f-b503-5a00fdcb203b",
 		"title": "Subdomein E3: Marketing vanuit het perspectief van de consument en de samenleving",
@@ -6833,35 +4861,6 @@
 			"345cd9d6-0246-4d26-b818-40e10928c968"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BE/V/DomeinF/F1",
-		"id": "96e31fd2-accf-4a45-96df-1ecd2d2995f4",
-		"title": "Subdomein F1: Vastleggen van financiële en niet-financiële informatie",
-		"examenprogramma_eindterm_id": [
-			"1c5e073f-361a-4bd1-8c94-1f0bd9a613ba",
-			"b1cfa131-e72f-4b11-8b1f-91f381a97af4"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BE/V/DomeinF/F2",
-		"id": "d0020e39-5c2c-40a4-985a-4bca2f055baa",
-		"title": "Subdomein F2: Kosten- en winstvraagstukken en beheermaatregelen",
-		"examenprogramma_eindterm_id": [
-			"aa099103-33f2-401c-8f48-007fcd4b81dc",
-			"681a7baf-bc42-47aa-8582-567701479e41"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BE/H/DomeinA/A1",
-		"id": "6be8384e-29a3-4767-9278-f8a3a6f88651",
-		"title": "Subdomein A1: Informatievaardigheden gebruiken",
-		"examenprogramma_eindterm_id": [
-			"581e037a-56f8-455d-b57b-f8712efdc6da"
-		],
-		"ce_se": "CE; SE"
 	},
 	{
 		"prefix": "BE/H/DomeinA/A2",
@@ -6891,71 +4890,6 @@
 		"ce_se": "CE; SE"
 	},
 	{
-		"prefix": "BE/H/DomeinA/A5",
-		"id": "f8d3b98c-69ce-417a-9052-814a36390255",
-		"title": "Subdomein A5: Onderzoeken",
-		"examenprogramma_eindterm_id": [
-			"378ca422-5d5b-4c11-b64e-7e30b0db3006"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/H/DomeinA/A6",
-		"id": "b02f0fc1-80ae-48bb-8df4-7b26ebe75460",
-		"title": "Subdomein A6: Benaderingswijzen",
-		"examenprogramma_eindterm_id": [
-			"39ec981d-f255-4f77-963b-ff344118a53d",
-			"b15399ca-1283-4729-99fa-e7428b6b1738",
-			"b165ebea-1d7d-45f9-91f5-6263e086fda5",
-			"e4d95546-2397-402d-9b7f-2f3bd0aa0606",
-			"7aadae3d-7e29-4264-8463-b17e776c5ba7",
-			"e7601ad4-0078-457c-8bda-f55b8b6d5886",
-			"079c2ef0-9d78-4176-acc8-84a768ad5e8d",
-			"28c8c764-425b-469d-a2dc-a0101d6767c0",
-			"7f74e82b-e720-4325-bb93-a79a984bd3ef",
-			"dc3472f5-3d20-47a0-a7a7-43e44a6ed521",
-			"a01ad9d5-99ce-4447-9624-fe4234f63e41",
-			"233ad165-d835-476f-9045-5f378648c42b"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/H/DomeinB/B1",
-		"id": "39524397-521e-4c49-8c58-f5bfbf2206ac",
-		"title": "Subdomein B1: Persoonlijke financiële redzaamheid",
-		"examenprogramma_eindterm_id": [
-			"cc0d7162-ff46-4080-a5b2-f47b7ae1f41d"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/H/DomeinB/B2",
-		"id": "f6419ea4-b20f-40cc-b868-a3d45f11d6bf",
-		"title": "Subdomein B2: De oprichting van een eenmanszaak",
-		"examenprogramma_eindterm_id": [
-			"86a20bc5-5021-469f-97c4-fd42142b8b1d"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/H/DomeinB/B3",
-		"id": "d9233c53-c000-4d5d-be58-aca9d50d7e89",
-		"title": "Subdomein B3: Van eenmanszaak naar rechtspersoon",
-		"examenprogramma_eindterm_id": [
-			"af1daaa8-cf10-4d96-91da-59225b8317c0"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"prefix": "BE/H/DomeinB/B4",
-		"id": "61566f53-4fae-43fc-843f-16411e9a95a7",
-		"title": "Subdomein B4: Perspectief op de organisatie",
-		"examenprogramma_eindterm_id": [
-			"bfd2b815-9d9d-4e42-974e-c3ee1b735d22"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
 		"prefix": "BE/H/DomeinC/C1",
 		"id": "463fb73a-1c12-4829-bf83-0db1a3990389",
 		"title": "Subdomein C1: Interne organisatie",
@@ -6963,15 +4897,6 @@
 			"82227957-1337-4029-a60f-e2ed37b66983"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BE/H/DomeinC/C2",
-		"id": "be187128-6a4e-49a7-a37f-2f8b9e5cb470",
-		"title": "Subdomein C2: Personeelsbeleid",
-		"examenprogramma_eindterm_id": [
-			"185cf54f-8835-4a27-af49-be9ed99f5a89"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "BE/H/DomeinD/D1",
@@ -6983,17 +4908,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BE/H/DomeinD/D2",
-		"id": "945181ef-96ad-41b5-8167-24a768a62c6d",
-		"title": "Subdomein D2: Financieren",
-		"examenprogramma_eindterm_id": [
-			"405ca3fd-c731-4a8f-b2fc-f14677adc03e",
-			"2dcc1f49-8c86-4608-9a7d-804e22acdfdd",
-			"a71428de-c563-4aa6-b71a-40109e9556a6"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "BE/H/DomeinE/E1",
 		"id": "31eba33d-aa22-4427-92e6-d0e87a6adec4",
 		"title": "Subdomein E1: Doel en organisatie van marketingactiviteiten",
@@ -7001,34 +4915,6 @@
 			"36dcb8ad-7946-4f9f-ab43-a8c750ff08f5"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "BE/H/DomeinE/E2",
-		"id": "fe284707-3bbd-4d6d-abd3-9bd073754e1b",
-		"title": "Subdomein E2: Marketingbeleid",
-		"examenprogramma_eindterm_id": [
-			"d7f01b71-a1e4-4e04-bc8d-c1e06361103e"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BE/H/DomeinF/F1",
-		"id": "196ad69b-e06c-4872-8a94-b66b79a92364",
-		"title": "Subdomein F1: Vastleggen van financiële en niet-financiële informatie",
-		"examenprogramma_eindterm_id": [
-			"439b7592-f5e3-4941-a04f-341a73d6ae75",
-			"07fb9848-ebd8-487b-90c1-bbe5802f2bba"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "BE/H/DomeinF/F2",
-		"id": "90e12cdf-ff61-4ef3-9897-a036ae9cfdd7",
-		"title": "Subdomein F2: Kosten- en winstvraagstukken",
-		"examenprogramma_eindterm_id": [
-			"0ed26769-0b5b-4ebc-bfa0-a59af0f9f998"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "ANW/V/DomeinA/A1",
@@ -7377,16 +5263,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "AK/V/DomeinA/A1",
-		"id": "606657d1-5ec5-4f98-9cdb-8ae2c2db1aff",
-		"title": "Subdomein A1: Geografische benadering",
-		"examenprogramma_eindterm_id": [
-			"e8dfc8d1-9f65-486e-8c68-e955d10dacbd",
-			"ac0507a6-ac25-44b0-8355-11ae2f37bbd6",
-			"99f84e49-ece7-45ff-8385-b02acb7ad481"
-		]
-	},
-	{
 		"prefix": "AK/V/DomeinA/A2",
 		"id": "5b983b9b-b57e-4685-aa4a-b36d2abab514",
 		"title": "Subdomein A2: Geografisch onderzoek",
@@ -7595,16 +5471,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "AK/H/DomeinB/B2",
-		"id": "d6d5435e-fb28-481e-8813-01d187130e73",
-		"title": "Subdomein B2: Samenhangen en verschillen in de wereld",
-		"examenprogramma_eindterm_id": [
-			"7db4405a-ea3d-48f0-a1f1-5a2330889c74",
-			"54bf972b-fb44-4f5e-ae7b-f37845522ded"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "AK/H/DomeinB/B3",
 		"id": "e32a453b-9b13-4ee3-adeb-b781fae21bc6",
 		"title": "Subdomein B3: Mondiale processen en lokale effecten",
@@ -7625,16 +5491,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "AK/H/DomeinC/C2",
-		"id": "15e550de-b304-459a-9fbb-5af70396f67d",
-		"title": "Subdomein C2: Samenhangen en verschillen op aarde",
-		"examenprogramma_eindterm_id": [
-			"8449c9ce-f8ca-49eb-9c4b-a3468b663dd1",
-			"3e445646-70d4-4db4-ae6b-f89e11b38913"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "AK/H/DomeinC/C3",
 		"id": "2fcd6493-eae7-4c60-bf6d-be8a72ba9458",
 		"title": "Subdomein C3: De aarde als natuurlijk systeem en lokale effecten",
@@ -7643,16 +5499,6 @@
 			"40c5295b-fe34-4e61-b423-5d9a068818c6"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "AK/H/DomeinD/D1",
-		"id": "e348697b-75bb-4ac0-a742-975c4b97109b",
-		"title": "Subdomein D1: Gebiedskenmerken",
-		"examenprogramma_eindterm_id": [
-			"d18be974-1bb8-4839-8ca2-1327183fd180",
-			"f714d17b-45ef-4b64-9a59-9416f1f301c7"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "AK/H/DomeinD/D2",
@@ -7665,16 +5511,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "AK/H/DomeinE/E1",
-		"id": "28af3ffc-4448-46a5-bbcc-fe37a9fa905a",
-		"title": "Subdomein E1: Nationale en regionale vraagstukken",
-		"examenprogramma_eindterm_id": [
-			"75ecb67d-4fa6-456e-920d-caf6006f143c",
-			"c0a6d118-9998-40bb-883a-4ae007397235"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "AK/H/DomeinE/E2",
 		"id": "864741bf-65fd-42f3-b593-19afcb453f11",
 		"title": "Subdomein E2: Regionale en lokale vraagstukken",
@@ -7682,15 +5518,6 @@
 			"baa82feb-2446-4f6b-9158-0ce2cb4c4917"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "AK/H/DomeinG/G1",
-		"id": "fb68453a-6cea-468f-811e-e4b85aa55672",
-		"title": "Subdomein G1: Chemie van het leven",
-		"description": "",
-		"examenprogramma_eindterm_id": [
-			"4198160b-0f19-4cbc-8897-c8075339333d"
-		]
 	},
 	{
 		"prefix": "MVT/DUI/V/DomeinC/C1",
@@ -7995,35 +5822,6 @@
 		"examenprogramma_eindterm_id": [
 			"6b2793c4-9473-41a9-9881-75aa4236698b"
 		]
-	},
-	{
-		"examenprogramma_eindterm_id": [
-			"3030dae8-81bb-4b0f-a1e0-16b72cdfd44b",
-			"adade8c3-3020-4f90-8589-2ed13f8fd9de",
-			"65e66b3d-5aa6-42ce-ac8c-d9c5ddb9e5e5",
-			"d3d4d049-3d47-4832-83fa-8d5ab986c234",
-			"f534c214-5cc6-4b0e-ad67-62ccdb85b32f",
-			"115b0e6b-c859-4ea0-bd07-7e158469f577"
-		],
-		"title": "Subdomein A1: Analyseren en interpreteren",
-		"id": "6b0fd50e-3533-4d56-9e1d-84d74df57127",
-		"prefix": "NE/V/DomeinA/A1"
-	},
-	{
-		"examenprogramma_eindterm_id": [
-			"dc15494c-1d6c-4f4d-829b-87a028321ff9"
-		],
-		"title": "Subdomein A2: Beoordelen",
-		"id": "b8e7abbe-bbec-4594-8ed1-69ad6d483d0f",
-		"prefix": "NE/V/DomeinA/A2"
-	},
-	{
-		"examenprogramma_eindterm_id": [
-			"51ef2584-410f-4362-8bd8-9ca3014d7041"
-		],
-		"title": "Subdomein A3: Samenvatten",
-		"id": "5f941f76-c88b-4f6b-aed8-596a8facc946",
-		"prefix": "NE/V/DomeinA/A3"
 	},
 	{
 		"examenprogramma_eindterm_id": [
@@ -8570,18 +6368,6 @@
 		"title": "Subdomein E1: Literaire ontwikkeling"
 	},
 	{
-		"prefix": "SK/V/DomeinG/G1",
-		"id": "c6f6acdd-cb84-4e98-8932-ab65136f426c",
-		"title": "Subdomein G1: Chemie van het leven",
-		"examenprogramma_eindterm_id": [
-			"e879bb15-20a9-4281-b8ea-cfe156c88ab5"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"e92b6b4f-0818-4d22-a79a-e12d600edce0"
-		]
-	},
-	{
 		"id": "5fb557d1-ff0b-4e65-8ad1-fa9aaa17b099",
 		"title": "Subdomein E1: Literaire ontwikkeling",
 		"examenprogramma_eindterm_id": [
@@ -8591,44 +6377,6 @@
 		"prefix": "NE/H/DomeinE/E1",
 		"replaces": [
 			"ed0b3da6-fd7a-4e13-a7de-afb9615168ae"
-		]
-	},
-	{
-		"title": "Subdomein A3: Benaderingswijzen",
-		"id": "c9c33653-0d7d-4242-a79d-2fd4146408a6",
-		"examenprogramma_eindterm_id": [
-			"474cb0a4-c020-486b-b714-4baf6793a58b",
-			"2c573b22-c5bb-4f9b-81dc-a227dbbd36eb",
-			"07dcd0bf-1f59-45dc-bb4b-f797b0bffd49"
-		],
-		"ce_se": "CE; SE",
-		"prefix": "MAW/V/DomeinA/A3",
-		"replaces": [
-			"c8ed89fa-6adf-40af-9634-5a1d1e046400"
-		]
-	},
-	{
-		"title": "Subdomein B1: Socialisatie",
-		"id": "14b24fee-8194-4259-ac83-d214a2d17b08",
-		"examenprogramma_eindterm_id": [
-			"99f8baac-a2b3-41f2-ba86-2069e4f42040"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinB/B1",
-		"replaces": [
-			"ab7c8e53-1963-42a5-a2b3-4fb1b9b38858"
-		]
-	},
-	{
-		"title": "Subdomein B2: Politieke socialisatie",
-		"id": "1d7c1846-8bd6-489b-aead-f3c9adeb3d38",
-		"examenprogramma_eindterm_id": [
-			"ba62876d-881e-4ad8-8e2d-1b57b1a5fb96"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinB/B2",
-		"replaces": [
-			"41f1624e-f04a-4b65-a3a6-06d60ca42f33"
 		]
 	},
 	{
@@ -8653,162 +6401,6 @@
 		"prefix": "MAW/V/DomeinB/B4",
 		"replaces": [
 			"56e69f31-21d9-441f-9d11-2895c90b8a0f"
-		]
-	},
-	{
-		"title": "Subdomein C1: Verhoudingen: nationaal en internationaal",
-		"id": "ddb05787-75e1-4f3c-9c6f-e2256feaad57",
-		"examenprogramma_eindterm_id": [
-			"84796e26-1bb2-4a9e-9cb2-be49c17779c1"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinC/C1",
-		"replaces": [
-			"7a9bd011-97e0-44c1-88cd-5689d894e0a3"
-		]
-	},
-	{
-		"title": "Subdomein C2: Macht en gezag",
-		"id": "2fac3170-22d3-4e7c-8b19-493b064e4cdd",
-		"examenprogramma_eindterm_id": [
-			"ebf2f359-ce82-4f4c-846f-595528de7d95"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinC/C2",
-		"replaces": [
-			"ea50f734-eae6-45da-ae3c-182fcf33f767"
-		]
-	},
-	{
-		"title": "Subdomein C3: Internationale conflicten en internationale samenwerking",
-		"id": "0146296a-fb76-4b13-91f8-e5b825864fbb",
-		"examenprogramma_eindterm_id": [
-			"60571d9d-a216-4e1b-9729-f31cd0b5e385"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinC/C3",
-		"replaces": [
-			"804537eb-c8b3-4fca-9f97-f8520501feba"
-		]
-	},
-	{
-		"title": "Subdomein C4: Machtsverhoudingen binnen een specifieke context",
-		"id": "3a2dd424-67fd-469a-a890-63d9946dac91",
-		"examenprogramma_eindterm_id": [
-			"96cb989b-f43d-4006-8dc5-7f74f0d1b5a8"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinC/C4",
-		"replaces": [
-			"0aaa5efa-a81b-47e0-9f0d-fe2ee7f56f1b"
-		]
-	},
-	{
-		"title": "Subdomein C5: Overheidsbeleid ten aanzien van het buitenland",
-		"id": "efce342c-6b3a-4f70-92fa-215020bd60e2",
-		"examenprogramma_eindterm_id": [
-			"92f1de91-dfa2-426e-ab55-1faab22eef33"
-		],
-		"ce_se": "CE",
-		"prefix": "MAW/V/DomeinC/C5",
-		"replaces": [
-			"982685ed-ae23-44f1-b6d8-c7de8bf18665"
-		]
-	},
-	{
-		"title": "Subdomein D1: Sociale cohesie: mate van binding",
-		"id": "05edfe4f-050f-498c-bd09-27613cffafea",
-		"examenprogramma_eindterm_id": [
-			"840278d4-6015-4790-b0ad-5daa18449aa8"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinD/D1",
-		"replaces": [
-			"3b4bcc6b-8bed-4eaa-979c-3935e1b55302"
-		]
-	},
-	{
-		"title": "Subdomein D2: Politieke instituties en representatie/ representativiteit",
-		"id": "c63933e2-9e18-4d1d-b8b4-1711d933fc16",
-		"examenprogramma_eindterm_id": [
-			"6e81eeb3-c51d-401b-8a5a-1b0df5b53ee7"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinD/D2",
-		"replaces": [
-			"958b8c8d-a368-49c9-91b7-82cedde6c101"
-		]
-	},
-	{
-		"title": "Subdomein D3: Voorbeeld binnen een specifieke context van effecten van ontwikkelingen op politieke bindingen in een samenleving",
-		"id": "b32e0ce2-c6be-4590-9bb5-a985c5d4f99f",
-		"examenprogramma_eindterm_id": [
-			"f75577f0-855f-4029-93f7-f421e2f81bec"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinD/D3",
-		"replaces": [
-			"89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3"
-		]
-	},
-	{
-		"title": "Subdomein D4: Voorbeeld binnen een specifieke context van effecten van ontwikkelingen op affectieve bindingen in een samenleving",
-		"id": "e430d19a-c1d8-4da0-8544-ffda9b4f75cd",
-		"examenprogramma_eindterm_id": [
-			"5caf5d95-2395-49c0-817c-a307d3cc67b9"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinD/D4",
-		"replaces": [
-			"d718e7e1-2cb0-4e52-9e44-967ec9db7eb4"
-		]
-	},
-	{
-		"title": "Subdomein E1: Veranderingsprocessen rationalisering, individualisering en institutionalisering",
-		"id": "20eeeed2-4a67-4b86-8cd3-32ca83b7484b",
-		"examenprogramma_eindterm_id": [
-			"7c38aad4-27e5-4296-a0ff-2bd425ffcf0c"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinE/E1",
-		"replaces": [
-			"98e55553-55ed-485f-9724-5d0ce30b42e1"
-		]
-	},
-	{
-		"title": "Subdomein E2: Veranderingsprocessen staatsvorming, democratisering en globalisering",
-		"id": "c4271ec0-6138-4c34-b901-84e23712bd4e",
-		"examenprogramma_eindterm_id": [
-			"9b88280f-ad13-482a-94e4-5355a9754f87"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinE/E2",
-		"replaces": [
-			"c250a4d1-73c7-49cb-9d1b-5ff458c6eae1"
-		]
-	},
-	{
-		"title": "Subdomein E3: Effecten van veranderingen binnen een specifieke context op andere maatschappelijke vraagstukken",
-		"id": "28a9d5f6-19cc-41a2-91cd-f0725f0f4a1b",
-		"examenprogramma_eindterm_id": [
-			"17c03980-2112-4e87-ae3b-f4dad5a986b7"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinE/E3",
-		"replaces": [
-			"1d37b9ba-ae5a-48d5-a668-eb32e89916b5"
-		]
-	},
-	{
-		"title": "Subdomein E4: Standpunten van aanhangers van politieke stromingen over vraagstukken die samenhangen met veranderingsprocessen ",
-		"id": "a75f6c10-9bf2-4427-a59d-ed8282f15b99",
-		"examenprogramma_eindterm_id": [
-			"b947fcba-94ee-49e9-8ca6-f7c1f09d1cbf"
-		],
-		"ce_se": "SE",
-		"prefix": "MAW/V/DomeinE/E4",
-		"replaces": [
-			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b"
 		]
 	},
 	{
@@ -8898,47 +6490,6 @@
 		]
 	},
 	{
-		"prefix": "NE/H/DomeinA/A1",
-		"id": "2ca69949-4c35-42b1-8ac5-ffbe6fa169d9",
-		"title": "Subdomein A1: Analyseren en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"4ceacc74-68ca-4d11-8e74-caae8ce91fff",
-			"fab01c3b-7b49-4b04-a368-24992c50a247",
-			"f4c9de16-76ba-43e9-b9e3-3ab8517d1b72",
-			"cea109ba-1410-42b9-9676-fe9953e7bf7a",
-			"ec2b4b2d-a62c-4bf0-87fd-fcf07e354bc1",
-			"e434a4f5-44ae-4842-8807-36d5e0e49cd2"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"b2521853-310f-475e-ab1e-26f0fc3cbab7"
-		]
-	},
-	{
-		"prefix": "NE/H/DomeinA/A2",
-		"id": "5c947890-96be-4c4f-b8d4-48b71f4db134",
-		"title": "Subdomein A2: Beoordelen",
-		"examenprogramma_eindterm_id": [
-			"8222b1b5-2243-42b8-9e7c-271247a8da96"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"5cfa5a96-acba-47c0-83dc-5ac3e6d1ef1e"
-		]
-	},
-	{
-		"prefix": "NE/H/DomeinA/A3",
-		"id": "f0d3c6c5-ce5d-49a3-b858-677c53b0fd8d",
-		"title": "Subdomein A3: Samenvatten",
-		"examenprogramma_eindterm_id": [
-			"22f24979-ad33-4850-ab05-1a9ced428c6e"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"1ab5dce6-2809-4317-9f7b-bf19345c3644"
-		]
-	},
-	{
 		"id": "6de971ef-fc90-4c96-af7e-b26069074d21",
 		"title": "Subdomein E2: Literaire begrippen",
 		"examenprogramma_eindterm_id": [
@@ -8961,36 +6512,6 @@
 		"replaces": [
 			"f483b93f-aa2b-4365-81a6-2b3c348fd3db"
 		]
-	},
-	{
-		"prefix": "MU/H/DomeinA/A1",
-		"id": "e2013900-ad4e-4655-b3f5-50d97a920afc",
-		"title": "Subdomein A1: Waarnemen en weten",
-		"examenprogramma_eindterm_id": [
-			"934b9287-2a6f-4188-9b24-963f4549e32d",
-			"ae71574c-fa95-4419-add6-709e9969ad81",
-			"8ae8541e-8ccf-46be-93ab-fab55a77a032"
-		],
-		"replaces": [
-			"1c3d18d1-424f-4227-bc47-9300fb89172d"
-		],
-		"dirty": true,
-		"ce_se": ""
-	},
-	{
-		"prefix": "MU/H/DomeinA/A2",
-		"id": "fe710258-9341-4d54-b735-a0385d955cb8",
-		"title": "Subdomein A2: Analyseren en interpreteren",
-		"examenprogramma_eindterm_id": [
-			"0de3474c-39ce-4616-9f62-99c6848d162f",
-			"07e0d32d-df43-4c04-9335-3e9247c454e5",
-			"e46ef52f-6438-4777-aea5-cffcb9c22c6f"
-		],
-		"replaces": [
-			"421a2f95-efde-459a-bdfd-a9fae3b0c7cf"
-		],
-		"dirty": true,
-		"ce_se": ""
 	},
 	{
 		"prefix": "MU/H/DomeinA/A3",
@@ -9029,29 +6550,6 @@
 		"replaces": [
 			"f439f4ce-e854-4eda-8183-d701ece2aab5"
 		]
-	},
-	{
-		"id": "9012fd63-22d7-4b82-872a-16b675e8f9cb",
-		"title": "Subdomein A1: Informatievaardigheden",
-		"examenprogramma_eindterm_id": [
-			"9ecd9277-327f-4ba9-8152-bbffa977256c",
-			"33b7ef1b-8902-4969-99fa-8ffea058aedf",
-			"ff6a5fca-52ab-4087-8db1-8af68eefdfba"
-		],
-		"ce_se": "CE; SE",
-		"prefix": "MAW/V/DomeinA/A1",
-		"replaces": [
-			"925f09fa-fed5-4fc1-9e53-ace39ecb999c"
-		]
-	},
-	{
-		"id": "8223d9e5-ad60-4fb2-849c-8875503287ef",
-		"prefix": "WI/C/V/DomeinA/A3",
-		"title": "Subdomein A3: Wiskundige vaardigheden",
-		"examenprogramma_eindterm_id": [
-			"eeeec97d-18b4-41c0-a4cb-5b5346c45e8d"
-		],
-		"description": ""
 	},
 	{
 		"id": "b3e75a9e-f9dc-4b2b-8674-17960c17093b",
@@ -9259,42 +6757,6 @@
 		]
 	},
 	{
-		"prefix": "WI/A/V/DomeinC/C1",
-		"id": "eb3922b7-0f42-4c57-86c0-a14bedafd7d5",
-		"title": "Subdomein C1: Standaardfuncties",
-		"examenprogramma_eindterm_id": [
-			"92320da5-5b01-43cd-b686-ff6dee9c5a51"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"d7f94ae5-fe8a-4e3c-b326-bd7264ad3b62"
-		]
-	},
-	{
-		"prefix": "WI/A/V/DomeinC/C2",
-		"id": "c33c7c2b-6c9e-491d-b1cf-aac9ac9c5b7d",
-		"title": "Subdomein C2: Functies, grafieken, vergelijkingen en ongelijkheden",
-		"ce_se": "CE",
-		"examenprogramma_eindterm_id": [
-			"f1218c2e-e96a-41b4-ba1f-c9baf2dbaf9d"
-		],
-		"replaces": [
-			"bead96c3-a4e5-480c-8881-091dac8cbdb1"
-		]
-	},
-	{
-		"id": "5ae1d13e-dfbb-4845-8e20-cd9ec1cf1853",
-		"title": "Subdomein D5: Overheidsbeleid en standpunten van politieke partijen",
-		"description": "",
-		"prefix": "MAW/V/DomeinD/D5",
-		"examenprogramma_eindterm_id": [
-			"d1d93e74-826e-4043-80a5-a056e85e46db"
-		],
-		"replaces": [
-			"cbcfd73d-2be0-4536-afeb-02fc6a1d347f"
-		]
-	},
-	{
 		"ce_se": "SE",
 		"examenprogramma_eindterm_id": [
 			"dc865f14-05e8-465b-8d6e-ef49241ccf00"
@@ -9321,44 +6783,6 @@
 		"replaces": [
 			"8589f4d6-6257-4bec-9ce8-fb80ef3cc186",
 			"d8721452-6d7f-447b-8deb-08fca58caa1d"
-		]
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F3",
-		"id": "ca87f930-bc07-4488-b677-cffae4e3eb25",
-		"title": "Subdomein F3: Overheidsbeleid",
-		"examenprogramma_eindterm_id": [
-			"1b6377f9-018f-4575-a7df-7e533b94c3e1",
-			"74c811c4-ed88-47a2-99df-b8f07455df88"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99"
-		]
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F4",
-		"id": "ab9c1f4c-6cee-4d4e-9007-256e57905fe1",
-		"title": "Subdomein F4: Functies van straffen",
-		"examenprogramma_eindterm_id": [
-			"90863ea4-be2b-4019-92d4-14e888634e89"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"54dc4b60-d876-4007-80f0-ec0f6cd32e60"
-		]
-	},
-	{
-		"prefix": "MAW/V/DomeinG/G5",
-		"id": "3ec12fe7-86ee-46e5-a2b2-9c8b4326281a",
-		"title": "Subdomein G5: Milieu en cultuur",
-		"examenprogramma_eindterm_id": [
-			"25d166e8-83a9-4995-8950-d9442c467b9a",
-			"4e5a2417-f25c-41c7-831f-9517156c58ad"
-		],
-		"ce_se": "SE",
-		"replaces": [
-			"b52d219f-d26f-40fe-8559-e93ebfbbf312"
 		]
 	},
 	{
@@ -9398,28 +6822,13 @@
 		]
 	},
 	{
-		"prefix": "AK/H/DomeinA/A1",
-		"id": "32bed071-2ebd-41f8-a1cd-74b1fbf0347c",
-		"title": "Subdomein A1: Geografische benadering",
-		"examenprogramma_eindterm_id": [
-			"1cc802a0-93e4-4e46-b3c6-6577ba055046",
-			"f30785d5-8cc4-48d2-ad6b-0026ff65e77b",
-			"2adb6958-435d-4a60-828a-5814adac4f4f"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"7a894a09-cfaa-49e2-9ea1-7e320e055d78"
-		]
-	},
-	{
 		"ce_se": "SE",
 		"prefix": "ANW/H/DomeinA/A2",
 		"examenprogramma_eindterm_id": [
 			"07806cc2-7d64-4ee7-a910-5f7170bac9ae"
 		],
 		"title": "Subdomein A2: Reken-/wiskundige vaardigheden",
-		"id": "4c23a080-0538-4a5e-882e-e0da3fe1671b",
-		"unreleased": true
+		"id": "4c23a080-0538-4a5e-882e-e0da3fe1671b"
 	},
 	{
 		"ce_se": "SE",
@@ -9428,8 +6837,7 @@
 			"5bbe3838-9dc0-4f65-9926-bb31a0bfd184"
 		],
 		"title": "Subdomein A4: Technisch-instrumentele vaardigheden",
-		"id": "da9fc532-6cef-442a-bdca-56067fc4c613",
-		"unreleased": true
+		"id": "da9fc532-6cef-442a-bdca-56067fc4c613"
 	},
 	{
 		"ce_se": "SE",
@@ -9438,8 +6846,7 @@
 			"3548097c-5bad-4d6e-a52d-e0c0478b3b0d"
 		],
 		"title": "Subdomein A5: Ontwerpvaardigheden",
-		"id": "578abb9e-d18a-4f72-aa98-11d9283ca2bf",
-		"unreleased": true
+		"id": "578abb9e-d18a-4f72-aa98-11d9283ca2bf"
 	},
 	{
 		"ce_se": "SE",
@@ -9448,8 +6855,7 @@
 			"9162e5aa-7371-4b2a-a217-a0714ab1f3fe"
 		],
 		"title": "Subdomein C3: Evolutie van het leven",
-		"id": "7bef3070-b41d-49a7-9846-51db8a322039",
-		"unreleased": true
+		"id": "7bef3070-b41d-49a7-9846-51db8a322039"
 	},
 	{
 		"id": "86e3f784-a935-468b-8de5-4fc9e37cd433",
@@ -9462,7 +6868,6 @@
 	},
 	{
 		"id": "57e83bb5-0b29-4c9c-9744-a3020bde609b",
-		"dirty": "1",
 		"prefix": "WI/C/V/DomeinE/E5",
 		"title": "Kansverdelingen",
 		"ce_se": "SE",
@@ -9472,7 +6877,6 @@
 	},
 	{
 		"id": "52409590-064c-402c-a679-b36f81034f83",
-		"dirty": "1",
 		"prefix": "MVT/AR/V/DomeinE/E3",
 		"title": "Subdomein E3: Literatuurgeschiedenis",
 		"ce_se": "SE",
@@ -9482,12 +6886,3330 @@
 	},
 	{
 		"id": "d439f4bc-10d5-45b6-982c-1a061e5cb5bf",
-		"dirty": "1",
 		"prefix": "MVT/AR/V/DomeinE/E2",
 		"title": "Subdomein E2: Literaire begrippen",
 		"ce_se": "CE",
 		"examenprogramma_eindterm_id": [
 			"70a59d27-f103-4355-90a2-087a14e88f25"
+		]
+	},
+	{
+		"prefix": "MU/V/DomeinA/A1",
+		"id": "829d5196-9566-43ab-af2a-6533788a7314",
+		"title": "Subdomein A1: Waarnemen en weten",
+		"examenprogramma_eindterm_id": [
+			"fc003bc0-9db9-4a15-a3d0-7f4b15e00779",
+			"b8ed391f-782f-4c24-925e-35564492b872",
+			"bfccb849-7191-4a92-bf7f-fc14490b7e4c"
+		],
+		"ce_se": "",
+		"replaces": [
+			"aac7cedb-2861-4549-a159-e769027f8eb5"
+		]
+	},
+	{
+		"prefix": "MU/V/DomeinA/A2",
+		"id": "8323c9ed-207e-4f30-9c71-d50e462fea22",
+		"title": "Subdomein A2: Analyseren en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"420dbe92-92f0-40cf-9626-ce73e8bea1d3",
+			"a4fa9078-5523-4fdb-8fe4-b2db75e3f7ee",
+			"93c9a579-1e6f-46e8-8e9d-8826d47f90ed"
+		],
+		"ce_se": "",
+		"replaces": [
+			"0f86c886-a889-4912-b4d2-b82294a25992"
+		]
+	},
+	{
+		"prefix": "MU/V/DomeinA/A3",
+		"id": "51f801c3-cccc-48ad-a983-4652cb2e1c91",
+		"title": "Subdomein A3: Muziek en cultuur",
+		"examenprogramma_eindterm_id": [
+			"a3cd32db-98cf-4435-a655-5a0ba6611b8c",
+			"2250e2e7-094e-4153-94a4-9d8f1b8a0200",
+			"f79f12cd-44f8-4750-beb1-f740fd737c41",
+			"9b751973-4956-4ae2-9f59-200b993ca785"
+		],
+		"ce_se": "",
+		"replaces": [
+			"0532d6b3-0eb9-4eed-9da5-c8eaffcfc5f2"
+		]
+	},
+	{
+		"prefix": "THT/H/V/DomeinA/A1",
+		"id": "cab6137b-8307-4c2a-93f9-350c74565c1b",
+		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"64b3e457-6abf-48b0-9d39-57222e1547a8"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"fec4f085-a150-4de2-8985-f798f0ff4ae8"
+		]
+	},
+	{
+		"prefix": "THT/H/V/DomeinA/A2",
+		"id": "7df4eaa7-2965-4b8f-80c8-4c59e79d85b4",
+		"title": "Subdomein A2: Beschouwen",
+		"examenprogramma_eindterm_id": [
+			"23b5842e-c9ef-4e79-bbd0-1e1421a41235"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e13d8f16-62d9-4608-95b3-23100c1bc7b9"
+		]
+	},
+	{
+		"prefix": "MU/H/DomeinA/A1",
+		"id": "b5f9acc4-6b93-4ddd-9d5b-a5a1e1407157",
+		"title": "Subdomein A1: Waarnemen en weten",
+		"examenprogramma_eindterm_id": [
+			"934b9287-2a6f-4188-9b24-963f4549e32d",
+			"ae71574c-fa95-4419-add6-709e9969ad81",
+			"8ae8541e-8ccf-46be-93ab-fab55a77a032"
+		],
+		"replaces": [
+			"1c3d18d1-424f-4227-bc47-9300fb89172d",
+			"e2013900-ad4e-4655-b3f5-50d97a920afc"
+		],
+		"ce_se": ""
+	},
+	{
+		"prefix": "MU/H/DomeinA/A2",
+		"id": "97df2cf7-fc06-4a6d-8f41-05481103b4de",
+		"title": "Subdomein A2: Analyseren en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"0de3474c-39ce-4616-9f62-99c6848d162f",
+			"07e0d32d-df43-4c04-9335-3e9247c454e5",
+			"e46ef52f-6438-4777-aea5-cffcb9c22c6f"
+		],
+		"replaces": [
+			"421a2f95-efde-459a-bdfd-a9fae3b0c7cf",
+			"fe710258-9341-4d54-b735-a0385d955cb8"
+		],
+		"ce_se": ""
+	},
+	{
+		"prefix": "MAW/V/DomeinF/F3",
+		"id": "9c89f769-97ff-451d-a6c5-ae1409756d80",
+		"title": "Subdomein F3: Overheidsbeleid",
+		"examenprogramma_eindterm_id": [],
+		"ce_se": "CE",
+		"replaces": [
+			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
+			"ca87f930-bc07-4488-b677-cffae4e3eb25"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinF/F4",
+		"id": "d54ab37b-d66b-438d-ba22-91db72da535b",
+		"title": "Subdomein F4: Functies van straffen",
+		"examenprogramma_eindterm_id": [],
+		"ce_se": "CE",
+		"replaces": [
+			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
+			"ab9c1f4c-6cee-4d4e-9007-256e57905fe1"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinG/G5",
+		"id": "49709dff-4a86-45f8-8c5a-06b06ce306a1",
+		"title": "Subdomein G5: Milieu en cultuur",
+		"examenprogramma_eindterm_id": [],
+		"ce_se": "SE",
+		"replaces": [
+			"b52d219f-d26f-40fe-8559-e93ebfbbf312",
+			"3ec12fe7-86ee-46e5-a2b2-9c8b4326281a"
+		]
+	},
+	{
+		"prefix": "WI/C/V/DomeinA/A1",
+		"id": "c99018ec-4fd9-4c41-9332-a507706433d6",
+		"title": "Subdomein A1: Algemene vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"259006fe-dba9-468e-8a4d-8ceb2a03673b"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"4670fd2c-dfc8-441d-a671-86770c83f8f3"
+		]
+	},
+	{
+		"prefix": "WI/C/V/DomeinA/A2",
+		"id": "9edb8fe6-6b50-4694-8593-2a7b4c3afdbf",
+		"title": "Subdomein A2: Profielspecifieke vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"f1043093-195e-4f4a-a535-079dc820ad2c"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"d69365ea-c7cc-44ee-b214-84a6f06c8852"
+		]
+	},
+	{
+		"prefix": "WI/C/V/DomeinB/B1",
+		"id": "fb9068ac-5576-4401-955c-00f9a80c02dd",
+		"title": "Subdomein B1: Rekenen en algebra",
+		"examenprogramma_eindterm_id": [
+			"ebc94aec-b435-4250-bdfb-a36f7b9ff73b"
+		],
+		"replaces": [
+			"fe7822b9-2c78-4ce3-b0e4-bbc0d9c3649e"
+		]
+	},
+	{
+		"prefix": "WI/C/V/DomeinB/B2",
+		"id": "2427d073-5022-43a5-8855-23a6dd9f2877",
+		"title": "Subdomein B2: Telproblemen",
+		"examenprogramma_eindterm_id": [
+			"2af7c0f9-0bbd-4b2f-8540-ed89df6f76c0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"9e9f6abb-2c8b-406d-a361-23606335fc88"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinA/A1",
+		"id": "9d4af4bd-c2ee-4b04-bd4c-432974252720",
+		"title": "Subdomein A1: Algemene vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"44e6dd13-b90e-4cad-9471-8d08d3368ce0"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"5f695c47-20fe-452a-9818-7c3fcfe3e62e"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinA/A2",
+		"id": "2819b9b7-61bb-4031-a511-85a49ef65264",
+		"title": "Subdomein A2: Profielspecifieke vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"9719e14b-68f6-41b2-b48c-726ea70131c5"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"f8a30c11-d37f-4f3c-a165-4e4cc47f0cc9"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinA/A3",
+		"id": "6fd0cc5a-1cb8-493e-8164-4fb1d6976ccf",
+		"title": "Subdomein A3: Wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"1bfbbdd6-6e72-4f3d-9089-df70841d07d8"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"7fe2d5ab-9a16-4893-bdf4-cb47ac5815de"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinB/B1",
+		"id": "2d3f4de2-6790-401f-96a2-58abef8bb3be",
+		"title": "Subdomein B1: Formules en functies",
+		"examenprogramma_eindterm_id": [
+			"4e980dee-0890-4fdf-aeed-30170b3a36a4"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"1eb6a8d9-8f65-4839-9727-0c693f98fc58"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinB/B2",
+		"id": "f8d1d870-e67c-4a71-b3ee-0e29005695c2",
+		"title": "Subdomein B2: Standaardfuncties",
+		"examenprogramma_eindterm_id": [
+			"befaa011-e6d7-4766-8a47-19ee88d00f69"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"56f5c1db-71f5-4631-87da-b73e0db9799c"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinB/B3",
+		"id": "21daf89b-1606-45ed-9b6a-2a030ccf6d45",
+		"title": "Subdomein B3: Functies en grafieken",
+		"examenprogramma_eindterm_id": [
+			"a845b635-3bef-4317-9f02-3a436d319fb9"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"498627c7-107e-4d02-aeae-4d03d104128a"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinB/B4",
+		"id": "68144a11-d2a6-4d47-91b9-1fb5f84efa45",
+		"title": "Subdomein B4: Inverse functies",
+		"examenprogramma_eindterm_id": [
+			"b36f31ce-3ef7-4817-b898-a2bab1b1e92c"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"274e2100-5fe1-44b5-ba0d-f9d75c15aa87"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinB/B5",
+		"id": "9469eb83-4ec8-4727-9fed-7e9de825cd17",
+		"title": "Subdomein B5: Vergelijkingen en ongelijkheden",
+		"examenprogramma_eindterm_id": [
+			"8db29939-9283-42f4-bb8d-afdf7e84af92"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"87e78510-f858-47f7-82b1-0c0dc8fccb67"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinB/B6",
+		"id": "86cdda4f-5c2e-477f-a5f3-0cd0c2892178",
+		"title": "Subdomein B6: Asymptoten en limietgedrag van functies",
+		"examenprogramma_eindterm_id": [
+			"d5f591fd-8bdc-4143-90ab-3e4f2069ddc4"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"2d0d1ee8-74a5-4fe4-9012-11a602db816b"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinC/C1",
+		"id": "39127359-db66-4404-bcd7-124048a8c0d1",
+		"title": "Subdomein C1: Afgeleide functies",
+		"examenprogramma_eindterm_id": [
+			"d4b4685c-4b97-4c1a-95d5-04b5ad3f5be9"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"771c1e81-1c1c-49af-9967-0f05770041da"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinC/C2",
+		"id": "ad110dd1-e8b6-4f94-89e0-03a74df98ac6",
+		"title": "Subdomein C2: Technieken voor differentiëren",
+		"examenprogramma_eindterm_id": [
+			"608a9535-d09d-4143-a0e5-525c5c0d0757"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e9d3332d-04ba-4b26-82e5-d10f2648232a"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinC/C3",
+		"id": "6de92d13-57a3-4dcd-bff4-f2bb31fbb289",
+		"title": "Subdomein C3: Integraalrekening",
+		"examenprogramma_eindterm_id": [
+			"04cf656e-4fe2-45bc-8f4e-fd92a9abc45f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"bb1736e8-ffc4-4f1c-a7ce-4a4ef4ef9a6b"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinE/E1",
+		"id": "fa4bdc1d-ada8-4874-b8a9-1c124bf55bc6",
+		"title": "Subdomein E1: Meetkundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"9f550989-9fff-4502-bf17-674d1bbd44be"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"77ef1cec-1237-48db-8b3b-d796577c2c38"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinE/E2",
+		"id": "cb0f02e8-8ab3-4d26-8a6c-d56ee2b7777e",
+		"title": "Subdomein E2: Algebraïsche methoden in de vlakke meetkunde",
+		"examenprogramma_eindterm_id": [
+			"7aa77a26-7321-4cf0-ac68-50ebcb2411ee"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7585eaee-86cb-4625-88ba-086add41b781"
+		]
+	},
+	{
+		"prefix": "WI/B/V/DomeinE/E3",
+		"id": "14b3cbfa-a564-486d-bb5c-419737ee8e73",
+		"title": "Subdomein E3: Vectoren en inproduct",
+		"examenprogramma_eindterm_id": [
+			"c7ea8cf8-af3e-4d22-815c-02b30bc2a68d"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"be43e435-96da-46ad-9303-6ffe18acb2e7"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinA/A1",
+		"id": "e8b63e09-10ed-4f82-aa4f-e3d81e581fd5",
+		"title": "Subdomein A1: Algemene vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"0b2c4c30-051e-4730-b2c9-d72a1b413338"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"31a4f05d-bf4b-42ca-9b6a-597a8de0007d"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinA/A2",
+		"id": "258b35ae-4ccb-415f-9d00-8396e7ccea26",
+		"title": "Subdomein A2: Profielspecifieke vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"2dce6c64-cb9d-440f-92d8-8c6e2fa33f97"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"17cc279d-7963-477e-b59e-ee688a420625"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinA/A3",
+		"id": "6efab482-cd29-4c2f-be79-640a5b65af59",
+		"title": "Subdomein A3: Wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"96960ff9-b60b-4cd2-b577-6a84bdfe3442"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"dcf406a9-4479-4d00-ad6c-979ac0df77d7"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinB/B1",
+		"id": "aee1c478-c5b1-4eb3-85e3-b2f93d41ad83",
+		"title": "Subdomein B1: Standaardfuncties",
+		"examenprogramma_eindterm_id": [
+			"1aed2e82-4724-4557-a390-0926a1349966"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"26335c40-3567-4112-a438-41746ca96afd"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinB/B2",
+		"id": "f80ee309-6e08-4762-a142-1ca49eb196fe",
+		"title": "Subdomein B2: Vergelijkingen en ongelijkheden",
+		"examenprogramma_eindterm_id": [
+			"6f7f11d8-a44f-4669-bd60-a1dbe0864017"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"1d5c781d-4d4f-48be-aa94-be25e7f3b09a"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinB/B3",
+		"id": "fc8acd83-ddac-4048-8313-13fecd498586",
+		"title": "Subdomein B3: Evenredigheidsverbanden",
+		"examenprogramma_eindterm_id": [
+			"2a624210-b7ac-472a-aed5-f38a77884ea4"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"0cd0c82c-7b38-4820-839a-801433e19fd6"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinB/B4",
+		"id": "2b4621c0-3649-4ac7-9aff-6ffd9c590923",
+		"title": "Subdomein B4: Periodieke functies",
+		"examenprogramma_eindterm_id": [
+			"74d06586-14ea-4899-9d6f-3ec4408ed628"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"af59d326-b1f9-49d2-b946-2a788320eb64"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/C1",
+		"id": "3c121f71-8347-4ee8-a008-e24685320515",
+		"title": "Subdomein C1: Afstanden en hoeken in concrete situaties",
+		"examenprogramma_eindterm_id": [
+			"0f533524-6fe2-4a4e-aa83-f0d8bed97701"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"6f6323dd-3913-4b47-a13b-c34df05a9f62"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/C2",
+		"id": "f539faa2-e517-4268-8fb4-cd23e8e53644",
+		"title": "Subdomein C2: Algebraïsche methoden",
+		"examenprogramma_eindterm_id": [
+			"6bef80db-174c-475a-a3d0-35d01b5cf952"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7b98b805-855c-415a-ac4a-8b62647a767a"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/D1",
+		"id": "09378d25-d483-45d6-93e9-4cb2a2911c80",
+		"title": "Subdomein D1: Veranderingen",
+		"examenprogramma_eindterm_id": [
+			"1685583f-7c3f-45ec-af94-e693c1e73235"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"7de4fec7-bec6-4a90-a56a-b8c5a2514cc6"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/D3",
+		"id": "074a5ad7-43fe-4484-a72f-6dbaa2fdb650",
+		"title": "Subdomein D3: Bepaling afgeleide functies",
+		"examenprogramma_eindterm_id": [
+			"912eabd0-b71d-4082-bbad-aa41185cdc4c"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"a46b6280-8139-4e9a-b62c-c7ec884168cd"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/D4",
+		"id": "9664f0fb-b7d5-4662-9afc-ddbb1d2117ca",
+		"title": "Subdomein D4: Toepassing afgeleide functies",
+		"examenprogramma_eindterm_id": [
+			"ec82dad6-6ab1-4be1-8526-c0aa815bc1f7"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"cb8c5e98-21ec-4b53-be71-5845fe764c96"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinA/A1",
+		"id": "0681f11b-f5b8-40ba-b87a-34bded0aee86",
+		"title": "Subdomein A1: Algemene vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"84bc4c3d-8cb7-4d21-8116-ff13614a696b"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"c7b8bcad-4e65-473d-9491-27ee29475f32"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinA/A2",
+		"id": "cfa2e502-5b6e-4835-91cc-c43408c23abb",
+		"title": "Subdomein A2: Profielspecifieke vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"3a32aa2c-9d86-4009-9103-e93b0e791681"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"d917f794-a04d-4d8c-850a-3e4da8ddccfe"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinA/A3",
+		"id": "8a48f453-183a-4a38-afd1-1ad4991aed43",
+		"title": "Subdomein A3: Wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"c5470adb-9daa-4369-a6f1-f313ad4c9bbc"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"940ed336-6152-4542-9f82-d330ae2e29e5"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinB/B1",
+		"id": "c8aea5fe-b01f-4e02-9d5a-b8e0ed5549ba",
+		"title": "Subdomein B1: Algebra",
+		"examenprogramma_eindterm_id": [
+			"9b7d49a9-a1c1-41ca-8f2e-e1d42b223fea"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"27b1dcc5-5849-46c9-ba5d-1e3a72639798"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinB/B2",
+		"id": "539554ac-4719-41f8-a52d-fb3960efdbf7",
+		"title": "Subdomein B2: Telproblemen",
+		"examenprogramma_eindterm_id": [
+			"2d3bc1f9-097d-4561-8ceb-0e03873a1c1a"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"83ebd58e-b5f1-42a3-bbca-8a6fc52593bb"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinD/D1",
+		"id": "712936d5-b5f5-4e36-8914-d03487f3c835",
+		"title": "Subdomein D1: Rijen",
+		"examenprogramma_eindterm_id": [
+			"cbbc1ed1-55b1-469d-b734-c8ea390924b9"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4a37a1ef-24f5-402e-92bc-4c31404202b4"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinD/D2",
+		"id": "266ead67-c00b-46f2-b9c8-87a49f683e56",
+		"title": "Subdomein D2: Helling",
+		"examenprogramma_eindterm_id": [
+			"0cd4e2d4-d459-4b5d-992a-98d6c94cf9b2"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f638ba25-00b5-4c7b-a630-9ad5973b1eea"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinD/D3",
+		"id": "ad77a09b-63af-4e1b-997e-200bf64218f1",
+		"title": "Subdomein D3: Afgeleide",
+		"examenprogramma_eindterm_id": [
+			"ae54be4a-b2ec-4e5b-afc7-872ea176631e"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"b9dabd81-0fd5-4b21-96f6-172822edc383"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinA/A1",
+		"id": "ea3c8b33-de2e-4b49-8609-2d1e0a2397ea",
+		"title": "Subdomein A1: Algemene vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"c4749b91-2985-48b6-97be-3bb66dc685ee"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"c4077610-c010-4ac7-857c-07e761b75f5f"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinA/A2",
+		"id": "a9c76ac3-4fb2-47b7-a847-5a88db6ed4f8",
+		"title": "Subdomein A2: Profielspecifieke vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"a1056b50-cf8e-4626-b988-6df436be1824"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"05423474-fb1e-4328-ae21-6482a31c15a4"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinA/A3",
+		"id": "297bb415-8fd3-49ba-ab31-55503732f5e9",
+		"title": "Subdomein A3: Wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"390d364f-9c97-4552-bb9e-5fa052544f82"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"66f4729c-51ab-4b48-8f47-53c8f1751d6e"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinB/B1",
+		"id": "cea1a348-e4d4-41d0-ac6e-1336041aeaaa",
+		"title": "Subdomein B1: Rekenen",
+		"examenprogramma_eindterm_id": [
+			"2643a85e-f737-43f0-9718-98640e73bd3f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d7daef16-e62a-4848-b13a-8465889c4139"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinB/B2",
+		"id": "c1eb5eba-e00e-433b-9c92-7aa1aaf69244",
+		"title": "Subdomein B2: Algebra",
+		"examenprogramma_eindterm_id": [
+			"e7b8455a-7160-41e0-9efa-1ab7ea87b41d"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7c3563e0-eac0-4da8-8daa-8fb9bc360186"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinC/C1",
+		"id": "340e73a8-c8a3-4214-97c0-c7a3f6e53cef",
+		"title": "Subdomein C1: Tabellen",
+		"examenprogramma_eindterm_id": [
+			"21712990-3b0f-4aad-9266-e1ae877bd2a5"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"1bf7f15d-6a16-4133-84df-7f0d0635f9f2"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinC/C2",
+		"id": "97d94e5a-ddad-4aa7-b8bc-c57b189259ec",
+		"title": "Subdomein C2: Grafieken, vergelijkingen en ongelijkheden",
+		"examenprogramma_eindterm_id": [
+			"928388f4-f1bc-4b50-be46-daafe502cd85"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"8f86b44f-94cf-4467-89b1-8fa03fc00901"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinC/C3",
+		"id": "b9fe2183-ae29-4a74-8ad6-f1f079a18b6b",
+		"title": "Subdomein C3: Formules met één of meer variabelen",
+		"examenprogramma_eindterm_id": [
+			"5dcb6309-ab56-45c0-b064-67569426f6f7"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"9acce30e-edd9-40b6-9532-0dd0be860f34"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinC/C4",
+		"id": "81e63818-9f65-4194-b2df-574b8ad2a865",
+		"title": "Subdomein C4: Lineaire verbanden",
+		"examenprogramma_eindterm_id": [
+			"aa3563e4-f4c4-4bde-8677-2d346577510c"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"bdde1732-993f-4296-b6d1-0132240b018a"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinC/C5",
+		"id": "9ba3bdb4-49aa-4fd4-ae3a-cc8b4099b849",
+		"title": "Subdomein C5: Exponentiële verbanden",
+		"examenprogramma_eindterm_id": [
+			"addcb162-ca1c-4c86-8e47-e69f190fb2fe"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"a432b088-ab57-491a-aacb-d92c835bcfe9"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinE/E1",
+		"id": "2839ae47-fa30-43fb-99e1-141067b0b436",
+		"title": "Subdomein E1: Presentaties van data interpreteren en beoordelen",
+		"examenprogramma_eindterm_id": [
+			"8e056739-213c-42a8-8a46-0bba6ae4df3c"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e38f47b5-b041-4247-b5d8-375dca43b006"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinE/E2",
+		"id": "1d958372-85d1-49de-acc2-96418b13e3e2",
+		"title": "Subdomein E2: Data verwerken",
+		"examenprogramma_eindterm_id": [
+			"2006ed9b-cfe9-4b26-a0a2-e22b76badc94"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f88dcc0e-a195-4dfe-91d6-8dde9e2086c4"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinE/E3",
+		"id": "e9fcc9ce-f04f-4d97-8b8c-3554c22fe1c7",
+		"title": "Subdomein E3: Data en verdelingen",
+		"examenprogramma_eindterm_id": [
+			"14c12be9-fcec-40ae-8b5e-e36e23ca5901"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"2a27401d-99ff-41c0-aa52-01f8e27fdbfe"
+		]
+	},
+	{
+		"prefix": "WI/A/H/DomeinE/E4",
+		"id": "e0cfbd74-e18a-4f39-9438-f20ef48abb86",
+		"title": "Subdomein E4: Statistische uitspraken doen",
+		"examenprogramma_eindterm_id": [
+			"c6ab7870-d711-48bc-a4e1-7ee79403b321",
+			"5aa3566e-965b-4b7d-9ef9-976db925a09f",
+			"dd0ab3f3-22c7-4851-912e-f7b8b361eba9"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"bf6c5f70-190a-4cb8-ae46-d2ec0e5ad5b3"
+		]
+	},
+	{
+		"prefix": "THT/TV/H/DomeinA/A1",
+		"id": "6f3578d7-5ea4-4559-b46f-a9ccc61dea9e",
+		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"335f8607-5d0a-4db4-b68f-554ff53c73a8",
+			"3ce8f6c9-0650-4675-9240-bef5cebdbb67"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"c0ad0d5f-2295-474e-ba64-81cf8dc6b18c"
+		]
+	},
+	{
+		"prefix": "THT/TV/H/DomeinA/A2",
+		"id": "fbecd3e2-042a-4fc3-b951-84b806f748bc",
+		"title": "Subdomein A2: Beschouwen",
+		"examenprogramma_eindterm_id": [
+			"7fc48861-a4c3-4e91-90a3-a8c143f7efee"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d136b697-259e-4940-be21-8efc58b1aa2a"
+		]
+	},
+	{
+		"prefix": "THT/T/H/DomeinA/A1",
+		"id": "f149d875-cb6f-4164-ac02-9e3c85025d75",
+		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"65ae1490-eca7-4e39-9414-1e90a6e5b756",
+			"240f043d-7a67-4de7-b7c7-2027e4e122e5"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"13fc636f-53fb-458e-9159-bdd6174268f5"
+		]
+	},
+	{
+		"prefix": "THT/T/H/DomeinA/A2",
+		"id": "ab894a58-fc80-43d3-ba2f-66e79ffd5f7d",
+		"title": "Subdomein A2: Beschouwen",
+		"examenprogramma_eindterm_id": [
+			"3fd61b8c-e8a2-4aaa-b5c2-956a15448f9a"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"9db3f488-e573-4d94-a8a1-e5f832a8063c"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A5",
+		"id": "a0e6451a-88ee-41ca-9ee6-fffd3a51bf54",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"79849494-c608-46e3-83bb-4b6aeb74162b"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"403df5a3-5a73-43bf-89cc-58a175c30183"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A6",
+		"id": "f9be1948-a97a-48e3-b117-3f97f42abe73",
+		"title": "Subdomein A6: Ontwerpen",
+		"examenprogramma_eindterm_id": [
+			"cb02106e-4858-4fca-af56-d32816db86e7"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"f961f67a-0706-4d8e-9d1c-1a6a2ef82454"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A7",
+		"id": "e53d7160-0d72-4fad-b39b-ecdc7b1fa025",
+		"title": "Subdomein A7: Modelvorming",
+		"examenprogramma_eindterm_id": [
+			"224326dc-bfae-4dac-b4a4-3efd6beebcb0"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"afee6cc8-27e8-4433-9618-bb1129c8f2dd"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A8",
+		"id": "03d15f65-7e15-4f4a-8418-225f4592b247",
+		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
+		"examenprogramma_eindterm_id": [
+			"61dc7d4b-1704-4f8c-8fbc-0bbf35b9c6e9"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"3a6c997e-d017-41aa-b076-a9f1913a3d36"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A9",
+		"id": "44271921-be86-46f1-b33d-83252d214ca4",
+		"title": "Subdomein A9: Waarderen en oordelen",
+		"examenprogramma_eindterm_id": [
+			"df105a55-c874-4139-a90e-6bc3901f34f5"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"1cacab84-7c12-499f-ba6d-bb41b40b193b"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A10",
+		"id": "5801bf88-5331-4595-b29d-e697a928f47f",
+		"title": "Subdomein A10: Toepassen van chemische concepten",
+		"examenprogramma_eindterm_id": [
+			"e412fc86-02cc-40bb-a335-857daa7f5c52"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"74e6177a-4d7b-429e-92fb-21e14a1cd5dd"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A12",
+		"id": "6cd833b1-843f-4f22-b135-c86d1e07b2ba",
+		"title": "Subdomein A12: Redeneren in termen van structuur-eigenschappen",
+		"examenprogramma_eindterm_id": [
+			"57045ab9-cab7-4ed6-8230-ce514165861e"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"008d6732-5bed-4274-9aed-db7bac6b078b"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A14",
+		"id": "24ff23ed-7d83-444f-a198-b8f3a864fc07",
+		"title": "Subdomein A14: Redeneren in termen van duurzaamheid",
+		"examenprogramma_eindterm_id": [
+			"0585537f-c7be-4bf5-b87f-0bf790d40905"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c02810e0-97e1-4280-822f-259221728901"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinA/A15",
+		"id": "ec0701e6-be91-4a56-85ad-0578d500791a",
+		"title": "Subdomein A15: Redeneren over ontwikkelen van chemische kennis",
+		"examenprogramma_eindterm_id": [
+			"4b60779b-45b6-4f0a-918b-c61f475a651a"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"97526bb3-7833-46a0-b2a0-27a3b0381379"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinB/B1",
+		"id": "d5f7be05-daa0-486b-a230-201ad9e89dfc",
+		"title": "Subdomein B1: Deeltjesmodellen",
+		"examenprogramma_eindterm_id": [
+			"faa4d8c0-03b2-4f88-be24-8e433da434ec"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"c0102181-205d-4fd1-924f-256d748cc9f1"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinB/B2",
+		"id": "17263d2b-7ddc-44e7-8510-274e8a56a83f",
+		"title": "Subdomein B2: Eigenschappen en modellen",
+		"examenprogramma_eindterm_id": [
+			"cce7a3c2-b0bf-4f76-857d-03b62d8a475e"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d23060a4-f3ab-4499-b19e-f94b00c6184c"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinB/B3",
+		"id": "58c8fd6f-f015-4b19-be98-e0641392cd57",
+		"title": "Subdomein B3: Bindingen en eigenschappen",
+		"examenprogramma_eindterm_id": [
+			"16112904-6dfb-4334-8215-4d7bbb93020e"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4437d38a-3648-4ba6-b774-ebeabf1b26b6"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinB/B4",
+		"id": "c444c67d-7c68-424d-acb3-2e9a0a5368c1",
+		"title": "Subdomein B4: Bindingen, structuren en eigenschappen",
+		"examenprogramma_eindterm_id": [
+			"c8532b25-b530-4024-94dc-af34a94bcb38"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4708f07a-3f62-404f-ba47-64ed9a893024"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinC/C1",
+		"id": "eb11bb49-1fa9-4a23-a785-0e06d1f063e5",
+		"title": "Subdomein C1: Chemische processen",
+		"examenprogramma_eindterm_id": [
+			"8e8e587e-fd7a-4626-8ca7-4acdfe8f0a32"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"cfb6c284-dde9-4e07-b339-d2bced30f6bd"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinC/C2",
+		"id": "25ca06ea-4d4e-4f97-8830-abe68b5c4ae8",
+		"title": "Subdomein C2: Chemisch rekenen",
+		"examenprogramma_eindterm_id": [
+			"b28e501b-03ad-4f1c-b198-5b85a8245a46"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"39233d81-a8fc-4b04-86b3-5c3d129ad6b5"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinC/C3",
+		"id": "57a3332e-9cdd-4009-bbfb-3810c7568283",
+		"title": "Subdomein C3: Behoudswetten en kringlopen",
+		"examenprogramma_eindterm_id": [
+			"5476edb4-b39b-4f5e-8bc8-75e19cd7c6d0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"6130c0d7-3c38-44eb-8137-f068b563f4d8"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinC/C4",
+		"id": "1ba7627d-cf98-4842-82a9-f6f55ccadf30",
+		"title": "Subdomein C4: Reactiekinetiek",
+		"examenprogramma_eindterm_id": [
+			"8f38c80d-d742-4586-90a9-03b2ddf16f1e"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"67e7f7b6-bed3-4ed7-a9cb-06f8b98549cb"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinC/C5",
+		"id": "9d17c5e1-e34d-4af5-a317-1f99345a34e9",
+		"title": "Subdomein C5: Chemisch evenwicht",
+		"examenprogramma_eindterm_id": [
+			"fe7673e8-d07e-4ad3-9276-6568e599c105"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"89c36d29-4090-45b3-a7c6-86fc0ecc19bc"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinC/C6",
+		"id": "ba04790d-e46d-491d-90e5-e9d3bda0b1e6",
+		"title": "Subdomein C6: Energieberekeningen",
+		"examenprogramma_eindterm_id": [
+			"f7c0ab03-1ab9-47cb-b9e2-aaeb31b8f992"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"8323efa4-dee8-4ecc-b0b5-740925cf71bf"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinD/D1",
+		"id": "38fa0111-bab0-4678-8264-f62b995b008f",
+		"title": "Subdomein D1: Chemische vakmethodes",
+		"examenprogramma_eindterm_id": [
+			"b40663da-943e-4ec9-9950-c5e6b4f0bfb5"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"916d2083-a501-4844-a87a-717facffd02b"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinD/D3",
+		"id": "c6a5febc-9c64-4014-9ddc-6f6832a9d88c",
+		"title": "Subdomein D3: Chemische synthese",
+		"examenprogramma_eindterm_id": [
+			"049c2786-97a0-4aa4-84ff-677eb64471e0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d9abb9fa-e2eb-45c2-a0c4-bfd94aee5190"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinE/E1",
+		"id": "b8854169-220f-40e8-9067-90a187e7eefa",
+		"title": "Subdomein E1: Chemisch onderzoek",
+		"examenprogramma_eindterm_id": [
+			"f2b48025-b182-4ad3-8538-9ec10ac5dead"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"ebbaf6f5-7e13-4dc1-9f1d-c6ee9c36769e"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinE/E2",
+		"id": "4f72991c-5973-4def-8c7a-2e673e3f914f",
+		"title": "Subdomein E2: Selectiviteit en specificiteit",
+		"examenprogramma_eindterm_id": [
+			"047f519f-0fd4-46a0-bd00-2a6c04bef693"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f550074e-3f35-4dfd-af30-4e74e57edb40"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinF/F1",
+		"id": "fe5b4e85-f9f9-4e34-a0f5-e12fc5bb4dda",
+		"title": "Subdomein F1: Industriële processen",
+		"examenprogramma_eindterm_id": [
+			"54f4f58e-c246-4645-8629-ad176ec7eebb"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"c9bb5471-fce8-46e8-95f2-b64fa25e95d9"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinF/F2",
+		"id": "87e41db2-abe3-44c5-93f6-561dfbaa3e57",
+		"title": "Subdomein F2: Groene chemie",
+		"examenprogramma_eindterm_id": [
+			"599d1ebd-147d-4572-a26c-1f14629ed289"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"cd7b52b5-fb15-41b9-ae88-625edc0ad200"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinF/F3",
+		"id": "cef394b6-597e-41d3-b3f2-462634527539",
+		"title": "Subdomein F3: Energieomzettingen",
+		"examenprogramma_eindterm_id": [
+			"472f1b50-8aa4-4fb6-9d60-dc48d5f86a09"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"abb816a1-5272-497a-85ae-51d8b92cce76"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinG/G2",
+		"id": "720bd449-200d-4db6-a9dc-b795843f0feb",
+		"title": "Subdomein G2: Milieueffectrapportage",
+		"examenprogramma_eindterm_id": [
+			"9a1f47f8-fc10-4b29-8b15-9dadd27607c0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"3f606b05-18fd-4245-9bce-cf73e00c439c"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinG/G3",
+		"id": "e4fe3c5c-2aaa-44f5-841e-a35236ce7203",
+		"title": "Subdomein G3: Energie en industrie",
+		"examenprogramma_eindterm_id": [
+			"034fd311-385f-47ba-b050-90f3808b5459"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"336e0f2d-d2b9-4b56-bdd8-0c0ebd8da47f"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A5",
+		"id": "6496c015-0851-4fbf-a74d-b438d68cdc92",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"05a70e48-149b-4a2c-9fe4-c04e09f43981"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"bd42711d-d694-4a76-9009-99d80fb2dcfc"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A6",
+		"id": "43dac5f3-297e-46be-8520-d94e1157ce3d",
+		"title": "Subdomein A6: Ontwerpen",
+		"examenprogramma_eindterm_id": [
+			"2429b9ae-4f34-4ebc-a850-7614c853aed4"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c039c019-e641-45e5-b7e5-c9d3dcee4847"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A7",
+		"id": "106ff513-84c9-450f-9358-be3e58eb6ef1",
+		"title": "Subdomein A7: Modelvorming",
+		"examenprogramma_eindterm_id": [
+			"30e03755-896b-418a-95b0-a025e5ce7ed8"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"27b32a06-8706-47cf-a09b-1521a1fc16b3"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A8",
+		"id": "4f16b95e-a3c1-47ae-92c4-95d2d8778085",
+		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
+		"examenprogramma_eindterm_id": [
+			"7950c2a2-4a7e-4261-a93c-5f6e7a3f02a8"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"a63a90f4-66d7-464f-b8a6-10645063560b"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A9",
+		"id": "fb722d29-48c2-40c3-89ba-2cce5d450710",
+		"title": "Subdomein A9: Waarderen en oordelen",
+		"examenprogramma_eindterm_id": [
+			"6775dc03-5a08-4b0c-b687-7bf4f34af6c6"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"7cb00d7e-5286-4dd3-aa77-8cb16b68b1e5"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A10",
+		"id": "250c5ee3-b9ef-4963-a868-381d4c9d4b51",
+		"title": "Subdomein A10: Gebruiken van chemische concepten",
+		"examenprogramma_eindterm_id": [
+			"546d1ee1-4272-4a52-9651-959b6674d089"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"30e272ae-274c-49e6-ac65-504473bb8811"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A12",
+		"id": "bcb0fd3b-1b87-4858-9537-fdc3026ad563",
+		"title": "Subdomein A12: Redeneren in termen van structuur-eigenschappen",
+		"examenprogramma_eindterm_id": [
+			"23399940-0ea3-44c5-9d54-59c7d2a04021"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"ab9ab1a7-bf6d-4435-838a-196c674a1602"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A14",
+		"id": "f7b48a55-4238-48e7-a739-dd8002872a6e",
+		"title": "Subdomein A14: Redeneren in termen van duurzaamheid",
+		"examenprogramma_eindterm_id": [
+			"044591c6-1d9e-4c1a-8dfe-3abcdbfdd9e6"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"0004ee64-0b8b-41df-98f1-a4971165008f"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinA/A15",
+		"id": "15a2fd1a-53e7-44ac-9992-3a80973af858",
+		"title": "Subdomein A15: Redeneren over ontwikkelen van chemische kennis",
+		"examenprogramma_eindterm_id": [
+			"0919fe81-5f91-451d-bded-28e705789647"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"eaa225fc-5dbe-4cd9-b831-8eacf57a4d33"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinB/B1",
+		"id": "449d2ab7-9b63-4666-aa17-a88f92593f66",
+		"title": "Subdomein B1: Deeltjesmodellen",
+		"examenprogramma_eindterm_id": [
+			"7407ab4b-c622-48c5-8e18-0a2807315215"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"b096d42a-986b-481c-85f9-d83c93c72ee5"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinB/B2",
+		"id": "67b02182-a724-4f24-86c9-80e85f10015e",
+		"title": "Subdomein B2: Eigenschappen en modellen",
+		"examenprogramma_eindterm_id": [
+			"6bcc4ef8-c922-47dd-9967-6c94501a922e"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"01329758-c405-468e-8006-01b23327b728"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinB/B3",
+		"id": "f77fe424-18d7-44a8-aca4-2bc138a8a980",
+		"title": "Subdomein B3: Bindingen en eigenschappen",
+		"examenprogramma_eindterm_id": [
+			"d595eb98-3357-4f1b-bc7d-e7ee3aed5763"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"28a4aceb-4855-4ca5-b185-96b593c618cb"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinB/B4",
+		"id": "7b1f3cdc-f706-4f20-bf2a-6be199106abc",
+		"title": "Subdomein B4: Bindingen, structuren en eigenschappen",
+		"examenprogramma_eindterm_id": [
+			"cbbab7c8-c632-4389-80f2-dcfedda81d27"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"cc38be59-26a4-4468-bc57-bd7c89d44658"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinB/B5",
+		"id": "0e36fd90-da22-4a01-9be6-56db45d6355f",
+		"title": "Subdomein B5: Macroscopische eigenschappen",
+		"examenprogramma_eindterm_id": [
+			"dc1aa56b-bfb1-4362-80c7-1924aeeeebec"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"da9568be-4fb4-43cb-9b1f-644f27abd65c"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinC/C1",
+		"id": "2b4294c4-ca20-4e87-adc3-b091e7ceeeac",
+		"title": "Subdomein C1: Chemische processen",
+		"examenprogramma_eindterm_id": [
+			"823a6b9d-247f-4c08-87aa-80581289b04f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"2875fce6-d83d-4ff1-88bb-0d68e2a7fb71"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinC/C2",
+		"id": "d5d45e5d-c426-41e1-8d61-3bd33b001da2",
+		"title": "Subdomein C2: Chemisch rekenen",
+		"examenprogramma_eindterm_id": [
+			"f3fdd96c-6ebf-4724-ad7d-df04f7fe6b09"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"07265ff9-ff8d-4a6a-8891-771ae6bd04e6"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinC/C3",
+		"id": "e8706ef6-9c2e-44aa-8b22-ee76951ed63b",
+		"title": "Subdomein C3: Energieberekeningen",
+		"examenprogramma_eindterm_id": [
+			"316731cc-55b5-45da-92f4-b5753ea1cbc0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"da804908-ca5c-44b3-b41c-b4528727c54c"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinC/C6",
+		"id": "463bea4a-be69-4f67-806f-957f0317e963",
+		"title": "Subdomein C6: Reactiekinetiek",
+		"examenprogramma_eindterm_id": [
+			"32f9d028-2bed-4a50-a282-394805803a8f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"bb99ebcc-0d8c-46d2-9beb-abb931321a02"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinC/C7",
+		"id": "b605bdd9-c191-4c2f-ab55-4376e8e993ec",
+		"title": "Subdomein C7: Behoudswetten en kringlopen",
+		"examenprogramma_eindterm_id": [
+			"7bbaea96-7cac-4af1-9935-f7cd4456a46c"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"83d537cb-9307-42cc-aad5-3397ad30c42c"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinC/C8",
+		"id": "612f4bce-9a5d-439c-9268-4a04c7869006",
+		"title": "Subdomein C8: Classificatie van reacties",
+		"examenprogramma_eindterm_id": [
+			"fdb584e3-2d4b-45f6-b674-6b4e02498159"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4067678f-0681-4d3d-848c-ede8c94317c8"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinD/D1",
+		"id": "484713a4-74b8-4a77-9c98-5db67d56e6b7",
+		"title": "Subdomein D1: Chemische vakmethodes",
+		"examenprogramma_eindterm_id": [
+			"b20bbf50-2733-464e-a8c1-0bc107783e7e"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"dd3a3568-2d0b-4293-a543-6d58c7151881"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinD/D3",
+		"id": "883e764d-4a04-4689-ab15-eec3aa83168f",
+		"title": "Subdomein D3: Chemische procesontwerpen",
+		"examenprogramma_eindterm_id": [
+			"5bf0564d-f786-4b6c-a833-19f11cec25da"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"9c2bee91-020a-4f0e-a1e5-d6f23e0baa92"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinE/E1",
+		"id": "c4190cf8-fb0d-421f-b4eb-eea06a7d09d8",
+		"title": "Subdomein E1: Kenmerken van innovatieve processen",
+		"examenprogramma_eindterm_id": [
+			"f2bacf7a-0914-4412-bd2f-85b640475403"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"8a850433-7693-4267-bd97-da26545f0fa9"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinF/F1",
+		"id": "5b971c4f-6cf1-4988-96db-922b2e47c3b8",
+		"title": "Subdomein F1: Industriële processen",
+		"examenprogramma_eindterm_id": [
+			"ae4228b0-3534-4cf4-a8b8-2faff724da53"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e7a4918d-0a44-4158-a77d-63072687b1ca"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinF/F3",
+		"id": "45e2d77e-f2cc-4f22-8a00-1141eb45f6a3",
+		"title": "Subdomein F3: Energieomzettingen",
+		"examenprogramma_eindterm_id": [
+			"27aef05e-503d-43c1-b337-34c3e72ea4d9"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"17df5cb3-f4d2-41b8-82fd-c2fe41bdf9a7"
+		]
+	},
+	{
+		"prefix": "SK/H/DomeinG/G2",
+		"id": "05463301-18d7-47b1-bb60-b094f93afea8",
+		"title": "Subdomein G2: Milieueisen",
+		"examenprogramma_eindterm_id": [
+			"e92cae32-fd9f-4063-ab66-59c34837e198"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"0b61cf85-c903-4f44-99f1-938564f6afa9"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A5",
+		"id": "8aab6336-7130-4f64-97bd-5db93f627971",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"6f85f5b6-c873-47cc-ab81-4d914f45fa77"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"404ab7b2-c9d6-4a99-b5d6-60e0593a0897"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A6",
+		"id": "aa39ba29-e1e4-4654-963b-0b4cc92fe125",
+		"title": "Subdomein A6: Ontwerpen",
+		"examenprogramma_eindterm_id": [
+			"05aefbb7-e379-4204-ad54-a8ff871af2f1"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"87e6694c-6c39-43a7-8ade-cb5126c2ff33"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A7",
+		"id": "ff6439b2-dda8-4dc9-9c0c-96b90e4c9222",
+		"title": "Subdomein A7: Modelvorming",
+		"examenprogramma_eindterm_id": [
+			"338f1144-aadf-4372-bd06-1f9b95bbb975"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"f8076e88-b170-4e84-ab22-6adb2f5e5cf1"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A8",
+		"id": "a8c8fe20-dc2a-46d7-9539-c1bb058cd753",
+		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
+		"examenprogramma_eindterm_id": [
+			"2e07254c-1572-426b-875d-472737ae5f0f"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"2680ee87-88b8-4565-acb5-e8b3d03e4fd5"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A9",
+		"id": "3906050c-91fe-47c7-9436-fff05dba91df",
+		"title": "Subdomein A9: Waarderen en oordelen",
+		"examenprogramma_eindterm_id": [
+			"55845a21-6f21-4a9c-a050-782a4ba6bcb0"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"0ea97244-7522-4a6b-8608-5daa41553e76"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A11",
+		"id": "25ddf915-01ee-466b-9b7d-ba4127231d7e",
+		"title": "Subdomein A11: Technisch-instrumentele vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"a9cf31ae-32d9-4253-bfe3-600b1ba3a5c4"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"5ea76914-64dc-4b7a-89b6-db1c42039ff2"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A12",
+		"id": "5220eea3-bf85-4009-a1e3-f48e2c014bc2",
+		"title": "Subdomein A12: Rekenkundige en wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"76b9d245-8fa0-4e8a-ba5c-61af68d1b630"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"5fc94461-c778-4251-ab86-ccb6485d362a"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinA/A15",
+		"id": "87d72902-e936-4263-935b-ebd29f940f8c",
+		"title": "Subdomein A15: Kwantificeren en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"6fe1877c-18d1-44d5-92df-600d990f5a72"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"28b923fd-26e0-416f-b7a7-a3dfdb08f580"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinB/B1",
+		"id": "bce647c6-51ac-4d47-9e2c-c62daa7ac87f",
+		"title": "Subdomein B1: Informatieoverdracht",
+		"examenprogramma_eindterm_id": [
+			"09483fdb-717f-4eb8-8d6c-50297f69b868"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"a4353659-d35a-4340-827b-043a58eb2fcd"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinB/B2",
+		"id": "a6d68be5-f35d-4a3d-b436-612df8955fb8",
+		"title": "Subdomein B2: Medische beeldvorming",
+		"examenprogramma_eindterm_id": [
+			"607f46bd-cdc5-4ec2-8e23-d800a7a96239"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d36edf07-f655-4806-8728-0606d7769a1a"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinC/C1",
+		"id": "8b91af6d-46eb-4c8b-8e03-70413a775905",
+		"title": "Subdomein C1: Kracht en beweging",
+		"examenprogramma_eindterm_id": [
+			"d9ab7a92-131b-4c70-8390-a086a53ffa86"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"a164f225-6002-41ad-b1fb-bee2719b6445"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinC/C2",
+		"id": "c7aad3df-dc48-45ea-bdb5-99538400663c",
+		"title": "Subdomein C2: Energie en wisselwerking",
+		"examenprogramma_eindterm_id": [
+			"9bfee5d0-33df-435c-a3c9-376886f15e66"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"2708d102-b6cf-41e7-bc98-a84e850d70f9"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinC/C3",
+		"id": "4c48f144-e5a7-4cf7-8ad6-4481ada6634e",
+		"title": "Subdomein C3. Gravitatie",
+		"examenprogramma_eindterm_id": [
+			"fc9a2c50-3c4b-4ae5-b3cb-ff3fafcc2e27"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"b637834f-3037-4369-aed6-e1eb6d2968bc"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinD/D1",
+		"id": "c5f57645-e1d6-45f7-8067-30e90f829c4e",
+		"title": "Subdomein D1: Elektrische systemen",
+		"examenprogramma_eindterm_id": [
+			"69359302-3f6e-4f1d-a408-779e0baafe72"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"ec4d9764-d159-40ed-8266-f3d46d5e21b5"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinD/D2",
+		"id": "ccc4d9ee-fb01-415b-b311-b0de69b00b3f",
+		"title": "Subdomein D2: Elektrische en magnetische velden",
+		"examenprogramma_eindterm_id": [
+			"568a9da8-26b6-407b-a7b9-f42779e9fccf"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"356dc118-4358-4931-a280-a752bc085719"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinE/E2",
+		"id": "76952633-39c6-4bc0-a186-a7d85a3f37a7",
+		"title": "Subdomein E2: Elektromagnetische straling en materie",
+		"examenprogramma_eindterm_id": [
+			"79e529b0-8566-4424-9faa-4e77658174b7"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"be59dc19-f7a2-4bd8-8d6e-8bf0f51f1ea8"
+		]
+	},
+	{
+		"prefix": "NA/V/DomeinF/F1",
+		"id": "7458d14a-604f-4497-bfde-00611b58030d",
+		"title": "Subdomein F1: Quantumwereld",
+		"examenprogramma_eindterm_id": [
+			"a7b50e74-aaad-4812-85da-b775036f4bfa"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"be071f52-86a8-4636-8979-91a8d0e51b72"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A5",
+		"id": "fc673cf5-08d4-4b0c-8d1c-9f3d300b9b0c",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"ed8ab449-084f-4b33-83a1-0b2b4a23eacc"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"ebcd7629-22a3-47a6-af07-cc8b2d3d7283"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A6",
+		"id": "fb6951e3-5a3e-4e13-940c-96b9bd2e1200",
+		"title": "Subdomein A6: Ontwerpen",
+		"examenprogramma_eindterm_id": [
+			"6ec56320-fdfd-4846-99e2-2423e8ad9a72"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"d0f5b78e-0ef3-477b-9c9a-b082a4ba1f4f"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A7",
+		"id": "db81b32f-5d74-4591-894f-f5ab935e06ff",
+		"title": "Subdomein A7: Modelvorming",
+		"examenprogramma_eindterm_id": [
+			"8c0bf807-1cf9-4538-bf0b-bc9b944aea08"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"4ba07a9f-ed43-41d9-9fc2-f67690270391"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A8",
+		"id": "8627cfc5-4d26-46b1-b13c-04aac89b4c52",
+		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
+		"examenprogramma_eindterm_id": [
+			"9f878b34-cd89-481e-b673-a83a8bc33fdb"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"23be58f2-069f-4933-91d0-c1a510e74c17"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A9",
+		"id": "1a5788c3-d72b-4e8a-afea-0ab071c40dd2",
+		"title": "Subdomein A9: Waarderen en oordelen",
+		"examenprogramma_eindterm_id": [
+			"bd099e2f-30c7-4cc3-be55-cab6127d7c7c"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"d6e03327-92f2-4ef8-8ece-ac7eb71c7c4e"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A11",
+		"id": "24a39720-d601-48da-82d7-9d595757bdd9",
+		"title": "Subdomein A11: Technisch-instrumentele vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"5435780d-e422-4c91-8f64-13c8b837e6ea"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"a97eb1d8-b1ff-4979-a0ea-38974a451971"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A12",
+		"id": "6cefd83b-a20f-4f57-9deb-4d7ce2df939e",
+		"title": "Subdomein A12: Rekenkundige en wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"462fe111-de0c-40b8-80b7-9727ea9f653b"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"b71c8cd4-5d45-40c2-a60c-332b2df837d8"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinA/A15",
+		"id": "0d514a7b-38a5-4c1b-b467-86c8772ba963",
+		"title": "Subdomein A15: Kwantificeren en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"c8948fd4-ce41-4292-8729-33e499b8e5fc"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"5b51c44e-abc1-41cd-8b0b-b95086bde1cd"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinB/B1",
+		"id": "4d09bada-a63d-4f8f-a7fb-d9e71ca7de14",
+		"title": "Subdomein B1: Informatieoverdracht",
+		"examenprogramma_eindterm_id": [
+			"c9334cbb-c60c-4ba8-a99a-e6ccfd7fee5a"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"6c51ee1c-fd73-407e-93b8-78995228058d"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinB/B2",
+		"id": "eb92eb30-085d-4d16-aecd-4d7f805ef621",
+		"title": "Subdomein B2: Medische beeldvorming",
+		"examenprogramma_eindterm_id": [
+			"59027691-dcea-429b-83fd-f4a944e38eb0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4db94034-c83b-449a-9671-f46275027131"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinC/C1",
+		"id": "23cfbac2-8669-469c-a0b1-143d82e0f022",
+		"title": "Subdomein C1: Kracht en beweging",
+		"examenprogramma_eindterm_id": [
+			"ede4b623-c26a-4064-9353-ecca58eafbb8"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4d9c2bbd-65c0-42ce-b89d-0114d8b54ba6"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinC/C2",
+		"id": "53735109-a806-469a-899b-1d001412ae11",
+		"title": "Subdomein C2: Energieomzettingen",
+		"examenprogramma_eindterm_id": [
+			"51b2d5fa-f079-489e-907b-1f29d6c62c94"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"6982603f-ad2a-4ed4-bffe-0f35fa43193c"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinD/D1",
+		"id": "5dff6fe1-0bb2-44ca-9106-9b0f15e9e991",
+		"title": "Subdomein D1: Eigenschappen van stoffen en materialen",
+		"examenprogramma_eindterm_id": [
+			"a76c0603-4275-48a3-a0ca-a61c5124fdc9"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"c3c9b6ab-a0f3-40a8-89d2-6a0464cb5030"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinE/E1",
+		"id": "2f765629-850f-44e5-9be2-1bb32dc75a68",
+		"title": "Subdomein E1: Zonnestelsel en heelal",
+		"examenprogramma_eindterm_id": [
+			"d9571852-937a-46b2-adaf-f298f35b29c3"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7508584e-e1a1-486a-8557-bf9946448f31"
+		]
+	},
+	{
+		"prefix": "NA/H/DomeinG/G1",
+		"id": "e8fc1cb2-cd54-4ca7-8deb-e29547f09d42",
+		"title": "Subdomein G1: Gebruik van elektriciteit",
+		"examenprogramma_eindterm_id": [
+			"e431f3cc-f0f6-44f5-b339-75bdfcd007bc"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"b69eb934-a998-4c55-9b7a-0034c085bae9"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinA/A1",
+		"id": "a06003a0-2c2c-4669-996e-45b4a52bc95d",
+		"title": "Subdomein A1: Informatievaardigheden",
+		"examenprogramma_eindterm_id": [
+			"03e037b4-02b6-4850-8836-73d0d307bf69",
+			"3fd9456f-d8ba-41a7-9016-8f92752aeb7f",
+			"5dcf44be-1a22-4600-881c-0624490ef9f5"
+		],
+		"ce_se": "SE; CE",
+		"replaces": [
+			"ea237727-d455-4cca-9694-c7702b01faae"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinA/A2",
+		"id": "50ec7a35-4aa9-435f-9065-44710df9fbd7",
+		"title": "Subdomein A2: Concept-contextbenadering",
+		"examenprogramma_eindterm_id": [
+			"1fe347c1-bb07-4867-8a14-3999812c3c5a",
+			"f6321009-b1dc-4577-9553-12e1b2a42e2d",
+			"a995e725-d7b4-4256-8085-3ffb15c89f39",
+			"03ff7c0d-080e-48e5-8494-e8b050a37730"
+		],
+		"ce_se": "SE; CE",
+		"replaces": [
+			"54162a44-3dd6-4cef-97e5-8e80e5bfc506"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinA/A3",
+		"id": "1d8a2a61-2d68-4343-baac-479709d42131",
+		"title": "Subdomein A3: Onderzoeksvaardigheden",
+		"examenprogramma_eindterm_id": [
+			"3b298a29-fad1-463e-b6c9-3a5e512b137f",
+			"5bce5603-cfb4-4dc2-88ff-48beb93db1c8"
+		],
+		"ce_se": "SE; CE",
+		"replaces": [
+			"281247f7-caac-4eac-8de0-44faff96d2ad"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinB/B1",
+		"id": "9595160a-a21d-4ce6-b748-b63d4b6e34e3",
+		"title": "Subdomein B1: Socialisatie",
+		"examenprogramma_eindterm_id": [
+			"0d950c7e-0642-4c0d-98b5-f813473ca29a",
+			"83700e85-3639-4a68-8d97-fce2360fa237"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"77fbd901-79fa-445e-adf4-b1df6211ede9"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinB/B2",
+		"id": "1ba90b2b-fe88-4199-9334-3a8d91c17400",
+		"title": "Subdomein B2: Politieke socialisatie",
+		"examenprogramma_eindterm_id": [
+			"ce4fee5f-6cd1-402f-bf4e-252f13a2d828",
+			"5bf67519-c986-487f-aed6-b194e8a94910"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"87a71a62-1abb-4158-bbe4-b19a9d03687f"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinB/B3",
+		"id": "7118588c-581d-4cdb-a015-fed7a5572713",
+		"title": "Subdomein B3: Socialisatie binnen een specifieke context",
+		"examenprogramma_eindterm_id": [
+			"2920d5ac-860e-41c6-938d-f56c2e7435c0",
+			"4f612852-00be-4458-8519-ffcfb9ec3ec6"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"72ae40b4-ab5b-4391-a91b-92dcc0779405"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinB/B4",
+		"id": "aa268ae5-6bc5-4a26-90be-1bf005e6188c",
+		"title": "Subdomein B4:  Overheidsbeleid en standpunten van politieke partijen",
+		"examenprogramma_eindterm_id": [
+			"fe18a2be-c6ef-452a-a1b4-5e4dd28c209d",
+			"2a67a2e7-b806-4f44-bb1a-96ae6ef7fe7a"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"ee20a5b3-5afd-430a-9c44-c7504ab93038"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinC/C1",
+		"id": "8ba0fa1c-5019-45bd-b3f8-edb333885658",
+		"title": "Subdomein C1: Sociale ongelijkheid",
+		"examenprogramma_eindterm_id": [
+			"9deaa48c-5471-4426-ad37-8c8c7c4f66c8"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"3551ed9a-97d6-4846-9713-237ebb7d294f"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinC/C2",
+		"id": "0406b90c-bf6e-4080-866d-88ae79456c7f",
+		"title": "Subdomein C2: Macht en gezag",
+		"examenprogramma_eindterm_id": [
+			"4a6b34e3-c92b-423c-ab60-bfee66e5b7a6",
+			"57bff776-4f95-4554-9cd6-d338847fc1c3"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"9ec9311c-a64a-4be9-a8d0-e323b35ab9ec"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinC/C3",
+		"id": "1e0e5135-b3d9-47ba-88e5-10cabc1fd008",
+		"title": "Subdomein C3: Maatschappelijke en politieke conflecten en samenwerking",
+		"examenprogramma_eindterm_id": [
+			"60a1d43f-8df2-4aee-9b32-0d4b9ff887f3",
+			"0b314c2e-4886-457a-bb52-6d6506d09d47"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"762b6a59-7259-4bef-9662-4988b8098c88"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinC/C4",
+		"id": "9473db1d-8140-49eb-870e-883954f7deaf",
+		"title": "Subdomein C4: Sociale ongelijkheid binnen een specifieke context",
+		"examenprogramma_eindterm_id": [
+			"e00982c9-8a6b-44a1-8992-714a61480c88",
+			"143c1330-38d2-4d18-9250-9be038b272e0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"3f94bcd1-f933-486c-ad54-1053fe544e8b"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinC/C5",
+		"id": "70fd112a-63cf-4be7-94a0-b52bdda990f7",
+		"title": "Subdomein C5: Maatschappelijke ontwikkelingen die van invloed zijn op sociale ongelijkheid binnen een specifieke context",
+		"examenprogramma_eindterm_id": [
+			"351efb71-c24d-4308-9a85-79594f6cb2dd"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"a249ec62-3077-4f26-8326-759f4cd57473"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinC/C6",
+		"id": "23dcc13f-bec0-40ea-8271-900cbb3cc208",
+		"title": "Subdomein C6:  Overheidsbeleid en standpunten van de politieke partijen",
+		"examenprogramma_eindterm_id": [
+			"a4ffd7ca-6b31-4f41-885e-b6f267fac857"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f43ca5d5-6182-47fd-9bc3-587d040284c6"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinD/D1",
+		"id": "e5105ea6-eab1-4650-ac7b-0a753be3270b",
+		"title": "Subdomein D1: Sociale cohesie: mate van binding",
+		"examenprogramma_eindterm_id": [
+			"a57976aa-8a48-49a4-a7d3-7805ae0b2088",
+			"0d7134ef-9750-407f-b610-b93160bde722"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"1020bfee-e3ac-487c-875c-321aacb5c1d6"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinD/D2",
+		"id": "f845c3c7-a0e0-4a3f-b0be-b66bf25e8832",
+		"title": "Subdomein D2: Politieke instituties en representatie/representativiteit",
+		"examenprogramma_eindterm_id": [
+			"e8175b59-07d2-45e2-a846-ce3dca52caf0",
+			"b927677e-5b41-4f97-9fd0-2147c809e610"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"93e65fbb-cd11-43f6-b4c8-093de02f4a5a"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinD/D3",
+		"id": "18cab54f-6c89-481e-bb05-052f0ea07df0",
+		"title": "Subdomein D3: Bedreigingen voor de bindingen in de samenleving binnen een specifieke context",
+		"examenprogramma_eindterm_id": [
+			"ad9ffaad-a687-4e31-bf25-f40c202857f1"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f1fbb357-d3b9-4eaf-832a-6351a38bf010"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinD/D4",
+		"id": "9b02c659-50fa-484b-9540-b519b69b5cfa",
+		"title": "Subdomein D4: Overheidsbeleid en standpunten van politieke partijen",
+		"examenprogramma_eindterm_id": [
+			"7976e7f2-bbf3-430a-91ce-ad5c8d2a8d39"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"4bad25a7-8f30-472d-a2bc-1bade620ef30"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinE/E1",
+		"id": "8b22dab6-996d-463a-9db3-12fa72b5e47e",
+		"title": "Subdomein E1: Veranderingsprocessen rationalisering, individualisering en institutionalisering",
+		"examenprogramma_eindterm_id": [
+			"14856bd2-43f9-4dd4-9915-98469073db01"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"19dc19e8-a627-44eb-8070-e0be220cd62c"
+		]
+	},
+	{
+		"prefix": "MAW/H/DomeinE/E2",
+		"id": "bdfdfdcb-2d1e-497c-abb6-3d806154786d",
+		"title": "Subdomein E2: Veranderingsprocessen staatsvorming, democratisering en globalisering",
+		"examenprogramma_eindterm_id": [
+			"d16e23d7-cb0d-4134-956f-6d2884e0c115"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"b603399a-185b-467d-a3b8-47095c4a5e2e"
+		]
+	},
+	{
+		"prefix": "THT/H/H/DomeinA/A1",
+		"id": "a91481e5-1e01-4d9b-9353-64384541a1a1",
+		"title": "Subdomein A1: Beschrijven, onderzoeken en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"7998150d-608a-43a3-87b7-ed3799670950",
+			"7290c38c-2ea5-4115-b353-1aae82f17c4d"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"427578d1-46a3-4514-84bc-345345632958"
+		]
+	},
+	{
+		"prefix": "THT/H/H/DomeinA/A2",
+		"id": "081b52f3-77a3-496e-8f28-954b2a88e4f5",
+		"title": "Subdomein A2: Beschouwen",
+		"examenprogramma_eindterm_id": [
+			"33ca360c-6bd2-49b3-ba85-b700067a4cb4"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"1fa96651-0e96-47e3-8cb5-cb4966d48e3b"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinA/A5",
+		"id": "7f69e9ea-2d1d-4a9b-acb1-3ba8b5c0f9b8",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"7ed0826c-071a-469e-a614-297e5c8e264c"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"cc460084-0d1b-4b00-aa8b-46ccd1339d62"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinA/A6",
+		"id": "e117078a-278a-4d96-8487-73f410172c8c",
+		"title": "Subdomein A6: Ontwerpen",
+		"examenprogramma_eindterm_id": [
+			"c5d7e8a4-1480-4215-af74-26eaffd459ba"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"ad7df1de-e486-4026-a3c3-18a966a0fd0b"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinA/A7",
+		"id": "d7ec6977-c489-4eef-955a-9d4973e22550",
+		"title": "Subdomein A7: Modelvorming",
+		"examenprogramma_eindterm_id": [
+			"5255d1b3-3163-4bf9-9892-729cedcbc1fe"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"6f3c1468-0838-4b84-8cde-e018da503ba6"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinA/A8",
+		"id": "ed49f80f-d5f3-42aa-9a6b-99bc6cf51c70",
+		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
+		"examenprogramma_eindterm_id": [
+			"150c6973-cf5d-46b7-ad76-30318b54c64b"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"c92cdada-88ab-4b9c-a2ba-a7705c911665"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinA/A9",
+		"id": "196b0d7c-bad5-4d8e-87a8-a52dc51a33f3",
+		"title": "Subdomein A9: Waarderen en oordelen",
+		"examenprogramma_eindterm_id": [
+			"2c184df4-3983-4dcd-b9ac-145fa4f468f1"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"481ab8b5-7a75-4831-9fdb-994dd94725ed"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB/B1",
+		"id": "596170a0-8f84-4daa-be58-fa3f5c330cc4",
+		"title": "Subdomein B1: Eiwitsynthese",
+		"examenprogramma_eindterm_id": [
+			"72c528cd-9730-46c2-afba-532ec8abd7e1"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"ce190ebe-2010-45fe-8713-bb5ef5ba81a7"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB/B2",
+		"id": "eeafc2f6-838b-4c8a-84e2-d3ea0f75b237",
+		"title": "Subdomein B2: Stofwisseling van de cel",
+		"examenprogramma_eindterm_id": [
+			"8c140491-1b06-4ef6-b4dc-a3cd4b56ef1f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"b548ec00-389e-4094-9a4f-818b3df4f49f"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB/B3",
+		"id": "a71f9447-4ddd-44ef-95d3-8c9d5e032963",
+		"title": "Subdomein B3: Stofwisseling van het organisme",
+		"examenprogramma_eindterm_id": [
+			"cc474ff1-e2e4-48d1-abe6-42ce41215fc0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"c89e8e15-a482-4c37-a793-efe95a49ca94"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB/B4",
+		"id": "488c8c3d-5f0f-4b84-a321-6f75b7f96ec9",
+		"title": "Subdomein B4: Zelfregulatie van het organisme",
+		"examenprogramma_eindterm_id": [
+			"b8a33f05-b277-42f1-b922-cdb97594fe3a"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"a0c155ca-4780-4b54-abcf-f9eb94761f20"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB/B5",
+		"id": "92324563-0f60-4223-9452-68210ee824d0",
+		"title": "Subdomein B5: Afweer van het organisme",
+		"examenprogramma_eindterm_id": [
+			"4dbc1624-a008-402e-9633-0515f27e2bee"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"abd3a30e-54b0-4a65-bad1-7e519f002627"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB/B8",
+		"id": "940dec39-d320-479b-98c3-23ccf90d567f",
+		"title": "Subdomein B8: Regulatie van ecosystemen",
+		"examenprogramma_eindterm_id": [
+			"70030ce7-bd9b-475f-993b-5f97d82cd172"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7c8edcd5-c9e8-4c88-a633-a24e9090aa9b"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinC/C1",
+		"id": "10fbe7cf-620b-4ce7-bdcb-2db7816a8be5",
+		"title": "Subdomein C1: Zelforganisatie van cellen",
+		"examenprogramma_eindterm_id": [
+			"4ffbddf1-4384-44f6-92c7-af4da7fb486b"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"85dd3f5d-9a62-4cc9-a5de-add7e4442b5b"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinC/C3",
+		"id": "55f0c658-fc33-4f9f-8e5d-ca69ef940b89",
+		"title": "Subdomein C3: Zelforganisatie van ecosystemen",
+		"examenprogramma_eindterm_id": [
+			"066b1f02-dc04-4bf4-a248-5df97f6138b0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"bc9cc003-c551-40bd-8664-42c12af5242d"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinD/D1",
+		"id": "b5a6c778-bf37-4c05-90e7-c6cd37632bfd",
+		"title": "Subdomein D1: Moleculaire interactie",
+		"examenprogramma_eindterm_id": [
+			"5385eac9-5c09-4380-b6ea-97f8e96f444f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f90f9217-a906-44f4-aafb-a690c50ff066"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinD/D2",
+		"id": "7e538a6a-cf9d-4049-aeee-e31ab7d04307",
+		"title": "Subdomein D2: Cellulaire interactie",
+		"examenprogramma_eindterm_id": [
+			"f21daca3-d80a-4ca7-9c15-3c71f20cd056"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e287aec4-dc07-46ef-b1a7-b86514acbec6"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinD/D5",
+		"id": "6b2e08b3-4e59-4cc3-8bd3-2f83eac5ea73",
+		"title": "Subdomein D5: Interactie in ecosystemen",
+		"examenprogramma_eindterm_id": [
+			"cf8c343a-4ce7-4c94-ab85-3ce881cb7c7a"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"32da7f42-9352-4a9f-b91a-edcbc83bec32"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinE/E3",
+		"id": "df269118-faf9-4d5f-a0f6-74083488a57b",
+		"title": "Subdomein E3: Reproductie van het organisme",
+		"examenprogramma_eindterm_id": [
+			"b7f06a18-15b5-4111-ab38-30e7fc6aac01"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"fe872250-91af-4958-99a6-006eeed22da2"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinF/F1",
+		"id": "d83b7da9-181b-47a0-96a3-808df7a773cd",
+		"title": "Subdomein F1: Selectie",
+		"examenprogramma_eindterm_id": [
+			"f4329a12-f290-4982-992f-b09a5ec02b44"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e944370f-5659-4c27-83cb-9849f0a248b4"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinF/F2",
+		"id": "25c9df91-bf0f-457f-bd9e-432b96c545e2",
+		"title": "Subdomein F2: Soortvorming",
+		"examenprogramma_eindterm_id": [
+			"554e2a1d-6141-421d-af66-1147132a8d36"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"3387d24a-17fb-41ab-acf6-71e8bb660ff4"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A5",
+		"id": "d10b0832-55d1-4e9b-8204-52fa3e2cff46",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"b5a63f2f-1fa7-405a-99dc-2ac2df17099a",
+			"17cc37d9-5b06-4cf0-8258-e18886434a67"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"3c59fbbb-b1dd-4f8f-956e-9f1ccb7bb57f"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A6",
+		"id": "6b16aa83-2a60-426f-8f50-410c8db70d3c",
+		"title": "Subdomein A6: Ontwerpen",
+		"examenprogramma_eindterm_id": [
+			"5d143565-6bf8-4e4d-ac4a-bf36051f0b15"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"b6ad3ce6-5340-43bf-906a-100266f8077f"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A7",
+		"id": "e2821568-7a39-440f-9646-a85d4e8cc4d4",
+		"title": "Subdomein A7: Modelvorming",
+		"examenprogramma_eindterm_id": [
+			"472eaa9d-90fa-457e-aa59-d548c4ec46ce",
+			"3abdfb46-50e0-44be-acf5-c13e419d4259"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"a1900183-7d9f-4002-a46c-12f72364ccc0"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A8",
+		"id": "93d347e3-727d-4025-99cf-cca5f285a8f8",
+		"title": "Subdomein A8: Natuurwetenschappelijk instrumentarium",
+		"examenprogramma_eindterm_id": [
+			"93208de5-006d-4a9f-8f8a-ad373a8dfef4"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"d6567712-8db6-4e48-97d1-b2e4c591d57c"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A9",
+		"id": "94dd9277-7812-46c3-b796-68c2ce0f11ac",
+		"title": "Subdomein A9: Waarderen en oordelen",
+		"examenprogramma_eindterm_id": [
+			"7fe4283c-2435-4e2d-987d-52134219f9de"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"8620a719-cd47-41f4-bef1-e8c17971441e"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinB/B2",
+		"id": "ad4cfb62-8cb4-4dd4-8c8d-fead4328a5c9",
+		"title": "Subdomein B2: Stofwisseling van de cel",
+		"examenprogramma_eindterm_id": [
+			"caa4088e-de6b-41c0-85fc-3d54625edea0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"0c65bc2f-709a-4c79-adbc-5f3ff3150667"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinB/B3",
+		"id": "0becc600-d000-447a-bf25-f7c75769934d",
+		"title": "Subdomein B3: Stofwisseling van het organisme",
+		"examenprogramma_eindterm_id": [
+			"a895ef0a-2eb1-43fc-89bc-413715885c14"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"6e1d64e7-7517-4694-be2e-a4315ab2c9e1"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinB/B4",
+		"id": "b946a83e-1ff3-40eb-b89f-f3bddd72d459",
+		"title": "Subdomein B4: Zelfregulatie van het organisme",
+		"examenprogramma_eindterm_id": [
+			"d90329f3-4ae9-4a71-90ea-42646550a859"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"9d581f88-fa74-4177-a952-4984efd7a1a9"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinB/B5",
+		"id": "a179bfc0-2d46-446a-b994-005ee04dda98",
+		"title": "Subdomein B5: Afweer van het organisme",
+		"examenprogramma_eindterm_id": [
+			"afcdbb17-aec3-4cc6-b247-fe56ebda3920"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f133f33e-3610-42ed-bcfe-664993472ad7"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinB/B7",
+		"id": "00fe0e42-2348-4079-a2fd-ec19f43bb81c",
+		"title": "Subdomein B7: Waarneming door het organisme",
+		"examenprogramma_eindterm_id": [
+			"2e36db09-74c5-4c7c-b311-34f2fd84c083"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"6dd80bd2-ffd1-4a5d-9550-b4f1ca37af31"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinB/B8",
+		"id": "56c0acc4-164f-47ad-87bf-168942ed2b5f",
+		"title": "Subdomein B8: Regulatie van ecosystemen",
+		"examenprogramma_eindterm_id": [
+			"bd776cb4-4edb-4bee-98d0-9031d545a421"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"31254f62-c885-416a-bdb3-3ccd62775d2b"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinC/C1",
+		"id": "202c16a4-0549-40f8-a8db-208917baf444",
+		"title": "Subdomein C1: Zelforganisatie van cellen",
+		"examenprogramma_eindterm_id": [
+			"74990024-3f6b-4667-8d44-4f531e81ee8d"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d933296f-60ae-4a83-93c8-7d293fd0e110"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinD/D4",
+		"id": "bd5495c2-08b7-498d-863e-8bc1229537af",
+		"title": "Subdomein D4: Interactie in ecosystemen",
+		"examenprogramma_eindterm_id": [
+			"0efdcb0a-a6b3-4606-bec7-9ffa3556ade0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f24b85bc-7439-405a-8af9-34a8d2e6d49c"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinE/E4",
+		"id": "ebad5ae8-7b5c-40d8-8222-0694fc192400",
+		"title": "Subdomein E4: Erfelijke eigenschap",
+		"examenprogramma_eindterm_id": [
+			"9311851d-60e4-45a0-81b5-f6f8d53142ed"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"87959da5-bcdb-48b8-a181-0c8c03c69fff"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinF/F1",
+		"id": "195baa05-54d9-442a-80b7-2b0bb8c1d2a0",
+		"title": "Subdomein F1: Selectie",
+		"examenprogramma_eindterm_id": [
+			"90e8dddb-79ee-4fef-92aa-f7f1ce4fd30a"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"93308eaa-c8f7-4bfd-8dd6-54d8668943af"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinF/F2",
+		"id": "593ae261-9b8a-4d03-80c0-d01874bceab2",
+		"title": "Subdomein F2: Soortvorming",
+		"examenprogramma_eindterm_id": [
+			"cc920a0d-464f-48f8-b782-4cb3e9fd51b1"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"05c1bf43-0376-4487-bcb2-d300c731cec2"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinA/A1",
+		"id": "7d06bfa4-81f4-44d7-928b-5dc4310acef6",
+		"title": "Subdomein A1: Informatievaardigheden gebruiken",
+		"examenprogramma_eindterm_id": [
+			"7f53a274-7d98-490e-9d33-c0eb12a31223"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"7ac7b22b-c676-40c8-b136-d3c5816d0c61"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinA/A5",
+		"id": "c7794bb9-c7ea-4057-9cdb-fd77ab858219",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"bda29a05-57f6-470b-a350-b3dc537b4b16"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c79501e9-dd04-4a08-8a31-955239b4ea3d"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinA/A6",
+		"id": "2283ac66-483f-4ae9-8d9e-4e58133541b2",
+		"title": "Subdomein A6: Benaderingswijzen",
+		"examenprogramma_eindterm_id": [
+			"dbc4ad3a-25bd-47f9-8ef1-aa8adb357e3a",
+			"124cc06a-a446-4484-811c-66771e2309e1",
+			"4c583e57-681f-4ab8-b999-0ba85889eae8",
+			"5092c8fb-f7ff-441b-a531-9eb85bb75200",
+			"5ea6a342-0e8f-4026-8cf3-c84dc1a4ac9a",
+			"7ca5266c-6083-4943-8351-f5f84cce0d5e",
+			"77da359f-a625-49f6-bc87-ccec1512ef6c",
+			"5de3890b-6c72-49df-b5b5-4f9af1fb3d00",
+			"341e5bb4-df22-4192-af7f-d795304e2569",
+			"21cf5393-ed2c-422c-9d3c-165595f6b06a",
+			"563de81d-0fdc-4018-897f-d5ecb01031c3",
+			"4e64681a-dd18-45d2-8c7e-7791ac5930e8"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"201e4e3a-893b-4573-b949-d9e8145ef178"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinB/B1",
+		"id": "87460ab1-f236-4c92-847f-37f44312afe3",
+		"title": "Subdomein B1: Persoonlijke financiële redzaamheid",
+		"examenprogramma_eindterm_id": [
+			"2193ec1e-e827-4e35-a05e-8dc5524db3a8"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"29ebeb20-14d9-408d-819e-d6718f75cea4"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinB/B2",
+		"id": "58581d5e-302a-422e-9872-c30fbb6d4c17",
+		"title": "Subdomein B2: De oprichting van een eenmanszaak",
+		"examenprogramma_eindterm_id": [
+			"11109b8a-a63d-4ba7-9f47-bae7f56b9089"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"2c56d990-18c8-41b1-ba4a-2ec1ce59c94c"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinB/B3",
+		"id": "7850f4ad-962f-4048-a9fb-09b5993a0b0b",
+		"title": "Subdomein B3: Van eenmanszaak naar rechtspersoon",
+		"examenprogramma_eindterm_id": [
+			"b1037ce8-22c6-4a55-b17a-16d9b8f8f738"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"22da9062-3e65-4b07-9a28-b76cd47fd9f6"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinB/B4",
+		"id": "4dd171bf-8d15-40a5-b80d-57ebfa2e7d83",
+		"title": "Subdomein B4: Perspectief op de organisatie",
+		"examenprogramma_eindterm_id": [
+			"eec6dbd1-00ce-433d-805c-40e0fdba9631"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"ca1c0d3f-88d1-4a57-a99a-805d3e46c9fb"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinC/C2",
+		"id": "5370e2d3-86a9-4333-85e1-1f24527adfa1",
+		"title": "Subdomein C2: Personeelsbeleid",
+		"examenprogramma_eindterm_id": [
+			"b2614655-aa0c-4ea8-8e02-3e5e496b8413"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7a4bdffc-1ab6-40ff-926e-132e071e8322"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinD/D2",
+		"id": "ab9d6d09-7084-418e-8d00-cf42beb4be58",
+		"title": "Subdomein D2: Financieren",
+		"examenprogramma_eindterm_id": [
+			"2a6e1f16-8df7-4d17-b56d-eea5054a4eec",
+			"c6e66619-3a2a-4f34-95da-ae73201b9b62",
+			"071e98a8-895c-44d3-ba2e-e1599c8f2e87"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7b807c3f-d26e-4f9c-ad37-1ceec18b5a5c"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinE/E2",
+		"id": "8e0b7b16-e69c-4faf-8be3-79996a8481fd",
+		"title": "Subdomein E2: Marketingbeleid",
+		"examenprogramma_eindterm_id": [
+			"389c48db-7aa4-48b2-a978-9733ae46be8f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"bfa5f5df-748b-4594-8e3b-01354e11ef82"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinF/F1",
+		"id": "bb805336-d95d-42ee-ac00-f0017e901a4a",
+		"title": "Subdomein F1: Vastleggen van financiële en niet-financiële informatie",
+		"examenprogramma_eindterm_id": [
+			"943cdfb8-1da9-4881-a85f-e9ef2de47bd5",
+			"a82f0006-f234-45a3-82c0-032a1f83796b"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"96e31fd2-accf-4a45-96df-1ecd2d2995f4"
+		]
+	},
+	{
+		"prefix": "BE/V/DomeinF/F2",
+		"id": "820d4ead-1487-4dc9-a37b-b1d0febccc26",
+		"title": "Subdomein F2: Kosten- en winstvraagstukken en beheermaatregelen",
+		"examenprogramma_eindterm_id": [
+			"3365daaa-595a-45bd-8e2d-2f054915a620",
+			"e7385703-bde3-4d5f-b6ed-69787b5cdf9b"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d0020e39-5c2c-40a4-985a-4bca2f055baa"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinA/A1",
+		"id": "99bb8eff-6518-464b-83a1-6341a0678e38",
+		"title": "Subdomein A1: Informatievaardigheden gebruiken",
+		"examenprogramma_eindterm_id": [
+			"1c1260ac-5f8b-4c5f-a628-2c7590046a4c"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"6be8384e-29a3-4767-9278-f8a3a6f88651"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinA/A5",
+		"id": "7b05254c-aef0-46bd-987f-886fb35219f7",
+		"title": "Subdomein A5: Onderzoeken",
+		"examenprogramma_eindterm_id": [
+			"ec965a1d-3dc9-4105-a656-4af53858227d"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"f8d3b98c-69ce-417a-9052-814a36390255"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinA/A6",
+		"id": "ad4b0f1c-96e4-40a5-8bf4-ee5a3c4cadd6",
+		"title": "Subdomein A6: Benaderingswijzen",
+		"examenprogramma_eindterm_id": [
+			"ce08efe2-d7a4-43bb-8d04-903d75fcb675",
+			"e062f788-8c6f-4388-9749-edb39266074b",
+			"4da139b5-18cf-499d-a6ce-18cada3bb7aa",
+			"24f45add-67aa-4657-9019-1de546ce2f68",
+			"9e540aa2-eb25-46b6-87cf-194657df8a85",
+			"a4dd24ac-115e-4bbc-9ade-5da9797dc52b",
+			"de0ba77f-afa0-425e-89fb-b5a528672f8f",
+			"f3c442de-e50e-4c0f-8c89-f25efec2d7a8",
+			"33e50ec2-e848-4bd0-8752-b0197e172263",
+			"5c51b364-ee0e-46c4-b1b9-52c2c7cd8052",
+			"75b562ca-b2d3-4ad9-b94d-b28981005a36",
+			"9ec106f7-c04f-4bd6-8e6c-b399cadeffff"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"b02f0fc1-80ae-48bb-8df4-7b26ebe75460"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinB/B1",
+		"id": "98fced27-cedc-4caa-8092-508152d92321",
+		"title": "Subdomein B1: Persoonlijke financiële redzaamheid",
+		"examenprogramma_eindterm_id": [
+			"295f28d8-e876-4700-a23d-b598308cf74f"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"39524397-521e-4c49-8c58-f5bfbf2206ac"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinB/B2",
+		"id": "adf4c3b3-0cf9-492c-bd0d-5fa94d3b2a03",
+		"title": "Subdomein B2: De oprichting van een eenmanszaak",
+		"examenprogramma_eindterm_id": [
+			"d8e61bb5-5976-4aec-b563-403b7ed0f4c2"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"f6419ea4-b20f-40cc-b868-a3d45f11d6bf"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinB/B3",
+		"id": "85ebfa38-c3bf-414a-92ca-d7b62589c81d",
+		"title": "Subdomein B3: Van eenmanszaak naar rechtspersoon",
+		"examenprogramma_eindterm_id": [
+			"8f3f862a-474e-4ae0-bd53-893b5c9ebf5b"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"d9233c53-c000-4d5d-be58-aca9d50d7e89"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinB/B4",
+		"id": "5dc1f1c6-8eb8-4f50-992b-678ca0b64795",
+		"title": "Subdomein B4: Perspectief op de organisatie",
+		"examenprogramma_eindterm_id": [
+			"7325c05f-7f96-4dcc-a333-2847acd25633"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"61566f53-4fae-43fc-843f-16411e9a95a7"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinC/C2",
+		"id": "fd90c192-afc5-435f-b7d2-3cfcf0236ce2",
+		"title": "Subdomein C2: Personeelsbeleid",
+		"examenprogramma_eindterm_id": [
+			"a13749e0-0a6f-4b52-bc98-286d660e1c30"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"be187128-6a4e-49a7-a37f-2f8b9e5cb470"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinD/D2",
+		"id": "755c4097-bc20-4875-8972-de958232ec60",
+		"title": "Subdomein D2: Financieren",
+		"examenprogramma_eindterm_id": [
+			"abfa78f3-9e0c-4e0c-bf31-73e5fb368d07",
+			"53bd8581-2f7a-4ac5-8650-c074fef3f919",
+			"428523ae-7af7-437e-a87c-98fa2910a6d0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"945181ef-96ad-41b5-8167-24a768a62c6d"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinE/E2",
+		"id": "e1d86c88-53dd-4db9-aa28-b40e17d3d9d5",
+		"title": "Subdomein E2: Marketingbeleid",
+		"examenprogramma_eindterm_id": [
+			"29a3fcea-de9d-48c9-87b7-7fde9874be8b"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"fe284707-3bbd-4d6d-abd3-9bd073754e1b"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinF/F1",
+		"id": "61eeabc7-aabc-410e-a250-3f06996702f3",
+		"title": "Subdomein F1: Vastleggen van financiële en niet-financiële informatie",
+		"examenprogramma_eindterm_id": [
+			"889727f6-0212-4f14-84ec-52d6b7d0ee15",
+			"f35ce2d6-8f73-4200-9633-a01da7e5c07f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"196ad69b-e06c-4872-8a94-b66b79a92364"
+		]
+	},
+	{
+		"prefix": "BE/H/DomeinF/F2",
+		"id": "a1259cce-90b2-4f1d-8ed3-03e675b97f70",
+		"title": "Subdomein F2: Kosten- en winstvraagstukken",
+		"examenprogramma_eindterm_id": [
+			"70572cb4-196a-4d77-b8c2-e759ae964185"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"90e12cdf-ff61-4ef3-9897-a036ae9cfdd7"
+		]
+	},
+	{
+		"prefix": "AK/V/DomeinA/A1",
+		"id": "72a37f22-1163-43a9-a0e5-943a0ad99238",
+		"title": "Subdomein A1: Geografische benadering",
+		"examenprogramma_eindterm_id": [
+			"8b4200a6-22b8-4c70-a73e-0f97485384b2",
+			"3c5d9002-962c-416a-8c57-f1176a059507",
+			"a9ace1a2-ea8c-40b9-a7f3-b7b2f58b4418"
+		],
+		"replaces": [
+			"606657d1-5ec5-4f98-9cdb-8ae2c2db1aff"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinB/B2",
+		"id": "6614885e-453a-440d-a1aa-f4d51dcd41c6",
+		"title": "Subdomein B2: Samenhangen en verschillen in de wereld",
+		"examenprogramma_eindterm_id": [
+			"95215711-baad-4e2f-845c-77d03c3e6745",
+			"e9ebda1d-e149-4685-abcd-8740df3433aa"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d6d5435e-fb28-481e-8813-01d187130e73"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinC/C2",
+		"id": "2dba5936-8767-48b8-9af0-71aa5aa2572a",
+		"title": "Subdomein C2: Samenhangen en verschillen op aarde",
+		"examenprogramma_eindterm_id": [
+			"db7d8932-3b80-4f2e-969d-9d838b5008ff",
+			"71438b9c-bb8f-43cc-8123-e72092b17752"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"15e550de-b304-459a-9fbb-5af70396f67d"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinD/D1",
+		"id": "4fb45914-5c7d-46fa-88bb-6dadbe761e68",
+		"title": "Subdomein D1: Gebiedskenmerken",
+		"examenprogramma_eindterm_id": [
+			"fad83c3f-e01f-4f93-80d2-7e16cf6810b0",
+			"f0d27a3f-c2d2-4494-9471-b76a280340b9"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e348697b-75bb-4ac0-a742-975c4b97109b"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinE/E1",
+		"id": "02a81dc6-4e61-46a7-9d46-5af193983843",
+		"title": "Subdomein E1: Nationale en regionale vraagstukken",
+		"examenprogramma_eindterm_id": [
+			"9c2848bb-c69a-4099-b10b-12a123a8a8b6",
+			"18ba522a-0ad2-4fc0-81a3-894fd79de608"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"28af3ffc-4448-46a5-bbcc-fe37a9fa905a"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinG/G1",
+		"id": "dcd8d831-5869-41fd-a224-5731a04dc3e4",
+		"title": "Subdomein G1: Chemie van het leven",
+		"description": "",
+		"examenprogramma_eindterm_id": [
+			"b99b444d-a748-4161-91b2-0a13fe48aa09"
+		],
+		"replaces": [
+			"fb68453a-6cea-468f-811e-e4b85aa55672"
+		]
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"e7106181-8d64-4478-86d6-0211990d9d2f",
+			"7026a258-f17b-4ca6-a71f-562cc31c2c3f",
+			"2d762ca5-ae6a-4b61-99db-43fe5420fd89",
+			"d3d4d049-3d47-4832-83fa-8d5ab986c234",
+			"107eaa19-fb2e-47f2-8910-09ef52b22391",
+			"5838e8ea-c4ff-4cf1-9fcf-0481c22a226d"
+		],
+		"title": "Subdomein A1: Analyseren en interpreteren",
+		"id": "db5c89fd-a05e-4e6a-adfb-76fb4a7692c6",
+		"prefix": "NE/V/DomeinA/A1",
+		"replaces": [
+			"6b0fd50e-3533-4d56-9e1d-84d74df57127"
+		]
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"d70bdbe8-5d13-4e40-80cf-47985be7edbe"
+		],
+		"title": "Subdomein A2: Beoordelen",
+		"id": "eba21abf-a944-4006-a8f1-06420f49bc81",
+		"prefix": "NE/V/DomeinA/A2",
+		"replaces": [
+			"b8e7abbe-bbec-4594-8ed1-69ad6d483d0f"
+		]
+	},
+	{
+		"examenprogramma_eindterm_id": [
+			"45d6c5cf-2892-4af1-ad20-dfa164b2b5c4"
+		],
+		"title": "Subdomein A3: Samenvatten",
+		"id": "3763634b-032a-41f4-bd0a-701ea89a0582",
+		"prefix": "NE/V/DomeinA/A3",
+		"replaces": [
+			"5f941f76-c88b-4f6b-aed8-596a8facc946"
+		]
+	},
+	{
+		"prefix": "SK/V/DomeinG/G1",
+		"id": "427569a8-52d2-4aa2-938b-b058952d6c05",
+		"title": "Subdomein G1: Chemie van het leven",
+		"examenprogramma_eindterm_id": [
+			"2c020941-d64a-4eb9-88a5-3fbba3e20874"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"e92b6b4f-0818-4d22-a79a-e12d600edce0",
+			"c6f6acdd-cb84-4e98-8932-ab65136f426c"
+		]
+	},
+	{
+		"title": "Subdomein A3: Benaderingswijzen",
+		"id": "a217234d-5de7-480f-aeef-c37eabc9d50f",
+		"examenprogramma_eindterm_id": [
+			"4482e3c1-bdfa-4030-8a87-fa15cb8cfd63",
+			"2d6c4af4-04f5-4b83-96ec-f010f14b534b",
+			"d9c83f75-ce5f-4cc9-85e8-d9f210c630f7"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A3",
+		"replaces": [
+			"c8ed89fa-6adf-40af-9634-5a1d1e046400",
+			"c9c33653-0d7d-4242-a79d-2fd4146408a6"
+		]
+	},
+	{
+		"title": "Subdomein B1: Socialisatie",
+		"id": "ed0f92a8-0790-4f2e-bdc4-c846b8694479",
+		"examenprogramma_eindterm_id": [
+			"056a6968-81e8-49df-bfd6-df7ab12a1aef"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B1",
+		"replaces": [
+			"ab7c8e53-1963-42a5-a2b3-4fb1b9b38858",
+			"14b24fee-8194-4259-ac83-d214a2d17b08"
+		]
+	},
+	{
+		"title": "Subdomein B2: Politieke socialisatie",
+		"id": "5da44797-7c40-4cd1-ae65-1344fc54d37d",
+		"examenprogramma_eindterm_id": [
+			"af9c21bc-6195-4082-8ad2-659802984aad"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinB/B2",
+		"replaces": [
+			"41f1624e-f04a-4b65-a3a6-06d60ca42f33",
+			"1d7c1846-8bd6-489b-aead-f3c9adeb3d38"
+		]
+	},
+	{
+		"title": "Subdomein C1: Verhoudingen: nationaal en internationaal",
+		"id": "a4e835fc-a9ec-4f07-82fa-d038c43946ee",
+		"examenprogramma_eindterm_id": [
+			"deb09fcd-d66d-481c-86bc-956a005474f1"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C1",
+		"replaces": [
+			"7a9bd011-97e0-44c1-88cd-5689d894e0a3",
+			"ddb05787-75e1-4f3c-9c6f-e2256feaad57"
+		]
+	},
+	{
+		"title": "Subdomein C2: Macht en gezag",
+		"id": "30cdcb24-fb56-4d2b-9f0d-2c96332a5ea0",
+		"examenprogramma_eindterm_id": [
+			"cd650005-4c2a-4c50-8cfa-238809324825"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C2",
+		"replaces": [
+			"ea50f734-eae6-45da-ae3c-182fcf33f767",
+			"2fac3170-22d3-4e7c-8b19-493b064e4cdd"
+		]
+	},
+	{
+		"title": "Subdomein C3: Internationale conflicten en internationale samenwerking",
+		"id": "b05e298c-ad9f-432a-aea9-67f4a91973d5",
+		"examenprogramma_eindterm_id": [
+			"6b869646-09bc-4294-a948-6a08977cfe2d"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C3",
+		"replaces": [
+			"804537eb-c8b3-4fca-9f97-f8520501feba",
+			"0146296a-fb76-4b13-91f8-e5b825864fbb"
+		]
+	},
+	{
+		"title": "Subdomein C4: Machtsverhoudingen binnen een specifieke context",
+		"id": "7fc6e97a-063b-4f36-a6a8-0261df5c9b76",
+		"examenprogramma_eindterm_id": [
+			"8de967d7-36fd-4c60-95b8-cdfd6a9eaa09"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C4",
+		"replaces": [
+			"0aaa5efa-a81b-47e0-9f0d-fe2ee7f56f1b",
+			"3a2dd424-67fd-469a-a890-63d9946dac91"
+		]
+	},
+	{
+		"title": "Subdomein C5: Overheidsbeleid ten aanzien van het buitenland",
+		"id": "111f4ebe-0b1e-429d-827e-7838cdda11de",
+		"examenprogramma_eindterm_id": [
+			"db6f64ab-696f-4a7e-957a-3ad8d0c5ea8f"
+		],
+		"ce_se": "CE",
+		"prefix": "MAW/V/DomeinC/C5",
+		"replaces": [
+			"982685ed-ae23-44f1-b6d8-c7de8bf18665",
+			"efce342c-6b3a-4f70-92fa-215020bd60e2"
+		]
+	},
+	{
+		"title": "Subdomein D1: Sociale cohesie: mate van binding",
+		"id": "a5381d8f-c69a-4225-837d-50d3b1c299e4",
+		"examenprogramma_eindterm_id": [
+			"c8f37bb9-d4c6-4dab-a738-cf57c1b72954"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinD/D1",
+		"replaces": [
+			"3b4bcc6b-8bed-4eaa-979c-3935e1b55302",
+			"05edfe4f-050f-498c-bd09-27613cffafea"
+		]
+	},
+	{
+		"title": "Subdomein D2: Politieke instituties en representatie/ representativiteit",
+		"id": "ee32900f-68df-4e5a-b7ed-8db3681bb2c4",
+		"examenprogramma_eindterm_id": [
+			"81d50495-32ff-4a5a-a7df-541c53bf3182"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinD/D2",
+		"replaces": [
+			"958b8c8d-a368-49c9-91b7-82cedde6c101",
+			"c63933e2-9e18-4d1d-b8b4-1711d933fc16"
+		]
+	},
+	{
+		"title": "Subdomein D3: Voorbeeld binnen een specifieke context van effecten van ontwikkelingen op politieke bindingen in een samenleving",
+		"id": "1335c12d-27df-4f19-951b-55130280f71e",
+		"examenprogramma_eindterm_id": [
+			"8abd329c-6aac-4e7e-8948-00b318c14bf2"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinD/D3",
+		"replaces": [
+			"89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3",
+			"b32e0ce2-c6be-4590-9bb5-a985c5d4f99f"
+		]
+	},
+	{
+		"title": "Subdomein D4: Voorbeeld binnen een specifieke context van effecten van ontwikkelingen op affectieve bindingen in een samenleving",
+		"id": "8c96aadc-9878-47dc-8e3c-db1e3a66894a",
+		"examenprogramma_eindterm_id": [
+			"c60598c9-f244-41dd-9218-f80ac64e85ed"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinD/D4",
+		"replaces": [
+			"d718e7e1-2cb0-4e52-9e44-967ec9db7eb4",
+			"e430d19a-c1d8-4da0-8544-ffda9b4f75cd"
+		]
+	},
+	{
+		"title": "Subdomein E1: Veranderingsprocessen rationalisering, individualisering en institutionalisering",
+		"id": "7b6e3151-9870-4c5b-a374-b7de267fa610",
+		"examenprogramma_eindterm_id": [
+			"af4c2732-8680-4e8c-a3b4-1b583036ad0b"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinE/E1",
+		"replaces": [
+			"98e55553-55ed-485f-9724-5d0ce30b42e1",
+			"20eeeed2-4a67-4b86-8cd3-32ca83b7484b"
+		]
+	},
+	{
+		"title": "Subdomein E2: Veranderingsprocessen staatsvorming, democratisering en globalisering",
+		"id": "d7518bd4-db59-4bb5-a9c9-6a2b22762e0f",
+		"examenprogramma_eindterm_id": [
+			"3e301233-fced-4236-aa61-6470f14f0ab7"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinE/E2",
+		"replaces": [
+			"c250a4d1-73c7-49cb-9d1b-5ff458c6eae1",
+			"c4271ec0-6138-4c34-b901-84e23712bd4e"
+		]
+	},
+	{
+		"title": "Subdomein E3: Effecten van veranderingen binnen een specifieke context op andere maatschappelijke vraagstukken",
+		"id": "a2778cc5-6ae2-41cf-952c-97649d09afa3",
+		"examenprogramma_eindterm_id": [
+			"b716f149-f324-496b-9019-e94d1e480c55"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinE/E3",
+		"replaces": [
+			"1d37b9ba-ae5a-48d5-a668-eb32e89916b5",
+			"28a9d5f6-19cc-41a2-91cd-f0725f0f4a1b"
+		]
+	},
+	{
+		"title": "Subdomein E4: Standpunten van aanhangers van politieke stromingen over vraagstukken die samenhangen met veranderingsprocessen ",
+		"id": "f561fe88-6674-4879-bdc3-3f1be0237288",
+		"examenprogramma_eindterm_id": [
+			"70c7dc44-dcdf-458e-80e3-3da178e2b042"
+		],
+		"ce_se": "SE",
+		"prefix": "MAW/V/DomeinE/E4",
+		"replaces": [
+			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b",
+			"a75f6c10-9bf2-4427-a59d-ed8282f15b99"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinA/A1",
+		"id": "def4323c-792d-42e2-9b16-d0af97c1f147",
+		"title": "Subdomein A1: Analyseren en interpreteren",
+		"examenprogramma_eindterm_id": [
+			"c5704d5c-79a1-4507-9a46-3fa9be40c3f2",
+			"8ff5f893-c38f-4e02-b50d-6ea3465296ea",
+			"f3da810d-50d3-4a13-92b1-91b732b80ccb",
+			"cea109ba-1410-42b9-9676-fe9953e7bf7a",
+			"6d31aa28-7a20-43b3-adbc-942e37574f97",
+			"9b39f575-3f50-4fe6-a804-5dca5f79b7c8"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"b2521853-310f-475e-ab1e-26f0fc3cbab7",
+			"2ca69949-4c35-42b1-8ac5-ffbe6fa169d9"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinA/A2",
+		"id": "ce3d161d-9f2f-4172-b1df-3ddc6c73f4de",
+		"title": "Subdomein A2: Beoordelen",
+		"examenprogramma_eindterm_id": [
+			"f88a64c3-3bf9-465c-9eee-df272eb916cc"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"5cfa5a96-acba-47c0-83dc-5ac3e6d1ef1e",
+			"5c947890-96be-4c4f-b8d4-48b71f4db134"
+		]
+	},
+	{
+		"prefix": "NE/H/DomeinA/A3",
+		"id": "8e33d7d6-ff5a-4c22-865b-306c654f98cb",
+		"title": "Subdomein A3: Samenvatten",
+		"examenprogramma_eindterm_id": [
+			"6c45939a-5c85-4e56-b93a-e7aabe6e0851"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"1ab5dce6-2809-4317-9f7b-bf19345c3644",
+			"f0d3c6c5-ce5d-49a3-b858-677c53b0fd8d"
+		]
+	},
+	{
+		"id": "9a13989c-4eaf-4086-b64f-a2b363f3f0c4",
+		"title": "Subdomein A1: Informatievaardigheden",
+		"examenprogramma_eindterm_id": [
+			"f9630f67-48d1-4ee1-805d-ac35b7210106",
+			"370ff797-926f-44be-b72f-a8a43614aaf7",
+			"ff6a5fca-52ab-4087-8db1-8af68eefdfba"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "MAW/V/DomeinA/A1",
+		"replaces": [
+			"925f09fa-fed5-4fc1-9e53-ace39ecb999c",
+			"9012fd63-22d7-4b82-872a-16b675e8f9cb"
+		]
+	},
+	{
+		"id": "99ce6700-8919-4321-a5ca-3e8e590b2aa5",
+		"prefix": "WI/C/V/DomeinA/A3",
+		"title": "Subdomein A3: Wiskundige vaardigheden",
+		"examenprogramma_eindterm_id": [
+			"3aa100cd-6d26-4fcd-b9c0-c30e8160f208"
+		],
+		"description": "",
+		"replaces": [
+			"8223d9e5-ad60-4fb2-849c-8875503287ef"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinC/C1",
+		"id": "a01627ef-5fd2-4e2e-a790-3036c7770c6e",
+		"title": "Subdomein C1: Standaardfuncties",
+		"examenprogramma_eindterm_id": [
+			"bb82ec2f-132a-449f-83d3-b9022f6f1e6f"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d7f94ae5-fe8a-4e3c-b326-bd7264ad3b62",
+			"eb3922b7-0f42-4c57-86c0-a14bedafd7d5"
+		]
+	},
+	{
+		"prefix": "WI/A/V/DomeinC/C2",
+		"id": "9284e379-c777-48b5-9204-beb6f6b6b1d1",
+		"title": "Subdomein C2: Functies, grafieken, vergelijkingen en ongelijkheden",
+		"ce_se": "CE",
+		"examenprogramma_eindterm_id": [
+			"afef406c-43ea-4bc5-be34-17c32bf4923c"
+		],
+		"replaces": [
+			"bead96c3-a4e5-480c-8881-091dac8cbdb1",
+			"c33c7c2b-6c9e-491d-b1cf-aac9ac9c5b7d"
+		]
+	},
+	{
+		"id": "0fef1e23-78f3-4b5b-8c90-a6a7ed3b9831",
+		"title": "Subdomein D5: Overheidsbeleid en standpunten van politieke partijen",
+		"description": "",
+		"prefix": "MAW/V/DomeinD/D5",
+		"examenprogramma_eindterm_id": [
+			"18a7cf48-cd19-45ab-9df4-35ab974830e1"
+		],
+		"replaces": [
+			"cbcfd73d-2be0-4536-afeb-02fc6a1d347f",
+			"5ae1d13e-dfbb-4845-8e20-cd9ec1cf1853"
+		]
+	},
+	{
+		"prefix": "AK/H/DomeinA/A1",
+		"id": "ec04c5a4-309b-46d6-8ff0-1e088877a25c",
+		"title": "Subdomein A1: Geografische benadering",
+		"examenprogramma_eindterm_id": [
+			"3c566dfb-52cb-470c-b7d3-ad9aa46030f5",
+			"bb5a314e-f03e-46e0-98b4-e17e6c3ceb68",
+			"ab42ce67-8ddd-435f-a736-36594c967fd5"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"7a894a09-cfaa-49e2-9ea1-7e320e055d78",
+			"32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
 		]
 	}
 ]

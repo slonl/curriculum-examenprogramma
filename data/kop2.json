@@ -585,23 +585,6 @@
 		]
 	},
 	{
-		"id": "c97813d9-1e33-490e-b59f-b9502298a6b7",
-		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"examenprogramma_body_id": [
-			"9913999e-6796-4e7a-9fe2-956913286548",
-			"42864135-d1e7-4d89-9b35-9c7486c120a5",
-			"182bf0d4-02ec-4d46-b8d0-c0408b33aa02",
-			"39c794d4-164a-4a6c-9a60-06b539fb98d4",
-			"ee5aa3b8-3cd4-4e11-a888-4200a1561236",
-			"e8f364df-6a3d-4a67-89da-485cae44d2d5",
-			"f682746d-d8c5-4853-909f-fd982d3984e1",
-			"c74ebcb2-c700-452d-86bd-1b89744c4339"
-		]
-	},
-	{
 		"id": "61a7d5ec-5332-4e89-85bf-6c0a561136e5",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"tag_id": [
@@ -927,6 +910,26 @@
 		"id": "c272889e-39a4-4387-8cb8-cd783bffd810",
 		"replaces": [
 			"c5954cc4-d473-4363-aafb-ad12fe282b0e"
+		]
+	},
+	{
+		"id": "ebfeea00-7302-46b9-a8dd-18b0a9efe171",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"examenprogramma_body_id": [
+			"57aee692-ee00-4444-983e-b158618a33a3",
+			"cafbd63c-dd5d-4ce6-b32a-b63c0ff79c4d",
+			"a42eca39-e277-49c0-b1f8-59482211c51a",
+			"5f917f8e-9182-42c0-9512-5d373953e713",
+			"93ba3571-23ce-4b34-a7e1-883a2421f033",
+			"87847e01-87cd-403b-916f-310941d11022",
+			"f682746d-d8c5-4853-909f-fd982d3984e1",
+			"c74ebcb2-c700-452d-86bd-1b89744c4339"
+		],
+		"replaces": [
+			"c97813d9-1e33-490e-b59f-b9502298a6b7"
 		]
 	}
 ]

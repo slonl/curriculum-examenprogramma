@@ -3341,60 +3341,6 @@
 		]
 	},
 	{
-		"id": "9913999e-6796-4e7a-9fe2-956913286548",
-		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"dirty": true
-	},
-	{
-		"id": "42864135-d1e7-4d89-9b35-9c7486c120a5",
-		"prefix": "B.",
-		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"dirty": true
-	},
-	{
-		"id": "182bf0d4-02ec-4d46-b8d0-c0408b33aa02",
-		"prefix": "C.",
-		"title": "Domein C Leven",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"dirty": true
-	},
-	{
-		"id": "39c794d4-164a-4a6c-9a60-06b539fb98d4",
-		"prefix": "D.",
-		"title": "Domein D Biosfeer",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"dirty": true
-	},
-	{
-		"id": "ee5aa3b8-3cd4-4e11-a888-4200a1561236",
-		"prefix": "E.",
-		"title": "Domein E Materie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"dirty": true
-	},
-	{
-		"id": "e8f364df-6a3d-4a67-89da-485cae44d2d5",
-		"prefix": "F.",
-		"title": "Domein F Zonnestelsel en heelal.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"dirty": true
-	},
-	{
 		"id": "f682746d-d8c5-4853-909f-fd982d3984e1",
 		"title": "Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof.",
 		"tag_id": [
@@ -3414,33 +3360,6 @@
 		"tag_id": [
 			"eb71d445-164f-4a3a-a354-c6518173feb6"
 		]
-	},
-	{
-		"id": "3278a1c3-a44a-4e5a-801e-10ca2291d366",
-		"prefix": "1.",
-		"title": "de domeinen A en B;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"dirty": true
-	},
-	{
-		"id": "6eb1bc75-2611-4aee-a3d3-0e3a38d4554b",
-		"prefix": "2.",
-		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"dirty": true
-	},
-	{
-		"id": "da6ee1fd-9bcf-404d-bb74-26fc8eb3b16e",
-		"prefix": "3.",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
-		"dirty": true
 	},
 	{
 		"id": "4c6a9ff7-b2a9-433e-a0c4-5636527bff27",
@@ -4545,5 +4464,104 @@
 	{
 		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "a8de0acb-d02d-4bca-8b86-fc6482edeb6f"
+	},
+	{
+		"id": "57aee692-ee00-4444-983e-b158618a33a3",
+		"prefix": "A.",
+		"title": "Domein A Vaardigheden",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"replaces": [
+			"9913999e-6796-4e7a-9fe2-956913286548"
+		]
+	},
+	{
+		"id": "cafbd63c-dd5d-4ce6-b32a-b63c0ff79c4d",
+		"prefix": "B.",
+		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"replaces": [
+			"42864135-d1e7-4d89-9b35-9c7486c120a5"
+		]
+	},
+	{
+		"id": "a42eca39-e277-49c0-b1f8-59482211c51a",
+		"prefix": "C.",
+		"title": "Domein C Leven",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"replaces": [
+			"182bf0d4-02ec-4d46-b8d0-c0408b33aa02"
+		]
+	},
+	{
+		"id": "5f917f8e-9182-42c0-9512-5d373953e713",
+		"prefix": "D.",
+		"title": "Domein D Biosfeer",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"replaces": [
+			"39c794d4-164a-4a6c-9a60-06b539fb98d4"
+		]
+	},
+	{
+		"id": "93ba3571-23ce-4b34-a7e1-883a2421f033",
+		"prefix": "E.",
+		"title": "Domein E Materie",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"replaces": [
+			"ee5aa3b8-3cd4-4e11-a888-4200a1561236"
+		]
+	},
+	{
+		"id": "87847e01-87cd-403b-916f-310941d11022",
+		"prefix": "F.",
+		"title": "Domein F Zonnestelsel en heelal.",
+		"tag_id": [
+			"12ad89b5-0997-4695-952f-84e83a44fbab"
+		],
+		"replaces": [
+			"e8f364df-6a3d-4a67-89da-485cae44d2d5"
+		]
+	},
+	{
+		"id": "174e521f-71c7-4e11-b947-1885de8da407",
+		"prefix": "1.",
+		"title": "de domeinen A en B;",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"replaces": [
+			"3278a1c3-a44a-4e5a-801e-10ca2291d366"
+		]
+	},
+	{
+		"id": "e1c2e6d7-9e94-45c6-aad5-b34992ad0d44",
+		"prefix": "2.",
+		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"replaces": [
+			"6eb1bc75-2611-4aee-a3d3-0e3a38d4554b"
+		]
+	},
+	{
+		"id": "6966fb86-e457-44b8-a356-08a6b2e2cb27",
+		"prefix": "3.",
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"tag_id": [
+			"eb71d445-164f-4a3a-a354-c6518173feb6"
+		],
+		"replaces": [
+			"da6ee1fd-9bcf-404d-bb74-26fc8eb3b16e"
+		]
 	}
 ]
