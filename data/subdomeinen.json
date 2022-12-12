@@ -9455,7 +9455,10 @@
 		"id": "86e3f784-a935-468b-8de5-4fc9e37cd433",
 		"prefix": "WI/C/V/DomeinE/E6",
 		"title": "Subdomein E6: Statistiek met ICT",
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"72bf06ae-ba56-41cd-bd60-6a550f308a33"
+		]
 	},
 	{
 		"id": "57e83bb5-0b29-4c9c-9744-a3020bde609b",
