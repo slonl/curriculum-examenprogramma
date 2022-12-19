@@ -977,7 +977,13 @@
 		"prefix": "FR/vmbo",
 		"ingangsdatum": "",
 		"url": "",
-		"versie": ""
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		]
 	},
 	{
 		"prefix": "LO/V",
