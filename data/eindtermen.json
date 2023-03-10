@@ -55,9 +55,6 @@
 		"id": "70024571-16da-4d8b-ac17-1dea6e865af3",
 		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij wiskundige technieken kiezen en gebruiken om problemen op te lossen, waaronder basisalgoritmen en standaardmethodes",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"ce_se": "CE",
@@ -65,16 +62,14 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/K/3/3b",
 		"id": "b72ffd75-b34b-48cb-98e5-6aeff2af720e",
 		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij communiceren door middel van adequaat (wiskundig) taalgebruik",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"ce_se": "CE",
@@ -82,16 +77,14 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/K/3/3c",
 		"id": "9b99e478-af5a-4b86-a97b-705921aadf81",
 		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij adequate onderzoeks- en redeneerstrategieën toepassen.",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"ce_se": "CE",
@@ -99,7 +92,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/K/4/4a",
@@ -192,9 +186,6 @@
 		"id": "c0134c66-5a44-4f2d-aaa2-034597213566",
 		"title": "De kandidaat kan efficiënt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij schatten en rekenen met gangbare maten en grootheden",
 		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"ce_se": "CE",
@@ -202,7 +193,8 @@
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/K/5/7b",
