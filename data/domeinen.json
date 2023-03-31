@@ -3365,7 +3365,7 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "FI/H/DomeinD ",
+		"prefix": "FI/H/DomeinD",
 		"id": "57ae8740-026f-46d9-8528-f2bef1dc4023",
 		"title": "Domein D: Sociale filosofie",
 		"examenprogramma_subdomein_id": [
@@ -3373,7 +3373,8 @@
 			"959a15ae-fee2-4cdd-8265-4ca572f044b8",
 			"77f36511-fbf9-467c-83c0-7ed5f7699088"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"dirty": true
 	},
 	{
 		"prefix": "EN/K/1",
