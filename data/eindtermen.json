@@ -12849,17 +12849,15 @@
 		"id": "2f6610e3-640b-4afd-b750-1b120f36279b",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"ce_se": "CE",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "GS/K/3/3b",
