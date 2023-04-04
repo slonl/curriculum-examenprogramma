@@ -12849,7 +12849,7 @@
 		"id": "2f6610e3-640b-4afd-b750-1b120f36279b",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
 		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"ce_se": "CE",
 		"description": "",
@@ -12925,16 +12925,15 @@
 		"id": "826a3b42-a7a2-40de-9137-53f45010abc0",
 		"title": "De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
 		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"ce_se": "CE",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "GS/K/6/8",
@@ -13075,16 +13074,15 @@
 		"id": "e04f3fdd-c3af-4acc-92c9-6d009a36f304",
 		"title": "De kandidaat kan herkennen en beschrijven welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.",
 		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
+			"64852857-b601-419f-9cbb-e1335a185303"
 		],
 		"ce_se": "CE",
 		"description": "",
 		"ce": 1,
 		"se": 0,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "GS/K/11/18",
