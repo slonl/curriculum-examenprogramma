@@ -1820,7 +1820,8 @@
 		],
 		"replaces": [
 			"f12bad65-4404-4800-be79-a1f274513cf1"
-		]
+		],
+		"dirty": true
 	},
 	{
 		"prefix": "GS/havo",
@@ -1849,8 +1850,7 @@
 		],
 		"replaces": [
 			"d70f38ff-7cd3-4fb7-921a-78b8e2d4c3ff"
-		],
-		"dirty": true
+		]
 	},
 	{
 		"prefix": "BIO/vwo",
