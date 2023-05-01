@@ -18715,7 +18715,7 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "BIO/H/DomeinB/A15/15",
+		"prefix": "BIO/H/DomeinA/A15/15",
 		"id": "f822089b-caf8-47b0-9fc0-c448ae68def8",
 		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F genoemde concepten ten minste gebruiken in beroepscontexten en in leefwereldcontexten.",
 		"niveau_id": [
@@ -18726,7 +18726,8 @@
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "BIO/H/DomeinB/A16/16",
