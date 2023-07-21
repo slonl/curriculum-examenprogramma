@@ -6409,7 +6409,7 @@
 		"examenprogramma_eindterm_id": [
 			"0506deab-1502-4352-b9ad-3bea34e765c5"
 		],
-		"ce_se": "CE",
+		"ce_se": "SE",
 		"prefix": "MAW/V/DomeinF/F1",
 		"replaces": [
 			"76ad6d16-aee9-4894-8363-85d191a3f15f"
@@ -6421,7 +6421,7 @@
 		"examenprogramma_eindterm_id": [
 			"a0f42da9-bf31-4dd8-b11b-aec95bb29d97"
 		],
-		"ce_se": "CE",
+		"ce_se": "SE",
 		"prefix": "MAW/V/DomeinF/F2",
 		"replaces": [
 			"cfff0210-7843-46d5-8278-967559cd89e3"
@@ -6994,7 +6994,6 @@
 		"prefix": "MAW/V/DomeinF/F3",
 		"id": "9c89f769-97ff-451d-a6c5-ae1409756d80",
 		"title": "Subdomein F3: Overheidsbeleid",
-		"examenprogramma_eindterm_id": [],
 		"ce_se": "CE",
 		"replaces": [
 			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
@@ -7005,7 +7004,6 @@
 		"prefix": "MAW/V/DomeinF/F4",
 		"id": "d54ab37b-d66b-438d-ba22-91db72da535b",
 		"title": "Subdomein F4: Functies van straffen",
-		"examenprogramma_eindterm_id": [],
 		"ce_se": "CE",
 		"replaces": [
 			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
@@ -7016,7 +7014,6 @@
 		"prefix": "MAW/V/DomeinG/G5",
 		"id": "49709dff-4a86-45f8-8c5a-06b06ce306a1",
 		"title": "Subdomein G5: Milieu en cultuur",
-		"examenprogramma_eindterm_id": [],
 		"ce_se": "SE",
 		"replaces": [
 			"b52d219f-d26f-40fe-8559-e93ebfbbf312",
@@ -9989,7 +9986,7 @@
 		"examenprogramma_eindterm_id": [
 			"c8f37bb9-d4c6-4dab-a738-cf57c1b72954"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D1",
 		"replaces": [
 			"3b4bcc6b-8bed-4eaa-979c-3935e1b55302",
@@ -10002,7 +9999,7 @@
 		"examenprogramma_eindterm_id": [
 			"81d50495-32ff-4a5a-a7df-541c53bf3182"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D2",
 		"replaces": [
 			"958b8c8d-a368-49c9-91b7-82cedde6c101",
@@ -10015,7 +10012,7 @@
 		"examenprogramma_eindterm_id": [
 			"8abd329c-6aac-4e7e-8948-00b318c14bf2"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D3",
 		"replaces": [
 			"89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3",
@@ -10028,7 +10025,7 @@
 		"examenprogramma_eindterm_id": [
 			"c60598c9-f244-41dd-9218-f80ac64e85ed"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D4",
 		"replaces": [
 			"d718e7e1-2cb0-4e52-9e44-967ec9db7eb4",
@@ -10041,7 +10038,7 @@
 		"examenprogramma_eindterm_id": [
 			"af4c2732-8680-4e8c-a3b4-1b583036ad0b"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E1",
 		"replaces": [
 			"98e55553-55ed-485f-9724-5d0ce30b42e1",
@@ -10054,7 +10051,7 @@
 		"examenprogramma_eindterm_id": [
 			"3e301233-fced-4236-aa61-6470f14f0ab7"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E2",
 		"replaces": [
 			"c250a4d1-73c7-49cb-9d1b-5ff458c6eae1",
@@ -10067,7 +10064,7 @@
 		"examenprogramma_eindterm_id": [
 			"b716f149-f324-496b-9019-e94d1e480c55"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E3",
 		"replaces": [
 			"1d37b9ba-ae5a-48d5-a668-eb32e89916b5",
@@ -10080,7 +10077,7 @@
 		"examenprogramma_eindterm_id": [
 			"70c7dc44-dcdf-458e-80e3-3da178e2b042"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E4",
 		"replaces": [
 			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b",
@@ -10195,7 +10192,8 @@
 		"replaces": [
 			"cbcfd73d-2be0-4536-afeb-02fc6a1d347f",
 			"5ae1d13e-dfbb-4845-8e20-cd9ec1cf1853"
-		]
+		],
+		"ce_se": "CE"
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1",
