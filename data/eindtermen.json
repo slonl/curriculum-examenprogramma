@@ -967,15 +967,13 @@
 		"prefix": "WI/B/H/DomeinD/D2/11",
 		"id": "82d98790-f50b-4eb8-9602-6090f490a1b0",
 		"title": "De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale veranderingen van functiewaarden benaderen zowel met een differentiaalquotiënt als met een numeriek-grafische methode.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ce_se": "CE;SE",
+		"ce_se": "CE; SE",
 		"description": "",
 		"ce": 1,
 		"se": 1,
 		"kern": 0,
-		"keuze": 0
+		"keuze": 0,
+		"dirty": true
 	},
 	{
 		"prefix": "WI/A/V/DomeinE/E1/11",
