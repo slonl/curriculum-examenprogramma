@@ -6039,7 +6039,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "2c74b74e-9a54-4532-8da2-8125a99af100",
@@ -6047,7 +6054,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "82dbe5c4-0df9-4404-8b33-e0e915c68196",
@@ -6055,7 +6069,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "b034c19c-fd46-4dc3-9176-c3b5ab04c6b1",
@@ -6063,7 +6084,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "c6240118-7fd3-4624-9048-77a70e61375c",
@@ -6071,7 +6099,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "06862645-7d9c-4b1a-ae52-bf0a8c4cca5c",
@@ -6079,7 +6114,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "c8075ba6-ba50-4c93-abfa-f98c52e04eac",
@@ -6087,7 +6129,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "a8393d28-8714-4125-9343-66bc4b49edab",
@@ -6095,7 +6144,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "c2f5acf0-7454-4cbc-98bb-5dcbbc13a8a1",
@@ -6103,7 +6159,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "950aac82-e0d3-4747-b783-bec9485f9f4b",
@@ -6111,7 +6174,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "39a4db5f-3149-496e-bdf0-6d2cb0e6a1fa",
@@ -6369,7 +6439,13 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "ML/V/DomeinA/A2/2b",
@@ -10821,7 +10897,14 @@
 		"title": "De kanditaat kan in contexten vraagstellingen analyseren, gebruik makend van relevante begrippen en theorie, vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken. De kandidaat maakt daarbij gebruik van consistente redeneringen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "INF/H/DomeinA/A6/6",
@@ -10902,7 +10985,14 @@
 		"title": "De kandidaat kan beschrijven welke ethische normen en waarden een rol spelen bij het gebruik en de ontwikkeling van digitale artefacten, het eigen handelen expliciet vergelijken met ethische richtlijnen, en het eigen handelen kritisch analyseren en relateren aan ethische dilemma’s.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "INF/H/DomeinA/A12/12",
@@ -10936,7 +11026,14 @@
 		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F, en in de gekozen domeinen uit G tot en met R, genoemde concepten ten minste gebruiken in beroepscontexten, in maatschappelijke contexten en in wetenschappelijke contexten",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "b2319dcc-830d-4a6e-9185-18ab611a06ec",
@@ -11173,7 +11270,14 @@
 		"title": "De kandidaat kan  het verschil tussen exponentiële en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "INF/H/DomeinG/G2/32",
@@ -15926,7 +16030,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "afb0bcd7-0d15-48dd-9f6d-99a00927527a",
@@ -15935,7 +16046,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "90817313-6c00-463d-bad7-71280b32573d",
@@ -15944,7 +16062,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "06cd0d87-6124-4553-95a0-45f9d322d5dd",
@@ -15953,7 +16078,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "778ef219-dc0a-42d5-86b6-1486c465b8e8",
@@ -15962,7 +16094,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "35673be9-eb57-4dcb-aff7-23a4ae9af237",
@@ -15971,7 +16110,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "f3d4dc1d-2bc8-4ee7-a45d-1942bd19f58d",
@@ -15980,7 +16126,14 @@
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE"
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "EC/H/DomeinJ/10a",
@@ -16844,7 +16997,13 @@
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "DA/K/5/5a",
@@ -17145,7 +17304,13 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "SE"
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "CKV/V/DomeinC/6b",
@@ -18946,7 +19111,14 @@
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "BE/V/DomeinC/C1/15",
@@ -19108,7 +19280,14 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE; SE"
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"id": "82227957-1337-4029-a60f-e2ed37b66983",
@@ -20025,7 +20204,14 @@
 		"title": "Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"deleted": 1
 	},
 	{
 		"prefix": "AK/V/DomeinE/E2/10",
