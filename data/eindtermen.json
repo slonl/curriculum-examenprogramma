@@ -32393,7 +32393,7 @@
 		],
 		"ce_se": "CE",
 		"description": "",
-		"ce": "1",
+		"ce": 1,
 		"se": 0,
 		"kern": 0,
 		"keuze": 0,
