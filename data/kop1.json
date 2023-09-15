@@ -2107,12 +2107,15 @@
 			"90eaeab2-8ad7-4713-95bd-e32bfb51c2c5"
 		],
 		"title": "Het eindexamen bestaat uit het schoolexamen.",
-		"id": "ba5ae86d-da66-401a-92c5-ea9ec17b0d64"
+		"id": "ba5ae86d-da66-401a-92c5-ea9ec17b0d64",
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het schoolexamen",
-		"id": "3c679f73-85c2-4481-8024-a9d21d36395d"
+		"id": "3c679f73-85c2-4481-8024-a9d21d36395d",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_kop2_id": [
@@ -2186,10 +2189,11 @@
 		"examenprogramma_kop2_id": [
 			"95ae33a4-6660-4dcb-9112-890b98b306b7"
 		],
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"b551b4fc-68de-44c7-826f-c521355a81d8"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "6556a644-82ac-4180-be69-6d602b06d1b0",
@@ -2197,42 +2201,47 @@
 		"tag_id": [
 			"12ad89b5-0997-4695-952f-84e83a44fbab"
 		],
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"e919349e-f88f-4236-b5e8-71362f1790e1"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het centraal examen",
 		"id": "a02ca87d-1d01-4a72-8517-85d2fdd8d675",
 		"replaces": [
 			"1585f8c2-320c-4886-9792-ba0f1188a381"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het schoolexamen",
 		"id": "6dd3f3c2-2bea-46e8-b063-f70f16c1381f",
 		"replaces": [
 			"56dd759d-ee0b-4a8f-9f1b-b1dd55cd2ef8"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het centraal examen",
 		"id": "92ac0339-18e4-4286-8919-85b68fe09a23",
 		"replaces": [
 			"aa81fbb3-aa1a-4d90-8ad7-a186ec7c8b60"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het schoolexamen",
 		"id": "3bcc061f-8e0c-4f7b-8c24-104191941c16",
 		"replaces": [
 			"58f98fd7-b1ab-40c6-83cc-4b300f06b8f1"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_kop2_id": [
@@ -2242,7 +2251,9 @@
 		"id": "73e6c727-50f9-4e0b-a8a8-7c674660f51a",
 		"replaces": [
 			"0b30edc8-8dd9-45e0-ba0d-23d591157cfd"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_kop2_id": [
@@ -2252,7 +2263,9 @@
 		"id": "0b5f82ad-7bc7-4e9a-a64a-890369c5b105",
 		"replaces": [
 			"30402a95-edd6-416d-a7f3-6b6b968cf74d"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "79e5aa94-0ab6-450a-a9a5-37ab3e7dc21a",
