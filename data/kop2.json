@@ -800,14 +800,16 @@
 		"id": "0642c5cd-410f-4c99-9c4d-fdfadbba310e"
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"id": "2fec7031-ea15-4daa-b01b-3f03d9309ac5"
+		"id": "2fec7031-ea15-4daa-b01b-3f03d9309ac5",
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"id": "90eaeab2-8ad7-4713-95bd-e32bfb51c2c5"
+		"id": "90eaeab2-8ad7-4713-95bd-e32bfb51c2c5",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_body_id": [
@@ -821,9 +823,10 @@
 		"id": "63d8db8a-ebd0-41d0-9ba3-f4f7f43d43dd"
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"id": "c7100ac6-bc14-4cfa-8c60-ad3ada593d2d"
+		"id": "c7100ac6-bc14-4cfa-8c60-ad3ada593d2d",
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"examenprogramma_body_id": [
@@ -851,66 +854,74 @@
 	{
 		"id": "401ce308-43dc-4774-b6d7-d8f40dc9c1a6",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"21df4eb6-628f-49d9-ba1d-fd844f73690a"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "89b765d8-5d7a-4b6c-8ed4-d040bd58672e",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"10fd9c67-7b05-40f1-852e-4aa90b5e7a65"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "b0a329e4-93c8-4693-86d8-ab024154f886",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"9178545e-030d-4ab5-b990-15971b29420e"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "7f29646e-06ce-4a90-a548-e6f9000ed62a",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"44063b3b-4b79-422c-80f8-5e6fea3bc6e9"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "43dc30f3-9e12-45d3-a2d1-71694be9d110",
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"62f83a35-fcdb-473a-9862-ff06801a5900"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "95ae33a4-6660-4dcb-9112-890b98b306b7",
 		"title": "Het schoolexamen heeft betrekking op:",
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"b6307bac-a42b-4252-be4b-4ac06c1bacd5"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"id": "fc2d4b6e-986c-42d7-b429-2140a1701d00",
 		"replaces": [
 			"473bb98b-457b-44d4-940b-84d5c2dab360"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
-		"examenprogramma_body_id": [],
 		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
 		"id": "c272889e-39a4-4387-8cb8-cd783bffd810",
 		"replaces": [
 			"c5954cc4-d473-4363-aafb-ad12fe282b0e"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	},
 	{
 		"id": "ebfeea00-7302-46b9-a8dd-18b0a9efe171",
