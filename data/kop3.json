@@ -5,10 +5,10 @@
 		"tag_id": [
 			"a2b4b945-8366-4291-bc6c-5a1755682647"
 		],
-		"examenprogramma_kop4_id": [],
-		"examenprogramma_body_id": [],
 		"replaces": [
 			"872fc39c-d20d-4245-8192-749fdac881c7"
-		]
+		],
+		"description": "",
+		"deleted": 1
 	}
 ]
