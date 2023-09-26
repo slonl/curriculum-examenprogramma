@@ -776,9 +776,6 @@
 		"prefix": "NLT/V/DomeinA/A1",
 		"id": "5f61c40e-57a4-4d2f-9540-8de594d0cdf1",
 		"title": "Subdomein A1: Informatievaardigheden gebruiken",
-		"tag_id": [
-			"4ddbf045-8c97-4983-88fd-afa1e78afd77"
-		],
 		"examenprogramma_eindterm_id": [
 			"2b656e88-324b-4b33-8082-709ecbfb7d5b"
 		],
@@ -815,9 +812,6 @@
 		"prefix": "NLT/V/DomeinA/A5",
 		"id": "ef371508-d20b-4eba-be20-45fb538d684e",
 		"title": "Subdomein A5: Onderzoeken",
-		"tag_id": [
-			"077a694e-c6ae-4219-af2f-c10d12894b3a"
-		],
 		"examenprogramma_eindterm_id": [
 			"737ad0e4-b9f3-4cb2-beec-d93d8a2750cf"
 		],
@@ -863,9 +857,6 @@
 		"prefix": "NLT/V/DomeinA/A10",
 		"id": "1ab94262-b363-42e6-a95b-89585151a544",
 		"title": "Subdomein A10: Interdisciplinaire vraagstukken in studie- en beroepspraktijk",
-		"tag_id": [
-			"525c9413-7264-4dfe-860d-010fca591704"
-		],
 		"examenprogramma_eindterm_id": [
 			"e9fad325-bdac-451e-9ded-fedc5e4afae2"
 		],
@@ -5359,9 +5350,6 @@
 		"prefix": "PREAMBULE/1",
 		"id": "e625807f-aae1-4c47-87bd-2ffb42292237",
 		"title": "Werken aan vakoverstijgende thema’s",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"9f8060b7-690e-40b5-a565-873a12eede83",
 			"ad0d9a09-834b-4088-9e4b-9058fdd0f183",
@@ -5377,9 +5365,6 @@
 		"prefix": "PREAMBULE/2",
 		"id": "af6de566-2986-40ae-9359-0096d6307bac",
 		"title": "Leren uitvoeren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"9abff946-93ac-480c-b508-6b76efcf6146",
 			"b74afe65-a569-46f5-8c9b-b6165dcbbdd6",
@@ -5394,9 +5379,6 @@
 		"prefix": "PREAMBULE/3",
 		"id": "d9a5ecbd-563f-4882-a490-bc808dd73307",
 		"title": "Leren leren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"9b7a4400-75f3-4bb1-9aa0-ebf9ae390a1b",
 			"9ce7df8d-44bf-4d01-86c4-015f6cd7b77f",
@@ -5411,9 +5393,6 @@
 		"prefix": "PREAMBULE/4",
 		"id": "d0fa5362-b124-44b2-b549-cce54e12dcd1",
 		"title": "Leren communiceren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"8cc29807-653a-4318-afb9-d0ac810837f0",
 			"1f40ba8b-dc80-4776-adb6-11947149d920",
@@ -5428,9 +5407,6 @@
 		"prefix": "PREAMBULE/5",
 		"id": "51cc5bbf-ecea-4014-9de0-84fbccf213c1",
 		"title": "Leren reflecteren op het leer- en werkproces",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"82eb1869-4530-45fb-8479-165d016abc98",
 			"14b313d0-5188-41d9-8c22-7b6a425143f2",
@@ -5441,9 +5417,6 @@
 		"prefix": "PREAMBULE/6",
 		"id": "c61abd39-7c3c-4875-a5b0-9bc35a7b65d7",
 		"title": "Leren reflecteren op de toekomst",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"50cbb9c4-67b1-4b3a-a52c-ce9de4012add",
 			"13c9b0ab-d6a5-4d55-8e51-707e4341577b",

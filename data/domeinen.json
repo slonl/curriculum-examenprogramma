@@ -417,9 +417,6 @@
 		"prefix": "NLT/V/DomeinA",
 		"id": "a4018249-5959-42eb-93a3-c55227dba702",
 		"title": "Domein A: Vaardigheden",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_subdomein_id": [
 			"5f61c40e-57a4-4d2f-9540-8de594d0cdf1",
 			"8057537c-7696-4bcc-8e90-05f0d9ea08dd",
@@ -1267,9 +1264,6 @@
 		"prefix": "MO/V/DomeinA",
 		"id": "3523a6d9-e47e-4938-9693-56915d422114",
 		"title": "Domein A: Vaardigheden",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_subdomein_id": [
 			"388411f7-9969-4a36-92fc-ec839a8c0a48",
 			"1c1d724c-bddd-4882-b476-e3cb3e21bb79",
@@ -2094,9 +2088,6 @@
 		"prefix": "KUMU/V/DomeinA",
 		"id": "9cbbf01a-3cb5-46dd-9b72-5c4fc1421d2e",
 		"title": "Domein A: Vaktheorie",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_subdomein_id": [
 			"950bd449-714e-45ae-a51d-737d5f06aae5",
 			"34a9c620-f662-4244-aa9e-2573484f394d",
@@ -3332,9 +3323,6 @@
 		"prefix": "FI/H/DomeinA ",
 		"id": "7032b1de-5150-4f8f-bc66-228601b15ce0",
 		"title": "Domein A: Vaardigheden",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_subdomein_id": [
 			"d63eca7d-0906-4fb0-b5fd-a453d9059f88",
 			"0ac9e613-4d9f-48a0-8b6a-70606f890281",
@@ -4285,9 +4273,6 @@
 		"prefix": "BIO/K/1",
 		"id": "f80d6cd2-8a79-48a7-af22-37a741a85567",
 		"title": "Oriëntatie op leren en werken",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_eindterm_id": [
 			"09fa15c9-9841-4905-b71a-3a8ffca6e782"
 		],
@@ -7198,9 +7183,6 @@
 		"prefix": "GS/V/DomeinA",
 		"id": "f343dc00-9fcd-4174-95a7-8bb757f9a224",
 		"title": "Domein A: Historisch besef",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_eindterm_id": [
 			"d5927b95-a4fd-4eb6-ba6d-d24f8cce23cb",
 			"f31b8ea0-459f-4e0e-a774-d0ca4de573a7",

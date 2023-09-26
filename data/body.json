@@ -40,31 +40,19 @@
 	},
 	{
 		"id": "b3a7cecd-9077-411d-b31e-2fc223715a0f",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "91c61706-10d2-4c16-9eed-52faf522ea97",
-		"title": "de domeinen B, C, D, E, F en G;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen B, C, D, E, F en G;"
 	},
 	{
 		"id": "0c873eab-f541-4a9b-8957-6a9b33558f05",
-		"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein G: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein G: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "f107e23c-a05d-44d8-a86a-27b3f84d029e",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "f1ff36dd-36f3-4b16-9343-a30ed8200b90",
@@ -97,24 +85,15 @@
 	},
 	{
 		"id": "b6b8d7c3-0b0b-46e1-953b-353778b93ac7",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "1f0c9434-859e-4300-9121-616247c511e2",
-		"title": "de domeinen B, C, D en E;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen B, C, D en E;"
 	},
 	{
 		"id": "ee5750fb-4089-4fc6-8f61-c682de87a6ae",
-		"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein E: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: naast de keuzeonderwerpen bedoeld bij domein E: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "446a9487-0950-4051-902b-0b3eae130a23",
@@ -220,59 +199,35 @@
 	},
 	{
 		"id": "65a31a99-e3ec-471e-830c-fda7c3e0abcd",
-		"title": "Het centraal examen heeft betrekking op de domeinen B, C, D en E in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen B, C, D en E in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "13fd35dd-0ae4-4559-97c5-2c9ec31df9e6",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "d6af05bc-ff04-4dc7-a7af-c8d3b6ad0137",
-		"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "8f2094f8-cec4-45cc-8f53-6c09b62f0e84",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "03944f68-fe99-4446-9738-de43b77087b0",
-		"title": "subdomein E1;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "subdomein E1;"
 	},
 	{
 		"id": "acf1940a-ebda-447c-abfc-80618a9f7737",
-		"title": "domein F;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "domein F;"
 	},
 	{
 		"id": "ab0d8645-54db-44e2-93af-66c36df90031",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop\r\nhet centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop\r\nhet centraal examen betrekking heeft;"
 	},
 	{
 		"id": "42e337e9-d6f8-42a0-a6cb-b06c42e9669e",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "66346767-c8b7-4e9c-a80e-f442f791dcc3",
@@ -362,148 +317,88 @@
 	},
 	{
 		"id": "911407db-4d9d-4bd2-9d15-3abb5dd32330",
-		"title": "Het centraal examen heeft betrekking op domeinen B, C en D in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domeinen B, C en D in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "cd6fc72b-15e4-467e-b122-8268db2607bd",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "1c913b09-0d1e-40c5-9c7f-1a3b25659660",
-		"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "6846001e-a7f1-410d-a360-0b181fd99934",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "95e4d3ff-32b2-4f25-8568-864d24f7f302",
-		"title": "de domeinen E en F;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen E en F;"
 	},
 	{
 		"id": "3ae8daf2-bfc4-4f27-9b36-a66c31c95453",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "89a6f5bb-c3d3-4bbc-9cd6-3f549e499c36",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "c869bfb0-d24d-4a20-8de0-1e2a6448dfad",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "17dce749-2613-4770-b592-21b664723e09",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "93ba9074-65de-49b1-bc92-3805c2d8aa75",
 		"prefix": "B.",
-		"title": "Domein B Algebra en tellen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Algebra en tellen"
 	},
 	{
 		"id": "ade7a052-ce40-4bc1-bb83-1a40b258b804",
 		"prefix": "C.",
-		"title": "Domein C Verbanden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Verbanden"
 	},
 	{
 		"id": "e8d97589-ee40-4cbb-88d7-80c739dce221",
 		"prefix": "D.",
-		"title": "Domein D Verandering",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Verandering"
 	},
 	{
 		"id": "335986fa-6232-47d2-91f7-1e31bd6dd3ac",
 		"prefix": "E.",
-		"title": "Domein E Statistiek",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Statistiek"
 	},
 	{
 		"id": "1d7f5651-6f45-4503-bcee-c5069b8a1a5b",
-		"title": "Het centraal examen heeft betrekking op domein C en de subdomeinen B1, B2, E1, E2, E3 en E4 in\r\ncombinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein C en de subdomeinen B1, B2, E1, E2, E3 en E4 in\r\ncombinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "92cbf17c-5dcb-485d-98b2-40e5576c4cf7",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "61b5cd14-4294-4f93-9514-bd3d9a3012b6",
-		"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "5c7b032f-e5b2-4fc0-83ec-afa6d435fac0",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "8705d37d-9e0d-4a9a-97c7-e82249999360",
-		"title": "domein D en de subdomeinen B3 en E5;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "domein D en de subdomeinen B3 en E5;"
 	},
 	{
 		"id": "031966ac-bc99-4957-81f2-3c35ca465e30",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "f4b4d070-abb0-420c-bc5e-84fb57f2feb6",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "a9c4401c-057b-460e-a299-b655baf7e8de",
@@ -519,45 +414,27 @@
 	},
 	{
 		"id": "75ee3197-f1e2-4955-a04a-9ecb63b82989",
-		"title": "Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte."
 	},
 	{
 		"id": "f16f86c5-be10-4280-9a9e-42c047e1b248",
-		"title": "Het theoretische gedeelte heeft betrekking op domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het theoretische gedeelte heeft betrekking op domein A."
 	},
 	{
 		"id": "f55db8d8-1c56-413a-b36a-a7961da5497f",
-		"title": "Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het praktische gedeelte heeft betrekking op de (sub)domeinen A2 en B."
 	},
 	{
 		"id": "da0e3d79-63eb-4279-990a-717a4e7b6a72",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "3a259bf2-fdde-48d8-b2dc-ed00f4f01675",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "cd5eb977-351e-4417-9a14-ae374a0aa099",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "32741344-10b3-4b47-9749-23ff92d108f0",
@@ -573,52 +450,31 @@
 	},
 	{
 		"id": "364f0945-3682-496a-8aa6-ffd506383628",
-		"title": "Het centraal examen heeft betrekking op domein A,",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein A,"
 	},
 	{
 		"id": "7c233bf7-13fa-4514-9a16-57b51ce68e04",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "31aa1e39-3fb2-4f5a-8cbe-5f7179fee0db",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "1a914a0e-a848-4798-83b8-becad80557e3",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "15f9ac03-bd48-4654-b9c2-cf6365215eb3",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "53f73f87-d52a-4c32-b468-3db8aeee4ec4",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "837c1d32-79e5-4766-aad8-62d874147e2d",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "bffbe1da-70cd-42fd-a923-40d37a179bbb",
@@ -634,38 +490,23 @@
 	},
 	{
 		"id": "01b05cf3-7a69-4b7a-a857-b9370b6ee580",
-		"title": "Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen bestaat uit een theoretisch en een praktisch gedeelte."
 	},
 	{
 		"id": "04a32ef7-cee2-47e1-9a93-93817b34f69c",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "31ed4ba9-3b23-4f1d-849c-6b3f092d21dd",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "31f18f73-d1e5-49a3-a373-cbbb3dcb6f05",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft."
 	},
 	{
 		"id": "cc3a2fd5-e959-4636-9925-3e7b1bf84eec",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "c68291ba-b188-4851-a56c-cf15a7a93fef",
@@ -744,59 +585,35 @@
 	},
 	{
 		"id": "71c8a683-a046-44e2-8b97-1e180c24abd5",
-		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, C1, C2,C3, C4, C5, C6, D1, D3, E1, E2, F1, F2, F3, G1, G2 en G3, in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, C1, C2,C3, C4, C5, C6, D1, D3, E1, E2, F1, F2, F3, G1, G2 en G3, in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "c22f4663-e3e6-4cb3-b579-9642beef5d6f",
-		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "24870d8c-7ee3-4daa-992b-ccfbbd876772",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast"
 	},
 	{
 		"id": "1d86ae3d-a517-461d-90fa-a8a6e9f448d1",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "97a59846-bfbe-4639-8496-ba2b842b7693",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "963c03e3-0e5f-4836-a8d9-33123cb9757e",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "b47afc56-a1fd-49d7-bf36-1fc9f46fe110",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "2ef66eb7-8c32-470a-b613-0c111b6f1776",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "5d75edfa-8f81-4a99-8735-3b971d77585e",
@@ -835,59 +652,35 @@
 	},
 	{
 		"id": "b612ef01-e25c-4e9f-a71b-d4b96e9f7d99",
-		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, C1, C2,C3, C6,C7, C8,  D1, D3, E1, F1, F3, G1  en G2, in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, C1, C2,C3, C6,C7, C8,  D1, D3, E1, F1, F3, G1  en G2, in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "1897fa71-c0f9-435a-8c36-1be1cf7e0a1e",
-		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "4a2b7ba5-b9b4-488b-95be-5f79a758bc72",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast"
 	},
 	{
 		"id": "56957c46-7704-4bc4-bada-466a18335730",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "5ea8d045-c03b-47e6-a013-51f0e38e601c",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "18d1bc31-1601-461a-b238-3eaec4c7bfa9",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "ea99234a-37b9-4ba7-9371-800df538309d",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "e7db9e27-c54e-48f1-a0d5-a5bbb616ac9c",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "8f0dd58d-4319-472b-9c5a-a47623ca5daa",
@@ -895,10 +688,7 @@
 	},
 	{
 		"id": "6bf57203-bac8-430b-a046-95f3c3b987fe",
-		"title": "Het schoolexamen heeft betrekking op het gehele domein A en domein B in combinatie met minimaal één subdomein uit ieder van de domeinen C t/m F en ten minste vijf subdomeinen in totaal en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op het gehele domein A en domein B in combinatie met minimaal één subdomein uit ieder van de domeinen C t/m F en ten minste vijf subdomeinen in totaal en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "3342a8a2-24ee-41f6-a379-36f2df02abcd",
@@ -931,10 +721,7 @@
 	},
 	{
 		"id": "34dd1fe0-ff77-4031-9abb-9077a21191e6",
-		"title": "Het schoolexamen heeft betrekking op het gehele domein A en domein B in combinatie met de domeinen C t/m E en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op het gehele domein A en domein B in combinatie met de domeinen C t/m E en, indien het bevoegd gezag daarvoor kiest, andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "49647367-b000-4a23-91aa-7840f7c62e8e",
@@ -972,10 +759,7 @@
 	},
 	{
 		"id": "b4fd338d-b80b-4e76-ab6b-81aeeadf667f",
-		"title": "Het centraal examen heeft betrekking op domein A en domein D voor zover het analyseren en beoordelen betreft.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein A en domein D voor zover het analyseren en beoordelen betreft."
 	},
 	{
 		"id": "849b5de2-f47d-4c41-b83e-8e988c1992af",
@@ -1028,38 +812,23 @@
 	},
 	{
 		"id": "87d949c1-887b-475f-90ff-bf8fa71408b4",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, C3, D1, D2, E2, F1 en H in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, C3, D1, D2, E2, F1 en H in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "9ed2e21c-1f21-4bb9-ad73-310cbf7a4eb7",
-		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "59198a6e-f25e-4ded-90f2-14b7a900cd83",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "bb80f380-7ba2-46fb-be3a-332d1f211c7b",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "d190f69b-de20-47eb-bc8d-4246c5f2b366",
-		"title": "Het schoolexamen heeft betrekking op domein A en de subdomeinen E1, I1, I2 en I3; een keuze van twee uit de (sub)domeinen E3, F2, G1 en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten; indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en de subdomeinen E1, I1, I2 en I3; een keuze van twee uit de (sub)domeinen E3, F2, G1 en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten; indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "1006e0f9-f65d-427a-aa4b-7291905d4a7f",
@@ -1103,38 +872,23 @@
 	},
 	{
 		"id": "4033b13a-41dd-49c5-9a51-f8089106e8dd",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, D1,E1, G1 en H in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2, C1, C2, D1,E1, G1 en H in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "8fbb7273-a14e-46b4-97d2-71d36a931b70",
-		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "35dcf265-6a64-4892-9af2-91dcdff45fde",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "0dd2bfdb-bda8-43bf-b03c-05c87a92ceee",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "6ae96b38-f192-402b-a5ea-62e99bbd3db1",
-		"title": "Het schoolexamen heeft betrekking op domein A en de subdomeinen D2, I1, I2 en I3; een keuze van twee uit de (sub)domeinen B3, E2, F en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten; indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en de subdomeinen D2, I1, I2 en I3; een keuze van twee uit de (sub)domeinen B3, E2, F en G2; daarbij kan het bevoegd gezag deze keuze maken, dan wel de keuze aan de kandidaat laten; indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "1c582acf-5036-4013-879b-ab820051d820",
@@ -1168,52 +922,31 @@
 	},
 	{
 		"id": "7c4a2024-a6b2-406c-b252-a54e18ed9642",
-		"title": "Het centraal examen heeft betrekking op domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein A."
 	},
 	{
 		"id": "6673bab8-ad3e-4146-8374-cbe5a7928b64",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "e75913cf-617e-496e-817a-d6be47a1767d",
-		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen, waarbij in elk geval het niveau in termen van het Europees Referentiekader wordt vastgesteld.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen, waarbij in elk geval het niveau in termen van het Europees Referentiekader wordt vastgesteld."
 	},
 	{
 		"id": "957655a0-500c-44a5-abc7-0be5aa014a1a",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "f6f306cd-f9f1-46da-9b3d-bebb5d9e9896",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "008c9639-40c6-4145-b6ed-eee2342e4cb7",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "13fd697c-f6d7-434d-980f-9305f704a528",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "695b86b6-21f7-48c0-b48f-a6c0fb904d5d",
@@ -1241,10 +974,7 @@
 	},
 	{
 		"id": "b7f37ee2-5871-4348-8cab-a965ebf19861",
-		"title": "Het schoolexamen heeft betrekking op de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft, indien het bevoegd gezag daarvoor kiest: één of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft, indien het bevoegd gezag daarvoor kiest: één of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "e68640ad-8db8-40d5-815a-27f9ddda5bf3",
@@ -1272,10 +1002,7 @@
 	},
 	{
 		"id": "d0adf419-38e2-430a-b0ef-ee5ea74d1788",
-		"title": "Het schoolexamen heeft betrekking op\r\n- de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft,\r\n- indien het bevoegd gezag daarvoor kiest: één of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; \r\n- indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op\r\n- de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft,\r\n- indien het bevoegd gezag daarvoor kiest: één of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft; \r\n- indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "71f62d57-160a-41b7-8125-d2a087eb4785",
@@ -1283,59 +1010,35 @@
 	},
 	{
 		"id": "ff0d012a-6a9b-4105-857c-d9311e540f3e",
-		"title": "Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A."
 	},
 	{
 		"id": "98ca07e6-f510-4f0b-894f-6fc01b01bb1d",
-		"title": "De CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "a0e1286e-080b-4316-806e-a232e15686e7",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "cf762ef5-ca91-4bef-b6d2-c7759b729ed6",
-		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "009ac961-7a51-4353-a85e-8304972e880e",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "36a50fc1-3505-4cfb-a97e-720c8df796c4",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "0b041956-dfb4-4851-ab1b-29867095d69e",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "aa31aa6f-b9ed-4c58-809c-a457daccc759",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "81594fa9-8cfd-4087-a02f-b3a62da7a6ca",
@@ -1378,74 +1081,44 @@
 	},
 	{
 		"id": "b17789d2-f1e2-4c9c-8247-2c0f84b536a9",
-		"title": "Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen C, E en G, in combinatie met domein A."
 	},
 	{
 		"id": "431705da-55d9-4150-93f5-db4eb79d62fa",
-		"title": "De CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE kan bepalen, dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "d0c8dd87-ad3f-4400-b467-0cf85f03186f",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "a0bb1253-63a4-4ded-95be-4acf77090959",
-		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "7acbdd4f-5ec0-4519-9d72-c5492698a239",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "d10a7fde-7100-4c0d-8b17-737906ab69e6",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "49a901b7-a887-4042-a3e8-1112d4c3b6d0",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "3a58e65a-36d7-486d-93ef-92c9a8483e3e",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "64429207-fb1d-48c5-b360-00f6ee81f0b7",
 		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2 en B3, C, D en E, in combinatie met domein A. Het College voor Examens stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het College voor Toetsen en Examens maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"prefix": ""
 	},
 	{
 		"id": "d682eaaa-7863-4415-b4a7-404452d7f149",
 		"title": "Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F, en G, in combinatie met domein A en: \n- indien het bevoegd gezag daarvoor kiest: ook een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;\n- indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"prefix": ""
 	},
 	{
@@ -1454,45 +1127,27 @@
 	},
 	{
 		"id": "1756a16d-615f-4522-a498-c9c7a1931161",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B, C, D, E1 en E2, in combinatie met domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B, C, D, E1 en E2, in combinatie met domein A."
 	},
 	{
 		"id": "91cac2fa-e562-4ddd-b5af-c481a14c5dea",
-		"title": "Het College voor Toetsing en Examens stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het College voor Toetsing en Examens stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "f3a4dc39-42c5-4fbc-b732-bbe11ee36489",
-		"title": "Het College voor Toetsing en Examens maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het College voor Toetsing en Examens maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "c2ec2879-cd4b-44a4-a2dd-fcf1da08b5cd",
-		"title": "Het schoolexamen heeft betrekking op subdomeinen E3 en E4 en, naar keuze van het bevoegd gezag, domein F of G, in combinatie met domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op subdomeinen E3 en E4 en, naar keuze van het bevoegd gezag, domein F of G, in combinatie met domein A en:"
 	},
 	{
 		"id": "d3a212be-d4ca-405d-b8c7-99dc70c33ef9",
-		"title": "indien het bevoegd gezag daarvoor kiest: ook een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: ook een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "5c452c38-6566-4449-bb5d-8dad11131972",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "70b9639d-8dcd-4bcc-b9a9-1fc7f6024a3c",
@@ -1500,10 +1155,7 @@
 	},
 	{
 		"id": "74a58c48-7efa-4cdf-a8d7-4da878b1af28",
-		"title": "Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A tot en met E, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "728f19b8-7263-4c90-915f-80b7f6642e1d",
@@ -1593,52 +1245,31 @@
 	},
 	{
 		"id": "a5ef57cd-6139-4893-b456-e5d5fdaa0a83",
-		"title": "Het centraal examen heeft betrekking op domein A (subdomein 1: reflectie op klassieke teksten), B (B.3) en C (C.5)",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein A (subdomein 1: reflectie op klassieke teksten), B (B.3) en C (C.5)"
 	},
 	{
 		"id": "97baa5f1-e518-4df0-b205-d18d864ddb47",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "4f7b20fb-5d33-40ab-9cfe-2377de60e90c",
-		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "3a15d463-227a-471a-bb43-85b4d0d372b5",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B, C, D en E.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B, C, D en E."
 	},
 	{
 		"id": "2e86c728-e0f5-4c7c-8d23-98df5d65db07",
-		"title": "Deze domeinen komen aan de orde aan de hand van een selectie van circa 30 pagina’s (Oxford Classical Text) Latijnse teksten. Deze selectie bevat\r\nteksten van tenminste twee genres uit de Latijnse literatuur (zodanig dat samen met de auteur van het centraal examen proza én poëzie aan bod komen). Deze selectie bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Deze domeinen komen aan de orde aan de hand van een selectie van circa 30 pagina’s (Oxford Classical Text) Latijnse teksten. Deze selectie bevat\r\nteksten van tenminste twee genres uit de Latijnse literatuur (zodanig dat samen met de auteur van het centraal examen proza én poëzie aan bod komen). Deze selectie bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema."
 	},
 	{
 		"id": "a38911f5-7751-421e-a860-659813831eec",
-		"title": "Daarnaast komen deze domeinen aan de orde aan de hand van: \r\n– een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van de (creatieve) verwerking van een of meer cultuurdomeinen;\r\n– indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;\r\n– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Daarnaast komen deze domeinen aan de orde aan de hand van: \r\n– een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van de (creatieve) verwerking van een of meer cultuurdomeinen;\r\n– indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;\r\n– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "3008a03f-182d-45da-bf76-c438c88c93bf",
-		"title": "Het bevoegd gezag kiest tenminste drie van de volgende cultuurdomeinen waarop de eindtermen betrekking hebben: verhalengoed, drama, beeldende kunst, architectuur, filosofie. Het bevoegd gezag kan, naast bovengenoemde domeinen, ook eigen cultuurdomeinen toevoegen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het bevoegd gezag kiest tenminste drie van de volgende cultuurdomeinen waarop de eindtermen betrekking hebben: verhalengoed, drama, beeldende kunst, architectuur, filosofie. Het bevoegd gezag kan, naast bovengenoemde domeinen, ook eigen cultuurdomeinen toevoegen."
 	},
 	{
 		"id": "d11dface-a24d-48dd-a84f-966c69e5ae1d",
@@ -1658,17 +1289,11 @@
 	},
 	{
 		"id": "65c96b0c-f85b-4324-b2ad-9063344161f3",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "db15f78d-9eae-453b-a71c-e9d4ebf42649",
-		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen."
 	},
 	{
 		"id": "dfb8644f-ebf0-4b61-8ad0-7d77ba6d81eb",
@@ -1708,24 +1333,15 @@
 	},
 	{
 		"id": "c8582f2d-5333-4751-8620-30607e8d98a6",
-		"title": "Het centraal examen is dat van het vak kunst (algemeen).",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen is dat van het vak kunst (algemeen)."
 	},
 	{
 		"id": "fa46275e-68a6-4ad4-85a4-53fb1a25fe14",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "36319a84-9325-4aec-b5a6-fcf666a81bdb",
-		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen."
 	},
 	{
 		"id": "f0cc54ea-86f8-4d45-85b5-668704d02bb2",
@@ -1765,24 +1381,15 @@
 	},
 	{
 		"id": "11744680-3356-4a6d-a828-6f29a4cbeef3",
-		"title": "Het centraal examen is dat van het vak kunst (algemeen).",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen is dat van het vak kunst (algemeen)."
 	},
 	{
 		"id": "f07488cb-142e-4d1a-b1f6-b1256a61663b",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "332c3777-bad1-4524-944a-8596eaad73d4",
-		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 160 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen."
 	},
 	{
 		"id": "39f16234-faa6-4c18-b08b-4c91c4284de9",
@@ -1798,24 +1405,15 @@
 	},
 	{
 		"id": "15d7045a-330e-43a7-949f-5a3ddae25ceb",
-		"title": "Het centraal examen is dat van het vak kunst (algemeen).",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen is dat van het vak kunst (algemeen)."
 	},
 	{
 		"id": "1f364ce2-01a1-4cfc-b0ec-88914e49aaff",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "ff8262d3-cd44-48f1-b6f0-2c0c982718f0",
-		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken  (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van tenminste 120 studielasturen, door het bevoegd gezag te bepalen. Er is dan dus geen centraal examen."
 	},
 	{
 		"id": "2b0928f8-b4ab-4a75-a4e5-dd2600b65b6f",
@@ -1831,31 +1429,19 @@
 	},
 	{
 		"id": "4fbd7cf0-dbd8-4196-82b6-f61b856b6cf8",
-		"title": "Het centraal examen is dat van het vak kunst (algemeen)",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen is dat van het vak kunst (algemeen)"
 	},
 	{
 		"id": "de98f949-14fa-4873-9fd2-1599b1bac8b4",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C en diendien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C en diendien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "d544cfe7-1de3-4659-b847-8e1d7c8c22f0",
-		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 440 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 160 studielasturen, door het bevoegd gezag te bepalen."
 	},
 	{
 		"id": "69a165ed-f95e-4e1c-861d-02c2f2105fc5",
-		"title": "Er is dan dus geen centraal examen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Er is dan dus geen centraal examen."
 	},
 	{
 		"id": "ade1b40a-74fd-4fa8-989a-017236289367",
@@ -1871,31 +1457,19 @@
 	},
 	{
 		"id": "92ccb2a2-f64e-4b3e-95c9-669dd5c8bf44",
-		"title": "Het centraal examen is dat van het vak kunst (algemeen)",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen is dat van het vak kunst (algemeen)"
 	},
 	{
 		"id": "1696e240-0c93-42fb-af03-4d1ff7daa642",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C en diendien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B en C en diendien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "f0d55e29-2c15-41c7-8d44-69234b83f746",
-		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Indien de kandidaat met het profiel cultuur en maatschappij het eindexamen aflegt in een van de vakken kunst (beeldende vormgeving, muziek, drama of dans) in het vrije deel om te voldoen aan de verplichting dat in dat vrije deel het eindexamen tenminste één vak omvat met een normatieve studielast van tenminste 320 studielasturen, en hij ook als onderdeel van het profieldeel reeds eindexamen aflegt in een van de vakken kunst (een andere variant), wordt het onderdeel kunst (algemeen) in het examen (en dus het centraal examen) vervangen door aanvullende verdiepende en/of verbredende onderdelen op het gebied van kunst in het schoolexamen met een normatieve studielast van ten minste 120 studielasturen, door het bevoegd gezag te bepalen."
 	},
 	{
 		"id": "4f3c2997-cc72-4b88-83a5-cea9a4fc32e3",
-		"title": "Er is dan dus geen centraal examen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Er is dan dus geen centraal examen."
 	},
 	{
 		"id": "ed763c23-3b66-4343-bb60-ea294d19dda5",
@@ -1911,24 +1485,15 @@
 	},
 	{
 		"id": "c80d1254-8f15-4869-8b86-d78fbffe0e5c",
-		"title": "Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "be999c07-a2da-4c6e-a480-205dbbac20e4",
-		"title": "De CvTE wijst uit domein C drie onderwerpen aan voor het havo-examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE wijst uit domein C drie onderwerpen aan voor het havo-examen."
 	},
 	{
 		"id": "3026c815-77c3-4689-890b-10b392ad0053",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast en maakt indien nodig een beperking en een specificatie bekend van de examenstof.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast en maakt indien nodig een beperking en een specificatie bekend van de examenstof."
 	},
 	{
 		"id": "03ac3173-beef-4f80-a102-3abef573d944",
@@ -1944,24 +1509,15 @@
 	},
 	{
 		"id": "6b1a5a46-5967-45b4-81c0-2431677db0fb",
-		"title": "Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen B en C in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "f6727a15-a867-4c62-8c39-e4b0b211be15",
-		"title": "De CvTE wijst uit domein C drie onderwerpen aan voor het havo-examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE wijst uit domein C drie onderwerpen aan voor het havo-examen."
 	},
 	{
 		"id": "464df095-c817-4823-b1ce-d136c36f504a",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast en maakt indien nodig een beperking en een specificatie bekend van de examenstof.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast en maakt indien nodig een beperking en een specificatie bekend van de examenstof."
 	},
 	{
 		"id": "385e8fe6-6db2-4cb0-b941-364ed28c3908",
@@ -2009,52 +1565,31 @@
 	},
 	{
 		"id": "45c4edb2-c87a-4cb2-9b35-912ac149b14b",
-		"title": "Het centraal examen heeft betrekking op domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein A."
 	},
 	{
 		"id": "1be44152-9027-4387-85fb-04d49260de91",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "65bd71a6-1528-4f2c-b91b-14a48c8abaaa",
-		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "6304f27f-b781-4d69-932f-8be6afc82cbf",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "3ef1e307-78d9-426a-adb2-1c6c17ab9602",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "4530d745-6927-4342-a8d8-4f9276ec4d87",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het cetraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het cetraal examen betrekking heeft;"
 	},
 	{
 		"id": "cddaa980-a3fb-4ec8-9631-bc4eb291677e",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen"
 	},
 	{
 		"id": "11a86073-4081-437b-9227-d41775b5ed3b",
@@ -2070,52 +1605,31 @@
 	},
 	{
 		"id": "389c9fec-70fe-44c8-a660-a8ccc75c0640",
-		"title": "Het centraal examen heeft betrekking op domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein A."
 	},
 	{
 		"id": "3007ab13-4e90-4c00-aea6-0fa682673a8b",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "bc26d2f1-c919-42b7-91cd-1e0d999d78a6",
-		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "3749e2b0-7069-4ca3-8401-2d04459fa0fd",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "cd6d7e9e-96c8-46eb-90e9-76064bd0cf8f",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "7dd50841-95e1-422e-ba9a-c47470e90397",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het cetraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het cetraal examen betrekking heeft;"
 	},
 	{
 		"id": "29e61039-3175-4686-ac99-29da945ffa9d",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen"
 	},
 	{
 		"id": "a696c993-d057-4e83-844d-854075cbdaf3",
@@ -2144,52 +1658,31 @@
 	},
 	{
 		"id": "26e64a88-f594-4c52-b5f9-2298783d8c19",
-		"title": "Het centraal examen heeft betrekking op domein A (subdomein 1: reflectie op klassieke teksten), B (B.3) en C (C.5)",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op domein A (subdomein 1: reflectie op klassieke teksten), B (B.3) en C (C.5)"
 	},
 	{
 		"id": "bee9dc96-0eca-4d5e-b1cd-a73062c73682",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "f33c6fc6-6213-4c6b-870a-2e262e2951b9",
-		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "9e287bd9-df4d-4ac0-aed6-16b3c2fdbabd",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A, B, C, D en E.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A, B, C, D en E."
 	},
 	{
 		"id": "0c3af06f-52f1-47ac-84e1-6c6c98acfc96",
-		"title": "Deze domeinen komen aan de orde aan de hand van een selectie van circa 30 pagina’s (Oxford Classical Text) Griekse teksten. Deze selectie bevat\r\nteksten van tenminste twee genres uit de Griekse literatuur (zodanig dat samen met de auteur van het centraal examen proza én poëzie aan bod komen). Deze selectie bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Deze domeinen komen aan de orde aan de hand van een selectie van circa 30 pagina’s (Oxford Classical Text) Griekse teksten. Deze selectie bevat\r\nteksten van tenminste twee genres uit de Griekse literatuur (zodanig dat samen met de auteur van het centraal examen proza én poëzie aan bod komen). Deze selectie bevat geen teksten van de auteur(s) die voor het centraal examen zijn vastgesteld, tenzij deze teksten behoren tot een ander genre en thema."
 	},
 	{
 		"id": "27650ee9-27f3-493f-ac9f-5f091d35c2e8",
-		"title": "Daarnaast komen deze domeinen aan de orde aan de hand van: \r\n– een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van de (creatieve) verwerking van een of meer cultuurdomeinen;\r\n– indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;\r\n– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Daarnaast komen deze domeinen aan de orde aan de hand van: \r\n– een selectie van tenminste 45 pagina’s klassieke, vertaalde teksten;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van het vertalen van één of meer ongeziene passages;\r\n– indien het bevoegd gezag daarvoor kiest: toetsing van de (creatieve) verwerking van een of meer cultuurdomeinen;\r\n– indien het bevoegd gezag daarvoor kiest: stof van het centraal examen naast de hierboven vermelde stof voor het schoolexamen;\r\n– indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die eventueel per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "a199f4c1-1cbf-4032-bb07-98a3e76d9199",
-		"title": "Het bevoegd gezag kiest tenminste drie van de volgende cultuurdomeinen waarop de eindtermen betrekking hebben: verhalengoed, drama, beeldende kunst, architectuur, filosofie. Het bevoegd gezag kan, naast bovengenoemde domeinen, ook eigen cultuurdomeinen toevoegen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het bevoegd gezag kiest tenminste drie van de volgende cultuurdomeinen waarop de eindtermen betrekking hebben: verhalengoed, drama, beeldende kunst, architectuur, filosofie. Het bevoegd gezag kan, naast bovengenoemde domeinen, ook eigen cultuurdomeinen toevoegen."
 	},
 	{
 		"id": "57478118-4759-436f-887c-76c15642c3b9",
@@ -2222,38 +1715,23 @@
 	},
 	{
 		"id": "fe212120-623c-4883-a047-12cf3bd09660",
-		"title": "Het centraal examen heeft betrekking op de domeinen A en B.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen A en B."
 	},
 	{
 		"id": "8edc4236-3a37-40e2-b922-7ca7fd6f5edd",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "7bd06662-4a0b-4224-9ae1-2ad783af00e6",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "a265ddd0-7c32-4b26-ab72-cf329b700055",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "08d20238-8855-4c39-b8c0-d065aaa35393",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "81271832-8b4d-4f43-9a6c-21e72ea15701",
@@ -2286,134 +1764,80 @@
 	},
 	{
 		"id": "999b74c2-c540-4645-b875-4901d0795ebc",
-		"title": "Het centraal examen heeft betrekking op de domeinen A en B, de tijdvakken 5 t/m 10.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen A en B, de tijdvakken 5 t/m 10."
 	},
 	{
 		"id": "cd1e779f-e377-4083-a15d-ea7186e47048",
-		"title": "Het schoolexamen heeft betrekking op domein A, domein B de tijdvakken 1 t/m 4 en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A, domein B de tijdvakken 1 t/m 4 en:"
 	},
 	{
 		"id": "1110cded-c561-4d31-a044-b8a707bfcc71",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "ec6efb87-a427-4fa3-8daf-f9e5836bc288",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "4ef3c76a-41cc-4d0a-ba57-56f7b1e8178b",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "a886c403-f743-4bb6-8293-3dc38839bf6e",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "67356fb4-d97f-49fa-b863-95246988e535",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "29c24751-3fc1-4435-b5c3-7b6e92995cb5",
 		"prefix": "B.",
-		"title": "Domein B Wijsgerige antropologie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Wijsgerige antropologie"
 	},
 	{
 		"id": "0c341319-d57e-4825-960b-e0bf736645a3",
 		"prefix": "C.",
-		"title": "Domein C Ethiek",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Ethiek"
 	},
 	{
 		"id": "65b5f8ca-4a08-4e22-9cc1-c57e08875508",
 		"prefix": "D.",
-		"title": "Domein D Kennisleer",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Kennisleer"
 	},
 	{
 		"id": "f39492ce-24fe-4425-b4a6-0a1dfaee1e2f",
 		"prefix": "E.",
-		"title": "Domein E Wetenschapsfilosofie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Wetenschapsfilosofie"
 	},
 	{
 		"id": "25b9dd5a-b6b1-4280-9622-ee3899242636",
-		"title": "Het centraal examen heeft betrekking op een door de CvTE vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op een door de CvTE vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd."
 	},
 	{
 		"id": "14c36233-a1bd-4b3c-9a7b-348837f2649f",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "4e9cc20c-c541-49a0-a678-0ec79f55f3fa",
-		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "e8ef4927-ae4a-4879-9eba-ae413a591f72",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "578514bc-705a-48d4-879b-056820f7214a",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "b8209c1a-5935-45b8-a10c-2c0689ad264f",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "13867828-2055-4bea-82e3-9f2db04bae4a",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "d4e3f1bd-94cd-480c-ab06-549552cfdfc7",
@@ -2441,177 +1865,108 @@
 	},
 	{
 		"id": "d521c4fe-a15b-4843-8a8d-083535deaf9e",
-		"title": "Het centraal examen heeft betrekking op een door de CvTE vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op een door de CvTE vastgesteld onderwerp dat gerelateerd is aan een van de domeinen B, C of D als hoofddomein, waarbij een of meer andere domeinen betrokken kunnen zijn, en de subdomeinen 1. van de domeinen B, C en D, die zowel afzonderlijk als in relatie met het onderwerp kunnen worden geëxamineerd."
 	},
 	{
 		"id": "047100b4-8b80-4d35-955f-2a63b1213c2d",
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "e7e4a97b-d4c1-4a66-b866-02a4340d1930",
-		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "817ebb28-ea6d-452a-b3b7-6d5959b5d87b",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "0519443a-3876-4d67-b959-ddff2bf5df42",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "aead2b3b-8710-4327-a4c6-8f53e14c7274",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "d6d2ebf1-b8da-4c49-9506-dc9fdf52076e",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "2c71544a-cbf8-4d6e-88ef-7d28ee82104d",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "7f3dd7e0-2e3c-4515-908b-523e172ef38e",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "e632d3ab-de65-4eea-a8d6-9699af795a1f",
 		"prefix": "B.",
-		"title": "Domein B Concept Schaarste",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Concept Schaarste"
 	},
 	{
 		"id": "aa6c055b-9803-436f-8665-49d4b446041c",
 		"prefix": "C.",
-		"title": "Domein C Concept Ruil",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Concept Ruil"
 	},
 	{
 		"id": "6dc2c8c6-016c-432e-88e9-26e0bfd94e07",
 		"prefix": "D.",
-		"title": "Domein D Concept Markt",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Concept Markt"
 	},
 	{
 		"id": "bad3ec31-02dd-4330-9d71-689c95209ec5",
 		"prefix": "E.",
-		"title": "Domein E Concept Ruilen over de tijd",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Concept Ruilen over de tijd"
 	},
 	{
 		"id": "e8fdd175-951a-4863-af95-a352cad22236",
 		"prefix": "F.",
-		"title": "Domein F Concept Samenwerken en onderhandelen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein F Concept Samenwerken en onderhandelen"
 	},
 	{
 		"id": "63a30e21-1b9e-405b-af22-4f446c3e3afa",
 		"prefix": "G.",
-		"title": "Domein G Concept Risico en informatie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein G Concept Risico en informatie"
 	},
 	{
 		"id": "b46dd670-1def-413f-a18d-2a97dae7686f",
 		"prefix": "H.",
-		"title": "Domein H Concept Welvaart en groei",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein H Concept Welvaart en groei"
 	},
 	{
 		"id": "bb33d754-ffab-4f18-9ed1-b78cc9249844",
 		"prefix": "I.",
-		"title": "Domein I Concept Goede tijden, slechte tijden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein I Concept Goede tijden, slechte tijden"
 	},
 	{
 		"id": "c4ff3aa9-586e-4579-9117-3d4e3e2be9aa",
 		"prefix": "J.",
-		"title": "Domein J Onderzoek en experiment",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein J Onderzoek en experiment"
 	},
 	{
 		"id": "56415be7-b4fe-4483-9b31-f1461201a561",
 		"prefix": "K.",
-		"title": "Domein K Keuzeonderwerpen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein K Keuzeonderwerpen"
 	},
 	{
 		"id": "36741397-c890-4949-a95f-19124dd35c7f",
-		"title": "Het centraal examen heeft betrekking op de domeinen D, E, F, G, H, I, in combinatie met domein A.",
-		"tag_id": [
-			"1501da9d-d129-462c-8c25-1c0a2769d9aa"
-		]
+		"title": "Het centraal examen heeft betrekking op de domeinen D, E, F, G, H, I, in combinatie met domein A."
 	},
 	{
 		"id": "c670caf8-f3b5-43c7-aea9-f20afe5ba512",
-		"title": "Het schoolexamen heeft betrekking op domein B, C, J en K, in combinatie met domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein B, C, J en K, in combinatie met domein A en:"
 	},
 	{
 		"id": "276bdbc6-327e-4d0e-a1ad-222a0b0aff40",
 		"prefix": "1.",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "ac25fd32-c97e-434f-af78-b455b4c9b758",
 		"prefix": "2.",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "410f278c-b0d2-4861-9c0b-fc3ba2331d8b",
@@ -2635,10 +1990,7 @@
 	},
 	{
 		"id": "5086237c-e14d-4660-bb43-0caef4806871",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "e5566185-fc20-45a9-89e3-d98939500359",
@@ -2662,48 +2014,30 @@
 	},
 	{
 		"id": "1cef384c-fcb0-4aa6-8c95-f793bc03ef5a",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met D, en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "2c4afe65-1c0c-41f3-acf0-72cf4d9da14d",
-		"title": "Het eindexamen bestaat uit het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het schoolexamen."
 	},
 	{
 		"id": "c83bf78e-8a81-4763-8a85-ff0a42336aa6",
 		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
 		"id": "27fb7b82-d9bb-4c2f-b53f-bd31c9f1f5d7",
 		"title": "tenminste alle domeinen van het eindexamen;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
 		"id": "75321962-564d-4ba8-b315-6783dfbda208",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
 		"id": "becbabf2-08f7-44f1-b616-f665d5702a0e",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
@@ -2728,10 +2062,7 @@
 	},
 	{
 		"id": "090b785a-db08-481a-9524-88f7ca84a3a8",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "3159c926-54b3-4444-86de-5c61a647a0a3",
@@ -2760,909 +2091,552 @@
 	},
 	{
 		"id": "610b3973-0bd8-4780-b5f3-4cd477d4cfe1",
-		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op de domeinen A tot en met E, (met dien verstande dat de eindtermen uit de domeinen A en C, D en E in beginsel in samenhang met domein B aan de orde komen), en indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "c65f7b63-0487-49f7-86f9-ca782a6cd95c",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "097d1dc4-7bc1-440a-a485-72e95566a1a0",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "7a8f77e8-5c4d-41e2-ad1b-249dea81678e",
 		"prefix": "B.",
-		"title": "Domein B Zelfregulatie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Zelfregulatie"
 	},
 	{
 		"id": "9270ee7e-3b9c-4a8b-9761-7dcd14e12c4e",
 		"prefix": "C.",
-		"title": "Domein C Zelforganisatie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Zelforganisatie"
 	},
 	{
 		"id": "4808871f-9a85-451c-94a9-91f24c2d9342",
 		"prefix": "D.",
-		"title": "Domein D Interactie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Interactie"
 	},
 	{
 		"id": "d2218813-d0cf-456d-b83d-6b0088733d2b",
 		"prefix": "E.",
-		"title": "Domein E Reproductie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Reproductie"
 	},
 	{
 		"id": "6611e198-23c9-423a-922c-5cf6f5f6e927",
 		"prefix": "F.",
-		"title": "Domein F Evolutie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein F Evolutie"
 	},
 	{
 		"id": "c2356d44-8fb4-4e7f-9c26-2395e46fecd7",
-		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, B8, C1, C3, D1, D2, D5, E3, F1 en F2, in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B1, B2, B3, B4, B5, B8, C1, C3, D1, D2, D5, E3, F1 en F2, in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "bb4856b3-fdd3-4e6a-9a11-a0e2fdc0afb9",
-		"title": "Het CvTE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "95b24a79-2f66-4029-8460-f32f8231f14b",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "070678cf-a5b3-45a4-8c44-18d185bd91cf",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "75945bee-df7a-4679-8294-83dc2f8735c2",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "22ae0e09-aa55-479e-b91a-deb062270a7a",
 		"prefix": "1.",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "909cb8d0-5ddd-4f04-8b28-f3657afd2d46",
 		"prefix": "2.",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "72f3c23b-96ff-45b7-bc17-a13ff16a18fc",
 		"prefix": "3.",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "c3d4ff19-46ae-456b-9eed-67ee55d1a140",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "2af8bec2-76e8-43a9-8e6f-e5b775446aa9",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "e0dbe305-f004-4761-9bc8-65fbacc356cc",
 		"prefix": "B.",
-		"title": "Domein B Zelfregulatie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Zelfregulatie"
 	},
 	{
 		"id": "b0d9d344-103c-477c-b9a8-7acd26a869bf",
 		"prefix": "C.",
-		"title": "Domein C Zelforganisatie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Zelforganisatie"
 	},
 	{
 		"id": "092a2ab0-297f-4a43-b9f3-1334dd5026fb",
 		"prefix": "D.",
-		"title": "Domein D Interactie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Interactie"
 	},
 	{
 		"id": "dbc84649-7eed-4a8a-8893-349b78980af4",
 		"prefix": "E.",
-		"title": "Domein E Reproductie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Reproductie"
 	},
 	{
 		"id": "ea48976e-af41-40a7-b85c-1c2becec6de8",
 		"prefix": "F.",
-		"title": "Domein F Evolutie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein F Evolutie"
 	},
 	{
 		"id": "9fa29fb8-f1f4-4b4f-8e8e-e790f534dc36",
-		"title": "Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, B5, B7, B8, C1, C4, E4, F1 en F2, in combinatie met de vaardigheden uit domein A.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de subdomeinen B2, B3, B4, B5, B7, B8, C1, C4, E4, F1 en F2, in combinatie met de vaardigheden uit domein A."
 	},
 	{
 		"id": "0517c438-510e-4206-9955-277d35822356",
-		"title": "Het CvTE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE kan bepalen dat het centraal examen ten dele betrekking heeft op andere subdomeinen, mits de subdomeinen van het centraal examen tezamen dezelfde studielast hebben als de in de vorige zin genoemde."
 	},
 	{
 		"id": "b3010d85-de3a-4796-9ccf-5997e1b60a69",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "8554bc1f-f970-49fa-b8c4-8673599de350",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "9b8a28e9-f5b2-4b19-a09e-5ce57b53b909",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "69fa861d-9275-4923-bc6f-8883da2973df",
 		"prefix": "1.",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "d47fd6f0-c64f-43e0-b374-704e1134904a",
 		"prefix": "2.",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "c732032a-3f88-44cb-9097-2c6a9267808e",
 		"prefix": "3.",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "6e9f7844-3123-49fa-b032-65a87c541d9d",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "5d707f51-ebfc-446d-bc91-10d1af277d20",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "6406c4d0-5221-4876-894b-a02a4bdeb1e6",
 		"prefix": "B.",
-		"title": "Domein B Van persoon naar rechtspersoon",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Van persoon naar rechtspersoon"
 	},
 	{
 		"id": "bfd4162d-220d-403b-857b-4365fe4b4497",
 		"prefix": "C.",
-		"title": "Domein C Interne organisatie en personeelsbeleid",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Interne organisatie en personeelsbeleid"
 	},
 	{
 		"id": "ea795ad9-dfbc-40dd-acc5-4eefd8437946",
 		"prefix": "D.",
-		"title": "Domein D Investeren en financieren",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Investeren en financieren"
 	},
 	{
 		"id": "77adee91-94bb-4627-8aa6-5c8201a63b48",
 		"prefix": "E.",
-		"title": "Domein E Marketing",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Marketing"
 	},
 	{
 		"id": "2c59786e-e436-4575-8c18-5e9498fb8bb6",
 		"prefix": "F.",
-		"title": "Domein F Financieel beleid",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein F Financieel beleid"
 	},
 	{
 		"id": "27bb819c-721e-494e-9551-9a5f4880fcee",
 		"prefix": "G.",
-		"title": "Domein G Verslaggeving",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein G Verslaggeving"
 	},
 	{
 		"id": "35cb4050-08e0-46b0-b1b6-61892cda91f3",
 		"prefix": "H.",
-		"title": "Domein H Keuze-onderwerpen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein H Keuze-onderwerpen"
 	},
 	{
 		"id": "d1572bbb-ee37-4fd4-a6d3-2797c5c4ae58",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A, B, C2, D2, E2, F en G zoals hieronder nader uitgewerkt.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A, B, C2, D2, E2, F en G zoals hieronder nader uitgewerkt."
 	},
 	{
 		"id": "f5ce429e-404b-4ae3-8deb-b02ffd091d12",
-		"title": "CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "82a2f156-2803-4b48-b2e2-6c8ffa566ba5",
-		"title": "CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "5ad7dfab-a637-48f7-8851-a6e8246eb3a7",
-		"title": "Het schoolexamen heeft betrekking op domein A, B en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A, B en:"
 	},
 	{
 		"id": "4fc69187-f68f-4a52-89f5-f9915f6c6d58",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "21b2e839-5332-4150-8e6a-5f842bd3f73c",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "1c514d5b-01db-4437-90db-a2e3ad2841f9",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "23f87817-a2de-40fb-8e99-fee4af519925",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "d4c52cab-c0fd-4478-be9c-efa254fb18f5",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "0781a7e0-f974-4565-98ed-3c13e65aacc5",
 		"prefix": "B.",
-		"title": "Domein B Van persoon naar rechtspersoon",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Van persoon naar rechtspersoon"
 	},
 	{
 		"id": "da0ec9d5-ee07-49fd-9be1-3ad3b041d332",
 		"prefix": "C.",
-		"title": "Domein C Interne organisatie en personeelsbeleid",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Interne organisatie en personeelsbeleid"
 	},
 	{
 		"id": "a5450a7f-1dd9-49c6-837a-5aa9f48ca574",
 		"prefix": "D.",
-		"title": "Domein D Investeren en financieren",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Investeren en financieren"
 	},
 	{
 		"id": "1f67210d-83af-48ab-8b9d-18e4755b45ab",
 		"prefix": "E.",
-		"title": "Domein E Marketing",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Marketing"
 	},
 	{
 		"id": "541ece3b-2e33-4170-814b-5d4efac8d9a3",
 		"prefix": "F.",
-		"title": "Domein F Financieel beleid",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein F Financieel beleid"
 	},
 	{
 		"id": "20713e4a-d393-4cfa-a16b-06bb8f504dc5",
 		"prefix": "G.",
-		"title": "Domein G Verslaggeving",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein G Verslaggeving"
 	},
 	{
 		"id": "ff37a128-f050-4991-a036-55cf96e506b6",
 		"prefix": "H.",
-		"title": "Domein H Keuze-onderwerpen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein H Keuze-onderwerpen"
 	},
 	{
 		"id": "d5d2ec72-9895-4827-874f-d4e22623762f",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A, B, C2, D2, E2, F en G zoals hieronder nader uitgewerkt.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A, B, C2, D2, E2, F en G zoals hieronder nader uitgewerkt."
 	},
 	{
 		"id": "7fd908d7-3c86-4bbb-82ca-55e15646b74d",
-		"title": "CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "9404ad37-6c09-453f-bd65-19511597320c",
-		"title": "CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "323aabb9-3b8c-4993-a3c1-22b6b17eb111",
-		"title": "Het schoolexamen heeft betrekking op domein A, B en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A, B en:"
 	},
 	{
 		"id": "841a8b7d-c784-49f7-93fd-77d3219a7707",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "9c6a6101-5677-4de9-8f9b-e1112c9e0459",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "3c487dc1-c3de-45a2-b6cf-901d1a41caaa",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "47d7da3f-822d-4b28-9288-549b5299d068",
-		"title": "Het eindexamen bestaat uit het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het schoolexamen."
 	},
 	{
 		"id": "9af37a4e-a6d6-4d8e-ac76-c60fef951cd4",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "18762278-b575-42ae-b9a2-907b85ea7057",
 		"prefix": "B.",
-		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek"
 	},
 	{
 		"id": "d5d6c808-13e6-4043-9bcc-54a5452f3e04",
 		"prefix": "C.",
-		"title": "Domein C Leven",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C Leven"
 	},
 	{
 		"id": "1271a12a-49b6-4ddd-8224-cbb0e4d85313",
 		"prefix": "D.",
-		"title": "Domein D Biosfeer",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D Biosfeer"
 	},
 	{
 		"id": "4c2807f9-c697-4bfc-b588-518966d2833d",
 		"prefix": "E.",
-		"title": "Domein E Materie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E Materie"
 	},
 	{
 		"id": "681edc7e-a9ac-4be6-9992-789120803fb6",
 		"prefix": "F.",
-		"title": "Domein F Zonnestelsel en heelal.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein F Zonnestelsel en heelal."
 	},
 	{
 		"id": "bb3f8253-fc7b-44fd-a577-5deacc9f5f8b",
-		"title": "Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof."
 	},
 	{
 		"id": "fe3719c5-bc8b-4dfd-87ca-e4bb3142fbbb",
-		"title": "De domeinen A en B behoren altijd tot de examenstof.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "De domeinen A en B behoren altijd tot de examenstof."
 	},
 	{
 		"id": "07135076-61d1-4add-b560-7b723bb821de",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "4cebac67-d668-41ce-80df-3e24f4c767a9",
 		"prefix": "1.",
-		"title": "de domeinen A en B;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen A en B;"
 	},
 	{
 		"id": "f65c191d-dbd6-4eca-90e2-f16de60597f2",
 		"prefix": "2.",
-		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;"
 	},
 	{
 		"id": "5b7684e7-3605-4732-8e54-d2e8fc99a018",
 		"prefix": "3.",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "004923ed-8bff-42db-9912-d062b3a01b4c",
-		"title": "Het eindexamen bestaat uit het schoolexamen.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het schoolexamen."
 	},
 	{
 		"id": "f682746d-d8c5-4853-909f-fd982d3984e1",
-		"title": "Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Dit examenprogramma is ook van toepassing op het havo, waar de school voor havo ervoor kiest om algemene natuurwetenschappen als afzonderlijk vak in het eindexamen op te nemen, met dien verstande dat voor het havo een selectie kan worden gemaakt uit de examenstof."
 	},
 	{
 		"id": "c74ebcb2-c700-452d-86bd-1b89744c4339",
-		"title": "De domeinen A en B behoren altijd tot de examenstof.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "De domeinen A en B behoren altijd tot de examenstof."
 	},
 	{
 		"id": "7c234cd7-f0bf-4471-ac58-5a06006c30e7",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "4c6a9ff7-b2a9-433e-a0c4-5636527bff27",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"tag_id": [
-			"82f345a4-7808-4bdf-85f6-04581318d294"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen."
 	},
 	{
 		"id": "d8297981-e10a-4070-800f-17dae5f7fea0",
 		"prefix": "A.",
-		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
-		]
+		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "65a4c556-1489-4ba7-96d1-5b3a643d1f08",
 		"prefix": "B.",
-		"title": "Domein B Wereld",
-		"tag_id": [
-			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
-		]
+		"title": "Domein B Wereld"
 	},
 	{
 		"id": "e639cf65-e198-4225-8862-20f72658ea8b",
 		"prefix": "C.",
-		"title": "Domein C Aarde",
-		"tag_id": [
-			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
-		]
+		"title": "Domein C Aarde"
 	},
 	{
 		"id": "48d1d74b-9e1d-403b-859a-bc3245f52726",
 		"prefix": "D.",
-		"title": "Domein D Gebieden",
-		"tag_id": [
-			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
-		]
+		"title": "Domein D Gebieden"
 	},
 	{
 		"id": "a06247dc-b2fd-4c0c-bf9a-21e75ecf9c77",
 		"prefix": "E.",
-		"title": "Domein E Leefomgeving",
-		"tag_id": [
-			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
-		]
+		"title": "Domein E Leefomgeving"
 	},
 	{
 		"id": "36e13559-2f6b-42d7-b0e7-f9f2c1858b78",
 		"prefix": "F.",
-		"title": "Domein F Oriëntatie op studie en beroep.",
-		"tag_id": [
-			"4aa60eea-d8f9-49d4-b0c3-ef64b34d743c"
-		]
+		"title": "Domein F Oriëntatie op studie en beroep."
 	},
 	{
 		"id": "6b053d44-e6ad-455e-b33e-169142fa6ece",
 		"prefix": "1.",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B1, C1, D1 en E1.",
-		"tag_id": [
-			"14a35875-6f59-4877-ad8c-8dd870547928"
-		]
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B1, C1, D1 en E1."
 	},
 	{
 		"id": "69da53a8-4ca2-472a-abe7-d49746aee6c0",
 		"prefix": "2.",
-		"title": "De CvTE  stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"14a35875-6f59-4877-ad8c-8dd870547928"
-		]
+		"title": "De CvTE  stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "16956cce-5b65-4e3d-ba66-a3c3a272cbf3",
 		"prefix": "3.",
-		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"14a35875-6f59-4877-ad8c-8dd870547928"
-		]
+		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "404a64a1-9880-4495-8b00-a4e77f5e7269",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "270b6799-e32d-4d61-a157-951df4809db4",
 		"prefix": "1.",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "e053a227-b2a1-4524-8db7-e5df8de0eed5",
 		"prefix": "2.",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "b531fd20-2edb-412f-9132-23013274e5fe",
 		"prefix": "3.",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "31f44d66-0715-491b-9362-68a7b4265b95",
 		"prefix": "1",
-		"title": "Hieronder worden de examenprogramma’s per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma.",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		]
+		"title": "Hieronder worden de examenprogramma’s per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma."
 	},
 	{
 		"id": "f718d87c-8e21-4d88-8e36-49db374da446",
 		"prefix": "2",
-		"title": "Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met CE.",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		]
+		"title": "Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met CE."
 	},
 	{
 		"id": "c9d1facd-d95e-4b05-8ecc-8151e4f3d91f",
 		"prefix": "3",
-		"title": "Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden).",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		]
+		"title": "Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden)."
 	},
 	{
 		"id": "b31349e0-4c38-4292-aa25-dc86415409e7",
 		"prefix": "1.",
-		"title": "ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg;",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		]
+		"title": "ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg;"
 	},
 	{
 		"id": "3e7c227d-5011-40a5-a1a4-ce1d69c27d3f",
 		"prefix": "2.",
-		"title": "indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "c99da807-6e03-42fe-9fab-4a36e3aa355a",
 		"prefix": "3.",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		]
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "283bf714-8767-49ae-84a9-c4c562231541",
-		"title": "Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		]
+		"title": "Voor bepaalde groepen van verwante beroepsgerichte programma’s in de GL is er een gemeenschappelijk CE. De exameneenheden die horen bij deze gemeenschappelijke centrale examens in de GL hebben een nieuwe vakcode gekregen gevolgd door een nummering in Romeinse cijfers. Dit betreft de volgende groepen van beroepsgerichte programma’s GL:"
 	},
 	{
 		"id": "4f20804e-482d-42e2-ad53-8da246fea20e",
-		"title": "In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoetst: 3, 5, 6, 11, 12, 17 en 18. In het centraal examen (CE) voor GL/TL worden bovendien de eindtermen 22, 24 en 26 getoetst.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "In de centrale examens voor BB, KB en GL/TL worden de volgende eindtermen getoetst: 3, 5, 6, 11, 12, 17 en 18. In het centraal examen (CE) voor GL/TL worden bovendien de eindtermen 22, 24 en 26 getoetst."
 	},
 	{
 		"id": "cfff1c12-5e7a-4147-8c9e-3e6492dfde80",
-		"title": "De overige eindtermen worden in het schoolexamen (SE) getoetst.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De overige eindtermen worden in het schoolexamen (SE) getoetst."
 	},
 	{
 		"id": "92ab6081-60d4-4466-8532-52147c9aa5e0",
-		"title": "Eindterm 3 wordt zowel in het schoolexamen als in het centraal examen getoetst.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "Eindterm 3 wordt zowel in het schoolexamen als in het centraal examen getoetst."
 	},
 	{
 		"id": "7f2f5b48-4112-4863-8c76-ce8fb87fb289",
-		"title": "De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		]
+		"title": "De school kan besluiten om de eindtermen 5, 6, 11, 12, 17, 18 – en voor GL/TL ook 22, 24 en 26 – ook in het schoolexamen te toetsen."
 	},
 	{
 		"id": "df53f8a0-67fa-46c9-93f9-4dbec6befd06",
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen"
 	},
 	{
 		"id": "ccfaa937-4c31-40d4-99c3-903af076a368",
 		"prefix": "A.",
-		"title": "Domein A: Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein A: Vaardigheden"
 	},
 	{
 		"id": "2d0f6d0b-c8b3-4fd1-b636-c5e0018d1fec",
 		"prefix": "B.",
-		"title": "Domein B: Wereld",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein B: Wereld"
 	},
 	{
 		"id": "32efb5e5-b740-44b6-9402-03af8fb14ae9",
 		"prefix": "C.",
-		"title": "Domein C: Aarde",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein C: Aarde"
 	},
 	{
 		"id": "5893352c-4f46-42fb-8fbc-488d871efeed",
 		"prefix": "D.",
-		"title": "Domein D: Ontwikkelingsland",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein D: Ontwikkelingsland"
 	},
 	{
 		"id": "b0de510e-3ac2-4cb2-802f-e46f69ef9385",
 		"prefix": "E.",
-		"title": "Domein E: Leefomgeving",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domein E: Leefomgeving"
 	},
 	{
 		"id": "e288278e-13ec-4d54-81fb-dcf39114fdfc",
 		"prefix": "F.",
-		"title": "Domeind F: Oriëntatie op studie en beroep",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		]
+		"title": "Domeind F: Oriëntatie op studie en beroep"
 	},
 	{
 		"id": "05820552-d56d-41ab-99ac-f4a3d3744c10",
 		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"ce_se": "CE"
 	},
 	{
 		"id": "e6af7d85-be26-4e53-aeab-03c4859a1adc",
 		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"ce_se": "CE"
 	},
 	{
 		"id": "1a7154f7-1e1c-4e71-b052-6e8d9c0031d3",
 		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"ce_se": "CE"
 	},
 	{
 		"id": "e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
 		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
 		"id": "421a3831-11da-4c89-b566-b236af75d2cd",
 		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
 		"id": "e653076d-f71e-457c-ad45-0c6281e5a21b",
 		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
 		"id": "d70e8e03-7e2c-4fae-ba4a-6be2435c6002",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"ce_se": "SE"
 	},
 	{
@@ -4469,9 +3443,6 @@
 		"id": "57aee692-ee00-4444-983e-b158618a33a3",
 		"prefix": "A.",
 		"title": "Domein A Vaardigheden",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"replaces": [
 			"9913999e-6796-4e7a-9fe2-956913286548"
 		]
@@ -4480,9 +3451,6 @@
 		"id": "cafbd63c-dd5d-4ce6-b32a-b63c0ff79c4d",
 		"prefix": "B.",
 		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"replaces": [
 			"42864135-d1e7-4d89-9b35-9c7486c120a5"
 		]
@@ -4491,9 +3459,6 @@
 		"id": "a42eca39-e277-49c0-b1f8-59482211c51a",
 		"prefix": "C.",
 		"title": "Domein C Leven",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"replaces": [
 			"182bf0d4-02ec-4d46-b8d0-c0408b33aa02"
 		]
@@ -4502,9 +3467,6 @@
 		"id": "5f917f8e-9182-42c0-9512-5d373953e713",
 		"prefix": "D.",
 		"title": "Domein D Biosfeer",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"replaces": [
 			"39c794d4-164a-4a6c-9a60-06b539fb98d4"
 		]
@@ -4513,9 +3475,6 @@
 		"id": "93ba3571-23ce-4b34-a7e1-883a2421f033",
 		"prefix": "E.",
 		"title": "Domein E Materie",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"replaces": [
 			"ee5aa3b8-3cd4-4e11-a888-4200a1561236"
 		]
@@ -4524,9 +3483,6 @@
 		"id": "87847e01-87cd-403b-916f-310941d11022",
 		"prefix": "F.",
 		"title": "Domein F Zonnestelsel en heelal.",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"replaces": [
 			"e8f364df-6a3d-4a67-89da-485cae44d2d5"
 		]
@@ -4535,9 +3491,6 @@
 		"id": "174e521f-71c7-4e11-b947-1885de8da407",
 		"prefix": "1.",
 		"title": "de domeinen A en B;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"replaces": [
 			"3278a1c3-a44a-4e5a-801e-10ca2291d366"
 		]
@@ -4546,9 +3499,6 @@
 		"id": "e1c2e6d7-9e94-45c6-aad5-b34992ad0d44",
 		"prefix": "2.",
 		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"replaces": [
 			"6eb1bc75-2611-4aee-a3d3-0e3a38d4554b"
 		]
@@ -4557,9 +3507,6 @@
 		"id": "6966fb86-e457-44b8-a356-08a6b2e2cb27",
 		"prefix": "3.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"replaces": [
 			"da6ee1fd-9bcf-404d-bb74-26fc8eb3b16e"
 		]
