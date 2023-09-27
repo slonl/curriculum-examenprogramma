@@ -314,15 +314,6 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "WI/B/H/DomeinC/D2",
-		"id": "c6b37d39-8897-4ef9-9393-0c328b5d7568",
-		"title": "Subdomein D2: Afgeleide functies",
-		"examenprogramma_eindterm_id": [
-			"82d98790-f50b-4eb8-9602-6090f490a1b0"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
 		"prefix": "WI/A/V/DomeinE/E1",
 		"id": "9f680bda-38f2-48f4-bc54-5be64cafab53",
 		"title": "Subdomein E1: Probleemstelling en onderzoeksontwerp",
@@ -776,9 +767,6 @@
 		"prefix": "NLT/V/DomeinA/A1",
 		"id": "5f61c40e-57a4-4d2f-9540-8de594d0cdf1",
 		"title": "Subdomein A1: Informatievaardigheden gebruiken",
-		"tag_id": [
-			"4ddbf045-8c97-4983-88fd-afa1e78afd77"
-		],
 		"examenprogramma_eindterm_id": [
 			"2b656e88-324b-4b33-8082-709ecbfb7d5b"
 		],
@@ -815,9 +803,6 @@
 		"prefix": "NLT/V/DomeinA/A5",
 		"id": "ef371508-d20b-4eba-be20-45fb538d684e",
 		"title": "Subdomein A5: Onderzoeken",
-		"tag_id": [
-			"077a694e-c6ae-4219-af2f-c10d12894b3a"
-		],
 		"examenprogramma_eindterm_id": [
 			"737ad0e4-b9f3-4cb2-beec-d93d8a2750cf"
 		],
@@ -863,9 +848,6 @@
 		"prefix": "NLT/V/DomeinA/A10",
 		"id": "1ab94262-b363-42e6-a95b-89585151a544",
 		"title": "Subdomein A10: Interdisciplinaire vraagstukken in studie- en beroepspraktijk",
-		"tag_id": [
-			"525c9413-7264-4dfe-860d-010fca591704"
-		],
 		"examenprogramma_eindterm_id": [
 			"e9fad325-bdac-451e-9ded-fedc5e4afae2"
 		],
@@ -1797,33 +1779,6 @@
 			"1f067b21-201f-4023-9a16-4f1098712b66"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/V/DomeinE/E5",
-		"id": "57c0a818-acfa-484e-baef-b42dedfb357f",
-		"title": "Subdomein E5: Arbeid en informatisering",
-		"examenprogramma_eindterm_id": [
-			"a8393d28-8714-4125-9343-66bc4b49edab"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/V/DomeinE/E6",
-		"id": "1c1445f8-b15e-41d1-bdc9-1175e1246d86",
-		"title": "Subdomein E6: Betekenis en waardering van werk",
-		"examenprogramma_eindterm_id": [
-			"c2f5acf0-7454-4cbc-98bb-5dcbbc13a8a1"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F5",
-		"id": "b5df6539-8ad3-4efd-9d2a-8147b26ca86a",
-		"title": "Subdomein F5: Oorzaken van criminaliteit",
-		"examenprogramma_eindterm_id": [
-			"950aac82-e0d3-4747-b783-bec9485f9f4b"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"prefix": "MAW/V/DomeinH/H3",
@@ -4679,15 +4634,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/H/DomeinA/A15",
-		"id": "3c1673a2-647d-499c-8780-41793fec7fe8",
-		"title": "Subdomein A15: Contexten",
-		"examenprogramma_eindterm_id": [
-			"f822089b-caf8-47b0-9fc0-c448ae68def8"
-		],
-		"ce_se": "SE"
-	},
-	{
 		"prefix": "BIO/H/DomeinA/A16",
 		"id": "9dcdc98c-2b89-44ab-b8c7-8804be873c42",
 		"title": "Subdomein A16: Kennisontwikkeling en -toepassing",
@@ -5353,9 +5299,6 @@
 		"prefix": "PREAMBULE/1",
 		"id": "e625807f-aae1-4c47-87bd-2ffb42292237",
 		"title": "Werken aan vakoverstijgende thema’s",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"9f8060b7-690e-40b5-a565-873a12eede83",
 			"ad0d9a09-834b-4088-9e4b-9058fdd0f183",
@@ -5371,9 +5314,6 @@
 		"prefix": "PREAMBULE/2",
 		"id": "af6de566-2986-40ae-9359-0096d6307bac",
 		"title": "Leren uitvoeren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"9abff946-93ac-480c-b508-6b76efcf6146",
 			"b74afe65-a569-46f5-8c9b-b6165dcbbdd6",
@@ -5388,9 +5328,6 @@
 		"prefix": "PREAMBULE/3",
 		"id": "d9a5ecbd-563f-4882-a490-bc808dd73307",
 		"title": "Leren leren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"9b7a4400-75f3-4bb1-9aa0-ebf9ae390a1b",
 			"9ce7df8d-44bf-4d01-86c4-015f6cd7b77f",
@@ -5405,9 +5342,6 @@
 		"prefix": "PREAMBULE/4",
 		"id": "d0fa5362-b124-44b2-b549-cce54e12dcd1",
 		"title": "Leren communiceren",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"8cc29807-653a-4318-afb9-d0ac810837f0",
 			"1f40ba8b-dc80-4776-adb6-11947149d920",
@@ -5422,9 +5356,6 @@
 		"prefix": "PREAMBULE/5",
 		"id": "51cc5bbf-ecea-4014-9de0-84fbccf213c1",
 		"title": "Leren reflecteren op het leer- en werkproces",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"82eb1869-4530-45fb-8479-165d016abc98",
 			"14b313d0-5188-41d9-8c22-7b6a425143f2",
@@ -5435,9 +5366,6 @@
 		"prefix": "PREAMBULE/6",
 		"id": "c61abd39-7c3c-4875-a5b0-9bc35a7b65d7",
 		"title": "Leren reflecteren op de toekomst",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"examenprogramma_eindterm_id": [
 			"50cbb9c4-67b1-4b3a-a52c-ce9de4012add",
 			"13c9b0ab-d6a5-4d55-8e51-707e4341577b",
@@ -5804,15 +5732,6 @@
 			"aaebfc92-2dad-4ca3-88e5-ad0527dc57c7"
 		],
 		"title": "Subdomein E3: Literatuurgeschiedenis"
-	},
-	{
-		"id": "ad10d1ee-d312-4698-b4ed-b33f957a413c",
-		"title": "Overheidsbeleid en standpunten van politieke partijen",
-		"prefix": "MAW/V/DomeinB/B5",
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"6b2793c4-9473-41a9-9881-75aa4236698b"
-		]
 	},
 	{
 		"id": "59c29633-b935-48ab-b840-b6a480aa8b4f",
@@ -6409,7 +6328,7 @@
 		"examenprogramma_eindterm_id": [
 			"0506deab-1502-4352-b9ad-3bea34e765c5"
 		],
-		"ce_se": "CE",
+		"ce_se": "SE",
 		"prefix": "MAW/V/DomeinF/F1",
 		"replaces": [
 			"76ad6d16-aee9-4894-8363-85d191a3f15f"
@@ -6421,7 +6340,7 @@
 		"examenprogramma_eindterm_id": [
 			"a0f42da9-bf31-4dd8-b11b-aec95bb29d97"
 		],
-		"ce_se": "CE",
+		"ce_se": "SE",
 		"prefix": "MAW/V/DomeinF/F2",
 		"replaces": [
 			"cfff0210-7843-46d5-8278-967559cd89e3"
@@ -6989,39 +6908,6 @@
 			"fe710258-9341-4d54-b735-a0385d955cb8"
 		],
 		"ce_se": ""
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F3",
-		"id": "9c89f769-97ff-451d-a6c5-ae1409756d80",
-		"title": "Subdomein F3: Overheidsbeleid",
-		"examenprogramma_eindterm_id": [],
-		"ce_se": "CE",
-		"replaces": [
-			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
-			"ca87f930-bc07-4488-b677-cffae4e3eb25"
-		]
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F4",
-		"id": "d54ab37b-d66b-438d-ba22-91db72da535b",
-		"title": "Subdomein F4: Functies van straffen",
-		"examenprogramma_eindterm_id": [],
-		"ce_se": "CE",
-		"replaces": [
-			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
-			"ab9c1f4c-6cee-4d4e-9007-256e57905fe1"
-		]
-	},
-	{
-		"prefix": "MAW/V/DomeinG/G5",
-		"id": "49709dff-4a86-45f8-8c5a-06b06ce306a1",
-		"title": "Subdomein G5: Milieu en cultuur",
-		"examenprogramma_eindterm_id": [],
-		"ce_se": "SE",
-		"replaces": [
-			"b52d219f-d26f-40fe-8559-e93ebfbbf312",
-			"3ec12fe7-86ee-46e5-a2b2-9c8b4326281a"
-		]
 	},
 	{
 		"prefix": "WI/C/V/DomeinA/A1",
@@ -9989,7 +9875,7 @@
 		"examenprogramma_eindterm_id": [
 			"c8f37bb9-d4c6-4dab-a738-cf57c1b72954"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D1",
 		"replaces": [
 			"3b4bcc6b-8bed-4eaa-979c-3935e1b55302",
@@ -10002,7 +9888,7 @@
 		"examenprogramma_eindterm_id": [
 			"81d50495-32ff-4a5a-a7df-541c53bf3182"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D2",
 		"replaces": [
 			"958b8c8d-a368-49c9-91b7-82cedde6c101",
@@ -10015,7 +9901,7 @@
 		"examenprogramma_eindterm_id": [
 			"8abd329c-6aac-4e7e-8948-00b318c14bf2"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D3",
 		"replaces": [
 			"89bfd44e-b2d6-4392-92cd-2d3b25dfbcc3",
@@ -10028,7 +9914,7 @@
 		"examenprogramma_eindterm_id": [
 			"c60598c9-f244-41dd-9218-f80ac64e85ed"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinD/D4",
 		"replaces": [
 			"d718e7e1-2cb0-4e52-9e44-967ec9db7eb4",
@@ -10041,7 +9927,7 @@
 		"examenprogramma_eindterm_id": [
 			"af4c2732-8680-4e8c-a3b4-1b583036ad0b"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E1",
 		"replaces": [
 			"98e55553-55ed-485f-9724-5d0ce30b42e1",
@@ -10054,7 +9940,7 @@
 		"examenprogramma_eindterm_id": [
 			"3e301233-fced-4236-aa61-6470f14f0ab7"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E2",
 		"replaces": [
 			"c250a4d1-73c7-49cb-9d1b-5ff458c6eae1",
@@ -10067,7 +9953,7 @@
 		"examenprogramma_eindterm_id": [
 			"b716f149-f324-496b-9019-e94d1e480c55"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E3",
 		"replaces": [
 			"1d37b9ba-ae5a-48d5-a668-eb32e89916b5",
@@ -10080,7 +9966,7 @@
 		"examenprogramma_eindterm_id": [
 			"70c7dc44-dcdf-458e-80e3-3da178e2b042"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"prefix": "MAW/V/DomeinE/E4",
 		"replaces": [
 			"e57b0bf9-9ed3-4f0a-9f64-0b2c716d554b",
@@ -10195,7 +10081,8 @@
 		"replaces": [
 			"cbcfd73d-2be0-4536-afeb-02fc6a1d347f",
 			"5ae1d13e-dfbb-4845-8e20-cd9ec1cf1853"
-		]
+		],
+		"ce_se": "CE"
 	},
 	{
 		"prefix": "AK/H/DomeinA/A1",
@@ -10210,6 +10097,30 @@
 		"replaces": [
 			"7a894a09-cfaa-49e2-9ea1-7e320e055d78",
 			"32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/D2",
+		"id": "f87257c9-59b2-40d0-bb5b-d7f3856e9388",
+		"title": "Subdomein D2: Afgeleide functies",
+		"examenprogramma_eindterm_id": [
+			"1e103111-1119-45bf-ac0d-5d801204367b"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"c6b37d39-8897-4ef9-9393-0c328b5d7568"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A15",
+		"id": "0e3c7a08-3ae1-4764-92c4-dcc8910629cc",
+		"title": "Subdomein A15: Contexten",
+		"examenprogramma_eindterm_id": [
+			"15895d2a-320a-428e-a2c5-4123b914bca4"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"3c1673a2-647d-499c-8780-41793fec7fe8"
 		]
 	}
 ]

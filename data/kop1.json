@@ -12,9 +12,6 @@
 	{
 		"id": "3b907c37-8c01-483a-8867-8a182191b5be",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"b3a7cecd-9077-411d-b31e-2fc223715a0f",
 			"91c61706-10d2-4c16-9eed-52faf522ea97",
@@ -35,9 +32,6 @@
 	{
 		"id": "02805a52-65ff-40ed-ad5f-eebaa77a9ba5",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"b6b8d7c3-0b0b-46e1-953b-353778b93ac7",
 			"1f0c9434-859e-4300-9121-616247c511e2",
@@ -85,9 +79,6 @@
 	{
 		"id": "43306c29-a456-46d7-b977-16bea97f8259",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"65a31a99-e3ec-471e-830c-fda7c3e0abcd",
 			"13fd35dd-0ae4-4559-97c5-2c9ec31df9e6",
@@ -97,9 +88,6 @@
 	{
 		"id": "43b40002-1f90-4e8a-b40e-e066d97e82a4",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"8f2094f8-cec4-45cc-8f53-6c09b62f0e84",
 			"03944f68-fe99-4446-9738-de43b77087b0",
@@ -150,9 +138,6 @@
 	{
 		"id": "29e21108-ec4b-403d-813b-021d597e2c26",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"911407db-4d9d-4bd2-9d15-3abb5dd32330",
 			"cd6fc72b-15e4-467e-b122-8268db2607bd",
@@ -162,9 +147,6 @@
 	{
 		"id": "903fce21-6625-47d7-b4ee-328da6748b97",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"6846001e-a7f1-410d-a360-0b181fd99934",
 			"95e4d3ff-32b2-4f25-8568-864d24f7f302",
@@ -175,9 +157,6 @@
 	{
 		"id": "d4e03bd2-ae26-4ca8-90e7-41b99fb8eeea",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop2_id": [
 			"de3bb7be-321c-4cb0-a2bf-e13020286480"
 		],
@@ -188,9 +167,6 @@
 	{
 		"id": "ec81c807-fa55-49e9-906d-9141c60adcd5",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"1d7f5651-6f45-4503-bcee-c5069b8a1a5b",
 			"92cbf17c-5dcb-485d-98b2-40e5576c4cf7",
@@ -200,9 +176,6 @@
 	{
 		"id": "97f5a5c5-a1e4-4fad-9f10-baa62663633f",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"5c7b032f-e5b2-4fc0-83ec-afa6d435fac0",
 			"8705d37d-9e0d-4a9a-97c7-e82249999360",
@@ -220,9 +193,6 @@
 	{
 		"id": "9ee0e504-fe4a-4608-9904-f1d1f4c66f46",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"75ee3197-f1e2-4955-a04a-9ecb63b82989",
 			"f16f86c5-be10-4280-9a9e-42c047e1b248",
@@ -234,9 +204,6 @@
 	{
 		"id": "d4b4097d-84a1-4b37-b38f-68ad441ced5d",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"cd5eb977-351e-4417-9a14-ae374a0aa099"
 		]
@@ -251,9 +218,6 @@
 	{
 		"id": "c43f18cb-f517-4a1b-ab1c-995f9c588de1",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"364f0945-3682-496a-8aa6-ffd506383628",
 			"7c233bf7-13fa-4514-9a16-57b51ce68e04",
@@ -263,9 +227,6 @@
 	{
 		"id": "9dc40047-527e-4de6-a03e-40321c8f9f2a",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"1a914a0e-a848-4798-83b8-becad80557e3",
 			"15f9ac03-bd48-4654-b9c2-cf6365215eb3",
@@ -283,9 +244,6 @@
 	{
 		"id": "6cf7c3e9-585e-4c6c-9b66-645dce2146da",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"01b05cf3-7a69-4b7a-a857-b9370b6ee580"
 		]
@@ -293,9 +251,6 @@
 	{
 		"id": "b02c8450-7ebc-4b0e-8a57-f5a02c4466c4",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"04a32ef7-cee2-47e1-9a93-93817b34f69c",
 			"31ed4ba9-3b23-4f1d-849c-6b3f092d21dd",
@@ -339,9 +294,6 @@
 	{
 		"id": "85c72932-0a38-4e21-9ebc-9b18f6a26132",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"71c8a683-a046-44e2-8b97-1e180c24abd5",
 			"c22f4663-e3e6-4cb3-b579-9642beef5d6f",
@@ -352,9 +304,6 @@
 	{
 		"id": "ae3ddd37-46bb-477a-93b7-6823cddebfd2",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"97a59846-bfbe-4639-8496-ba2b842b7693",
 			"963c03e3-0e5f-4836-a8d9-33123cb9757e",
@@ -372,9 +321,6 @@
 	{
 		"id": "a68b6725-405c-4a7e-a761-7d3f44f68432",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"b612ef01-e25c-4e9f-a71b-d4b96e9f7d99",
 			"1897fa71-c0f9-435a-8c36-1be1cf7e0a1e",
@@ -385,9 +331,6 @@
 	{
 		"id": "710d49bf-7056-48fc-9fac-8469fe84d03d",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"5ea8d045-c03b-47e6-a013-51f0e38e601c",
 			"18d1bc31-1601-461a-b238-3eaec4c7bfa9",
@@ -422,9 +365,6 @@
 	{
 		"id": "6aff979b-30bd-4a95-b5bc-3ee87b685d40",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"34dd1fe0-ff77-4031-9abb-9077a21191e6"
 		]
@@ -445,9 +385,6 @@
 	{
 		"id": "7ce14c4f-b975-4ade-9648-0e600ae4a20f",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"b4fd338d-b80b-4e76-ab6b-81aeeadf667f"
 		]
@@ -455,9 +392,6 @@
 	{
 		"id": "5a661f59-d6da-4df2-83c8-9b2544399b03",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"b7f37ee2-5871-4348-8cab-a965ebf19861"
 		]
@@ -475,9 +409,6 @@
 	{
 		"id": "b690d487-ba11-4d00-b7f5-9ff8a35c4d25",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"87d949c1-887b-475f-90ff-bf8fa71408b4",
 			"9ed2e21c-1f21-4bb9-ad73-310cbf7a4eb7",
@@ -488,9 +419,6 @@
 	{
 		"id": "9aaa3fdf-ce9f-4dfd-ad6b-fcf4f6569dba",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"d190f69b-de20-47eb-bc8d-4246c5f2b366"
 		]
@@ -508,9 +436,6 @@
 	{
 		"id": "691492b1-1cfc-4dcb-ba80-31754993865f",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"4033b13a-41dd-49c5-9a51-f8089106e8dd",
 			"8fbb7273-a14e-46b4-97d2-71d36a931b70",
@@ -521,9 +446,6 @@
 	{
 		"id": "d379d6b9-e48a-43cd-a84d-89a82dd32541",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"6ae96b38-f192-402b-a5ea-62e99bbd3db1"
 		]
@@ -538,9 +460,6 @@
 	{
 		"id": "3b2a543e-e4e7-4564-a299-5c320c7ff8ef",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"7c4a2024-a6b2-406c-b252-a54e18ed9642",
 			"6673bab8-ad3e-4146-8374-cbe5a7928b64",
@@ -550,9 +469,6 @@
 	{
 		"id": "5b4e2e4d-e421-488f-8478-a87df30613cb",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"957655a0-500c-44a5-abc7-0be5aa014a1a",
 			"f6f306cd-f9f1-46da-9b3d-bebb5d9e9896",
@@ -570,9 +486,6 @@
 	{
 		"id": "a0b1727a-1f2c-4075-9907-6b0e67476823",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"9af8c3ea-4ddf-484e-aea5-67d948e26d49",
 			"be7e9edd-9884-4add-8e10-97ed7dfdb340",
@@ -582,9 +495,6 @@
 	{
 		"id": "f6c633de-dc84-45ff-8c5d-6f704cc11cf5",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"b7f37ee2-5871-4348-8cab-a965ebf19861"
 		]
@@ -599,9 +509,6 @@
 	{
 		"id": "0cdfbd08-d2f9-4392-a6c7-252a4935be9d",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"14dd4ed6-3158-41f0-9457-d19829ef8a1c",
 			"cdc222e9-3973-4524-917b-459bdf2646b4",
@@ -611,9 +518,6 @@
 	{
 		"id": "5e1d272d-ad3b-48c6-b258-1076683104c5",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"d0adf419-38e2-430a-b0ef-ee5ea74d1788"
 		]
@@ -638,9 +542,6 @@
 	{
 		"id": "4ac5a650-7de1-493b-9dfa-b07250b383ae",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"009ac961-7a51-4353-a85e-8304972e880e",
 			"36a50fc1-3505-4cfb-a97e-720c8df796c4",
@@ -661,9 +562,6 @@
 	{
 		"id": "6553e67a-39a1-4460-8d40-9ce90c279f5b",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"b17789d2-f1e2-4c9c-8247-2c0f84b536a9",
 			"431705da-55d9-4150-93f5-db4eb79d62fa",
@@ -674,9 +572,6 @@
 	{
 		"id": "ebe3c114-2831-4174-a6fb-784a3e5c70ab",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"7acbdd4f-5ec0-4519-9d72-c5492698a239",
 			"d10a7fde-7100-4c0d-8b17-737906ab69e6",
@@ -687,9 +582,6 @@
 	{
 		"id": "5d009611-1601-4104-a704-6030b35101b5",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"d682eaaa-7863-4415-b4a7-404452d7f149"
 		],
@@ -705,9 +597,6 @@
 	{
 		"id": "ad96dde6-656a-4ffa-9a8b-b300f5e6c3ef",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"1756a16d-615f-4522-a498-c9c7a1931161",
 			"91cac2fa-e562-4ddd-b5af-c481a14c5dea",
@@ -717,9 +606,6 @@
 	{
 		"id": "d9aae5bd-ae0c-48da-a74c-7fd59999866c",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"c2ec2879-cd4b-44a4-a2dd-fcf1da08b5cd",
 			"d3a212be-d4ca-405d-b8c7-99dc70c33ef9",
@@ -736,9 +622,6 @@
 	{
 		"id": "fb14bca9-003c-427f-9a7e-afa7cfafee83",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"74a58c48-7efa-4cdf-a8d7-4da878b1af28"
 		]
@@ -787,9 +670,6 @@
 	{
 		"id": "24733257-3c26-4035-b8cc-3c8bf0aa473e",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"a5ef57cd-6139-4893-b456-e5d5fdaa0a83",
 			"97baa5f1-e518-4df0-b205-d18d864ddb47",
@@ -799,9 +679,6 @@
 	{
 		"id": "82ac5293-24cf-4a98-bbed-8b7763784a0c",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"3a15d463-227a-471a-bb43-85b4d0d372b5",
 			"2e86c728-e0f5-4c7c-8d23-98df5d65db07",
@@ -826,9 +703,6 @@
 	{
 		"id": "9b3416e1-6f0c-4013-939b-f2234c80ebae",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"65c96b0c-f85b-4324-b2ad-9063344161f3",
 			"db15f78d-9eae-453b-a71c-e9d4ebf42649"
@@ -866,9 +740,6 @@
 	{
 		"id": "54c5782d-6503-4eba-92dd-b56eb6ea7cb2",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"c8582f2d-5333-4751-8620-30607e8d98a6"
 		]
@@ -876,9 +747,6 @@
 	{
 		"id": "9ee6277b-2515-4e24-b778-d38794f36495",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"fa46275e-68a6-4ad4-85a4-53fb1a25fe14",
 			"36319a84-9325-4aec-b5a6-fcf666a81bdb"
@@ -916,9 +784,6 @@
 	{
 		"id": "d6e21568-d38f-44d5-8d28-d2d51017be62",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"11744680-3356-4a6d-a828-6f29a4cbeef3"
 		]
@@ -926,9 +791,6 @@
 	{
 		"id": "a7c65df1-8909-4c65-ab5a-0a6946632c9c",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"f07488cb-142e-4d1a-b1f6-b1256a61663b",
 			"332c3777-bad1-4524-944a-8596eaad73d4"
@@ -944,9 +806,6 @@
 	{
 		"id": "6156f34b-25ed-463a-9aaa-c47c14d52b06",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"15d7045a-330e-43a7-949f-5a3ddae25ceb"
 		]
@@ -954,9 +813,6 @@
 	{
 		"id": "304f7ad9-7aa3-4180-b00f-eb223ec0fd77",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"1f364ce2-01a1-4cfc-b0ec-88914e49aaff",
 			"ff8262d3-cd44-48f1-b6f0-2c0c982718f0"
@@ -972,9 +828,6 @@
 	{
 		"id": "5493efc8-f1d4-4401-a4a4-0e89b53c0d24",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"4fbd7cf0-dbd8-4196-82b6-f61b856b6cf8"
 		]
@@ -982,9 +835,6 @@
 	{
 		"id": "04608c70-b0e7-4a5b-9969-e6845843a1b5",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"de98f949-14fa-4873-9fd2-1599b1bac8b4",
 			"d544cfe7-1de3-4659-b847-8e1d7c8c22f0",
@@ -1001,9 +851,6 @@
 	{
 		"id": "f4cdb99b-d696-4e10-b0ff-1f5d8fbe1797",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"92ccb2a2-f64e-4b3e-95c9-669dd5c8bf44"
 		]
@@ -1011,9 +858,6 @@
 	{
 		"id": "6fb0f96f-6e28-471e-868a-4474a72efae1",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"1696e240-0c93-42fb-af03-4d1ff7daa642",
 			"f0d55e29-2c15-41c7-8d44-69234b83f746",
@@ -1030,9 +874,6 @@
 	{
 		"id": "a68b73ae-4ffe-4b1a-8f7c-8df172e4b48b",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"c80d1254-8f15-4869-8b86-d78fbffe0e5c",
 			"be999c07-a2da-4c6e-a480-205dbbac20e4",
@@ -1049,9 +890,6 @@
 	{
 		"id": "5db53a95-b7d3-4350-865c-7fbf55af1dc3",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"6b1a5a46-5967-45b4-81c0-2431677db0fb",
 			"f6727a15-a867-4c62-8c39-e4b0b211be15",
@@ -1088,9 +926,6 @@
 	{
 		"id": "3fe30ca0-674a-4d4a-a7c5-2edda77086fd",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"45c4edb2-c87a-4cb2-9b35-912ac149b14b",
 			"1be44152-9027-4387-85fb-04d49260de91",
@@ -1100,9 +935,6 @@
 	{
 		"id": "38f7c84e-769f-4a40-8f96-8ca75a6a109d",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"6304f27f-b781-4d69-932f-8be6afc82cbf",
 			"3ef1e307-78d9-426a-adb2-1c6c17ab9602",
@@ -1120,9 +952,6 @@
 	{
 		"id": "ebcd1b2d-efa6-4867-9bb6-1f667a626ada",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"389c9fec-70fe-44c8-a660-a8ccc75c0640",
 			"3007ab13-4e90-4c00-aea6-0fa682673a8b",
@@ -1132,9 +961,6 @@
 	{
 		"id": "2db473a7-60da-4c51-9c8f-0209f5e8fadd",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"3749e2b0-7069-4ca3-8401-2d04459fa0fd",
 			"cd6d7e9e-96c8-46eb-90e9-76064bd0cf8f",
@@ -1153,9 +979,6 @@
 	{
 		"id": "bca3b4d7-f33f-453b-8cde-373831319366",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"26e64a88-f594-4c52-b5f9-2298783d8c19",
 			"bee9dc96-0eca-4d5e-b1cd-a73062c73682",
@@ -1165,9 +988,6 @@
 	{
 		"id": "6a7a2228-db9d-4094-83d2-249040b0fc50",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"9e287bd9-df4d-4ac0-aed6-16b3c2fdbabd",
 			"0c3af06f-52f1-47ac-84e1-6c6c98acfc96",
@@ -1195,9 +1015,6 @@
 	{
 		"id": "bf23fed3-9262-4e12-9db0-ff7b20bb5520",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"8edc4236-3a37-40e2-b922-7ca7fd6f5edd",
 			"7bd06662-4a0b-4224-9ae1-2ad783af00e6",
@@ -1218,9 +1035,6 @@
 	{
 		"id": "f5349d7a-cdf0-4de5-8e55-343d1ba9f217",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"999b74c2-c540-4645-b875-4901d0795ebc"
 		]
@@ -1228,9 +1042,6 @@
 	{
 		"id": "7a3f6d40-fb2a-4e89-b84c-f7a83f4b6263",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"cd1e779f-e377-4083-a15d-ea7186e47048",
 			"1110cded-c561-4d31-a044-b8a707bfcc71",
@@ -1251,9 +1062,6 @@
 	{
 		"id": "867cbbf3-c062-477a-af29-f827711ed384",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"25b9dd5a-b6b1-4280-9622-ee3899242636",
 			"14c36233-a1bd-4b3c-9a7b-348837f2649f",
@@ -1263,9 +1071,6 @@
 	{
 		"id": "963b6d34-5783-4742-992e-b07ccea6a0a1",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"e8ef4927-ae4a-4879-9eba-ae413a591f72",
 			"578514bc-705a-48d4-879b-056820f7214a",
@@ -1295,9 +1100,6 @@
 	{
 		"id": "b7ca818d-3b04-47e9-a782-1a2e62d0fb2d",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"817ebb28-ea6d-452a-b3b7-6d5959b5d87b",
 			"0519443a-3876-4d67-b959-ddff2bf5df42",
@@ -1308,9 +1110,6 @@
 	{
 		"id": "6dbeb4e2-951a-4052-934a-ef670689b0bc",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop2_id": [
 			"373db410-03e7-41dc-8f2a-84e6f0be24b0"
 		],
@@ -1321,9 +1120,6 @@
 	{
 		"id": "feb6ef86-7340-44e9-9ebd-d82243ddb99c",
 		"title": "Het centraal examen:",
-		"tag_id": [
-			"1501da9d-d129-462c-8c25-1c0a2769d9aa"
-		],
 		"examenprogramma_body_id": [
 			"36741397-c890-4949-a95f-19124dd35c7f"
 		]
@@ -1331,9 +1127,6 @@
 	{
 		"id": "96e8cf80-4df7-40d5-ac31-56fff2c7271a",
 		"title": "Het schoolexamen:",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"c670caf8-f3b5-43c7-aea9-f20afe5ba512",
 			"276bdbc6-327e-4d0e-a1ad-222a0b0aff40",
@@ -1350,9 +1143,6 @@
 	{
 		"id": "4603d09d-bd8d-4f11-9325-4203ed376d97",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"5086237c-e14d-4660-bb43-0caef4806871"
 		]
@@ -1367,9 +1157,6 @@
 	{
 		"id": "826f0b06-26b8-462b-b1ad-f6a26fa3efb6",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"1cef384c-fcb0-4aa6-8c95-f793bc03ef5a"
 		]
@@ -1384,9 +1171,6 @@
 	{
 		"id": "720ff63e-4552-4fd4-bcaf-527a9ffc29aa",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"c83bf78e-8a81-4763-8a85-ff0a42336aa6",
 			"27fb7b82-d9bb-4c2f-b53f-bd31c9f1f5d7",
@@ -1405,9 +1189,6 @@
 	{
 		"id": "472767ec-e2b8-4ab1-9780-6e0e4cb7df9e",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"090b785a-db08-481a-9524-88f7ca84a3a8"
 		]
@@ -1422,9 +1203,6 @@
 	{
 		"id": "ad991bc8-ab87-44e0-a1de-a25889b897dd",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"610b3973-0bd8-4780-b5f3-4cd477d4cfe1"
 		]
@@ -1432,9 +1210,6 @@
 	{
 		"id": "886e2240-7daf-42ee-a689-84a3f1fcfe33",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"03bda9b8-ca83-4130-ac00-a3051117bb6b"
-		],
 		"examenprogramma_kop2_id": [
 			"97ae8272-1469-4a65-9927-d4b125f68574"
 		],
@@ -1445,9 +1220,6 @@
 	{
 		"id": "e983b687-6fe3-4acb-a2b0-79f29850918e",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"c2356d44-8fb4-4e7f-9c26-2395e46fecd7",
 			"bb4856b3-fdd3-4e6a-9a11-a0e2fdc0afb9",
@@ -1458,9 +1230,6 @@
 	{
 		"id": "0829ca61-77cd-493a-8fca-7565c7ea5bdb",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"75945bee-df7a-4679-8294-83dc2f8735c2",
 			"22ae0e09-aa55-479e-b91a-deb062270a7a",
@@ -1471,9 +1240,6 @@
 	{
 		"id": "a91f2e41-3dea-400a-9f61-ef743d113761",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop2_id": [
 			"b21ca5d9-284e-4406-a02d-6f5860a2cbfb"
 		],
@@ -1484,9 +1250,6 @@
 	{
 		"id": "96c78f3d-1835-4165-ab49-6f5ac04af24b",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"9fa29fb8-f1f4-4b4f-8e8e-e790f534dc36",
 			"0517c438-510e-4206-9955-277d35822356",
@@ -1497,9 +1260,6 @@
 	{
 		"id": "5af18db6-c73d-45ff-aa3c-29bac31955b6",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"9b8a28e9-f5b2-4b19-a09e-5ce57b53b909",
 			"69fa861d-9275-4923-bc6f-8883da2973df",
@@ -1510,9 +1270,6 @@
 	{
 		"id": "7f26928c-4bb9-46c4-92cf-06cbea6a7522",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop2_id": [
 			"2b8d90f6-c3b9-4041-b07f-8626cc62be38"
 		],
@@ -1523,9 +1280,6 @@
 	{
 		"id": "ef379269-c9ae-4d23-9d00-522f41dcfc8f",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"d1572bbb-ee37-4fd4-a6d3-2797c5c4ae58",
 			"f5ce429e-404b-4ae3-8deb-b02ffd091d12",
@@ -1535,9 +1289,6 @@
 	{
 		"id": "618c387a-b83e-42ee-89ea-ed6670f7b355",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"5ad7dfab-a637-48f7-8851-a6e8246eb3a7",
 			"4fc69187-f68f-4a52-89f5-f9915f6c6d58",
@@ -1548,9 +1299,6 @@
 	{
 		"id": "70d7fc98-d74d-4588-b71c-cc5370d9b844",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop2_id": [
 			"b517c5fb-8460-47f8-ad89-88aaaeadb7c5"
 		],
@@ -1561,9 +1309,6 @@
 	{
 		"id": "5bfe6c85-b406-4e61-9ca5-a9828fe50d5c",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"d5d2ec72-9895-4827-874f-d4e22623762f",
 			"7fd908d7-3c86-4bbb-82ca-55e15646b74d",
@@ -1573,9 +1318,6 @@
 	{
 		"id": "e57a5dae-092f-45d8-bc36-72ee2c81d4c1",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"323aabb9-3b8c-4993-a3c1-22b6b17eb111",
 			"841a8b7d-c784-49f7-93fd-77d3219a7707",
@@ -1586,9 +1328,6 @@
 	{
 		"id": "f9974c63-8cd8-4b3e-adab-175afcb5185e",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop2_id": [
 			"06e17a31-d53f-41a9-b047-cb40c0a16d47"
 		],
@@ -1599,9 +1338,6 @@
 	{
 		"id": "80ab5030-4202-4fe6-8224-77976183475c",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"07135076-61d1-4add-b560-7b723bb821de",
 			"4cebac67-d668-41ce-80df-3e24f4c767a9",
@@ -1622,9 +1358,6 @@
 	{
 		"id": "3f2d38a1-e59c-43c7-8052-3d3ce529bc9c",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"14a35875-6f59-4877-ad8c-8dd870547928"
-		],
 		"examenprogramma_body_id": [
 			"6b053d44-e6ad-455e-b33e-169142fa6ece",
 			"69da53a8-4ca2-472a-abe7-d49746aee6c0",
@@ -1634,9 +1367,6 @@
 	{
 		"id": "4dfb25f0-53e1-4b9a-8e3e-8066f400aa8a",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"404a64a1-9880-4495-8b00-a4e77f5e7269",
 			"270b6799-e32d-4d61-a157-951df4809db4",
@@ -1647,9 +1377,6 @@
 	{
 		"id": "177dee42-5a35-436c-8060-70084aba4958",
 		"title": "Leeswijzer",
-		"tag_id": [
-			"a2b4b945-8366-4291-bc6c-5a1755682647"
-		],
 		"examenprogramma_kop2_id": [
 			"b7486164-e607-4527-b598-9688aa1fcda8"
 		],
@@ -1684,9 +1411,6 @@
 	{
 		"id": "c897aa12-544f-409d-b0f6-8138748bbb61",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"05820552-d56d-41ab-99ac-f4a3d3744c10",
 			"e6af7d85-be26-4e53-aeab-03c4859a1adc",
@@ -1697,9 +1421,6 @@
 	{
 		"id": "a9234709-b275-4179-a40b-2c376f6f2f67",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
 			"421a3831-11da-4c89-b566-b236af75d2cd",
@@ -2104,18 +1825,6 @@
 	},
 	{
 		"examenprogramma_kop2_id": [
-			"90eaeab2-8ad7-4713-95bd-e32bfb51c2c5"
-		],
-		"title": "Het eindexamen bestaat uit het schoolexamen.",
-		"id": "ba5ae86d-da66-401a-92c5-ea9ec17b0d64"
-	},
-	{
-		"examenprogramma_body_id": [],
-		"title": "Het schoolexamen",
-		"id": "3c679f73-85c2-4481-8024-a9d21d36395d"
-	},
-	{
-		"examenprogramma_kop2_id": [
 			"63d8db8a-ebd0-41d0-9ba3-f4f7f43d43dd"
 		],
 		"title": "Het eindexamen bestaat uit het schoolexamen.",
@@ -2169,9 +1878,6 @@
 	{
 		"id": "5679809e-22cb-4536-a114-58890e0fe5c3",
 		"title": "Het centraal examen",
-		"tag_id": [
-			"642137e0-e1bb-4b54-a2f5-211be6eeb3fc"
-		],
 		"examenprogramma_body_id": [
 			"64429207-fb1d-48c5-b360-00f6ee81f0b7"
 		],
@@ -2181,85 +1887,8 @@
 		]
 	},
 	{
-		"id": "7266387f-4966-44f1-a695-86677b4faf65",
-		"title": "Het eindexamen",
-		"examenprogramma_kop2_id": [
-			"95ae33a4-6660-4dcb-9112-890b98b306b7"
-		],
-		"examenprogramma_body_id": [],
-		"replaces": [
-			"b551b4fc-68de-44c7-826f-c521355a81d8"
-		]
-	},
-	{
-		"id": "6556a644-82ac-4180-be69-6d602b06d1b0",
-		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
-		"examenprogramma_body_id": [],
-		"replaces": [
-			"e919349e-f88f-4236-b5e8-71362f1790e1"
-		]
-	},
-	{
-		"examenprogramma_body_id": [],
-		"title": "Het centraal examen",
-		"id": "a02ca87d-1d01-4a72-8517-85d2fdd8d675",
-		"replaces": [
-			"1585f8c2-320c-4886-9792-ba0f1188a381"
-		]
-	},
-	{
-		"examenprogramma_body_id": [],
-		"title": "Het schoolexamen",
-		"id": "6dd3f3c2-2bea-46e8-b063-f70f16c1381f",
-		"replaces": [
-			"56dd759d-ee0b-4a8f-9f1b-b1dd55cd2ef8"
-		]
-	},
-	{
-		"examenprogramma_body_id": [],
-		"title": "Het centraal examen",
-		"id": "92ac0339-18e4-4286-8919-85b68fe09a23",
-		"replaces": [
-			"aa81fbb3-aa1a-4d90-8ad7-a186ec7c8b60"
-		]
-	},
-	{
-		"examenprogramma_body_id": [],
-		"title": "Het schoolexamen",
-		"id": "3bcc061f-8e0c-4f7b-8c24-104191941c16",
-		"replaces": [
-			"58f98fd7-b1ab-40c6-83cc-4b300f06b8f1"
-		]
-	},
-	{
-		"examenprogramma_kop2_id": [
-			"fc2d4b6e-986c-42d7-b429-2140a1701d00"
-		],
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "73e6c727-50f9-4e0b-a8a8-7c674660f51a",
-		"replaces": [
-			"0b30edc8-8dd9-45e0-ba0d-23d591157cfd"
-		]
-	},
-	{
-		"examenprogramma_kop2_id": [
-			"c272889e-39a4-4387-8cb8-cd783bffd810"
-		],
-		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
-		"id": "0b5f82ad-7bc7-4e9a-a64a-890369c5b105",
-		"replaces": [
-			"30402a95-edd6-416d-a7f3-6b6b968cf74d"
-		]
-	},
-	{
 		"id": "79e5aa94-0ab6-450a-a9a5-37ab3e7dc21a",
 		"title": "Het schoolexamen",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_body_id": [
 			"7c234cd7-f0bf-4471-ac58-5a06006c30e7",
 			"174e521f-71c7-4e11-b947-1885de8da407",
@@ -2273,9 +1902,6 @@
 	{
 		"id": "3d7372e5-0205-4cb7-96b4-8f7e30722dea",
 		"title": "Het eindexamen",
-		"tag_id": [
-			"12ad89b5-0997-4695-952f-84e83a44fbab"
-		],
 		"examenprogramma_kop2_id": [
 			"ebfeea00-7302-46b9-a8dd-18b0a9efe171"
 		],

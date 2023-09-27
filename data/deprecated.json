@@ -23036,5 +23036,2229 @@
 		"types": [
 			"examenprogramma"
 		]
+	},
+	{
+		"id": "1578c74b-1708-4030-b2e5-1d261a50d6eb",
+		"title": "Dit betreft de volgende groepen van beroepsgerichte programma’s GL:",
+		"replaces": [
+			"872fc39c-d20d-4245-8192-749fdac881c7"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop3"
+		]
+	},
+	{
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"id": "2fec7031-ea15-4daa-b01b-3f03d9309ac5",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"id": "90eaeab2-8ad7-4713-95bd-e32bfb51c2c5",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"id": "c7100ac6-bc14-4cfa-8c60-ad3ada593d2d",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"id": "401ce308-43dc-4774-b6d7-d8f40dc9c1a6",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"replaces": [
+			"21df4eb6-628f-49d9-ba1d-fd844f73690a"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"id": "89b765d8-5d7a-4b6c-8ed4-d040bd58672e",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"replaces": [
+			"10fd9c67-7b05-40f1-852e-4aa90b5e7a65"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"id": "b0a329e4-93c8-4693-86d8-ab024154f886",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"replaces": [
+			"9178545e-030d-4ab5-b990-15971b29420e"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"id": "7f29646e-06ce-4a90-a548-e6f9000ed62a",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"replaces": [
+			"44063b3b-4b79-422c-80f8-5e6fea3bc6e9"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"id": "43dc30f3-9e12-45d3-a2d1-71694be9d110",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"replaces": [
+			"62f83a35-fcdb-473a-9862-ff06801a5900"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"id": "95ae33a4-6660-4dcb-9112-890b98b306b7",
+		"title": "Het schoolexamen heeft betrekking op:",
+		"replaces": [
+			"b6307bac-a42b-4252-be4b-4ac06c1bacd5"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"id": "fc2d4b6e-986c-42d7-b429-2140a1701d00",
+		"replaces": [
+			"473bb98b-457b-44d4-940b-84d5c2dab360"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"id": "c272889e-39a4-4387-8cb8-cd783bffd810",
+		"replaces": [
+			"c5954cc4-d473-4363-aafb-ad12fe282b0e"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop2"
+		]
+	},
+	{
+		"examenprogramma_kop2_id": [
+			"90eaeab2-8ad7-4713-95bd-e32bfb51c2c5"
+		],
+		"title": "Het eindexamen bestaat uit het schoolexamen.",
+		"id": "ba5ae86d-da66-401a-92c5-ea9ec17b0d64",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"title": "Het schoolexamen",
+		"id": "3c679f73-85c2-4481-8024-a9d21d36395d",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"id": "7266387f-4966-44f1-a695-86677b4faf65",
+		"title": "Het eindexamen",
+		"examenprogramma_kop2_id": [
+			"95ae33a4-6660-4dcb-9112-890b98b306b7"
+		],
+		"replaces": [
+			"b551b4fc-68de-44c7-826f-c521355a81d8"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"id": "6556a644-82ac-4180-be69-6d602b06d1b0",
+		"title": "Het examenprogramma bestaat uit de volgende domeinen:",
+		"replaces": [
+			"e919349e-f88f-4236-b5e8-71362f1790e1"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"title": "Het centraal examen",
+		"id": "a02ca87d-1d01-4a72-8517-85d2fdd8d675",
+		"replaces": [
+			"1585f8c2-320c-4886-9792-ba0f1188a381"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"title": "Het schoolexamen",
+		"id": "6dd3f3c2-2bea-46e8-b063-f70f16c1381f",
+		"replaces": [
+			"56dd759d-ee0b-4a8f-9f1b-b1dd55cd2ef8"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"title": "Het centraal examen",
+		"id": "92ac0339-18e4-4286-8919-85b68fe09a23",
+		"replaces": [
+			"aa81fbb3-aa1a-4d90-8ad7-a186ec7c8b60"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"title": "Het schoolexamen",
+		"id": "3bcc061f-8e0c-4f7b-8c24-104191941c16",
+		"replaces": [
+			"58f98fd7-b1ab-40c6-83cc-4b300f06b8f1"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"examenprogramma_kop2_id": [
+			"fc2d4b6e-986c-42d7-b429-2140a1701d00"
+		],
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
+		"id": "73e6c727-50f9-4e0b-a8a8-7c674660f51a",
+		"replaces": [
+			"0b30edc8-8dd9-45e0-ba0d-23d591157cfd"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"examenprogramma_kop2_id": [
+			"c272889e-39a4-4387-8cb8-cd783bffd810"
+		],
+		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
+		"id": "0b5f82ad-7bc7-4e9a-a64a-890369c5b105",
+		"replaces": [
+			"30402a95-edd6-416d-a7f3-6b6b968cf74d"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_kop1"
+		]
+	},
+	{
+		"id": "e6a635bd-9606-4a44-81f7-7c98d6f2a6c0",
+		"title": "De kandidaat kan met betrekking tot een concreet maatschappelijk vraagstuk verschillende typen vragen herkennen en zelfstandig vragen formuleren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "2c74b74e-9a54-4532-8da2-8125a99af100",
+		"title": "De kandidaat kan bij raadplegen, verwerken en presenteren van informatie gebruik maken van toepassingen van ICT.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "82dbe5c4-0df9-4404-8b33-e0e915c68196",
+		"title": "De kandidaat kan een eenvoudig sociaal-wetenschappelijk onderzoek opzetten en uitvoeren over een concreet maatschappelijk vraagstuk en daarbij de benaderingswijzen van maatschappijleer toepassen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "b034c19c-fd46-4dc3-9176-c3b5ab04c6b1",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer:  de veranderings- en vergelijkende benaderingswijze.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c6240118-7fd3-4624-9048-77a70e61375c",
+		"title": "De kandidaat kan mogelijke modellen beschrijven van samenlevingen met verschillende groepen en hun (sub)culturen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "06862645-7d9c-4b1a-ae52-bf0a8c4cca5c",
+		"title": "De kandidaat kan de ontwikkeling van de verzorgingsstaat beschrijven en verschillende visies hierop benoemen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c8075ba6-ba50-4c93-abfa-f98c52e04eac",
+		"title": "De kandidaat kan aangeven op welke verschillende manieren de overheid betrokken is bij het sociaal-economisch proces.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a8393d28-8714-4125-9343-66bc4b49edab",
+		"title": "De kandidaat kan de invloed van informatisering op arbeid en samenleving beschrijven.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c2f5acf0-7454-4cbc-98bb-5dcbbc13a8a1",
+		"title": "De kandidaat kan uitleggen wat de betekenis is van werk voor mens en samenleving.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "950aac82-e0d3-4747-b783-bec9485f9f4b",
+		"title": "De kandidaat kan verschillende theorieën/visies toepassen bij het geven van verklaringen voor het ontstaan of de toename van een gegeven vorm van criminaliteit.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "8eb1de66-9d51-4608-b103-a16e86451081",
+		"prefix": "2.",
+		"title": "aannemelijk maken wat de relatie is tussen het vraagstuk/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving;",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "1ca94946-8eae-495d-871f-9b3a2c58083c",
+		"prefix": "5.",
+		"title": "De kanditaat kan in contexten vraagstellingen analyseren, gebruik makend van relevante begrippen en theorie, vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken. De kandidaat maakt daarbij gebruik van consistente redeneringen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a469ea8d-1078-442f-ada5-d8c494938d71",
+		"prefix": "11.",
+		"title": "De kandidaat kan beschrijven welke ethische normen en waarden een rol spelen bij het gebruik en de ontwikkeling van digitale artefacten, het eigen handelen expliciet vergelijken met ethische richtlijnen, en het eigen handelen kritisch analyseren en relateren aan ethische dilemma’s.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "af13dde7-5e5e-4346-8bdd-a727d2bc7707",
+		"prefix": "13.",
+		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F, en in de gekozen domeinen uit G tot en met R, genoemde concepten ten minste gebruiken in beroepscontexten, in maatschappelijke contexten en in wetenschappelijke contexten",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "d142d234-9309-47c9-8412-b0907d270a3a",
+		"prefix": "31.",
+		"title": "De kandidaat kan  het verschil tussen exponentiële en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "2ee9eb4d-f7b8-4c0b-a2db-3a7fb0a4d705",
+		"title": "Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "afb0bcd7-0d15-48dd-9f6d-99a00927527a",
+		"title": "De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "90817313-6c00-463d-bad7-71280b32573d",
+		"title": "De prijs die deze intertemporele ruil coördineert is de rente.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "06cd0d87-6124-4553-95a0-45f9d322d5dd",
+		"title": "Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "778ef219-dc0a-42d5-86b6-1486c465b8e8",
+		"title": "Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "35673be9-eb57-4dcb-aff7-23a4ae9af237",
+		"title": "Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "f3d4dc1d-2bc8-4ee7-a45d-1942bd19f58d",
+		"title": "Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "43d0e8cc-2029-4f15-a723-8d6fc0fc85cc",
+		"prefix": "4.",
+		"title": "De kandidaat kan alleen en in samenwerking met anderen in dans vertalen, met gebruikmaking van de danselementen ruimte, tijd en kracht, met toepassing van lichaamsbesef en vormbewustzijn en met een persoonlijke lading.",
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "4e1eab3c-f9b7-445c-a117-960f15d25f39",
+		"prefix": "6.",
+		"title": "De kandidaat kan hierbij gebruik maken van de voor dit onderzoek of proces geschikte werkwijzen, in de vorm van praktische activiteiten en beschouwend onderzoek",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "a78e3011-a6ac-4c06-b627-f4ac48e5fbe6",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "c2170fe0-db97-4b47-bfec-fa3b54a5a616",
+		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE; SE",
+		"prefix": "",
+		"description": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"id": "b5777fb3-c37c-488c-8245-7a9db80b01bf",
+		"prefix": "9.",
+		"title": "Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"description": "",
+		"ce_se": "",
+		"ce": "",
+		"se": "",
+		"kern": "",
+		"keuze": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinE/E5",
+		"id": "57c0a818-acfa-484e-baef-b42dedfb357f",
+		"title": "Subdomein E5: Arbeid en informatisering",
+		"examenprogramma_eindterm_id": [
+			"a8393d28-8714-4125-9343-66bc4b49edab"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinE/E6",
+		"id": "1c1445f8-b15e-41d1-bdc9-1175e1246d86",
+		"title": "Subdomein E6: Betekenis en waardering van werk",
+		"examenprogramma_eindterm_id": [
+			"c2f5acf0-7454-4cbc-98bb-5dcbbc13a8a1"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinF/F5",
+		"id": "b5df6539-8ad3-4efd-9d2a-8147b26ca86a",
+		"title": "Subdomein F5: Oorzaken van criminaliteit",
+		"examenprogramma_eindterm_id": [
+			"950aac82-e0d3-4747-b783-bec9485f9f4b"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "ad10d1ee-d312-4698-b4ed-b33f957a413c",
+		"title": "Overheidsbeleid en standpunten van politieke partijen",
+		"prefix": "MAW/V/DomeinB/B5",
+		"ce_se": "SE",
+		"examenprogramma_eindterm_id": [
+			"6b2793c4-9473-41a9-9881-75aa4236698b"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinF/F3",
+		"id": "9c89f769-97ff-451d-a6c5-ae1409756d80",
+		"title": "Subdomein F3: Overheidsbeleid",
+		"ce_se": "CE",
+		"replaces": [
+			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
+			"ca87f930-bc07-4488-b677-cffae4e3eb25"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinF/F4",
+		"id": "d54ab37b-d66b-438d-ba22-91db72da535b",
+		"title": "Subdomein F4: Functies van straffen",
+		"ce_se": "CE",
+		"replaces": [
+			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
+			"ab9c1f4c-6cee-4d4e-9007-256e57905fe1"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "MAW/V/DomeinG/G5",
+		"id": "49709dff-4a86-45f8-8c5a-06b06ce306a1",
+		"title": "Subdomein G5: Milieu en cultuur",
+		"ce_se": "SE",
+		"replaces": [
+			"b52d219f-d26f-40fe-8559-e93ebfbbf312",
+			"3ec12fe7-86ee-46e5-a2b2-9c8b4326281a"
+		],
+		"description": "",
+		"replacedBy": [],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "WI/K/3/3a",
+		"id": "70024571-16da-4d8b-ac17-1dea6e865af3",
+		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij wiskundige technieken kiezen en gebruiken om problemen op te lossen, waaronder basisalgoritmen en standaardmethodes",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"288fcc9b-1e28-4d42-9f1c-2a831a3ee742"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "WI/K/3/3b",
+		"id": "b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij communiceren door middel van adequaat (wiskundig) taalgebruik",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"b1449475-3715-4c87-be77-f39bc7dc54f2"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "WI/K/3/3c",
+		"id": "9b99e478-af5a-4b86-a97b-705921aadf81",
+		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij adequate onderzoeks- en redeneerstrategieën toepassen.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"007deded-700b-439c-bbb3-4bebb5c8dbe8"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "WI/K/5/7a",
+		"id": "c0134c66-5a44-4f2d-aaa2-034597213566",
+		"title": "De kandidaat kan efficiënt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij schatten en rekenen met gangbare maten en grootheden",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"d15d0990-832b-42c6-b649-d9fbecabf50b"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinD/D2/11",
+		"id": "82d98790-f50b-4eb8-9602-6090f490a1b0",
+		"title": "De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale veranderingen van functiewaarden benaderen zowel met een differentiaalquotiënt als met een numeriek-grafische methode.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "CE;SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"1e103111-1119-45bf-ac0d-5d801204367b"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "GS/K/3/3a",
+		"id": "2f6610e3-640b-4afd-b750-1b120f36279b",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"07cacebf-6e91-4f87-9d37-061641303c63"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "GS/K/5/7",
+		"id": "826a3b42-a7a2-40de-9137-53f45010abc0",
+		"title": "De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"6d30ca18-0bf9-4b46-b8c6-c2c6fb3024a0"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "GS/K/10/17",
+		"id": "e04f3fdd-c3af-4acc-92c9-6d009a36f304",
+		"title": "De kandidaat kan herkennen en beschrijven welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.",
+		"niveau_id": [
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"770b6825-c597-4fd4-a3c8-879380cd3add"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinB/A15/15",
+		"id": "f822089b-caf8-47b0-9fc0-c448ae68def8",
+		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F genoemde concepten ten minste gebruiken in beroepscontexten en in leefwereldcontexten.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replacedBy": [
+			"15895d2a-320a-428e-a2c5-4123b914bca4"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "BIO/K/3/3a",
+		"id": "cad93909-e2c5-4114-ba82-e7ca77832a5c",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 0,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764"
+		],
+		"replacedBy": [
+			"538d0dd5-a304-4d0c-ba9e-220393c40de1"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "BIO/K/9/13a",
+		"id": "e4dada93-c52c-4dea-b70b-faa73390cfc3",
+		"title": "De kandidaat kan vorm, werking en functie van het verteringsstelsel, bloedvatenstelsel, ademhalingsstelsel en uitscheidingsstelsel beschrijven.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
+		],
+		"replacedBy": [
+			"275e1874-b3e7-4fa8-96f9-d8d209c86901"
+		],
+		"types": [
+			"examenprogramma_eindterm"
+		]
+	},
+	{
+		"prefix": "FI/H/DomeinD ",
+		"id": "57ae8740-026f-46d9-8528-f2bef1dc4023",
+		"title": "Domein D: Sociale filosofie",
+		"examenprogramma_subdomein_id": [
+			"5a26a310-954b-427b-b81f-b418bc3316db",
+			"959a15ae-fee2-4cdd-8265-4ca572f044b8",
+			"77f36511-fbf9-467c-83c0-7ed5f7699088"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"46a299ac-aab1-4943-bb05-cbc99f7ca777"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "36823359-cf0f-4e26-b90a-5dd0b55c1282",
+		"prefix": "BV/V/1",
+		"title": "Eindopdracht, productief en reflectief",
+		"examenprogramma_eindterm_id": [
+			"f86fb189-c2ea-4447-89c4-b97dc951c6c8",
+			"24e98fc0-1053-4f47-9587-45eddf5c0f84",
+			"106468ca-8c85-4024-954c-844573625fda",
+			"48360af5-c55a-4e48-915f-2c4bc7948830",
+			"3e815602-aa3e-4adc-88bf-cfe78632eaa9",
+			"2b597a4c-cc8a-4f29-b948-8326a02872b0",
+			"ef0da9a3-d8fb-4b9c-835c-a7dae9f7a1b7"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"7ce0e55f-046c-49ef-ae2f-bac31a303cdb"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "GS/V/DomeinB",
+		"id": "188a4612-361c-4de2-a074-b4ed820cc54e",
+		"title": "Domein B: Oriëntatiekennis",
+		"examenprogramma_eindterm_id": [
+			"d50a7fe2-9609-4f08-8a44-cb0c3a0d70d9",
+			"551eb122-9b30-4f25-a87f-5acb5144a1dd",
+			"9e8e01d1-93b6-44d9-a2f3-2df7b3c35a90",
+			"8b0fb83f-1595-4a8a-9d09-33cc4edcae88",
+			"704abc1d-a85e-4964-ab1a-66d5515cea87",
+			"e83b8a8e-ecf5-45ba-a508-0b7cab7c9968",
+			"65dbd233-7f0b-4201-a861-5794a4725731",
+			"43616401-8138-4638-b64d-016d135a3b8a",
+			"bf4db817-9069-40fb-9b72-832aea2259ac",
+			"35d35518-7550-4d04-956a-c239cbad1ebe",
+			"1e6262bf-a0b4-4c8a-8495-a67b371c44ba",
+			"f1569026-1134-4b77-806b-9cc6adca2156",
+			"8cb73c09-f846-4174-a15b-3eb4dc3329a6",
+			"5171263f-2510-4b51-ad47-05d13cce772a",
+			"54faee47-7772-4a27-817a-4f20dd93e62c",
+			"09fb7f28-4f41-42ec-832c-ef3d60948743",
+			"ae93100a-1f2f-4051-a6be-93d90551bc7f",
+			"2d14a703-e324-42be-8cf4-115f3e6d4452",
+			"82f3334f-b24a-4259-ae46-2711ef2166d3",
+			"7ace4eea-eab6-4965-a41b-dd6897b2f151",
+			"d403b539-b7b6-4c65-b659-ad422d4b0444",
+			"947eeb72-24c2-43cd-9f6b-52e7131bcd9e",
+			"e636f404-2685-4130-a7ee-dab28ffc7bda",
+			"85cf7676-f7ea-4d97-8183-ab2ced32d9d5",
+			"98015369-c226-44fa-9a22-9b6e81971428",
+			"bc514178-6de8-4058-982a-f3f734c1e0c9",
+			"f1a648fc-a182-4596-875a-a64d515f07d5",
+			"9b25b222-61e7-40d0-b59a-33555ad1e47e",
+			"d39da0cf-6956-45b3-985a-5f16e1bd2c39",
+			"09af65e5-201f-4444-9f26-523773e84098",
+			"af592ddd-1860-4adf-bf39-6a270974f1e5",
+			"a0dacf4b-5d84-40dd-86ee-8cef3c6ed045",
+			"9dfa9b19-b507-4250-927b-2f632861e204",
+			"e06421a5-690d-45db-8ba3-7c85e3998139",
+			"f959195e-f24a-4724-bb02-255147897a9e",
+			"7b1011e4-1772-4d53-b128-66307315a324",
+			"45e4e7e9-dd92-4608-aff2-3ba816ae3b2b",
+			"8932d56e-0eb9-48a5-b1a9-74a1bc72774c",
+			"eab23d05-59f9-4e4d-aecd-dd8f7b390cf9",
+			"12b99281-1782-46f7-a4da-5f6c3c1bb94b",
+			"817b7b64-c990-4ddf-b4ca-7a3c0c858e6c",
+			"531cf3e6-5525-4fe8-9dee-51b32e1bab05",
+			"03fb80c2-fa3b-41e1-9364-ac127717ecad",
+			"a76e4f0c-a756-4cb0-aea9-d67575e043a0",
+			"203c2af9-735a-4b9a-a1bc-977a1c9e0c90",
+			"a594083c-4527-4467-a488-04d8986a8e44",
+			"c4626f98-2924-463e-80b2-7eb0635b9dce",
+			"67d60572-45f6-472b-8d42-091e862da0e1",
+			"78f19d9c-95d7-4dc6-afd8-465dbe3c3f7e",
+			"f8d3958a-4080-420a-9f05-152605d08e05",
+			"ad8017d8-05bd-4b46-bae9-28a08976c5b8",
+			"cd3dcc2b-40af-4b14-b26b-94a9287aa9c0",
+			"f95e53f7-0b4d-48c2-bbdb-71843fd097f5"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"3ad586e0-73e2-4e98-82b3-da8c913ee92a"
+		],
+		"replacedBy": [
+			"86df2ad1-e256-4586-b294-d2e01e2f4d55"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB",
+		"id": "7f6b1357-92df-4b51-8898-e6f2a20efd07",
+		"title": "Domein B: Zelfregulatie",
+		"examenprogramma_subdomein_id": [
+			"596170a0-8f84-4daa-be58-fa3f5c330cc4",
+			"eeafc2f6-838b-4c8a-84e2-d3ea0f75b237",
+			"a71f9447-4ddd-44ef-95d3-8c9d5e032963",
+			"488c8c3d-5f0f-4b84-a321-6f75b7f96ec9",
+			"92324563-0f60-4223-9452-68210ee824d0",
+			"136d9c56-7bce-4fa7-95b5-479521ffce6e",
+			"7ca2ae3e-e3bc-4ed2-83fc-b9c789cb5a9d",
+			"940dec39-d320-479b-98c3-23ccf90d567f"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c1d415d0-fe57-4437-b75e-18e89086aee4"
+		],
+		"replacedBy": [
+			"bb00d44e-39b5-4570-b76b-c972758a2c6a"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinC",
+		"id": "dd4ce416-f480-4f4f-89d9-ec0b84616265",
+		"title": "Domein C: Zelforganisatie",
+		"examenprogramma_subdomein_id": [
+			"10fbe7cf-620b-4ce7-bdcb-2db7816a8be5",
+			"e6266c11-665f-412a-948b-9c13032c557d",
+			"55f0c658-fc33-4f9f-8e5d-ca69ef940b89"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c626c900-3729-44fa-89ce-b76213a7a569"
+		],
+		"replacedBy": [
+			"ea2f468f-c738-4d4f-8bd8-22cd4d9b7763"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinD",
+		"id": "fb90b86e-2022-425c-8e32-e5694b0fd641",
+		"title": "Domein D: Interactie",
+		"examenprogramma_subdomein_id": [
+			"b5a6c778-bf37-4c05-90e7-c6cd37632bfd",
+			"7e538a6a-cf9d-4049-aeee-e31ab7d04307",
+			"6e384097-10a3-4e19-9817-f1d6befbb05a",
+			"ca8816cd-223a-4e56-9c2f-4c7a86a4e517",
+			"6b2e08b3-4e59-4cc3-8bd3-2f83eac5ea73"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
+		],
+		"replacedBy": [
+			"1705b41f-1e38-4b39-b5e7-1e65fb0d5676"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinE",
+		"id": "955f4c69-9813-4884-948b-3903612bb889",
+		"title": "Domein E: Reproductie",
+		"examenprogramma_subdomein_id": [
+			"82c4561a-771f-4de9-b0a9-58d24e7e2f01",
+			"191e647a-6374-4240-9c9e-bdd12df19187",
+			"df269118-faf9-4d5f-a0f6-74083488a57b"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"6644c5ee-ae3a-43d3-acba-4d2ac184da85"
+		],
+		"replacedBy": [
+			"9e7e9754-b80a-44b0-80e8-93e29d59bebc"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinF",
+		"id": "50590a33-1f7c-404b-becb-917a70dc5105",
+		"title": "Domein F: Evolutie",
+		"examenprogramma_subdomein_id": [
+			"d83b7da9-181b-47a0-96a3-808df7a773cd",
+			"25c9df91-bf0f-457f-bd9e-432b96c545e2",
+			"92634e6d-87a1-4ae7-a925-a487ff807081",
+			"7d32a4e6-8e02-4cac-919e-a25a99d3ad15"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c13313d8-1f1a-45d5-83cd-37e628f00206"
+		],
+		"replacedBy": [
+			"7aea18c5-e644-4279-8ead-d08e5388b7d1"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "WI/vmbo",
+		"id": "edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a",
+		"title": "Examenprogramma Wiskunde vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"4d7bee87-997e-448f-9aa4-bfbc0eafb0bc"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"59ae47fe-b3b9-4c82-92dd-55d1ba520dfe",
+			"ff2b12cd-f333-4654-adb3-176332b11a45",
+			"0cb1f3b3-9d26-469a-b74d-cf0b1a11e78a",
+			"e659b3dc-f4cf-4ccc-9c8b-c6c618811610",
+			"49005dae-43bb-4855-9bf7-9960cb310ce0",
+			"2af345ce-9ef0-444d-9e6d-51f11dbddbe9",
+			"a6f1131d-9215-444e-ab70-a6e41889ce8b",
+			"b28a3cd5-d6ca-4a19-8213-fb5dc5de8aa5",
+			"bd1e20ec-930f-4ca8-92cd-48ed40ab8d67",
+			"7bd4112d-cda1-473f-aef3-0c03dd03d8c5",
+			"254b5655-1677-4dac-87ab-d569eca56306",
+			"60fdc8d5-cceb-4fe1-ab29-b33b13746b19"
+		],
+		"ingangsdatum": "Vanaf CE 2017",
+		"versie": "2020",
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-vmbo-2/2020/f=/wiskunde.pdf",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"46b579dd-ae97-4d32-b401-9f9dc97bbfd2"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "FI/havo",
+		"id": "0f4c8ba7-65df-46f6-ba5d-c5d4d1ab8170",
+		"title": "Examenprogramma Filosofie havo",
+		"examenprogramma_vakleergebied_id": [
+			"adefff5b-a281-4250-a48b-92842e6967c7"
+		],
+		"examenprogramma_domein_id": [
+			"7032b1de-5150-4f8f-bc66-228601b15ce0",
+			"fcbaa79b-3dac-4f7e-9932-f1aae8cd1667",
+			"f97d9ea8-ea6f-43fa-b0be-f5206123d00d",
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		],
+		"examenprogramma_kop1_id": [
+			"d27c38b1-32b9-4a93-882e-c158eb306086",
+			"31f260eb-de06-4e64-aef8-c55e1920f236",
+			"b7ca818d-3b04-47e9-a782-1a2e62d0fb2d"
+		],
+		"ingangsdatum": "vanaf CE 2020",
+		"url": "https://www.examenblad.nl/examenstof/filosofie-havo-3/2020/f=/Examenprogramma_filosofie_havo.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"93bd0e4d-4932-4ad9-896f-2056bb0fc613"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BV/vmbo",
+		"id": "98074bac-0cd1-47df-86a4-c94e1084ba18",
+		"title": "Examenprogramma Beeldende vorming vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"cda3e026-b19d-404a-ba01-d6fa3a5cfeb3"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"ae25280b-382b-4097-8fb2-ee89c4e99f90",
+			"6d811442-ea28-471c-a960-c9f2fa5dd288",
+			"4d1dedae-2d2f-42f8-8449-2c0d92366359",
+			"ff966b62-8dc9-4b91-ac03-0b0b1d49e7ea",
+			"60564a30-775a-4fa6-8c9e-6869aafeebb2",
+			"cc0a629a-c038-45b4-a213-5d9e8408cbe4",
+			"b75ccb90-50b2-41eb-9c18-f5c0e5f308ff",
+			"e4eb60b1-b999-42bd-a3da-de640466dc79",
+			"36823359-cf0f-4e26-b90a-5dd0b55c1282",
+			"743ceb25-ab74-4091-9af7-639978680de4",
+			"407dfb06-67dd-411e-a3ba-bfe60f274ce8"
+		],
+		"url": "https://www.examenblad.nl/examenstof/beeldende-vorming-vmbo/2020/f=/beeldendevorming.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"44ec869a-0ad3-4066-a50e-573f716ab6d4"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "AK/vmbo",
+		"id": "544a0293-a7e3-4f6b-a973-30af7627bdea",
+		"title": "Examenprogramma Aardrijkskunde vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"1f237289-4039-4122-a709-58c065bacda0"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"d092a6a9-7943-438d-8618-e5f099e5cc54",
+			"beb15b5d-d2b1-4487-b700-2a349e498587",
+			"d30a157f-a352-4b77-966a-254d612d3a34",
+			"10cbdf21-6ee6-4bd4-81df-3831344dc630",
+			"9c811e4f-32e7-4f75-8d66-91e945a78cc2",
+			"84ed5944-0f3b-4a0d-b132-eca5d3595f06",
+			"846069d0-5ed3-4201-8b6e-604a1fe6d96b",
+			"2ecb1097-7ab8-478c-8dbb-59c8db1cff37",
+			"bcab71e4-5f56-41ab-b3bf-dc0524320878",
+			"8a6ac33a-58b3-48c2-bf4c-7e389d0711cb",
+			"42b0e381-69fb-41c2-a993-5528fe1ad3e6",
+			"c26aa86c-ec32-4454-9a28-6341a78eaa39",
+			"0bb5df5c-5cdd-4253-91f5-cff3c33f3b0e",
+			"a80cd9d8-5988-4dcc-8893-378cc2324f29",
+			"dd648e89-2094-4f49-b198-93d7b7a18ce5",
+			"5e6a04d6-24e1-42df-bcb0-c020e10570f0",
+			"a799f47c-149a-4775-b80a-ce7426f586d6"
+		],
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958",
+			"279d4d59-e33a-4495-886d-be73fddc25a7"
+		],
+		"ingangsdatum": "2014-2015",
+		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-vmbo-3/2020/f=/examenprogramma_vmbo_aardrijkskunde_vanaf_2014_2015.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"244cf96a-0a68-4ad7-b136-efed2bddd3bf"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"7ccc6da8-4180-4e2b-9862-5aafe529bf76",
+			"9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+			"c66bc5d7-91ef-4523-9bb6-0ff92a2f144f",
+			"94039a4e-5d4c-49ab-88fc-c1e13e20c155",
+			"298936d8-aa70-4062-8a65-ab1f741b11c7",
+			"ec7591b6-2197-403a-b8d5-5170950c3000",
+			"a1fc7fd5-3582-4ca0-ac98-eb4336a62bf8",
+			"23c0855d-3dd0-4c78-9cb5-06ab9bf4429e",
+			"c7e025ea-99ca-46e8-bf95-4add49f50c91",
+			"9453f0c2-8599-4a81-a073-8d9325d19049",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"57ffd396-6bee-4868-b2be-f0304c29ef89"
+		],
+		"title": "Examenprogramma Friese taal en cultuur vmbo",
+		"id": "b15aa61b-37e4-4454-b510-fe358565faa3",
+		"prefix": "FR/vmbo",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replacedBy": [
+			"4fe2443f-ed9d-40f9-90c1-d58511f617db"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "GS/vmbo",
+		"id": "5fbc4877-8077-4404-988b-f623203730a2",
+		"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"0b767adb-ab60-4799-8857-9ab32ccd335a",
+			"2321a6fc-8da2-4117-8ec3-204cae78d76e",
+			"2eaedb42-60b9-47f3-bbe0-57f0a4b4d2b1",
+			"714f8ac9-9d18-4128-a296-8ddd65949131",
+			"3d4ca6c1-3d9f-4b10-a149-f65a7e42c064",
+			"88ffb1cf-9f70-4996-a3e0-592ea001ca03",
+			"a9cdbee9-1de8-416d-8a8c-b5b3396c9f40",
+			"ab531ebe-be2e-4392-a10b-7142f2606dd7",
+			"cb156201-8593-419a-bffb-f6ce3186111f",
+			"d90c26ab-6d86-419d-a25f-999467aab580",
+			"e4a85a10-70ac-4fee-9238-fb2e27437bdf",
+			"2f6610e3-640b-4afd-b750-1b120f36279a",
+			"eada8280-5976-44ed-8446-26a2b7c0bf90",
+			"2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
+			"d789aa5d-3ee5-4dc1-8936-6b92ecc37392",
+			"39b3b6cc-05a0-41a3-81df-17206f9fca4f",
+			"0356b2f1-9e27-4c0f-a844-dff65a3e64a4",
+			"0cece58c-383e-4a70-8c6d-1f610ff5e917",
+			"defb5ee8-6ef6-4318-b287-674a8e9c1c85",
+			"b61472de-71ca-4d3b-ae7f-040dcf8d0df8"
+		],
+		"ingangsdatum": "Vanaf CE 2018",
+		"url": "https://www.examenblad.nl/examenstof/geschiedenis-en-staatsinrichting-2/2020/f=/examenprogramma_geschiedenis_vmbo_vanaf_ce_2018.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"0af05781-3b4e-4137-9f16-cb700db72b88"
+		],
+		"replacedBy": [
+			"22645894-4ffd-4655-8aa4-4f175b9b4524"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "WI/B/havo",
+		"id": "763ddc8b-08ce-4a33-915c-591494806e8e",
+		"title": "Examenprogramma Wiskunde B havo",
+		"examenprogramma_vakleergebied_id": [
+			"71053d31-e436-4493-844b-3afa20693538"
+		],
+		"examenprogramma_domein_id": [
+			"4f2cd3f0-da16-4ac0-a832-689d32c29d91",
+			"f50b2a30-218e-401f-9560-9dd04afb4e81",
+			"a4f1e313-13c4-4310-aa3b-34d0937f0b2b",
+			"218713ae-8755-4c82-9c89-5393e8e5ae08"
+		],
+		"examenprogramma_kop1_id": [
+			"ccfe1516-1ae5-4287-a5fa-ad4c90ee8fac",
+			"8bb53f0f-f143-4c91-938b-aa684d023c40",
+			"b251f074-ff92-451b-b794-f65b5effd0b6"
+		],
+		"ingangsdatum": "Vanaf CE 2017",
+		"versie": "2020",
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-b-havo-2/2020/f=/Examenprogramma_wiskunde_B_havo_versie_van_OCW_CORRECTIE_DEC_2017.pdf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"b5bf4f0b-8f5d-46a2-aa66-3460e929976e"
+		],
+		"replacedBy": [
+			"6a1a0a97-cab1-416d-af69-2c617ce49ad4"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "NA/vwo",
+		"id": "9d658f05-675e-4a44-9633-501b0adf2624",
+		"title": "Examenprogramma Natuurkunde vwo",
+		"examenprogramma_vakleergebied_id": [
+			"297b3f19-c2f7-4d0a-9931-db0f8e88aa9f"
+		],
+		"examenprogramma_domein_id": [
+			"90d85473-82ab-4a7e-936d-931884bedc23",
+			"ed976d64-8a42-404b-b1ee-7acaf96d1e60",
+			"19aa9213-bf1a-44c4-9fbb-7f69107f3167",
+			"b3a99d9a-f965-4a0d-b29c-05038947284a",
+			"1aa48496-dae8-4f19-986c-466e8d9de57d",
+			"519c1857-2277-4b06-b6ab-7ea39b53f3df",
+			"0e0f724b-27c1-43d7-b5fb-b0a402ef2c37",
+			"42134f7f-da47-4201-a1c1-c5b31b008217",
+			"567aabfc-71dd-4358-9783-de8c169b0894"
+		],
+		"examenprogramma_kop1_id": [
+			"c43b1c43-e781-4926-b9e0-d7bc9d013597",
+			"b690d487-ba11-4d00-b7f5-9ff8a35c4d25",
+			"9aaa3fdf-ce9f-4dfd-ad6b-fcf4f6569dba"
+		],
+		"ingangsdatum": "Vanaf CE 2016",
+		"url": "https://www.examenblad.nl/examenstof/natuurkunde-vwo-2/2020/f=/examenprogramma_natuurkunde_vwo_2015_2016.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"611f2494-3499-4809-b28b-204bc405c3dd"
+		],
+		"replacedBy": [
+			"0446a43f-344a-48e4-9312-c40fbe252dd3"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "NA/havo",
+		"id": "9e843a16-cb44-4131-92c1-6f235d5533e3",
+		"title": "Examenprogramma Natuurkunde havo",
+		"examenprogramma_vakleergebied_id": [
+			"297b3f19-c2f7-4d0a-9931-db0f8e88aa9f"
+		],
+		"examenprogramma_domein_id": [
+			"81cd9066-b51a-44e6-8d88-f86a64c23f45",
+			"c739a0f4-06e6-4da9-a1a7-19015611007c",
+			"d9428913-91fa-407c-8547-d02b815ea787",
+			"814bb5f0-0728-4eaa-8177-8ac83398d80a",
+			"5fbef629-ed11-4738-832b-803361cb0b9b",
+			"19826a04-f2f1-4af5-bf02-e23d4cd7d7d6",
+			"5410c270-972f-426b-afe2-c11fa52e69c5",
+			"ebceb56d-6568-4087-9da3-ded779be5186",
+			"a3beeab4-db02-4871-a145-80af43eb1423"
+		],
+		"examenprogramma_kop1_id": [
+			"58acd394-540c-4dd3-8339-bccca88135b3",
+			"691492b1-1cfc-4dcb-ba80-31754993865f",
+			"d379d6b9-e48a-43cd-a84d-89a82dd32541"
+		],
+		"ingangsdatum": "Vanaf CE 2015",
+		"url": "https://www.examenblad.nl/examenstof/natuurkunde-havo-2/2020/f=/examenprogramma_natuurkunde_havo_2014_2015.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"3f3dec2a-a6ad-40c3-9b0e-95e624e1bc9f"
+		],
+		"replacedBy": [
+			"8dd6ee5b-62f6-4e5b-8aae-8a39887edfa4"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "GS/vwo",
+		"id": "0d5794f9-2de5-4eef-a101-29ae65cf9385",
+		"title": "Examenprogramma Geschiedenis vwo",
+		"examenprogramma_vakleergebied_id": [
+			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
+		],
+		"examenprogramma_domein_id": [
+			"493e5abc-d9b7-434b-9f6f-85dbe333baf2",
+			"f343dc00-9fcd-4174-95a7-8bb757f9a224",
+			"188a4612-361c-4de2-a074-b4ed820cc54e",
+			"81ecaaa0-9b27-4115-aac8-5174456bef6b",
+			"4eb9db49-2078-40ad-ab9a-4cb47824cd64"
+		],
+		"examenprogramma_kop1_id": [
+			"361219cf-a0bb-4f01-a161-87d53d1897d3",
+			"ecf1e699-ac12-40bb-9097-049b9f19dbb3",
+			"bf23fed3-9262-4e12-9db0-ff7b20bb5520"
+		],
+		"ingangsdatum": "Vanaf CE 2015",
+		"url": "https://www.examenblad.nl/examenstof/geschiedenis-vwo-2/2020/f=/Examenprogramma_geschiedenis_vwo_vanaf_2015_wijziging_2013.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"f12bad65-4404-4800-be79-a1f274513cf1"
+		],
+		"replacedBy": [
+			"abc5e4b4-05c2-4821-a072-22b6306abe6f"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BIO/vwo",
+		"id": "a74541e8-ec2e-4087-95cd-e202eef3edbf",
+		"title": "Examenprogramma Biologie vwo",
+		"examenprogramma_vakleergebied_id": [
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
+		],
+		"examenprogramma_domein_id": [
+			"70b00099-d14e-4e64-9e09-d5bc9806e747",
+			"7f6b1357-92df-4b51-8898-e6f2a20efd07",
+			"dd4ce416-f480-4f4f-89d9-ec0b84616265",
+			"fb90b86e-2022-425c-8e32-e5694b0fd641",
+			"955f4c69-9813-4884-948b-3903612bb889",
+			"50590a33-1f7c-404b-becb-917a70dc5105"
+		],
+		"examenprogramma_kop1_id": [
+			"886e2240-7daf-42ee-a689-84a3f1fcfe33",
+			"e983b687-6fe3-4acb-a2b0-79f29850918e",
+			"0829ca61-77cd-493a-8fca-7565c7ea5bdb"
+		],
+		"ingangsdatum": "vanaf CE 2016",
+		"url": "https://www.examenblad.nl/examenstof/biologie-vwo-3/2020/f=/examenprogramma_biologie_vwo_2015_2016.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"92f57200-9ac6-449c-964c-b18c8996df85"
+		],
+		"replacedBy": [
+			"79bbfbf5-fb3e-4bb1-9872-c973c1277b89"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BIO/havo",
+		"id": "48fa1b29-13f6-4343-aacd-62e90694e431",
+		"title": "Examenprogramma Biologie havo",
+		"examenprogramma_vakleergebied_id": [
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
+		],
+		"examenprogramma_domein_id": [
+			"d15164f9-b96f-4045-91f0-91e6d8d17302",
+			"cec4a16c-140c-482a-b371-a9a91077845a",
+			"797be993-0c30-4539-85d1-44dbfb7117e6",
+			"5c59b4f1-173b-47f6-882a-9008ebb96636",
+			"254521a4-6ead-4cf7-91d5-d2b0341b76e9",
+			"cdf66a7e-dac9-4109-ab28-3f8792b560a6"
+		],
+		"examenprogramma_kop1_id": [
+			"a91f2e41-3dea-400a-9f61-ef743d113761",
+			"96c78f3d-1835-4165-ab49-6f5ac04af24b",
+			"5af18db6-c73d-45ff-aa3c-29bac31955b6"
+		],
+		"ingangsdatum": "vanaf CE 2015",
+		"url": "https://www.examenblad.nl/examen/biologie-havo-3/2020",
+		"versie": "2020",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"6e950bbf-ce7e-4a4c-aaff-d1c47c0f3a0a"
+		],
+		"replacedBy": [
+			"e6c90eb1-e6ca-470f-923d-c04f016d13fc"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BE/vwo",
+		"id": "8c782c4f-9d64-477b-bdbf-9d75598c0e15",
+		"title": "Examenprogramma Bedrijfseconomie vwo",
+		"examenprogramma_vakleergebied_id": [
+			"a440a28e-f561-4d88-ab06-6e372d9a6a5f"
+		],
+		"examenprogramma_domein_id": [
+			"6f06b2e5-d4bc-460c-b0d4-b59fc6911bba",
+			"09f0b6ca-6d52-469b-9a46-7b74b8a13d2d",
+			"37eb12f1-52ea-46c9-9051-76d46f07ef37",
+			"89e3dec4-271b-4ea6-b54e-2cada847a546",
+			"57d5f88d-d5c5-4db3-8db8-d03b2a853b2e",
+			"01b9b003-7560-4ecf-86f8-7b892a08394c",
+			"964af083-aa4e-4932-a5fc-9a8d80b2d53b",
+			"cad1cb98-4e53-40f0-bf35-b23c6ae1dfef"
+		],
+		"examenprogramma_kop1_id": [
+			"7f26928c-4bb9-46c4-92cf-06cbea6a7522",
+			"ef379269-c9ae-4d23-9d00-522f41dcfc8f",
+			"618c387a-b83e-42ee-89ea-ed6670f7b355"
+		],
+		"ingangsdatum": "Vanaf CE 2021",
+		"versie": "2021",
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie-2/2021/f=/Examenprogramma_Bedrijfseconomie_vwo.pdf",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"a6e799c4-75f5-45b6-8a71-d2b0e76f1b02"
+		],
+		"replacedBy": [
+			"09bb489b-9f21-4758-9e00-3dc351455a96"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BE/havo",
+		"id": "d74f81a4-b87e-4afd-90b9-76820e7ea7d9",
+		"title": "Examenprogramma Bedrijfseconomie havo",
+		"examenprogramma_vakleergebied_id": [
+			"a440a28e-f561-4d88-ab06-6e372d9a6a5f"
+		],
+		"examenprogramma_domein_id": [
+			"205cad86-0975-42a1-ae77-1798e9ac34c0",
+			"6e28fbeb-eadb-4e2c-b34a-bd5761d0a71b",
+			"e2285b08-be7e-471b-919b-36184e48a400",
+			"f9f5325b-9c95-47be-9109-dba688d1bf3c",
+			"1a231539-4559-461b-822a-0906857e865d",
+			"15b93216-9fff-43f5-a722-ce139cab6665",
+			"309b05db-989a-4488-a282-3d46045502b3",
+			"b2d72e52-fd9f-4ebe-b981-f0112681b933"
+		],
+		"examenprogramma_kop1_id": [
+			"70d7fc98-d74d-4588-b71c-cc5370d9b844",
+			"5bfe6c85-b406-4e61-9ca5-a9828fe50d5c",
+			"e57a5dae-092f-45d8-bc36-72ee2c81d4c1"
+		],
+		"ingangsdatum": "vanaf CE 2020",
+		"versie": "2020",
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-bedrijfseconomie/2020/f=/Examenprogramma_Bedrijfseconomie_havo.pdf",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"3fdb47af-a3ee-45e7-ac0c-316d7a423b6d"
+		],
+		"replacedBy": [
+			"109897fc-4532-4a42-955c-c4d52bf8ba74"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "AK/vwo",
+		"id": "f26a20ce-65b4-4fd6-8c1b-cc4d9b38463e",
+		"title": "Examenprogramma Aardrijkskunde vwo",
+		"examenprogramma_vakleergebied_id": [
+			"1f237289-4039-4122-a709-58c065bacda0"
+		],
+		"examenprogramma_domein_id": [
+			"8fa70361-0453-4163-9be3-4a46ba01aae1",
+			"09e66e5b-06e9-4d39-b941-3b2a56c681eb",
+			"fa7a11c9-d85d-4773-84f1-099586fee47e",
+			"3181cd3e-c59a-4012-b774-6c9f39168157",
+			"06dec5a4-683d-481e-9ff4-5a3cb01685e0",
+			"f72384f9-4893-43cd-83a7-27733bdfe282"
+		],
+		"examenprogramma_kop1_id": [
+			"ffce92a1-7d75-4dff-a048-d81a326add47",
+			"3f2d38a1-e59c-43c7-8052-3d3ce529bc9c",
+			"4dfb25f0-53e1-4b9a-8e3e-8066f400aa8a"
+		],
+		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-vwo-2/2020/f=/aard_vwo.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"e90b9cf7-b652-4f03-9e87-0a239e98eeab"
+		],
+		"replacedBy": [
+			"74789692-0aae-4ed7-a995-5f5601da5bfe"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "EC/havo",
+		"id": "19748c0d-2656-49e3-b7d2-3f2bed019aa6",
+		"title": "Examenprogramma Economie havo",
+		"examenprogramma_vakleergebied_id": [
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
+		],
+		"examenprogramma_domein_id": [
+			"d1a10e98-9264-476c-a714-38fd316dddad",
+			"6293da5f-8658-4bc6-80e2-8ce2de8cd64b",
+			"1e99955b-beac-4bd8-9696-1294935ea023",
+			"c6bb1bf4-f84e-4f78-9452-95aebb419ac0",
+			"d4f02763-2c19-4bbb-a8a2-fb41d97b261d",
+			"8ea9b505-0334-4aff-b44e-8d649b58a2a5",
+			"373319d0-4569-4309-a8c1-bc7346278a42",
+			"db22bec4-218e-4ac2-a20a-878337267c7a",
+			"169ed45f-c4c3-4e96-8ddf-5bb1fc3f3322",
+			"1131592a-bc05-4c0b-9f53-7f98f7f5ad4f",
+			"4abdcdd9-dc4a-4580-9218-aecb04462d13"
+		],
+		"examenprogramma_kop1_id": [
+			"6dbeb4e2-951a-4052-934a-ef670689b0bc",
+			"feb6ef86-7340-44e9-9ebd-d82243ddb99c",
+			"96e8cf80-4df7-40d5-ac31-56fff2c7271a"
+		],
+		"ingangsdatum": "Vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/economie-vwo-en-havo/2020/f=/examenprogramma_economie_havo_vwo_2015.pdf",
+		"versie": "2020",
+		"replaces": [
+			"e214f460-6c3d-4ddd-8009-5a0fdaf06d0c",
+			"b8284953-724c-4ee1-b757-71f9b4b431e4"
+		],
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replacedBy": [
+			"a2530725-8304-4601-9084-629b02f5dd51"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"fe791e8a-00a9-4d9a-a742-b896a23e15c9",
+			"60423bf4-423a-4da8-a405-57e7052b6bdd",
+			"6b0b176f-f0f9-498a-9181-70568cf456d6",
+			"f2092a3b-d7fe-4853-8daf-6fa21f32be86",
+			"be715035-aceb-4db6-8d17-df6a1cbd9e7a",
+			"71270fd4-5467-4f3b-b982-b4d9729896a9",
+			"87a30a31-67b7-498f-829d-d91b3bd82df8",
+			"73a539c5-4b32-4392-a646-460ffd4b945a",
+			"ae8d1618-e50a-450b-a835-5bf218aca0d7",
+			"8732b8eb-2647-4558-aa32-f4bbea65383a",
+			"16ed878f-47fc-46e7-9ecb-efa93db31ee6"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
+		],
+		"examenprogramma_kop1_id": [
+			"676a4168-512e-4fca-a6dd-02ad293b9f99",
+			"619afb92-7be3-47ba-887c-285b09f51e65",
+			"3ec0b2e3-b784-4f25-9a6e-505ff660f3a0"
+		],
+		"title": "Examenprogramma Economie vwo",
+		"id": "b2b3697b-b990-4fec-9cc3-f476039a0f80",
+		"prefix": "EC/vwo",
+		"ingangsdatum": "vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/syllabus-economie-vwo-2021/2021/f=/economie_vwo_2021_versie_2.pdf",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"266a32b4-aed8-495f-9e78-da585f8cc370",
+			"a5b11d00-618b-4d82-be22-72bd9b9ab03f"
+		],
+		"replacedBy": [
+			"3e305b9f-384c-429b-b545-1996766e197a"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/D2",
+		"id": "c6b37d39-8897-4ef9-9393-0c328b5d7568",
+		"title": "Subdomein D2: Afgeleide functies",
+		"examenprogramma_eindterm_id": [
+			"82d98790-f50b-4eb8-9602-6090f490a1b0"
+		],
+		"ce_se": "CE;SE",
+		"replacedBy": [
+			"f87257c9-59b2-40d0-bb5b-d7f3856e9388"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A15",
+		"id": "3c1673a2-647d-499c-8780-41793fec7fe8",
+		"title": "Subdomein A15: Contexten",
+		"examenprogramma_eindterm_id": [
+			"f822089b-caf8-47b0-9fc0-c448ae68def8"
+		],
+		"ce_se": "SE",
+		"replacedBy": [
+			"0e3c7a08-3ae1-4764-92c4-dcc8910629cc"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"id": "0cb1f3b3-9d26-469a-b74d-cf0b1a11e78a",
+		"prefix": "WI/K/3",
+		"title": "Leervaardigheden in het vak wiskunde",
+		"examenprogramma_eindterm_id": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3",
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"436fe1c5-1673-45fd-874a-057ac89207ff"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "49005dae-43bb-4855-9bf7-9960cb310ce0",
+		"prefix": "WI/K/5",
+		"title": "Rekenen, meten en schatten",
+		"examenprogramma_eindterm_id": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566",
+			"9f7aeaab-862e-45cc-8d6d-099a16f608b5"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"136ad79b-887b-4889-8850-9155fafae02f"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "2eaedb42-60b9-47f3-bbe0-57f0a4b4d2b1",
+		"prefix": "GS/K/3",
+		"title": "Leervaardigheden in het vak geschiedenis en staatsinrichting",
+		"examenprogramma_eindterm_id": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b",
+			"4d45b191-15d9-4a82-942e-b88a0144fb58"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"7f26dbf8-ab12-4079-966e-5e6a128bf1ba"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "3d4ca6c1-3d9f-4b10-a149-f65a7e42c064",
+		"prefix": "GS/K/5",
+		"title": "Staatsinrichting van Nederland",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4",
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"3323f005-26ff-47db-a41f-0c665d3f2877"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"id": "d90c26ab-6d86-419d-a25f-999467aab580",
+		"prefix": "GS/K/10",
+		"title": "Historisch overzicht vanaf 1900",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c",
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		],
+		"ce_se": "CE",
+		"replacedBy": [
+			"990f5a6d-8691-411e-8a08-cd38367c5565"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/K/3",
+		"id": "a65c1272-86e2-4168-82b3-34add1a022c2",
+		"title": "Leervaardigheden in het vak biologie",
+		"examenprogramma_eindterm_id": [
+			"cad93909-e2c5-4114-ba82-e7ca77832a5c",
+			"75a87f28-d875-4452-a1d5-b45e43cbb78d"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"560c6c5b-3b85-48a3-ade6-dda678fd2a79"
+		],
+		"replacedBy": [
+			"7b50e251-ffaa-49d6-9082-edef5b3c4f2a"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/K/9",
+		"id": "f19837c4-9322-4440-af16-4c4f74a6a7c4",
+		"title": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+		"examenprogramma_eindterm_id": [
+			"e4dada93-c52c-4dea-b70b-faa73390cfc3",
+			"63029ffc-3389-4c68-86c0-7a5571970ab1"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f7570df2-4e24-4ef0-8663-25087fe7e0bf"
+		],
+		"replacedBy": [
+			"9e3c69b4-7b0b-4e98-b743-84d03b6c0f10"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinD",
+		"id": "218713ae-8755-4c82-9c89-5393e8e5ae08",
+		"title": "Domein D: Toegepaste analyse",
+		"examenprogramma_subdomein_id": [
+			"09378d25-d483-45d6-93e9-4cb2a2911c80",
+			"c6b37d39-8897-4ef9-9393-0c328b5d7568",
+			"074a5ad7-43fe-4484-a72f-6dbaa2fdb650",
+			"9664f0fb-b7d5-4662-9afc-ddbb1d2117ca"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"be208853-5136-45c6-8c83-03ab902fa985"
+		],
+		"replacedBy": [
+			"822dc1d0-0ba8-4a78-a36c-edbfe84dcf8f"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA ",
+		"id": "d15164f9-b96f-4045-91f0-91e6d8d17302",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"5e4d3fd7-d399-4c22-944a-2f45ffe10e8d",
+			"3b59fd8e-ba15-4135-8902-5f4ec61a34ff",
+			"d533ab7b-2511-46a4-b329-2e055a35797a",
+			"ee05df82-8df5-4846-80cf-40d7e3355272",
+			"d10b0832-55d1-4e9b-8204-52fa3e2cff46",
+			"6b16aa83-2a60-426f-8f50-410c8db70d3c",
+			"e2821568-7a39-440f-9646-a85d4e8cc4d4",
+			"93d347e3-727d-4025-99cf-cca5f285a8f8",
+			"94dd9277-7812-46c3-b796-68c2ce0f11ac",
+			"60df5619-6b43-41f7-8cbd-5b2d3e736c0d",
+			"0062634e-51e6-4f10-b4b3-3ed75ae91657",
+			"f4f7c672-d558-4825-964f-ccfdffec6012",
+			"5ed4c92b-0a02-4dca-9256-69dbb79813ef",
+			"e12b2b46-f5ce-4825-8e81-70c4bd217df7",
+			"3c1673a2-647d-499c-8780-41793fec7fe8",
+			"9dcdc98c-2b89-44ab-b8c7-8804be873c42"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"554f86e5-6cc9-4faa-85ec-2a0475452f08"
+		],
+		"replacedBy": [
+			"10058b33-2ae3-4d3a-b7f8-18c594ac88e7"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "BIO/vmbo",
+		"id": "e081f440-c9f2-4a2f-8ece-fbe3cba248f1",
+		"title": "Examenprogramma Biologie vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"f80d6cd2-8a79-48a7-af22-37a741a85567",
+			"a3778cff-e8e1-4092-b9d9-7c47bd6652d4",
+			"a65c1272-86e2-4168-82b3-34add1a022c2",
+			"bf1d5bf2-1903-477c-8fed-25a3f39e1691",
+			"3ef0959f-3650-43f2-94d0-9a1e8ac89bde",
+			"a00d6b11-f500-4940-a88f-c312cc75442f",
+			"d41cc0f9-9af9-40da-9a41-38215e702ac3",
+			"d4555d58-cc9f-41fc-b6d2-03640e6d0573",
+			"f19837c4-9322-4440-af16-4c4f74a6a7c4",
+			"ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
+			"b97ff171-2851-496f-bc33-655dbf71e165",
+			"a4e9fe25-8365-41ec-ab43-dbd55cee9d8b",
+			"bdf6fcf4-442b-408b-ac66-5b914c388d51",
+			"ea9c5134-05f5-4b0e-9e50-7d144d3571e5",
+			"001153a6-ab0c-4d04-8dd4-30fad4477837",
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa8",
+			"c7318dac-13d8-4da7-bd05-de7751d84084"
+		],
+		"versie": "2020",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/biologie-vmbo-2/2020/f=/biologie.pdf",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replaces": [
+			"68defffd-aaa5-49c9-86c2-45c36b18c37c",
+			"0f3f8286-43ab-4978-830d-9b169c84e991"
+		],
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replacedBy": [
+			"2a899285-4990-4942-b64a-d1aec6090bfd"
+		],
+		"types": [
+			"examenprogramma"
+		]
 	}
 ]

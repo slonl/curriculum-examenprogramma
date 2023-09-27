@@ -19,17 +19,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "0cb1f3b3-9d26-469a-b74d-cf0b1a11e78a",
-		"prefix": "WI/K/3",
-		"title": "Leervaardigheden in het vak wiskunde",
-		"examenprogramma_eindterm_id": [
-			"70024571-16da-4d8b-ac17-1dea6e865af3",
-			"b72ffd75-b34b-48cb-98e5-6aeff2af720e",
-			"9b99e478-af5a-4b86-a97b-705921aadf81"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"id": "e659b3dc-f4cf-4ccc-9c8b-c6c618811610",
 		"prefix": "WI/K/4",
 		"title": "Algebraïsche verbanden",
@@ -40,16 +29,6 @@
 			"66debbe5-e424-4431-b4bf-9587c577c2cc",
 			"9e61611d-4ddb-4a2a-b34e-ff4dec6274f5",
 			"fa6cda53-42bf-4757-a10b-083036cf76c8"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "49005dae-43bb-4855-9bf7-9960cb310ce0",
-		"prefix": "WI/K/5",
-		"title": "Rekenen, meten en schatten",
-		"examenprogramma_eindterm_id": [
-			"c0134c66-5a44-4f2d-aaa2-034597213566",
-			"9f7aeaab-862e-45cc-8d6d-099a16f608b5"
 		],
 		"ce_se": "CE"
 	},
@@ -417,9 +396,6 @@
 		"prefix": "NLT/V/DomeinA",
 		"id": "a4018249-5959-42eb-93a3-c55227dba702",
 		"title": "Domein A: Vaardigheden",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_subdomein_id": [
 			"5f61c40e-57a4-4d2f-9540-8de594d0cdf1",
 			"8057537c-7696-4bcc-8e90-05f0d9ea08dd",
@@ -1267,9 +1243,6 @@
 		"prefix": "MO/V/DomeinA",
 		"id": "3523a6d9-e47e-4938-9693-56915d422114",
 		"title": "Domein A: Vaardigheden",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_subdomein_id": [
 			"388411f7-9969-4a36-92fc-ec839a8c0a48",
 			"1c1d724c-bddd-4882-b476-e3cb3e21bb79",
@@ -2094,9 +2067,6 @@
 		"prefix": "KUMU/V/DomeinA",
 		"id": "9cbbf01a-3cb5-46dd-9b72-5c4fc1421d2e",
 		"title": "Domein A: Vaktheorie",
-		"tag_id": [
-			"eb71d445-164f-4a3a-a354-c6518173feb6"
-		],
 		"examenprogramma_subdomein_id": [
 			"950bd449-714e-45ae-a51d-737d5f06aae5",
 			"34a9c620-f662-4244-aa9e-2573484f394d",
@@ -2954,16 +2924,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"id": "2eaedb42-60b9-47f3-bbe0-57f0a4b4d2b1",
-		"prefix": "GS/K/3",
-		"title": "Leervaardigheden in het vak geschiedenis en staatsinrichting",
-		"examenprogramma_eindterm_id": [
-			"2f6610e3-640b-4afd-b750-1b120f36279b",
-			"4d45b191-15d9-4a82-942e-b88a0144fb58"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"id": "714f8ac9-9d18-4128-a296-8ddd65949131",
 		"prefix": "GS/K/4",
 		"title": "De koloniale relatie Indonesië - Nederland",
@@ -2972,16 +2932,6 @@
 			"75064d30-c3c8-44cd-8ee2-5d1480fd7c0b"
 		],
 		"ce_se": "CE; SE"
-	},
-	{
-		"id": "3d4ca6c1-3d9f-4b10-a149-f65a7e42c064",
-		"prefix": "GS/K/5",
-		"title": "Staatsinrichting van Nederland",
-		"examenprogramma_eindterm_id": [
-			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4",
-			"826a3b42-a7a2-40de-9137-53f45010abc0"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"id": "88ffb1cf-9f70-4996-a3e0-592ea001ca03",
@@ -3022,16 +2972,6 @@
 			"d8e943bd-1a1b-489a-ad90-1d8895bdde79"
 		],
 		"ce_se": "CE; Se"
-	},
-	{
-		"id": "d90c26ab-6d86-419d-a25f-999467aab580",
-		"prefix": "GS/K/10",
-		"title": "Historisch overzicht vanaf 1900",
-		"examenprogramma_eindterm_id": [
-			"64cb3de7-798e-478e-9518-49b86cd38c4c",
-			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
-		],
-		"ce_se": "CE"
 	},
 	{
 		"id": "e4a85a10-70ac-4fee-9238-fb2e27437bdf",
@@ -3332,9 +3272,6 @@
 		"prefix": "FI/H/DomeinA ",
 		"id": "7032b1de-5150-4f8f-bc66-228601b15ce0",
 		"title": "Domein A: Vaardigheden",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_subdomein_id": [
 			"d63eca7d-0906-4fb0-b5fd-a453d9059f88",
 			"0ac9e613-4d9f-48a0-8b6a-70606f890281",
@@ -3361,17 +3298,6 @@
 			"be328fab-f922-46c9-a4dd-bf2858fdd52d",
 			"175ca150-825d-4bf1-82e2-101ec8ad336f",
 			"9d00d166-4dc9-4419-9ee4-5906188e4bab"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"prefix": "FI/H/DomeinD ",
-		"id": "57ae8740-026f-46d9-8528-f2bef1dc4023",
-		"title": "Domein D: Sociale filosofie",
-		"examenprogramma_subdomein_id": [
-			"5a26a310-954b-427b-b81f-b418bc3316db",
-			"959a15ae-fee2-4cdd-8265-4ca572f044b8",
-			"77f36511-fbf9-467c-83c0-7ed5f7699088"
 		],
 		"ce_se": "CE"
 	},
@@ -4284,9 +4210,6 @@
 		"prefix": "BIO/K/1",
 		"id": "f80d6cd2-8a79-48a7-af22-37a741a85567",
 		"title": "Oriëntatie op leren en werken",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_eindterm_id": [
 			"09fa15c9-9841-4905-b71a-3a8ffca6e782"
 		],
@@ -4450,21 +4373,6 @@
 		"title": "Beschouwen - werk van anderen, reflectief",
 		"examenprogramma_eindterm_id": [
 			"0d9c442b-db5d-4fcd-9395-73a6a629e357"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "36823359-cf0f-4e26-b90a-5dd0b55c1282",
-		"prefix": "BV/V/1",
-		"title": "Eindopdracht, productief en reflectief",
-		"examenprogramma_eindterm_id": [
-			"f86fb189-c2ea-4447-89c4-b97dc951c6c8",
-			"24e98fc0-1053-4f47-9587-45eddf5c0f84",
-			"106468ca-8c85-4024-954c-844573625fda",
-			"48360af5-c55a-4e48-915f-2c4bc7948830",
-			"3e815602-aa3e-4adc-88bf-cfe78632eaa9",
-			"2b597a4c-cc8a-4f29-b948-8326a02872b0",
-			"ef0da9a3-d8fb-4b9c-835c-a7dae9f7a1b7"
 		],
 		"ce_se": "CE"
 	},
@@ -5977,7 +5885,7 @@
 			"d96aa21c-1abb-44c1-94ba-f1b2e25990a9",
 			"299b2cc2-91da-4bba-82c4-3d49bf42b8eb"
 		],
-		"ce_se": "CE",
+		"ce_se": "SE",
 		"replaces": [
 			"eda307f3-d4e2-444c-b0e4-783eb3214409"
 		]
@@ -6565,70 +6473,6 @@
 		]
 	},
 	{
-		"prefix": "GS/V/DomeinB",
-		"id": "188a4612-361c-4de2-a074-b4ed820cc54e",
-		"title": "Domein B: Oriëntatiekennis",
-		"examenprogramma_eindterm_id": [
-			"d50a7fe2-9609-4f08-8a44-cb0c3a0d70d9",
-			"551eb122-9b30-4f25-a87f-5acb5144a1dd",
-			"9e8e01d1-93b6-44d9-a2f3-2df7b3c35a90",
-			"8b0fb83f-1595-4a8a-9d09-33cc4edcae88",
-			"704abc1d-a85e-4964-ab1a-66d5515cea87",
-			"e83b8a8e-ecf5-45ba-a508-0b7cab7c9968",
-			"65dbd233-7f0b-4201-a861-5794a4725731",
-			"43616401-8138-4638-b64d-016d135a3b8a",
-			"bf4db817-9069-40fb-9b72-832aea2259ac",
-			"35d35518-7550-4d04-956a-c239cbad1ebe",
-			"1e6262bf-a0b4-4c8a-8495-a67b371c44ba",
-			"f1569026-1134-4b77-806b-9cc6adca2156",
-			"8cb73c09-f846-4174-a15b-3eb4dc3329a6",
-			"5171263f-2510-4b51-ad47-05d13cce772a",
-			"54faee47-7772-4a27-817a-4f20dd93e62c",
-			"09fb7f28-4f41-42ec-832c-ef3d60948743",
-			"ae93100a-1f2f-4051-a6be-93d90551bc7f",
-			"2d14a703-e324-42be-8cf4-115f3e6d4452",
-			"82f3334f-b24a-4259-ae46-2711ef2166d3",
-			"7ace4eea-eab6-4965-a41b-dd6897b2f151",
-			"d403b539-b7b6-4c65-b659-ad422d4b0444",
-			"947eeb72-24c2-43cd-9f6b-52e7131bcd9e",
-			"e636f404-2685-4130-a7ee-dab28ffc7bda",
-			"85cf7676-f7ea-4d97-8183-ab2ced32d9d5",
-			"98015369-c226-44fa-9a22-9b6e81971428",
-			"bc514178-6de8-4058-982a-f3f734c1e0c9",
-			"f1a648fc-a182-4596-875a-a64d515f07d5",
-			"9b25b222-61e7-40d0-b59a-33555ad1e47e",
-			"d39da0cf-6956-45b3-985a-5f16e1bd2c39",
-			"09af65e5-201f-4444-9f26-523773e84098",
-			"af592ddd-1860-4adf-bf39-6a270974f1e5",
-			"a0dacf4b-5d84-40dd-86ee-8cef3c6ed045",
-			"9dfa9b19-b507-4250-927b-2f632861e204",
-			"e06421a5-690d-45db-8ba3-7c85e3998139",
-			"f959195e-f24a-4724-bb02-255147897a9e",
-			"7b1011e4-1772-4d53-b128-66307315a324",
-			"45e4e7e9-dd92-4608-aff2-3ba816ae3b2b",
-			"8932d56e-0eb9-48a5-b1a9-74a1bc72774c",
-			"eab23d05-59f9-4e4d-aecd-dd8f7b390cf9",
-			"12b99281-1782-46f7-a4da-5f6c3c1bb94b",
-			"817b7b64-c990-4ddf-b4ca-7a3c0c858e6c",
-			"531cf3e6-5525-4fe8-9dee-51b32e1bab05",
-			"03fb80c2-fa3b-41e1-9364-ac127717ecad",
-			"a76e4f0c-a756-4cb0-aea9-d67575e043a0",
-			"203c2af9-735a-4b9a-a1bc-977a1c9e0c90",
-			"a594083c-4527-4467-a488-04d8986a8e44",
-			"c4626f98-2924-463e-80b2-7eb0635b9dce",
-			"67d60572-45f6-472b-8d42-091e862da0e1",
-			"78f19d9c-95d7-4dc6-afd8-465dbe3c3f7e",
-			"f8d3958a-4080-420a-9f05-152605d08e05",
-			"ad8017d8-05bd-4b46-bae9-28a08976c5b8",
-			"cd3dcc2b-40af-4b14-b26b-94a9287aa9c0",
-			"f95e53f7-0b4d-48c2-bbdb-71843fd097f5"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"3ad586e0-73e2-4e98-82b3-da8c913ee92a"
-		]
-	},
-	{
 		"prefix": "GS/H/DomeinB",
 		"id": "0880283d-ade4-4758-b84d-d73171ba2d13",
 		"title": "Domein B: Oriëntatiekennis",
@@ -6689,84 +6533,6 @@
 		"ce_se": "CE; SE",
 		"replaces": [
 			"86969cc7-830a-4b8f-93d8-0238572b42c5"
-		]
-	},
-	{
-		"prefix": "BIO/V/DomeinB",
-		"id": "7f6b1357-92df-4b51-8898-e6f2a20efd07",
-		"title": "Domein B: Zelfregulatie",
-		"examenprogramma_subdomein_id": [
-			"596170a0-8f84-4daa-be58-fa3f5c330cc4",
-			"eeafc2f6-838b-4c8a-84e2-d3ea0f75b237",
-			"a71f9447-4ddd-44ef-95d3-8c9d5e032963",
-			"488c8c3d-5f0f-4b84-a321-6f75b7f96ec9",
-			"92324563-0f60-4223-9452-68210ee824d0",
-			"136d9c56-7bce-4fa7-95b5-479521ffce6e",
-			"7ca2ae3e-e3bc-4ed2-83fc-b9c789cb5a9d",
-			"940dec39-d320-479b-98c3-23ccf90d567f"
-		],
-		"ce_se": "CE; SE",
-		"replaces": [
-			"c1d415d0-fe57-4437-b75e-18e89086aee4"
-		]
-	},
-	{
-		"prefix": "BIO/V/DomeinC",
-		"id": "dd4ce416-f480-4f4f-89d9-ec0b84616265",
-		"title": "Domein C: Zelforganisatie",
-		"examenprogramma_subdomein_id": [
-			"10fbe7cf-620b-4ce7-bdcb-2db7816a8be5",
-			"e6266c11-665f-412a-948b-9c13032c557d",
-			"55f0c658-fc33-4f9f-8e5d-ca69ef940b89"
-		],
-		"ce_se": "CE; SE",
-		"replaces": [
-			"c626c900-3729-44fa-89ce-b76213a7a569"
-		]
-	},
-	{
-		"prefix": "BIO/V/DomeinD",
-		"id": "fb90b86e-2022-425c-8e32-e5694b0fd641",
-		"title": "Domein D: Interactie",
-		"examenprogramma_subdomein_id": [
-			"b5a6c778-bf37-4c05-90e7-c6cd37632bfd",
-			"7e538a6a-cf9d-4049-aeee-e31ab7d04307",
-			"6e384097-10a3-4e19-9817-f1d6befbb05a",
-			"ca8816cd-223a-4e56-9c2f-4c7a86a4e517",
-			"6b2e08b3-4e59-4cc3-8bd3-2f83eac5ea73"
-		],
-		"ce_se": "CE; SE",
-		"replaces": [
-			"caa27d5d-f665-41a1-9d7b-78ff14547ee5"
-		]
-	},
-	{
-		"prefix": "BIO/V/DomeinE",
-		"id": "955f4c69-9813-4884-948b-3903612bb889",
-		"title": "Domein E: Reproductie",
-		"examenprogramma_subdomein_id": [
-			"82c4561a-771f-4de9-b0a9-58d24e7e2f01",
-			"191e647a-6374-4240-9c9e-bdd12df19187",
-			"df269118-faf9-4d5f-a0f6-74083488a57b"
-		],
-		"ce_se": "CE; SE",
-		"replaces": [
-			"6644c5ee-ae3a-43d3-acba-4d2ac184da85"
-		]
-	},
-	{
-		"prefix": "BIO/V/DomeinF",
-		"id": "50590a33-1f7c-404b-becb-917a70dc5105",
-		"title": "Domein F: Evolutie",
-		"examenprogramma_subdomein_id": [
-			"d83b7da9-181b-47a0-96a3-808df7a773cd",
-			"25c9df91-bf0f-457f-bd9e-432b96c545e2",
-			"92634e6d-87a1-4ae7-a925-a487ff807081",
-			"7d32a4e6-8e02-4cac-919e-a25a99d3ad15"
-		],
-		"ce_se": "CE; SE",
-		"replaces": [
-			"c13313d8-1f1a-45d5-83cd-37e628f00206"
 		]
 	},
 	{
@@ -7190,9 +6956,6 @@
 		"prefix": "GS/V/DomeinA",
 		"id": "f343dc00-9fcd-4174-95a7-8bb757f9a224",
 		"title": "Domein A: Historisch besef",
-		"tag_id": [
-			"2f5c80ad-1ee7-47b6-b4e2-2edfd8248f50"
-		],
 		"examenprogramma_eindterm_id": [
 			"d5927b95-a4fd-4eb6-ba6d-d24f8cce23cb",
 			"f31b8ea0-459f-4e0e-a774-d0ca4de573a7",
@@ -7359,19 +7122,6 @@
 		]
 	},
 	{
-		"prefix": "BIO/K/3",
-		"id": "a65c1272-86e2-4168-82b3-34add1a022c2",
-		"title": "Leervaardigheden in het vak biologie",
-		"examenprogramma_eindterm_id": [
-			"cad93909-e2c5-4114-ba82-e7ca77832a5c",
-			"75a87f28-d875-4452-a1d5-b45e43cbb78d"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"560c6c5b-3b85-48a3-ade6-dda678fd2a79"
-		]
-	},
-	{
 		"prefix": "BIO/K/4",
 		"id": "bf1d5bf2-1903-477c-8fed-25a3f39e1691",
 		"title": "Cellen staan aan de basis",
@@ -7384,19 +7134,6 @@
 		"ce_se": "CE",
 		"replaces": [
 			"8041a157-8783-4ac5-bf13-b00f9817a62b"
-		]
-	},
-	{
-		"prefix": "BIO/K/9",
-		"id": "f19837c4-9322-4440-af16-4c4f74a6a7c4",
-		"title": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
-		"examenprogramma_eindterm_id": [
-			"e4dada93-c52c-4dea-b70b-faa73390cfc3",
-			"63029ffc-3389-4c68-86c0-7a5571970ab1"
-		],
-		"ce_se": "CE",
-		"replaces": [
-			"f7570df2-4e24-4ef0-8663-25087fe7e0bf"
 		]
 	},
 	{
@@ -7781,21 +7518,6 @@
 		"ce_se": "CE",
 		"replaces": [
 			"ccc499e0-2534-49ac-ad48-17cca0b56485"
-		]
-	},
-	{
-		"prefix": "WI/B/H/DomeinD",
-		"id": "218713ae-8755-4c82-9c89-5393e8e5ae08",
-		"title": "Domein D: Toegepaste analyse",
-		"examenprogramma_subdomein_id": [
-			"09378d25-d483-45d6-93e9-4cb2a2911c80",
-			"c6b37d39-8897-4ef9-9393-0c328b5d7568",
-			"074a5ad7-43fe-4484-a72f-6dbaa2fdb650",
-			"9664f0fb-b7d5-4662-9afc-ddbb1d2117ca"
-		],
-		"ce_se": "CE;SE",
-		"replaces": [
-			"be208853-5136-45c6-8c83-03ab902fa985"
 		]
 	},
 	{
@@ -8442,33 +8164,6 @@
 		]
 	},
 	{
-		"prefix": "BIO/H/DomeinA ",
-		"id": "d15164f9-b96f-4045-91f0-91e6d8d17302",
-		"title": "Domein A: Vaardigheden",
-		"examenprogramma_subdomein_id": [
-			"5e4d3fd7-d399-4c22-944a-2f45ffe10e8d",
-			"3b59fd8e-ba15-4135-8902-5f4ec61a34ff",
-			"d533ab7b-2511-46a4-b329-2e055a35797a",
-			"ee05df82-8df5-4846-80cf-40d7e3355272",
-			"d10b0832-55d1-4e9b-8204-52fa3e2cff46",
-			"6b16aa83-2a60-426f-8f50-410c8db70d3c",
-			"e2821568-7a39-440f-9646-a85d4e8cc4d4",
-			"93d347e3-727d-4025-99cf-cca5f285a8f8",
-			"94dd9277-7812-46c3-b796-68c2ce0f11ac",
-			"60df5619-6b43-41f7-8cbd-5b2d3e736c0d",
-			"0062634e-51e6-4f10-b4b3-3ed75ae91657",
-			"f4f7c672-d558-4825-964f-ccfdffec6012",
-			"5ed4c92b-0a02-4dca-9256-69dbb79813ef",
-			"e12b2b46-f5ce-4825-8e81-70c4bd217df7",
-			"3c1673a2-647d-499c-8780-41793fec7fe8",
-			"9dcdc98c-2b89-44ab-b8c7-8804be873c42"
-		],
-		"ce_se": "SE",
-		"replaces": [
-			"554f86e5-6cc9-4faa-85ec-2a0475452f08"
-		]
-	},
-	{
 		"prefix": "BE/V/DomeinA",
 		"id": "6f06b2e5-d4bc-460c-b0d4-b59fc6911bba",
 		"title": "Domein A: Vaardigheden",
@@ -8791,7 +8486,7 @@
 			"a2778cc5-6ae2-41cf-952c-97649d09afa3",
 			"f561fe88-6674-4879-bdc3-3f1be0237288"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"replaces": [
 			"6760aaf1-7609-40a4-91be-a63bac9779bb",
 			"d7d401b2-9fc9-4a6b-ab36-5d72cbaafe73"
@@ -8855,7 +8550,7 @@
 			"8c96aadc-9878-47dc-8e3c-db1e3a66894a",
 			"0fef1e23-78f3-4b5b-8c90-a6a7ed3b9831"
 		],
-		"ce_se": "SE",
+		"ce_se": "CE",
 		"replaces": [
 			"8591a1e2-0c91-4b0c-8e07-35d10c652b3f",
 			"00e76bfd-83d1-4669-8d1b-b9e71f3f298e",
@@ -8890,6 +8585,324 @@
 			"c36f2622-2003-422c-8fb3-ac5b88eb2211",
 			"107d14fa-de9e-46cd-a647-130c3905a771",
 			"9d6ea44b-853d-42b9-b75f-c0e1b9094e88"
+		]
+	},
+	{
+		"prefix": "FI/H/DomeinD",
+		"id": "46a299ac-aab1-4943-bb05-cbc99f7ca777",
+		"title": "Domein D: Sociale filosofie",
+		"examenprogramma_subdomein_id": [
+			"5a26a310-954b-427b-b81f-b418bc3316db",
+			"959a15ae-fee2-4cdd-8265-4ca572f044b8",
+			"77f36511-fbf9-467c-83c0-7ed5f7699088"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"57ae8740-026f-46d9-8528-f2bef1dc4023"
+		]
+	},
+	{
+		"id": "7ce0e55f-046c-49ef-ae2f-bac31a303cdb",
+		"prefix": "BV/V/1",
+		"title": "Eindopdracht, productief en reflectief",
+		"examenprogramma_eindterm_id": [
+			"f86fb189-c2ea-4447-89c4-b97dc951c6c8",
+			"24e98fc0-1053-4f47-9587-45eddf5c0f84",
+			"106468ca-8c85-4024-954c-844573625fda",
+			"48360af5-c55a-4e48-915f-2c4bc7948830",
+			"3e815602-aa3e-4adc-88bf-cfe78632eaa9",
+			"2b597a4c-cc8a-4f29-b948-8326a02872b0",
+			"ef0da9a3-d8fb-4b9c-835c-a7dae9f7a1b7"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"36823359-cf0f-4e26-b90a-5dd0b55c1282"
+		]
+	},
+	{
+		"prefix": "GS/V/DomeinB",
+		"id": "86df2ad1-e256-4586-b294-d2e01e2f4d55",
+		"title": "Domein B: Oriëntatiekennis",
+		"examenprogramma_eindterm_id": [
+			"d50a7fe2-9609-4f08-8a44-cb0c3a0d70d9",
+			"551eb122-9b30-4f25-a87f-5acb5144a1dd",
+			"9e8e01d1-93b6-44d9-a2f3-2df7b3c35a90",
+			"8b0fb83f-1595-4a8a-9d09-33cc4edcae88",
+			"704abc1d-a85e-4964-ab1a-66d5515cea87",
+			"e83b8a8e-ecf5-45ba-a508-0b7cab7c9968",
+			"65dbd233-7f0b-4201-a861-5794a4725731",
+			"43616401-8138-4638-b64d-016d135a3b8a",
+			"bf4db817-9069-40fb-9b72-832aea2259ac",
+			"35d35518-7550-4d04-956a-c239cbad1ebe",
+			"1e6262bf-a0b4-4c8a-8495-a67b371c44ba",
+			"f1569026-1134-4b77-806b-9cc6adca2156",
+			"8cb73c09-f846-4174-a15b-3eb4dc3329a6",
+			"5171263f-2510-4b51-ad47-05d13cce772a",
+			"54faee47-7772-4a27-817a-4f20dd93e62c",
+			"09fb7f28-4f41-42ec-832c-ef3d60948743",
+			"ae93100a-1f2f-4051-a6be-93d90551bc7f",
+			"2d14a703-e324-42be-8cf4-115f3e6d4452",
+			"82f3334f-b24a-4259-ae46-2711ef2166d3",
+			"7ace4eea-eab6-4965-a41b-dd6897b2f151",
+			"d403b539-b7b6-4c65-b659-ad422d4b0444",
+			"947eeb72-24c2-43cd-9f6b-52e7131bcd9e",
+			"e636f404-2685-4130-a7ee-dab28ffc7bda",
+			"85cf7676-f7ea-4d97-8183-ab2ced32d9d5",
+			"98015369-c226-44fa-9a22-9b6e81971428",
+			"bc514178-6de8-4058-982a-f3f734c1e0c9",
+			"f1a648fc-a182-4596-875a-a64d515f07d5",
+			"9b25b222-61e7-40d0-b59a-33555ad1e47e",
+			"d39da0cf-6956-45b3-985a-5f16e1bd2c39",
+			"09af65e5-201f-4444-9f26-523773e84098",
+			"af592ddd-1860-4adf-bf39-6a270974f1e5",
+			"a0dacf4b-5d84-40dd-86ee-8cef3c6ed045",
+			"9dfa9b19-b507-4250-927b-2f632861e204",
+			"e06421a5-690d-45db-8ba3-7c85e3998139",
+			"f959195e-f24a-4724-bb02-255147897a9e",
+			"7b1011e4-1772-4d53-b128-66307315a324",
+			"45e4e7e9-dd92-4608-aff2-3ba816ae3b2b",
+			"8932d56e-0eb9-48a5-b1a9-74a1bc72774c",
+			"eab23d05-59f9-4e4d-aecd-dd8f7b390cf9",
+			"12b99281-1782-46f7-a4da-5f6c3c1bb94b",
+			"817b7b64-c990-4ddf-b4ca-7a3c0c858e6c",
+			"531cf3e6-5525-4fe8-9dee-51b32e1bab05",
+			"03fb80c2-fa3b-41e1-9364-ac127717ecad",
+			"a76e4f0c-a756-4cb0-aea9-d67575e043a0",
+			"203c2af9-735a-4b9a-a1bc-977a1c9e0c90",
+			"a594083c-4527-4467-a488-04d8986a8e44",
+			"c4626f98-2924-463e-80b2-7eb0635b9dce",
+			"67d60572-45f6-472b-8d42-091e862da0e1",
+			"78f19d9c-95d7-4dc6-afd8-465dbe3c3f7e",
+			"f8d3958a-4080-420a-9f05-152605d08e05",
+			"ad8017d8-05bd-4b46-bae9-28a08976c5b8",
+			"cd3dcc2b-40af-4b14-b26b-94a9287aa9c0",
+			"f95e53f7-0b4d-48c2-bbdb-71843fd097f5"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"3ad586e0-73e2-4e98-82b3-da8c913ee92a",
+			"188a4612-361c-4de2-a074-b4ed820cc54e"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinB",
+		"id": "bb00d44e-39b5-4570-b76b-c972758a2c6a",
+		"title": "Domein B: Zelfregulatie",
+		"examenprogramma_subdomein_id": [
+			"596170a0-8f84-4daa-be58-fa3f5c330cc4",
+			"eeafc2f6-838b-4c8a-84e2-d3ea0f75b237",
+			"a71f9447-4ddd-44ef-95d3-8c9d5e032963",
+			"488c8c3d-5f0f-4b84-a321-6f75b7f96ec9",
+			"92324563-0f60-4223-9452-68210ee824d0",
+			"136d9c56-7bce-4fa7-95b5-479521ffce6e",
+			"7ca2ae3e-e3bc-4ed2-83fc-b9c789cb5a9d",
+			"940dec39-d320-479b-98c3-23ccf90d567f"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c1d415d0-fe57-4437-b75e-18e89086aee4",
+			"7f6b1357-92df-4b51-8898-e6f2a20efd07"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinC",
+		"id": "ea2f468f-c738-4d4f-8bd8-22cd4d9b7763",
+		"title": "Domein C: Zelforganisatie",
+		"examenprogramma_subdomein_id": [
+			"10fbe7cf-620b-4ce7-bdcb-2db7816a8be5",
+			"e6266c11-665f-412a-948b-9c13032c557d",
+			"55f0c658-fc33-4f9f-8e5d-ca69ef940b89"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c626c900-3729-44fa-89ce-b76213a7a569",
+			"dd4ce416-f480-4f4f-89d9-ec0b84616265"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinD",
+		"id": "1705b41f-1e38-4b39-b5e7-1e65fb0d5676",
+		"title": "Domein D: Interactie",
+		"examenprogramma_subdomein_id": [
+			"b5a6c778-bf37-4c05-90e7-c6cd37632bfd",
+			"7e538a6a-cf9d-4049-aeee-e31ab7d04307",
+			"6e384097-10a3-4e19-9817-f1d6befbb05a",
+			"ca8816cd-223a-4e56-9c2f-4c7a86a4e517",
+			"6b2e08b3-4e59-4cc3-8bd3-2f83eac5ea73"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"caa27d5d-f665-41a1-9d7b-78ff14547ee5",
+			"fb90b86e-2022-425c-8e32-e5694b0fd641"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinE",
+		"id": "9e7e9754-b80a-44b0-80e8-93e29d59bebc",
+		"title": "Domein E: Reproductie",
+		"examenprogramma_subdomein_id": [
+			"82c4561a-771f-4de9-b0a9-58d24e7e2f01",
+			"191e647a-6374-4240-9c9e-bdd12df19187",
+			"df269118-faf9-4d5f-a0f6-74083488a57b"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"6644c5ee-ae3a-43d3-acba-4d2ac184da85",
+			"955f4c69-9813-4884-948b-3903612bb889"
+		]
+	},
+	{
+		"prefix": "BIO/V/DomeinF",
+		"id": "7aea18c5-e644-4279-8ead-d08e5388b7d1",
+		"title": "Domein F: Evolutie",
+		"examenprogramma_subdomein_id": [
+			"d83b7da9-181b-47a0-96a3-808df7a773cd",
+			"25c9df91-bf0f-457f-bd9e-432b96c545e2",
+			"92634e6d-87a1-4ae7-a925-a487ff807081",
+			"7d32a4e6-8e02-4cac-919e-a25a99d3ad15"
+		],
+		"ce_se": "CE; SE",
+		"replaces": [
+			"c13313d8-1f1a-45d5-83cd-37e628f00206",
+			"50590a33-1f7c-404b-becb-917a70dc5105"
+		]
+	},
+	{
+		"id": "436fe1c5-1673-45fd-874a-057ac89207ff",
+		"prefix": "WI/K/3",
+		"title": "Leervaardigheden in het vak wiskunde",
+		"examenprogramma_eindterm_id": [
+			"288fcc9b-1e28-4d42-9f1c-2a831a3ee742",
+			"b1449475-3715-4c87-be77-f39bc7dc54f2",
+			"007deded-700b-439c-bbb3-4bebb5c8dbe8"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"0cb1f3b3-9d26-469a-b74d-cf0b1a11e78a"
+		]
+	},
+	{
+		"id": "136ad79b-887b-4889-8850-9155fafae02f",
+		"prefix": "WI/K/5",
+		"title": "Rekenen, meten en schatten",
+		"examenprogramma_eindterm_id": [
+			"d15d0990-832b-42c6-b649-d9fbecabf50b",
+			"9f7aeaab-862e-45cc-8d6d-099a16f608b5"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"49005dae-43bb-4855-9bf7-9960cb310ce0"
+		]
+	},
+	{
+		"id": "7f26dbf8-ab12-4079-966e-5e6a128bf1ba",
+		"prefix": "GS/K/3",
+		"title": "Leervaardigheden in het vak geschiedenis en staatsinrichting",
+		"examenprogramma_eindterm_id": [
+			"07cacebf-6e91-4f87-9d37-061641303c63",
+			"4d45b191-15d9-4a82-942e-b88a0144fb58"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"2eaedb42-60b9-47f3-bbe0-57f0a4b4d2b1"
+		]
+	},
+	{
+		"id": "3323f005-26ff-47db-a41f-0c665d3f2877",
+		"prefix": "GS/K/5",
+		"title": "Staatsinrichting van Nederland",
+		"examenprogramma_eindterm_id": [
+			"bbb4e797-aa71-441a-a2a5-4cd737bdb7b4",
+			"6d30ca18-0bf9-4b46-b8c6-c2c6fb3024a0"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"3d4ca6c1-3d9f-4b10-a149-f65a7e42c064"
+		]
+	},
+	{
+		"id": "990f5a6d-8691-411e-8a08-cd38367c5565",
+		"prefix": "GS/K/10",
+		"title": "Historisch overzicht vanaf 1900",
+		"examenprogramma_eindterm_id": [
+			"64cb3de7-798e-478e-9518-49b86cd38c4c",
+			"770b6825-c597-4fd4-a3c8-879380cd3add"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"d90c26ab-6d86-419d-a25f-999467aab580"
+		]
+	},
+	{
+		"prefix": "BIO/K/3",
+		"id": "7b50e251-ffaa-49d6-9082-edef5b3c4f2a",
+		"title": "Leervaardigheden in het vak biologie",
+		"examenprogramma_eindterm_id": [
+			"538d0dd5-a304-4d0c-ba9e-220393c40de1",
+			"75a87f28-d875-4452-a1d5-b45e43cbb78d"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"560c6c5b-3b85-48a3-ade6-dda678fd2a79",
+			"a65c1272-86e2-4168-82b3-34add1a022c2"
+		]
+	},
+	{
+		"prefix": "BIO/K/9",
+		"id": "9e3c69b4-7b0b-4e98-b743-84d03b6c0f10",
+		"title": "Het lichaam in stand houden: voeding en genotmiddelen, energie, transport en uitscheiding",
+		"examenprogramma_eindterm_id": [
+			"275e1874-b3e7-4fa8-96f9-d8d209c86901",
+			"63029ffc-3389-4c68-86c0-7a5571970ab1"
+		],
+		"ce_se": "CE",
+		"replaces": [
+			"f7570df2-4e24-4ef0-8663-25087fe7e0bf",
+			"f19837c4-9322-4440-af16-4c4f74a6a7c4"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinD",
+		"id": "822dc1d0-0ba8-4a78-a36c-edbfe84dcf8f",
+		"title": "Domein D: Toegepaste analyse",
+		"examenprogramma_subdomein_id": [
+			"09378d25-d483-45d6-93e9-4cb2a2911c80",
+			"f87257c9-59b2-40d0-bb5b-d7f3856e9388",
+			"074a5ad7-43fe-4484-a72f-6dbaa2fdb650",
+			"9664f0fb-b7d5-4662-9afc-ddbb1d2117ca"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"be208853-5136-45c6-8c83-03ab902fa985",
+			"218713ae-8755-4c82-9c89-5393e8e5ae08"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA ",
+		"id": "10058b33-2ae3-4d3a-b7f8-18c594ac88e7",
+		"title": "Domein A: Vaardigheden",
+		"examenprogramma_subdomein_id": [
+			"5e4d3fd7-d399-4c22-944a-2f45ffe10e8d",
+			"3b59fd8e-ba15-4135-8902-5f4ec61a34ff",
+			"d533ab7b-2511-46a4-b329-2e055a35797a",
+			"ee05df82-8df5-4846-80cf-40d7e3355272",
+			"d10b0832-55d1-4e9b-8204-52fa3e2cff46",
+			"6b16aa83-2a60-426f-8f50-410c8db70d3c",
+			"e2821568-7a39-440f-9646-a85d4e8cc4d4",
+			"93d347e3-727d-4025-99cf-cca5f285a8f8",
+			"94dd9277-7812-46c3-b796-68c2ce0f11ac",
+			"60df5619-6b43-41f7-8cbd-5b2d3e736c0d",
+			"0062634e-51e6-4f10-b4b3-3ed75ae91657",
+			"f4f7c672-d558-4825-964f-ccfdffec6012",
+			"5ed4c92b-0a02-4dca-9256-69dbb79813ef",
+			"e12b2b46-f5ce-4825-8e81-70c4bd217df7",
+			"0e3c7a08-3ae1-4764-92c4-dcc8910629cc",
+			"9dcdc98c-2b89-44ab-b8c7-8804be873c42"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"554f86e5-6cc9-4faa-85ec-2a0475452f08",
+			"d15164f9-b96f-4045-91f0-91e6d8d17302"
 		]
 	}
 ]

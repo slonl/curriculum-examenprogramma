@@ -51,57 +51,6 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "WI/K/3/3a",
-		"id": "70024571-16da-4d8b-ac17-1dea6e865af3",
-		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij wiskundige technieken kiezen en gebruiken om problemen op te lossen, waaronder basisalgoritmen en standaardmethodes",
-		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 1,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
-		"prefix": "WI/K/3/3b",
-		"id": "b72ffd75-b34b-48cb-98e5-6aeff2af720e",
-		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij communiceren door middel van adequaat (wiskundig) taalgebruik",
-		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 1,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
-		"prefix": "WI/K/3/3c",
-		"id": "9b99e478-af5a-4b86-a97b-705921aadf81",
-		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij adequate onderzoeks- en redeneerstrategieën toepassen.",
-		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 1,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
 		"prefix": "WI/K/4/4a",
 		"id": "6b51289b-7c7e-4a59-846a-d2ff1bcb5c8b",
 		"title": "De kandidaat kan problemen oplossen waarin verbanden tussen variabelen een rol spelen, en daarbij tabellen, grafieken en woordformules hanteren, in het bijzonder bij lineaire verbanden",
@@ -179,23 +128,6 @@
 		"niveau_id": [
 			"8450c011-f812-4f89-97a9-6b8820baffc5",
 			"64852857-b601-419f-9cbb-e1335a185303"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
-		"prefix": "WI/K/5/7a",
-		"id": "c0134c66-5a44-4f2d-aaa2-034597213566",
-		"title": "De kandidaat kan efficiënt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij schatten en rekenen met gangbare maten en grootheden",
-		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
 		],
 		"ce_se": "CE",
 		"description": "",
@@ -968,20 +900,6 @@
 		"description": "",
 		"ce": 1,
 		"se": 0,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
-		"prefix": "WI/B/H/DomeinD/D2/11",
-		"id": "82d98790-f50b-4eb8-9602-6090f490a1b0",
-		"title": "De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale veranderingen van functiewaarden benaderen zowel met een differentiaalquotiënt als met een numeriek-grafische methode.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ce_se": "CE;SE",
-		"description": "",
-		"ce": 1,
-		"se": 1,
 		"kern": 0,
 		"keuze": 0
 	},
@@ -6041,86 +5959,6 @@
 		"ce_se": "CE"
 	},
 	{
-		"id": "e6a635bd-9606-4a44-81f7-7c98d6f2a6c0",
-		"title": "De kandidaat kan met betrekking tot een concreet maatschappelijk vraagstuk verschillende typen vragen herkennen en zelfstandig vragen formuleren.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"id": "2c74b74e-9a54-4532-8da2-8125a99af100",
-		"title": "De kandidaat kan bij raadplegen, verwerken en presenteren van informatie gebruik maken van toepassingen van ICT.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"id": "82dbe5c4-0df9-4404-8b33-e0e915c68196",
-		"title": "De kandidaat kan een eenvoudig sociaal-wetenschappelijk onderzoek opzetten en uitvoeren over een concreet maatschappelijk vraagstuk en daarbij de benaderingswijzen van maatschappijleer toepassen.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"id": "b034c19c-fd46-4dc3-9176-c3b5ab04c6b1",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer:  de veranderings- en vergelijkende benaderingswijze.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
-		"id": "c6240118-7fd3-4624-9048-77a70e61375c",
-		"title": "De kandidaat kan mogelijke modellen beschrijven van samenlevingen met verschillende groepen en hun (sub)culturen.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "06862645-7d9c-4b1a-ae52-bf0a8c4cca5c",
-		"title": "De kandidaat kan de ontwikkeling van de verzorgingsstaat beschrijven en verschillende visies hierop benoemen.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "c8075ba6-ba50-4c93-abfa-f98c52e04eac",
-		"title": "De kandidaat kan aangeven op welke verschillende manieren de overheid betrokken is bij het sociaal-economisch proces.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "a8393d28-8714-4125-9343-66bc4b49edab",
-		"title": "De kandidaat kan de invloed van informatisering op arbeid en samenleving beschrijven.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "c2f5acf0-7454-4cbc-98bb-5dcbbc13a8a1",
-		"title": "De kandidaat kan uitleggen wat de betekenis is van werk voor mens en samenleving.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "950aac82-e0d3-4747-b783-bec9485f9f4b",
-		"title": "De kandidaat kan verschillende theorieën/visies toepassen bij het geven van verklaringen voor het ontstaan of de toename van een gegeven vorm van criminaliteit.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"id": "39a4db5f-3149-496e-bdf0-6d2cb0e6a1fa",
 		"title": "De kandidaat kan aangeven in welke mate het ontwikkelingsbeleid van Nederland en van andere westerse landen of internationale organisaties rekening houdt met de economische belangen van de Derde Wereld.",
 		"niveau_id": [
@@ -6368,15 +6206,6 @@
 		"se": 1,
 		"kern": 0,
 		"keuze": 0
-	},
-	{
-		"id": "8eb1de66-9d51-4608-b103-a16e86451081",
-		"prefix": "2.",
-		"title": "aannemelijk maken wat de relatie is tussen het vraagstuk/probleem en de rechtsstaat, parlementaire democratie, verzorgingsstaat en pluriforme samenleving;",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE"
 	},
 	{
 		"prefix": "ML/V/DomeinA/A2/2b",
@@ -10823,14 +10652,6 @@
 		"keuze": 0
 	},
 	{
-		"id": "1ca94946-8eae-495d-871f-9b3a2c58083c",
-		"prefix": "5.",
-		"title": "De kanditaat kan in contexten vraagstellingen analyseren, gebruik makend van relevante begrippen en theorie, vertalen in een vakspecifiek onderzoek, dat onderzoek uitvoeren, en uit de onderzoeksresultaten conclusies trekken. De kandidaat maakt daarbij gebruik van consistente redeneringen.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"prefix": "INF/H/DomeinA/A6/6",
 		"id": "1af9b40f-74de-4d20-a113-7caf50983f89",
 		"title": "De kandidaat kan in contexten een relevant probleem analyseren, inperken tot een hanteerbaar probleem, vertalen naar een model, modeluitkomsten genereren en interpreteren, en het model toetsen en beoordelen. De kandidaat maakt daarbij gebruik van consistente redeneringen.",
@@ -10904,14 +10725,6 @@
 		]
 	},
 	{
-		"id": "a469ea8d-1078-442f-ada5-d8c494938d71",
-		"prefix": "11.",
-		"title": "De kandidaat kan beschrijven welke ethische normen en waarden een rol spelen bij het gebruik en de ontwikkeling van digitale artefacten, het eigen handelen expliciet vergelijken met ethische richtlijnen, en het eigen handelen kritisch analyseren en relateren aan ethische dilemma’s.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"prefix": "INF/H/DomeinA/A12/12",
 		"id": "a763f470-0f11-4297-bd9e-afa04243d625",
 		"title": "De kandidaat kan voor de informatica relevante gereedschappen hanteren, waar nodig met aandacht voor risico’s en veiligheid; daarbij gaat het om (computer)apparatuur, besturingssystemen, applicaties, vaktaal, vakconventies en formalismen.",
@@ -10936,14 +10749,6 @@
 		"se": 1,
 		"kern": 0,
 		"keuze": 0
-	},
-	{
-		"id": "af13dde7-5e5e-4346-8bdd-a727d2bc7707",
-		"prefix": "13.",
-		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F, en in de gekozen domeinen uit G tot en met R, genoemde concepten ten minste gebruiken in beroepscontexten, in maatschappelijke contexten en in wetenschappelijke contexten",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
 	},
 	{
 		"id": "b2319dcc-830d-4a6e-9185-18ab611a06ec",
@@ -11172,14 +10977,6 @@
 		"title": "De kandidaat kan van gegeven algoritmen de complexiteit vergelijken, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
-		"id": "d142d234-9309-47c9-8412-b0907d270a3a",
-		"prefix": "31.",
-		"title": "De kandidaat kan  het verschil tussen exponentiële en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		]
 	},
 	{
@@ -12853,23 +12650,6 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "GS/K/3/3a",
-		"id": "2f6610e3-640b-4afd-b750-1b120f36279b",
-		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
 		"prefix": "GS/K/3/3b",
 		"id": "4d45b191-15d9-4a82-942e-b88a0144fb58",
 		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot het vermogen om met voor geschiedenis en staatsinrichting geëigende vaktaal en methodieken te communiceren en onderzoek te doen.",
@@ -12922,22 +12702,6 @@
 		"title": "De kandidaat kan herkennen en benoemen hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
-		"prefix": "GS/K/5/7",
-		"id": "826a3b42-a7a2-40de-9137-53f45010abc0",
-		"title": "De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"ce_se": "CE",
 		"description": "",
@@ -13072,22 +12836,6 @@
 		"title": "De kandidaat kan herkennen en benoemen welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
-		"prefix": "GS/K/10/17",
-		"id": "e04f3fdd-c3af-4acc-92c9-6d009a36f304",
-		"title": "De kandidaat kan herkennen en beschrijven welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.",
-		"niveau_id": [
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
 		],
 		"ce_se": "CE",
 		"description": "",
@@ -15931,69 +15679,6 @@
 		"keuze": 0
 	},
 	{
-		"id": "2ee9eb4d-f7b8-4c0b-a2db-3a7fb0a4d705",
-		"title": "Prijsvorming is het coördinatiemechanisme waarmee vraag en aanbod op elkaar worden afgestemd.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "afb0bcd7-0d15-48dd-9f6d-99a00927527a",
-		"title": "De manier waarop prijsvorming plaatsvindt is afhankelijk van de marktstructuur (marktvormen) en heeft gevolgen voor toetreding, welvaart en economische politiek.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "90817313-6c00-463d-bad7-71280b32573d",
-		"title": "De prijs die deze intertemporele ruil coördineert is de rente.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "06cd0d87-6124-4553-95a0-45f9d322d5dd",
-		"title": "Centralisatie, waarbij (collectieve) dwang het middel is om acties tot stand te brengen, kan een alternatief coördinatiemechanisme zijn voor keuzes.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "778ef219-dc0a-42d5-86b6-1486c465b8e8",
-		"title": "Aangezien de informatie vaak een beperkt karakter zal hebben moeten transactiepartijen een inschatting maken van mogelijke gebeurtenissen (risico) en de mate waarin transactiepartners gebeurtenissen beïnvloeden of informatie achterhouden die relevant is voor het tot stand brengen van een transactie (asymmetrische informatie).",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "35673be9-eb57-4dcb-aff7-23a4ae9af237",
-		"title": "Keuzes op microniveau werken door op macroniveau in elke economie die gekenmerkt wordt door wederzijds afhankelijke markten.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
-		"id": "f3d4dc1d-2bc8-4ee7-a45d-1942bd19f58d",
-		"title": "Markten laten zich niet gemakkelijk reguleren mede door toedoen van rigiditeiten",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da",
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE"
-	},
-	{
 		"prefix": "EC/H/DomeinJ/10a",
 		"id": "df52ca9c-d832-4e5e-a43e-3f85aca2aef2",
 		"title": "De kandidaat kan door het deelnemen aan experimenten een conclusie trekken die getuigt van een ‘economische kijk’ op maatschappelijke verschijnselen en van strategisch inzicht.",
@@ -16848,16 +16533,6 @@
 		"keuze": 0
 	},
 	{
-		"id": "43d0e8cc-2029-4f15-a723-8d6fc0fc85cc",
-		"prefix": "4.",
-		"title": "De kandidaat kan alleen en in samenwerking met anderen in dans vertalen, met gebruikmaking van de danselementen ruimte, tijd en kracht, met toepassing van lichaamsbesef en vormbewustzijn en met een persoonlijke lading.",
-		"niveau_id": [
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"ce_se": "SE"
-	},
-	{
 		"prefix": "DA/K/5/5a",
 		"id": "5d3b4d9d-43ba-4095-b259-6bdfa23d617e",
 		"title": "De kandidaat kan exploreren en improviseren vanuit een gegeven bewegings- en/of thematisch gerichte opdracht.",
@@ -17144,15 +16819,6 @@
 		"prefix": "CKV/V/DomeinC/6a",
 		"id": "459af9ef-01b2-4eea-9b7f-a7e1ae322f3e",
 		"title": "De kandidaat kan hierbij gebruik maken van voor dit onderzoek of proces geschikte werkwijzen, in de vorm van praktische activiteiten en beschouwend onderzoek.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "SE"
-	},
-	{
-		"id": "4e1eab3c-f9b7-445c-a117-960f15d25f39",
-		"prefix": "6.",
-		"title": "De kandidaat kan hierbij gebruik maken van de voor dit onderzoek of proces geschikte werkwijzen, in de vorm van praktische activiteiten en beschouwend onderzoek",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -18727,20 +18393,6 @@
 		"keuze": 0
 	},
 	{
-		"prefix": "BIO/H/DomeinB/A15/15",
-		"id": "f822089b-caf8-47b0-9fc0-c448ae68def8",
-		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F genoemde concepten ten minste gebruiken in beroepscontexten en in leefwereldcontexten.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"ce": 1,
-		"se": 1,
-		"kern": 0,
-		"keuze": 0
-	},
-	{
 		"prefix": "BIO/H/DomeinB/A16/16",
 		"id": "597526b7-0388-40ea-b599-263c9c71d3b9",
 		"title": "De kandidaat kan in contexten analyseren op welke wijze natuurwetenschappelijke en technologische kennis wordt ontwikkeld en toegepast.",
@@ -18951,14 +18603,6 @@
 		"keuze": 0
 	},
 	{
-		"id": "a78e3011-a6ac-4c06-b627-f4ac48e5fbe6",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ce_se": "CE; SE"
-	},
-	{
 		"prefix": "BE/V/DomeinC/C1/15",
 		"id": "52348101-1ec8-4fc2-9d43-0321383fad42",
 		"title": "De kandidaat kan de interne organisatie (inclusief de taken van het management en de stijlen van leiderschap) van een organisatie beschrijven en deze relateren aan de doelstelling en aard van de organisatie.",
@@ -19111,14 +18755,6 @@
 		"se": 1,
 		"kern": 0,
 		"keuze": 0
-	},
-	{
-		"id": "c2170fe0-db97-4b47-bfec-fa3b54a5a616",
-		"title": "De kandidaat kan bij veel voorkomende vraagstukken binnen een organisatie op het gebied van de bedrijfseconomische en organisatorische dimensie vanuit het perspectief van het management toepassen en analyseren.",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ce_se": "CE; SE"
 	},
 	{
 		"id": "82227957-1337-4029-a60f-e2ed37b66983",
@@ -20030,14 +19666,6 @@
 		"keuze": 0
 	},
 	{
-		"id": "b5777fb3-c37c-488c-8245-7a9db80b01bf",
-		"prefix": "9.",
-		"title": "Hij betrekt bij beide soorten vraagstukken aspecten van duurzame ontwikkeling en plannen voor de ruimtelijke inrichting van Nederland.",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
 		"prefix": "AK/V/DomeinE/E2/10",
 		"id": "8506f5e1-8216-492a-a865-6ab3129ce074",
 		"title": "De kandidaat kan lokale en regionale ruimtelijke vraagstukken beschrijven en analyseren en zich daarover een beargumenteerde mening vormen.",
@@ -20054,9 +19682,6 @@
 		"prefix": "PREAMBULE/1/1.1",
 		"id": "9f8060b7-690e-40b5-a565-873a12eede83",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het kennen van en omgaan met eigen en andermans normen en waarden.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20069,9 +19694,6 @@
 		"prefix": "PREAMBULE/1/1.2",
 		"id": "ad0d9a09-834b-4088-9e4b-9058fdd0f183",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het onderkennen van en omgaan met de verschillen tussen de seksen.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20084,9 +19706,6 @@
 		"prefix": "PREAMBULE/1/1.3",
 		"id": "e94f48fe-6505-4be9-aa67-8bb51835a796",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed de relatie tussen de mens en de natuur en het concept van duurzame ontwikkeling.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20099,9 +19718,6 @@
 		"prefix": "PREAMBULE/1/1.4",
 		"id": "350b0f93-493b-4391-b267-a93229fbe3a4",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het functioneren als democratisch burger in een multiculturele samenleving, ook in internationaal verband.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20114,9 +19730,6 @@
 		"prefix": "PREAMBULE/1/1.5",
 		"id": "76d80b52-17c3-4d55-a030-585dc77ba142",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan het op een voor henzelf en anderen veilige manier functioneren in de beroepspraktijk en in eigen omgeving.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20129,9 +19742,6 @@
 		"prefix": "PREAMBULE/1/1.6",
 		"id": "db08f498-947e-4cbc-bb20-02d74979712c",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van technologische ontwikkeling, waaronder met name moderne informatie- en communicatietechnologie.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20144,9 +19754,6 @@
 		"prefix": "PREAMBULE/1/1.7",
 		"id": "40800109-91f0-4796-bc40-52ae8d4a2dd5",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de maatschappelijke betekenis van betaalde en onbetaalde arbeid.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20159,9 +19766,6 @@
 		"prefix": "PREAMBULE/1/1.8",
 		"id": "2604fbe4-3093-4b20-baad-62b139e605ee",
 		"title": "De leerling leert, in het kader van een brede en evenwichtige oriëntatie op mens en samenleving, enig zicht te krijgen op relaties met de persoonlijke en maatschappelijke omgeving. Daarbij wordt expliciet aandacht besteed aan de verworvenheden en mogelijkheden van kunst en cultuur, waaronder ook de media.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20174,9 +19778,6 @@
 		"prefix": "PREAMBULE/2/2.1",
 		"id": "9abff946-93ac-480c-b508-6b76efcf6146",
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen. Het gaat daarbij om Nederlandse en Engelse teksten lezen en beluisteren.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20189,9 +19790,6 @@
 		"prefix": "PREAMBULE/2/2.2",
 		"id": "b74afe65-a569-46f5-8c9b-b6165dcbbdd6",
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen. Het gaat daarbij om schriftelijke en mondelinge teksten produceren in correct Nederlands.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20204,9 +19802,6 @@
 		"prefix": "PREAMBULE/2/2.3",
 		"id": "0238274d-a5ce-4c07-9cf8-5eafcccd2483",
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om informatie in verschillende gegevensbestanden opzoeken, selecteren, verzamelen en ordenen.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20219,9 +19814,6 @@
 		"prefix": "PREAMBULE/2/2.4",
 		"id": "764ca9c5-b99c-4a5e-aed2-aae721c5f2bb",
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om de rekenvaardigheden hoofdrekenen, rekenregels gebruiken, meten en schatten toepassen.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20234,9 +19826,6 @@
 		"prefix": "PREAMBULE/2/2.5",
 		"id": "48abbf92-f596-4529-a2e0-3633abcae3d0",
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om voldoen aan eisen van milieu, hygiëne, gezondheid en ergonomie.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20249,9 +19838,6 @@
 		"prefix": "PREAMBULE/2/2.6",
 		"id": "79200f1c-a487-4943-b12e-f5c4c6664a22",
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om doelmatig en veilig omgaan met materialen, gereedschappen en apparatuur.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20264,9 +19850,6 @@
 		"prefix": "PREAMBULE/2/2.7",
 		"id": "b29ac6f7-da94-4266-adde-70ffe385d8e3",
 		"title": "De leerling leert in zoveel mogelijk herkenbare situaties, mede met gebruikmaking van ICT, een aantal schoolse vaardigheden verder te ontwikkelen.  Het gaat daarbij om computervaardigheden.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20279,9 +19862,6 @@
 		"prefix": "PREAMBULE/3/3.1",
 		"id": "9b7a4400-75f3-4bb1-9aa0-ebf9ae390a1b",
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om informatie beoordelen op betrouwbaarheid, representativiteit en bruikbaarheid, informatie verwerken en benutten.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20294,9 +19874,6 @@
 		"prefix": "PREAMBULE/3/3.2",
 		"id": "9ce7df8d-44bf-4d01-86c4-015f6cd7b77f",
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het aanleren van nieuwe kennis en vaardigheden.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20309,9 +19886,6 @@
 		"prefix": "PREAMBULE/3/3.3",
 		"id": "e8e1fcab-378b-4f85-aed5-f5a80e60253b",
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om strategieën gebruiken voor het begrijpen van mondelinge en schriftelijke informatie.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20324,9 +19898,6 @@
 		"prefix": "PREAMBULE/3/3.4",
 		"id": "ff73fc5d-b07d-402a-a843-2576874cfb46",
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om op een doordachte wijze keuzeproblemen oplossen.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20339,9 +19910,6 @@
 		"prefix": "PREAMBULE/3/3.5",
 		"id": "57d1b876-7922-44dd-82d1-d1ecf654c96c",
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om een eenvoudig bedrijfsmatig, natuurwetenschappelijk of maatschappelijk vraagstuk planmatig onderzoeken.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20354,9 +19922,6 @@
 		"prefix": "PREAMBULE/3/3.6",
 		"id": "5398d3ea-4dab-4c49-9cc1-37f3254c0fac",
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20369,9 +19934,6 @@
 		"prefix": "PREAMBULE/3/3.7",
 		"id": "81b31f9f-3bac-42c6-aeb9-6724a4394b27",
 		"title": "De leerling leert, mede met gebruikmaking van ICT, zoveel mogelijk eigen kennis en vaardigheden op te bouwen. Daartoe leert hij onder andere een aantal strategieën die het leer- en werkproces kunnen verbeteren. Het gaat daarbij om persoonlijke ervaringen en opdrachten van anderen verwerken in woord, klank, beeld en beweging.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20384,9 +19946,6 @@
 		"prefix": "PREAMBULE/4/4.1",
 		"id": "8cc29807-653a-4318-afb9-d0ac810837f0",
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om elementaire sociale conventies in acht nemen.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20399,9 +19958,6 @@
 		"prefix": "PREAMBULE/4/4.2",
 		"id": "1f40ba8b-dc80-4776-adb6-11947149d920",
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om overleggen en samenwerken in teamverband.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20414,9 +19970,6 @@
 		"prefix": "PREAMBULE/4/4.3",
 		"id": "4b93677f-7649-45ff-b2e2-550a4878e4b6",
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om passende gesprekstechnieken hanteren.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20429,9 +19982,6 @@
 		"prefix": "PREAMBULE/4/4.4",
 		"id": "b1b78fec-da7d-4fc4-9408-71742be7aab3",
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om verschillen in meningen en opvattingen benoemen en hanteren.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20444,9 +19994,6 @@
 		"prefix": "PREAMBULE/4/4.5",
 		"id": "0ad279cb-468d-46a8-abec-6b7cb1f45edf",
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om culturele en seksegebonden verschillen tussen mensen benoemen en hanteren.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20459,9 +20006,6 @@
 		"prefix": "PREAMBULE/4/4.6",
 		"id": "e01623d2-41d9-4cbe-8850-5fe4f074634f",
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om het omgaan met formele en informele afspraken, regels en procedures.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20474,9 +20018,6 @@
 		"prefix": "PREAMBULE/4/4.7",
 		"id": "39a808ae-8995-4102-9a80-db092e994b25",
 		"title": "De leerling leert, mede via een proces van interactief leren, een aantal sociale en communicatieve vaardigheden verder te ontwikkelen. Het gaat daarbij om zichzelf en eigen werk presenteren.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20489,9 +20030,6 @@
 		"prefix": "PREAMBULE/5/5.1",
 		"id": "82eb1869-4530-45fb-8479-165d016abc98",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een leer- en/of werkplanning maken.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20504,9 +20042,6 @@
 		"prefix": "PREAMBULE/5/5.2",
 		"id": "14b313d0-5188-41d9-8c22-7b6a425143f2",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om het leer- en/of werkproces bewaken.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20519,9 +20054,6 @@
 		"prefix": "PREAMBULE/5/5.3",
 		"id": "cef54650-d38e-430d-9364-572d091dae0a",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op en sturing te geven aan het eigen leer- en werkproces. Het gaat daarbij om een eenvoudige product- en procesevaluatie maken en hieruit conclusies trekken.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20534,9 +20066,6 @@
 		"prefix": "PREAMBULE/6/6.1",
 		"id": "50cbb9c4-67b1-4b3a-a52c-ce9de4012add",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het inventariseren van de eigen mogelijkheden en interesses.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20549,9 +20078,6 @@
 		"prefix": "PREAMBULE/6/6.2",
 		"id": "13c9b0ab-d6a5-4d55-8e51-707e4341577b",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het onderzoeken van de mogelijkheden voor verdere studie.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20564,9 +20090,6 @@
 		"prefix": "PREAMBULE/6/6.3",
 		"id": "44afd902-33bb-4758-a8ed-13fa1cf384f1",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het zicht krijgen op beroepen, de beroepspraktijk en actuele ontwikkelingen daarbinnen.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20579,9 +20102,6 @@
 		"prefix": "PREAMBULE/6/6.4",
 		"id": "990fdb92-ec6d-4812-b031-3ff5fdfe1080",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de rol en het belang van op school geleerde kennis, inzicht en vaardigheden voor het maatschappelijk leven, dagelijks leven, vrije tijd, vrijwilligerswerk.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20594,9 +20114,6 @@
 		"prefix": "PREAMBULE/6/6.5",
 		"id": "ce01a395-548d-4c28-8214-b67e63cded27",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de kenmerken van de arbeidsmarkt op dit moment en in de nabije toekomst.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20609,9 +20126,6 @@
 		"prefix": "PREAMBULE/6/6.6",
 		"id": "0152b14f-35af-42d2-b5f3-b835b2ecddd6",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan de organisatie van branches en bedrijven.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20624,9 +20138,6 @@
 		"prefix": "PREAMBULE/6/6.7",
 		"id": "bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het beoordelen van de eigen mogelijkheden en interesses in het licht van vervolgstudie, beroepen en maatschappelijk functioneren.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -20639,9 +20150,6 @@
 		"prefix": "PREAMBULE/6/6.8",
 		"id": "ea4a0513-da7e-4249-8190-97cc2a7268b9",
 		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het kunnen maken van een verantwoorde keuze voor een vervolgopleiding.",
-		"tag_id": [
-			"bbbc8ed8-e207-4233-b234-d02128cb04f0"
-		],
 		"description": "",
 		"niveau_id": [
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
@@ -32395,23 +31903,6 @@
 		]
 	},
 	{
-		"prefix": "BIO/K/3/3a",
-		"id": "cad93909-e2c5-4114-ba82-e7ca77832a5c",
-		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
-		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 0,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"replaces": [
-			"dc10b330-4fee-423c-a1f1-cd31aad53764"
-		]
-	},
-	{
 		"prefix": "BIO/K/4/4a",
 		"id": "281c6188-fc52-4126-8e9c-0e2d2d1666c9",
 		"title": "De kandidaat kan kenmerkende eigenschappen van cellen noemen, de samenstellende delen daarvan noemen, en de meest voorkomende organisatieniveaus binnen organismen noemen",
@@ -32445,23 +31936,6 @@
 		"keuze": 0,
 		"replaces": [
 			"4df5d02c-779c-485b-aded-f22483097653"
-		]
-	},
-	{
-		"prefix": "BIO/K/9/13a",
-		"id": "e4dada93-c52c-4dea-b70b-faa73390cfc3",
-		"title": "De kandidaat kan vorm, werking en functie van het verteringsstelsel, bloedvatenstelsel, ademhalingsstelsel en uitscheidingsstelsel beschrijven.",
-		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"ce": 1,
-		"se": 0,
-		"kern": 0,
-		"keuze": 0,
-		"replaces": [
-			"a2db60bd-447f-4bc7-be40-ea45666bd15b"
 		]
 	},
 	{
@@ -32712,7 +32186,7 @@
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
-		"ce_se": "CE",
+		"ce_se": "SE",
 		"description": "",
 		"ce": 1,
 		"se": 0,
@@ -34981,6 +34455,201 @@
 		"replaces": [
 			"0716b0d7-cff5-4e17-b29a-c739fe323039",
 			"5f9b9f78-e21d-4bc7-a164-9b52fa4f4b09"
+		]
+	},
+	{
+		"prefix": "WI/K/3/3a",
+		"id": "288fcc9b-1e28-4d42-9f1c-2a831a3ee742",
+		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij wiskundige technieken kiezen en gebruiken om problemen op te lossen, waaronder basisalgoritmen en standaardmethodes",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"70024571-16da-4d8b-ac17-1dea6e865af3"
+		]
+	},
+	{
+		"prefix": "WI/K/3/3b",
+		"id": "b1449475-3715-4c87-be77-f39bc7dc54f2",
+		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij communiceren door middel van adequaat (wiskundig) taalgebruik",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"b72ffd75-b34b-48cb-98e5-6aeff2af720e"
+		]
+	},
+	{
+		"prefix": "WI/K/3/3c",
+		"id": "007deded-700b-439c-bbb3-4bebb5c8dbe8",
+		"title": "De kandidaat kan structuren en verbanden opsporen in voor hem herkenbare situaties en verbindingen leggen met wiskundige begrippen, en daarbij adequate onderzoeks- en redeneerstrategieën toepassen.",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"9b99e478-af5a-4b86-a97b-705921aadf81"
+		]
+	},
+	{
+		"prefix": "WI/K/5/7a",
+		"id": "d15d0990-832b-42c6-b649-d9fbecabf50b",
+		"title": "De kandidaat kan efficiënt rekenen en cijfermatige gegevens kritisch beoordelen, en daarbij schatten en rekenen met gangbare maten en grootheden",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"c0134c66-5a44-4f2d-aaa2-034597213566"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinD/D2/11",
+		"id": "1e103111-1119-45bf-ac0d-5d801204367b",
+		"title": "De kandidaat kan de afgeleide functie begripsmatig interpreteren en kan lokale veranderingen van functiewaarden benaderen zowel met een differentiaalquotiënt als met een numeriek-grafische methode.",
+		"ce_se": "CE; SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"82d98790-f50b-4eb8-9602-6090f490a1b0"
+		]
+	},
+	{
+		"prefix": "GS/K/3/3a",
+		"id": "07cacebf-6e91-4f87-9d37-061641303c63",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"2f6610e3-640b-4afd-b750-1b120f36279b"
+		]
+	},
+	{
+		"prefix": "GS/K/5/7",
+		"id": "6d30ca18-0bf9-4b46-b8c6-c2c6fb3024a0",
+		"title": "De kandidaat kan herkennen en beschrijven hoe de Nederlandse rechtsstaat/staatsinrichting zich vanaf 1848 tot nu ontwikkeld heeft en deze ontwikkelingen in verband brengen met belangrijke gebeurtenissen en ontwikkelingen in de Nederlandse geschiedenis vanaf 1848.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"826a3b42-a7a2-40de-9137-53f45010abc0"
+		]
+	},
+	{
+		"prefix": "GS/K/10/17",
+		"id": "770b6825-c597-4fd4-a3c8-879380cd3add",
+		"title": "De kandidaat kan herkennen en beschrijven welke belangrijke gebeurtenissen en ontwikkelingen zich in de Nederlandse en (West-)Europese geschiedenis vanaf 1900 hebben voorgedaan.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"e04f3fdd-c3af-4acc-92c9-6d009a36f304"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A15/15",
+		"id": "15895d2a-320a-428e-a2c5-4123b914bca4",
+		"title": "De kandidaat kan de in domein A genoemde vaardigheden en de in domeinen B tot en met F genoemde concepten ten minste gebruiken in beroepscontexten en in leefwereldcontexten.",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ce_se": "SE",
+		"description": "",
+		"ce": 1,
+		"se": 1,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"f822089b-caf8-47b0-9fc0-c448ae68def8"
+		]
+	},
+	{
+		"prefix": "BIO/K/3/3a",
+		"id": "538d0dd5-a304-4d0c-ba9e-220393c40de1",
+		"title": "De kandidaat kan strategische vaardigheden toepassen die bijdragen tot de ontwikkeling van het eigen leervermogen.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"dc10b330-4fee-423c-a1f1-cd31aad53764",
+			"cad93909-e2c5-4114-ba82-e7ca77832a5c"
+		]
+	},
+	{
+		"prefix": "BIO/K/9/13a",
+		"id": "275e1874-b3e7-4fa8-96f9-d8d209c86901",
+		"title": "De kandidaat kan vorm, werking en functie van het verteringsstelsel, bloedvatenstelsel, ademhalingsstelsel en uitscheidingsstelsel beschrijven.",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303"
+		],
+		"ce_se": "CE",
+		"description": "",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0,
+		"replaces": [
+			"a2db60bd-447f-4bc7-be40-ea45666bd15b",
+			"e4dada93-c52c-4dea-b70b-faa73390cfc3"
 		]
 	}
 ]
