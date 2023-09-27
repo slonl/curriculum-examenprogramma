@@ -314,15 +314,6 @@
 		"ce_se": "CE"
 	},
 	{
-		"prefix": "WI/B/H/DomeinC/D2",
-		"id": "c6b37d39-8897-4ef9-9393-0c328b5d7568",
-		"title": "Subdomein D2: Afgeleide functies",
-		"examenprogramma_eindterm_id": [
-			"82d98790-f50b-4eb8-9602-6090f490a1b0"
-		],
-		"ce_se": "CE;SE"
-	},
-	{
 		"prefix": "WI/A/V/DomeinE/E1",
 		"id": "9f680bda-38f2-48f4-bc54-5be64cafab53",
 		"title": "Subdomein E1: Probleemstelling en onderzoeksontwerp",
@@ -1788,39 +1779,6 @@
 			"1f067b21-201f-4023-9a16-4f1098712b66"
 		],
 		"ce_se": "SE"
-	},
-	{
-		"prefix": "MAW/V/DomeinE/E5",
-		"id": "57c0a818-acfa-484e-baef-b42dedfb357f",
-		"title": "Subdomein E5: Arbeid en informatisering",
-		"examenprogramma_eindterm_id": [
-			"a8393d28-8714-4125-9343-66bc4b49edab"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"deleted": 1
-	},
-	{
-		"prefix": "MAW/V/DomeinE/E6",
-		"id": "1c1445f8-b15e-41d1-bdc9-1175e1246d86",
-		"title": "Subdomein E6: Betekenis en waardering van werk",
-		"examenprogramma_eindterm_id": [
-			"c2f5acf0-7454-4cbc-98bb-5dcbbc13a8a1"
-		],
-		"ce_se": "SE",
-		"description": "",
-		"deleted": 1
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F5",
-		"id": "b5df6539-8ad3-4efd-9d2a-8147b26ca86a",
-		"title": "Subdomein F5: Oorzaken van criminaliteit",
-		"examenprogramma_eindterm_id": [
-			"950aac82-e0d3-4747-b783-bec9485f9f4b"
-		],
-		"ce_se": "CE",
-		"description": "",
-		"deleted": 1
 	},
 	{
 		"prefix": "MAW/V/DomeinH/H3",
@@ -4676,15 +4634,6 @@
 		"ce_se": "SE"
 	},
 	{
-		"prefix": "BIO/H/DomeinA/A15",
-		"id": "3c1673a2-647d-499c-8780-41793fec7fe8",
-		"title": "Subdomein A15: Contexten",
-		"examenprogramma_eindterm_id": [
-			"f822089b-caf8-47b0-9fc0-c448ae68def8"
-		],
-		"ce_se": "SE"
-	},
-	{
 		"prefix": "BIO/H/DomeinA/A16",
 		"id": "9dcdc98c-2b89-44ab-b8c7-8804be873c42",
 		"title": "Subdomein A16: Kennisontwikkeling en -toepassing",
@@ -5783,17 +5732,6 @@
 			"aaebfc92-2dad-4ca3-88e5-ad0527dc57c7"
 		],
 		"title": "Subdomein E3: Literatuurgeschiedenis"
-	},
-	{
-		"id": "ad10d1ee-d312-4698-b4ed-b33f957a413c",
-		"title": "Overheidsbeleid en standpunten van politieke partijen",
-		"prefix": "MAW/V/DomeinB/B5",
-		"ce_se": "SE",
-		"examenprogramma_eindterm_id": [
-			"6b2793c4-9473-41a9-9881-75aa4236698b"
-		],
-		"description": "",
-		"deleted": 1
 	},
 	{
 		"id": "59c29633-b935-48ab-b840-b6a480aa8b4f",
@@ -6970,42 +6908,6 @@
 			"fe710258-9341-4d54-b735-a0385d955cb8"
 		],
 		"ce_se": ""
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F3",
-		"id": "9c89f769-97ff-451d-a6c5-ae1409756d80",
-		"title": "Subdomein F3: Overheidsbeleid",
-		"ce_se": "CE",
-		"replaces": [
-			"581a6858-f30b-4dc3-9a6a-8b4fa8167e99",
-			"ca87f930-bc07-4488-b677-cffae4e3eb25"
-		],
-		"description": "",
-		"deleted": 1
-	},
-	{
-		"prefix": "MAW/V/DomeinF/F4",
-		"id": "d54ab37b-d66b-438d-ba22-91db72da535b",
-		"title": "Subdomein F4: Functies van straffen",
-		"ce_se": "CE",
-		"replaces": [
-			"54dc4b60-d876-4007-80f0-ec0f6cd32e60",
-			"ab9c1f4c-6cee-4d4e-9007-256e57905fe1"
-		],
-		"description": "",
-		"deleted": 1
-	},
-	{
-		"prefix": "MAW/V/DomeinG/G5",
-		"id": "49709dff-4a86-45f8-8c5a-06b06ce306a1",
-		"title": "Subdomein G5: Milieu en cultuur",
-		"ce_se": "SE",
-		"replaces": [
-			"b52d219f-d26f-40fe-8559-e93ebfbbf312",
-			"3ec12fe7-86ee-46e5-a2b2-9c8b4326281a"
-		],
-		"description": "",
-		"deleted": 1
 	},
 	{
 		"prefix": "WI/C/V/DomeinA/A1",
@@ -10195,6 +10097,30 @@
 		"replaces": [
 			"7a894a09-cfaa-49e2-9ea1-7e320e055d78",
 			"32bed071-2ebd-41f8-a1cd-74b1fbf0347c"
+		]
+	},
+	{
+		"prefix": "WI/B/H/DomeinC/D2",
+		"id": "f87257c9-59b2-40d0-bb5b-d7f3856e9388",
+		"title": "Subdomein D2: Afgeleide functies",
+		"examenprogramma_eindterm_id": [
+			"1e103111-1119-45bf-ac0d-5d801204367b"
+		],
+		"ce_se": "CE;SE",
+		"replaces": [
+			"c6b37d39-8897-4ef9-9393-0c328b5d7568"
+		]
+	},
+	{
+		"prefix": "BIO/H/DomeinA/A15",
+		"id": "0e3c7a08-3ae1-4764-92c4-dcc8910629cc",
+		"title": "Subdomein A15: Contexten",
+		"examenprogramma_eindterm_id": [
+			"15895d2a-320a-428e-a2c5-4123b914bca4"
+		],
+		"ce_se": "SE",
+		"replaces": [
+			"3c1673a2-647d-499c-8780-41793fec7fe8"
 		]
 	}
 ]
