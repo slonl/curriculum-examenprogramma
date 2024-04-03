@@ -5363,21 +5363,6 @@
 		]
 	},
 	{
-		"prefix": "PREAMBULE/6",
-		"id": "c61abd39-7c3c-4875-a5b0-9bc35a7b65d7",
-		"title": "Leren reflecteren op de toekomst",
-		"examenprogramma_eindterm_id": [
-			"50cbb9c4-67b1-4b3a-a52c-ce9de4012add",
-			"13c9b0ab-d6a5-4d55-8e51-707e4341577b",
-			"44afd902-33bb-4758-a8ed-13fa1cf384f1",
-			"990fdb92-ec6d-4812-b031-3ff5fdfe1080",
-			"ce01a395-548d-4c28-8214-b67e63cded27",
-			"0152b14f-35af-42d2-b5f3-b835b2ecddd6",
-			"bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
-			"ea4a0513-da7e-4249-8190-97cc2a7268b9"
-		]
-	},
-	{
 		"prefix": "AK/H/DomeinA/A2",
 		"id": "6f5c67c9-414a-4cca-a0f4-61b4c6e4ea3f",
 		"title": "Subdomein A2: Geografisch onderzoek",
@@ -10121,6 +10106,27 @@
 		"ce_se": "SE",
 		"replaces": [
 			"3c1673a2-647d-499c-8780-41793fec7fe8"
+		]
+	},
+	{
+		"prefix": "PREAMBULE/6",
+		"id": "65b6e95a-533c-4855-871b-0882b12bc142",
+		"title": "Leren reflecteren op de toekomst",
+		"examenprogramma_eindterm_id": [
+			"50cbb9c4-67b1-4b3a-a52c-ce9de4012add",
+			"13c9b0ab-d6a5-4d55-8e51-707e4341577b",
+			"44afd902-33bb-4758-a8ed-13fa1cf384f1",
+			"990fdb92-ec6d-4812-b031-3ff5fdfe1080",
+			"ce01a395-548d-4c28-8214-b67e63cded27",
+			"0152b14f-35af-42d2-b5f3-b835b2ecddd6",
+			"bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
+			"ea4a0513-da7e-4249-8190-97cc2a7268b9",
+			"0790e6fd-0dcb-4a57-a4f0-f6989223e706"
+		],
+		"description": "",
+		"ce_se": "",
+		"replaces": [
+			"c61abd39-7c3c-4875-a5b0-9bc35a7b65d7"
 		]
 	}
 ]

@@ -34651,5 +34651,19 @@
 			"a2db60bd-447f-4bc7-be40-ea45666bd15b",
 			"e4dada93-c52c-4dea-b70b-faa73390cfc3"
 		]
+	},
+	{
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"id": "0790e6fd-0dcb-4a57-a4f0-f6989223e706",
+		"prefix": "PREAMBULE/6/6.9",
+		"title": "De leerling leert, door te reflecteren op het eigen cognitief en emotioneel functioneren, zicht te krijgen op de eigen toekomstmogelijkheden en interesses. Daarbij wordt expliciet aandacht besteed aan het kunnen vastleggen van de loopbaanontwikkeling in een loopbaandossier zoals bedoeld in bijlage 3 van de Regeling examenprogramma’s voortgezet onderwijs (vmbo-tl)",
+		"description": "",
+		"ce_se": "CE",
+		"ce": 1,
+		"se": 0,
+		"kern": 0,
+		"keuze": 0
 	}
 ]
