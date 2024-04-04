@@ -25260,5 +25260,1048 @@
 		"types": [
 			"examenprogramma"
 		]
+	},
+	{
+		"prefix": "PREAMBULE/6",
+		"id": "c61abd39-7c3c-4875-a5b0-9bc35a7b65d7",
+		"title": "Leren reflecteren op de toekomst",
+		"examenprogramma_eindterm_id": [
+			"50cbb9c4-67b1-4b3a-a52c-ce9de4012add",
+			"13c9b0ab-d6a5-4d55-8e51-707e4341577b",
+			"44afd902-33bb-4758-a8ed-13fa1cf384f1",
+			"990fdb92-ec6d-4812-b031-3ff5fdfe1080",
+			"ce01a395-548d-4c28-8214-b67e63cded27",
+			"0152b14f-35af-42d2-b5f3-b835b2ecddd6",
+			"bad18e07-8b53-4ac9-aabe-a317cbbd35ba",
+			"ea4a0513-da7e-4249-8190-97cc2a7268b9"
+		],
+		"replacedBy": [
+			"65b6e95a-533c-4855-871b-0882b12bc142"
+		],
+		"types": [
+			"examenprogramma_subdomein"
+		]
+	},
+	{
+		"prefix": "PREAMBULE",
+		"id": "36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+		"title": "Preambule:\r\nDe zes algemene onderwijsdoelen die voor alle vakken en sectoren in het vmbo",
+		"examenprogramma_subdomein_id": [
+			"e625807f-aae1-4c47-87bd-2ffb42292237",
+			"af6de566-2986-40ae-9359-0096d6307bac",
+			"d9a5ecbd-563f-4882-a490-bc808dd73307",
+			"d0fa5362-b124-44b2-b549-cce54e12dcd1",
+			"51cc5bbf-ecea-4014-9de0-84fbccf213c1",
+			"c61abd39-7c3c-4875-a5b0-9bc35a7b65d7"
+		],
+		"replacedBy": [
+			"a73805a0-3505-44e9-8ecf-2da4b126f740"
+		],
+		"types": [
+			"examenprogramma_domein"
+		]
+	},
+	{
+		"prefix": "NASK2/vmbo",
+		"id": "f25b3b90-6cea-413f-b823-aa3df3357ebf",
+		"title": "Examenprogramma Natuur- en scheikunde II vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"bb07ebf8-c5a1-4675-9771-c5d7623c79b0"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"f5e1dcd9-d7dc-4f16-87df-5db52b4c9cb6",
+			"d52367f5-c5ed-4883-9616-51722e022ead",
+			"fadcdea7-fca2-4315-860f-b194c5f298eb",
+			"66876063-0606-4d93-9fca-f6acb698fe4b",
+			"b6e18332-f875-46f5-b132-86f784862d2a",
+			"3161f477-541a-4f57-a219-d7664b193e55",
+			"9694cf95-2aed-4c91-9691-787b4272ba12",
+			"e373f81f-26b7-4c66-b386-c4df4bdf4979",
+			"6543ca49-cdfa-499d-8c93-985ee0d65514",
+			"7effef8d-32dc-431e-83e3-8d339ef8d7ef",
+			"8e7b852b-fe53-46f5-a6c5-b6088414df16",
+			"068e50ba-2740-4f12-9eac-1f0cd26ad0ee",
+			"1559ac98-666a-4a7c-ae4a-5577cb245c8e",
+			"69c69b49-239a-48c5-921d-4b669b804138",
+			"8d445964-7723-4bd3-9852-e7fb53c33db9"
+		],
+		"url": "https://www.examenblad.nl/examenstof/natuur-en-scheikunde-2-vmbo/2019/f=/nask2.pdf",
+		"ingangsdatum": "",
+		"versie": "",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"53d18369-25e4-4dc4-8be6-bc059dbe117e"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "ML/vmbo",
+		"id": "373ea5e0-551c-4bea-967e-4b0d9dcf872e",
+		"title": "Examenprogramma Maatschappijleer vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"34f4face-9e78-4666-826d-37c5e3dcba3e"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"86c33bef-a2eb-4838-b5e7-52d02259fb03",
+			"63d95f1b-666f-44c6-bfc6-280dc62d3bff",
+			"169a3931-5c75-41ae-89a0-c5d9adf9fc1e",
+			"028f1ba8-ff7d-4d5d-917b-4f6e038808fd",
+			"52590467-231e-42b1-9a06-92568a6b74e1",
+			"f2d61743-9e74-4922-b99f-181197214d5e",
+			"7f111e95-277e-4bc1-b58f-18084889f921"
+		],
+		"url": "https://www.examenblad.nl/examenstof/maatschappijleer-gemeenschappelijk/2020/f=/maatschappijleer1.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"7944805b-458b-4b37-8f04-6e23dc428b0a"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "MK/vmbo",
+		"id": "0c15efc9-e13a-4b5c-a49a-fe2b49b0d7f2",
+		"title": "Examenprogramma Maatschappijkunde vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"c649e661-8aea-4fc0-87ee-fb545188709c"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"e15fbf14-357a-466f-b6cd-474225e59f24",
+			"6f18e481-27f9-4aae-96c0-45f7bc82f6cc",
+			"e98f2bd8-d68c-4029-b7fc-b875d3e722a2",
+			"20d675ea-efb9-40f9-b8cd-a0003918de37",
+			"fc3fc8d8-603c-4be0-be5f-a0d6b48899a4",
+			"73efa9b7-d925-4435-ad41-57c9e5fa09c1",
+			"a4b4a7da-8cf4-4ddb-9181-5e1419c94f3b",
+			"cfe1c804-2761-4441-a6f4-4b443109be53",
+			"481e2d36-2efb-40c0-b61a-466c281e1377",
+			"956262c7-d4cf-4aa3-b1b1-1952af9cfe3b",
+			"7b1ba90d-36cc-4153-b176-d101292cb89a"
+		],
+		"url": "https://www.examenblad.nl/examenstof/examenprogramma-maatschappijkunde/2020/f=/Examenprogramma_maatschappijkunde.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"17f035f8-84cd-4b75-88fd-6a638d943e9c"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "LO2/vmbo",
+		"id": "5047db28-8b01-41e9-ba93-9e0c9630c612",
+		"title": "Examenprogramma Lichamelijke opvoeding 2 vmbo gl/tl",
+		"examenprogramma_vakleergebied_id": [
+			"e94ef774-675a-43fd-bb07-3914025c7b6b"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"b0a3f198-9ca8-4569-ad6f-1fc1484fdad0",
+			"c5b6be3f-c802-4aa9-8138-b46fdcb8e991",
+			"c4e67ec1-26a1-4e89-bb32-7590aeb05e3c",
+			"e9857320-9da3-43e2-ae4f-f78309cb6cec",
+			"9759d981-77e8-4894-831f-9ab10d6ca8f6",
+			"57c324d8-1721-4c1a-8d7d-f3d4346092a1",
+			"ed5a93b9-4dd6-4d39-b44b-59f12f6b87fb",
+			"f6e6827e-1415-4061-abc2-5c9dcae25027",
+			"0b58ec9d-dbf1-40cf-8b4b-ab75fab2361b",
+			"4161d247-48f4-4f9b-af18-df8fe8f70481",
+			"31e5c6f1-9c81-496f-baa9-cc330a97da2e",
+			"b5f80488-0e13-4a8f-9fb3-7715151efb5a"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-2-vmbo/2020/f=/examenprogramma_lo2_vmbo_20120213.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"f10f6090-4a99-44dc-9a31-0a44442e6264"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "LO1/vmbo",
+		"id": "ef31ea11-caa0-4086-a75a-d791185c18c2",
+		"title": "Examenprogramma Lichamelijke opvoeding 1 vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"cba68be3-a144-436e-b24e-fbf64169eb6a"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"135614fb-0815-4082-bfd6-5896a58c50b0",
+			"e66d735b-0a79-4734-9062-6152f3cc9e57",
+			"6e859558-6b3d-4b60-9d2c-9b53b8763766",
+			"d148d37d-44ff-4869-b565-c027b107ba16",
+			"6a19de40-dd39-43ba-b0a5-4952bf00a0c2",
+			"e2981c85-bf54-4d81-8aa2-a26456f21b7b",
+			"70212cde-34d9-490c-a279-bfde65f6e526",
+			"1303a109-896a-4152-a96e-4eab28ff609f",
+			"8394bf1a-6932-4a99-ae47-5eaa1ca7f75d"
+		],
+		"url": "https://www.examenblad.nl/examenstof/lichamelijke-opvoeding-vmbo-2/2020/f=/lichamelijke_oefening1.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"60bc0037-6f5d-4390-ad00-f1b8459a6418"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "FA/vmbo",
+		"id": "803fe798-4884-4e69-94b9-fc0364989e95",
+		"title": "Examenprogramma Moderne vreemde talen Frans vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"fb138f99-786a-45a1-96d3-ef8d8a555b53",
+			"2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+			"9827d61d-9881-4647-943c-aaf3ef656984",
+			"cb988a40-fa45-490d-98d0-a6570abdbad2",
+			"57d25632-0540-4f54-a042-b50de3dfdecf",
+			"771b122d-41f4-4187-a46c-028b83fb4e16",
+			"4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+			"4f18fdc5-4112-4f87-a807-8a5ef640bafd",
+			"51c14fc6-b37c-438a-aa82-b5749de0d350",
+			"fa244614-70a3-4e69-bc25-5a2917874c0a",
+			"311b43bd-3f0b-48e8-ab27-209f8d15e704"
+		],
+		"url": "https://www.examenblad.nl/examenstof/frans-vmbo/2020/f=/frans.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "DU/vmbo",
+		"id": "2e58a2e2-3332-4cd4-a39d-9205f36a50db",
+		"title": "Examenprogramma Moderne vreemde talen Duits vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"40175655-d16a-4128-b424-05b278bbb010",
+			"dbbb3a43-5edc-486b-991d-d099f24dd1c7",
+			"78501b14-b391-4043-9c0d-bef12c65fb1d",
+			"e2542a9c-03af-4883-959c-0e542b38bf4d",
+			"4322e3ec-ba62-4323-9925-ac8181fc5ba5",
+			"c55dab70-4d07-407d-949e-edcee029d480",
+			"bf5c5a71-ab83-4d35-9992-d84c9b27b19a",
+			"36599d9c-6038-412a-8936-a5ac2b5eafab",
+			"3f6726da-c6ec-49cb-acb3-16e2ebc3d0b4",
+			"e8333a86-f783-4980-9f70-3691a36be7a1",
+			"b6bfcb54-66c6-4a7d-856e-d2dda8b46913"
+		],
+		"url": "https://www.examenblad.nl/examenstof/duits-vmbo/2020/f=/duits.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "NASK1/vmbo",
+		"id": "5d903c60-d498-4cf1-9b12-29397ba79d56",
+		"title": "Examenprogramma Natuur- en scheikunde I vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"64ab97f4-9bd1-4a03-8045-3d84626a0ea8"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"60c4b942-0fac-450b-b7c7-14a363b4b990",
+			"82c10d57-2b3b-46dd-84e1-7e96c83e1348",
+			"53366f59-cad0-40ba-982b-eecaec14c07c",
+			"49e0cdd4-078c-4cea-9d81-630f6f827892",
+			"bd84300f-7753-40e7-ba9d-03b0bab8b465",
+			"ee32cf4a-c9d1-47a6-88d1-bfa626206588",
+			"3464de19-d3a3-4471-ab94-00de31cb58c5",
+			"20677711-768f-46b9-afcf-28a77fe75aa7",
+			"10e6319d-df1d-4051-9e31-3854c7b4ef98",
+			"3b34eff7-74ed-42bb-93e7-0d1028531d69",
+			"ff35d7ea-ed90-4e8c-bf1b-0ddcd7afbd11",
+			"c750a4bd-42e6-4914-a960-dceda4290759",
+			"1fec0e63-c104-4c3e-98de-1d90ea42e72c",
+			"2d7279c1-7fe8-4fa2-9ce4-9d20294cc706",
+			"3291f446-c199-46da-b647-bda5b30d34a0",
+			"1c109272-1683-4d3c-9668-a52f40ddf543"
+		],
+		"url": "https://www.examenblad.nl/examenstof/natuur-en-scheikunde-1-vmbo/2020/f=/nask1.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replaces": [
+			"50f5db5e-f228-435e-abaa-cb987bdc8cf4"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"d3f71a4a-bf9a-4ba9-8b3d-06db677f001d"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "NE/vmbo",
+		"id": "59316717-c3c2-4b18-a219-1983d64dfeaf",
+		"title": "Examenprogramma Nederlandse taal vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"0f0e5c83-88c6-4ebc-90c0-31913e47db85"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"a0d712ff-2be3-4196-a33a-7d0d638cf327",
+			"19df9d0a-44c2-443f-967e-5041001d980a",
+			"db51e46c-2a16-41f8-a5c0-893ed3d207d8",
+			"bbc455a7-2e67-4f55-980d-bfe9c39dbf20",
+			"8c92f991-7be8-4cc9-987e-98aa4058217d",
+			"2eedc0c4-bf82-4f31-a990-40e4e8b31ac8",
+			"37f27aaf-a7fb-439a-aa7d-559ff00a0315",
+			"7f96a983-edeb-4d1b-85b8-016b7349398b",
+			"5bdff35c-875a-4ce7-87d5-de77ab022cb7",
+			"7f29f2e1-b052-4f23-880b-67eddafff6fe",
+			"cda5d254-aa37-4851-8210-3b47ad11c23e"
+		],
+		"ingangsdatum": "Vanaf CE 2014",
+		"url": "https://www.examenblad.nl/examenstof/nederlands-vmbo-3/2020/f=/examenprogramma_nederlands_vmbo_2014.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replaces": [
+			"3da5315b-0db1-4943-a946-aa09a46061c1"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"21c29f89-310c-4584-80fc-430425279937"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "EN/vmbo",
+		"id": "51b44493-004b-4b9a-aa90-a83d6155561f",
+		"title": "Examenprogramma Moderne vreemde talen Engels vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"65701c83-286b-4865-91dc-db2848276c33"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"955d38c5-fbc7-4ac8-abb7-683d2858f3d4",
+			"b32da233-4e5a-46e0-9f68-45ced41b7a3e",
+			"79a51e9c-30a6-4c87-8ea5-f66b8a17c76e",
+			"7ae80c81-f11d-4de3-9fc0-6422249cd691",
+			"88828519-f671-421c-83bb-01743cb36832",
+			"8901a49b-730f-4158-8dc0-33813f4cd023",
+			"bd98fda7-a534-4a64-942a-611146a4d3b0",
+			"8fe1dc77-83e4-40e6-872e-89db5d62d3fa",
+			"de039faa-9871-484c-a542-515f92aadd9d",
+			"35a649dd-0d0e-4df3-8237-a62bc622d5b6",
+			"f8fc7329-a2c9-4438-b42b-36cf5d6fb768"
+		],
+		"ingangsdatum": "Vanaf CE 2017",
+		"url": "https://www.examenblad.nl/examenstof/engels-vmbo-2/2020/f=/Examenprogramma_Engelse_taal_vanaf_CE_2017_def.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replaces": [
+			"983f6ca1-1bcb-4e09-bac2-a74c1905ffa3"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replacedBy": [
+			"5917efb3-d24a-48da-93a5-e8d5b09fa1d5"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "EC/vmbo",
+		"id": "adf337ad-8430-4c4c-b999-c855b2b5ff40",
+		"title": "Examenprogramma Economie vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"5f6d9de2-6a8a-4a59-8759-f61d65f8545d"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"192b908f-53ef-47d2-83b7-30fcee62846a",
+			"ea7cacc2-2251-47c1-8ecd-34878f3ef8a4",
+			"e3349af8-3e12-4965-b332-7f5b454dbee6",
+			"71991e0d-6a4e-4b60-a5dd-59c089e5d0c9",
+			"4f5243e8-f001-4620-86b8-cb8cd5b6ccdd",
+			"d2453620-4a7e-4f6a-bd7f-42e02ad291d1",
+			"7232c85e-ad9b-4122-8f8d-d9488e2a909c",
+			"97ef46b6-0ba0-440a-a14a-1d939e917b46",
+			"433a608e-3bec-444d-ac60-3031db3c0946",
+			"d39abf9a-449e-4a68-b4e7-f9b8a2290fa4",
+			"bad8ead1-f566-4201-87d7-5e4166b20c4a",
+			"97d9a316-1c50-4075-9022-7bf23644eb92",
+			"fc430196-76ae-4ac0-a55c-af24db05f5d1"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/economie-vmbo-2/2020/f=/economie.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"c2f884f2-c673-4af7-a5c2-8832390f5f49"
+		],
+		"replacedBy": [
+			"db841ddf-975e-4a36-8581-ee1f4d449bfe"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "DR/vmbo",
+		"id": "57f3047b-dd0a-4f36-9877-d050aef50835",
+		"title": "Examenprogramma Drama vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"561769d0-9c63-40e8-b2e7-54bde96f7e9f"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"962affa6-0b4c-4d64-be91-9aeadec094ac",
+			"3adf1a30-893c-4b64-9446-9383d0d5d6bf",
+			"d34f6307-e646-48a4-83b2-2b2bfef88860",
+			"d0cb2337-c707-48bd-98f2-2cc3c5191471",
+			"b4462f4f-3acc-4ee1-bd6f-802461543730",
+			"c72ac87b-ad3d-4a1f-8cb7-1192498b2db7",
+			"d3f8aca8-780d-42d1-ba84-42c0f77c8321",
+			"9cd52803-25fd-4a12-b300-9a2c7b5918fe",
+			"6873e23c-318d-4433-b28e-215e87420bfe",
+			"bd3416ac-a943-4aef-965a-48615e6bacfe",
+			"3a064206-f73b-4156-bb92-3604ea503c22",
+			"5fa31045-21c7-4a7d-9019-b6b3fda65604"
+		],
+		"url": "https://www.examenblad.nl/examenstof/drama-vmbo-2/2020/f=/drama.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"d10201e5-a936-45cb-b8a8-36f576d78b77"
+		],
+		"replacedBy": [
+			"df738bb7-830e-404c-9ec5-63792743785e"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"1e1c230c-a8c9-417c-b169-30e8cbea17f1",
+			"2435d263-6129-484c-979f-dec4cdbce2ee",
+			"0eadc684-2502-4039-9786-ac965be3e902",
+			"9a6a34a0-f728-4233-92d9-881a6e1b239e",
+			"31ab751a-13c5-4ab7-b233-d414e8b77f57",
+			"99e1139c-ddaf-4838-aa74-3591e6dd2d5a",
+			"a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9",
+			"bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf",
+			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
+			"7d2a47b8-11c1-408d-bbcf-22a86bee7710",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
+		"id": "053d8c12-a648-4c32-a941-f4626c57f624",
+		"prefix": "SP/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"examenprogramma_vakleergebied_id": [
+			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
+		],
+		"replaces": [
+			"787ab014-814b-436d-bd51-faa7ddf8eea4"
+		],
+		"replacedBy": [
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "IT/vmbo",
+		"id": "1109a569-3b50-4e18-918e-ec1a4c922c4d",
+		"title": "Examenprogramma Informatietechnologie vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"bda8e86a-3282-48bb-ab64-d654dbbca14a"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"caf3334d-6355-4f07-a24f-478bf1599754",
+			"0524c584-227d-4a15-a8cf-1c3c9b250e5f",
+			"4df0cea1-2acb-45b0-a69a-f749873247b8",
+			"7cfb4545-f090-4688-8c66-dd8ba65a19a0",
+			"8771ec61-1fde-4dfe-806c-aa86e93888bc",
+			"8207b6fd-3554-44b7-91d6-583f68eee1e1",
+			"10c0718e-9b60-4d86-8181-d4fcf747c4c7"
+		],
+		"ingangsdatum": "Vanaf schooljaar 2016-2017",
+		"url": "https://www.examenblad.nl/examenstof/informatietechnologie-vmbo/2020/f=/Examenprogramma_informatietechnologie_vmbo_vanaf2016-2017.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"ab7b3996-f658-4981-a4cb-0689f00aa24c"
+		],
+		"replacedBy": [
+			"bee7d594-7a6d-4912-a3d8-736325b575ee"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"0bbc6acd-284e-4714-b181-7861f6fbf28e",
+			"88dddd78-8e31-4867-bd6c-6801949c012c",
+			"b2774710-be1b-4d02-a4ba-e3009f66e34d",
+			"106ba245-5df3-425b-9647-4fd5d074ade6",
+			"9f59efeb-ca7d-4fc7-ac3e-481af84af3a1",
+			"e97dbf07-d11b-4b08-9391-6d86c3bbe56f",
+			"20f77502-1b62-46e8-a2ca-48bb472ff5f0",
+			"a62e3053-f2ab-40e1-8aa1-605751b69b9e",
+			"cab5fe00-4968-4f61-a92c-2275aa224f41",
+			"8a5d774b-b6c7-40d6-8215-b91ce328ecbb",
+			"3a2f40e0-b0f6-45f7-923a-547e88cf714d",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"19343b67-adbe-4c24-907f-630d6192a287"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Turks vmbo",
+		"id": "8274266c-2556-46a6-a606-da505ad509e8",
+		"prefix": "TU/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"986b8af5-7495-41d3-8764-43053750ebcd"
+		],
+		"replacedBy": [
+			"d364c573-39de-476e-aa0d-a272b26e0841"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"a0400dbb-4886-406b-b227-b549757f9d98",
+			"4f9e33b0-f0ee-4276-90fb-a76e6b96962d",
+			"cc43f6a5-5a45-4d79-ab3b-e509d700b41b",
+			"0755191b-2efc-4f56-bfa2-b2723012ff3c",
+			"d6f14d12-e83d-43be-bb9e-0f9157df4684",
+			"257bf344-c937-44c8-b38d-1e351b2cb5f0",
+			"c97d84a2-c97d-4fc0-8360-e043b8d61fdf",
+			"abeca698-5363-4844-beb5-3343e97331f3",
+			"c80a5ea6-17fb-4660-9e3d-f56972f87730",
+			"6ee150eb-8970-404b-a0bc-13f0ad19e36d",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"26732b8f-b19b-4805-9369-ad2c33048234"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Arabisch vmbo",
+		"id": "821c5fee-1b34-466b-b6e5-9f202c685cd3",
+		"prefix": "AR/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"c44ed430-460f-4103-98ee-bd1fd011d6f4"
+		],
+		"replacedBy": [
+			"d82fbdd4-4d2f-490f-8c49-b75d0647b153"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "DA/vmbo",
+		"id": "04904430-aa3e-4c97-8c0d-ce76d2415d24",
+		"title": "Examenprogramma Dans vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"3d891184-3c95-46fc-8afc-e62e8c179d36",
+			"da4d44a7-aee6-45ca-8578-5c6b4a30aa44",
+			"ef0d707e-175b-42db-a607-9ce9db443a5b",
+			"bbbcf319-e29c-42d1-9a44-cb6a99cf1fea",
+			"a09d5327-a857-4559-8961-8c5ef1bb7a3c",
+			"6f6d2cbd-9a88-4311-8de7-1decfc61bf0e",
+			"cd12a322-97ac-4a3b-80f4-9c96fa09d0fc",
+			"a9fb3700-38c6-445a-be4f-08008a05e66f",
+			"7c80da1b-cbfe-49c9-951b-4c7179318d5a",
+			"2597c72f-e876-4e74-a232-6fb29fb9ee9b",
+			"91574c73-d930-4f1d-85bd-2b9a09d557c4",
+			"739cd39c-899e-4caa-9249-3b19ed5c0cdd"
+		],
+		"url": "https://www.examenblad.nl/examenstof/dans-vmbo-2/2020/f=/dans.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"6e4551e4-a5a1-4266-b4c4-c75f49ce19e0",
+			"6fc64ff5-e3c5-4d1f-827b-99f266dbfb13"
+		],
+		"replacedBy": [
+			"0041d030-6688-49b3-8f64-8f0d2c199179"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "MU/vmbo",
+		"id": "f7c2aa44-8739-4bf0-97eb-216603722ce0",
+		"title": "Examenprogramma Muziek vmbo gl/tl",
+		"examenprogramma_vakleergebied_id": [
+			"26c91003-dc09-4910-8d1b-411a18d10e2b"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"2368b511-e11d-4804-8027-6226a8bd3cee",
+			"b1353329-9e18-4caf-ac1e-fa1539095496",
+			"ca29ac70-a519-46e9-8771-c0993aa42585",
+			"44d985d2-c0b4-4ae4-b31e-f87cec8222be",
+			"fdf5225d-2ae1-44dd-8b79-9d5e13d3bdc4",
+			"d4914e81-ffbf-419b-8305-9ec11065c9ba",
+			"9e3ed90c-7c18-4930-8d7f-8c636933b346",
+			"55f1c30c-e084-472f-b378-ef9b28d3822a",
+			"04a3a43c-54ec-4f14-834d-bd475caf7e38",
+			"ffd42937-762a-4894-bb06-59b5b3966a48",
+			"18a3cdb9-9263-4dab-a935-7f04e9b3f3c1",
+			"68204e7e-e986-4f94-a979-f127133dee8c"
+		],
+		"url": "https://www.examenblad.nl/examenstof/muziek-vmbo-2/2020/f=/muziek.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"340236bd-8944-4768-8361-7f0c5d349eb4",
+			"8ee23adb-1f87-4fe7-8ca4-7bb464205859"
+		],
+		"replacedBy": [
+			"f8238f3a-f1c5-4a85-8695-741b56cb18f2"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "WI/vmbo",
+		"id": "46b579dd-ae97-4d32-b401-9f9dc97bbfd2",
+		"title": "Examenprogramma Wiskunde vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"4d7bee87-997e-448f-9aa4-bfbc0eafb0bc"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"59ae47fe-b3b9-4c82-92dd-55d1ba520dfe",
+			"ff2b12cd-f333-4654-adb3-176332b11a45",
+			"436fe1c5-1673-45fd-874a-057ac89207ff",
+			"e659b3dc-f4cf-4ccc-9c8b-c6c618811610",
+			"136ad79b-887b-4889-8850-9155fafae02f",
+			"2af345ce-9ef0-444d-9e6d-51f11dbddbe9",
+			"a6f1131d-9215-444e-ab70-a6e41889ce8b",
+			"b28a3cd5-d6ca-4a19-8213-fb5dc5de8aa5",
+			"bd1e20ec-930f-4ca8-92cd-48ed40ab8d67",
+			"7bd4112d-cda1-473f-aef3-0c03dd03d8c5",
+			"254b5655-1677-4dac-87ab-d569eca56306",
+			"60fdc8d5-cceb-4fe1-ab29-b33b13746b19"
+		],
+		"ingangsdatum": "Vanaf CE 2017",
+		"versie": "2020",
+		"url": "https://www.examenblad.nl/examenstof/wiskunde-vmbo-2/2020/f=/wiskunde.pdf",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"replaces": [
+			"edaba0d2-5ee1-4962-bcc5-bc6bfb5cea2a"
+		],
+		"replacedBy": [
+			"4922f8be-f5db-4648-8fe0-f88b4845da68"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BV/vmbo",
+		"id": "44ec869a-0ad3-4066-a50e-573f716ab6d4",
+		"title": "Examenprogramma Beeldende vorming vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"cda3e026-b19d-404a-ba01-d6fa3a5cfeb3"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"ae25280b-382b-4097-8fb2-ee89c4e99f90",
+			"6d811442-ea28-471c-a960-c9f2fa5dd288",
+			"4d1dedae-2d2f-42f8-8449-2c0d92366359",
+			"ff966b62-8dc9-4b91-ac03-0b0b1d49e7ea",
+			"60564a30-775a-4fa6-8c9e-6869aafeebb2",
+			"cc0a629a-c038-45b4-a213-5d9e8408cbe4",
+			"b75ccb90-50b2-41eb-9c18-f5c0e5f308ff",
+			"e4eb60b1-b999-42bd-a3da-de640466dc79",
+			"7ce0e55f-046c-49ef-ae2f-bac31a303cdb",
+			"743ceb25-ab74-4091-9af7-639978680de4",
+			"407dfb06-67dd-411e-a3ba-bfe60f274ce8"
+		],
+		"url": "https://www.examenblad.nl/examenstof/beeldende-vorming-vmbo/2020/f=/beeldendevorming.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"98074bac-0cd1-47df-86a4-c94e1084ba18"
+		],
+		"replacedBy": [
+			"60c62df4-0b67-4823-890a-85fc0fa35c34"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "AK/vmbo",
+		"id": "244cf96a-0a68-4ad7-b136-efed2bddd3bf",
+		"title": "Examenprogramma Aardrijkskunde vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"1f237289-4039-4122-a709-58c065bacda0"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"d092a6a9-7943-438d-8618-e5f099e5cc54",
+			"beb15b5d-d2b1-4487-b700-2a349e498587",
+			"d30a157f-a352-4b77-966a-254d612d3a34",
+			"10cbdf21-6ee6-4bd4-81df-3831344dc630",
+			"9c811e4f-32e7-4f75-8d66-91e945a78cc2",
+			"84ed5944-0f3b-4a0d-b132-eca5d3595f06",
+			"846069d0-5ed3-4201-8b6e-604a1fe6d96b",
+			"2ecb1097-7ab8-478c-8dbb-59c8db1cff37",
+			"bcab71e4-5f56-41ab-b3bf-dc0524320878",
+			"8a6ac33a-58b3-48c2-bf4c-7e389d0711cb",
+			"42b0e381-69fb-41c2-a993-5528fe1ad3e6",
+			"c26aa86c-ec32-4454-9a28-6341a78eaa39",
+			"0bb5df5c-5cdd-4253-91f5-cff3c33f3b0e",
+			"a80cd9d8-5988-4dcc-8893-378cc2324f29",
+			"dd648e89-2094-4f49-b198-93d7b7a18ce5",
+			"5e6a04d6-24e1-42df-bcb0-c020e10570f0",
+			"a799f47c-149a-4775-b80a-ce7426f586d6"
+		],
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958",
+			"279d4d59-e33a-4495-886d-be73fddc25a7"
+		],
+		"ingangsdatum": "2014-2015",
+		"url": "https://www.examenblad.nl/examenstof/aardrijkskunde-vmbo-3/2020/f=/examenprogramma_vmbo_aardrijkskunde_vanaf_2014_2015.pdf",
+		"versie": "2020",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"544a0293-a7e3-4f6b-a973-30af7627bdea"
+		],
+		"replacedBy": [
+			"465b60a8-0e8b-4183-ba9b-43daf2b82608"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"7ccc6da8-4180-4e2b-9862-5aafe529bf76",
+			"9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+			"c66bc5d7-91ef-4523-9bb6-0ff92a2f144f",
+			"94039a4e-5d4c-49ab-88fc-c1e13e20c155",
+			"298936d8-aa70-4062-8a65-ab1f741b11c7",
+			"ec7591b6-2197-403a-b8d5-5170950c3000",
+			"a1fc7fd5-3582-4ca0-ac98-eb4336a62bf8",
+			"23c0855d-3dd0-4c78-9cb5-06ab9bf4429e",
+			"c7e025ea-99ca-46e8-bf95-4add49f50c91",
+			"9453f0c2-8599-4a81-a073-8d9325d19049",
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"57ffd396-6bee-4868-b2be-f0304c29ef89"
+		],
+		"title": "Examenprogramma Friese taal en cultuur vmbo",
+		"id": "4fe2443f-ed9d-40f9-90c1-d58511f617db",
+		"prefix": "FR/vmbo",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"replaces": [
+			"b15aa61b-37e4-4454-b510-fe358565faa3"
+		],
+		"replacedBy": [
+			"f8600316-fcfb-4357-8e2d-4b707f0ff9c6"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "GS/vmbo",
+		"id": "22645894-4ffd-4655-8aa4-4f175b9b4524",
+		"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"a15eaad5-c871-4cfd-aa6e-e86f83ef0ac6"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"0b767adb-ab60-4799-8857-9ab32ccd335a",
+			"2321a6fc-8da2-4117-8ec3-204cae78d76e",
+			"7f26dbf8-ab12-4079-966e-5e6a128bf1ba",
+			"714f8ac9-9d18-4128-a296-8ddd65949131",
+			"3323f005-26ff-47db-a41f-0c665d3f2877",
+			"88ffb1cf-9f70-4996-a3e0-592ea001ca03",
+			"a9cdbee9-1de8-416d-8a8c-b5b3396c9f40",
+			"ab531ebe-be2e-4392-a10b-7142f2606dd7",
+			"cb156201-8593-419a-bffb-f6ce3186111f",
+			"990f5a6d-8691-411e-8a08-cd38367c5565",
+			"e4a85a10-70ac-4fee-9238-fb2e27437bdf",
+			"2f6610e3-640b-4afd-b750-1b120f36279a",
+			"eada8280-5976-44ed-8446-26a2b7c0bf90",
+			"2da73ebc-2d04-4215-a4a5-d66afd1b22f3",
+			"d789aa5d-3ee5-4dc1-8936-6b92ecc37392",
+			"39b3b6cc-05a0-41a3-81df-17206f9fca4f",
+			"0356b2f1-9e27-4c0f-a844-dff65a3e64a4",
+			"0cece58c-383e-4a70-8c6d-1f610ff5e917",
+			"defb5ee8-6ef6-4318-b287-674a8e9c1c85",
+			"b61472de-71ca-4d3b-ae7f-040dcf8d0df8"
+		],
+		"ingangsdatum": "Vanaf CE 2018",
+		"url": "https://www.examenblad.nl/examenstof/geschiedenis-en-staatsinrichting-2/2020/f=/examenprogramma_geschiedenis_vmbo_vanaf_ce_2018.pdf",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"0af05781-3b4e-4137-9f16-cb700db72b88",
+			"5fbc4877-8077-4404-988b-f623203730a2"
+		],
+		"replacedBy": [
+			"fa44372f-c748-4ad3-94a2-267811b057cd"
+		],
+		"types": [
+			"examenprogramma"
+		]
+	},
+	{
+		"prefix": "BIO/vmbo",
+		"id": "2a899285-4990-4942-b64a-d1aec6090bfd",
+		"title": "Examenprogramma Biologie vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"0a4d1b78-0481-4662-9f5b-abaa156e8b05"
+		],
+		"examenprogramma_domein_id": [
+			"36c5c292-4ec9-43d1-bf0d-f56cc7a7ef10",
+			"f80d6cd2-8a79-48a7-af22-37a741a85567",
+			"a3778cff-e8e1-4092-b9d9-7c47bd6652d4",
+			"7b50e251-ffaa-49d6-9082-edef5b3c4f2a",
+			"bf1d5bf2-1903-477c-8fed-25a3f39e1691",
+			"3ef0959f-3650-43f2-94d0-9a1e8ac89bde",
+			"a00d6b11-f500-4940-a88f-c312cc75442f",
+			"d41cc0f9-9af9-40da-9a41-38215e702ac3",
+			"d4555d58-cc9f-41fc-b6d2-03640e6d0573",
+			"9e3c69b4-7b0b-4e98-b743-84d03b6c0f10",
+			"ac7cf5ef-2be6-408e-98a1-9e94b6aaad70",
+			"b97ff171-2851-496f-bc33-655dbf71e165",
+			"a4e9fe25-8365-41ec-ab43-dbd55cee9d8b",
+			"bdf6fcf4-442b-408b-ac66-5b914c388d51",
+			"ea9c5134-05f5-4b0e-9e50-7d144d3571e5",
+			"001153a6-ab0c-4d04-8dd4-30fad4477837",
+			"bc68cda8-f7c5-41d3-9c5f-f0f6f0504aa8",
+			"c7318dac-13d8-4da7-bd05-de7751d84084"
+		],
+		"versie": "2020",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/biologie-vmbo-2/2020/f=/biologie.pdf",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"replaces": [
+			"68defffd-aaa5-49c9-86c2-45c36b18c37c",
+			"0f3f8286-43ab-4978-830d-9b169c84e991",
+			"e081f440-c9f2-4a2f-8ece-fbe3cba248f1"
+		],
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		],
+		"replacedBy": [
+			"f4c164fb-ff9d-4e8d-b29f-38fa5dc78c6e"
+		],
+		"types": [
+			"examenprogramma"
+		]
 	}
 ]
