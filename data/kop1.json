@@ -584,8 +584,7 @@
 		"title": "Het schoolexamen",
 		"examenprogramma_body_id": [
 			"d682eaaa-7863-4415-b4a7-404452d7f149"
-		],
-		"prefix": ""
+		]
 	},
 	{
 		"id": "202a7bb7-b4a6-4bf8-a0a2-af361471ef2f",
@@ -973,8 +972,7 @@
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
 		"examenprogramma_kop2_id": [
 			"6cc03d55-903f-4d39-9228-469d6d61933d"
-		],
-		"prefix": "GTC/0/0"
+		]
 	},
 	{
 		"id": "bca3b4d7-f33f-453b-8cde-373831319366",
@@ -1389,7 +1387,6 @@
 	},
 	{
 		"id": "279d4d59-e33a-4495-886d-be73fddc25a7",
-		"prefix": "3.",
 		"title": "Aardrijkskunde vmbo",
 		"examenprogramma_body_id": [
 			"4f20804e-482d-42e2-ad53-8da246fea20e",
@@ -1881,7 +1878,6 @@
 		"examenprogramma_body_id": [
 			"64429207-fb1d-48c5-b360-00f6ee81f0b7"
 		],
-		"prefix": "",
 		"replaces": [
 			"085ccc9d-0a4f-463a-aad2-eff11c3054d7"
 		]
