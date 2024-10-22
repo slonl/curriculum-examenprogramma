@@ -1877,23 +1877,19 @@
 	},
 	{
 		"id": "c83bf78e-8a81-4763-8a85-ff0a42336aa6",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"ce_se": "SE"
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "27fb7b82-d9bb-4c2f-b53f-bd31c9f1f5d7",
-		"title": "tenminste alle domeinen van het eindexamen;",
-		"ce_se": "SE"
+		"title": "tenminste alle domeinen van het eindexamen;"
 	},
 	{
 		"id": "75321962-564d-4ba8-b315-6783dfbda208",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "becbabf2-08f7-44f1-b616-f665d5702a0e",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "e80d419f-7bf9-4a45-87d7-8b5ced7b089c",
@@ -2389,38 +2385,31 @@
 	},
 	{
 		"id": "05820552-d56d-41ab-99ac-f4a3d3744c10",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.",
-		"ce_se": "CE"
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1."
 	},
 	{
 		"id": "e6af7d85-be26-4e53-aeab-03c4859a1adc",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"ce_se": "CE"
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "1a7154f7-1e1c-4e71-b052-6e8d9c0031d3",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"ce_se": "CE"
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"ce_se": "SE"
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "421a3831-11da-4c89-b566-b236af75d2cd",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"ce_se": "SE"
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "e653076d-f71e-457c-ad45-0c6281e5a21b",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "d70e8e03-7e2c-4fae-ba4a-6be2435c6002",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
