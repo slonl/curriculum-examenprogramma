@@ -5,37 +5,30 @@
 	},
 	{
 		"id": "fb062294-a70d-4dfa-8766-94577d0cd5b0",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "4522dcc9-354a-4399-bcc6-1d3fb42ec4e9",
-		"prefix": "B.",
 		"title": "Domein B Kansrekening en statistiek"
 	},
 	{
 		"id": "7e56f435-4e0e-4bb3-8fc3-c7e500150fae",
-		"prefix": "C.",
 		"title": "Domein C Dynamische systemen"
 	},
 	{
 		"id": "1e6f0af2-f51a-4e43-9147-2136ca8fc42f",
-		"prefix": "D.",
 		"title": "Domein D Meetkunde"
 	},
 	{
 		"id": "02a5ca1d-fd29-4c80-b59c-7c454ab153ac",
-		"prefix": "E.",
 		"title": "Domein E Complexe getallen"
 	},
 	{
 		"id": "cfc70d3c-a6e3-4f1f-aa97-d976c3dc0b24",
-		"prefix": "F.",
 		"title": "Domein F Wiskunde in wetenschap"
 	},
 	{
 		"id": "6b5ba15f-73da-4da2-a097-bd2d92421227",
-		"prefix": "G.",
 		"title": "Domein G Keuzeonderwerpen"
 	},
 	{
@@ -60,27 +53,22 @@
 	},
 	{
 		"id": "79bc90fd-4d95-4a81-8d2b-6000a143dfb2",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "69633df1-bfca-473d-a2c7-af09dc37fc84",
-		"prefix": "B.",
 		"title": "Domein B Statistiek en kansrekening"
 	},
 	{
 		"id": "6badcbf6-ce69-4cd0-8a6a-844edd0751da",
-		"prefix": "C.",
 		"title": "Domein C Ruimtemeetkunde"
 	},
 	{
 		"id": "df5d02bc-fc58-4288-972e-6338bf760efe",
-		"prefix": "D.",
 		"title": "Domein D Wiskunde in technologie"
 	},
 	{
 		"id": "3851dff1-a89a-4840-808d-1684a336b2fa",
-		"prefix": "E.",
 		"title": "Domein E Keuzeonderwerpen"
 	},
 	{
@@ -101,42 +89,34 @@
 	},
 	{
 		"id": "bc9c4d4f-0556-47e1-8bfb-2edfa139b880",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "43eb94c3-491e-4f11-8b09-e05e385c0eb5",
-		"prefix": "B.",
 		"title": "Domein B Algebra en tellen"
 	},
 	{
 		"id": "b14f5490-6c1e-41f8-af7b-3ff6ed1c8435",
-		"prefix": "C.",
 		"title": "Domein C Verbanden"
 	},
 	{
 		"id": "85e1fecb-c4dd-49b1-8b5b-ebb2e17c3868",
-		"prefix": "D.",
 		"title": "Domein D  Veranderingen"
 	},
 	{
 		"id": "f9503994-6485-4e72-af28-433869b2203a",
-		"prefix": "E.",
 		"title": "Domein E Statistiek en kansrekening"
 	},
 	{
 		"id": "603843a4-7f71-4233-8d6a-b547064f32a1",
-		"prefix": "F.",
 		"title": "Domein F Logisch redeneren"
 	},
 	{
 		"id": "efd805dd-bab7-40a2-af46-d2bd66d3420e",
-		"prefix": "G.",
 		"title": "Domein G Vorm en ruimte"
 	},
 	{
 		"id": "5790437e-a0db-4ffd-b960-d7844383ceb6",
-		"prefix": "H.",
 		"title": "Domein H Keuzeonderwerpen"
 	},
 	{
@@ -169,32 +149,26 @@
 	},
 	{
 		"id": "af9de033-c353-48ca-8e81-184e3311824a",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "a7bbb830-2a21-44f4-b675-227563c89db1",
-		"prefix": "B.",
 		"title": "Domein B Formules, functies en grafieken"
 	},
 	{
 		"id": "208815db-6ad1-45ba-9edb-1d419f6bbf19",
-		"prefix": "C.",
 		"title": "Domein C Differentiaal- en integraalrekening"
 	},
 	{
 		"id": "b4755d7f-ce5c-4365-ad2d-145b1fb7817d",
-		"prefix": "D.",
 		"title": "Domein D Goniometrische functies"
 	},
 	{
 		"id": "aa6aa833-5a14-4fd5-aae6-128ca27e22bd",
-		"prefix": "E.",
 		"title": "Domein E Meetkunde met coördinaten"
 	},
 	{
 		"id": "c3b2c4fe-64a5-4aac-b24d-6f1f2b00095e",
-		"prefix": "F.",
 		"title": "Domein F Keuzeonderwerpen"
 	},
 	{
@@ -235,22 +209,18 @@
 	},
 	{
 		"id": "7a9cf8b9-e0fe-4540-a73e-42891edb0916",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "135a9956-7460-4350-8521-505ade3577ac",
-		"prefix": "B.",
 		"title": "Domein B Functies, grafieken en vergelijkingen"
 	},
 	{
 		"id": "cf8cf744-f1d5-4fe6-a0b4-af83dd677407",
-		"prefix": "C.",
 		"title": "Domein C Meetkundige berekeningen"
 	},
 	{
 		"id": "7a700598-c900-4c9c-9719-1e932711ea22",
-		"prefix": "D.",
 		"title": "Domein D Toegepaste analyse"
 	},
 	{
@@ -287,32 +257,26 @@
 	},
 	{
 		"id": "e2989880-0a4f-4435-9abe-9db1b802ca73",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "9e7982ad-1481-47a9-bcdc-d2cdcd755ad2",
-		"prefix": "B.",
 		"title": "Domein B Algebra en tellen"
 	},
 	{
 		"id": "69b0da3d-9b6c-4d7e-939d-c78760a551a9",
-		"prefix": "C.",
 		"title": "Domein C Verbanden"
 	},
 	{
 		"id": "d4e5a02d-4968-451e-bc79-1e6a53ee2d99",
-		"prefix": "D.",
 		"title": "Domein D Verandering"
 	},
 	{
 		"id": "35676597-5878-445f-8534-c2d71939217b",
-		"prefix": "E.",
 		"title": "Domein E Statistiek en kansrekening"
 	},
 	{
 		"id": "ba63ef7e-46b4-41cc-9636-7e8606941af6",
-		"prefix": "F.",
 		"title": "Domein F Keuzeonderwerpen"
 	},
 	{
@@ -349,27 +313,22 @@
 	},
 	{
 		"id": "17dce749-2613-4770-b592-21b664723e09",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "93ba9074-65de-49b1-bc92-3805c2d8aa75",
-		"prefix": "B.",
 		"title": "Domein B Algebra en tellen"
 	},
 	{
 		"id": "ade7a052-ce40-4bc1-bb83-1a40b258b804",
-		"prefix": "C.",
 		"title": "Domein C Verbanden"
 	},
 	{
 		"id": "e8d97589-ee40-4cbb-88d7-80c739dce221",
-		"prefix": "D.",
 		"title": "Domein D Verandering"
 	},
 	{
 		"id": "335986fa-6232-47d2-91f7-1e31bd6dd3ac",
-		"prefix": "E.",
 		"title": "Domein E Statistiek"
 	},
 	{
@@ -550,37 +509,30 @@
 	},
 	{
 		"id": "fbcdf50e-40b1-445f-a156-29c4b8895b48",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "17875b32-0335-4254-b43f-22a7c02c9971",
-		"prefix": "B.",
 		"title": "Domein B Stoffen en materialen in de chemie"
 	},
 	{
 		"id": "6e72157b-cd50-4041-85cc-d2978069608b",
-		"prefix": "C.",
 		"title": "Domein C Chemische processen en behoudswetten"
 	},
 	{
 		"id": "a4c383b3-6ad9-4c13-a09a-0c852d1dc160",
-		"prefix": "D.",
 		"title": "Domein D Ontwikkelen van chemische kennis"
 	},
 	{
 		"id": "d3778fe2-1708-463c-9069-91b86ab042e8",
-		"prefix": "E.",
 		"title": "Domein E Innovatie en chemisch onderzoek"
 	},
 	{
 		"id": "be429867-5f21-4ea4-a9ed-811badd53cf8",
-		"prefix": "F.",
 		"title": "Domein F Industriële (chemische) processen"
 	},
 	{
 		"id": "28c2c25b-c8c6-44c6-8b81-348c98f48faa",
-		"prefix": "G.",
 		"title": "Domein G Maatschappij, chemie en technologie"
 	},
 	{
@@ -617,37 +569,30 @@
 	},
 	{
 		"id": "5d75edfa-8f81-4a99-8735-3b971d77585e",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "d441055a-5c26-4817-b628-70ccce520ae1",
-		"prefix": "B.",
 		"title": "Domein B Stoffen en materialen"
 	},
 	{
 		"id": "2b58564b-93c8-4aa0-8280-079e800a78e1",
-		"prefix": "C.",
 		"title": "Domein C Kennis van chemische processen en kringlopen"
 	},
 	{
 		"id": "3d8ecad8-cbf4-41af-ba70-718a3e42896c",
-		"prefix": "D.",
 		"title": "Domein D Ontwerpen en experimenten in de chemie"
 	},
 	{
 		"id": "28af97db-22a7-4323-b7ce-730e20747bcb",
-		"prefix": "E.",
 		"title": "Domein E Innovatie ontwikkelingen in de chemie"
 	},
 	{
 		"id": "6b071765-9ce3-4d60-a70f-2052c96585b4",
-		"prefix": "F.",
 		"title": "Domein F Processen in de chemische industrie"
 	},
 	{
 		"id": "0cce513e-09bd-4688-9865-aa782daa2e13",
-		"prefix": "G.",
 		"title": "Domein G Maatschappij en chemische technologie"
 	},
 	{
@@ -696,27 +641,22 @@
 	},
 	{
 		"id": "4d029f75-75e3-4d19-a710-117ba3f34aa9",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "3c39a25f-093b-46b3-9c6a-06a09b4cf9c4",
-		"prefix": "B.",
 		"title": "Domein B Exacte wetenschappen en technologie"
 	},
 	{
 		"id": "d437226d-b3dc-41f0-a7a3-2bac364b63a6",
-		"prefix": "C.",
 		"title": "Domein C Aarde en natuur"
 	},
 	{
 		"id": "e46d7156-d506-422e-b062-297f90e55cce",
-		"prefix": "D.",
 		"title": "Domein D Gezondheid, bescherming en veiligheid"
 	},
 	{
 		"id": "bd128492-c052-4a5c-a124-9693a90271bb",
-		"prefix": "E.",
 		"title": "Domein E Materialen, processen en producten"
 	},
 	{
@@ -725,32 +665,26 @@
 	},
 	{
 		"id": "49647367-b000-4a23-91aa-7840f7c62e8e",
-		"prefix": "A.",
 		"title": "Domein A Leesvaardigheid"
 	},
 	{
 		"id": "d548ef50-f28c-422f-b663-3d00b1f5fc5e",
-		"prefix": "B.",
 		"title": "Domein B Mondelinge taalvaardigheid"
 	},
 	{
 		"id": "1314b349-1e62-4b1d-9253-ddcf89b228c7",
-		"prefix": "C.",
 		"title": "Domein C Schrijfvaardigheid"
 	},
 	{
 		"id": "786afadf-14d4-41c1-93fc-0ac33c730148",
-		"prefix": "D.",
 		"title": "Domein D Argumentatieve vaardigheden"
 	},
 	{
 		"id": "ff17fca7-9514-443f-aa06-30359dbde6ea",
-		"prefix": "E.",
 		"title": "Domein E Literatuur"
 	},
 	{
 		"id": "3d80cac2-dbec-4a3d-8488-293e138154c7",
-		"prefix": "F.",
 		"title": "Domein F Oriëntatie op studie en beroep."
 	},
 	{
@@ -767,47 +701,38 @@
 	},
 	{
 		"id": "112ab8ef-7e9d-4ace-99c3-adcdc0109001",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "78095b05-5ea3-4f73-9179-4e60b7ddfedf",
-		"prefix": "B.",
 		"title": "Domein B Golven"
 	},
 	{
 		"id": "1ddd3b4d-22b7-4543-b20a-64ed60c85daf",
-		"prefix": "C.",
 		"title": "Domein C Beweging en wisselwerking"
 	},
 	{
 		"id": "26b786ca-d814-46be-a8c5-05ebc349c4ec",
-		"prefix": "D.",
 		"title": "Domein D Lading en veld"
 	},
 	{
 		"id": "dc0b5888-741e-413e-978e-cdc2af7ceed0",
-		"prefix": "E.",
 		"title": "Domein E Straling en materie"
 	},
 	{
 		"id": "0c7df26d-ab85-4c69-89bb-e3aedcd0d16f",
-		"prefix": "F.",
 		"title": "Domein F Quantumwereld en relativiteit"
 	},
 	{
 		"id": "2f1193f7-5335-4c25-9055-6fe2be287140",
-		"prefix": "G.",
 		"title": "Domein G  Leven en aarde"
 	},
 	{
 		"id": "83763f90-3fde-4104-b14d-316bfa8f46a5",
-		"prefix": "H.",
 		"title": "Domein H Natuurwetten en modellen"
 	},
 	{
 		"id": "e181c393-a150-489f-b836-dbd31d9c1e68",
-		"prefix": "I.",
 		"title": "Domein I Onderzoek en ontwerp"
 	},
 	{
@@ -892,32 +817,26 @@
 	},
 	{
 		"id": "1c582acf-5036-4013-879b-ab820051d820",
-		"prefix": "A.",
 		"title": "Domein A Leesvaardigheid"
 	},
 	{
 		"id": "33a1e95a-eda6-4693-aa53-fd4619852e07",
-		"prefix": "B.",
 		"title": "Domein B Kijk-en luistervaardigheid"
 	},
 	{
 		"id": "7f4ba992-697c-4fc6-90a3-9d053183651d",
-		"prefix": "C.",
 		"title": "Domein C Gespreksvaardigheid"
 	},
 	{
 		"id": "8c947255-712c-4fbe-ba5e-60d4a4d802e7",
-		"prefix": "D.",
 		"title": "Domein D Schrijfvaardigheid"
 	},
 	{
 		"id": "9efb053f-2ba1-4785-bf36-db8134478bcb",
-		"prefix": "E.",
 		"title": "Domein E Literatuur"
 	},
 	{
 		"id": "3a2b8277-0bb0-4e75-a838-c53155a3b618",
-		"prefix": "F.",
 		"title": "Domein F Oriëntatie op studie en beroep."
 	},
 	{
@@ -1046,37 +965,30 @@
 	},
 	{
 		"id": "f34681fb-82b0-488f-8751-6a430f0c1a13",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "a507bd34-3ea8-4cfa-bcc6-a346e2f60ec7",
-		"prefix": "B.",
 		"title": "Domein B Interne organisatie en personeelsbeleid"
 	},
 	{
 		"id": "17f16639-51c4-4acc-8824-f97d655b12de",
-		"prefix": "C.",
 		"title": "Domein C Financiering van activiteiten"
 	},
 	{
 		"id": "4c5a64dd-19a3-4764-8795-48cab65589c4",
-		"prefix": "D.",
 		"title": "Domein D Marketingbeleid"
 	},
 	{
 		"id": "c8c19dac-1f04-41e9-8d1a-c61d1547eaeb",
-		"prefix": "E.",
 		"title": "Domein E Financieel beleid"
 	},
 	{
 		"id": "2149b824-db19-47e1-b9de-63f86fd999cb",
-		"prefix": "F.",
 		"title": "Domein F Informatievoorziening met behulp van ICT"
 	},
 	{
 		"id": "2d350608-a68d-4cbc-83ee-9cc3576ee04e",
-		"prefix": "G.",
 		"title": "Domein G Externe financiële verslaggeving."
 	},
 	{
@@ -1113,13 +1025,11 @@
 	},
 	{
 		"id": "64429207-fb1d-48c5-b360-00f6ee81f0b7",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2 en B3, C, D en E, in combinatie met domein A. Het College voor Examens stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het College voor Toetsen en Examens maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"prefix": ""
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen B1, B2 en B3, C, D en E, in combinatie met domein A. Het College voor Examens stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. Het College voor Toetsen en Examens maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "d682eaaa-7863-4415-b4a7-404452d7f149",
-		"title": "Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F, en G, in combinatie met domein A en: \n- indien het bevoegd gezag daarvoor kiest: ook een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;\n- indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"prefix": ""
+		"title": "Het schoolexamen heeft betrekking op de (sub)domeinen B4 en B5, F, en G, in combinatie met domein A en: \n- indien het bevoegd gezag daarvoor kiest: ook een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;\n- indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "d3255c6b-8ebe-4728-a067-e39b83409bfa",
@@ -1163,27 +1073,22 @@
 	},
 	{
 		"id": "6796a40d-e746-46b6-9e09-0ff185406ad1",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "4f53435e-5efc-481a-84c5-e3cf8f54255d",
-		"prefix": "B.",
 		"title": "Domein B Rechtsstaat"
 	},
 	{
 		"id": "522d93f5-77a6-4c2a-bb92-805c5269b43f",
-		"prefix": "C.",
 		"title": "Domein C Parlementaire democratie"
 	},
 	{
 		"id": "f14c7fbd-641b-46d1-b358-6aa51e05bba7",
-		"prefix": "D.",
 		"title": "Domein D Verzorgingsstaat"
 	},
 	{
 		"id": "d45645e2-3824-4502-a31c-95571307b4f0",
-		"prefix": "E.",
 		"title": "Domein E Pluriforme samenleving."
 	},
 	{
@@ -1220,27 +1125,22 @@
 	},
 	{
 		"id": "dc0760e2-69a6-4863-b366-ce16b60d4bd9",
-		"prefix": "A.",
 		"title": "Domein A Reflectie op klassieke teksten (subdomein 1) en antieke cultuur (subdomein 2)"
 	},
 	{
 		"id": "f7df462d-fbe5-47a6-b1db-2ee58125665c",
-		"prefix": "B.",
 		"title": "Domein B Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur"
 	},
 	{
 		"id": "7e265811-9275-41d7-967c-bbb264097863",
-		"prefix": "C.",
 		"title": "Domein C Zelfstandige oordeelsvorming"
 	},
 	{
 		"id": "a7fa62aa-eea1-4e5f-a3c4-a8e4ab33ad06",
-		"prefix": "D.",
 		"title": "Domein D Oriëntatie op studie en beroep"
 	},
 	{
 		"id": "1bd74581-6f6f-4687-b3cc-fa8602a181ba",
-		"prefix": "E.",
 		"title": "Domein E Informatievaardigheden"
 	},
 	{
@@ -1633,27 +1533,22 @@
 	},
 	{
 		"id": "a696c993-d057-4e83-844d-854075cbdaf3",
-		"prefix": "A.",
 		"title": "Domein A Reflectie op klassieke teksten (subdomein 1) en antieke cultuur (subdomein 2)"
 	},
 	{
 		"id": "7c4008d8-6417-48f5-96ba-9d58b8ba972d",
-		"prefix": "B.",
 		"title": "Domein B Reflectie op relaties tussen de antieke cultuur en de latere Europese cultuur"
 	},
 	{
 		"id": "b17e4a61-4db0-4203-82e3-dc6489829539",
-		"prefix": "C.",
 		"title": "Domein C Zelfstandige oordeelsvorming"
 	},
 	{
 		"id": "82dd7f24-0806-4ab2-86a3-08e03098dab2",
-		"prefix": "D.",
 		"title": "Domein D Oriëntatie op studie en beroep"
 	},
 	{
 		"id": "eb3a22af-5c52-4b0c-9df3-26107c075885",
-		"prefix": "E.",
 		"title": "Domein E Informatievaardigheden"
 	},
 	{
@@ -1690,27 +1585,22 @@
 	},
 	{
 		"id": "1b76bec8-200c-4643-9201-d9f21a1c8b79",
-		"prefix": "A.",
 		"title": "Domein A Historisch besef"
 	},
 	{
 		"id": "888ce5d9-77ce-49da-923c-272a90387151",
-		"prefix": "B.",
 		"title": "Domein B Oriëntatiekennis"
 	},
 	{
 		"id": "519f5eed-e0fe-4c67-9f4b-5aeae7dd3a00",
-		"prefix": "C.",
 		"title": "Domein C Thema's"
 	},
 	{
 		"id": "d6281ff5-3a3d-4b11-917f-c60dd7c2c9b5",
-		"prefix": "D.",
 		"title": "Domein D Geschiedenis van de rechtsstaat en van de parlementaire democratie"
 	},
 	{
 		"id": "558de25a-60b5-435d-9ea8-7eba8949261e",
-		"prefix": "E.",
 		"title": "Domein E Oriëntatie op studie en beroep."
 	},
 	{
@@ -1739,27 +1629,22 @@
 	},
 	{
 		"id": "86979bd7-7288-4c05-85d5-af76fa6c83e3",
-		"prefix": "A.",
 		"title": "Domein A Historisch besef"
 	},
 	{
 		"id": "afc5206c-a258-4428-b37d-5470dab22373",
-		"prefix": "B.",
 		"title": "Domein B Oriëntatiekennis"
 	},
 	{
 		"id": "eb9171bf-1dba-4673-860f-bf204b725a66",
-		"prefix": "C.",
 		"title": "Domein C Thema's"
 	},
 	{
 		"id": "0982f3b7-4fe3-40db-a42c-2bb6c5cdc31a",
-		"prefix": "D.",
 		"title": "Domein D Geschiedenis van de rechtsstaat en van de parlementaire democratie"
 	},
 	{
 		"id": "9335a7c9-cd34-4bde-8359-bb7ccf689fd7",
-		"prefix": "E.",
 		"title": "Domein E Oriëntatie op studie en beroep."
 	},
 	{
@@ -1788,27 +1673,22 @@
 	},
 	{
 		"id": "67356fb4-d97f-49fa-b863-95246988e535",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "29c24751-3fc1-4435-b5c3-7b6e92995cb5",
-		"prefix": "B.",
 		"title": "Domein B Wijsgerige antropologie"
 	},
 	{
 		"id": "0c341319-d57e-4825-960b-e0bf736645a3",
-		"prefix": "C.",
 		"title": "Domein C Ethiek"
 	},
 	{
 		"id": "65b5f8ca-4a08-4e22-9cc1-c57e08875508",
-		"prefix": "D.",
 		"title": "Domein D Kennisleer"
 	},
 	{
 		"id": "f39492ce-24fe-4425-b4a6-0a1dfaee1e2f",
-		"prefix": "E.",
 		"title": "Domein E Wetenschapsfilosofie"
 	},
 	{
@@ -1845,22 +1725,18 @@
 	},
 	{
 		"id": "fd879f1d-73ff-46b8-a7dd-3a48e6af8c85",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "8534c17f-56d0-4c9b-ac90-0ea942326e45",
-		"prefix": "B.",
 		"title": "Domein B Wijsgerige antropologie"
 	},
 	{
 		"id": "01252902-47f7-49ea-a00e-47bbb3950f63",
-		"prefix": "C.",
 		"title": "Domein C Ethiek"
 	},
 	{
 		"id": "591b2cbf-057d-474f-9f93-afa5c756cf9f",
-		"prefix": "D.",
 		"title": "Domein D Sociale filosofie."
 	},
 	{
@@ -1897,57 +1773,46 @@
 	},
 	{
 		"id": "7f3dd7e0-2e3c-4515-908b-523e172ef38e",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "e632d3ab-de65-4eea-a8d6-9699af795a1f",
-		"prefix": "B.",
 		"title": "Domein B Concept Schaarste"
 	},
 	{
 		"id": "aa6c055b-9803-436f-8665-49d4b446041c",
-		"prefix": "C.",
 		"title": "Domein C Concept Ruil"
 	},
 	{
 		"id": "6dc2c8c6-016c-432e-88e9-26e0bfd94e07",
-		"prefix": "D.",
 		"title": "Domein D Concept Markt"
 	},
 	{
 		"id": "bad3ec31-02dd-4330-9d71-689c95209ec5",
-		"prefix": "E.",
 		"title": "Domein E Concept Ruilen over de tijd"
 	},
 	{
 		"id": "e8fdd175-951a-4863-af95-a352cad22236",
-		"prefix": "F.",
 		"title": "Domein F Concept Samenwerken en onderhandelen"
 	},
 	{
 		"id": "63a30e21-1b9e-405b-af22-4f446c3e3afa",
-		"prefix": "G.",
 		"title": "Domein G Concept Risico en informatie"
 	},
 	{
 		"id": "b46dd670-1def-413f-a18d-2a97dae7686f",
-		"prefix": "H.",
 		"title": "Domein H Concept Welvaart en groei"
 	},
 	{
 		"id": "bb33d754-ffab-4f18-9ed1-b78cc9249844",
-		"prefix": "I.",
 		"title": "Domein I Concept Goede tijden, slechte tijden"
 	},
 	{
 		"id": "c4ff3aa9-586e-4579-9117-3d4e3e2be9aa",
-		"prefix": "J.",
 		"title": "Domein J Onderzoek en experiment"
 	},
 	{
 		"id": "56415be7-b4fe-4483-9b31-f1461201a561",
-		"prefix": "K.",
 		"title": "Domein K Keuzeonderwerpen"
 	},
 	{
@@ -1960,32 +1825,26 @@
 	},
 	{
 		"id": "276bdbc6-327e-4d0e-a1ad-222a0b0aff40",
-		"prefix": "1.",
 		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "ac25fd32-c97e-434f-af78-b455b4c9b758",
-		"prefix": "2.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "410f278c-b0d2-4861-9c0b-fc3ba2331d8b",
-		"prefix": "A.",
 		"title": "Domein A: Verkennen"
 	},
 	{
 		"id": "13904075-bfe5-4bb0-82f3-523bf9bba81b",
-		"prefix": "B.",
 		"title": "Domein B: Verbreden"
 	},
 	{
 		"id": "86c3bd7a-9af6-4f30-8ac6-0457c256467a",
-		"prefix": "C.",
 		"title": "Domein C: Verdiepen"
 	},
 	{
 		"id": "8967cbd3-e849-4b96-9750-0794f02478b7",
-		"prefix": "D.",
 		"title": "Domein D: Verbinden"
 	},
 	{
@@ -1994,22 +1853,18 @@
 	},
 	{
 		"id": "e5566185-fc20-45a9-89e3-d98939500359",
-		"prefix": "A.",
 		"title": "Domein A: Verkennen"
 	},
 	{
 		"id": "0896d33f-cc60-42d8-b75f-865fd220d083",
-		"prefix": "B.",
 		"title": "Domein B: Verbreden"
 	},
 	{
 		"id": "429b2181-0b0c-4312-8909-e17cd2909bdc",
-		"prefix": "C.",
 		"title": "Domein C: Verdiepen"
 	},
 	{
 		"id": "5b47d9ad-7271-4114-be08-470c8049faed",
-		"prefix": "D.",
 		"title": "Domein D: Verbinden"
 	},
 	{
@@ -2022,23 +1877,19 @@
 	},
 	{
 		"id": "c83bf78e-8a81-4763-8a85-ff0a42336aa6",
-		"title": "Het schoolexamen heeft betrekking op:",
-		"ce_se": "SE"
+		"title": "Het schoolexamen heeft betrekking op:"
 	},
 	{
 		"id": "27fb7b82-d9bb-4c2f-b53f-bd31c9f1f5d7",
-		"title": "tenminste alle domeinen van het eindexamen;",
-		"ce_se": "SE"
+		"title": "tenminste alle domeinen van het eindexamen;"
 	},
 	{
 		"id": "75321962-564d-4ba8-b315-6783dfbda208",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "becbabf2-08f7-44f1-b616-f665d5702a0e",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "e80d419f-7bf9-4a45-87d7-8b5ced7b089c",
@@ -2066,27 +1917,22 @@
 	},
 	{
 		"id": "3159c926-54b3-4444-86de-5c61a647a0a3",
-		"prefix": "A.",
 		"title": "Domein A  Vaardigheden"
 	},
 	{
 		"id": "73096910-3757-47c1-bc92-115f820f4be8",
-		"prefix": "B.",
 		"title": "Domein B  Bewegen"
 	},
 	{
 		"id": "b1a9b0c9-6001-4454-9ffa-b13694909455",
-		"prefix": "C.",
 		"title": "Domein C  Bewegen en regelen"
 	},
 	{
 		"id": "ba478c1e-67e7-4a50-9964-b6ab1607cb20",
-		"prefix": "D.",
 		"title": "Domein D  Bewegen en gezondheid"
 	},
 	{
 		"id": "a61b68ba-9813-477f-b9fb-d163b5e12e1c",
-		"prefix": "E.",
 		"title": "Domein E  Bewegen en samenleving"
 	},
 	{
@@ -2099,32 +1945,26 @@
 	},
 	{
 		"id": "097d1dc4-7bc1-440a-a485-72e95566a1a0",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "7a8f77e8-5c4d-41e2-ad1b-249dea81678e",
-		"prefix": "B.",
 		"title": "Domein B Zelfregulatie"
 	},
 	{
 		"id": "9270ee7e-3b9c-4a8b-9761-7dcd14e12c4e",
-		"prefix": "C.",
 		"title": "Domein C Zelforganisatie"
 	},
 	{
 		"id": "4808871f-9a85-451c-94a9-91f24c2d9342",
-		"prefix": "D.",
 		"title": "Domein D Interactie"
 	},
 	{
 		"id": "d2218813-d0cf-456d-b83d-6b0088733d2b",
-		"prefix": "E.",
 		"title": "Domein E Reproductie"
 	},
 	{
 		"id": "6611e198-23c9-423a-922c-5cf6f5f6e927",
-		"prefix": "F.",
 		"title": "Domein F Evolutie"
 	},
 	{
@@ -2149,17 +1989,14 @@
 	},
 	{
 		"id": "22ae0e09-aa55-479e-b91a-deb062270a7a",
-		"prefix": "1.",
 		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "909cb8d0-5ddd-4f04-8b28-f3657afd2d46",
-		"prefix": "2.",
 		"title": "indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "72f3c23b-96ff-45b7-bc17-a13ff16a18fc",
-		"prefix": "3.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen."
 	},
 	{
@@ -2168,32 +2005,26 @@
 	},
 	{
 		"id": "2af8bec2-76e8-43a9-8e6f-e5b775446aa9",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "e0dbe305-f004-4761-9bc8-65fbacc356cc",
-		"prefix": "B.",
 		"title": "Domein B Zelfregulatie"
 	},
 	{
 		"id": "b0d9d344-103c-477c-b9a8-7acd26a869bf",
-		"prefix": "C.",
 		"title": "Domein C Zelforganisatie"
 	},
 	{
 		"id": "092a2ab0-297f-4a43-b9f3-1334dd5026fb",
-		"prefix": "D.",
 		"title": "Domein D Interactie"
 	},
 	{
 		"id": "dbc84649-7eed-4a8a-8893-349b78980af4",
-		"prefix": "E.",
 		"title": "Domein E Reproductie"
 	},
 	{
 		"id": "ea48976e-af41-40a7-b85c-1c2becec6de8",
-		"prefix": "F.",
 		"title": "Domein F Evolutie"
 	},
 	{
@@ -2218,17 +2049,14 @@
 	},
 	{
 		"id": "69fa861d-9275-4923-bc6f-8883da2973df",
-		"prefix": "1.",
 		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "d47fd6f0-c64f-43e0-b374-704e1134904a",
-		"prefix": "2.",
 		"title": "indien het bevoegd gezag daarvoor kiest: een of meerdere domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "c732032a-3f88-44cb-9097-2c6a9267808e",
-		"prefix": "3.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die per kandidaat kunnen verschillen."
 	},
 	{
@@ -2237,42 +2065,34 @@
 	},
 	{
 		"id": "5d707f51-ebfc-446d-bc91-10d1af277d20",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "6406c4d0-5221-4876-894b-a02a4bdeb1e6",
-		"prefix": "B.",
 		"title": "Domein B Van persoon naar rechtspersoon"
 	},
 	{
 		"id": "bfd4162d-220d-403b-857b-4365fe4b4497",
-		"prefix": "C.",
 		"title": "Domein C Interne organisatie en personeelsbeleid"
 	},
 	{
 		"id": "ea795ad9-dfbc-40dd-acc5-4eefd8437946",
-		"prefix": "D.",
 		"title": "Domein D Investeren en financieren"
 	},
 	{
 		"id": "77adee91-94bb-4627-8aa6-5c8201a63b48",
-		"prefix": "E.",
 		"title": "Domein E Marketing"
 	},
 	{
 		"id": "2c59786e-e436-4575-8c18-5e9498fb8bb6",
-		"prefix": "F.",
 		"title": "Domein F Financieel beleid"
 	},
 	{
 		"id": "27bb819c-721e-494e-9551-9a5f4880fcee",
-		"prefix": "G.",
 		"title": "Domein G Verslaggeving"
 	},
 	{
 		"id": "35cb4050-08e0-46b0-b1b6-61892cda91f3",
-		"prefix": "H.",
 		"title": "Domein H Keuze-onderwerpen"
 	},
 	{
@@ -2309,42 +2129,34 @@
 	},
 	{
 		"id": "d4c52cab-c0fd-4478-be9c-efa254fb18f5",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "0781a7e0-f974-4565-98ed-3c13e65aacc5",
-		"prefix": "B.",
 		"title": "Domein B Van persoon naar rechtspersoon"
 	},
 	{
 		"id": "da0ec9d5-ee07-49fd-9be1-3ad3b041d332",
-		"prefix": "C.",
 		"title": "Domein C Interne organisatie en personeelsbeleid"
 	},
 	{
 		"id": "a5450a7f-1dd9-49c6-837a-5aa9f48ca574",
-		"prefix": "D.",
 		"title": "Domein D Investeren en financieren"
 	},
 	{
 		"id": "1f67210d-83af-48ab-8b9d-18e4755b45ab",
-		"prefix": "E.",
 		"title": "Domein E Marketing"
 	},
 	{
 		"id": "541ece3b-2e33-4170-814b-5d4efac8d9a3",
-		"prefix": "F.",
 		"title": "Domein F Financieel beleid"
 	},
 	{
 		"id": "20713e4a-d393-4cfa-a16b-06bb8f504dc5",
-		"prefix": "G.",
 		"title": "Domein G Verslaggeving"
 	},
 	{
 		"id": "ff37a128-f050-4991-a036-55cf96e506b6",
-		"prefix": "H.",
 		"title": "Domein H Keuze-onderwerpen"
 	},
 	{
@@ -2381,32 +2193,26 @@
 	},
 	{
 		"id": "9af37a4e-a6d6-4d8e-ac76-c60fef951cd4",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "18762278-b575-42ae-b9a2-907b85ea7057",
-		"prefix": "B.",
 		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek"
 	},
 	{
 		"id": "d5d6c808-13e6-4043-9bcc-54a5452f3e04",
-		"prefix": "C.",
 		"title": "Domein C Leven"
 	},
 	{
 		"id": "1271a12a-49b6-4ddd-8224-cbb0e4d85313",
-		"prefix": "D.",
 		"title": "Domein D Biosfeer"
 	},
 	{
 		"id": "4c2807f9-c697-4bfc-b588-518966d2833d",
-		"prefix": "E.",
 		"title": "Domein E Materie"
 	},
 	{
 		"id": "681edc7e-a9ac-4be6-9992-789120803fb6",
-		"prefix": "F.",
 		"title": "Domein F Zonnestelsel en heelal."
 	},
 	{
@@ -2423,17 +2229,14 @@
 	},
 	{
 		"id": "4cebac67-d668-41ce-80df-3e24f4c767a9",
-		"prefix": "1.",
 		"title": "de domeinen A en B;"
 	},
 	{
 		"id": "f65c191d-dbd6-4eca-90e2-f16de60597f2",
-		"prefix": "2.",
 		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;"
 	},
 	{
 		"id": "5b7684e7-3605-4732-8e54-d2e8fc99a018",
-		"prefix": "3.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
@@ -2458,47 +2261,38 @@
 	},
 	{
 		"id": "d8297981-e10a-4070-800f-17dae5f7fea0",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden"
 	},
 	{
 		"id": "65a4c556-1489-4ba7-96d1-5b3a643d1f08",
-		"prefix": "B.",
 		"title": "Domein B Wereld"
 	},
 	{
 		"id": "e639cf65-e198-4225-8862-20f72658ea8b",
-		"prefix": "C.",
 		"title": "Domein C Aarde"
 	},
 	{
 		"id": "48d1d74b-9e1d-403b-859a-bc3245f52726",
-		"prefix": "D.",
 		"title": "Domein D Gebieden"
 	},
 	{
 		"id": "a06247dc-b2fd-4c0c-bf9a-21e75ecf9c77",
-		"prefix": "E.",
 		"title": "Domein E Leefomgeving"
 	},
 	{
 		"id": "36e13559-2f6b-42d7-b0e7-f9f2c1858b78",
-		"prefix": "F.",
 		"title": "Domein F Oriëntatie op studie en beroep."
 	},
 	{
 		"id": "6b053d44-e6ad-455e-b33e-169142fa6ece",
-		"prefix": "1.",
 		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B1, C1, D1 en E1."
 	},
 	{
 		"id": "69da53a8-4ca2-472a-abe7-d49746aee6c0",
-		"prefix": "2.",
 		"title": "De CvTE  stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "16956cce-5b65-4e3d-ba66-a3c3a272cbf3",
-		"prefix": "3.",
 		"title": "De CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
@@ -2507,47 +2301,38 @@
 	},
 	{
 		"id": "270b6799-e32d-4d61-a157-951df4809db4",
-		"prefix": "1.",
 		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "e053a227-b2a1-4524-8db7-e5df8de0eed5",
-		"prefix": "2.",
 		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "b531fd20-2edb-412f-9132-23013274e5fe",
-		"prefix": "3.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"id": "31f44d66-0715-491b-9362-68a7b4265b95",
-		"prefix": "1",
 		"title": "Hieronder worden de examenprogramma’s per vak gedefinieerd in exameneenheden met de bijbehorende code. Elke exameneenheid bestaat uit één of meer eindtermen. In de kolommen achter de exameneenheden staat aangegeven door middel van een X voor welke leerweg de exameneenheid deel uitmaakt van het examenprogramma."
 	},
 	{
 		"id": "f718d87c-8e21-4d88-8e36-49db374da446",
-		"prefix": "2",
 		"title": "Het centraal examen voor een vak of programma per leerweg heeft betrekking op die exameneenheden die aangeduid zijn met CE."
 	},
 	{
 		"id": "c9d1facd-d95e-4b05-8ecc-8151e4f3d91f",
-		"prefix": "3",
 		"title": "Het schoolexamen voor een bepaalde leerweg heeft voor de algemeen vormende vakken in ieder geval betrekking op exameneenheid K3 (Leervaardigheden) en voor de beroepsgerichte vakken op exameneenheid K2 (Professionele vaardigheden)."
 	},
 	{
 		"id": "b31349e0-4c38-4292-aa25-dc86415409e7",
-		"prefix": "1.",
 		"title": "ten minste die exameneenheden die deel uitmaken van het examenprogramma van deze leerweg voor zover zij niet deel uitmaken van het centraal examen voor die leerweg;"
 	},
 	{
 		"id": "3e7c227d-5011-40a5-a1a4-ce1d69c27d3f",
-		"prefix": "2.",
 		"title": "indien het bevoegd gezag daarvoor kiest een of meer exameneenheden waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "c99da807-6e03-42fe-9fab-4a36e3aa355a",
-		"prefix": "3.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen die relevant zijn voor het betreffende vak of examenprogramma, die per kandidaat kunnen verschillen."
 	},
 	{
@@ -2576,68 +2361,55 @@
 	},
 	{
 		"id": "ccfaa937-4c31-40d4-99c3-903af076a368",
-		"prefix": "A.",
 		"title": "Domein A: Vaardigheden"
 	},
 	{
 		"id": "2d0f6d0b-c8b3-4fd1-b636-c5e0018d1fec",
-		"prefix": "B.",
 		"title": "Domein B: Wereld"
 	},
 	{
 		"id": "32efb5e5-b740-44b6-9402-03af8fb14ae9",
-		"prefix": "C.",
 		"title": "Domein C: Aarde"
 	},
 	{
 		"id": "5893352c-4f46-42fb-8fbc-488d871efeed",
-		"prefix": "D.",
 		"title": "Domein D: Ontwikkelingsland"
 	},
 	{
 		"id": "b0de510e-3ac2-4cb2-802f-e46f69ef9385",
-		"prefix": "E.",
 		"title": "Domein E: Leefomgeving"
 	},
 	{
 		"id": "e288278e-13ec-4d54-81fb-dcf39114fdfc",
-		"prefix": "F.",
 		"title": "Domeind F: Oriëntatie op studie en beroep"
 	},
 	{
 		"id": "05820552-d56d-41ab-99ac-f4a3d3744c10",
-		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1.",
-		"ce_se": "CE"
+		"title": "Het centraal examen heeft betrekking op de (sub)domeinen A1, B2, C2, D1, E1."
 	},
 	{
 		"id": "e6af7d85-be26-4e53-aeab-03c4859a1adc",
-		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.",
-		"ce_se": "CE"
+		"title": "Het CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast."
 	},
 	{
 		"id": "1a7154f7-1e1c-4e71-b052-6e8d9c0031d3",
-		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen.",
-		"ce_se": "CE"
+		"title": "Het CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen."
 	},
 	{
 		"id": "e6ba7e1f-f3bf-45f5-816d-e3f53a896b1b",
-		"title": "Het schoolexamen heeft betrekking op domein A en:",
-		"ce_se": "SE"
+		"title": "Het schoolexamen heeft betrekking op domein A en:"
 	},
 	{
 		"id": "421a3831-11da-4c89-b566-b236af75d2cd",
-		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;",
-		"ce_se": "SE"
+		"title": "de domeinen en subdomeinen waarop het centraal examen geen betrekking heeft;"
 	},
 	{
 		"id": "e653076d-f71e-457c-ad45-0c6281e5a21b",
-		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: een of meer domeinen of subdomeinen waarop het centraal examen betrekking heeft;"
 	},
 	{
 		"id": "d70e8e03-7e2c-4fae-ba4a-6be2435c6002",
-		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
-		"ce_se": "SE"
+		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen."
 	},
 	{
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
@@ -3441,7 +3213,6 @@
 	},
 	{
 		"id": "57aee692-ee00-4444-983e-b158618a33a3",
-		"prefix": "A.",
 		"title": "Domein A Vaardigheden",
 		"replaces": [
 			"9913999e-6796-4e7a-9fe2-956913286548"
@@ -3449,7 +3220,6 @@
 	},
 	{
 		"id": "cafbd63c-dd5d-4ce6-b32a-b63c0ff79c4d",
-		"prefix": "B.",
 		"title": "Domein B Analyse van en reflectie op natuurwetenschap en techniek",
 		"replaces": [
 			"42864135-d1e7-4d89-9b35-9c7486c120a5"
@@ -3457,7 +3227,6 @@
 	},
 	{
 		"id": "a42eca39-e277-49c0-b1f8-59482211c51a",
-		"prefix": "C.",
 		"title": "Domein C Leven",
 		"replaces": [
 			"182bf0d4-02ec-4d46-b8d0-c0408b33aa02"
@@ -3465,7 +3234,6 @@
 	},
 	{
 		"id": "5f917f8e-9182-42c0-9512-5d373953e713",
-		"prefix": "D.",
 		"title": "Domein D Biosfeer",
 		"replaces": [
 			"39c794d4-164a-4a6c-9a60-06b539fb98d4"
@@ -3473,7 +3241,6 @@
 	},
 	{
 		"id": "93ba3571-23ce-4b34-a7e1-883a2421f033",
-		"prefix": "E.",
 		"title": "Domein E Materie",
 		"replaces": [
 			"ee5aa3b8-3cd4-4e11-a888-4200a1561236"
@@ -3481,7 +3248,6 @@
 	},
 	{
 		"id": "87847e01-87cd-403b-916f-310941d11022",
-		"prefix": "F.",
 		"title": "Domein F Zonnestelsel en heelal.",
 		"replaces": [
 			"e8f364df-6a3d-4a67-89da-485cae44d2d5"
@@ -3489,7 +3255,6 @@
 	},
 	{
 		"id": "174e521f-71c7-4e11-b947-1885de8da407",
-		"prefix": "1.",
 		"title": "de domeinen A en B;",
 		"replaces": [
 			"3278a1c3-a44a-4e5a-801e-10ca2291d366"
@@ -3497,7 +3262,6 @@
 	},
 	{
 		"id": "e1c2e6d7-9e94-45c6-aad5-b34992ad0d44",
-		"prefix": "2.",
 		"title": "uit ten minste drie van de vier overige domeinen tenminste één subdomein;",
 		"replaces": [
 			"6eb1bc75-2611-4aee-a3d3-0e3a38d4554b"
@@ -3505,7 +3269,6 @@
 	},
 	{
 		"id": "6966fb86-e457-44b8-a356-08a6b2e2cb27",
-		"prefix": "3.",
 		"title": "indien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"replaces": [
 			"da6ee1fd-9bcf-404d-bb74-26fc8eb3b16e"

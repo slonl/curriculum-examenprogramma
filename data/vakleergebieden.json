@@ -127,7 +127,6 @@
 	},
 	{
 		"id": "cba68be3-a144-436e-b24e-fbf64169eb6a",
-		"prefix": "LO1",
 		"title": "Lichamelijke opvoeding 1",
 		"vakleergebied_id": [
 			"53b729cd-f9de-4de2-822b-8736225e9406"
@@ -256,16 +255,6 @@
 		]
 	},
 	{
-		"id": "0f0e5c83-88c6-4ebc-90c0-31913e47db85",
-		"title": "Nederlandse taal",
-		"vakleergebied_id": [
-			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
-		],
-		"replaces": [
-			"8515ea0e-23b2-46d1-8fba-dac183f52b0f"
-		]
-	},
-	{
 		"id": "65701c83-286b-4865-91dc-db2848276c33",
 		"title": "Engels",
 		"vakleergebied_id": [
@@ -379,16 +368,6 @@
 	},
 	{
 		"vakleergebied_id": [
-			"1a3a03fd-d468-4e1f-ae5b-94d03c5061ee"
-		],
-		"title": "Arabisch",
-		"id": "26732b8f-b19b-4805-9369-ad2c33048234",
-		"replaces": [
-			"28e0a161-cc77-42d7-8c3f-f41010d1af4f"
-		]
-	},
-	{
-		"vakleergebied_id": [
 			"64dc83c6-d178-4d17-bbae-df6fec239d57"
 		],
 		"title": "Turks",
@@ -426,6 +405,28 @@
 		"replaces": [
 			"999510a3-f8ee-445b-a1e2-807ee9b2ccac",
 			"98572b3b-052f-4df0-ba49-e14aee04f944"
+		]
+	},
+	{
+		"id": "d9047575-0a19-452b-859a-55b54a3e0705",
+		"title": "Nederlandse taal",
+		"vakleergebied_id": [
+			"1cce8cb7-acac-4b69-8765-85ed0c63ea38"
+		],
+		"replaces": [
+			"8515ea0e-23b2-46d1-8fba-dac183f52b0f",
+			"0f0e5c83-88c6-4ebc-90c0-31913e47db85"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"479f67ad-ec21-41ff-bd73-902d300468d0"
+		],
+		"title": "Arabisch",
+		"id": "5dc9aa1d-0e1a-4da2-831f-129709da8daf",
+		"replaces": [
+			"28e0a161-cc77-42d7-8c3f-f41010d1af4f",
+			"26732b8f-b19b-4805-9369-ad2c33048234"
 		]
 	}
 ]
