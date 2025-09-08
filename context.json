@@ -154,18 +154,6 @@
 							}
 						}
 					]
-				},
-				"tag_id": {
-					"allOf": [
-						{
-							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
-						},
-						{
-							"items": {
-								"itemTypeReference": "#/definitions/tag"
-							}
-						}
-					]
 				}
 			},
 			"anyOf": [
@@ -196,18 +184,6 @@
 						{
 							"items": {
 								"itemTypeReference": "#/definitions/examenprogramma_body"
-							}
-						}
-					]
-				},
-				"tag_id": {
-					"allOf": [
-						{
-							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
-						},
-						{
-							"items": {
-								"itemTypeReference": "#/definitions/tag"
 							}
 						}
 					]
@@ -244,18 +220,6 @@
 							}
 						}
 					]
-				},
-				"tag_id": {
-					"allOf": [
-						{
-							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
-						},
-						{
-							"items": {
-								"itemTypeReference": "#/definitions/tag"
-							}
-						}
-					]
 				}
 			},
 			"anyOf": [
@@ -277,38 +241,12 @@
 							}
 						}
 					]
-				},
-				"tag_id": {
-					"allOf": [
-						{
-							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
-						},
-						{
-							"items": {
-								"itemTypeReference": "#/definitions/tag"
-							}
-						}
-					]
 				}
 			},
 			"required":["id","title","examenprogramma_body_id"]
 		},
 		"examenprogramma_body": {
 			"allOf": [ { "$ref":"https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
-			"properties": {
-				"tag_id": {
-					"allOf": [
-						{
-							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
-						},
-						{
-							"items": {
-								"itemTypeReference": "#/definitions/tag"
-							}
-						}
-					]
-				}
-			},
 			"required":["id","title"]
 		},
 		"allEntities" : {
