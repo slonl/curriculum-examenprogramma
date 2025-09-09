@@ -584,8 +584,7 @@
 		"title": "Het schoolexamen",
 		"examenprogramma_body_id": [
 			"d682eaaa-7863-4415-b4a7-404452d7f149"
-		],
-		"prefix": ""
+		]
 	},
 	{
 		"id": "202a7bb7-b4a6-4bf8-a0a2-af361471ef2f",
@@ -973,8 +972,7 @@
 		"title": "Het eindexamen bestaat uit het centraal examen en het schoolexamen.",
 		"examenprogramma_kop2_id": [
 			"6cc03d55-903f-4d39-9228-469d6d61933d"
-		],
-		"prefix": "GTC/0/0"
+		]
 	},
 	{
 		"id": "bca3b4d7-f33f-453b-8cde-373831319366",
@@ -1176,8 +1174,7 @@
 			"27fb7b82-d9bb-4c2f-b53f-bd31c9f1f5d7",
 			"75321962-564d-4ba8-b315-6783dfbda208",
 			"becbabf2-08f7-44f1-b616-f665d5702a0e"
-		],
-		"ce_se": "SE"
+		]
 	},
 	{
 		"id": "7e5654b7-eb0c-467a-816a-30af15369b7e",
@@ -1389,7 +1386,6 @@
 	},
 	{
 		"id": "279d4d59-e33a-4495-886d-be73fddc25a7",
-		"prefix": "3.",
 		"title": "Aardrijkskunde vmbo",
 		"examenprogramma_body_id": [
 			"4f20804e-482d-42e2-ad53-8da246fea20e",
@@ -1415,8 +1411,7 @@
 			"05820552-d56d-41ab-99ac-f4a3d3744c10",
 			"e6af7d85-be26-4e53-aeab-03c4859a1adc",
 			"1a7154f7-1e1c-4e71-b052-6e8d9c0031d3"
-		],
-		"ce_se": "CE"
+		]
 	},
 	{
 		"id": "a9234709-b275-4179-a40b-2c376f6f2f67",
@@ -1426,8 +1421,7 @@
 			"421a3831-11da-4c89-b566-b236af75d2cd",
 			"e653076d-f71e-457c-ad45-0c6281e5a21b",
 			"d70e8e03-7e2c-4fae-ba4a-6be2435c6002"
-		],
-		"ce_se": "SE"
+		]
 	},
 	{
 		"examenprogramma_kop2_id": [
@@ -1881,7 +1875,6 @@
 		"examenprogramma_body_id": [
 			"64429207-fb1d-48c5-b360-00f6ee81f0b7"
 		],
-		"prefix": "",
 		"replaces": [
 			"085ccc9d-0a4f-463a-aad2-eff11c3054d7"
 		]
