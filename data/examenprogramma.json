@@ -429,54 +429,6 @@
 		]
 	},
 	{
-		"examenprogramma_domein_id": [
-			"2b0431f1-542d-4844-916a-27fd10ac92b1",
-			"e03c1fb5-775d-427a-b201-b076da123161",
-			"446a2fd7-d482-43ec-bf33-c58455ec0242",
-			"d6bb51b9-fed4-420d-827d-9b355d199296",
-			"ba7d76b8-481f-4a7c-9751-c24fbd0717ed",
-			"77043c42-2941-4ecf-9e83-b66258f36301"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Italiaans vwo",
-		"id": "bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd",
-		"prefix": "MVT/IT/V",
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"829f7bcc-a082-4121-9b63-4b0041056181",
-			"cf6551bb-6605-421e-aeff-f6520f74f04b",
-			"16aa1581-0b24-4d91-9374-4179e7f4479b",
-			"282aff49-57d1-4e40-83ac-5d4858c44324",
-			"2296b252-410c-4344-8484-ec543b46570d",
-			"570352c8-86d8-4d8a-9270-052b71ee8f99"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
-		],
-		"examenprogramma_kop1_id": [
-			"7da9dfd2-68d4-41fd-b643-9e948c9c862f",
-			"565e3318-3520-499b-8bac-5ea6895d0df9"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Italiaans havo",
-		"id": "4271e75e-53f5-4a60-932e-9f7719b0971b",
-		"prefix": "MVT/IT/H",
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		]
-	},
-	{
 		"prefix": "LO/V",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
@@ -611,36 +563,6 @@
 		],
 		"replaces": [
 			"6cbb98e3-a020-4623-816d-89673d10793b"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"02232950-2959-4d7d-abbc-9f184ee4d942",
-			"e8122264-36d8-40b1-a308-9ac482a2fd34",
-			"9d872d61-9359-4e92-9603-9058f302bab3",
-			"f9b5a701-7813-4d60-a13e-081147bfd1d2",
-			"c141fd49-3a9a-4c19-95be-767a5ddcf44d",
-			"6fde8d81-7361-4e15-ad42-aea23e0f6c28"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
-		],
-		"examenprogramma_kop1_id": [
-			"c9918c29-b9b8-4603-a092-873a9ba152f4",
-			"6da4be09-0525-4313-bf56-a02540543e16",
-			"9960247a-0070-4a72-be69-47f7189e5a89"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Spaans havo",
-		"id": "02370357-c94e-4b52-a261-b659a82f5700",
-		"prefix": "MVT/SP/H",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"replaces": [
-			"129ba6cd-7884-4fbb-9b4f-7abbec127976"
 		]
 	},
 	{
@@ -1430,126 +1352,6 @@
 	},
 	{
 		"examenprogramma_domein_id": [
-			"126cbc57-b3a8-4e3c-a2f5-f4d295430761",
-			"b66ab7a1-085c-4554-ab57-020eb56cf8ab",
-			"011868f8-9c73-4156-8b81-7b6181bafc79",
-			"7b543eb0-e2e6-479f-bc06-97ae397852b8",
-			"c2a479d5-b18d-4423-9343-71ae519bda61",
-			"825dd3a5-beff-4d90-8c5f-e6aa55ec9ff7"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
-		],
-		"examenprogramma_kop1_id": [
-			"94eb621b-74a3-4c61-9ae8-1f7310d0024c",
-			"17daf55b-089f-497e-8266-4b17008a0a13",
-			"192588c9-6cd8-4f92-b7cf-5654931fcbb4"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Duits vwo",
-		"id": "f69eb17a-edd0-4ca5-8061-ff2037db0686",
-		"prefix": "MVT/DUI/V",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"replaces": [
-			"b318368e-baad-4b5c-b146-bdb589e44beb"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"e6bb1c1e-a0e9-41a1-8d29-aeb0dad6db41",
-			"2ad4a35c-98c2-4b06-9f26-fe9084aab61e",
-			"ab797438-1f02-481e-a922-23ce0e57a07e",
-			"5a6b52af-49f6-4b9d-82ca-cdba3630bff2",
-			"bb5250a9-7ddb-46df-9309-ea96a5e68878",
-			"14d79f53-a3cd-4deb-8be3-8002bc21d647"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
-		],
-		"examenprogramma_kop1_id": [
-			"e4197fdd-db94-4501-bbd4-e81b5209f5a4",
-			"54281513-d91e-4481-9623-cd420f68e854",
-			"24f89f2a-2ace-4680-861d-a546890c5d11"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Frans havo",
-		"id": "467b67bf-1333-42c5-94f7-e0db714ff6f6",
-		"prefix": "MVT/FA/H",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"replaces": [
-			"a416c3ab-01cb-492d-8cbf-ba2f9154bc84"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"37f75482-647e-438f-ac0d-3f10de767dc4",
-			"7dd363e3-badd-414c-92e9-35286f4b53fa",
-			"89adbef5-04bf-44d1-bf4a-1fb9e7fd7a76",
-			"611d5a11-4735-47c3-b93d-05819924b21a",
-			"950ca93d-e46b-4b33-b31d-b94065a08917",
-			"437b4a6d-d22b-4214-b14b-0ecb6d4fe7a4"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
-		],
-		"examenprogramma_kop1_id": [
-			"b1ce5a5c-8a52-49df-821f-d5e99b52e245",
-			"846be9cf-9877-49f5-82a7-126a5b64cfb7",
-			"5f414f5e-4f5b-4a5c-b279-75301fe9798b"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Frans vwo",
-		"id": "de5f51ea-581f-45b4-90d0-d95a0d474433",
-		"prefix": "MVT/FA/V",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"replaces": [
-			"11600baa-9848-4403-8fbd-a552a4b4fee8"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"01108939-0541-4d52-9b25-f45d9c4ceea2",
-			"a4d6924f-7e23-40ef-986c-662c3e1f53fe",
-			"69c7b6c0-c0bf-4508-a472-c071753b198a",
-			"49fec174-cdb8-4180-afa9-99e40eba860c",
-			"8cb19cd4-9a48-49a7-9f73-e49f4d6d94ae",
-			"ec09b254-a8bc-437d-ae26-67308e6dc600"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
-		],
-		"examenprogramma_kop1_id": [
-			"41458445-81df-49dd-af1d-b53a1bbc1424",
-			"d83e21f0-ca9c-47eb-9cc0-238929f25747",
-			"6ef0953d-8e97-472d-b099-e885fdfec1a3"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Duits havo",
-		"id": "533d6054-2a6f-46fc-86c9-eded2d404e95",
-		"prefix": "MVT/DUI/H",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"replaces": [
-			"e89be7de-fc4c-450c-9cda-5ca1b24ae813"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
 			"3c9462d9-9fe6-47c9-aab3-cf21ce5e1ffe",
 			"bcb804db-903a-4322-9f88-57b3c50bfce8",
 			"7be77171-9013-486b-ba8e-f9bbac974b17",
@@ -1760,36 +1562,6 @@
 		]
 	},
 	{
-		"examenprogramma_domein_id": [
-			"e81baf66-52e4-4e3f-ab3b-bb417e575a67",
-			"253c8f58-e895-449c-8977-f9408b0dcb19",
-			"05c4afe7-e4d6-4f1b-88a2-ef989e8c95cc",
-			"cbbce95b-5c83-4652-9312-e820c2732e93",
-			"bd36ecdb-ca71-4475-b162-1bd6b6ce5bf8",
-			"0122ef1b-7674-4d0a-8a06-e934170f6e9a"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
-		],
-		"examenprogramma_kop1_id": [
-			"e128745d-d05e-403a-a191-12f716298846",
-			"bb6fdfa4-7c7e-4bd1-8f09-eeb26f4afd54",
-			"3ca78aca-6857-49bf-b401-85ef494d74f4"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Spaans vwo",
-		"id": "648e65fd-96ef-4e1a-834c-302a93ce6445",
-		"prefix": "MVT/SP/V",
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"replaces": [
-			"cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f"
-		]
-	},
-	{
 		"prefix": "KUA/havo",
 		"id": "dcd73927-4903-440d-8d7f-a0e06454cf69",
 		"title": "Examenprogramma Kunst (algemeen) havo",
@@ -1929,68 +1701,6 @@
 		"replaces": [
 			"0d872678-c7ed-4cf2-b8eb-96580d330dfa",
 			"afbb154b-87f6-43f6-83a7-f77e527b9ede"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"d9aace06-c7ca-409d-b8d6-4d61d66711ee",
-			"5b13307a-5d3a-4be6-8db1-757ade8e90f3",
-			"7ee1dcdf-3ba2-4aee-981b-029df8dc880f",
-			"ab03df83-98de-4d58-8269-d65a9bb43e4f",
-			"db786019-0499-4b75-9b65-aae13c56cf8a",
-			"0e1b17c4-3aad-4a3d-9f2d-39564c94b64d"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"57ffd396-6bee-4868-b2be-f0304c29ef89"
-		],
-		"examenprogramma_kop1_id": [
-			"e3dd88f5-422f-40e8-8aef-1ed803766a31",
-			"ebd76550-99a2-4594-a3ec-0e95f641edfa",
-			"c7003a2a-ecbb-4cfc-940d-cf5c05a3a322"
-		],
-		"title": "Examenprogramma Friese taal en cultuur vwo",
-		"id": "cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6",
-		"prefix": "FR/vwo",
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
-		"versie": "",
-		"niveau_id": [
-			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
-		],
-		"replaces": [
-			"f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc",
-			"0f445c0f-6897-4c07-a8be-4af4d4743a40"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"09c796f0-7570-44cf-8a91-4cbc789eae4e",
-			"18f03ee1-f4a9-45ae-ba49-c3f27c862262",
-			"e81d8def-a784-4e4c-b1e5-3e1b599cb87b",
-			"a91788a1-186c-4afb-8e79-78e3e263d531",
-			"4d1c9890-54ff-413d-8268-f68c035678b0",
-			"670c0386-dd39-44b6-ab8d-dac59fa729bc"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"57ffd396-6bee-4868-b2be-f0304c29ef89"
-		],
-		"examenprogramma_kop1_id": [
-			"ea91640a-ecdd-4921-9d2e-ee45b214a43d",
-			"d97f2f8f-8ea9-41ec-bef1-cdfcc69e7c73",
-			"a1700271-8174-4637-a2b9-e5f729d8d9d4"
-		],
-		"title": "Examenprogramma Friese taal en cultuur havo",
-		"id": "4ade58a3-4ce3-423d-bcf7-4d031dc8763b",
-		"prefix": "FR/havo",
-		"niveau_id": [
-			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
-		],
-		"ingangsdatum": "",
-		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
-		"versie": "",
-		"replaces": [
-			"c247ec44-bebe-42e3-8b65-5722389a3add",
-			"43c690b5-2667-4bd8-a77f-c0cafba01af9"
 		]
 	},
 	{
@@ -2590,80 +2300,6 @@
 		]
 	},
 	{
-		"prefix": "FA/vmbo",
-		"id": "0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63",
-		"title": "Examenprogramma Moderne vreemde talen Frans vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
-		],
-		"examenprogramma_domein_id": [
-			"a73805a0-3505-44e9-8ecf-2da4b126f740",
-			"fb138f99-786a-45a1-96d3-ef8d8a555b53",
-			"2e145a4b-4b48-4d74-884a-ccaffaa144f1",
-			"9827d61d-9881-4647-943c-aaf3ef656984",
-			"cb988a40-fa45-490d-98d0-a6570abdbad2",
-			"57d25632-0540-4f54-a042-b50de3dfdecf",
-			"771b122d-41f4-4187-a46c-028b83fb4e16",
-			"4feb2ade-0c18-4770-9967-60c1c1aa54ed",
-			"4f18fdc5-4112-4f87-a807-8a5ef640bafd",
-			"51c14fc6-b37c-438a-aa82-b5749de0d350",
-			"fa244614-70a3-4e69-bc25-5a2917874c0a",
-			"311b43bd-3f0b-48e8-ab27-209f8d15e704"
-		],
-		"url": "https://www.examenblad.nl/examenstof/frans-vmbo/2020/f=/frans.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"replaces": [
-			"803fe798-4884-4e69-94b9-fc0364989e95"
-		]
-	},
-	{
-		"prefix": "DU/vmbo",
-		"id": "dee5d094-e5b1-4194-b28a-403a67e5e022",
-		"title": "Examenprogramma Moderne vreemde talen Duits vmbo",
-		"examenprogramma_vakleergebied_id": [
-			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
-		],
-		"examenprogramma_domein_id": [
-			"a73805a0-3505-44e9-8ecf-2da4b126f740",
-			"40175655-d16a-4128-b424-05b278bbb010",
-			"dbbb3a43-5edc-486b-991d-d099f24dd1c7",
-			"78501b14-b391-4043-9c0d-bef12c65fb1d",
-			"e2542a9c-03af-4883-959c-0e542b38bf4d",
-			"4322e3ec-ba62-4323-9925-ac8181fc5ba5",
-			"c55dab70-4d07-407d-949e-edcee029d480",
-			"bf5c5a71-ab83-4d35-9992-d84c9b27b19a",
-			"36599d9c-6038-412a-8936-a5ac2b5eafab",
-			"3f6726da-c6ec-49cb-acb3-16e2ebc3d0b4",
-			"e8333a86-f783-4980-9f70-3691a36be7a1",
-			"b6bfcb54-66c6-4a7d-856e-d2dda8b46913"
-		],
-		"url": "https://www.examenblad.nl/examenstof/duits-vmbo/2020/f=/duits.pdf",
-		"ingangsdatum": "",
-		"versie": "2020",
-		"examenprogramma_kop1_id": [
-			"177dee42-5a35-436c-8060-70084aba4958"
-		],
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"replaces": [
-			"2e58a2e2-3332-4cd4-a39d-9205f36a50db"
-		]
-	},
-	{
 		"prefix": "NASK1/vmbo",
 		"id": "d3f71a4a-bf9a-4ba9-8b3d-06db677f001d",
 		"title": "Examenprogramma Natuur- en scheikunde I vmbo",
@@ -2857,40 +2493,6 @@
 		"replaces": [
 			"d10201e5-a936-45cb-b8a8-36f576d78b77",
 			"57f3047b-dd0a-4f36-9877-d050aef50835"
-		]
-	},
-	{
-		"examenprogramma_domein_id": [
-			"1e1c230c-a8c9-417c-b169-30e8cbea17f1",
-			"2435d263-6129-484c-979f-dec4cdbce2ee",
-			"0eadc684-2502-4039-9786-ac965be3e902",
-			"9a6a34a0-f728-4233-92d9-881a6e1b239e",
-			"31ab751a-13c5-4ab7-b233-d414e8b77f57",
-			"99e1139c-ddaf-4838-aa74-3591e6dd2d5a",
-			"a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9",
-			"bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf",
-			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
-			"7d2a47b8-11c1-408d-bbcf-22a86bee7710",
-			"a73805a0-3505-44e9-8ecf-2da4b126f740"
-		],
-		"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
-		"id": "6974b666-1a32-4acb-aa62-ae13fc73145a",
-		"prefix": "SP/vmbo",
-		"niveau_id": [
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8450c011-f812-4f89-97a9-6b8820baffc5"
-		],
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"examenprogramma_vakleergebied_id": [
-			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
-		],
-		"replaces": [
-			"787ab014-814b-436d-bd51-faa7ddf8eea4",
-			"053d8c12-a648-4c32-a941-f4626c57f624"
 		]
 	},
 	{
@@ -3185,40 +2787,6 @@
 		]
 	},
 	{
-		"examenprogramma_domein_id": [
-			"7ccc6da8-4180-4e2b-9862-5aafe529bf76",
-			"9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
-			"c66bc5d7-91ef-4523-9bb6-0ff92a2f144f",
-			"94039a4e-5d4c-49ab-88fc-c1e13e20c155",
-			"298936d8-aa70-4062-8a65-ab1f741b11c7",
-			"ec7591b6-2197-403a-b8d5-5170950c3000",
-			"a1fc7fd5-3582-4ca0-ac98-eb4336a62bf8",
-			"23c0855d-3dd0-4c78-9cb5-06ab9bf4429e",
-			"c7e025ea-99ca-46e8-bf95-4add49f50c91",
-			"9453f0c2-8599-4a81-a073-8d9325d19049",
-			"a73805a0-3505-44e9-8ecf-2da4b126f740"
-		],
-		"examenprogramma_vakleergebied_id": [
-			"57ffd396-6bee-4868-b2be-f0304c29ef89"
-		],
-		"title": "Examenprogramma Friese taal en cultuur vmbo",
-		"id": "f8600316-fcfb-4357-8e2d-4b707f0ff9c6",
-		"prefix": "FR/vmbo",
-		"ingangsdatum": "",
-		"url": "",
-		"versie": "",
-		"niveau_id": [
-			"8450c011-f812-4f89-97a9-6b8820baffc5",
-			"64852857-b601-419f-9cbb-e1335a185303",
-			"8574855d-0670-42bf-9f73-dc6706278b8b",
-			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
-		],
-		"replaces": [
-			"b15aa61b-37e4-4454-b510-fe358565faa3",
-			"4fe2443f-ed9d-40f9-90c1-d58511f617db"
-		]
-	},
-	{
 		"prefix": "GS/vmbo",
 		"id": "fa44372f-c748-4ad3-94a2-267811b057cd",
 		"title": "Examenprogramma Geschiedenis en staatsinrichting vmbo",
@@ -3307,6 +2875,456 @@
 			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
 			"64852857-b601-419f-9cbb-e1335a185303",
 			"8574855d-0670-42bf-9f73-dc6706278b8b"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"2b0431f1-542d-4844-916a-27fd10ac92b1",
+			"e03c1fb5-775d-427a-b201-b076da123161",
+			"446a2fd7-d482-43ec-bf33-c58455ec0242",
+			"d6bb51b9-fed4-420d-827d-9b355d199296",
+			"ba7d76b8-481f-4a7c-9751-c24fbd0717ed",
+			"77043c42-2941-4ecf-9e83-b66258f36301"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"e17d45c4-62f8-42b6-8761-514c5d0c960c"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Italiaans vwo",
+		"id": "40e01772-cd60-4d1d-8df5-95ab601281f1",
+		"prefix": "MVT/IT/V",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"bc4ed5cd-2d4d-4067-991c-8bc6f9b89ddd"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"829f7bcc-a082-4121-9b63-4b0041056181",
+			"cf6551bb-6605-421e-aeff-f6520f74f04b",
+			"16aa1581-0b24-4d91-9374-4179e7f4479b",
+			"282aff49-57d1-4e40-83ac-5d4858c44324",
+			"2296b252-410c-4344-8484-ec543b46570d",
+			"570352c8-86d8-4d8a-9270-052b71ee8f99"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"e17d45c4-62f8-42b6-8761-514c5d0c960c"
+		],
+		"examenprogramma_kop1_id": [
+			"7da9dfd2-68d4-41fd-b643-9e948c9c862f",
+			"565e3318-3520-499b-8bac-5ea6895d0df9"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Italiaans havo",
+		"id": "3e21f1ad-2640-4a44-b2f8-0406b44cd920",
+		"prefix": "MVT/IT/H",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"replaces": [
+			"4271e75e-53f5-4a60-932e-9f7719b0971b"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"02232950-2959-4d7d-abbc-9f184ee4d942",
+			"e8122264-36d8-40b1-a308-9ac482a2fd34",
+			"9d872d61-9359-4e92-9603-9058f302bab3",
+			"f9b5a701-7813-4d60-a13e-081147bfd1d2",
+			"c141fd49-3a9a-4c19-95be-767a5ddcf44d",
+			"6fde8d81-7361-4e15-ad42-aea23e0f6c28"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"02380438-9f37-42c3-923e-c7c57121d05d"
+		],
+		"examenprogramma_kop1_id": [
+			"c9918c29-b9b8-4603-a092-873a9ba152f4",
+			"6da4be09-0525-4313-bf56-a02540543e16",
+			"9960247a-0070-4a72-be69-47f7189e5a89"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Spaans havo",
+		"id": "36e9b1b2-5014-4eef-817a-215208e924a0",
+		"prefix": "MVT/SP/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"129ba6cd-7884-4fbb-9b4f-7abbec127976",
+			"02370357-c94e-4b52-a261-b659a82f5700"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"126cbc57-b3a8-4e3c-a2f5-f4d295430761",
+			"b66ab7a1-085c-4554-ab57-020eb56cf8ab",
+			"011868f8-9c73-4156-8b81-7b6181bafc79",
+			"7b543eb0-e2e6-479f-bc06-97ae397852b8",
+			"c2a479d5-b18d-4423-9343-71ae519bda61",
+			"825dd3a5-beff-4d90-8c5f-e6aa55ec9ff7"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"57845722-6231-4616-944a-115a75d67676"
+		],
+		"examenprogramma_kop1_id": [
+			"94eb621b-74a3-4c61-9ae8-1f7310d0024c",
+			"17daf55b-089f-497e-8266-4b17008a0a13",
+			"192588c9-6cd8-4f92-b7cf-5654931fcbb4"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Duits vwo",
+		"id": "89f05835-6a6f-4573-9f02-e3ed22c43450",
+		"prefix": "MVT/DUI/V",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"b318368e-baad-4b5c-b146-bdb589e44beb",
+			"f69eb17a-edd0-4ca5-8061-ff2037db0686"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"e6bb1c1e-a0e9-41a1-8d29-aeb0dad6db41",
+			"2ad4a35c-98c2-4b06-9f26-fe9084aab61e",
+			"ab797438-1f02-481e-a922-23ce0e57a07e",
+			"5a6b52af-49f6-4b9d-82ca-cdba3630bff2",
+			"bb5250a9-7ddb-46df-9309-ea96a5e68878",
+			"14d79f53-a3cd-4deb-8be3-8002bc21d647"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"ed8058bb-db23-405c-9f7d-423d053385e8"
+		],
+		"examenprogramma_kop1_id": [
+			"e4197fdd-db94-4501-bbd4-e81b5209f5a4",
+			"54281513-d91e-4481-9623-cd420f68e854",
+			"24f89f2a-2ace-4680-861d-a546890c5d11"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Frans havo",
+		"id": "2685ba67-e350-4ec0-a8de-b478f4ff4be1",
+		"prefix": "MVT/FA/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"a416c3ab-01cb-492d-8cbf-ba2f9154bc84",
+			"467b67bf-1333-42c5-94f7-e0db714ff6f6"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"37f75482-647e-438f-ac0d-3f10de767dc4",
+			"7dd363e3-badd-414c-92e9-35286f4b53fa",
+			"89adbef5-04bf-44d1-bf4a-1fb9e7fd7a76",
+			"611d5a11-4735-47c3-b93d-05819924b21a",
+			"950ca93d-e46b-4b33-b31d-b94065a08917",
+			"437b4a6d-d22b-4214-b14b-0ecb6d4fe7a4"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"ed8058bb-db23-405c-9f7d-423d053385e8"
+		],
+		"examenprogramma_kop1_id": [
+			"b1ce5a5c-8a52-49df-821f-d5e99b52e245",
+			"846be9cf-9877-49f5-82a7-126a5b64cfb7",
+			"5f414f5e-4f5b-4a5c-b279-75301fe9798b"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Frans vwo",
+		"id": "5ca4ac43-e0d6-4833-ae5f-4f66fe58695a",
+		"prefix": "MVT/FA/V",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"11600baa-9848-4403-8fbd-a552a4b4fee8",
+			"de5f51ea-581f-45b4-90d0-d95a0d474433"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"01108939-0541-4d52-9b25-f45d9c4ceea2",
+			"a4d6924f-7e23-40ef-986c-662c3e1f53fe",
+			"69c7b6c0-c0bf-4508-a472-c071753b198a",
+			"49fec174-cdb8-4180-afa9-99e40eba860c",
+			"8cb19cd4-9a48-49a7-9f73-e49f4d6d94ae",
+			"ec09b254-a8bc-437d-ae26-67308e6dc600"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"57845722-6231-4616-944a-115a75d67676"
+		],
+		"examenprogramma_kop1_id": [
+			"41458445-81df-49dd-af1d-b53a1bbc1424",
+			"d83e21f0-ca9c-47eb-9cc0-238929f25747",
+			"6ef0953d-8e97-472d-b099-e885fdfec1a3"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Duits havo",
+		"id": "55275952-cd15-4143-a846-ff7e7519426a",
+		"prefix": "MVT/DUI/H",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"replaces": [
+			"e89be7de-fc4c-450c-9cda-5ca1b24ae813",
+			"533d6054-2a6f-46fc-86c9-eded2d404e95"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"e81baf66-52e4-4e3f-ab3b-bb417e575a67",
+			"253c8f58-e895-449c-8977-f9408b0dcb19",
+			"05c4afe7-e4d6-4f1b-88a2-ef989e8c95cc",
+			"cbbce95b-5c83-4652-9312-e820c2732e93",
+			"bd36ecdb-ca71-4475-b162-1bd6b6ce5bf8",
+			"0122ef1b-7674-4d0a-8a06-e934170f6e9a"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"02380438-9f37-42c3-923e-c7c57121d05d"
+		],
+		"examenprogramma_kop1_id": [
+			"e128745d-d05e-403a-a191-12f716298846",
+			"bb6fdfa4-7c7e-4bd1-8f09-eeb26f4afd54",
+			"3ca78aca-6857-49bf-b401-85ef494d74f4"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Spaans vwo",
+		"id": "be765577-c765-46bd-ad95-053662d44a77",
+		"prefix": "MVT/SP/V",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"cbdfe0ed-e71d-4f5c-a683-7f22e214cc0f",
+			"648e65fd-96ef-4e1a-834c-302a93ce6445"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"d9aace06-c7ca-409d-b8d6-4d61d66711ee",
+			"5b13307a-5d3a-4be6-8db1-757ade8e90f3",
+			"7ee1dcdf-3ba2-4aee-981b-029df8dc880f",
+			"ab03df83-98de-4d58-8269-d65a9bb43e4f",
+			"db786019-0499-4b75-9b65-aae13c56cf8a",
+			"0e1b17c4-3aad-4a3d-9f2d-39564c94b64d"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"44c3b359-09ff-4402-a06e-0d7e7a180cd0"
+		],
+		"examenprogramma_kop1_id": [
+			"e3dd88f5-422f-40e8-8aef-1ed803766a31",
+			"ebd76550-99a2-4594-a3ec-0e95f641edfa",
+			"c7003a2a-ecbb-4cfc-940d-cf5c05a3a322"
+		],
+		"title": "Examenprogramma Friese taal en cultuur vwo",
+		"id": "7c5c3a07-769d-4247-a2bd-b8347e3addeb",
+		"prefix": "FR/vwo",
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
+		"versie": "",
+		"niveau_id": [
+			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
+		],
+		"replaces": [
+			"f3bf0cce-255d-4a69-bf9a-3cb8dbd87bbc",
+			"0f445c0f-6897-4c07-a8be-4af4d4743a40",
+			"cc618cd0-6b5d-4caf-8ea1-6d3394bf1eb6"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"09c796f0-7570-44cf-8a91-4cbc789eae4e",
+			"18f03ee1-f4a9-45ae-ba49-c3f27c862262",
+			"e81d8def-a784-4e4c-b1e5-3e1b599cb87b",
+			"a91788a1-186c-4afb-8e79-78e3e263d531",
+			"4d1c9890-54ff-413d-8268-f68c035678b0",
+			"670c0386-dd39-44b6-ab8d-dac59fa729bc"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"44c3b359-09ff-4402-a06e-0d7e7a180cd0"
+		],
+		"examenprogramma_kop1_id": [
+			"ea91640a-ecdd-4921-9d2e-ee45b214a43d",
+			"d97f2f8f-8ea9-41ec-bef1-cdfcc69e7c73",
+			"a1700271-8174-4637-a2b9-e5f729d8d9d4"
+		],
+		"title": "Examenprogramma Friese taal en cultuur havo",
+		"id": "c739ba31-de04-454c-ba1b-2d47f3f16bc3",
+		"prefix": "FR/havo",
+		"niveau_id": [
+			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
+		],
+		"ingangsdatum": "",
+		"url": "https://www.examenblad.nl/examenstof/fries-havo/2021/f=/fries_havovwo.pdf",
+		"versie": "",
+		"replaces": [
+			"c247ec44-bebe-42e3-8b65-5722389a3add",
+			"43c690b5-2667-4bd8-a77f-c0cafba01af9",
+			"4ade58a3-4ce3-423d-bcf7-4d031dc8763b"
+		]
+	},
+	{
+		"prefix": "FA/vmbo",
+		"id": "7aca65df-a65c-409e-b529-ecd5b46c20ff",
+		"title": "Examenprogramma Moderne vreemde talen Frans vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"ed8058bb-db23-405c-9f7d-423d053385e8"
+		],
+		"examenprogramma_domein_id": [
+			"a73805a0-3505-44e9-8ecf-2da4b126f740",
+			"fb138f99-786a-45a1-96d3-ef8d8a555b53",
+			"2e145a4b-4b48-4d74-884a-ccaffaa144f1",
+			"9827d61d-9881-4647-943c-aaf3ef656984",
+			"cb988a40-fa45-490d-98d0-a6570abdbad2",
+			"57d25632-0540-4f54-a042-b50de3dfdecf",
+			"771b122d-41f4-4187-a46c-028b83fb4e16",
+			"4feb2ade-0c18-4770-9967-60c1c1aa54ed",
+			"4f18fdc5-4112-4f87-a807-8a5ef640bafd",
+			"51c14fc6-b37c-438a-aa82-b5749de0d350",
+			"fa244614-70a3-4e69-bc25-5a2917874c0a",
+			"311b43bd-3f0b-48e8-ab27-209f8d15e704"
+		],
+		"url": "https://www.examenblad.nl/examenstof/frans-vmbo/2020/f=/frans.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"803fe798-4884-4e69-94b9-fc0364989e95",
+			"0a99b4d0-7dd6-4cca-a7de-b1d8b7d0ed63"
+		]
+	},
+	{
+		"prefix": "DU/vmbo",
+		"id": "a8ded13d-804a-4833-9c47-99130b228d98",
+		"title": "Examenprogramma Moderne vreemde talen Duits vmbo",
+		"examenprogramma_vakleergebied_id": [
+			"57845722-6231-4616-944a-115a75d67676"
+		],
+		"examenprogramma_domein_id": [
+			"a73805a0-3505-44e9-8ecf-2da4b126f740",
+			"40175655-d16a-4128-b424-05b278bbb010",
+			"dbbb3a43-5edc-486b-991d-d099f24dd1c7",
+			"78501b14-b391-4043-9c0d-bef12c65fb1d",
+			"e2542a9c-03af-4883-959c-0e542b38bf4d",
+			"4322e3ec-ba62-4323-9925-ac8181fc5ba5",
+			"c55dab70-4d07-407d-949e-edcee029d480",
+			"bf5c5a71-ab83-4d35-9992-d84c9b27b19a",
+			"36599d9c-6038-412a-8936-a5ac2b5eafab",
+			"3f6726da-c6ec-49cb-acb3-16e2ebc3d0b4",
+			"e8333a86-f783-4980-9f70-3691a36be7a1",
+			"b6bfcb54-66c6-4a7d-856e-d2dda8b46913"
+		],
+		"url": "https://www.examenblad.nl/examenstof/duits-vmbo/2020/f=/duits.pdf",
+		"ingangsdatum": "",
+		"versie": "2020",
+		"examenprogramma_kop1_id": [
+			"177dee42-5a35-436c-8060-70084aba4958"
+		],
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"replaces": [
+			"2e58a2e2-3332-4cd4-a39d-9205f36a50db",
+			"dee5d094-e5b1-4194-b28a-403a67e5e022"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"1e1c230c-a8c9-417c-b169-30e8cbea17f1",
+			"2435d263-6129-484c-979f-dec4cdbce2ee",
+			"0eadc684-2502-4039-9786-ac965be3e902",
+			"9a6a34a0-f728-4233-92d9-881a6e1b239e",
+			"31ab751a-13c5-4ab7-b233-d414e8b77f57",
+			"99e1139c-ddaf-4838-aa74-3591e6dd2d5a",
+			"a6f3cc74-d53b-4bb5-9e31-2c4e648a84c9",
+			"bd4e89e2-f1ed-49ba-b11d-12e0cb5f92bf",
+			"59e1f732-f0fa-449c-b976-5a92d2890ce7",
+			"7d2a47b8-11c1-408d-bbcf-22a86bee7710",
+			"a73805a0-3505-44e9-8ecf-2da4b126f740"
+		],
+		"title": "Examenprogramma Moderne vreemde talen Spaans vmbo",
+		"id": "8e40ff36-7aff-45c3-b40e-9d8bba3f4c06",
+		"prefix": "SP/vmbo",
+		"niveau_id": [
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8450c011-f812-4f89-97a9-6b8820baffc5"
+		],
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"examenprogramma_vakleergebied_id": [
+			"02380438-9f37-42c3-923e-c7c57121d05d"
+		],
+		"replaces": [
+			"787ab014-814b-436d-bd51-faa7ddf8eea4",
+			"053d8c12-a648-4c32-a941-f4626c57f624",
+			"6974b666-1a32-4acb-aa62-ae13fc73145a"
+		]
+	},
+	{
+		"examenprogramma_domein_id": [
+			"7ccc6da8-4180-4e2b-9862-5aafe529bf76",
+			"9c122e63-3be0-4618-a5d8-1c29d1ef37d9",
+			"c66bc5d7-91ef-4523-9bb6-0ff92a2f144f",
+			"94039a4e-5d4c-49ab-88fc-c1e13e20c155",
+			"298936d8-aa70-4062-8a65-ab1f741b11c7",
+			"ec7591b6-2197-403a-b8d5-5170950c3000",
+			"a1fc7fd5-3582-4ca0-ac98-eb4336a62bf8",
+			"23c0855d-3dd0-4c78-9cb5-06ab9bf4429e",
+			"c7e025ea-99ca-46e8-bf95-4add49f50c91",
+			"9453f0c2-8599-4a81-a073-8d9325d19049",
+			"a73805a0-3505-44e9-8ecf-2da4b126f740"
+		],
+		"examenprogramma_vakleergebied_id": [
+			"44c3b359-09ff-4402-a06e-0d7e7a180cd0"
+		],
+		"title": "Examenprogramma Friese taal en cultuur vmbo",
+		"id": "fbcef7a0-9e99-44fe-8154-7cf55f431513",
+		"prefix": "FR/vmbo",
+		"ingangsdatum": "",
+		"url": "",
+		"versie": "",
+		"niveau_id": [
+			"8450c011-f812-4f89-97a9-6b8820baffc5",
+			"64852857-b601-419f-9cbb-e1335a185303",
+			"8574855d-0670-42bf-9f73-dc6706278b8b",
+			"861d98e4-e5ae-4ed7-89f6-f224605f7c97"
+		],
+		"replaces": [
+			"b15aa61b-37e4-4454-b510-fe358565faa3",
+			"4fe2443f-ed9d-40f9-90c1-d58511f617db",
+			"f8600316-fcfb-4357-8e2d-4b707f0ff9c6"
 		]
 	}
 ]

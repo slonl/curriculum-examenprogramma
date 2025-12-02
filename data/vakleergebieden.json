@@ -70,20 +70,6 @@
 		]
 	},
 	{
-		"id": "aa11f7d4-0bab-4960-9b45-ccf9a74836a6",
-		"title": "Duits",
-		"vakleergebied_id": [
-			"91e9afb9-a8ab-4fde-aa97-9884a8920b78"
-		]
-	},
-	{
-		"id": "f0f07756-73fc-40d9-9f8e-eb450d337ea1",
-		"title": "Frans",
-		"vakleergebied_id": [
-			"f851676e-b541-42db-986a-5c468974f65e"
-		]
-	},
-	{
 		"id": "851fb2e0-b42a-4291-9ff4-669987b35d8e",
 		"title": "Maatschappijwetenschappen",
 		"vakleergebied_id": [
@@ -275,21 +261,6 @@
 		]
 	},
 	{
-		"id": "eff6a806-869a-46e5-8f32-e0e4db6e906c",
-		"title": "Spaans",
-		"description": "",
-		"vakleergebied_id": [
-			"73abc618-988a-4409-b2ae-ff16febf68ee"
-		]
-	},
-	{
-		"vakleergebied_id": [
-			"d1797e77-8eb0-4ebd-83f7-f95c7f46fcd7"
-		],
-		"title": "Italiaans",
-		"id": "a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
-	},
-	{
 		"id": "341672a5-f515-4825-8b21-4f65df027e2f",
 		"title": "Grieks",
 		"vakleergebied_id": [
@@ -358,16 +329,6 @@
 	},
 	{
 		"vakleergebied_id": [
-			"6e29642b-d99d-4085-8dc5-971cabb6b693"
-		],
-		"title": "Friese taal",
-		"id": "57ffd396-6bee-4868-b2be-f0304c29ef89",
-		"replaces": [
-			"180c82c1-6805-4bc3-811e-e102e8ed7835"
-		]
-	},
-	{
-		"vakleergebied_id": [
 			"b00a8f97-7d10-41a8-9b84-4e8e82591bfc"
 		],
 		"title": "Russisch",
@@ -425,6 +386,58 @@
 		"replaces": [
 			"999510a3-f8ee-445b-a1e2-807ee9b2ccac",
 			"98572b3b-052f-4df0-ba49-e14aee04f944"
+		]
+	},
+	{
+		"id": "57845722-6231-4616-944a-115a75d67676",
+		"title": "Duits",
+		"vakleergebied_id": [
+			"5071f7ff-2a5b-4a5f-85ff-519bacbbdc63"
+		],
+		"replaces": [
+			"aa11f7d4-0bab-4960-9b45-ccf9a74836a6"
+		]
+	},
+	{
+		"id": "ed8058bb-db23-405c-9f7d-423d053385e8",
+		"title": "Frans",
+		"vakleergebied_id": [
+			"cc10a2e8-d7d2-47a2-a6c6-90791632f005"
+		],
+		"replaces": [
+			"f0f07756-73fc-40d9-9f8e-eb450d337ea1"
+		]
+	},
+	{
+		"id": "02380438-9f37-42c3-923e-c7c57121d05d",
+		"title": "Spaans",
+		"description": "",
+		"vakleergebied_id": [
+			"fc1b48ea-a138-4288-b02c-a49da30182aa"
+		],
+		"replaces": [
+			"eff6a806-869a-46e5-8f32-e0e4db6e906c"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"5dbebaf2-809d-43ea-b65f-a3d1f67bb31c"
+		],
+		"title": "Italiaans",
+		"id": "e17d45c4-62f8-42b6-8761-514c5d0c960c",
+		"replaces": [
+			"a83f740a-5cf6-4d3d-b19b-65af5cb79c3c"
+		]
+	},
+	{
+		"vakleergebied_id": [
+			"7970397c-0fd4-45ac-a6ef-4a2c4a66901d"
+		],
+		"title": "Friese taal",
+		"id": "44c3b359-09ff-4402-a06e-0d7e7a180cd0",
+		"replaces": [
+			"180c82c1-6805-4bc3-811e-e102e8ed7835",
+			"57ffd396-6bee-4868-b2be-f0304c29ef89"
 		]
 	}
 ]
