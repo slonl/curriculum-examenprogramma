@@ -1236,7 +1236,7 @@
 	{
 		"prefix": "MU/vwo",
 		"id": "8357bdd9-0b3d-43af-8969-de2494b666c4",
-		"title": "Examenprogramma Muziek  vwo",
+		"title": "Examenprogramma Muziek vwo",
 		"examenprogramma_vakleergebied_id": [
 			"26c91003-dc09-4910-8d1b-411a18d10e2b"
 		],
@@ -1264,7 +1264,7 @@
 	{
 		"prefix": "MU/havo",
 		"id": "f59bb1af-0eae-4b6f-8fc2-ddfcb5dc3294",
-		"title": "Examenprogramma Muziek  havo",
+		"title": "Examenprogramma Muziek havo",
 		"examenprogramma_vakleergebied_id": [
 			"26c91003-dc09-4910-8d1b-411a18d10e2b"
 		],

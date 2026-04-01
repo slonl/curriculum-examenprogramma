@@ -1828,7 +1828,7 @@
 	{
 		"prefix": "MAW/H/DomeinE/E3",
 		"id": "eff5ca33-8888-42f0-a700-26cdfaa43d73",
-		"title": "Subdomein E3:  Effecten van veranderingen binnen een specifieke context",
+		"title": "Subdomein E3: Effecten van veranderingen binnen een specifieke context",
 		"examenprogramma_eindterm_id": [
 			"27b752da-51c8-41c8-a47a-60885786e919"
 		],
@@ -1856,7 +1856,7 @@
 	{
 		"prefix": "MAW/H/DomeinF/F2",
 		"id": "a67888a2-d531-47a4-a053-2f4485edc51f",
-		"title": "Subdomein F2:  Selectie van hoofd- en kernconcepten toepassen op een actualiteit",
+		"title": "Subdomein F2: Selectie van hoofd- en kernconcepten toepassen op een actualiteit",
 		"examenprogramma_eindterm_id": [
 			"2cb80c06-5288-4c6b-841e-7f7008d57576"
 		],
@@ -1865,7 +1865,7 @@
 	{
 		"prefix": "MAW/H/DomeinG/G1",
 		"id": "70ec04fe-a9d6-456f-ac87-424525f8635b",
-		"title": "Subdomein G1:  Politieke en sociale participatie",
+		"title": "Subdomein G1: Politieke en sociale participatie",
 		"examenprogramma_eindterm_id": [
 			"de15c5b5-1f31-4eeb-b3ee-990d040db831",
 			"2ff40549-5200-4604-bcf5-7dd2208cdca8"
@@ -1875,7 +1875,7 @@
 	{
 		"prefix": "MAW/H/DomeinG/G2",
 		"id": "34922df9-1038-46ae-b876-5c7791d19370",
-		"title": "Subdomein G2:  Het belang van verkiezingen",
+		"title": "Subdomein G2: Het belang van verkiezingen",
 		"examenprogramma_eindterm_id": [
 			"8afca2f7-cca1-4748-84f8-2abfba77c7b5"
 		],
@@ -1884,7 +1884,7 @@
 	{
 		"prefix": "MAW/H/DomeinG/G3",
 		"id": "7de317c0-b73f-40c2-8479-461a0f241016",
-		"title": "Subdomein G3:  Verkiezingen in Nederland en in een ander land",
+		"title": "Subdomein G3: Verkiezingen in Nederland en in een ander land",
 		"examenprogramma_eindterm_id": [
 			"7f87b303-766d-48a9-86e4-64f203ef982c",
 			"e54a677c-f75d-4b4f-ae43-02010dd25d3a"
@@ -2685,7 +2685,7 @@
 	{
 		"prefix": "KUA/V/DomeinB/B6",
 		"id": "c8acf1b8-088e-436c-8f6d-5fc7f1fe6d68",
-		"title": "Subdomein B6: Kunst  intercultureel",
+		"title": "Subdomein B6: Kunst intercultureel",
 		"examenprogramma_eindterm_id": [
 			"48c1a8ea-f196-45ff-ac71-bb941f7b6181"
 		],
@@ -2739,7 +2739,7 @@
 	{
 		"prefix": "KUA/H/DomeinB/B6",
 		"id": "1a44af4f-df93-4c3c-a2f6-ab159cc333f5",
-		"title": "Subdomein B6: Kunst  intercultureel",
+		"title": "Subdomein B6: Kunst intercultureel",
 		"examenprogramma_eindterm_id": [
 			"ecf528e4-c833-4832-95d5-80ad587bc960"
 		],
@@ -6364,7 +6364,7 @@
 		"se": 1
 	},
 	{
-		"title": "Subdomein F2:  Selectie van hoofd- en kernconcepten toepassen op een actualiteit",
+		"title": "Subdomein F2: Selectie van hoofd- en kernconcepten toepassen op een actualiteit",
 		"id": "299b2cc2-91da-4bba-82c4-3d49bf42b8eb",
 		"examenprogramma_eindterm_id": [
 			"a0f42da9-bf31-4dd8-b11b-aec95bb29d97"
@@ -8791,7 +8791,7 @@
 	{
 		"prefix": "MAW/H/DomeinB/B4",
 		"id": "aa268ae5-6bc5-4a26-90be-1bf005e6188c",
-		"title": "Subdomein B4:  Overheidsbeleid en standpunten van politieke partijen",
+		"title": "Subdomein B4: Overheidsbeleid en standpunten van politieke partijen",
 		"examenprogramma_eindterm_id": [
 			"fe18a2be-c6ef-452a-a1b4-5e4dd28c209d",
 			"2a67a2e7-b806-4f44-bb1a-96ae6ef7fe7a"
@@ -8867,7 +8867,7 @@
 	{
 		"prefix": "MAW/H/DomeinC/C6",
 		"id": "23dcc13f-bec0-40ea-8271-900cbb3cc208",
-		"title": "Subdomein C6:  Overheidsbeleid en standpunten van de politieke partijen",
+		"title": "Subdomein C6: Overheidsbeleid en standpunten van de politieke partijen",
 		"examenprogramma_eindterm_id": [
 			"a4ffd7ca-6b31-4f41-885e-b6f267fac857"
 		],

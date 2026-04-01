@@ -591,7 +591,7 @@
 	},
 	{
 		"id": "89b85b56-90ab-4c3b-9d4d-c8a18dbb2baa",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer:  de sociaal-culturele benaderingswijze.",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: de sociaal-culturele benaderingswijze.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -1080,7 +1080,7 @@
 	},
 	{
 		"id": "56e69f31-21d9-441f-9d11-2895c90b8a0f",
-		"title": "Subdomein B4:  Internationale betrekkingen",
+		"title": "Subdomein B4: Internationale betrekkingen",
 		"examenprogramma_eindterm_id": [
 			"5fdb7287-3487-4ebc-83ee-392809b8775d"
 		],
@@ -1295,7 +1295,7 @@
 	},
 	{
 		"id": "cfff0210-7843-46d5-8278-967559cd89e3",
-		"title": "Subdomein F2:  De rechtsstaat",
+		"title": "Subdomein F2: De rechtsstaat",
 		"examenprogramma_eindterm_id": [
 			"5ca2242c-3433-434f-b554-2a143a631a6f"
 		],
@@ -1419,7 +1419,7 @@
 	},
 	{
 		"id": "a16d38c3-c5f9-457d-9786-7bcbafabcb1f",
-		"title": "Domein C:  Massamedia",
+		"title": "Domein C: Massamedia",
 		"examenprogramma_subdomein_id": [
 			"7a9bd011-97e0-44c1-88cd-5689d894e0a3",
 			"ea50f734-eae6-45da-ae3c-182fcf33f767",
@@ -2286,7 +2286,7 @@
 	{
 		"prefix": "MU/havo",
 		"id": "dab2a174-419b-45e6-912f-974fb4db4f06",
-		"title": "Examenprogramma muziek  havo",
+		"title": "Examenprogramma muziek havo",
 		"examenprogramma_vakleergebied_id": [
 			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
@@ -2554,7 +2554,7 @@
 	},
 	{
 		"id": "69276734-24e0-46c4-84dd-75c25b8e68ac",
-		"title": "Domein E:  Mens en werk",
+		"title": "Domein E: Mens en werk",
 		"replacedBy": [],
 		"types": [
 			"examenprogramma_body"
@@ -3011,7 +3011,7 @@
 		]
 	},
 	{
-		"title": "de domeinen E (behalve het gecursiveerde deel) en F,  en ten minste twee domeinen uit de domeinen B, C, D, en E (het gecursiveerde deel);\nindien het bevoegd gezag daarvoor kiest: het domein A, waarop het centraal examen betrekking heeft;\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"title": "de domeinen E (behalve het gecursiveerde deel) en F, en ten minste twee domeinen uit de domeinen B, C, D, en E (het gecursiveerde deel);\nindien het bevoegd gezag daarvoor kiest: het domein A, waarop het centraal examen betrekking heeft;\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "0bb83bb2-90c0-4678-ae3c-b8bdd951e2c8",
 		"replacedBy": [],
 		"types": [
@@ -3075,7 +3075,7 @@
 		]
 	},
 	{
-		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast. \nDe CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen",
+		"title": "De CvTE stelt het aantal en de tijdsduur van de zittingen van het centraal examen vast.\nDe CvTE maakt indien nodig een specificatie bekend van de examenstof van het centraal examen",
 		"id": "26142f06-4dc5-4595-8146-2dd3477958e5",
 		"replacedBy": [],
 		"types": [
@@ -3091,7 +3091,7 @@
 		]
 	},
 	{
-		"title": "de domeinen E (behalve het gecursiveerde deel) en F,  en ten minste twee domeinen uit de domeinen B, C, D, en E (het gecursiveerde deel);\nindien het bevoegd gezag daarvoor kiest: het domein A, waarop het centraal examen betrekking heeft;\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
+		"title": "de domeinen E (behalve het gecursiveerde deel) en F, en ten minste twee domeinen uit de domeinen B, C, D, en E (het gecursiveerde deel);\nindien het bevoegd gezag daarvoor kiest: het domein A, waarop het centraal examen betrekking heeft;\nindien het bevoegd gezag daarvoor kiest: andere vakonderdelen, die per kandidaat kunnen verschillen.",
 		"id": "87623f01-fec9-4b96-aea1-5c0040f6000f",
 		"replacedBy": [],
 		"types": [
@@ -5402,7 +5402,7 @@
 	{
 		"prefix": "MU/vwo",
 		"id": "9c7ce10d-f8bb-4726-9387-078466916b43",
-		"title": "Examenprogramma muziek  vwo",
+		"title": "Examenprogramma muziek vwo",
 		"examenprogramma_vakleergebied_id": [
 			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
@@ -5579,7 +5579,7 @@
 	{
 		"prefix": "MU/havo",
 		"id": "8dc6a212-3df6-4a46-8c95-008890be0807",
-		"title": "Examenprogramma muziek  havo",
+		"title": "Examenprogramma muziek havo",
 		"examenprogramma_vakleergebied_id": [
 			"999510a3-f8ee-445b-a1e2-807ee9b2ccac"
 		],
@@ -12393,7 +12393,7 @@
 	{
 		"prefix": "AK/H/DomeinA/A1/1a",
 		"id": "1cc802a0-93e4-4e46-b3c6-6577ba055046",
-		"title": "De kandidaat kan de geografische benadering adequaat hanteren,  geografische informatie selecteren, verwerken en weergeven.",
+		"title": "De kandidaat kan de geografische benadering adequaat hanteren, geografische informatie selecteren, verwerken en weergeven.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -12453,7 +12453,7 @@
 	{
 		"prefix": "AK/H/DomeinB/B2/4b",
 		"id": "54bf972b-fb44-4f5e-ae7b-f37845522ded",
-		"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld  het proces van mondialisering beschrijven, herkennen en in hoofdlijnen verklaren.",
+		"title": "De kandidaat kan ten aanzien van samenhangen en verschillen in de wereld het proces van mondialisering beschrijven, herkennen en in hoofdlijnen verklaren.",
 		"niveau_id": [
 			"6dc8e1f2-a929-418f-b4e5-6be1204639da"
 		],
@@ -15651,7 +15651,7 @@
 	{
 		"prefix": "MU/vwo",
 		"id": "39557c3d-328c-4bf3-913e-b5e17edc5249",
-		"title": "Examenprogramma Muziek  vwo",
+		"title": "Examenprogramma Muziek vwo",
 		"examenprogramma_vakleergebied_id": [
 			"98572b3b-052f-4df0-ba49-e14aee04f944"
 		],
@@ -15725,7 +15725,7 @@
 	{
 		"prefix": "MU/havo",
 		"id": "ebb3d82f-5f70-4d80-9a66-561f154458de",
-		"title": "Examenprogramma Muziek  havo",
+		"title": "Examenprogramma Muziek havo",
 		"examenprogramma_vakleergebied_id": [
 			"98572b3b-052f-4df0-ba49-e14aee04f944"
 		],
@@ -18086,7 +18086,7 @@
 	{
 		"prefix": "MAW/H/DomeinB/B4",
 		"id": "ee20a5b3-5afd-430a-9c44-c7504ab93038",
-		"title": "Subdomein B4:  Overheidsbeleid en standpunten van politieke partijen",
+		"title": "Subdomein B4: Overheidsbeleid en standpunten van politieke partijen",
 		"examenprogramma_eindterm_id": [
 			"f8b9b6cf-16a3-4a6b-af8e-49ad1f7a318b",
 			"2a67a2e7-b806-4f44-bb1a-96ae6ef7fe7a"
@@ -18180,7 +18180,7 @@
 	{
 		"prefix": "MAW/H/DomeinC/C6",
 		"id": "f43ca5d5-6182-47fd-9bc3-587d040284c6",
-		"title": "Subdomein C6:  Overheidsbeleid en standpunten van de politieke partijen",
+		"title": "Subdomein C6: Overheidsbeleid en standpunten van de politieke partijen",
 		"examenprogramma_eindterm_id": [
 			"765b2b2c-217d-409a-9899-4d73ffefbe64"
 		],
@@ -21947,7 +21947,7 @@
 	{
 		"prefix": "MAW/H/DomeinC",
 		"id": "b0226c22-2a22-4468-abe7-98c5a97b66ad",
-		"title": "Domein C:  Verhouding (binnen een specifieke context)",
+		"title": "Domein C: Verhouding (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
 			"3551ed9a-97d6-4846-9713-237ebb7d294f",
 			"9ec9311c-a64a-4be9-a8d0-e323b35ab9ec",
@@ -22444,7 +22444,7 @@
 	{
 		"prefix": "MAW/V/DomeinC",
 		"id": "33cc0542-0dee-4dac-b29e-671c0468182b",
-		"title": "Domein C:  Verhoudingen (binnen een specifieke context)",
+		"title": "Domein C: Verhoudingen (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
 			"ddb05787-75e1-4f3c-9c6f-e2256feaad57",
 			"2fac3170-22d3-4e7c-8b19-493b064e4cdd",
@@ -23354,7 +23354,7 @@
 	},
 	{
 		"id": "b034c19c-fd46-4dc3-9176-c3b5ab04c6b1",
-		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer:  de veranderings- en vergelijkende benaderingswijze.",
+		"title": "De kandidaat kan concrete maatschappelijke vraagstukken en ontwikkelingen analyseren en daarbij gebruikmaken van de benaderingswijzen van maatschappijleer: de veranderings- en vergelijkende benaderingswijze.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
@@ -23553,7 +23553,7 @@
 	{
 		"id": "d142d234-9309-47c9-8412-b0907d270a3a",
 		"prefix": "31.",
-		"title": "De kandidaat kan  het verschil tussen exponentiële en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
+		"title": "De kandidaat kan het verschil tussen exponentiële en polynomiale complexiteit uitleggen, kan algoritmen op basis hiervan onderscheiden, en kan klassieke ‘moeilijke’ problemen herkennen en benoemen.",
 		"niveau_id": [
 			"caf5e806-cdb6-4d62-a5ed-0c3c1ff3e0bb"
 		],
