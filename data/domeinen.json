@@ -116,7 +116,7 @@
 		]
 	},
 	{
-		"prefix": "WI/D/V/DomeinB ",
+		"prefix": "WI/D/V/DomeinB",
 		"id": "532621b9-c573-44bc-985f-957375c03d18",
 		"title": "Domein B: Kansrekening en statistiek",
 		"examenprogramma_subdomein_id": [
@@ -413,7 +413,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/V/DomeinB ",
+		"prefix": "NLT/V/DomeinB",
 		"id": "437d1f15-bcb4-4d96-83d5-82fd7c0d6e2e",
 		"title": "Domein B: Exacte wetenschappen en technologie",
 		"examenprogramma_subdomein_id": [
@@ -433,7 +433,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/V/DomeinD ",
+		"prefix": "NLT/V/DomeinD",
 		"id": "8185cf10-c6e7-4fb6-a67b-5ec8eb7c6d5f",
 		"title": "Domein D: Gezondheid en veiligheid",
 		"examenprogramma_subdomein_id": [
@@ -443,7 +443,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/V/DomeinE ",
+		"prefix": "NLT/V/DomeinE",
 		"id": "8e41d2e8-6efb-4f52-9e5d-e06fd58dbb0e",
 		"title": "Domein E: Technologische ontwikkeling",
 		"examenprogramma_subdomein_id": [
@@ -453,7 +453,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/V/DomeinF ",
+		"prefix": "NLT/V/DomeinF",
 		"id": "6cb812c0-0901-478d-917b-baf346f50c1c",
 		"title": "Domein F: Fundamenten van natuurwetenschap en technologie",
 		"examenprogramma_subdomein_id": [
@@ -463,7 +463,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/H/DomeinA ",
+		"prefix": "NLT/H/DomeinA",
 		"id": "3ba08ff9-ddef-40b7-8f64-c2550918236b",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -484,7 +484,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/H/DomeinB ",
+		"prefix": "NLT/H/DomeinB",
 		"id": "5183d6a6-c836-4660-bf14-6a5e45d13a86",
 		"title": "Domein B: Exacte wetenschappen en technologie",
 		"examenprogramma_subdomein_id": [
@@ -494,7 +494,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/H/DomeinC ",
+		"prefix": "NLT/H/DomeinC",
 		"id": "15567b55-ca61-4682-9b44-f8318024a823",
 		"title": "Domein C: Aarde en natuur",
 		"examenprogramma_eindterm_id": [
@@ -503,7 +503,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/H/DomeinD ",
+		"prefix": "NLT/H/DomeinD",
 		"id": "420cc0c2-978a-4b27-bec7-62803d9b7128",
 		"title": "Domein D: Gezondheid, bescherming en veiligheid",
 		"examenprogramma_eindterm_id": [
@@ -512,7 +512,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "NLT/H/DomeinE ",
+		"prefix": "NLT/H/DomeinE",
 		"id": "7f2cd3b7-8a3d-4c07-9ce9-af5ed865a55c",
 		"title": "Domein E: Materialen, processen en producten",
 		"examenprogramma_subdomein_id": [
@@ -1046,7 +1046,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "MVT/EN/H/DomeinB ",
+		"prefix": "MVT/EN/H/DomeinB",
 		"id": "ad934e12-3b81-4157-8ccc-58f2a8be6a10",
 		"title": "Domein B: Kijk- en luistervaardigheid",
 		"examenprogramma_eindterm_id": [
@@ -1060,7 +1060,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "MVT/EN/H/DomeinC ",
+		"prefix": "MVT/EN/H/DomeinC",
 		"id": "f6d0da70-f3f4-4165-b700-3cc5bc1bb1cd",
 		"title": "Domein C: Gespreksvaardigheid",
 		"examenprogramma_subdomein_id": [
@@ -1070,7 +1070,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "MVT/EN/H/DomeinD ",
+		"prefix": "MVT/EN/H/DomeinD",
 		"id": "7c4c3a29-6c9c-451e-98c3-a78e397a2ac0",
 		"title": "Domein D: Schrijfvaardigheid",
 		"examenprogramma_subdomein_id": [
@@ -1080,7 +1080,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "MVT/EN/H/DomeinE ",
+		"prefix": "MVT/EN/H/DomeinE",
 		"id": "512b82ad-475d-48ad-898c-e0a8dd095e69",
 		"title": "Domein E: Literatuur",
 		"examenprogramma_subdomein_id": [
@@ -1107,7 +1107,7 @@
 		]
 	},
 	{
-		"prefix": "MU/V/DomeinC ",
+		"prefix": "MU/V/DomeinC",
 		"id": "e5911a6f-59e7-4d31-8343-d1f6e656405f",
 		"title": "Domein C: Oriëntatie op studie en beroep",
 		"examenprogramma_eindterm_id": [
@@ -1995,7 +1995,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "LTC/V/DomeinC ",
+		"prefix": "LTC/V/DomeinC",
 		"id": "b33a9c85-6806-446d-abdd-1a352df0c4ef",
 		"title": "Domein C: Zelfstandige oordeelsvorming",
 		"examenprogramma_eindterm_id": [
@@ -2006,7 +2006,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "LTC/V/DomeinD ",
+		"prefix": "LTC/V/DomeinD",
 		"id": "6885edcd-8b77-42e3-aa04-5be35acf4d8f",
 		"title": "Domein D: Oriëntatie op studie en beroep",
 		"examenprogramma_eindterm_id": [
@@ -2837,7 +2837,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "GTC/V/DomeinC ",
+		"prefix": "GTC/V/DomeinC",
 		"id": "7e01afa1-28e5-48f5-9fa3-26ea5278db73",
 		"title": "Domein C: Zelfstandige oordeelsvorming",
 		"examenprogramma_eindterm_id": [
@@ -2848,7 +2848,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "GTC/V/DomeinD ",
+		"prefix": "GTC/V/DomeinD",
 		"id": "6e6ae4fb-ef2d-46a7-a99c-2801900d545f",
 		"title": "Domein D: Oriëntatie op studie en beroep",
 		"examenprogramma_eindterm_id": [
@@ -2857,7 +2857,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "GTC/V/DomeinE ",
+		"prefix": "GTC/V/DomeinE",
 		"id": "bc794bbc-ae84-48f7-a2f4-0170f104b2bb",
 		"title": "Domein E: Informatievaardigheden",
 		"examenprogramma_eindterm_id": [
@@ -3220,7 +3220,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "FI/V/DomeinA ",
+		"prefix": "FI/V/DomeinA",
 		"id": "05c65929-da64-4974-b769-244e65dd99ce",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -3231,7 +3231,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "FI/V/DomeinB ",
+		"prefix": "FI/V/DomeinB",
 		"id": "4022a68e-526e-420f-9ddc-81d9b204f1e3",
 		"title": "Domein B: Wijsgerige antropologie",
 		"examenprogramma_subdomein_id": [
@@ -3253,7 +3253,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "FI/V/DomeinD ",
+		"prefix": "FI/V/DomeinD",
 		"id": "afead706-774a-40b4-9abc-9be6d2793f0a",
 		"title": "Domein D: Kennisleer",
 		"examenprogramma_subdomein_id": [
@@ -3264,7 +3264,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "FI/V/DomeinE ",
+		"prefix": "FI/V/DomeinE",
 		"id": "655953eb-223b-416d-b2f1-5f5a6fea8296",
 		"title": "Domein E: Wetenschapsfilosofie",
 		"examenprogramma_subdomein_id": [
@@ -3275,7 +3275,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "FI/H/DomeinA ",
+		"prefix": "FI/H/DomeinA",
 		"id": "7032b1de-5150-4f8f-bc66-228601b15ce0",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
@@ -3286,7 +3286,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "FI/H/DomeinB ",
+		"prefix": "FI/H/DomeinB",
 		"id": "fcbaa79b-3dac-4f7e-9932-f1aae8cd1667",
 		"title": "Domein B: Wijsgerige antropologie",
 		"examenprogramma_subdomein_id": [
@@ -3297,7 +3297,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "FI/H/DomeinC ",
+		"prefix": "FI/H/DomeinC",
 		"id": "f97d9ea8-ea6f-43fa-b0be-f5206123d00d",
 		"title": "Domein C: Ethiek",
 		"examenprogramma_subdomein_id": [
@@ -5891,7 +5891,7 @@
 	{
 		"prefix": "MAW/V/DomeinG",
 		"id": "f94e1efb-1e6b-4300-898b-497cd40b82c9",
-		"title": "Domein G: Analyse van/onderzoek doen naar een politieke actualiteit (binnen een specifieke context) ",
+		"title": "Domein G: Analyse van/onderzoek doen naar een politieke actualiteit (binnen een specifieke context)",
 		"examenprogramma_subdomein_id": [
 			"e4e02540-8204-410e-9676-80558c370712",
 			"a6a5660b-fad4-4f3c-9fd3-51214b9d8212",
@@ -7699,7 +7699,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "SK/V/DomeinC ",
+		"prefix": "SK/V/DomeinC",
 		"id": "8c78cb5d-faa2-474f-a882-75a25eabab05",
 		"title": "Domein C: Chemische processen en behoudswetten",
 		"examenprogramma_subdomein_id": [
@@ -7721,7 +7721,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "SK/V/DomeinD ",
+		"prefix": "SK/V/DomeinD",
 		"id": "12bf4b3c-24c0-4a5b-ab1d-39864e06c424",
 		"title": "Domein D: Ontwikkelen van chemische kennis",
 		"examenprogramma_subdomein_id": [
@@ -7737,7 +7737,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "SK/V/DomeinE ",
+		"prefix": "SK/V/DomeinE",
 		"id": "a9349630-2a4c-4be3-a2e2-7ad53e5f09eb",
 		"title": "Domein E: Innovatie en chemisch onderzoek",
 		"examenprogramma_subdomein_id": [
@@ -7949,7 +7949,7 @@
 		"ce": 1
 	},
 	{
-		"prefix": "NA/V/DomeinE ",
+		"prefix": "NA/V/DomeinE",
 		"id": "1aa48496-dae8-4f19-986c-466e8d9de57d",
 		"title": "Domein E: Straling en materie",
 		"examenprogramma_subdomein_id": [
@@ -8470,7 +8470,7 @@
 		]
 	},
 	{
-		"prefix": "SK/V/DomeinG ",
+		"prefix": "SK/V/DomeinG",
 		"id": "6b808ff7-142b-4d68-a711-0259dbe97b47",
 		"title": "Domein G: Maatschappij, chemie en technologie",
 		"examenprogramma_subdomein_id": [
@@ -8932,7 +8932,7 @@
 		"se": 1
 	},
 	{
-		"prefix": "BIO/H/DomeinA ",
+		"prefix": "BIO/H/DomeinA",
 		"id": "10058b33-2ae3-4d3a-b7f8-18c594ac88e7",
 		"title": "Domein A: Vaardigheden",
 		"examenprogramma_subdomein_id": [
