@@ -98,13 +98,6 @@
 		]
 	},
 	{
-		"id": "4b6dd90f-42e3-48ad-964a-aa5deea42127",
-		"title": "Lichamelijke opvoeding",
-		"vakleergebied_id": [
-			"4c78ac37-1937-4cc4-86e4-aa3192ef44db"
-		]
-	},
-	{
 		"id": "e94ef774-675a-43fd-bb07-3914025c7b6b",
 		"title": "Lichamelijke opvoeding 2",
 		"vakleergebied_id": [
@@ -123,13 +116,6 @@
 		"title": "Latijn",
 		"vakleergebied_id": [
 			"0f1daeda-c83f-41bf-ab2b-ca148761e66a"
-		]
-	},
-	{
-		"id": "69aaf8f5-d607-4823-9e1c-64c6038c1054",
-		"title": "Dans",
-		"vakleergebied_id": [
-			"39ae089f-d9e4-47c5-bd78-f40432efb958"
 		]
 	},
 	{
@@ -168,20 +154,6 @@
 		]
 	},
 	{
-		"id": "561769d0-9c63-40e8-b2e7-54bde96f7e9f",
-		"title": "Drama",
-		"vakleergebied_id": [
-			"926f1084-fb32-47ee-be2b-13b5dbb6ee36"
-		]
-	},
-	{
-		"id": "3023730d-db97-468e-b8d7-aa098399a7bd",
-		"title": "Culturele en kunstzinnige vorming",
-		"vakleergebied_id": [
-			"a70b035e-2c79-4b7d-81de-03678354cdc1"
-		]
-	},
-	{
 		"id": "9117aa6e-7810-442d-978f-5361e5b8e85d",
 		"title": "Chinees",
 		"vakleergebied_id": [
@@ -189,24 +161,10 @@
 		]
 	},
 	{
-		"id": "df7daeab-3f75-4a7a-9c6a-ff253f12d0bb",
-		"title": "Bewegen, sport en maatschappij",
-		"vakleergebied_id": [
-			"18361045-bd2b-4c50-9267-cd24dc3498bb"
-		]
-	},
-	{
 		"id": "0a4d1b78-0481-4662-9f5b-abaa156e8b05",
 		"title": "Biologie",
 		"vakleergebied_id": [
 			"41dd7292-3cce-411b-8097-11db8c875a89"
-		]
-	},
-	{
-		"id": "cda3e026-b19d-404a-ba01-d6fa3a5cfeb3",
-		"title": "Beeldende vorming",
-		"vakleergebied_id": [
-			"b608d97d-2846-4216-a3ea-925ab70cff17"
 		]
 	},
 	{
@@ -378,17 +336,6 @@
 		]
 	},
 	{
-		"id": "26c91003-dc09-4910-8d1b-411a18d10e2b",
-		"title": "Muziek",
-		"vakleergebied_id": [
-			"be10bbec-59a9-46a3-8061-43edfce17a76"
-		],
-		"replaces": [
-			"999510a3-f8ee-445b-a1e2-807ee9b2ccac",
-			"98572b3b-052f-4df0-ba49-e14aee04f944"
-		]
-	},
-	{
 		"id": "57845722-6231-4616-944a-115a75d67676",
 		"title": "Duits",
 		"vakleergebied_id": [
@@ -438,6 +385,78 @@
 		"replaces": [
 			"180c82c1-6805-4bc3-811e-e102e8ed7835",
 			"57ffd396-6bee-4868-b2be-f0304c29ef89"
+		]
+	},
+	{
+		"id": "9bb0eb81-af24-4ac6-82ca-7f376400be19",
+		"title": "Lichamelijke opvoeding",
+		"vakleergebied_id": [
+			"5a55333b-f763-48b2-9b72-7329c99811c1"
+		],
+		"replaces": [
+			"4b6dd90f-42e3-48ad-964a-aa5deea42127"
+		]
+	},
+	{
+		"id": "8cf5e55a-960b-4b29-ad9d-ad9ce80cc8f7",
+		"title": "Dans",
+		"vakleergebied_id": [
+			"b3b16270-0290-424e-8666-99d9b0a72fbe"
+		],
+		"replaces": [
+			"69aaf8f5-d607-4823-9e1c-64c6038c1054"
+		]
+	},
+	{
+		"id": "38b3afe5-9ac9-4d07-9605-2a3b386b3cfe",
+		"title": "Drama",
+		"vakleergebied_id": [
+			"6d063644-7b24-4725-b3f8-13b13b28d4cc"
+		],
+		"replaces": [
+			"561769d0-9c63-40e8-b2e7-54bde96f7e9f"
+		]
+	},
+	{
+		"id": "28f00d31-872b-4878-8354-3424b0f126f0",
+		"title": "Culturele en kunstzinnige vorming",
+		"vakleergebied_id": [
+			"973f0028-14ef-45f6-a96e-d42e6777365e"
+		],
+		"replaces": [
+			"3023730d-db97-468e-b8d7-aa098399a7bd"
+		]
+	},
+	{
+		"id": "22c3145a-e9d5-4153-8ec8-3ad9c4f29ce3",
+		"title": "Bewegen, sport en maatschappij",
+		"vakleergebied_id": [
+			"4870286a-83c7-4d9e-b78e-e3f4f285fef2"
+		],
+		"replaces": [
+			"df7daeab-3f75-4a7a-9c6a-ff253f12d0bb"
+		]
+	},
+	{
+		"id": "a25040fb-5e2e-42d4-90dd-64d39f82a70a",
+		"title": "Beeldende vorming",
+		"vakleergebied_id": [
+			"66a5c143-5008-4a29-abcc-9f75f91417e7"
+		],
+		"replaces": [
+			"cda3e026-b19d-404a-ba01-d6fa3a5cfeb3"
+		]
+	},
+	{
+		"id": "bea82824-e5fa-441e-a64e-6962f6d6e806",
+		"title": "Muziek",
+		"vakleergebied_id": [
+			"0b63e067-462e-4d5f-8d3b-1706ff57c555"
+		],
+		"replaces": [
+			"999510a3-f8ee-445b-a1e2-807ee9b2ccac",
+			"98572b3b-052f-4df0-ba49-e14aee04f944",
+			"26c91003-dc09-4910-8d1b-411a18d10e2b"
 		]
 	}
 ]
